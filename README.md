@@ -23,7 +23,7 @@
 |[SolidGPT](https://github.com/AI-Citizen/SolidGPT) | Chat everything with your code repository, ask repository-level code questions, and discuss your requirements. AI Scan and learning your code repository, provide you code repository level answer|
 |[GoLLIE 34B](https://huggingface.co/HiTZ/GoLLIE-34B) | zero-shot Information Extraction model for extracting information from unstructured data (CSV, JSON, and so on)|
 |[Arithmo-Mistral-7B](https://huggingface.co/akjindal53244/Arithmo-Mistral-7B) | Mistral 7B fine-tuned on math|
-|[]() | |
+|[GraphMaker](https://github.com/Graph-COM/GraphMaker) |a diffusion model capable of generating highly realisitc large attributed graphs. [original article](https://github.com/Graph-COM/GraphMaker) |
 |[]() | |
 |[]() | |
 |[]() | |
