@@ -4,8 +4,8 @@
 |Link|description|
 |---|---|
 |[Geographical erasure in language generation](https://www.amazon.science/publications/geographical-erasure-in-language-generation) | LLMs encode a vast amount of knowledge but it is not representative of all countries, Amazon shows how to mitigate this unbalance|
-|[]() | |
-|[]() | |
+|[Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback](https://arxiv.org/abs/2310.13595) | A deep dive in the history of  RLHF, potential issues and suggestions for new lines of research|
+|[AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://huggingface.co/papers/2310.12823) | Open-source models are inferior as AI agents when you need them as efficient controllers for complex tasks. This paper  highlights how to create efficient agent LLaMA-2  [models](https://huggingface.co/THUDM/agentlm-70b)|
 |[]() | |
 |[]() | |
 
