@@ -9,7 +9,7 @@
 |[The Foundation Model Transparency Index](https://hai.stanford.edu/news/introducing-foundation-model-transparency-index?utm_source=tldrai) | Stanford's new index rates the transparency of 10 foundation model companies and finds them lacking. The new index analyses 100 parameters, showing there is room for improvements|
 |[BotChat: Evaluating LLMs' Capabilities of Having Multi-Turn Dialogues](https://arxiv.org/abs/2310.13650v1) | evaluation of the ability of large language models (LLMs) to engage in human-like multi-turn conversations. |
 |[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289v1) | SALMONN understands text and audio at the same time, can be used for speech recognition and speech translation. [official code](https://github.com/bytedance/salmonn)|
-|[]() | |
+|[FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](http://haonanqiu.com/projects/FreeNoise.html?utm_source=tldrai) | While you can generate easily an image with diffusion creating a video is much more complex (consistency), this work allows generations up to 512 frames long [paper](https://arxiv.org/abs/2310.15169), [code](https://github.com/arthur-qiu/LongerCrafter)|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -22,6 +22,8 @@
 |[“Math is hard” — if you are an LLM – and why that matters](https://garymarcus.substack.com/p/math-is-hard-if-you-are-an-llm-and) | LLM success on math is still limited, especially if you just rely on a LLM|
 |[Apple Rumored to Follow ChatGPT With Generative AI Features on iPhone as Soon as iOS 18](https://www.macrumors.com/2023/10/19/apple-generative-ai-late-2024-jeff-pu/) |Apple plans to start implementing generative AI technology on the iPhone and iPad in late 2024 at the earliest according to analysts |
 |[Reddit can survive without search](https://www.theverge.com/2023/10/20/23925504/reddit-deny-force-log-in-see-posts-ai-companies-deals) | Reddit and other companies may stop crawlers (and be not find anymore on google search) if they do not find an agreement in generative AI|
+|[This new data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai) |A new tool lets artists add invisible changes to the pixels in their art before they upload it online so that if it’s scraped into an AI training set, it can cause the resulting model to break in chaotic and unpredictable ways.  |
+|[AI risk must be treated as seriously as climate crisis, says Google DeepMind chief](https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation) | Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -35,7 +37,8 @@
 |[GoLLIE 34B](https://huggingface.co/HiTZ/GoLLIE-34B) | zero-shot Information Extraction model for extracting information from unstructured data (CSV, JSON, and so on)|
 |[Arithmo-Mistral-7B](https://huggingface.co/akjindal53244/Arithmo-Mistral-7B) | Mistral 7B fine-tuned on math|
 |[GraphMaker](https://github.com/Graph-COM/GraphMaker) |a diffusion model capable of generating highly realisitc large attributed graphs. [original article](https://github.com/Graph-COM/GraphMaker) |
+|[Meta’s Habitat 3.0 simulates real-world environments for intelligent AI robot training](https://siliconangle.com/2023/10/20/metas-habitat-3-0-simulates-real-world-environments-intelligent-ai-robot-training/) |Researchers from Meta Platforms Inc.’s Fundamental Artificial Intelligence Research team said today they’re releasing a more advanced version of the AI simulation environment Habitat, which is used to teach robots how to interact with the physical world. |
+|[SAM-Med3D](https://github.com/uni-medical/sam-med3d) |the most comprehensive study to modify SAM for 3D medical images. Curated the most extensive volumetric medical dataset to date for training, boasting 131K 3D masks and 247 categories. [paper](https://arxiv.org/abs/2310.15161)|
 |[]() | |
 |[]() | |
 |[]() | |
-
