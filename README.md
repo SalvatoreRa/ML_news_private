@@ -12,7 +12,6 @@
 |[FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](http://haonanqiu.com/projects/FreeNoise.html?utm_source=tldrai) | While you can generate easily an image with diffusion creating a video is much more complex (consistency), this work allows generations up to 512 frames long [paper](https://arxiv.org/abs/2310.15169), [code](https://github.com/arthur-qiu/LongerCrafter)|
 |[]() | |
 |[]() | |
-|[]() | |
 
 ## News
 |Link|description|
@@ -24,7 +23,7 @@
 |[Reddit can survive without search](https://www.theverge.com/2023/10/20/23925504/reddit-deny-force-log-in-see-posts-ai-companies-deals) | Reddit and other companies may stop crawlers (and be not find anymore on google search) if they do not find an agreement in generative AI|
 |[This new data poisoning tool lets artists fight back against generative AI](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai) |A new tool lets artists add invisible changes to the pixels in their art before they upload it online so that if it’s scraped into an AI training set, it can cause the resulting model to break in chaotic and unpredictable ways.  |
 |[AI risk must be treated as seriously as climate crisis, says Google DeepMind chief](https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation) | Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence|
-|[]() | |
+|[Claude accessibility is expanded to 95 countries](https://twitter.com/AnthropicAI/status/1714025126516432996) | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -39,6 +38,14 @@
 |[GraphMaker](https://github.com/Graph-COM/GraphMaker) |a diffusion model capable of generating highly realisitc large attributed graphs. [original article](https://github.com/Graph-COM/GraphMaker) |
 |[Meta’s Habitat 3.0 simulates real-world environments for intelligent AI robot training](https://siliconangle.com/2023/10/20/metas-habitat-3-0-simulates-real-world-environments-intelligent-ai-robot-training/) |Researchers from Meta Platforms Inc.’s Fundamental Artificial Intelligence Research team said today they’re releasing a more advanced version of the AI simulation environment Habitat, which is used to teach robots how to interact with the physical world. |
 |[SAM-Med3D](https://github.com/uni-medical/sam-med3d) |the most comprehensive study to modify SAM for 3D medical images. Curated the most extensive volumetric medical dataset to date for training, boasting 131K 3D masks and 247 categories. [paper](https://arxiv.org/abs/2310.15161)|
+|[deepsparse](https://github.com/neuralmagic/deepsparse) | DeepSparse is a CPU inference runtime that takes advantage of sparsity to accelerate neural network inference. |
 |[]() | |
+|[]() | |
+|[]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[Emotional labor and its consequences](https://seths.blog/2023/10/emotional-labor-and-its-consequences/) | Emotional labor is what differentiate us frm AI |
 |[]() | |
 |[]() | |
