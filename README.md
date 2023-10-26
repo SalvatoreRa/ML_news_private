@@ -29,7 +29,7 @@
 |[Claude accessibility is expanded to 95 countries](https://twitter.com/AnthropicAI/status/1714025126516432996) | |
 |[IBM Presents NorthPole](https://research.ibm.com/blog/northpole-ibm-ai-chip) | a new chip much faster for AI and much more energy efficient|
 |[Perplexity raises new funding at $500 million valuation](https://techstartups.com/2023/10/24/ai-search-startup-perplexitys-valuation-climbs-to-500-million-after-new-funding-round-led-by-ivp/) | Perplexity is developing an AI-powered search engine competing with the likes of OpenAI’s ChatGPT and Google’s Bard. According to recent reports, Perplexity has been generating annual recurring revenue of $3 million as of this month.|
-|[]() | |
+|[AI rapidly diagnoses brain tumours during surgery](https://www.nature.com/articles/d41586-023-03072-9) |A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly. |
 |[]() | |
 |[]() | |
 
@@ -57,4 +57,5 @@
 |[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto) | A blog post that has ignited a strong debate in Silicon Valley about positive impact of technology|
 |[Peak Data](https://eastwind.substack.com/p/peak-data) | a blog post discussing what will happen if the internet is filled only with AI-generated data, this will lead probably to collapse of AI model trained on these data|
 |[Five Areas of AI Opportunity According to Snowflake’s Ahmad Khan](https://lsvp.com/five-areas-of-ai-opportunity-according-to-snowflakes-ahmad-khan/) |Lightspeed recently hosted the latest in its Generative AI series in Los Angeles, a fireside chat with Ahmad Khan, Head of AI/ML Strategy at Snowflake |
-|[]() | |
+|[An AI revolution is brewing in medicine. What will it look like?](https://www.nature.com/articles/d41586-023-03302-0) |Emerging generalist models could overcome some limitations of first-generation machine-learning tools for clinical use. |
+
