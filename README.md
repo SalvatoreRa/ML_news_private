@@ -10,6 +10,9 @@
 |[BotChat: Evaluating LLMs' Capabilities of Having Multi-Turn Dialogues](https://arxiv.org/abs/2310.13650v1) | evaluation of the ability of large language models (LLMs) to engage in human-like multi-turn conversations. |
 |[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289v1) | SALMONN understands text and audio at the same time, can be used for speech recognition and speech translation. [official code](https://github.com/bytedance/salmonn)|
 |[FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](http://haonanqiu.com/projects/FreeNoise.html?utm_source=tldrai) | While you can generate easily an image with diffusion creating a video is much more complex (consistency), this work allows generations up to 512 frames long [paper](https://arxiv.org/abs/2310.15169), [code](https://github.com/arthur-qiu/LongerCrafter)|
+|[PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/abs/2309.08872) | Finding information from pdfs (web pages or other multi-page structured documents) is more difficult than for regular text. Therefore researchers at Adobe Research have developed a model that is able to consider both the text and the structure of the document|
+|[VidChapters-7M: Video Chapters at Scale](https://antoyang.github.io/vidchapters.html) |Segmenting long videos into chapters enables users to quickly navigate to the information of their interest. Here the authors collected VidChapters-7M, a dataset of 817K user-chaptered videos including 7M chapters in total. |
+|[RLMRec: Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | In this article the authors enhanced a recommendation system with an LLM, resulting in better recommendations. [code here](https://github.com/hkuds/rlmrec)|
 |[]() | |
 |[]() | |
 
@@ -25,6 +28,8 @@
 |[AI risk must be treated as seriously as climate crisis, says Google DeepMind chief](https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation) | Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence|
 |[Claude accessibility is expanded to 95 countries](https://twitter.com/AnthropicAI/status/1714025126516432996) | |
 |[IBM Presents NorthPole](https://research.ibm.com/blog/northpole-ibm-ai-chip) | a new chip much faster for AI and much more energy efficient|
+|[Perplexity raises new funding at $500 million valuation](https://techstartups.com/2023/10/24/ai-search-startup-perplexitys-valuation-climbs-to-500-million-after-new-funding-round-led-by-ivp/) | Perplexity is developing an AI-powered search engine competing with the likes of OpenAI’s ChatGPT and Google’s Bard. According to recent reports, Perplexity has been generating annual recurring revenue of $3 million as of this month.|
+|[]() | |
 |[]() | |
 |[]() | |
 
@@ -40,6 +45,8 @@
 |[SAM-Med3D](https://github.com/uni-medical/sam-med3d) |the most comprehensive study to modify SAM for 3D medical images. Curated the most extensive volumetric medical dataset to date for training, boasting 131K 3D masks and 247 categories. [paper](https://arxiv.org/abs/2310.15161)|
 |[deepsparse](https://github.com/neuralmagic/deepsparse) | DeepSparse is a CPU inference runtime that takes advantage of sparsity to accelerate neural network inference. |
 |[ExecuTorch](https://pytorch.org/blog/pytorch-edge/) |PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch |
+|[Spelltest: AI-to-AI Testing for LLM Based Applications](https://github.com/artas728/spelltest) | Today's AI-driven applications largely depend on Large Language Models (LLMs) like GPT-4 to deliver innovative solutions. However, ensuring that they provide relevant and accurate responses in every situation is a challenge. Spelltest addresses this by simulating LLM responses using synthetic user personas and an evaluation technique to evaluate these responses automatically(but still requires human supervision).|
+|[]() | |
 |[]() | |
 |[]() | |
 
@@ -47,7 +54,7 @@
 |Link|description|
 |---|---|
 |[Emotional labor and its consequences](https://seths.blog/2023/10/emotional-labor-and-its-consequences/) | Emotional labor is what differentiate us from AI |
-|[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto) | A blog post that is ignited a strong debate in silicon valley about positive impact of technology|
+|[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto) | A blog post that has ignited a strong debate in Silicon Valley about positive impact of technology|
 |[]() | |
 |[]() | |
 |[]() | |
