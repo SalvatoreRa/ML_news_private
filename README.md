@@ -46,7 +46,7 @@
 |[deepsparse](https://github.com/neuralmagic/deepsparse) | DeepSparse is a CPU inference runtime that takes advantage of sparsity to accelerate neural network inference. |
 |[ExecuTorch](https://pytorch.org/blog/pytorch-edge/) |PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch |
 |[Spelltest: AI-to-AI Testing for LLM Based Applications](https://github.com/artas728/spelltest) | Today's AI-driven applications largely depend on Large Language Models (LLMs) like GPT-4 to deliver innovative solutions. However, ensuring that they provide relevant and accurate responses in every situation is a challenge. Spelltest addresses this by simulating LLM responses using synthetic user personas and an evaluation technique to evaluate these responses automatically(but still requires human supervision).|
-|[]() | |
+|[polyfire-js](https://github.com/polyfire-ai/polyfire-js) |An all-in-one managed backend for AI apps. Build AI apps from the frontend, very fast |
 |[]() | |
 |[]() | |
 
@@ -55,6 +55,6 @@
 |---|---|
 |[Emotional labor and its consequences](https://seths.blog/2023/10/emotional-labor-and-its-consequences/) | Emotional labor is what differentiate us from AI |
 |[The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto) | A blog post that has ignited a strong debate in Silicon Valley about positive impact of technology|
-|[]() | |
-|[]() | |
+|[Peak Data](https://eastwind.substack.com/p/peak-data) | a blog post discussing what will happen if the internet is filled only with AI-generated data, this will lead probably to collapse of AI model trained on these data|
+|[Five Areas of AI Opportunity According to Snowflake’s Ahmad Khan](https://lsvp.com/five-areas-of-ai-opportunity-according-to-snowflakes-ahmad-khan/) |Lightspeed recently hosted the latest in its Generative AI series in Los Angeles, a fireside chat with Ahmad Khan, Head of AI/ML Strategy at Snowflake |
 |[]() | |
