@@ -51,7 +51,7 @@
 |[ExecuTorch](https://pytorch.org/blog/pytorch-edge/) |PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch |
 |[Spelltest: AI-to-AI Testing for LLM Based Applications](https://github.com/artas728/spelltest) | Today's AI-driven applications largely depend on Large Language Models (LLMs) like GPT-4 to deliver innovative solutions. However, ensuring that they provide relevant and accurate responses in every situation is a challenge. Spelltest addresses this by simulating LLM responses using synthetic user personas and an evaluation technique to evaluate these responses automatically(but still requires human supervision).|
 |[polyfire-js](https://github.com/polyfire-ai/polyfire-js) |An all-in-one managed backend for AI apps. Build AI apps from the frontend, very fast |
-|[]() | |
+|[ToRA: A Tool-Integrated Reasoning Agent](https://github.com/microsoft/ToRA) |ToRA is a series of Tool-integrated Reasoning Agents designed to solve challenging mathematical reasoning problems by interacting with tools, e.g., computation libraries and symbolic solvers. ToRA series seamlessly integrate natural language reasoning with the utilization of external tools, thereby amalgamating the analytical prowess of language and the computational efficiency of external tools. |
 |[]() | |
 
 ## Perspectives
@@ -62,4 +62,4 @@
 |[Peak Data](https://eastwind.substack.com/p/peak-data) | a blog post discussing what will happen if the internet is filled only with AI-generated data, this will lead probably to collapse of AI model trained on these data|
 |[Five Areas of AI Opportunity According to Snowflake’s Ahmad Khan](https://lsvp.com/five-areas-of-ai-opportunity-according-to-snowflakes-ahmad-khan/) |Lightspeed recently hosted the latest in its Generative AI series in Los Angeles, a fireside chat with Ahmad Khan, Head of AI/ML Strategy at Snowflake |
 |[An AI revolution is brewing in medicine. What will it look like?](https://www.nature.com/articles/d41586-023-03302-0) |Emerging generalist models could overcome some limitations of first-generation machine-learning tools for clinical use. |
-
+|[The Convergence of Data & Software Engineering in the Age of AI](https://tomtunguz.com/data-engineering/) | This convergence signals how far data teams have evolved into core engineering teams. Machine learning’s demand for data has accelerated this movement because AI needs data to function.|
