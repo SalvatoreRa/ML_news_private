@@ -13,7 +13,8 @@
 |[PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/abs/2309.08872) | Finding information from pdfs (web pages or other multi-page structured documents) is more difficult than for regular text. Therefore researchers at Adobe Research have developed a model that is able to consider both the text and the structure of the document|
 |[VidChapters-7M: Video Chapters at Scale](https://antoyang.github.io/vidchapters.html) |Segmenting long videos into chapters enables users to quickly navigate to the information of their interest. Here the authors collected VidChapters-7M, a dataset of 817K user-chaptered videos including 7M chapters in total. |
 |[RLMRec: Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | In this article the authors enhanced a recommendation system with an LLM, resulting in better recommendations. [code here](https://github.com/hkuds/rlmrec)|
-|[]() | |
+|[CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images](https://arxiv.org/abs/2310.16825) | We assemble a dataset of Creative-Commons-licensed (CC) images, which we use to train a set of open diffusion models that are qualitatively competitive with Stable Diffusion 2 (SD2). [official code](https://github.com/mosaicml/diffusion)|
+|[LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836v1) | We propose LLM-FP4 for quantizing both weights and activations in large language models (LLMs) down to 4-bit floating-point values, in a post-training manner. Existing post-training quantization (PTQ) solutions are primarily integer-based and struggle with bit widths below 8 bits.[official code](https://github.com/nbasyl/llm-fp4)|
 |[]() | |
 
 ## News
@@ -30,6 +31,9 @@
 |[IBM Presents NorthPole](https://research.ibm.com/blog/northpole-ibm-ai-chip) | a new chip much faster for AI and much more energy efficient|
 |[Perplexity raises new funding at $500 million valuation](https://techstartups.com/2023/10/24/ai-search-startup-perplexitys-valuation-climbs-to-500-million-after-new-funding-round-led-by-ivp/) | Perplexity is developing an AI-powered search engine competing with the likes of OpenAI’s ChatGPT and Google’s Bard. According to recent reports, Perplexity has been generating annual recurring revenue of $3 million as of this month.|
 |[AI rapidly diagnoses brain tumours during surgery](https://www.nature.com/articles/d41586-023-03072-9) |A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly. |
+|[AI executive order on October 30](https://www.engadget.com/the-white-house-will-reportedly-reveal-a-sweeping-ai-executive-order-on-october-30-200558649.html) |The Biden Administration is reportedly set to unveil a broad executive order on artificial intelligence next week. |
+|[Lenovo and NVIDIA Announce Hybrid AI Solutions to Help Enterprises Quickly Adopt GenAI](https://nvidianews.nvidia.com/news/lenovo-nvidia-hybrid-ai) |New End-to-End Solutions Include Accelerated Systems, AI Software and Expert Services to Build and Deploy Domain-Specific AI Models with Ease |
+|[]() | |
 |[]() | |
 |[]() | |
 
