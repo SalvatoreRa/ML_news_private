@@ -15,6 +15,8 @@
 |[RLMRec: Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | In this article the authors enhanced a recommendation system with an LLM, resulting in better recommendations. [code here](https://github.com/hkuds/rlmrec)|
 |[CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images](https://arxiv.org/abs/2310.16825) | We assemble a dataset of Creative-Commons-licensed (CC) images, which we use to train a set of open diffusion models that are qualitatively competitive with Stable Diffusion 2 (SD2). [official code](https://github.com/mosaicml/diffusion)|
 |[LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836v1) | We propose LLM-FP4 for quantizing both weights and activations in large language models (LLMs) down to 4-bit floating-point values, in a post-training manner. Existing post-training quantization (PTQ) solutions are primarily integer-based and struggle with bit widths below 8 bits.[official code](https://github.com/nbasyl/llm-fp4)|
+|[Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://arxiv.org/abs/2310.17157) |For a specific input, only a small fraction of attention heads and MLP neurons are needed, while the rest can be "silenced" without changing the output. Deja Vu to speed up inference for large language models. exploiting "contextual sparsity" (finding small subsets of model parameters that are sufficient to compute the same output for a given input.).  This is unlike prior pruning methods that permanently remove parameters.  [official code](https://github.com/FMInference/DejaVu/tree/master) |
+|[]() | |
 |[]() | |
 
 ## News
