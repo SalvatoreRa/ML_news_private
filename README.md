@@ -1,5 +1,47 @@
 # ML_news_private
 
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+
+## News
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+
 # ML news: Week 23-29 October
 
 ## Research
