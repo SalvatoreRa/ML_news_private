@@ -54,7 +54,7 @@
 |[Spelltest: AI-to-AI Testing for LLM Based Applications](https://github.com/artas728/spelltest) | Today's AI-driven applications largely depend on Large Language Models (LLMs) like GPT-4 to deliver innovative solutions. However, ensuring that they provide relevant and accurate responses in every situation is a challenge. Spelltest addresses this by simulating LLM responses using synthetic user personas and an evaluation technique to evaluate these responses automatically(but still requires human supervision).|
 |[polyfire-js](https://github.com/polyfire-ai/polyfire-js) |An all-in-one managed backend for AI apps. Build AI apps from the frontend, very fast |
 |[ToRA: A Tool-Integrated Reasoning Agent](https://github.com/microsoft/ToRA) |ToRA is a series of Tool-integrated Reasoning Agents designed to solve challenging mathematical reasoning problems by interacting with tools, e.g., computation libraries and symbolic solvers. ToRA series seamlessly integrate natural language reasoning with the utilization of external tools, thereby amalgamating the analytical prowess of language and the computational efficiency of external tools. |
-|[]() | |
+|[Adala](https://github.com/HumanSignal/adala/) |Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. |
 
 ## Perspectives
 |Link|description|
