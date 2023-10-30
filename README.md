@@ -18,6 +18,7 @@
 |[Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://arxiv.org/abs/2310.17157) |For a specific input, only a small fraction of attention heads and MLP neurons are needed, while the rest can be "silenced" without changing the output. Deja Vu to speed up inference for large language models. exploiting "contextual sparsity" (finding small subsets of model parameters that are sufficient to compute the same output for a given input.).  This is unlike prior pruning methods that permanently remove parameters.  [official code](https://github.com/FMInference/DejaVu/tree/master) |
 |[ConvNets Match Vision Transformers at Scale](https://arxiv.org/abs/2310.16764) | Many researchers believe that ConvNets perform well on small or moderately sized datasets, but are not competitive with Vision Transformers when given access to datasets on the web-scale. The authors invested the same computer budget on a CNN to make a fair comparison with the vision transformers and they matched the performance|
 |[Llemma: An Open Language Model For Mathematics](https://arxiv.org/abs/2310.10631) |a large language model for mathematics, the authors show how using a small model in continuous pretraining you can beat bigger models on Math and STEM. [deep dive](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c) |
+|[Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944) | a 7B parameter model with competitive performance to ChatGPT on AlpacaEval|
 
 ## News
 |Link|description|
@@ -35,7 +36,6 @@
 |[AI rapidly diagnoses brain tumours during surgery](https://www.nature.com/articles/d41586-023-03072-9) |A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly. |
 |[AI executive order on October 30](https://www.engadget.com/the-white-house-will-reportedly-reveal-a-sweeping-ai-executive-order-on-october-30-200558649.html) |The Biden Administration is reportedly set to unveil a broad executive order on artificial intelligence next week. |
 |[Lenovo and NVIDIA Announce Hybrid AI Solutions to Help Enterprises Quickly Adopt GenAI](https://nvidianews.nvidia.com/news/lenovo-nvidia-hybrid-ai) |New End-to-End Solutions Include Accelerated Systems, AI Software and Expert Services to Build and Deploy Domain-Specific AI Models with Ease |
-|[]() | |
 |[]() | |
 |[]() | |
 
