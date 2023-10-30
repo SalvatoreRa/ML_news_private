@@ -5,8 +5,11 @@
 ## Research
 |Link|description|
 |---|---|
-|[An Emulator for Fine-Tuning Large Language Models using Small Language Models](https://arxiv.org/abs/2310.12962) |What would happen if we combined the knowledge learned by a large model during pre-training with the knowledge learned by a small model during fine-tuning (or vice versa)? Our experiments with EFT show that scaling up fine-tuning tends to improve helpfulness, while scaling up pre-training tends to improve factuality.  |
-|[Nearest Neighbor Guidance for Out-of-Distribution Detection](https://arxiv.org/abs/2309.14888v1) |Detecting out-of-distribution (OOD) or unfamiliar data samples is crucial for machine learning models deployed in open-world environments. NNguide can help the model in this setting, especially to identify unknown data |
+|[An Emulator for Fine-Tuning Large Language Models using Small Language Models](https://arxiv.org/abs/2310.12962) |What would happen if we combined the knowledge learned by a large model during pre-training with the knowledge learned by a small model during fine-tuning (or vice versa)? Our experiments with EFT show that scaling up fine-tuning tends to improve helpfulness while scaling up pre-training tends to improve factuality.  |
+|[Nearest Neighbor Guidance for Out-of-Distribution Detection](https://arxiv.org/abs/2309.14888v1) |Detecting out-of-distribution (OOD) or unfamiliar data samples is crucial for machine learning models deployed in open-world environments. NNguide can help the model in this setting, especially in identifying unknown data. [Code for the benchmark](https://github.com/jingkang50/openood),[Code for the method](https://github.com/roomo7time/nnguide) |
+|[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | Using a sparse autoencoder, we extract a large number of interpretable features from a one-layer transformer.|
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -18,7 +21,8 @@
 |[Google commits to invest $2 billion in OpenAI competitor Anthropic](https://www.cnbc.com/2023/10/27/google-commits-to-invest-2-billion-in-openai-competitor-anthropic.html) | Google
  agreed to invest up to $2 billion in Anthropic, the artificial intelligence startup founded by ex-OpenAI executives, CNBC has confirmed.|
 |[Amazon rolls out AI-powered image generation]() |Amazon Ads has introduced an AI-powered image generation feature in beta. Without technical skills, brands can now create more engaging ads |
-|[]() | |
+|[Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) | Multi-modal prompt injection image attacks against GPT-4V
+GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your conversations. It’s absolutely brilliant. It also provides a whole new set of vectors for prompt injection attacks.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -26,9 +30,9 @@
 ## Resources
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
-|[]() | |
+|[Audioflare](https://github.com/seanoliver/audioflare) | An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.|
+|[JudgeLM: Fine-tuned Large Language Models are Scalable Judges](https://github.com/baaivision/judgelm) | JudgeLM is an open platform for training, serving, and evaluating scalable large language model|
+|[Deep learning in Rust](https://burn.dev/book/) | Rust is a popular language and Burn is a framework to use ML in Rust. Now, you have a free book to learn burn in rust. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -36,8 +40,8 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[Thanks to AI, the future of programming may involve YELLING IN ALL CAPS](https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps) |Politeness and emphasis play a surprising role in AI-model communications. Some OpenAI internal prompts are leaked, showing that using caps-lock for important words and adding please is a surprisingly efficient technique|
+|[Is AI alignment on track? Is it progressing... too fast?](https://guzey.com/ai/alignment-on-track/) | We do not have concrete benchmarks about alignment, this is feeding a narrative of fear and doom. but it is true? Without serious study we cannot now, this blog post discuss it in details  |
 |[]() | |
 |[]() | |
 |[]() | |
