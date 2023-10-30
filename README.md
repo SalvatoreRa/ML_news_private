@@ -5,8 +5,8 @@
 ## Research
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[An Emulator for Fine-Tuning Large Language Models using Small Language Models](https://arxiv.org/abs/2310.12962) |What would happen if we combined the knowledge learned by a large model during pre-training with the knowledge learned by a small model during fine-tuning (or vice versa)? Our experiments with EFT show that scaling up fine-tuning tends to improve helpfulness, while scaling up pre-training tends to improve factuality.  |
+|[Nearest Neighbor Guidance for Out-of-Distribution Detection](https://arxiv.org/abs/2309.14888v1) |Detecting out-of-distribution (OOD) or unfamiliar data samples is crucial for machine learning models deployed in open-world environments. NNguide can help the model in this setting, especially to identify unknown data |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -15,8 +15,9 @@
 ## News
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[Google commits to invest $2 billion in OpenAI competitor Anthropic](https://www.cnbc.com/2023/10/27/google-commits-to-invest-2-billion-in-openai-competitor-anthropic.html) | Google
+ agreed to invest up to $2 billion in Anthropic, the artificial intelligence startup founded by ex-OpenAI executives, CNBC has confirmed.|
+|[Amazon rolls out AI-powered image generation]() |Amazon Ads has introduced an AI-powered image generation feature in beta. Without technical skills, brands can now create more engaging ads |
 |[]() | |
 |[]() | |
 |[]() | |
