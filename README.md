@@ -23,6 +23,8 @@
 |[Amazon rolls out AI-powered image generation]() |Amazon Ads has introduced an AI-powered image generation feature in beta. Without technical skills, brands can now create more engaging ads |
 |[Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) | Multi-modal prompt injection image attacks against GPT-4V
 GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your conversations. It’s absolutely brilliant. It also provides a whole new set of vectors for prompt injection attacks.|
+|[Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards) |The executive order builds on non-binding agreements the White House made with AI companies. |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
