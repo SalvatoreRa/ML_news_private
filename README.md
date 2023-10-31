@@ -24,8 +24,8 @@
 |[Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) | Multi-modal prompt injection image attacks against GPT-4V
 GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your conversations. It’s absolutely brilliant. It also provides a whole new set of vectors for prompt injection attacks.|
 |[Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards) |The executive order builds on non-binding agreements the White House made with AI companies. |
-|[]() | |
-|[]() | |
+|[A group behind Stable Diffusion wants to open source emotion-detecting AI](https://techcrunch.com/2023/10/27/a-group-behind-stable-diffusion-wants-to-open-source-emotion-detecting-ai/) | The group wants to open source the Empathic project. This in order to improve AI-human interaction|
+|[Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024](https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/) |Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024 |
 |[]() | |
 |[]() | |
 
@@ -36,6 +36,11 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[JudgeLM: Fine-tuned Large Language Models are Scalable Judges](https://github.com/baaivision/judgelm) | JudgeLM is an open platform for training, serving, and evaluating scalable large language model|
 |[Deep learning in Rust](https://burn.dev/book/) | Rust is a popular language and Burn is a framework to use ML in Rust. Now, you have a free book to learn burn in rust. |
 |[LLM Collection](https://www.promptingguide.ai/models/collection) | a collection and summary of notable and foundational LLMs|
+|[Leveraging Embeddings and Clustering Techniques in Computer Vision](https://blog.roboflow.com/embeddings-clustering-computer-vision-clip-umap/) | How to use CLIP to cluster images|
+|[Training LLMs at Scale with AMD MI250 GPUs](https://www.databricks.com/blog/training-llms-scale-amd-mi250-gpus) | Everyone uses NVIDIA, this post discuss how to train a LLM with AMD GPU |
+|[ICTC: Image Clustering Conditioned on Text Criteria](https://github.com/sehyunkwon/ictc) |New methodology for performing image clustering based on user-specified criteria in the form of text  [paper](https://arxiv.org/abs/2310.18297)|
+|[Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |Transcribe 300 minutes (5 hours) of audio in less than 10 minutes - with OpenAI's Whisper Large v2.  |
+|[magentic](https://github.com/jackmpcollins/magentic) | Easily integrate Large Language Models into your Python code. Simply use the @prompt decorator to create functions that return structured output from the LLM. Mix LLM queries and function calling with regular Python code to create complex logic.|
 |[]() | |
 |[]() | |
 
@@ -45,7 +50,7 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[Thanks to AI, the future of programming may involve YELLING IN ALL CAPS](https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps) |Politeness and emphasis play a surprising role in AI-model communications. Some OpenAI internal prompts are leaked, showing that using caps-lock for important words and adding please is a surprisingly efficient technique|
 |[Is AI alignment on track? Is it progressing... too fast?](https://guzey.com/ai/alignment-on-track/) | We do not have concrete benchmarks about alignment, this is feeding a narrative of fear and doom. but it is true? Without serious study, we cannot know, this blog post discusses it in detail  |
 |[The White House Is Preparing for an AI-Dominated Future](https://www.theatlantic.com/technology/archive/2023/10/biden-white-house-ai-executive-order/675837/) |The Atlantic perspective on the new bill: "President Biden’s big swing on AI is as impressive and confusing as the technology itself." |
-|[]() | |
+|[The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack) |The infrastructure layer in AI is rapidly changing |
 |[]() | |
 |[]() | |
 
