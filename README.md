@@ -33,7 +33,7 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[Audioflare](https://github.com/seanoliver/audioflare) | An all-in-one AI audio playground using Cloudflare AI Workers to transcribe, analyze, summarize, and translate any audio file.|
 |[JudgeLM: Fine-tuned Large Language Models are Scalable Judges](https://github.com/baaivision/judgelm) | JudgeLM is an open platform for training, serving, and evaluating scalable large language model|
 |[Deep learning in Rust](https://burn.dev/book/) | Rust is a popular language and Burn is a framework to use ML in Rust. Now, you have a free book to learn burn in rust. |
-|[]() | |
+|[LLM Collection](https://www.promptingguide.ai/models/collection) | a collection and summary of notable and foundational LLMs|
 |[]() | |
 |[]() | |
 
@@ -41,8 +41,8 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |Link|description|
 |---|---|
 |[Thanks to AI, the future of programming may involve YELLING IN ALL CAPS](https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps) |Politeness and emphasis play a surprising role in AI-model communications. Some OpenAI internal prompts are leaked, showing that using caps-lock for important words and adding please is a surprisingly efficient technique|
-|[Is AI alignment on track? Is it progressing... too fast?](https://guzey.com/ai/alignment-on-track/) | We do not have concrete benchmarks about alignment, this is feeding a narrative of fear and doom. but it is true? Without serious study we cannot now, this blog post discuss it in details  |
-|[]() | |
+|[Is AI alignment on track? Is it progressing... too fast?](https://guzey.com/ai/alignment-on-track/) | We do not have concrete benchmarks about alignment, this is feeding a narrative of fear and doom. but it is true? Without serious study, we cannot know, this blog post discusses it in detail  |
+|[The White House Is Preparing for an AI-Dominated Future](https://www.theatlantic.com/technology/archive/2023/10/biden-white-house-ai-executive-order/675837/) |The Atlantic perspective on the new bill: "President Biden’s big swing on AI is as impressive and confusing as the technology itself." |
 |[]() | |
 |[]() | |
 |[]() | |
