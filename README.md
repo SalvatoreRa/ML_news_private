@@ -9,8 +9,8 @@
 |[Nearest Neighbor Guidance for Out-of-Distribution Detection](https://arxiv.org/abs/2309.14888v1) |Detecting out-of-distribution (OOD) or unfamiliar data samples is crucial for machine learning models deployed in open-world environments. NNguide can help the model in this setting, especially in identifying unknown data. [Code for the benchmark](https://github.com/jingkang50/openood),[Code for the method](https://github.com/roomo7time/nnguide) |
 |[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | Using a sparse autoencoder, we extract a large number of interpretable features from a one-layer transformer.|
 |[AlphaFold update](https://www.isomorphiclabs.com/articles/a-glimpse-of-the-next-generation-of-alphafold?utm_source=tldrai) |AlphaFold’s update by Isomorphic (a spin-off from Google). A more powerful model that expand coverage beyond proteins |
-|[]() | |
-|[]() | |
+|[Mask Propagation for Efficient Video Semantic Segmentation](https://arxiv.org/abs/2310.18954v1) |a method for segmenting video content that reduces computational load by focusing on key frames and then predicting masks |
+|[Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V](https://arxiv.org/abs/2310.19061v1) | how well GPT-4 with Vision (GPT-4V) answers questions related to medical images? This study analyzes exactly this [offcial code](https://github.com/zhilingyan/gpt4v-medical-report) |
 |[]() | |
 |[]() | |
 
@@ -26,8 +26,8 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[A group behind Stable Diffusion wants to open source emotion-detecting AI](https://techcrunch.com/2023/10/27/a-group-behind-stable-diffusion-wants-to-open-source-emotion-detecting-ai/) | The group wants to open source the Empathic project. This in order to improve AI-human interaction|
 |[Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024](https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/) |Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024 |
 |[Artists Lose First Round of Copyright Infringement Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/) | While a federal judge advanced an infringement claim against Stability AI, he dismissed the rest of the lawsuit.|
-|[]() | |
-|[]() | |
+|[Hackers Are Weaponizing AI to Improve a Favorite Attack](https://themessenger.com/tech/hackers-artificial-intelligence-phishing-scams-attacks) |Phishing attacks are already devastatingly successful. What happens when artificial intelligence makes them even harder to spot? |
+|[Chinese tech giant Alibaba launches upgraded AI model to challenge Microsoft, Amazon](https://www.cnbc.com/2023/10/31/alibaba-launches-upgraded-ai-model-to-challenge-microsoft-amazon.html) |Alibaba on Tuesday launched the latest version of its artificial intelligence model (Tongyi Qianwen 2.0, its latest large language model), as the Chinese technology giant looks to compete with U.S. rivals like Amazon and Microsoft. |
 |[]() | |
 |[]() | |
 
@@ -43,6 +43,8 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[ICTC: Image Clustering Conditioned on Text Criteria](https://github.com/sehyunkwon/ictc) |New methodology for performing image clustering based on user-specified criteria in the form of text  [paper](https://arxiv.org/abs/2310.18297)|
 |[Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |Transcribe 300 minutes (5 hours) of audio in less than 10 minutes - with OpenAI's Whisper Large v2.  |
 |[magentic](https://github.com/jackmpcollins/magentic) | Easily integrate Large Language Models into your Python code. Simply use the @prompt decorator to create functions that return structured output from the LLM. Mix LLM queries and function calling with regular Python code to create complex logic.|
+|[PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising](https://github.com/HyemiEsme/PUCA) |  a new self-supervised denoising approach with incredible performances |
+|[]() | |
 |[]() | |
 |[]() | |
 
@@ -53,7 +55,11 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[Is AI alignment on track? Is it progressing... too fast?](https://guzey.com/ai/alignment-on-track/) | We do not have concrete benchmarks about alignment, this is feeding a narrative of fear and doom. but it is true? Without serious study, we cannot know, this blog post discusses it in detail  |
 |[The White House Is Preparing for an AI-Dominated Future](https://www.theatlantic.com/technology/archive/2023/10/biden-white-house-ai-executive-order/675837/) |The Atlantic perspective on the new bill: "President Biden’s big swing on AI is as impressive and confusing as the technology itself." |
 |[The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack) |The infrastructure layer in AI is rapidly changing |
-|[Ilya Sutskever, OpenAI’s chief scientist, on his hopes and fears for the future of AI](https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai) | |
+|[Ilya Sutskever, OpenAI’s chief scientist, on his hopes and fears for the future of AI](https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai) | Interviewer to one of the most famous AI researcher |
+|[How Amazon and Berkshire got too big](https://every.to/napkin-math/death-of-a-flywheel) | a perspective about threats the business growth |
+|[Seismic Waves of Gen Z Behavior](https://www.digitalnative.tech/p/seismic-waves-of-gen-z-behavior) | A perspective on how generation z is changing the industries and the market. |
+|[Andrew NG warns big tech mount on AI fear to stop competition](https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10) |A leading AI expert and Google Brain cofounder said Big Tech companies were stoking fears about the technology's risks to shut down competition. |
+|[]() | |
 |[]() | |
 
 # ML news: Week 23-29 October
@@ -94,8 +100,6 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[AI rapidly diagnoses brain tumours during surgery](https://www.nature.com/articles/d41586-023-03072-9) |A machine-learning method to assess DNA can accurately classify brain tumours in real time. This rapid analysis might help surgeons to identify the tumour type when operating and to adjust their surgical strategy accordingly. |
 |[AI executive order on October 30](https://www.engadget.com/the-white-house-will-reportedly-reveal-a-sweeping-ai-executive-order-on-october-30-200558649.html) |The Biden Administration is reportedly set to unveil a broad executive order on artificial intelligence next week. |
 |[Lenovo and NVIDIA Announce Hybrid AI Solutions to Help Enterprises Quickly Adopt GenAI](https://nvidianews.nvidia.com/news/lenovo-nvidia-hybrid-ai) |New End-to-End Solutions Include Accelerated Systems, AI Software and Expert Services to Build and Deploy Domain-Specific AI Models with Ease |
-|[]() | |
-|[]() | |
 
 ## Resources
 |Link|description|
