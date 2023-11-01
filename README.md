@@ -8,8 +8,7 @@
 |[An Emulator for Fine-Tuning Large Language Models using Small Language Models](https://arxiv.org/abs/2310.12962) |What would happen if we combined the knowledge learned by a large model during pre-training with the knowledge learned by a small model during fine-tuning (or vice versa)? Our experiments with EFT show that scaling up fine-tuning tends to improve helpfulness while scaling up pre-training tends to improve factuality.  |
 |[Nearest Neighbor Guidance for Out-of-Distribution Detection](https://arxiv.org/abs/2309.14888v1) |Detecting out-of-distribution (OOD) or unfamiliar data samples is crucial for machine learning models deployed in open-world environments. NNguide can help the model in this setting, especially in identifying unknown data. [Code for the benchmark](https://github.com/jingkang50/openood),[Code for the method](https://github.com/roomo7time/nnguide) |
 |[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | Using a sparse autoencoder, we extract a large number of interpretable features from a one-layer transformer.|
-|[]() | |
-|[]() | |
+|[AlphaFold update](https://www.isomorphiclabs.com/articles/a-glimpse-of-the-next-generation-of-alphafold?utm_source=tldrai) |AlphaFold’s update by Isomorphic (a spin-off from Google). A more powerful model that expand coverage beyond proteins |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -26,6 +25,9 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards) |The executive order builds on non-binding agreements the White House made with AI companies. |
 |[A group behind Stable Diffusion wants to open source emotion-detecting AI](https://techcrunch.com/2023/10/27/a-group-behind-stable-diffusion-wants-to-open-source-emotion-detecting-ai/) | The group wants to open source the Empathic project. This in order to improve AI-human interaction|
 |[Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024](https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/) |Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024 |
+|[Artists Lose First Round of Copyright Infringement Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/) | While a federal judge advanced an infringement claim against Stability AI, he dismissed the rest of the lawsuit.|
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 
@@ -51,7 +53,7 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[Is AI alignment on track? Is it progressing... too fast?](https://guzey.com/ai/alignment-on-track/) | We do not have concrete benchmarks about alignment, this is feeding a narrative of fear and doom. but it is true? Without serious study, we cannot know, this blog post discusses it in detail  |
 |[The White House Is Preparing for an AI-Dominated Future](https://www.theatlantic.com/technology/archive/2023/10/biden-white-house-ai-executive-order/675837/) |The Atlantic perspective on the new bill: "President Biden’s big swing on AI is as impressive and confusing as the technology itself." |
 |[The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack) |The infrastructure layer in AI is rapidly changing |
-|[]() | |
+|[Ilya Sutskever, OpenAI’s chief scientist, on his hopes and fears for the future of AI](https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai) | |
 |[]() | |
 
 # ML news: Week 23-29 October
