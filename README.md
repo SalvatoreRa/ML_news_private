@@ -16,6 +16,10 @@
 |[]() | |
 |[]() | |
 |[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 
 ## News
 |Link|description|
@@ -36,6 +40,10 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[]() | |
 |[]() | |
 |[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 
 ## Resources
 |Link|description|
@@ -51,6 +59,13 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[magentic](https://github.com/jackmpcollins/magentic) | Easily integrate Large Language Models into your Python code. Simply use the @prompt decorator to create functions that return structured output from the LLM. Mix LLM queries and function calling with regular Python code to create complex logic.|
 |[PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising](https://github.com/HyemiEsme/PUCA) |  a new self-supervised denoising approach with incredible performances |
 |[LangChain Templates](https://github.com/langchain-ai/langchain/tree/master/templates) |LangChain Templates are the easiest and fastest way to build a production-ready LLM application. These templates serve as a set of reference architectures for a wide variety of popular LLM use cases. |
+|[how-to guide for LLaMA](https://ai.meta.com/llama/get-started/) | META has released a guide on how to get started with LLaMA |
+|[Fine-tuning Mistral on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb) | In this notebook and tutorial, we will fine-tune the Mistral 7B model with just 1 dollar|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 
@@ -66,6 +81,10 @@ GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your
 |[Seismic Waves of Gen Z Behavior](https://www.digitalnative.tech/p/seismic-waves-of-gen-z-behavior) | A perspective on how generation z is changing the industries and the market. |
 |[Andrew NG warns big tech mount on AI fear to stop competition](https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10) |A leading AI expert and Google Brain cofounder said Big Tech companies were stoking fears about the technology's risks to shut down competition. |
 |[Biden’s AI Order May Have Wide Impact For Startups](https://news.crunchbase.com/ai/biden-ai-executive-order-startups-impact/) | The new order can have a deep impact for start-up|
+|[What AI means for your product strategy](https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy) | 1 hour podcast about how AI will impact product strategy|
+|[4 Ways AI Is Changing Marketing](https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/) | How can AI be harnessed to drive more effective and efficient marketing? Forbes is discussing this|
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
