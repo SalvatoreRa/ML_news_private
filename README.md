@@ -61,7 +61,7 @@
 |[Amazon release Mistral 7B with longer context window](https://huggingface.co/amazon/MistralLite) | Amazon has used RoPE to extend the model context length to 32K. However, there is already a Mistral version with 128K (by Nous using the Yarn method) which you can find [here](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)|
 |[Tiger toolkit ](https://github.com/tigerlab-ai/tiger) | open-source resource for developers to create AI models and language applications tailored to their specific needs.|
 |[parameter-efficient-MOE](https://github.com/for-ai/parameter-efficient-moe) | Cohere has released the code base for training efficient mixture of experts (MOE)|
-|[]() | |
+|[ChatGPT-Powered Hierarchical Comparisons for Image Classification](https://arxiv.org/abs/2311.00206v1) |Conventional image classification approaches typically evaluate their performance on the same set of categories as their training data. However, this evaluation paradigm fails to capture the challenges in real-world scenarios, where classes in the test set are not overlapped with the training set. For this reason here a simple method using ChatGPT to create hierarchical classes [official code](https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification)|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -81,7 +81,7 @@
 |[Biden’s AI Order May Have Wide Impact For Startups](https://news.crunchbase.com/ai/biden-ai-executive-order-startups-impact/) | The new order can have a deep impact for start-up|
 |[What AI means for your product strategy](https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy) | 1 hour podcast about how AI will impact product strategy|
 |[4 Ways AI Is Changing Marketing](https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/) | How can AI be harnessed to drive more effective and efficient marketing? Forbes is discussing this|
-|[]() | |
+|[Sifting Through the Noise](https://maried.substack.com/p/sifting-through-the-noise) | We are in the ago of information overload and soon we can be flooded from AI generated content, how we survive? |
 |[]() | |
 |[]() | |
 |[]() | |
