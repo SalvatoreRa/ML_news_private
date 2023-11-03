@@ -15,7 +15,7 @@
 |[AI ‘breakthrough’: neural net has human-like ability to generalize languageAI ‘breakthrough’: neural net has human-like ability to generalize language](https://www.nature.com/articles/d41586-023-03272-3) | Systematic generalization is demonstrated by people’s ability to effortlessly use newly acquired words in new settings. [official article](https://www.nature.com/articles/s41586-023-06668-3)|
 |[Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks](https://arxiv.org/pdf/2310.19909.pdf) | This article benchmarks different pre-trained models on different computer vision tasks [official code](https://github.com/hsouri/Battle-of-the-Backbones)|
 |[The Foundation Model Transparency Index](https://arxiv.org/abs/2310.12941) |Stanford measured how transparent companies are true their Large Language Models (LLMs) and other foundation models. The results? there is a lot to improve. [deep dive](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c) |
-|[]() | |
+|[SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations](https://arxiv.org/abs/2311.00273v1) | Researchers developed a new method to improve empathy capabilities of large language models. This is can be very important for psychological counseling or medical application   [official code](https://github.com/scutcyr/soulchat) |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -41,7 +41,6 @@
 |[]() | |
 |[]() | |
 |[]() | |
-|[]() | |
 
 ## Resources
 |Link|description|
@@ -59,6 +58,7 @@
 |[LangChain Templates](https://github.com/langchain-ai/langchain/tree/master/templates) |LangChain Templates are the easiest and fastest way to build a production-ready LLM application. These templates serve as a set of reference architectures for a wide variety of popular LLM use cases. |
 |[how-to guide for LLaMA](https://ai.meta.com/llama/get-started/) | META has released a guide on how to get started with LLaMA |
 |[Fine-tuning Mistral on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb) | In this notebook and tutorial, we will fine-tune the Mistral 7B model with just 1 dollar|
+|[Amazon release Mistral 7B with longer context window](https://huggingface.co/amazon/MistralLite) | Amazon has used RoPE to extend the model context length to 32K. However, there is already a Mistral version with 128K (by Nous using the Yarn method) which you can find [here](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)|
 |[]() | |
 |[]() | |
 |[]() | |
