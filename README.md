@@ -35,8 +35,8 @@
 |[Chinese tech giant Alibaba launches upgraded AI model to challenge Microsoft, Amazon](https://www.cnbc.com/2023/10/31/alibaba-launches-upgraded-ai-model-to-challenge-microsoft-amazon.html) |Alibaba on Tuesday launched the latest version of its artificial intelligence model (Tongyi Qianwen 2.0, its latest large language model), as the Chinese technology giant looks to compete with U.S. rivals like Amazon and Microsoft. |
 |[Microsoft pushes the boundaries of small AI models with big breakthrough](https://www.semafor.com/article/11/01/2023/microsoft-pushes-the-boundaries-of-small-ai-models) |Microsoft researchers shared that the model, Phi 1.5, is now “multimodal,” meaning it can view and interpret images. Phi 1.5 is open source.|
 |[New techniques efficiently accelerate sparse tensors for massive AI models](https://www.eurekalert.org/news-releases/1006490) |Researchers from MIT and NVIDIA have developed two techniques that accelerate the processing of sparse tensors, a type of data structure that’s used for high-performance computing tasks. The complementary techniques could result in significant improvements to the performance and energy-efficiency of systems like the massive machine-learning models that drive generative artificial intelligence. |
-|[]() | |
-|[]() | |
+|[Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/) |Stability AI, the startup behind the text-to-image AI model Stable Diffusion, thinks 3D model creation tools could be the next big thing in generative AI. |
+|[UK invests $273 million in AI supercomputer as it seeks to compete with U.S., China](https://www.cnbc.com/2023/11/01/uk-to-invest-273-million-in-turing-ai-supercomputer.html) |The U.K. government said Wednesday that it will invest £225 million, or $273 million, into an AI supercomputer, highlighting the country’s ambition to lead in the technology as it races to catch up to the U.S. and China. |
 |[]() | |
 |[]() | |
 |[]() | |
