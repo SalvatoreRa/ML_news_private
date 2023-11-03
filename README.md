@@ -63,7 +63,7 @@
 |[parameter-efficient-MOE](https://github.com/for-ai/parameter-efficient-moe) | Cohere has released the code base for training efficient mixture of experts (MOE)|
 |[ChatGPT-Powered Hierarchical Comparisons for Image Classification](https://arxiv.org/abs/2311.00206v1) |Conventional image classification approaches typically evaluate their performance on the same set of categories as their training data. However, this evaluation paradigm fails to capture the challenges in real-world scenarios, where classes in the test set are not overlapped with the training set. For this reason here a simple method using ChatGPT to create hierarchical classes [official code](https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification)|
 |[talk-llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama) | Talk with an LLaMA AI in your terminal|
-|[]() | |
+|[What's In My Big Data?](https://arxiv.org/abs/2310.20707) |WIMBD platform analyzes content in text corpora, revealing duplicates, low-quality content, PII, toxicity, and benchmark contamination. [code will be release here](https://github.com/allenai/wimbd) |
 |[]() | |
 |[]() | |
 
