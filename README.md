@@ -59,8 +59,8 @@
 |[how-to guide for LLaMA](https://ai.meta.com/llama/get-started/) | META has released a guide on how to get started with LLaMA |
 |[Fine-tuning Mistral on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb) | In this notebook and tutorial, we will fine-tune the Mistral 7B model with just 1 dollar|
 |[Amazon release Mistral 7B with longer context window](https://huggingface.co/amazon/MistralLite) | Amazon has used RoPE to extend the model context length to 32K. However, there is already a Mistral version with 128K (by Nous using the Yarn method) which you can find [here](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)|
-|[]() | |
-|[]() | |
+|[Tiger toolkit ](https://github.com/tigerlab-ai/tiger) | open-source resource for developers to create AI models and language applications tailored to their specific needs.|
+|[parameter-efficient-MOE](https://github.com/for-ai/parameter-efficient-moe) | Cohere has released the code base for training efficient mixture of experts (MOE)|
 |[]() | |
 |[]() | |
 |[]() | |
