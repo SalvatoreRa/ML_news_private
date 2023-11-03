@@ -29,7 +29,7 @@
 |[Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) | Multi-modal prompt injection image attacks against GPT-4V. GPT4-V is the new mode of GPT-4 that allows you to upload images as part of your conversations. It’s absolutely brilliant. It also provides a whole new set of vectors for prompt injection attacks.|
 |[Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards) |The executive order builds on non-binding agreements the White House made with AI companies. |
 |[A group behind Stable Diffusion wants to open source emotion-detecting AI](https://techcrunch.com/2023/10/27/a-group-behind-stable-diffusion-wants-to-open-source-emotion-detecting-ai/) | The group wants to open source the Empathic project. This in order to improve AI-human interaction|
-|[Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024](https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/) |Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024 |
+|[Kuo: Apple Could Spend $4.75 Billion on AI Servers in 2024](https://www.macrumors.com/2023/10/23/apple-ai-server-spending-2024/) |Apple is expected to spend several billion on hardware to support its artificial intelligence development in 2024. Tim Cook has commented that they are spending quite a bit of money on AI (more details [here](https://www.macrumors.com/2023/11/02/tim-cook-generative-ai-comments/)) |
 |[Artists Lose First Round of Copyright Infringement Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/) | While a federal judge advanced an infringement claim against Stability AI, he dismissed the rest of the lawsuit.|
 |[Hackers Are Weaponizing AI to Improve a Favorite Attack](https://themessenger.com/tech/hackers-artificial-intelligence-phishing-scams-attacks) |Phishing attacks are already devastatingly successful. What happens when artificial intelligence makes them even harder to spot? |
 |[Chinese tech giant Alibaba launches upgraded AI model to challenge Microsoft, Amazon](https://www.cnbc.com/2023/10/31/alibaba-launches-upgraded-ai-model-to-challenge-microsoft-amazon.html) |Alibaba on Tuesday launched the latest version of its artificial intelligence model (Tongyi Qianwen 2.0, its latest large language model), as the Chinese technology giant looks to compete with U.S. rivals like Amazon and Microsoft. |
@@ -37,7 +37,7 @@
 |[New techniques efficiently accelerate sparse tensors for massive AI models](https://www.eurekalert.org/news-releases/1006490) |Researchers from MIT and NVIDIA have developed two techniques that accelerate the processing of sparse tensors, a type of data structure that’s used for high-performance computing tasks. The complementary techniques could result in significant improvements to the performance and energy-efficiency of systems like the massive machine-learning models that drive generative artificial intelligence. |
 |[Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/) |Stability AI, the startup behind the text-to-image AI model Stable Diffusion, thinks 3D model creation tools could be the next big thing in generative AI. |
 |[UK invests $273 million in AI supercomputer as it seeks to compete with U.S., China](https://www.cnbc.com/2023/11/01/uk-to-invest-273-million-in-turing-ai-supercomputer.html) |The U.K. government said Wednesday that it will invest £225 million, or $273 million, into an AI supercomputer, highlighting the country’s ambition to lead in the technology as it races to catch up to the U.S. and China. |
-|[]() | |
+|[The Beatles Just Released Their Final Song With The Help Of AI](https://futurism.com/the-byte/beatles-final-song-ai) | More than 50 years after their breakup, The Beatles have released their final song — and used AI to bring John Lennon's voice back to life.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -62,7 +62,7 @@
 |[Tiger toolkit ](https://github.com/tigerlab-ai/tiger) | open-source resource for developers to create AI models and language applications tailored to their specific needs.|
 |[parameter-efficient-MOE](https://github.com/for-ai/parameter-efficient-moe) | Cohere has released the code base for training efficient mixture of experts (MOE)|
 |[ChatGPT-Powered Hierarchical Comparisons for Image Classification](https://arxiv.org/abs/2311.00206v1) |Conventional image classification approaches typically evaluate their performance on the same set of categories as their training data. However, this evaluation paradigm fails to capture the challenges in real-world scenarios, where classes in the test set are not overlapped with the training set. For this reason here a simple method using ChatGPT to create hierarchical classes [official code](https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification)|
-|[]() | |
+|[talk-llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama) | Talk with an LLaMA AI in your terminal|
 |[]() | |
 |[]() | |
 |[]() | |
