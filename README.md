@@ -16,7 +16,7 @@
 |[Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks](https://arxiv.org/pdf/2310.19909.pdf) | This article benchmarks different pre-trained models on different computer vision tasks [official code](https://github.com/hsouri/Battle-of-the-Backbones)|
 |[The Foundation Model Transparency Index](https://arxiv.org/abs/2310.12941) |Stanford measured how transparent companies are true their Large Language Models (LLMs) and other foundation models. The results? there is a lot to improve. [deep dive](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c) |
 |[SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations](https://arxiv.org/abs/2311.00273v1) | Researchers developed a new method to improve empathy capabilities of large language models. This is can be very important for psychological counseling or medical application   [official code](https://github.com/scutcyr/soulchat) |
-|[]() | |
+|[Towards Foundation Models for Knowledge Graph Reasoning](https://github.com/DeepGraphLearning/ULTRA) | A foundation model for knowledge graphs which was actually missing[blog post from the authors](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)|
 |[]() | |
 |[]() | |
 |[]() | |
