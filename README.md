@@ -40,10 +40,22 @@
 |[]() | |
 |[]() | |
 |[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 
 ## News
 |Link|description|
 |---|---|
+|[OpenAI DevDay Buzz Includes Alleged Leak Of New ChatGPT Prototype. ](https://www.searchenginejournal.com/openai-devday-buzz-includes-alleged-leak-of-new-chatgpt-prototype/500122/) |"highlights: OpenAI could introduce major updates for developers, making it cheaper and faster to build AI-based applications. A rumored "Team" plan for ChatGPT could offer unlimited high-speed GPT-4, advanced data analysis, and more." |
+|[Google is extending its Vulnerability Rewards Program (VRP) to include generative AI. ](https://blog.google/technology/safety-security/google-ai-security-expansion/) | Today, we’re expanding our VRP to reward for attack scenarios specific to generative AI. As part of expanding VRP for AI, we’re taking a fresh look at how bugs should be categorized and reported. |
+|[Paper Digest: NeurIPS 2023 Highlights](https://www.paperdigest.org/2023/10/nips-2023-highlights/) | |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -54,10 +66,22 @@
 |[]() | |
 |[]() | |
 |[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 
 ## Perspectives
 |Link|description|
 |---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
