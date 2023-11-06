@@ -64,7 +64,7 @@
 |---|---|
 |[DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference. ](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | new software for competing with vLLM and text-generation interfaces for the fast serving of language models.|
 |[qdrant. ](https://github.com/qdrant/qdrant) |Qdrant (read: quadrant) is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and manage points—vectors with an additional payload Qdrant is tailored to extended filtering support. |
-|[]() | |
+|[Video2Music](https://github.com/amaai-lab/video2music) | Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model. [official article.](https://arxiv.org/abs/2311.00968)|
 |[]() | |
 |[]() | |
 |[]() | |
