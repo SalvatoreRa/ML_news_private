@@ -37,8 +37,7 @@
 ## Research
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) |hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -51,9 +50,9 @@
 |Link|description|
 |---|---|
 |[OpenAI DevDay Buzz Includes Alleged Leak Of New ChatGPT Prototype. ](https://www.searchenginejournal.com/openai-devday-buzz-includes-alleged-leak-of-new-chatgpt-prototype/500122/) |"highlights: OpenAI could introduce major updates for developers, making it cheaper and faster to build AI-based applications. A rumored "Team" plan for ChatGPT could offer unlimited high-speed GPT-4, advanced data analysis, and more." |
-|[Google is extending its Vulnerability Rewards Program (VRP) to include generative AI. ](https://blog.google/technology/safety-security/google-ai-security-expansion/) | Today, we’re expanding our VRP to reward for attack scenarios specific to generative AI. As part of expanding VRP for AI, we’re taking a fresh look at how bugs should be categorized and reported. |
-|[Paper Digest: NeurIPS 2023 Highlights](https://www.paperdigest.org/2023/10/nips-2023-highlights/) | |
-|[]() | |
+|[Google is extending its Vulnerability Rewards Program (VRP) to include generative AI. ](https://blog.google/technology/safety-security/google-ai-security-expansion/) | Today, we’re expanding our VRP to reward attack scenarios specific to generative AI. As part of expanding VRP for AI, we’re taking a fresh look at how bugs should be categorized and reported. |
+|[Paper Digest: NeurIPS 2023 Highlights. ](https://www.paperdigest.org/2023/10/nips-2023-highlights/) |Paper digest has analyzed more than 500/3500 papers. Interesting, but many articles are already been published for a while|
+|[HelixNet. ](https://huggingface.co/migtissera/HelixNet) |HelixNet is a Deep Learning architecture consisting of 3 x Mistral-7B LLMs. It has an actor, a critic, and a regenerator. The authors also used AI synthetic data. This approach showed impressive results. The model is available on HuggingFace |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -63,7 +62,8 @@
 ## Resources
 |Link|description|
 |---|---|
-|[]() | |
+|[DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference. ](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | new software for competing with vLLM and text-generation interfaces for the fast serving of language models.|
+|[qdrant. ](https://github.com/qdrant/qdrant) |Qdrant (read: quadrant) is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and manage points—vectors with an additional payload Qdrant is tailored to extended filtering support. |
 |[]() | |
 |[]() | |
 |[]() | |
