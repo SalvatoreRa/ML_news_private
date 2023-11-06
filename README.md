@@ -1,6 +1,69 @@
 # ML_news_private
 
+# scheme
 # ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## News
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+# ON WORKING
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## News
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+
+# ML news 30 October  -  5 November:
 
 ## Research
 |Link|description|
@@ -17,9 +80,7 @@
 |[The Foundation Model Transparency Index](https://arxiv.org/abs/2310.12941) |Stanford measured how transparent companies are true their Large Language Models (LLMs) and other foundation models. The results? there is a lot to improve. [deep dive](https://pub.towardsai.net/how-transparent-are-large-language-models-71dbb128a61c) |
 |[SoulChat: Improving LLMs' Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations](https://arxiv.org/abs/2311.00273v1) | Researchers developed a new method to improve empathy capabilities of large language models. This is can be very important for psychological counseling or medical application   [official code](https://github.com/scutcyr/soulchat) |
 |[Towards Foundation Models for Knowledge Graph Reasoning](https://github.com/DeepGraphLearning/ULTRA) | A foundation model for knowledge graphs which was actually missing[blog post from the authors](https://towardsdatascience.com/ultra-foundation-models-for-knowledge-graph-reasoning-9f8f4a0d7f09)|
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 ## News
 |Link|description|
@@ -38,9 +99,7 @@
 |[Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/) |Stability AI, the startup behind the text-to-image AI model Stable Diffusion, thinks 3D model creation tools could be the next big thing in generative AI. |
 |[UK invests $273 million in AI supercomputer as it seeks to compete with U.S., China](https://www.cnbc.com/2023/11/01/uk-to-invest-273-million-in-turing-ai-supercomputer.html) |The U.K. government said Wednesday that it will invest £225 million, or $273 million, into an AI supercomputer, highlighting the country’s ambition to lead in the technology as it races to catch up to the U.S. and China. |
 |[The Beatles Just Released Their Final Song With The Help Of AI](https://futurism.com/the-byte/beatles-final-song-ai) | More than 50 years after their breakup, The Beatles have released their final song — and used AI to bring John Lennon's voice back to life.|
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 ## Resources
 |Link|description|
@@ -64,8 +123,7 @@
 |[ChatGPT-Powered Hierarchical Comparisons for Image Classification](https://arxiv.org/abs/2311.00206v1) |Conventional image classification approaches typically evaluate their performance on the same set of categories as their training data. However, this evaluation paradigm fails to capture the challenges in real-world scenarios, where classes in the test set are not overlapped with the training set. For this reason here a simple method using ChatGPT to create hierarchical classes [official code](https://github.com/zhiyuan-r/chatgpt-powered-hierarchical-comparisons-for-image-classification)|
 |[talk-llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama) | Talk with an LLaMA AI in your terminal|
 |[What's In My Big Data?](https://arxiv.org/abs/2310.20707) |WIMBD platform analyzes content in text corpora, revealing duplicates, low-quality content, PII, toxicity, and benchmark contamination. [code will be release here](https://github.com/allenai/wimbd) |
-|[]() | |
-|[]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -82,11 +140,7 @@
 |[What AI means for your product strategy](https://www.lennysnewsletter.com/p/what-ai-means-for-your-product-strategy) | 1 hour podcast about how AI will impact product strategy|
 |[4 Ways AI Is Changing Marketing](https://www.forbes.com/sites/kimberlywhitler/2023/10/29/4-ways-ai-is-changing-marketing/) | How can AI be harnessed to drive more effective and efficient marketing? Forbes is discussing this|
 |[Sifting Through the Noise](https://maried.substack.com/p/sifting-through-the-noise) | We are in the ago of information overload and soon we can be flooded from AI generated content, how we survive? |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 # ML news: Week 23-29 October
 
