@@ -49,10 +49,12 @@
 ## News
 |Link|description|
 |---|---|
+|[Google Research scholar program. ](https://research.google/outreach/research-scholar-program/) |The Research Scholar Program aims to support early-career professors who are pursuing research in fields relevant to Google. |
 |[OpenAI DevDay Buzz Includes Alleged Leak Of New ChatGPT Prototype. ](https://www.searchenginejournal.com/openai-devday-buzz-includes-alleged-leak-of-new-chatgpt-prototype/500122/) |"highlights: OpenAI could introduce major updates for developers, making it cheaper and faster to build AI-based applications. A rumored "Team" plan for ChatGPT could offer unlimited high-speed GPT-4, advanced data analysis, and more." |
 |[Google is extending its Vulnerability Rewards Program (VRP) to include generative AI. ](https://blog.google/technology/safety-security/google-ai-security-expansion/) | Today, we’re expanding our VRP to reward attack scenarios specific to generative AI. As part of expanding VRP for AI, we’re taking a fresh look at how bugs should be categorized and reported. |
 |[Paper Digest: NeurIPS 2023 Highlights. ](https://www.paperdigest.org/2023/10/nips-2023-highlights/) |Paper digest has analyzed more than 500/3500 papers. Interesting, but many articles are already been published for a while|
 |[HelixNet. ](https://huggingface.co/migtissera/HelixNet) |HelixNet is a Deep Learning architecture consisting of 3 x Mistral-7B LLMs. It has an actor, a critic, and a regenerator. The authors also used AI synthetic data. This approach showed impressive results. The model is available on HuggingFace |
+|[ChatGPT Plus members can upload and analyze files in the latest beta. ](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis) |ChatGPT Plus members can also use modes like Browse with Bing without manually switching, letting the chatbot decide when to use them. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -65,8 +67,7 @@
 |[DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference. ](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen) | new software for competing with vLLM and text-generation interfaces for the fast serving of language models.|
 |[qdrant. ](https://github.com/qdrant/qdrant) |Qdrant (read: quadrant) is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and manage points—vectors with an additional payload Qdrant is tailored to extended filtering support. |
 |[Video2Music](https://github.com/amaai-lab/video2music) | Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model. [official article.](https://arxiv.org/abs/2311.00968)|
-|[]() | |
-|[]() | |
+|[Hacking Google Bard - From Prompt Injection to Data Exfiltration. ](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/) | Great post that explain what are the novel risk with generative AI plugins|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -76,8 +77,8 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[Data Pipeline Attacks](https://www.securerobotics.ai/blog/ai-data-pipeline-attacks) |An excerpt from Secure Intelligent Machines. In the future attacks will be focused on poisoning data or other components of the data pipeline. This blog post describes this issue and potential mitigation issues |
-|[Could Cruise be the Theranos of AI? And is there a dark secret at the core of the entire driverless car industry?](https://garymarcus.substack.com/p/could-cruise-be-the-theranos-of-ai) | Cruise is a driverless car company bought by General Motors. However, it seems that remote human interventions is needed in many cases|
+|[Data Pipeline Attacks. ](https://www.securerobotics.ai/blog/ai-data-pipeline-attacks) |An excerpt from Secure Intelligent Machines. In the future attacks will be focused on poisoning data or other components of the data pipeline. This blog post describes this issue and potential mitigation issues |
+|[Could Cruise be the Theranos of AI? And is there a dark secret at the core of the entire driverless car industry? ](https://garymarcus.substack.com/p/could-cruise-be-the-theranos-of-ai) | Cruise is a driverless car company bought by General Motors. However, it seems that remote human interventions is needed in many cases|
 |[]() | |
 |[]() | |
 |[]() | |
