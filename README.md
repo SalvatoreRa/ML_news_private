@@ -76,8 +76,8 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[Data Pipeline Attacks](https://www.securerobotics.ai/blog/ai-data-pipeline-attacks) |An excerpt from Secure Intelligent Machines. In the future attacks will be focused on poisoning data or other components of the data pipeline. This blog post describes this issue and potential mitigation issues |
+|[Could Cruise be the Theranos of AI? And is there a dark secret at the core of the entire driverless car industry?](https://garymarcus.substack.com/p/could-cruise-be-the-theranos-of-ai) | Cruise is a driverless car company bought by General Motors. However, it seems that remote human interventions is needed in many cases|
 |[]() | |
 |[]() | |
 |[]() | |
