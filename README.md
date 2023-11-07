@@ -38,7 +38,7 @@
 |Link|description|
 |---|---|
 |[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) |hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
-|[]() | |
+|[Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -55,6 +55,9 @@
 |[Paper Digest: NeurIPS 2023 Highlights. ](https://www.paperdigest.org/2023/10/nips-2023-highlights/) |Paper digest has analyzed more than 500/3500 papers. Interesting, but many articles are already been published for a while|
 |[HelixNet. ](https://huggingface.co/migtissera/HelixNet) |HelixNet is a Deep Learning architecture consisting of 3 x Mistral-7B LLMs. It has an actor, a critic, and a regenerator. The authors also used AI synthetic data. This approach showed impressive results. The model is available on HuggingFace |
 |[ChatGPT Plus members can upload and analyze files in the latest beta. ](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis) |ChatGPT Plus members can also use modes like Browse with Bing without manually switching, letting the chatbot decide when to use them. |
+|[OpenAI Dev day recap. ](https://openai.com/blog/new-models-and-developer-products-announced-at-devday) | A recap by OpenAI:New GPT-4 Turbo model that is more capable, cheaper and supports a 128K context window, New Assistants API that makes it easier for developers to build their own assistive AI apps. New multimodal capabilities in the platform, including vision, image creation (DALL·E 3), and text-to-speech (TTS)  |
+|[xAI  PromptIDE](https://x.ai/prompt-ide/) |Integrated development environment for prompt engineering and interpretability research, released by xAI |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -68,7 +71,7 @@
 |[qdrant. ](https://github.com/qdrant/qdrant) |Qdrant (read: quadrant) is a vector similarity search engine and vector database. It provides a production-ready service with a convenient API to store, search, and manage points—vectors with an additional payload Qdrant is tailored to extended filtering support. |
 |[Video2Music](https://github.com/amaai-lab/video2music) | Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model. [official article.](https://arxiv.org/abs/2311.00968)|
 |[Hacking Google Bard - From Prompt Injection to Data Exfiltration. ](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/) | Great post that explain what are the novel risk with generative AI plugins|
-|[]() | |
+|[RedPajama-Data-v2. ](https://together.ai/blog/redpajama-data-v2?utm_source=tldrai) | a new version of the RedPajama dataset, with 30 trillion filtered and deduplicated tokens (100+ trillions raw) from 84 CommonCrawl dumps covering 5 languages, along with 40+ pre-computed data quality annotations that can be used for further filtering and weighting. A dataset bigger than the one used for GPT-4 and already preprocessed|
 |[]() | |
 |[]() | |
 |[]() | |
