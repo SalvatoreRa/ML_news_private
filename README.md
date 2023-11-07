@@ -57,8 +57,8 @@
 |[ChatGPT Plus members can upload and analyze files in the latest beta. ](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis) |ChatGPT Plus members can also use modes like Browse with Bing without manually switching, letting the chatbot decide when to use them. |
 |[OpenAI Dev day recap. ](https://openai.com/blog/new-models-and-developer-products-announced-at-devday) | A recap by OpenAI:New GPT-4 Turbo model that is more capable, cheaper and supports a 128K context window, New Assistants API that makes it easier for developers to build their own assistive AI apps. New multimodal capabilities in the platform, including vision, image creation (DALL·E 3), and text-to-speech (TTS)  |
 |[xAI  PromptIDE](https://x.ai/prompt-ide/) |Integrated development environment for prompt engineering and interpretability research, released by xAI |
-|[]() | |
-|[]() | |
+|[ChatGPT continues to be one of the fastest-growing services ever ](https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference) | In less than a year, it’s hit 100 million weekly users, and over 2 million developers are currently building on the company’s API, including the majority of Fortune 500 companies. |
+|[Xbox partners with Inworld AI to build AI tools for game development. ](https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/) |Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -75,7 +75,7 @@
 |[LLM4Rec. ](https://github.com/yaochenzhu/llm4rec) |The proposed CLLM4Rec is the first recommender system that tightly combines the ID-based paradigm and LLM-based paradigm and leverages the advantages of both worlds. |
 |[consistencydecoder. ](https://github.com/openai/consistencydecoder) |OpenAI has released an Improved decoding for stable diffusion vaes. Consistency decoder  has reached the SOTA and it is nice they released also for stable diffusion |
 |[TopicGPT. ](https://github.com/chtmp223/topicgpt) |we introduce TopicGPT, a prompt-based framework that uses large language models (LLMs) to uncover latent topics within a provided text collection. TopicGPT produces topics that align better with human categorizations compared to competing methods. [official article](https://arxiv.org/abs/2311.01449). |
-|[](https://github.com/talreiss/factor) | |
+|[FACTOR. ](https://github.com/talreiss/factor) | an effective tool to detect deep fakes even without training. FACTOR leverages the discrepancy between false facts and their imperfect synthesis within deepfakes. By quantifying the similarity using the truth score, computed via cosine similarity, FACTOR effectively distinguishes between real and fake media, enabling robust detection of zero-day deepfake attacks. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -85,9 +85,9 @@
 |---|---|
 |[Data Pipeline Attacks. ](https://www.securerobotics.ai/blog/ai-data-pipeline-attacks) |An excerpt from Secure Intelligent Machines. In the future attacks will be focused on poisoning data or other components of the data pipeline. This blog post describes this issue and potential mitigation issues |
 |[Could Cruise be the Theranos of AI? And is there a dark secret at the core of the entire driverless car industry? ](https://garymarcus.substack.com/p/could-cruise-be-the-theranos-of-ai) | Cruise is a driverless car company bought by General Motors. However, it seems that remote human interventions is needed in many cases|
-|[]() | |
-|[]() | |
-|[]() | |
+|[Will generative AI transform business? ](https://www.ft.com/content/647fdf88-d757-45e4-a640-9654673b7ece) |Industries expect demand for quality control and human oversight of AI-generated content to grow |
+|[A minor ChatGPT update is a warning to founders: Big Tech can blow up your startup at any time. ](https://www.businessinsider.com/openai-chatgpt-pdfs-ai-startups-wrappers-2023-10) | Wrapping chatGPT as a core business is not a great idea.  chatGPT can now interact with PDF and let you ask questions which is blowing the business of small start-ups. It's a bleak reminder that swift rule changes by Big Tech firms can wreak havoc on smaller players.|
+|[Pixel Perfect: How AI Unlocks Creativity. ](https://www.digitalnative.tech/p/pixel-perfect-how-ai-unlocks-creativity) | AI, and creators are gaining momentum. Using the right tactics can increase it  |
 |[]() | |
 |[]() | |
 |[]() | |
