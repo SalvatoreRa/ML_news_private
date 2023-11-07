@@ -38,8 +38,8 @@
 |Link|description|
 |---|---|
 |[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) |hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
-|[Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation]() | |
-|[]() | |
+|[Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](https://arxiv.org/abs/2311.01117v1) | RGB-based surface anomaly detection methods have advanced significantly. However, certain surface anomalies remain practically invisible in RGB alone, necessitating the incorporation of 3D information. This new approach 3D data with RGB outperforms traditional methods for surface anomaly detection. [official code](https://github.com/vitjanz/3dsr). |
+|[Gaussian Mixture Solvers for Diffusion Models. ](https://arxiv.org/abs/2311.00941v1) | Recently, diffusion models have achieved great success in generative tasks. Gaussian mixture solvers improve the model both in speed and quality [official code](https://github.com/Guohanzhong/GMS).|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -72,7 +72,10 @@
 |[Video2Music](https://github.com/amaai-lab/video2music) | Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model. [official article.](https://arxiv.org/abs/2311.00968)|
 |[Hacking Google Bard - From Prompt Injection to Data Exfiltration. ](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/) | Great post that explain what are the novel risk with generative AI plugins|
 |[RedPajama-Data-v2. ](https://together.ai/blog/redpajama-data-v2?utm_source=tldrai) | a new version of the RedPajama dataset, with 30 trillion filtered and deduplicated tokens (100+ trillions raw) from 84 CommonCrawl dumps covering 5 languages, along with 40+ pre-computed data quality annotations that can be used for further filtering and weighting. A dataset bigger than the one used for GPT-4 and already preprocessed|
-|[]() | |
+|[LLM4Rec. ](https://github.com/yaochenzhu/llm4rec) |The proposed CLLM4Rec is the first recommender system that tightly combines the ID-based paradigm and LLM-based paradigm and leverages the advantages of both worlds. |
+|[consistencydecoder. ](https://github.com/openai/consistencydecoder) |OpenAI has released an Improved decoding for stable diffusion vaes. Consistency decoder  has reached the SOTA and it is nice they released also for stable diffusion |
+|[TopicGPT. ](https://github.com/chtmp223/topicgpt) |we introduce TopicGPT, a prompt-based framework that uses large language models (LLMs) to uncover latent topics within a provided text collection. TopicGPT produces topics that align better with human categorizations compared to competing methods. [official article](https://arxiv.org/abs/2311.01449). |
+|[](https://github.com/talreiss/factor) | |
 |[]() | |
 |[]() | |
 |[]() | |
