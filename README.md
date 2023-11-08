@@ -40,7 +40,7 @@
 |[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) |hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
 |[Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](https://arxiv.org/abs/2311.01117v1) | RGB-based surface anomaly detection methods have advanced significantly. However, certain surface anomalies remain practically invisible in RGB alone, necessitating the incorporation of 3D information. This new approach 3D data with RGB outperforms traditional methods for surface anomaly detection. [official code](https://github.com/vitjanz/3dsr). |
 |[Gaussian Mixture Solvers for Diffusion Models. ](https://arxiv.org/abs/2311.00941v1) | Recently, diffusion models have achieved great success in generative tasks. Gaussian mixture solvers improve the model both in speed and quality [official code](https://github.com/Guohanzhong/GMS).|
-|[]() | |
+|[PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://huggingface.co/papers/2310.00426) |This paper introduces PIXART-alpha, a Transformer-based T2I diffusion model whose image generation quality is competitive with state-of-the-art image generators. The model uses three elements:  T5 text encodings, cross attention, and a diffusion transformer|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -60,7 +60,7 @@
 |[ChatGPT continues to be one of the fastest-growing services ever ](https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference) | In less than a year, it’s hit 100 million weekly users, and over 2 million developers are currently building on the company’s API, including the majority of Fortune 500 companies. |
 |[Xbox partners with Inworld AI to build AI tools for game development. ](https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/) |Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation. |
 |[Nvidia Is Piloting a Generative AI for Its Engineers](https://spectrum.ieee.org/ai-for-engineering) |ChipNeMo summarizes bug reports, gives advice, and writes design-tool scripts |
-|[]() | |
+|[YouTube to test generative AI features](https://techcrunch.com/2023/11/06/youtube-to-test-generative-ai-features-including-a-comments-summarizer-and-conversational-tool/) | Users may test out a new conversational tool that utilizes artificial intelligence (AI) to respond to inquiries about YouTube content and provide suggestions, as well as a new feature that summarizes subjects in video comments, as part of the premium package offered to pay subscribers. |
 |[]() | |
 |[]() | |
 |[]() | |
