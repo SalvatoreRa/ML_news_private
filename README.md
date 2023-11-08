@@ -43,6 +43,8 @@
 |[PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis. ](https://huggingface.co/papers/2310.00426) |This paper introduces PIXART-alpha, a Transformer-based T2I diffusion model whose image generation quality is competitive with state-of-the-art image generators. The model uses three elements:  T5 text encodings, cross attention, and a diffusion transformer|
 |[Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch. ](https://arxiv.org/abs/2311.03099) |In this paper, we uncover that Language Models (LMs), either encoder- or decoder-based, can obtain new capabilities by assimilating the parameters of homologous models without retraining or GPUs. [official code](https://github.com/yule-buaa/mergelm). |
 |[An Efficient Self-Supervised Cross-View Training For Sentence Embedding](https://arxiv.org/abs/2311.03228v1) |Cross-View Training (SCT) allows efficient sentence embedding with small language models [official code](https://github.com/mrpeerat/sct).|
+|[A Systematic Review of Deep Graph Neural Networks: Challenges, Classification, Architectures, Applications & Potential Utility in Bioinformatics](https://arxiv.org/abs/2311.02127) |Apart from presenting all existing GNN models, mathematical analysis and comparison of the variants of all types of GNN have been highlighted in this survey. Graph neural networks are investigated for their potential real-world applications in various fields, focusing on Bioinformatics. |
+|[]() | |
 |[]() | |
 |[]() | |
 
