@@ -59,10 +59,14 @@
 |[xAI  PromptIDE](https://x.ai/prompt-ide/) |Integrated development environment for prompt engineering and interpretability research, released by xAI |
 |[ChatGPT continues to be one of the fastest-growing services ever ](https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference) | In less than a year, it’s hit 100 million weekly users, and over 2 million developers are currently building on the company’s API, including the majority of Fortune 500 companies. |
 |[Xbox partners with Inworld AI to build AI tools for game development. ](https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/) |Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation. |
+|[Nvidia Is Piloting a Generative AI for Its Engineers](https://spectrum.ieee.org/ai-for-engineering) |ChipNeMo summarizes bug reports, gives advice, and writes design-tool scripts |
 |[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
+|[]() | |
+|[]() | |
+
 
 ## Resources
 |Link|description|
