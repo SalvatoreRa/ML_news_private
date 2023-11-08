@@ -97,6 +97,10 @@
 |[Will generative AI transform business? ](https://www.ft.com/content/647fdf88-d757-45e4-a640-9654673b7ece) |Industries expect demand for quality control and human oversight of AI-generated content to grow |
 |[A minor ChatGPT update is a warning to founders: Big Tech can blow up your startup at any time. ](https://www.businessinsider.com/openai-chatgpt-pdfs-ai-startups-wrappers-2023-10) | Wrapping chatGPT as a core business is not a great idea.  chatGPT can now interact with PDF and let you ask questions which is blowing the business of small start-ups. It's a bleak reminder that swift rule changes by Big Tech firms can wreak havoc on smaller players.|
 |[Pixel Perfect: How AI Unlocks Creativity. ](https://www.digitalnative.tech/p/pixel-perfect-how-ai-unlocks-creativity) | AI, and creators are gaining momentum. Using the right tactics can increase it  |
+|[Almost an Agent: What GPTs can do](https://www.oneusefulthing.org/p/almost-an-agent-what-gpts-can-do) | GPT is almost an agent, but what actually an agent can do? For instance, write a scientific article by itself|
+|[Are language models good at making predictions?](https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions?) |It seems so. The article suggests GPT-4 really is better at making predictions for politics than for science or technology, even once the hardness of the questions are accounted for. |
+|[OpenAI Is A Lot More Vulnerable Than You Think](https://www.bigtechnology.com/p/openai-is-a-lot-more-vulnerable-than) |All the press, money, and awards in the world won’t prevent OpenAI from the cold reality of competition. |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
