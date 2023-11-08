@@ -40,9 +40,9 @@
 |[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) |hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
 |[Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](https://arxiv.org/abs/2311.01117v1) | RGB-based surface anomaly detection methods have advanced significantly. However, certain surface anomalies remain practically invisible in RGB alone, necessitating the incorporation of 3D information. This new approach 3D data with RGB outperforms traditional methods for surface anomaly detection. [official code](https://github.com/vitjanz/3dsr). |
 |[Gaussian Mixture Solvers for Diffusion Models. ](https://arxiv.org/abs/2311.00941v1) | Recently, diffusion models have achieved great success in generative tasks. Gaussian mixture solvers improve the model both in speed and quality [official code](https://github.com/Guohanzhong/GMS).|
-|[PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://huggingface.co/papers/2310.00426) |This paper introduces PIXART-alpha, a Transformer-based T2I diffusion model whose image generation quality is competitive with state-of-the-art image generators. The model uses three elements:  T5 text encodings, cross attention, and a diffusion transformer|
-|[]() | |
-|[]() | |
+|[PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis. ](https://huggingface.co/papers/2310.00426) |This paper introduces PIXART-alpha, a Transformer-based T2I diffusion model whose image generation quality is competitive with state-of-the-art image generators. The model uses three elements:  T5 text encodings, cross attention, and a diffusion transformer|
+|[Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch. ](https://arxiv.org/abs/2311.03099) |In this paper, we uncover that Language Models (LMs), either encoder- or decoder-based, can obtain new capabilities by assimilating the parameters of homologous models without retraining or GPUs. [official code](https://github.com/yule-buaa/mergelm). |
+|[An Efficient Self-Supervised Cross-View Training For Sentence Embedding](https://arxiv.org/abs/2311.03228v1) |Cross-View Training (SCT) allows efficient sentence embedding with small language models [official code](https://github.com/mrpeerat/sct).|
 |[]() | |
 |[]() | |
 
@@ -59,8 +59,8 @@
 |[xAI  PromptIDE](https://x.ai/prompt-ide/) |Integrated development environment for prompt engineering and interpretability research, released by xAI |
 |[ChatGPT continues to be one of the fastest-growing services ever ](https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference) | In less than a year, it’s hit 100 million weekly users, and over 2 million developers are currently building on the company’s API, including the majority of Fortune 500 companies. |
 |[Xbox partners with Inworld AI to build AI tools for game development. ](https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/) |Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation. |
-|[Nvidia Is Piloting a Generative AI for Its Engineers](https://spectrum.ieee.org/ai-for-engineering) |ChipNeMo summarizes bug reports, gives advice, and writes design-tool scripts |
-|[YouTube to test generative AI features](https://techcrunch.com/2023/11/06/youtube-to-test-generative-ai-features-including-a-comments-summarizer-and-conversational-tool/) | Users may test out a new conversational tool that utilizes artificial intelligence (AI) to respond to inquiries about YouTube content and provide suggestions, as well as a new feature that summarizes subjects in video comments, as part of the premium package offered to pay subscribers. |
+|[Nvidia Is Piloting a Generative AI for Its Engineers. ](https://spectrum.ieee.org/ai-for-engineering) |ChipNeMo summarizes bug reports, gives advice, and writes design-tool scripts |
+|[YouTube to test generative AI features. ](https://techcrunch.com/2023/11/06/youtube-to-test-generative-ai-features-including-a-comments-summarizer-and-conversational-tool/) | Users may test out a new conversational tool that utilizes artificial intelligence (AI) to respond to inquiries about YouTube content and provide suggestions, as well as a new feature that summarizes subjects in video comments, as part of the premium package offered to pay subscribers. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -80,6 +80,11 @@
 |[consistencydecoder. ](https://github.com/openai/consistencydecoder) |OpenAI has released an Improved decoding for stable diffusion vaes. Consistency decoder  has reached the SOTA and it is nice they released also for stable diffusion |
 |[TopicGPT. ](https://github.com/chtmp223/topicgpt) |we introduce TopicGPT, a prompt-based framework that uses large language models (LLMs) to uncover latent topics within a provided text collection. TopicGPT produces topics that align better with human categorizations compared to competing methods. [official article](https://arxiv.org/abs/2311.01449). |
 |[FACTOR. ](https://github.com/talreiss/factor) | an effective tool to detect deep fakes even without training. FACTOR leverages the discrepancy between false facts and their imperfect synthesis within deepfakes. By quantifying the similarity using the truth score, computed via cosine similarity, FACTOR effectively distinguishes between real and fake media, enabling robust detection of zero-day deepfake attacks. |
+|[CogVLM](https://github.com/THUDM/CogVLM) |CogVLM is a powerful open-source visual language model (VLM). CogVLM-17B has 10 billion vision parameters and 7 billion language parameters. |
+|[langroid](https://github.com/langroid/langroid) |Langroid is an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. You set up Agents, equip them with optional components (LLM, vector-store and methods), assign them tasks, and have them collaboratively solve a problem by exchanging messages.  |
+|[OVIR-3D](https://github.com/shiyoung77/ovir-3d) | D object retrieval from text prompts using 2D image fusion. his work provides a straightforward yet effective solution for open-vocabulary 3D instance retrieval, which returns a ranked set of 3D instance segments given a 3D point cloud reconstructed from an RGB-D video and a language query.|
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
