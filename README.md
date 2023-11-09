@@ -47,8 +47,8 @@
 |[How AI could lead to a better understanding of the brain](https://www.nature.com/articles/d41586-023-03426-3) |Early machine-learning systems were inspired by neural networks — now AI might allow neuroscientists to get to grips with the brain’s unique complexities. |
 |[How AI can help to save endangered species](https://www.nature.com/articles/d41586-023-03328-4) |Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time.|
 |[Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/abs/2311.00871) | An article from Google providing experimental evidence that the transformer (and therefore LLMs) cannot generalize beyond the training data. This is an indication that the transformer will be not the architecture leading us to artificial general intelligence (AGI)|
-|[]() | |
-|[]() | |
+|[RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://arxiv.org/abs/2311.03904v1) |For autonomous vehicles (AVs), visual perception techniques based on sensors like cameras play crucial roles in information acquisition and processing. In various computer perception tasks for AVs, it may be helpful to match landmark patches taken by an onboard camera with other landmark patches captured at a different time or saved in a street scene image database. The authors using spatial information and neural differential equation have created an approach to imrpove landmark matching. [official code](https://github.com/ai-it-avs/robustmat)  |
+|[I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models. ](https://i2vgen-xl.github.io/) | Video synthesis has recently made remarkable strides benefiting from the rapid development of diffusion models. However, it still encounters challenges in terms of semantic accuracy, clarity and spatio-temporal continuity. This new approach is composed of two steps:  preserve the static image's content and refine details and resolution.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -72,7 +72,7 @@
 |[Cohere Introduced Embed v3](https://txt.cohere.com/introducing-embed-v3/) |Embed v3 offers state-of-the-art performance per trusted MTEB and BEIR benchmarks. it is multilingual (100+ languages), works well with noisy data, retrieval-augmentation generation (RAG) systems, searches in a language or cross-language searches |
 |[Microsoft has over a million paying Github Copilot users](https://www.zdnet.com/article/microsoft-has-over-a-million-paying-github-copilot-users-ceo-nadella/) |"We have over 1 million paid copilot users in more than 37,000 organizations that subscribe to copilot for business," said Nadella, "with significant traction outside the United States." |
 |[Meta's audiocraft can also generate stereo music](https://github.com/facebookresearch/audiocraft) |Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
-|[]() | |
+|[Hugging Face has a two-person team developing ChatGPT-like AI models](https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models) | Hugging Face's H4 team is focused on developing open-source ChatGPT |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -89,12 +89,12 @@
 |[consistencydecoder. ](https://github.com/openai/consistencydecoder) |OpenAI has released an Improved decoding for stable diffusion vaes. Consistency decoder  has reached the SOTA and it is nice they released also for stable diffusion |
 |[TopicGPT. ](https://github.com/chtmp223/topicgpt) |we introduce TopicGPT, a prompt-based framework that uses large language models (LLMs) to uncover latent topics within a provided text collection. TopicGPT produces topics that align better with human categorizations compared to competing methods. [official article](https://arxiv.org/abs/2311.01449). |
 |[FACTOR. ](https://github.com/talreiss/factor) | an effective tool to detect deep fakes even without training. FACTOR leverages the discrepancy between false facts and their imperfect synthesis within deepfakes. By quantifying the similarity using the truth score, computed via cosine similarity, FACTOR effectively distinguishes between real and fake media, enabling robust detection of zero-day deepfake attacks. |
-|[CogVLM](https://github.com/THUDM/CogVLM) |CogVLM is a powerful open-source visual language model (VLM). CogVLM-17B has 10 billion vision parameters and 7 billion language parameters. |
+|[CogVLM. ](https://github.com/THUDM/CogVLM) |CogVLM is a powerful open-source visual language model (VLM). CogVLM-17B has 10 billion vision parameters and 7 billion language parameters. |
 |[langroid](https://github.com/langroid/langroid) |Langroid is an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. You set up Agents, equip them with optional components (LLM, vector-store and methods), assign them tasks, and have them collaboratively solve a problem by exchanging messages.  |
-|[OVIR-3D](https://github.com/shiyoung77/ovir-3d) | D object retrieval from text prompts using 2D image fusion. his work provides a straightforward yet effective solution for open-vocabulary 3D instance retrieval, which returns a ranked set of 3D instance segments given a 3D point cloud reconstructed from an RGB-D video and a language query.|
-|[]() | |
-|[]() | |
-|[]() | |
+|[OVIR-3D. ](https://github.com/shiyoung77/ovir-3d) | D object retrieval from text prompts using 2D image fusion. his work provides a straightforward yet effective solution for open-vocabulary 3D instance retrieval, which returns a ranked set of 3D instance segments given a 3D point cloud reconstructed from an RGB-D video and a language query.|
+|[JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models. ](https://arxiv.org/abs/2311.04192) | an automatic evaluation metric called JaSPICE, which evaluates Japanese captions based on scene graphs. There is a gap between performance of models for english captioning and other languages, this clever approach promises to reduce the gap|
+|[awesome-openai-vision-api-experiments. ](https://github.com/roboflow/awesome-openai-vision-api-experiments) |A set of examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams.|
+|[punica. ](https://github.com/punica-ai/punica) |Low rank adapation (LoRA) is a parameter efficient way to add new knowledge to a pretrained LLM. Although the pretrained LLM takes 100s of GB storage, a LoRA finetuned model only adds 1% storage and memory overhead. Punica enables running multiple LoRA finetuned models at the cost of running one. |
 |[]() | |
 |[]() | |
 
@@ -106,11 +106,14 @@
 |[Will generative AI transform business? ](https://www.ft.com/content/647fdf88-d757-45e4-a640-9654673b7ece) |Industries expect demand for quality control and human oversight of AI-generated content to grow |
 |[A minor ChatGPT update is a warning to founders: Big Tech can blow up your startup at any time. ](https://www.businessinsider.com/openai-chatgpt-pdfs-ai-startups-wrappers-2023-10) | Wrapping chatGPT as a core business is not a great idea.  chatGPT can now interact with PDF and let you ask questions which is blowing the business of small start-ups. It's a bleak reminder that swift rule changes by Big Tech firms can wreak havoc on smaller players.|
 |[Pixel Perfect: How AI Unlocks Creativity. ](https://www.digitalnative.tech/p/pixel-perfect-how-ai-unlocks-creativity) | AI, and creators are gaining momentum. Using the right tactics can increase it  |
-|[Almost an Agent: What GPTs can do](https://www.oneusefulthing.org/p/almost-an-agent-what-gpts-can-do) | GPT is almost an agent, but what actually an agent can do? For instance, write a scientific article by itself|
-|[Are language models good at making predictions?](https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions?) |It seems so. The article suggests GPT-4 really is better at making predictions for politics than for science or technology, even once the hardness of the questions are accounted for. |
-|[OpenAI Is A Lot More Vulnerable Than You Think](https://www.bigtechnology.com/p/openai-is-a-lot-more-vulnerable-than) |All the press, money, and awards in the world won’t prevent OpenAI from the cold reality of competition. |
-|[ChatGPT use shows that the grant-application system is broken](https://www.nature.com/articles/d41586-023-03238-5) |The fact that artificial intelligence can do much of the work makes a mockery of the process. It’s time to make it easier for scientists to ask for research funding. |
-|[The world’s week on AI safety: powerful computing efforts launched to boost research](https://www.nature.com/articles/d41586-023-03472-x) | UK and US governments establish efforts to democratize access to supercomputers that will aid studies on AI systems.|
+|[Almost an Agent: What GPTs can do. ](https://www.oneusefulthing.org/p/almost-an-agent-what-gpts-can-do) | GPT is almost an agent, but what actually an agent can do? For instance, write a scientific article by itself|
+|[Are language models good at making predictions?] (https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions?) |It seems so. The article suggests GPT-4 really is better at making predictions for politics than for science or technology, even once the hardness of the questions are accounted for. |
+|[OpenAI Is A Lot More Vulnerable Than You Think. ](https://www.bigtechnology.com/p/openai-is-a-lot-more-vulnerable-than) |All the press, money, and awards in the world won’t prevent OpenAI from the cold reality of competition. |
+|[ChatGPT use shows that the grant-application system is broken. ](https://www.nature.com/articles/d41586-023-03238-5) |The fact that artificial intelligence can do much of the work makes a mockery of the process. It’s time to make it easier for scientists to ask for research funding. |
+|[The world’s week on AI safety: powerful computing efforts launched to boost research. ](https://www.nature.com/articles/d41586-023-03472-x) | UK and US governments establish efforts to democratize access to supercomputers that will aid studies on AI systems.|
+|[Is AI the Next Crypto? Insights from 2M HN comments. ](https://openpipe.ai/blog/hn-ai-crypto) |Both crypto and AI have been heavily debated on Hacker News, with discussions going back years. By looking at trends in HN commenter opinions we might find interesting similarities and differences. |
+|[AI companies have all kinds of arguments against paying for copyrighted content. ](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai) |The biggest companies in AI aren’t interested in paying to use copyrighted material as training data. |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
