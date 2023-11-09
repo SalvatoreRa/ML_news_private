@@ -102,7 +102,7 @@
 |[Almost an Agent: What GPTs can do](https://www.oneusefulthing.org/p/almost-an-agent-what-gpts-can-do) | GPT is almost an agent, but what actually an agent can do? For instance, write a scientific article by itself|
 |[Are language models good at making predictions?](https://www.lesswrong.com/posts/CkhJAxHeyFCg2EcET/are-language-models-good-at-making-predictions?) |It seems so. The article suggests GPT-4 really is better at making predictions for politics than for science or technology, even once the hardness of the questions are accounted for. |
 |[OpenAI Is A Lot More Vulnerable Than You Think](https://www.bigtechnology.com/p/openai-is-a-lot-more-vulnerable-than) |All the press, money, and awards in the world won’t prevent OpenAI from the cold reality of competition. |
-|[]() | |
+|[ChatGPT use shows that the grant-application system is broken](https://www.nature.com/articles/d41586-023-03238-5) |The fact that artificial intelligence can do much of the work makes a mockery of the process. It’s time to make it easier for scientists to ask for research funding. |
 |[]() | |
 |[]() | |
 |[]() | |
