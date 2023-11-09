@@ -46,6 +46,9 @@
 |[A Systematic Review of Deep Graph Neural Networks: Challenges, Classification, Architectures, Applications & Potential Utility in Bioinformatics](https://arxiv.org/abs/2311.02127) |Apart from presenting all existing GNN models, mathematical analysis and comparison of the variants of all types of GNN have been highlighted in this survey. Graph neural networks are investigated for their potential real-world applications in various fields, focusing on Bioinformatics. |
 |[How AI could lead to a better understanding of the brain](https://www.nature.com/articles/d41586-023-03426-3) |Early machine-learning systems were inspired by neural networks — now AI might allow neuroscientists to get to grips with the brain’s unique complexities. |
 |[How AI can help to save endangered species](https://www.nature.com/articles/d41586-023-03328-4) |Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time.|
+|[Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/abs/2311.00871) | An article from Google providing experimental evidence that the transformer (and therefore LLMs) cannot generalize beyond the training data. This is an indication that the transformer will be not the architecture leading us to artificial general intelligence (AGI)|
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
