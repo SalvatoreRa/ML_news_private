@@ -68,12 +68,14 @@
 |[Xbox partners with Inworld AI to build AI tools for game development. ](https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/) |Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation. |
 |[Nvidia Is Piloting a Generative AI for Its Engineers. ](https://spectrum.ieee.org/ai-for-engineering) |ChipNeMo summarizes bug reports, gives advice, and writes design-tool scripts |
 |[YouTube to test generative AI features. ](https://techcrunch.com/2023/11/06/youtube-to-test-generative-ai-features-including-a-comments-summarizer-and-conversational-tool/) | Users may test out a new conversational tool that utilizes artificial intelligence (AI) to respond to inquiries about YouTube content and provide suggestions, as well as a new feature that summarizes subjects in video comments, as part of the premium package offered to pay subscribers. |
+|[Google Announces Expansion of AI Partnership with Anthropic. ](https://finance.yahoo.com/news/google-announces-expansion-ai-partnership-170000867.html) | Partnership includes important new collaborations on AI safety standards, committing to the highest standards of AI security, and use of TPU v5e accelerators for AI inference |
+|[Cohere Introduced Embed v3](https://txt.cohere.com/introducing-embed-v3/) |Embed v3 offers state-of-the-art performance per trusted MTEB and BEIR benchmarks. it is multilingual (100+ languages), works well with noisy data, retrieval-augmentation generation (RAG) systems, searches in a language or cross-language searches |
+|[Microsoft has over a million paying Github Copilot users](https://www.zdnet.com/article/microsoft-has-over-a-million-paying-github-copilot-users-ceo-nadella/) |"We have over 1 million paid copilot users in more than 37,000 organizations that subscribe to copilot for business," said Nadella, "with significant traction outside the United States." |
+|[Meta's audiocraft can also generate stereo music](https://github.com/facebookresearch/audiocraft) |Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
 |[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
-|[]() | |
-
 
 ## Resources
 |Link|description|
