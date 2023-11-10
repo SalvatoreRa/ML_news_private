@@ -104,8 +104,8 @@
 |[LongQLoRA. ](https://github.com/yangjianxin1/longqlora) | LongQLoRA is a memory-efficient and effective method to extend context length of Large Language Models with less training GPUs. On a single 32GB V100 GPU, LongQLoRA can extend the context length of LLaMA2 7B and 13B from 4096 to 8192 and even to 12k.|
 |[Lidar-Annotation-is-All-You-Need. ](https://github.com/evocargo/lidar-annotation-is-all-you-need) |a smarter method for self-driving cars to recognize roads by using lidar technology.  |
 |[LM4VisualEncoding. ](https://github.com/ziqipang/lm4visualencoding) |pretrained transformers from LLMs, despite being trained solely on textual data, are surprisingly strong encoders for purely visual tasks in the absence of language. Our exploration shows the potential of LLMs as general-purpose encoders for visual data, as opposed to the previous usages of either pure encoders for text embeddings or decoders for tokenized outputs. [official article.](https://arxiv.org/abs/2310.12973) |
-|[]() | |
-|[]() | |
+|[vimGPT. ](https://github.com/ishan0102/vimGPT) | Browse the web with GPT-4V and Vimium. Vimium is a Chrome extension that lets you navigate the web with only your keyboard. You  could use Vimium to give the model a way to interact with the web. |
+|[Announcing a New Way to Create AI Employees](https://www.lindy.ai/blog/announcing-a-new-way-to-create-ai-employees) | the first platform letting you build a team of AI employees working together to perform any task. The idea is to build an agent that you can call and ask to perform a task|
 |[]() | |
 
 ## Perspectives
