@@ -49,7 +49,7 @@
 |[Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models](https://arxiv.org/abs/2311.00871) | An article from Google providing experimental evidence that the transformer (and therefore LLMs) cannot generalize beyond the training data. This is an indication that the transformer will be not the architecture leading us to artificial general intelligence (AGI)|
 |[RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://arxiv.org/abs/2311.03904v1) |For autonomous vehicles (AVs), visual perception techniques based on sensors like cameras play crucial roles in information acquisition and processing. In various computer perception tasks for AVs, it may be helpful to match landmark patches taken by an onboard camera with other landmark patches captured at a different time or saved in a street scene image database. The authors using spatial information and neural differential equation have created an approach to imrpove landmark matching. [official code](https://github.com/ai-it-avs/robustmat)  |
 |[I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models. ](https://i2vgen-xl.github.io/) | Video synthesis has recently made remarkable strides benefiting from the rapid development of diffusion models. However, it still encounters challenges in terms of semantic accuracy, clarity and spatio-temporal continuity. This new approach is composed of two steps:  preserve the static image's content and refine details and resolution.|
-|[]() | |
+|[Rethinking Benchmark and Contamination for Language Models with Rephrased Samples. ](https://arxiv.org/abs/2311.04850v1) | We know that better data improves the LLM training, here a better way to clean your data. The authors have published they decontaminator tool [here. ](https://github.com/lm-sys/llm-decontaminator)|
 |[]() | |
 |[]() | |
 
@@ -74,11 +74,14 @@
 |[Meta's audiocraft can also generate stereo music](https://github.com/facebookresearch/audiocraft) |Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
 |[Hugging Face has a two-person team developing ChatGPT-like AI models](https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models) | Hugging Face's H4 team is focused on developing open-source ChatGPT |
 |[Samsung is joining the AI arms race, too](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call) | Samsung’s live translate feature, which the company is calling “AI Live Translate Call,” will be built into the company’s native phone app. Samsung says “audio and text translations will appear in real-time as you speak” and that the translations will happen on device.|
+|[Introducing Adept Experiments](https://www.adept.ai/blog/experiments) | Adept is building AI agent and now they are opening the access to test them|
+|[Introducing GPTs](https://openai.com/blog/introducing-gpts) |You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills. Highlight: Starting today, you can create GPTs and share them publicly. Later this month, we’re launching the GPT Store, featuring creations by verified builders. Once in the store, GPTs become searchable and may climb the leaderboards. We will also spotlight the most useful and delightful GPTs we come across in categories like productivity, education, and “just for fun”. In the coming months, you’ll also be able to earn money based on how many people are using your GPT. |
+|[Google Cloud demonstrates the world’s largest distributed training job for large language models across 50000+ TPU v5e chips](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e) | Google Cloud TPU Multislice Training was built from the ground up to address the challenges of distributed ML training in orchestration, compilation, and end-to-end optimization. We demonstrated the benefits of Cloud TPU Multislice Training with what we believe is the largest publicly disclosed LLM distributed training job in the world (in terms of number of chips used for training) on a compute cluster of 50,944 Cloud TPU v5e chips on the JAX ML framework, utilizing both BF16 and INT8 quantized training.|
 |[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
-|[]() | |
+
 
 ## Resources
 |Link|description|
@@ -98,6 +101,10 @@
 |[JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models. ](https://arxiv.org/abs/2311.04192) | an automatic evaluation metric called JaSPICE, which evaluates Japanese captions based on scene graphs. There is a gap between performance of models for english captioning and other languages, this clever approach promises to reduce the gap|
 |[awesome-openai-vision-api-experiments. ](https://github.com/roboflow/awesome-openai-vision-api-experiments) |A set of examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams.|
 |[punica. ](https://github.com/punica-ai/punica) |Low rank adapation (LoRA) is a parameter efficient way to add new knowledge to a pretrained LLM. Although the pretrained LLM takes 100s of GB storage, a LoRA finetuned model only adds 1% storage and memory overhead. Punica enables running multiple LoRA finetuned models at the cost of running one. |
+|[LongQLoRA. ](https://github.com/yangjianxin1/longqlora) | LongQLoRA is a memory-efficient and effective method to extend context length of Large Language Models with less training GPUs. On a single 32GB V100 GPU, LongQLoRA can extend the context length of LLaMA2 7B and 13B from 4096 to 8192 and even to 12k.|
+|[Lidar-Annotation-is-All-You-Need. ](https://github.com/evocargo/lidar-annotation-is-all-you-need) |a smarter method for self-driving cars to recognize roads by using lidar technology.  |
+|[LM4VisualEncoding. ](https://github.com/ziqipang/lm4visualencoding) |pretrained transformers from LLMs, despite being trained solely on textual data, are surprisingly strong encoders for purely visual tasks in the absence of language. Our exploration shows the potential of LLMs as general-purpose encoders for visual data, as opposed to the previous usages of either pure encoders for text embeddings or decoders for tokenized outputs. [official article.](https://arxiv.org/abs/2310.12973) |
+|[]() | |
 |[]() | |
 |[]() | |
 
