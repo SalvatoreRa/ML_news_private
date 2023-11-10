@@ -73,6 +73,9 @@
 |[Microsoft has over a million paying Github Copilot users](https://www.zdnet.com/article/microsoft-has-over-a-million-paying-github-copilot-users-ceo-nadella/) |"We have over 1 million paid copilot users in more than 37,000 organizations that subscribe to copilot for business," said Nadella, "with significant traction outside the United States." |
 |[Meta's audiocraft can also generate stereo music](https://github.com/facebookresearch/audiocraft) |Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
 |[Hugging Face has a two-person team developing ChatGPT-like AI models](https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models) | Hugging Face's H4 team is focused on developing open-source ChatGPT |
+|[Samsung is joining the AI arms race, too](https://www.theverge.com/2023/11/8/23953198/samsung-galaxy-ai-live-translate-call) | Samsung’s live translate feature, which the company is calling “AI Live Translate Call,” will be built into the company’s native phone app. Samsung says “audio and text translations will appear in real-time as you speak” and that the translations will happen on device.|
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
