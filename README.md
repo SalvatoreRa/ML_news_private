@@ -77,7 +77,7 @@
 |[Introducing Adept Experiments](https://www.adept.ai/blog/experiments) | Adept is building AI agent and now they are opening the access to test them|
 |[Introducing GPTs](https://openai.com/blog/introducing-gpts) |You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills. Highlight: Starting today, you can create GPTs and share them publicly. Later this month, we’re launching the GPT Store, featuring creations by verified builders. Once in the store, GPTs become searchable and may climb the leaderboards. We will also spotlight the most useful and delightful GPTs we come across in categories like productivity, education, and “just for fun”. In the coming months, you’ll also be able to earn money based on how many people are using your GPT. |
 |[Google Cloud demonstrates the world’s largest distributed training job for large language models across 50000+ TPU v5e chips](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e) | Google Cloud TPU Multislice Training was built from the ground up to address the challenges of distributed ML training in orchestration, compilation, and end-to-end optimization. We demonstrated the benefits of Cloud TPU Multislice Training with what we believe is the largest publicly disclosed LLM distributed training job in the world (in terms of number of chips used for training) on a compute cluster of 50,944 Cloud TPU v5e chips on the JAX ML framework, utilizing both BF16 and INT8 quantized training.|
-|[]() | |
+|[OpenAI Data Partnerships. ](https://openai.com/blog/data-partnerships) |We’re interested in large-scale datasets that reflect human society and that are not already easily accessible online to the public today. We can work with any modality, including text, images, audio, or video. We’re particularly looking for data that expresses human intention (e.g. long-form writing or conversations rather than disconnected snippets), across any language, topic, and format.  |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -124,8 +124,8 @@
 |[Is AI the Next Crypto? Insights from 2M HN comments. ](https://openpipe.ai/blog/hn-ai-crypto) |Both crypto and AI have been heavily debated on Hacker News, with discussions going back years. By looking at trends in HN commenter opinions we might find interesting similarities and differences. |
 |[AI companies have all kinds of arguments against paying for copyrighted content. ](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai) |The biggest companies in AI aren’t interested in paying to use copyrighted material as training data. |
 |[AI could cause ‘catastrophic’ financial crisis, says Yuval Noah Harari](https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis) |Historian and Sapiens author says sophistication of technology makes it difficult to forecast its dangers |
-|[]() | |
-|[]() | |
+|[Nvidia Envy: understanding the GPU gold rush. ](https://blog.johnluttig.com/p/nvidia-envy-understanding-the-gpu) |In 2023, thousands of companies and countries begged Nvidia to purchase more GPUs. Can the exponential demand endure? |
+|[AI is about to completely change how you use computers. ](https://www.gatesnotes.com/AI-agents) | Bill Gates in his blog (yes, he has a blog) discuss how AI will revolutionize software interaction  |
 |[]() | |
 
 
