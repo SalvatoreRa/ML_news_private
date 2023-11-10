@@ -113,7 +113,7 @@
 |[The world’s week on AI safety: powerful computing efforts launched to boost research. ](https://www.nature.com/articles/d41586-023-03472-x) | UK and US governments establish efforts to democratize access to supercomputers that will aid studies on AI systems.|
 |[Is AI the Next Crypto? Insights from 2M HN comments. ](https://openpipe.ai/blog/hn-ai-crypto) |Both crypto and AI have been heavily debated on Hacker News, with discussions going back years. By looking at trends in HN commenter opinions we might find interesting similarities and differences. |
 |[AI companies have all kinds of arguments against paying for copyrighted content. ](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai) |The biggest companies in AI aren’t interested in paying to use copyrighted material as training data. |
-|[]() | |
+|[AI could cause ‘catastrophic’ financial crisis, says Yuval Noah Harari](https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis) |Historian and Sapiens author says sophistication of technology makes it difficult to forecast its dangers |
 |[]() | |
 |[]() | |
 |[]() | |
