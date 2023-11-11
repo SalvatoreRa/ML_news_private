@@ -126,7 +126,7 @@
 |[AI could cause ‘catastrophic’ financial crisis, says Yuval Noah Harari](https://www.theguardian.com/technology/2023/nov/09/yuval-noah-harari-artificial-intelligence-ai-cause-financial-crisis) |Historian and Sapiens author says sophistication of technology makes it difficult to forecast its dangers |
 |[Nvidia Envy: understanding the GPU gold rush. ](https://blog.johnluttig.com/p/nvidia-envy-understanding-the-gpu) |In 2023, thousands of companies and countries begged Nvidia to purchase more GPUs. Can the exponential demand endure? |
 |[AI is about to completely change how you use computers. ](https://www.gatesnotes.com/AI-agents) | Bill Gates in his blog (yes, he has a blog) discuss how AI will revolutionize software interaction  |
-|[]() | |
+|[Self Supervised Learning Market Size Thrives with AI Systems That Discover Patterns and Insights Independently](https://www.abnnewswire.net/press/en/121697/Self-Supervised-Learning-Market-Size-Thrives-with-AI-Systems-That-Discover-Patterns-and-Insights-Independently-121697.html) | Self Supervised Learning market growth surges due to AI's ability to autonomously learn from unlabelled data, enhancing efficiency and innovation|
 
 
 # ML news 30 October  -  5 November:
