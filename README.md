@@ -22,7 +22,7 @@
 |---|---|
 |[]() | |
 |[]() | |
-|[]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -127,6 +127,7 @@
 |[Nvidia Envy: understanding the GPU gold rush. ](https://blog.johnluttig.com/p/nvidia-envy-understanding-the-gpu) |In 2023, thousands of companies and countries begged Nvidia to purchase more GPUs. Can the exponential demand endure? |
 |[AI is about to completely change how you use computers. ](https://www.gatesnotes.com/AI-agents) | Bill Gates in his blog (yes, he has a blog) discuss how AI will revolutionize software interaction  |
 |[Self Supervised Learning Market Size Thrives with AI Systems That Discover Patterns and Insights Independently](https://www.abnnewswire.net/press/en/121697/Self-Supervised-Learning-Market-Size-Thrives-with-AI-Systems-That-Discover-Patterns-and-Insights-Independently-121697.html) | Self Supervised Learning market growth surges due to AI's ability to autonomously learn from unlabelled data, enhancing efficiency and innovation|
+|[Yoko Taro Foresees the End of Video Games as We Know Them](https://www.wired.com/story/yoko-taro-interview/) | Yoko Taro says the rise of AI will give birth to a new era of video games in which the line between developer and player is blurred into nonexistence. |
 
 
 # ML news 30 October  -  5 November:
