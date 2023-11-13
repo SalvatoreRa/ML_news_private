@@ -50,8 +50,9 @@
 |[RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments](https://arxiv.org/abs/2311.03904v1) |For autonomous vehicles (AVs), visual perception techniques based on sensors like cameras play crucial roles in information acquisition and processing. In various computer perception tasks for AVs, it may be helpful to match landmark patches taken by an onboard camera with other landmark patches captured at a different time or saved in a street scene image database. The authors using spatial information and neural differential equation have created an approach to imrpove landmark matching. [official code](https://github.com/ai-it-avs/robustmat)  |
 |[I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models. ](https://i2vgen-xl.github.io/) | Video synthesis has recently made remarkable strides benefiting from the rapid development of diffusion models. However, it still encounters challenges in terms of semantic accuracy, clarity and spatio-temporal continuity. This new approach is composed of two steps:  preserve the static image's content and refine details and resolution.|
 |[Rethinking Benchmark and Contamination for Language Models with Rephrased Samples. ](https://arxiv.org/abs/2311.04850v1) | We know that better data improves the LLM training, here a better way to clean your data. The authors have published they decontaminator tool [here. ](https://github.com/lm-sys/llm-decontaminator)|
-|[Hallucination in LLMs](https://arxiv.org/abs/2311.05232) | We begin with an innovative taxonomy of LLM hallucinations, then delve into the factors contributing to hallucinations. Subsequently, we present a comprehensive overview of hallucination detection methods and benchmarks|
-|[]() | |
+|[Hallucination in LLMs. ](https://arxiv.org/abs/2311.05232) | We begin with an innovative taxonomy of LLM hallucinations, then delve into the factors contributing to hallucinations. Subsequently, we present a comprehensive overview of hallucination detection methods and benchmarks|
+|[Simplifying Transformer Blocks. ](https://arxiv.org/abs/2311.01906) |Combining signal propagation theory and empirical observations, we motivate modifications that allow many block components to be removed with no loss of training speed, including skip connections, projection or value parameters, sequential sub-blocks, and normalization layers. [official code](https://github.com/bobby-he/simplified_transformers) |
+|[LLaVA-Med: Large Language and Vision Assistant for BioMedicine](https://arxiv.org/abs/2306.00890)|LLaVA-Med was initialized with the general-domain LLaVA and then continuously trained in a curriculum learning fashion (first biomedical concept alignment then full-blown instruction-tuning). We evaluated LLaVA-Med on standard visual conversation and question answering tasks. [official repository](https://github.com/microsoft/LLaVA-Med)|
 
 ## News
 |Link|description|
@@ -128,7 +129,8 @@
 |[AI is about to completely change how you use computers. ](https://www.gatesnotes.com/AI-agents) | Bill Gates in his blog (yes, he has a blog) discuss how AI will revolutionize software interaction  |
 |[Self Supervised Learning Market Size Thrives with AI Systems That Discover Patterns and Insights Independently](https://www.abnnewswire.net/press/en/121697/Self-Supervised-Learning-Market-Size-Thrives-with-AI-Systems-That-Discover-Patterns-and-Insights-Independently-121697.html) | Self Supervised Learning market growth surges due to AI's ability to autonomously learn from unlabelled data, enhancing efficiency and innovation|
 |[Yoko Taro Foresees the End of Video Games as We Know Them](https://www.wired.com/story/yoko-taro-interview/) | Yoko Taro says the rise of AI will give birth to a new era of video games in which the line between developer and player is blurred into nonexistence. |
-
+|[How Generative AI Will Transform Knowledge Work](https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work)|
+Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine.|
 
 # ML news 30 October  -  5 November:
 
