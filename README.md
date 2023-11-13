@@ -32,12 +32,34 @@
 |[]() | |
 
 # ON WORKING
-# ML news:
 
 ## Research
 |Link|description|
 |---|---|
-|[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) |hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
+|[]() | |
+|[]() | |
+|[]() | |
+
+## News
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[]() | |
+|[]() | |
+
+
+# ML news: Week 6-12 November
+
+## Research
+|Link|description|
+|---|---|
+|[RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches. ](https://rt-sketch.github.io/) | Hand-drawn sketches as a modality for goal specification in visual imitation learning. You sketch the robot execute, in other words, you can communicate with the robot with a sketch. [here is the official article.](https://rt-sketch.github.io/assets/rt_sketch.pdf) |
 |[Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](https://arxiv.org/abs/2311.01117v1) | RGB-based surface anomaly detection methods have advanced significantly. However, certain surface anomalies remain practically invisible in RGB alone, necessitating the incorporation of 3D information. This new approach 3D data with RGB outperforms traditional methods for surface anomaly detection. [official code](https://github.com/vitjanz/3dsr). |
 |[Gaussian Mixture Solvers for Diffusion Models. ](https://arxiv.org/abs/2311.00941v1) | Recently, diffusion models have achieved great success in generative tasks. Gaussian mixture solvers improve the model both in speed and quality [official code](https://github.com/Guohanzhong/GMS).|
 |[PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis. ](https://huggingface.co/papers/2310.00426) |This paper introduces PIXART-alpha, a Transformer-based T2I diffusion model whose image generation quality is competitive with state-of-the-art image generators. The model uses three elements:  T5 text encodings, cross attention, and a diffusion transformer|
@@ -79,9 +101,7 @@
 |[Introducing GPTs](https://openai.com/blog/introducing-gpts) |You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills. Highlight: Starting today, you can create GPTs and share them publicly. Later this month, we’re launching the GPT Store, featuring creations by verified builders. Once in the store, GPTs become searchable and may climb the leaderboards. We will also spotlight the most useful and delightful GPTs we come across in categories like productivity, education, and “just for fun”. In the coming months, you’ll also be able to earn money based on how many people are using your GPT. |
 |[Google Cloud demonstrates the world’s largest distributed training job for large language models across 50000+ TPU v5e chips](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e) | Google Cloud TPU Multislice Training was built from the ground up to address the challenges of distributed ML training in orchestration, compilation, and end-to-end optimization. We demonstrated the benefits of Cloud TPU Multislice Training with what we believe is the largest publicly disclosed LLM distributed training job in the world (in terms of number of chips used for training) on a compute cluster of 50,944 Cloud TPU v5e chips on the JAX ML framework, utilizing both BF16 and INT8 quantized training.|
 |[OpenAI Data Partnerships. ](https://openai.com/blog/data-partnerships) |We’re interested in large-scale datasets that reflect human society and that are not already easily accessible online to the public today. We can work with any modality, including text, images, audio, or video. We’re particularly looking for data that expresses human intention (e.g. long-form writing or conversations rather than disconnected snippets), across any language, topic, and format.  |
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 
 ## Resources
@@ -107,7 +127,7 @@
 |[LM4VisualEncoding. ](https://github.com/ziqipang/lm4visualencoding) |pretrained transformers from LLMs, despite being trained solely on textual data, are surprisingly strong encoders for purely visual tasks in the absence of language. Our exploration shows the potential of LLMs as general-purpose encoders for visual data, as opposed to the previous usages of either pure encoders for text embeddings or decoders for tokenized outputs. [official article.](https://arxiv.org/abs/2310.12973) |
 |[vimGPT. ](https://github.com/ishan0102/vimGPT) | Browse the web with GPT-4V and Vimium. Vimium is a Chrome extension that lets you navigate the web with only your keyboard. You  could use Vimium to give the model a way to interact with the web. |
 |[Announcing a New Way to Create AI Employees](https://www.lindy.ai/blog/announcing-a-new-way-to-create-ai-employees) | the first platform letting you build a team of AI employees working together to perform any task. The idea is to build an agent that you can call and ask to perform a task|
-|[]() | |
+
 
 ## Perspectives
 |Link|description|
