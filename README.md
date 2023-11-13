@@ -56,8 +56,8 @@
 |---|---|
 |[Google in talks to invest ‘hundreds of millions’ into AI startup Character.AI. ](https://www.calcalistech.com/ctechnews/article/h1vdzfaqt) | Character.AI's chatbots, with various roles and tones to choose from, have appealed to users ages 18 to 24, who contributed about 60% of its website traffic.|
 |[Introducing AI to FigJam.](https://www.figma.com/blog/introducing-ai-to-figjam/) | FigJam, Figma's digital whiteboard application, now incorporates AI support to help streamline and improve design interactions. |
-|[]() | |
-|[]() | |
+|[LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills. ](https://llava-vl.github.io/llava-plus/) |An open-source approach that integrates language and vision is called LLaVa. The updated version gives the instruction-tuned model access to tools for creating and altering images, among other things. |
+|[ai-town-rwkv-proxy. ](https://github.com/recursal/ai-town-rwkv-proxy) | Hundreds of agents in AI Town, an incredible experiment, go about their everyday lives as prompt states in language models. Compared to typical Transformers, the RWKV model is a linear language model that uses less resources. This repository runs AI Town on your local computer using this less expensive model.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -74,9 +74,9 @@
 |Link|description|
 |---|---|
 |[The Alignment Handbook. ](https://github.com/huggingface/alignment-handbook) | The HuggingFace's Alignment Handbook aims to fill that gap by providing the community with a series of robust training recipes that span the whole pipeline.|
-|[versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) |Pass your audio in, AudioSR will make it high fidelity! |
-|[]() | |
-|[]() | |
+|[versatile_audio_super_resolution. ](https://github.com/haoheliu/versatile_audio_super_resolution) |Pass your audio in, AudioSR will make it high fidelity! |
+|[tarsier. ](https://github.com/reworkd/tarsier) |Vision utilities for web interaction agents. A number of teams are working on creating agents that can interact with web items through vision thanks to the development of potent new vision models. A standard toolset is introduced by Tarsier (e.g., element tagging). Any vision system will work to help you navigate the website and take action. It also has browsing facilities for language models without eyesight. |
+|[Extra-fast Bark for generating long texts. ](https://colab.research.google.com/github/ylacombe/explanatory_notebooks/blob/main/extra_fast_bark_for_long_generation.ipynb) |In this notebook, we'll show you how to generate very long texts very quickly using Bark, Flash Attention 2 and batching.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -91,7 +91,7 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm) | This blog post discusses the many new assaults that language model systems are facing. It has good details regarding several attack types as well as some successful mitigations that teams have discovered.|
+|[Adversarial Attacks on LLMs. ](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm) | This blog post discusses the many new assaults that language model systems are facing. It has good details regarding several attack types as well as some successful mitigations that teams have discovered.|
 |[]() | |
 |[]() | |
 |[]() | |
