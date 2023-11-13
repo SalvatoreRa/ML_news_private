@@ -37,8 +37,8 @@
 ## Research
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models. ](https://arxiv.org/abs/2311.05464v1) |In order to provide more control over appearance and geometry, this research integrates 2D diffusion models into the 3DStyle-Diffusion model, a revolutionary technique for comprehensive stylization of 3D meshes. It functions by first employing implicit MLP networks to parameterize the texture of a 3D mesh into reflectance and illumination. After that, a pre-trained 2D diffusion model is used to maintain geometric consistency and match the produced pictures with the text prompt. [official code. ](https://github.com/yanghb22-fdu/3dstyle-diffusion-official)|
+|[Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Task.](https://github.com/haoyi-duan/dg-sct) |Dual-Guided Spatial-Channel-Temporal (DG-SCT) attention mechanism to enhances pre-trained audio-visual models for multi-modal tasks. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -54,8 +54,8 @@
 ## News
 |Link|description|
 |---|---|
-|[Google in talks to invest ‘hundreds of millions’ into AI startup Character.AI](https://www.calcalistech.com/ctechnews/article/h1vdzfaqt) | Character.AI's chatbots, with various roles and tones to choose from, have appealed to users ages 18 to 24, who contributed about 60% of its website traffic.|
-|[Introducing AI to FigJam](https://www.figma.com/blog/introducing-ai-to-figjam/) | FigJam, Figma's digital whiteboard application, now incorporates AI support to help streamline and improve design interactions. |
+|[Google in talks to invest ‘hundreds of millions’ into AI startup Character.AI. ](https://www.calcalistech.com/ctechnews/article/h1vdzfaqt) | Character.AI's chatbots, with various roles and tones to choose from, have appealed to users ages 18 to 24, who contributed about 60% of its website traffic.|
+|[Introducing AI to FigJam.](https://www.figma.com/blog/introducing-ai-to-figjam/) | FigJam, Figma's digital whiteboard application, now incorporates AI support to help streamline and improve design interactions. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -73,8 +73,8 @@
 ## Resources
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
+|[The Alignment Handbook. ](https://github.com/huggingface/alignment-handbook) | The HuggingFace's Alignment Handbook aims to fill that gap by providing the community with a series of robust training recipes that span the whole pipeline.|
+|[versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) |Pass your audio in, AudioSR will make it high fidelity! |
 |[]() | |
 |[]() | |
 |[]() | |
