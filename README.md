@@ -31,6 +31,7 @@
 |[]() | |
 |[]() | |
 
+
 # ON WORKING
 
 ## Research
@@ -39,10 +40,32 @@
 |[]() | |
 |[]() | |
 |[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+
 
 ## News
 |Link|description|
 |---|---|
+|[Google in talks to invest ‘hundreds of millions’ into AI startup Character.AI](https://www.calcalistech.com/ctechnews/article/h1vdzfaqt) | Character.AI's chatbots, with various roles and tones to choose from, have appealed to users ages 18 to 24, who contributed about 60% of its website traffic.|
+|[Introducing AI to FigJam](https://www.figma.com/blog/introducing-ai-to-figjam/) | FigJam, Figma's digital whiteboard application, now incorporates AI support to help streamline and improve design interactions. |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -50,6 +73,39 @@
 ## Resources
 |Link|description|
 |---|---|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm) | This blog post discusses the many new assaults that language model systems are facing. It has good details regarding several attack types as well as some successful mitigations that teams have discovered.|
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 
