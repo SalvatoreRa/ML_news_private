@@ -58,9 +58,9 @@
 |[Introducing AI to FigJam.](https://www.figma.com/blog/introducing-ai-to-figjam/) | FigJam, Figma's digital whiteboard application, now incorporates AI support to help streamline and improve design interactions. |
 |[LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills. ](https://llava-vl.github.io/llava-plus/) |An open-source approach that integrates language and vision is called LLaVa. The updated version gives the instruction-tuned model access to tools for creating and altering images, among other things. |
 |[ai-town-rwkv-proxy. ](https://github.com/recursal/ai-town-rwkv-proxy) | Hundreds of agents in AI Town, an incredible experiment, go about their everyday lives as prompt states in language models. Compared to typical Transformers, the RWKV model is a linear language model that uses less resources. This repository runs AI Town on your local computer using this less expensive model.|
-|[Nvidia is launching a new must-have AI chip — as customers still scramble for its last one.](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date) | |
-|[]() | |
-|[]() | |
+|[Nvidia is launching a new must-have AI chip — as customers still scramble for its last one.](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date) |The new class-leading H200 has more memory capacity and bandwidth, speeding up its work with generative AI and LLMs. |
+|[OpenAI reveals new details about its AI development roadmap and fundraising plans](https://siliconangle.com/2023/11/13/openai-reveals-new-details-ai-development-roadmap-fundraising-plans/) | OpenAI LP is working on GPT-5 and plans to raise more capital from Microsoft Corp. to support its development efforts, Chief Executive Officer Sam Altman has disclosed in a new interview.|
+|[Xbox partners with Inworld AI to build generative AI tools for game development](https://inworld.ai/blog/xbox-partners-with-inworld-ai-to-build-generative-ai-tools-for-game-development) | Xbox and Inworld AI are working together to build AI-driven technologies that will enhance game developers' narratives and character creation features. As part of the collaboration, an AI character runtime engine and an AI design copilot will be created to help game creators create immersive gaming experiences. They believe these technologies will accelerate game creation, improve immersion, and encourage boundless innovation.|
 |[]() | |
 |[]() | |
 |[]() | |
