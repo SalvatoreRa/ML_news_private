@@ -58,7 +58,7 @@
 |[Introducing AI to FigJam.](https://www.figma.com/blog/introducing-ai-to-figjam/) | FigJam, Figma's digital whiteboard application, now incorporates AI support to help streamline and improve design interactions. |
 |[LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills. ](https://llava-vl.github.io/llava-plus/) |An open-source approach that integrates language and vision is called LLaVa. The updated version gives the instruction-tuned model access to tools for creating and altering images, among other things. |
 |[ai-town-rwkv-proxy. ](https://github.com/recursal/ai-town-rwkv-proxy) | Hundreds of agents in AI Town, an incredible experiment, go about their everyday lives as prompt states in language models. Compared to typical Transformers, the RWKV model is a linear language model that uses less resources. This repository runs AI Town on your local computer using this less expensive model.|
-|[]() | |
+|[Nvidia is launching a new must-have AI chip — as customers still scramble for its last one.](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date) | |
 |[]() | |
 |[]() | |
 |[]() | |
