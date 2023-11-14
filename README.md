@@ -61,9 +61,9 @@
 |[Nvidia is launching a new must-have AI chip — as customers still scramble for its last one.](https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date) |The new class-leading H200 has more memory capacity and bandwidth, speeding up its work with generative AI and LLMs. |
 |[OpenAI reveals new details about its AI development roadmap and fundraising plans](https://siliconangle.com/2023/11/13/openai-reveals-new-details-ai-development-roadmap-fundraising-plans/) | OpenAI LP is working on GPT-5 and plans to raise more capital from Microsoft Corp. to support its development efforts, Chief Executive Officer Sam Altman has disclosed in a new interview.|
 |[Xbox partners with Inworld AI to build generative AI tools for game development](https://inworld.ai/blog/xbox-partners-with-inworld-ai-to-build-generative-ai-tools-for-game-development) | Xbox and Inworld AI are working together to build AI-driven technologies that will enhance game developers' narratives and character creation features. As part of the collaboration, an AI character runtime engine and an AI design copilot will be created to help game creators create immersive gaming experiences. They believe these technologies will accelerate game creation, improve immersion, and encourage boundless innovation.|
-|[]() | |
-|[]() | |
-|[]() | |
+|[New techniques efficiently accelerate sparse tensors for massive AI models](https://news.mit.edu/2023/new-techniques-efficiently-accelerate-sparse-tensors-1030) | Complimentary approaches — “HighLight” and “Tailors and Swiftiles” — could boost the performance of demanding machine-learning tasks.|
+|[OpenAI’s six-member board will decide ‘when we’ve attained AGI’](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/) |According to OpenAI, the six members of its nonprofit board of directors will determine when the company has “attained AGI”  |
+|[Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People. ](https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-real-people/) | Users of the contentious "bounties" function of Civitai, an AI model sharing site, may now commission and profit from the production of AI-generated photographs.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -78,9 +78,9 @@
 |[tarsier. ](https://github.com/reworkd/tarsier) |Vision utilities for web interaction agents. A number of teams are working on creating agents that can interact with web items through vision thanks to the development of potent new vision models. A standard toolset is introduced by Tarsier (e.g., element tagging). Any vision system will work to help you navigate the website and take action. It also has browsing facilities for language models without eyesight. |
 |[Extra-fast Bark for generating long texts. ](https://colab.research.google.com/github/ylacombe/explanatory_notebooks/blob/main/extra_fast_bark_for_long_generation.ipynb) |In this notebook, we'll show you how to generate very long texts very quickly using Bark, Flash Attention 2 and batching.|
 |[OpenGPTs](https://github.com/langchain-ai/opengpts) | This is an open source effort to create a similar experience to OpenAI's GPTs. It builds upon LangChain, LangServe and LangSmith. |
-|[]() | |
-|[]() | |
-|[]() | |
+|[Tamil-Llama: A Family of LLaMA-based LLMs focused on Tamil Language](https://github.com/abhinand5/tamil-llama) | This repository contains the code and models for "Tamil-Llama", a project focused on enhancing the performance of language models for the Tamil language.|
+|[GPT4V-AD-Exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration) | In our report, we explore the revolutionary GPT-4V, a visionary in the field of autonomous driving.|
+|[BestGPTs. ](https://github.com/AgentOps-AI/BestGPTs) |Top ranked OpenAI GPTs |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -92,8 +92,8 @@
 |Link|description|
 |---|---|
 |[Adversarial Attacks on LLMs. ](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm) | This blog post discusses the many new assaults that language model systems are facing. It has good details regarding several attack types as well as some successful mitigations that teams have discovered.|
-|[]() | |
-|[]() | |
+|[AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) |A comprehensive review of the major developments in the AI research, industry, and open-source space that happened in 2023. |
+|[How investors see your start up?](https://medium.com/angularventures/thin-and-ephemeral-vs-big-and-weak-vs-small-and-strong-53bb4b9d2bc8) |A general partner at Angular Ventures divides the application concepts we are seeing into three major categories in an attempt to make sense of all the nascent AI firms. This exclusively examines application-layer businesses; it ignores model-layer companies. |
 |[]() | |
 |[]() | |
 |[]() | |
