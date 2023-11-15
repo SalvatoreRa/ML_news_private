@@ -65,6 +65,10 @@
 |[New techniques efficiently accelerate sparse tensors for massive AI models](https://news.mit.edu/2023/new-techniques-efficiently-accelerate-sparse-tensors-1030) | Complimentary approaches — “HighLight” and “Tailors and Swiftiles” — could boost the performance of demanding machine-learning tasks.|
 |[OpenAI’s six-member board will decide ‘when we’ve attained AGI’](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/) |According to OpenAI, the six members of its nonprofit board of directors will determine when the company has “attained AGI”  |
 |[Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People. ](https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-real-people/) | Users of the contentious "bounties" function of Civitai, an AI model sharing site, may now commission and profit from the production of AI-generated photographs.|
+|[You.com launches new APIs to connect LLMs to the web.](https://techcrunch.com/2023/11/14/you-com-launches-new-apis-to-connect-llms-to-the-web/) | When OpenAI connected ChatGPT to the internet, it supercharged the AI chatbot’s capabilities. Now, the search engine You.com wants to do the same for every large language model (LLM) out there.|
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -92,9 +96,9 @@
 |Link|description|
 |---|---|
 |[Adversarial Attacks on LLMs. ](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm) | This blog post discusses the many new assaults that language model systems are facing. It has good details regarding several attack types as well as some successful mitigations that teams have discovered.|
-|[AI and Open Source in 2023](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) |A comprehensive review of the major developments in the AI research, industry, and open-source space that happened in 2023. |
+|[AI and Open Source in 2023. ](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) |A comprehensive review of the major developments in the AI research, industry, and open-source space that happened in 2023. |
 |[How investors see your start up?](https://medium.com/angularventures/thin-and-ephemeral-vs-big-and-weak-vs-small-and-strong-53bb4b9d2bc8) |A general partner at Angular Ventures divides the application concepts we are seeing into three major categories in an attempt to make sense of all the nascent AI firms. This exclusively examines application-layer businesses; it ignores model-layer companies. |
-|[]() | |
+|[retool's state of AI 2023.](https://retool.com/reports/state-of-ai-2023) | Retool surveyed 1,500 tech workers |
 |[]() | |
 |[]() | |
 |[]() | |
