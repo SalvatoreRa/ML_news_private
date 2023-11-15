@@ -43,8 +43,9 @@
 |[FinGPT: Large Generative Models for a Small Language](https://arxiv.org/abs/2311.05640) | This study tackles the challenges of creating large language models (LLMs) for Finnish, a language spoken by less than 0.1% of the world population.|
 |[Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service](https://arxiv.org/abs/2311.05863v1) | VLPMarker, a secure and robust backdoor-based embedding watermarking method for vision-language pre-trained models (VLPs), which effectively injects triggers into VLPs without interfering with model parameters, providing high-quality copyright verification and minimal impact on performance, while also enhancing resilience against various attacks through a collaborative copyright verification strategy based on both backdoor triggers and embedding distribution.|
 |[Visualizing the Diversity of Representations Learned by Bayesian Neural Networks.](https://openreview.net/pdf?id=ZSxvyWrX6k) |ExplainableAI methods and their applications to Bayesian Neural Networks |
-|[]() | |
-|[]() | |
+|[MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model](https://arxiv.org/abs/2311.07198v1) |In this work, a novel framework for self-supervised monocular depth estimation called MonoDiffusion is presented. It takes a fresh approach to the problem by treating iterative denoising. Instead of employing real depth ground-truth for training, it makes use of a faux ground-truth diffusion process led by a teacher model that has already been taught. [official code.](https://github.com/ShuweiShao/MonoDiffusion)|
+|[Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) |
+The paper discusses the deployment challenges of large language models (LLMs) in real-world scenarios, particularly in domain-specific question answering (QA) with the integration of domain knowledge graphs. The authors introduce KnowPAT, a novel pipeline that employs style and knowledge preference sets, coupled with a new alignment objective, to improve LLMs for practical use in domain-specific QA, as evidenced by superior performance in experiments against 15 baseline methods. [official code.](https://github.com/zjukg/knowpat)|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -66,9 +67,9 @@
 |[OpenAI’s six-member board will decide ‘when we’ve attained AGI’](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/) |According to OpenAI, the six members of its nonprofit board of directors will determine when the company has “attained AGI”  |
 |[Giant AI Platform Introduces ‘Bounties’ for Deepfakes of Real People. ](https://www.404media.co/giant-ai-platform-introduces-bounties-for-nonconsensual-images-of-real-people/) | Users of the contentious "bounties" function of Civitai, an AI model sharing site, may now commission and profit from the production of AI-generated photographs.|
 |[You.com launches new APIs to connect LLMs to the web.](https://techcrunch.com/2023/11/14/you-com-launches-new-apis-to-connect-llms-to-the-web/) | When OpenAI connected ChatGPT to the internet, it supercharged the AI chatbot’s capabilities. Now, the search engine You.com wants to do the same for every large language model (LLM) out there.|
-|[]() | |
-|[]() | |
-|[]() | |
+|[Microsoft and OpenAI partnership unveils new AI opportunities. ](https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/11/07/come-build-with-us-microsoft-and-openai-partnership-unveils-new-ai-opportunities/) |Microsoft said at OpenAI's DevDay that it will launch the new GPT-4 Turbo on Azure OpenAI Service before year's end, offering more control and cost savings. Businesses' AI skills will be enhanced by OpenAI's Custom Models initiative, which will easily interact with Microsoft's ecosystem. |
+|[Nous-Capybara-34B V1.9. ](https://huggingface.co/NousResearch/Nous-Capybara-34B) |This is trained on the Yi-34B model with 200K context length, for 3 epochs on the Capybara dataset (multi-turn data with more than 1000 tokens per conversation)|
+|[Catch me if you can! How to beat GPT-4 with a 13B model. ](https://lmsys.org/blog/2023-11-14-llm-decontaminator/) |Announcing Llama-rephraser: 13B models reaching GPT-4 performance in major benchmark. What's the trick behind it? Well, rephrasing the test set is all you need!  |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -87,6 +88,15 @@
 |[GPT4V-AD-Exploration. ](https://github.com/pjlab-adg/gpt4v-ad-exploration) | In our report, we explore the revolutionary GPT-4V, a visionary in the field of autonomous driving.|
 |[BestGPTs. ](https://github.com/AgentOps-AI/BestGPTs) |Top ranked OpenAI GPTs |
 |[Hallucination Leaderboard. ](https://github.com/vectara/hallucination-leaderboard) | This evaluates how often an LLM introduces hallucinations when summarizing a document.  |
+|[draw-a-ui](https://github.com/SawyerHood/draw-a-ui) |This is an app that uses tldraw and the gpt-4-vision api to generate html based on a wireframe you draw. |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
