@@ -42,6 +42,7 @@
 |[Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom](https://www.biorxiv.org/content/10.1101/2023.10.09.561603v1) | RoseTTAFold All-Atom (RFAA), a deep network addressing the limitations of current protein structure modeling tools by accurately representing complete biological assemblies, including covalent modifications and interactions with small molecules. RFAA demonstrates comparable accuracy to AlphaFold2 in protein structure prediction, excels in flexible small molecule docking, and predicts covalent modifications and assemblies involving nucleic acids and small molecules. Additionally, the authors present RFdiffusion All-Atom (RFdiffusionAA), a fine-tuned model for generating binding pockets around small and non-protein molecules, showcasing experimental validation with proteins binding to therapeutic, enzymatic, and optically active molecules.|
 |[FinGPT: Large Generative Models for a Small Language](https://arxiv.org/abs/2311.05640) | This study tackles the challenges of creating large language models (LLMs) for Finnish, a language spoken by less than 0.1% of the world population.|
 |[Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service](https://arxiv.org/abs/2311.05863v1) | VLPMarker, a secure and robust backdoor-based embedding watermarking method for vision-language pre-trained models (VLPs), which effectively injects triggers into VLPs without interfering with model parameters, providing high-quality copyright verification and minimal impact on performance, while also enhancing resilience against various attacks through a collaborative copyright verification strategy based on both backdoor triggers and embedding distribution.|
+|[Visualizing the Diversity of Representations Learned by Bayesian Neural Networks.](https://openreview.net/pdf?id=ZSxvyWrX6k) |ExplainableAI methods and their applications to Bayesian Neural Networks |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -77,12 +78,11 @@
 |[versatile_audio_super_resolution. ](https://github.com/haoheliu/versatile_audio_super_resolution) |Pass your audio in, AudioSR will make it high fidelity! |
 |[tarsier. ](https://github.com/reworkd/tarsier) |Vision utilities for web interaction agents. A number of teams are working on creating agents that can interact with web items through vision thanks to the development of potent new vision models. A standard toolset is introduced by Tarsier (e.g., element tagging). Any vision system will work to help you navigate the website and take action. It also has browsing facilities for language models without eyesight. |
 |[Extra-fast Bark for generating long texts. ](https://colab.research.google.com/github/ylacombe/explanatory_notebooks/blob/main/extra_fast_bark_for_long_generation.ipynb) |In this notebook, we'll show you how to generate very long texts very quickly using Bark, Flash Attention 2 and batching.|
-|[OpenGPTs](https://github.com/langchain-ai/opengpts) | This is an open source effort to create a similar experience to OpenAI's GPTs. It builds upon LangChain, LangServe and LangSmith. |
-|[Tamil-Llama: A Family of LLaMA-based LLMs focused on Tamil Language](https://github.com/abhinand5/tamil-llama) | This repository contains the code and models for "Tamil-Llama", a project focused on enhancing the performance of language models for the Tamil language.|
-|[GPT4V-AD-Exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration) | In our report, we explore the revolutionary GPT-4V, a visionary in the field of autonomous driving.|
+|[OpenGPTs.](https://github.com/langchain-ai/opengpts) | This is an open source effort to create a similar experience to OpenAI's GPTs. It builds upon LangChain, LangServe and LangSmith. |
+|[Tamil-Llama: A Family of LLaMA-based LLMs focused on Tamil Language](https://github.com/abhinand5/tamil-llama.) | This repository contains the code and models for "Tamil-Llama", a project focused on enhancing the performance of language models for the Tamil language.|
+|[GPT4V-AD-Exploration. ](https://github.com/pjlab-adg/gpt4v-ad-exploration) | In our report, we explore the revolutionary GPT-4V, a visionary in the field of autonomous driving.|
 |[BestGPTs. ](https://github.com/AgentOps-AI/BestGPTs) |Top ranked OpenAI GPTs |
-|[]() | |
-|[]() | |
+|[Hallucination Leaderboard. ](https://github.com/vectara/hallucination-leaderboard) | This evaluates how often an LLM introduces hallucinations when summarizing a document.  |
 |[]() | |
 |[]() | |
 |[]() | |
