@@ -70,7 +70,7 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[Microsoft and OpenAI partnership unveils new AI opportunities. ](https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/11/07/come-build-with-us-microsoft-and-openai-partnership-unveils-new-ai-opportunities/) |Microsoft said at OpenAI's DevDay that it will launch the new GPT-4 Turbo on Azure OpenAI Service before year's end, offering more control and cost savings. Businesses' AI skills will be enhanced by OpenAI's Custom Models initiative, which will easily interact with Microsoft's ecosystem. |
 |[Nous-Capybara-34B V1.9. ](https://huggingface.co/NousResearch/Nous-Capybara-34B) |This is trained on the Yi-34B model with 200K context length, for 3 epochs on the Capybara dataset (multi-turn data with more than 1000 tokens per conversation)|
 |[Catch me if you can! How to beat GPT-4 with a 13B model. ](https://lmsys.org/blog/2023-11-14-llm-decontaminator/) |Announcing Llama-rephraser: 13B models reaching GPT-4 performance in major benchmark. What's the trick behind it? Well, rephrasing the test set is all you need!  |
-|[]() | |
+|[IBM debuts $500 million enterprise AI venture fund](https://www.axios.com/2023/11/07/ibm-enterprise-ai-venture-fund) |IBM is dedicating $500 million to invest in generative AI startups focused on business customers.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -89,8 +89,8 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[BestGPTs. ](https://github.com/AgentOps-AI/BestGPTs) |Top ranked OpenAI GPTs |
 |[Hallucination Leaderboard. ](https://github.com/vectara/hallucination-leaderboard) | This evaluates how often an LLM introduces hallucinations when summarizing a document.  |
 |[draw-a-ui](https://github.com/SawyerHood/draw-a-ui) |This is an app that uses tldraw and the gpt-4-vision api to generate html based on a wireframe you draw. |
-|[]() | |
-|[]() | |
+|[AMBER: An Automated Multi-dimensional Benchmark for Multi-modal Hallucination Evaluation. ](https://github.com/junyangwang0410/amber) | a new benchmark designed to assess and reduce hallucinations in Multi-modal Large Language Models (MLLMs)|
+|[https://github.com/jxnl/instructor](https://github.com/jxnl/instructor) | Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -109,7 +109,7 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[AI and Open Source in 2023. ](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) |A comprehensive review of the major developments in the AI research, industry, and open-source space that happened in 2023. |
 |[How investors see your start up?](https://medium.com/angularventures/thin-and-ephemeral-vs-big-and-weak-vs-small-and-strong-53bb4b9d2bc8) |A general partner at Angular Ventures divides the application concepts we are seeing into three major categories in an attempt to make sense of all the nascent AI firms. This exclusively examines application-layer businesses; it ignores model-layer companies. |
 |[retool's state of AI 2023.](https://retool.com/reports/state-of-ai-2023) | Retool surveyed 1,500 tech workers |
-|[]() | |
+|[Language models can use steganography to hide their reasoning, study finds](https://venturebeat.com/ai/language-models-can-use-steganography-to-hide-their-reasoning-study-finds/) |large language models (LLMs) can master “encoded reasoning,” a form of steganography. This intriguing phenomenon allows LLMs to subtly embed intermediate reasoning steps within their generated text in a way that is undecipherable to human readers.  |
 |[]() | |
 |[]() | |
 |[]() | |
