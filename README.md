@@ -46,8 +46,8 @@
 |[MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model](https://arxiv.org/abs/2311.07198v1) |In this work, a novel framework for self-supervised monocular depth estimation called MonoDiffusion is presented. It takes a fresh approach to the problem by treating iterative denoising. Instead of employing real depth ground-truth for training, it makes use of a faux ground-truth diffusion process led by a teacher model that has already been taught. [official code.](https://github.com/ShuweiShao/MonoDiffusion)|
 |[Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) |
 The paper discusses the deployment challenges of large language models (LLMs) in real-world scenarios, particularly in domain-specific question answering (QA) with the integration of domain knowledge graphs. The authors introduce KnowPAT, a novel pipeline that employs style and knowledge preference sets, coupled with a new alignment objective, to improve LLMs for practical use in domain-specific QA, as evidenced by superior performance in experiments against 15 baseline methods. [official code.](https://github.com/zjukg/knowpat)|
-|[]() | |
-|[]() | |
+|[DeepMind AI accurately forecasts weather — on a desktop computer](https://www.nature.com/articles/d41586-023-03552-y) |The machine-learning model takes less than a minute to predict future weather worldwide more precisely than other approaches. [original article](https://www.science.org/doi/10.1126/science.adi2336) |
+|[Role play with large language models. ](https://www.nature.com/articles/s41586-023-06647-8) | Casting dialogue-agent behaviour in terms of role play allows us to draw on familiar folk psychological terms, without ascribing human characteristics to language models that they in fact lack. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -69,6 +69,7 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[You.com launches new APIs to connect LLMs to the web.](https://techcrunch.com/2023/11/14/you-com-launches-new-apis-to-connect-llms-to-the-web/) | When OpenAI connected ChatGPT to the internet, it supercharged the AI chatbot’s capabilities. Now, the search engine You.com wants to do the same for every large language model (LLM) out there.|
 |[Microsoft and OpenAI partnership unveils new AI opportunities. ](https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/11/07/come-build-with-us-microsoft-and-openai-partnership-unveils-new-ai-opportunities/) |Microsoft said at OpenAI's DevDay that it will launch the new GPT-4 Turbo on Azure OpenAI Service before year's end, offering more control and cost savings. Businesses' AI skills will be enhanced by OpenAI's Custom Models initiative, which will easily interact with Microsoft's ecosystem. |
 |[Nous-Capybara-34B V1.9. ](https://huggingface.co/NousResearch/Nous-Capybara-34B) |This is trained on the Yi-34B model with 200K context length, for 3 epochs on the Capybara dataset (multi-turn data with more than 1000 tokens per conversation)|
+|[AI writes summaries of preprints in bioRxiv trial. ](https://www.nature.com/articles/d41586-023-03545-x) | Large language model creates synopses of papers aimed at various reading levels to help scientists sift through the literature.|
 |[Catch me if you can! How to beat GPT-4 with a 13B model. ](https://lmsys.org/blog/2023-11-14-llm-decontaminator/) |Announcing Llama-rephraser: 13B models reaching GPT-4 performance in major benchmark. What's the trick behind it? Well, rephrasing the test set is all you need!  |
 |[IBM debuts $500 million enterprise AI venture fund](https://www.axios.com/2023/11/07/ibm-enterprise-ai-venture-fund) |IBM is dedicating $500 million to invest in generative AI startups focused on business customers.|
 |[]() | |
@@ -109,10 +110,9 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[AI and Open Source in 2023. ](https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023) |A comprehensive review of the major developments in the AI research, industry, and open-source space that happened in 2023. |
 |[How investors see your start up?](https://medium.com/angularventures/thin-and-ephemeral-vs-big-and-weak-vs-small-and-strong-53bb4b9d2bc8) |A general partner at Angular Ventures divides the application concepts we are seeing into three major categories in an attempt to make sense of all the nascent AI firms. This exclusively examines application-layer businesses; it ignores model-layer companies. |
 |[retool's state of AI 2023.](https://retool.com/reports/state-of-ai-2023) | Retool surveyed 1,500 tech workers |
-|[Language models can use steganography to hide their reasoning, study finds](https://venturebeat.com/ai/language-models-can-use-steganography-to-hide-their-reasoning-study-finds/) |large language models (LLMs) can master “encoded reasoning,” a form of steganography. This intriguing phenomenon allows LLMs to subtly embed intermediate reasoning steps within their generated text in a way that is undecipherable to human readers.  |
-|[]() | |
-|[]() | |
-|[]() | |
+|[Language models can use steganography to hide their reasoning, study finds.](https://venturebeat.com/ai/language-models-can-use-steganography-to-hide-their-reasoning-study-finds/) |large language models (LLMs) can master “encoded reasoning,” a form of steganography. This intriguing phenomenon allows LLMs to subtly embed intermediate reasoning steps within their generated text in a way that is undecipherable to human readers.  |
+|[Why teachers should explore ChatGPT’s potential — despite the risks. ](https://www.nature.com/articles/d41586-023-03505-5) |Many students now use AI chatbots to help with their assignments. Educators need to study how to include these tools in teaching and learning — and minimize pitfalls. |
+|[The future is quantum: universities look to train engineers for an emerging industry. ](https://www.nature.com/articles/d41586-023-03511-7) | With quantum technologies heading for the mainstream, undergraduate courses are preparing the workforce of the future.|
 |[]() | |
 |[]() | |
 |[]() | |
