@@ -72,6 +72,10 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[AI writes summaries of preprints in bioRxiv trial. ](https://www.nature.com/articles/d41586-023-03545-x) | Large language model creates synopses of papers aimed at various reading levels to help scientists sift through the literature.|
 |[Catch me if you can! How to beat GPT-4 with a 13B model. ](https://lmsys.org/blog/2023-11-14-llm-decontaminator/) |Announcing Llama-rephraser: 13B models reaching GPT-4 performance in major benchmark. What's the trick behind it? Well, rephrasing the test set is all you need!  |
 |[IBM debuts $500 million enterprise AI venture fund](https://www.axios.com/2023/11/07/ibm-enterprise-ai-venture-fund) |IBM is dedicating $500 million to invest in generative AI startups focused on business customers.|
+|[Microsoft is finally making custom chips — and they’re all about AI. ](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure) |The Azure Maia 100 and Cobalt 100 chips are the first two custom silicon chips designed by Microsoft for its cloud infrastructure |
+|[]() | |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
