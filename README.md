@@ -6,30 +6,30 @@
 ## Research
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
-|[]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
-|[]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Perspectives
 |Link|description|
 |---|---|
-|[]() | |
-|[]() | |
-|[]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 
 # ON WORKING
@@ -48,6 +48,10 @@
 The paper discusses the deployment challenges of large language models (LLMs) in real-world scenarios, particularly in domain-specific question answering (QA) with the integration of domain knowledge graphs. The authors introduce KnowPAT, a novel pipeline that employs style and knowledge preference sets, coupled with a new alignment objective, to improve LLMs for practical use in domain-specific QA, as evidenced by superior performance in experiments against 15 baseline methods. [official code.](https://github.com/zjukg/knowpat)|
 |[DeepMind AI accurately forecasts weather — on a desktop computer](https://www.nature.com/articles/d41586-023-03552-y) |The machine-learning model takes less than a minute to predict future weather worldwide more precisely than other approaches. [original article](https://www.science.org/doi/10.1126/science.adi2336) |
 |[Role play with large language models. ](https://www.nature.com/articles/s41586-023-06647-8) | Casting dialogue-agent behaviour in terms of role play allows us to draw on familiar folk psychological terms, without ascribing human characteristics to language models that they in fact lack. |
+|[Fine-tuning Language Models for Factuality. ](https://arxiv.org/abs/2311.08401) |ChatGPT's widespread acceptance was made possible by a breakthrough in model optimization based on preferences. By using comparable technologies, model accuracy and factual accuracy can be increased, leading to a 50% reduction in medical recall errors. |
+|[Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO. ](https://arxiv.org/abs/2311.01057) |This group trained an ultra-small YOLO computer vision model and developed new RISC-V hardware specifically for vision, allowing for real-time object identification at very low latency and low power consumption. |
+|[]() | |
+|[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -74,8 +78,8 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[IBM debuts $500 million enterprise AI venture fund](https://www.axios.com/2023/11/07/ibm-enterprise-ai-venture-fund) |IBM is dedicating $500 million to invest in generative AI startups focused on business customers.|
 |[Microsoft is finally making custom chips — and they’re all about AI. ](https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure) |The Azure Maia 100 and Cobalt 100 chips are the first two custom silicon chips designed by Microsoft for its cloud infrastructure |
 |[Google's AI-powered search feature goes global with a 120-country expansion](https://www.engadget.com/googles-ai-powered-search-feature-goes-global-with-a-120-country-expansion-180028037.html) |The SGE update includes additional language support for Spanish, Portuguese, Korean and Indonesian. |
-|[]() | |
-|[]() | |
+|[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform. ](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) | GitHub is announcing general availability of GitHub Copilot Chat and previews of the new GitHub Copilot Enterprise offering, new AI-powered security features, and the GitHub Copilot Partner Program.|
+|[Deepmind’s animation gallery](https://www.pexels.com/@googledeepmind/gallery/) |A variety of animations and artwork have been made available by Google's deepmind research department to help people comprehend various AI systems. The animations are visually stunning but also a little strange. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -96,8 +100,8 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[draw-a-ui](https://github.com/SawyerHood/draw-a-ui) |This is an app that uses tldraw and the gpt-4-vision api to generate html based on a wireframe you draw. |
 |[AMBER: An Automated Multi-dimensional Benchmark for Multi-modal Hallucination Evaluation. ](https://github.com/junyangwang0410/amber) | a new benchmark designed to assess and reduce hallucinations in Multi-modal Large Language Models (MLLMs)|
 |[https://github.com/jxnl/instructor](https://github.com/jxnl/instructor) | Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control.|
-|[]() | |
-|[]() | |
+|[GPU-Accelerated LLM on a $100 Orange Pi. ](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi) | This post shows GPU-accelerated LLM running smoothly on an embedded device at a reasonable speed. Additionally, we are able to run a Llama-2 13b model at 1.5 tok/sec on a 16GB version of the Orange Pi 5+ under $150. |
+|[LLM Sherpa. ](https://github.com/nlmatics/llmsherpa) |LLM Sherpa provides strategic APIs to accelerate large language model (LLM) use cases. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -117,8 +121,8 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[Language models can use steganography to hide their reasoning, study finds.](https://venturebeat.com/ai/language-models-can-use-steganography-to-hide-their-reasoning-study-finds/) |large language models (LLMs) can master “encoded reasoning,” a form of steganography. This intriguing phenomenon allows LLMs to subtly embed intermediate reasoning steps within their generated text in a way that is undecipherable to human readers.  |
 |[Why teachers should explore ChatGPT’s potential — despite the risks. ](https://www.nature.com/articles/d41586-023-03505-5) |Many students now use AI chatbots to help with their assignments. Educators need to study how to include these tools in teaching and learning — and minimize pitfalls. |
 |[The future is quantum: universities look to train engineers for an emerging industry. ](https://www.nature.com/articles/d41586-023-03511-7) | With quantum technologies heading for the mainstream, undergraduate courses are preparing the workforce of the future.|
-|[]() | |
-|[]() | |
+|[The Future of Music: How Generative AI Is Transforming the Music Industry. ](https://a16z.com/the-future-of-music-how-generative-ai-is-transforming-the-music-industry/) |AI-generated music has the potential to become our primary source of music in the future and influence our listening preferences. This might mark the beginning of music's "Midjourney moment." |
+|[AI Doomers Are Finally Getting Some Long Overdue Blowback](https://www.bigtechnology.com/p/ai-doomers-are-finally-getting-some) | Now, those who predicted AI will bring about our collective extinction must reconsider their claims. The "AI doom" really mainly benefited the large players, and there are plenty of chances for the open source AI movements.|
 |[]() | |
 |[]() | |
 |[]() | |
