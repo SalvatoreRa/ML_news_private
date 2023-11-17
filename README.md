@@ -44,18 +44,19 @@
 |[Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service](https://arxiv.org/abs/2311.05863v1) | VLPMarker, a secure and robust backdoor-based embedding watermarking method for vision-language pre-trained models (VLPs), which effectively injects triggers into VLPs without interfering with model parameters, providing high-quality copyright verification and minimal impact on performance, while also enhancing resilience against various attacks through a collaborative copyright verification strategy based on both backdoor triggers and embedding distribution.|
 |[Visualizing the Diversity of Representations Learned by Bayesian Neural Networks.](https://openreview.net/pdf?id=ZSxvyWrX6k) |ExplainableAI methods and their applications to Bayesian Neural Networks |
 |[MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model](https://arxiv.org/abs/2311.07198v1) |In this work, a novel framework for self-supervised monocular depth estimation called MonoDiffusion is presented. It takes a fresh approach to the problem by treating iterative denoising. Instead of employing real depth ground-truth for training, it makes use of a faux ground-truth diffusion process led by a teacher model that has already been taught. [official code.](https://github.com/ShuweiShao/MonoDiffusion)|
-|[Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) |
-The paper discusses the deployment challenges of large language models (LLMs) in real-world scenarios, particularly in domain-specific question answering (QA) with the integration of domain knowledge graphs. The authors introduce KnowPAT, a novel pipeline that employs style and knowledge preference sets, coupled with a new alignment objective, to improve LLMs for practical use in domain-specific QA, as evidenced by superior performance in experiments against 15 baseline methods. [official code.](https://github.com/zjukg/knowpat)|
+|[Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) | The paper discusses the deployment challenges of large language models (LLMs) in real-world scenarios, particularly in domain-specific question answering (QA) with the integration of domain knowledge graphs. The authors introduce KnowPAT, a novel pipeline that employs style and knowledge preference sets, coupled with a new alignment objective, to improve LLMs for practical use in domain-specific QA, as evidenced by superior performance in experiments against 15 baseline methods. [official code.](https://github.com/zjukg/knowpat)|
 |[DeepMind AI accurately forecasts weather — on a desktop computer](https://www.nature.com/articles/d41586-023-03552-y) |The machine-learning model takes less than a minute to predict future weather worldwide more precisely than other approaches. [original article](https://www.science.org/doi/10.1126/science.adi2336) |
 |[Role play with large language models. ](https://www.nature.com/articles/s41586-023-06647-8) | Casting dialogue-agent behaviour in terms of role play allows us to draw on familiar folk psychological terms, without ascribing human characteristics to language models that they in fact lack. |
 |[Fine-tuning Language Models for Factuality. ](https://arxiv.org/abs/2311.08401) |ChatGPT's widespread acceptance was made possible by a breakthrough in model optimization based on preferences. By using comparable technologies, model accuracy and factual accuracy can be increased, leading to a 50% reduction in medical recall errors. |
 |[Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO. ](https://arxiv.org/abs/2311.01057) |This group trained an ultra-small YOLO computer vision model and developed new RISC-V hardware specifically for vision, allowing for real-time object identification at very low latency and low power consumption. |
+|[SentAlign: Accurate and Scalable Sentence Alignment. ](https://arxiv.org/abs/2311.08982v1) |an accurate sentence alignment tool designed to handle very large parallel document pairs. It can efficiently handle tens of thousands of sentences. [official code.](https://github.com/steinst/sentalign)|
+|[Large Language Models are Temporal and Causal Reasoners for Video Question Answering. ]() | LLMs make errors in VQA when they focus too much on the language and ignore the video content, this article aims to solve this [official code.](https://github.com/mlvlab/Flipped-VQA)|
 |[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
 |[]() | |
-
+|[]() | |
 
 ## News
 |Link|description|
@@ -80,6 +81,10 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[Google's AI-powered search feature goes global with a 120-country expansion](https://www.engadget.com/googles-ai-powered-search-feature-goes-global-with-a-120-country-expansion-180028037.html) |The SGE update includes additional language support for Spanish, Portuguese, Korean and Indonesian. |
 |[Universe 2023: Copilot transforms GitHub into the AI-powered developer platform. ](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) | GitHub is announcing general availability of GitHub Copilot Chat and previews of the new GitHub Copilot Enterprise offering, new AI-powered security features, and the GitHub Copilot Partner Program.|
 |[Deepmind’s animation gallery](https://www.pexels.com/@googledeepmind/gallery/) |A variety of animations and artwork have been made available by Google's deepmind research department to help people comprehend various AI systems. The animations are visually stunning but also a little strange. |
+|[Deep mind announce music generation model. ](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) |Today, in partnership with YouTube, we’re announcing Google DeepMind’s Lyria, our most advanced AI music generation model to date. Any content published by our Lyria model will be watermarked with SynthID. |
+|[META introduces Emu Video and Emu Edit, our latest generative AI research milestones. ](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/) | A generative model frequently produces an output image that isn't exactly what you were hoping for. It is really difficult to alter that image using the same model, though. Meta made a crucial discovery: editing capabilities can arise when all generations are treated as instructions. This is a really good improvement, especially when combined with the model architecture's newfound simplicity.|
+|[Microsoft launches a deepfakes creator at Ignite 2023 event. ](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/) |One of the more unexpected products to launch out of the Microsoft Ignite 2023 event is a tool that can create a photorealistic avatar of a person and animate that avatar saying things that the person didn’t necessarily say. |
+|[YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/) |YouTube is now requiring creators to mark videos that are made using AI, and the platform will show labels to viewers. |
 |[]() | |
 |[]() | |
 |[]() | |
@@ -102,11 +107,11 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[https://github.com/jxnl/instructor](https://github.com/jxnl/instructor) | Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control.|
 |[GPU-Accelerated LLM on a $100 Orange Pi. ](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi) | This post shows GPU-accelerated LLM running smoothly on an embedded device at a reasonable speed. Additionally, we are able to run a Llama-2 13b model at 1.5 tok/sec on a 16GB version of the Orange Pi 5+ under $150. |
 |[LLM Sherpa. ](https://github.com/nlmatics/llmsherpa) |LLM Sherpa provides strategic APIs to accelerate large language model (LLM) use cases. |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
+|[The Developer's Guide to Production-Grade LLM Apps](https://buildingaistuff.com/p/the-developers-guide-to-production) |dvanced Techniques for Maximizing LLM Performance |
+|[Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/) | This blog shows how to get META SAM 8x faster, just using PyTorch features: quantization, nested tensors and Triton |
+|[ai-exploits](https://github.com/protectai/ai-exploits) |This repository, ai-exploits, is a collection of exploits and scanning templates for responsibly disclosed vulnerabilities affecting machine learning tools. |
+|[Music ControlNet](https://musiccontrolnet.github.io/web/) |ControlNet represented an innovative approach to providing image synthetics models with fine-grained control. There is now a model for music generation that is fairly similar and allows you to manage several aspects such as pitch and pronunciation. |
+|[GPT-4 Turbo Note Taker](https://tactiq.io/ai-tools/gpt4-note-taker) | Fast and simple, Tactiq’s AI Note Taker with GPT-4 Turbo lets you turn your meetings into actionable notes - so that you're always taking the right action and getting more out of your meetings.|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -122,9 +127,9 @@ The paper discusses the deployment challenges of large language models (LLMs) in
 |[Why teachers should explore ChatGPT’s potential — despite the risks. ](https://www.nature.com/articles/d41586-023-03505-5) |Many students now use AI chatbots to help with their assignments. Educators need to study how to include these tools in teaching and learning — and minimize pitfalls. |
 |[The future is quantum: universities look to train engineers for an emerging industry. ](https://www.nature.com/articles/d41586-023-03511-7) | With quantum technologies heading for the mainstream, undergraduate courses are preparing the workforce of the future.|
 |[The Future of Music: How Generative AI Is Transforming the Music Industry. ](https://a16z.com/the-future-of-music-how-generative-ai-is-transforming-the-music-industry/) |AI-generated music has the potential to become our primary source of music in the future and influence our listening preferences. This might mark the beginning of music's "Midjourney moment." |
-|[AI Doomers Are Finally Getting Some Long Overdue Blowback](https://www.bigtechnology.com/p/ai-doomers-are-finally-getting-some) | Now, those who predicted AI will bring about our collective extinction must reconsider their claims. The "AI doom" really mainly benefited the large players, and there are plenty of chances for the open source AI movements.|
-|[]() | |
-|[]() | |
+|[AI Doomers Are Finally Getting Some Long Overdue Blowback. ](https://www.bigtechnology.com/p/ai-doomers-are-finally-getting-some) | Now, those who predicted AI will bring about our collective extinction must reconsider their claims. The "AI doom" really mainly benefited the large players, and there are plenty of chances for the open source AI movements.|
+|[There's a model for democratizing AI. ](https://www.programmablemutter.com/p/theres-a-model-for-making-ai-democratic) |The request for recommendations made by OpenAI on integrating democratic procedures in AI decision-making comes out as constrictive and prefers to handle delicate political matters without accepting accountability, which could limit the application and efficacy of democracy in AI governance. |
+|[Copilot is an Incumbent Business Model](https://matt-rickard.com/copilot-is-an-incumbent-business-model) | Though its ultimate disruptive potential rests in redesigning workflows, a challenge that might open substantially larger market opportunities, the Copilot AI business model improves current workflows for efficiency without generating new markets or upending lower ends.|
 |[]() | |
 |[]() | |
 |[]() | |
