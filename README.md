@@ -85,7 +85,7 @@
 |[META introduces Emu Video and Emu Edit, our latest generative AI research milestones. ](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/) | A generative model frequently produces an output image that isn't exactly what you were hoping for. It is really difficult to alter that image using the same model, though. Meta made a crucial discovery: editing capabilities can arise when all generations are treated as instructions. This is a really good improvement, especially when combined with the model architecture's newfound simplicity.|
 |[Microsoft launches a deepfakes creator at Ignite 2023 event. ](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/) |One of the more unexpected products to launch out of the Microsoft Ignite 2023 event is a tool that can create a photorealistic avatar of a person and animate that avatar saying things that the person didn’t necessarily say. |
 |[YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/) |YouTube is now requiring creators to mark videos that are made using AI, and the platform will show labels to viewers. |
-|[]() | |
+|[Sam Altman fired as CEO of OpenAI. ](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) |In a sudden move, Altman is leaving after the company’s board determined that he ‘was not consistently candid in his communications.’ President and co-founder Greg Brockman has also quit. [apparently, he could come back](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo) |
 |[]() | |
 |[]() | |
 |[]() | |
