@@ -91,9 +91,9 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[OpenAI’s identity crisis and the battle for AI’s future.](https://www.exponentialview.co/p/openais-identity-crisis-and-the-battle) |Last weekend some news happened in OpenAI, this blog post is about discussing some open questions |
-|[.]() | |
-|[.]() | |
+|[OpenAI’s identity crisis and the battle for AI’s future.](https://www.exponentialview.co/p/openais-identity-crisis-and-the-battle) |Last weekend some news happened in OpenAI, this blog post is about discussing some open questions. |
+|[A Data-Driven Look at the Rise of AI.](https://www.newcomer.co/p/a-data-driven-look-at-the-rise-of) |2023, The AI Revolution: Coatue's Sri Viswanath breaks down this year's developments in AI. |
+|[AI: The Coming Revolution.](https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023) |Coatue highlight four points for the future: AI has potential to break through the hype and meaningfully improve our world. Open source is the heartbeat of AI, but not all open source is created equally. Builders and investors need to understand the new, AI-centric tech stack. The best of AI is yet to come|
 |[.]() | |
 |[.]() | |
 |[.]() | |
