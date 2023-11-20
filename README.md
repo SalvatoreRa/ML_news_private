@@ -77,7 +77,7 @@
 |[Neural-Cherche.](https://github.com/raphaelsty/neural-cherche) |Neural-Cherche is a library designed to fine-tune neural search models such as Splade, ColBERT, and SparseEmbed on a specific dataset. |
 |[The Data Engineering Handbook.](https://github.com/DataEngineer-io/data-engineer-handbook) |This repo has all the resources you need to become an amazing data engineer. |
 |[tensorli.](https://github.com/joennlae/tensorli) | Absolute minimalistic implementation of a GPT-like transformer using only numpy (<650 lines).|
-|[.]() | |
+|[THE RISE OF “WET” ARTIFICIAL INTELLIGENCE.](https://proto.life/2023/11/perspective-the-rise-of-wet-artificial-intelligence/) |Combining AI with traditional wet lab work creates a virtuous circle from lab to data and back to the lab. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
