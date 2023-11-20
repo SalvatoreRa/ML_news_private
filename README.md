@@ -91,7 +91,7 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[OpenAI’s identity crisis and the battle for AI’s future.](https://www.exponentialview.co/p/openais-identity-crisis-and-the-battle) |Last weekend some news happened in OpenAI, this blog post is about discussing some open questions |
 |[.]() | |
 |[.]() | |
 |[.]() | |
