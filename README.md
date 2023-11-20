@@ -34,6 +34,81 @@
 
 # ON WORKING
 
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+# ML news: Week 12-19 November
+
 ## Research
 |Link|description|
 |---|---|
@@ -51,12 +126,7 @@
 |[Ultra-Efficient On-Device Object Detection on AI-Integrated Smart Glasses with TinyissimoYOLO. ](https://arxiv.org/abs/2311.01057) |This group trained an ultra-small YOLO computer vision model and developed new RISC-V hardware specifically for vision, allowing for real-time object identification at very low latency and low power consumption. |
 |[SentAlign: Accurate and Scalable Sentence Alignment. ](https://arxiv.org/abs/2311.08982v1) |an accurate sentence alignment tool designed to handle very large parallel document pairs. It can efficiently handle tens of thousands of sentences. [official code.](https://github.com/steinst/sentalign)|
 |[Large Language Models are Temporal and Causal Reasoners for Video Question Answering. ]() | LLMs make errors in VQA when they focus too much on the language and ignore the video content, this article aims to solve this [official code.](https://github.com/mlvlab/Flipped-VQA)|
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 ## News
 |Link|description|
@@ -86,9 +156,7 @@
 |[Microsoft launches a deepfakes creator at Ignite 2023 event. ](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/) |One of the more unexpected products to launch out of the Microsoft Ignite 2023 event is a tool that can create a photorealistic avatar of a person and animate that avatar saying things that the person didn’t necessarily say. |
 |[YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/) |YouTube is now requiring creators to mark videos that are made using AI, and the platform will show labels to viewers. |
 |[Sam Altman fired as CEO of OpenAI. ](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) |In a sudden move, Altman is leaving after the company’s board determined that he ‘was not consistently candid in his communications.’ President and co-founder Greg Brockman has also quit. [apparently, they asked him to come back](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo) [but he is now hired by Microsoft.](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)|
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 ## Resources
 |Link|description|
@@ -114,7 +182,7 @@
 |[GPT-4 Turbo Note Taker](https://tactiq.io/ai-tools/gpt4-note-taker) | Fast and simple, Tactiq’s AI Note Taker with GPT-4 Turbo lets you turn your meetings into actionable notes - so that you're always taking the right action and getting more out of your meetings.|
 |[Chroma. ](https://github.com/generatebio/chroma) |Chroma is a generative model for designing proteins programmatically. |
 |[A Survey on Language Models for Code. ](https://arxiv.org/abs/2311.07989v1) |gives a summary of LLMs for code, covering 500 relevant works, more than 30 assessment tasks, and more than 50 models. |
-|[]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -130,11 +198,7 @@
 |[AI Doomers Are Finally Getting Some Long Overdue Blowback. ](https://www.bigtechnology.com/p/ai-doomers-are-finally-getting-some) | Now, those who predicted AI will bring about our collective extinction must reconsider their claims. The "AI doom" really mainly benefited the large players, and there are plenty of chances for the open source AI movements.|
 |[There's a model for democratizing AI. ](https://www.programmablemutter.com/p/theres-a-model-for-making-ai-democratic) |The request for recommendations made by OpenAI on integrating democratic procedures in AI decision-making comes out as constrictive and prefers to handle delicate political matters without accepting accountability, which could limit the application and efficacy of democracy in AI governance. |
 |[Copilot is an Incumbent Business Model](https://matt-rickard.com/copilot-is-an-incumbent-business-model) | Though its ultimate disruptive potential rests in redesigning workflows, a challenge that might open substantially larger market opportunities, the Copilot AI business model improves current workflows for efficiency without generating new markets or upending lower ends.|
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
-|[]() | |
+
 
 
 # ML news: Week 6-12 November
