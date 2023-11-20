@@ -85,7 +85,7 @@
 |[META introduces Emu Video and Emu Edit, our latest generative AI research milestones. ](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/) | A generative model frequently produces an output image that isn't exactly what you were hoping for. It is really difficult to alter that image using the same model, though. Meta made a crucial discovery: editing capabilities can arise when all generations are treated as instructions. This is a really good improvement, especially when combined with the model architecture's newfound simplicity.|
 |[Microsoft launches a deepfakes creator at Ignite 2023 event. ](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/) |One of the more unexpected products to launch out of the Microsoft Ignite 2023 event is a tool that can create a photorealistic avatar of a person and animate that avatar saying things that the person didn’t necessarily say. |
 |[YouTube will show labels on videos that use AI](https://9to5google.com/2023/11/14/youtube-ai-labels-videos-shorts/) |YouTube is now requiring creators to mark videos that are made using AI, and the platform will show labels to viewers. |
-|[Sam Altman fired as CEO of OpenAI. ](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) |In a sudden move, Altman is leaving after the company’s board determined that he ‘was not consistently candid in his communications.’ President and co-founder Greg Brockman has also quit. [apparently, he could come back](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo) |
+|[Sam Altman fired as CEO of OpenAI. ](https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired) |In a sudden move, Altman is leaving after the company’s board determined that he ‘was not consistently candid in his communications.’ President and co-founder Greg Brockman has also quit. [apparently, they asked him to come back](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo) [but he is now hired by Microsoft.](https://www.theverge.com/2023/11/20/23968829/microsoft-hires-sam-altman-greg-brockman-employees-openai)|
 |[]() | |
 |[]() | |
 |[]() | |
@@ -113,7 +113,7 @@
 |[Music ControlNet](https://musiccontrolnet.github.io/web/) |ControlNet represented an innovative approach to providing image synthetics models with fine-grained control. There is now a model for music generation that is fairly similar and allows you to manage several aspects such as pitch and pronunciation. |
 |[GPT-4 Turbo Note Taker](https://tactiq.io/ai-tools/gpt4-note-taker) | Fast and simple, Tactiq’s AI Note Taker with GPT-4 Turbo lets you turn your meetings into actionable notes - so that you're always taking the right action and getting more out of your meetings.|
 |[Chroma. ](https://github.com/generatebio/chroma) |Chroma is a generative model for designing proteins programmatically. |
-|[]() | |
+|[A Survey on Language Models for Code. ](https://arxiv.org/abs/2311.07989v1) |gives a summary of LLMs for code, covering 500 relevant works, more than 30 assessment tasks, and more than 50 models. |
 |[]() | |
 
 ## Perspectives
