@@ -56,8 +56,8 @@
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Discord is shutting down its AI chatbot Clyde.](https://www.theverge.com/2023/11/17/23965185/discord-is-shutting-down-its-ai-chatbot-clyde) | Discord users won’t be able to chat to Clyde from December 1st onwards.|
+|[OpenAI has put ChatGPT Plus sign-ups on pause.](https://qz.com/openai-has-put-chatgpt-plus-sign-ups-on-pause-1851025002) |After announcing premium-tier users can build their own chatbots, CEO Sam Altman says its Plus subscription has exceeded capacity |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,7 +76,7 @@
 |---|---|
 |[Neural-Cherche.](https://github.com/raphaelsty/neural-cherche) |Neural-Cherche is a library designed to fine-tune neural search models such as Splade, ColBERT, and SparseEmbed on a specific dataset. |
 |[The Data Engineering Handbook.](https://github.com/DataEngineer-io/data-engineer-handbook) |This repo has all the resources you need to become an amazing data engineer. |
-|[.]() | |
+|[tensorli.](https://github.com/joennlae/tensorli) | Absolute minimalistic implementation of a GPT-like transformer using only numpy (<650 lines).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
