@@ -112,7 +112,7 @@
 |[ai-exploits](https://github.com/protectai/ai-exploits) |This repository, ai-exploits, is a collection of exploits and scanning templates for responsibly disclosed vulnerabilities affecting machine learning tools. |
 |[Music ControlNet](https://musiccontrolnet.github.io/web/) |ControlNet represented an innovative approach to providing image synthetics models with fine-grained control. There is now a model for music generation that is fairly similar and allows you to manage several aspects such as pitch and pronunciation. |
 |[GPT-4 Turbo Note Taker](https://tactiq.io/ai-tools/gpt4-note-taker) | Fast and simple, Tactiq’s AI Note Taker with GPT-4 Turbo lets you turn your meetings into actionable notes - so that you're always taking the right action and getting more out of your meetings.|
-|[]() | |
+|[Chroma. ](https://github.com/generatebio/chroma) |Chroma is a generative model for designing proteins programmatically. |
 |[]() | |
 |[]() | |
 
