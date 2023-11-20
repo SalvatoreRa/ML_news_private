@@ -42,6 +42,7 @@
 |[MILA: Memory-Based Instance-Level Adaptation for Cross-Domain Object Detection.](https://arxiv.org/abs/2309.01086) |Cross-domain object detection is challenging, and it involves aligning labeled source and unlabeled target domains. we propose a memory-based instance-level domain adaptation framework. Our method aligns a target instance with the most similar source instance of the same category retrieved from a memory storage. [official code.](https://github.com/hitachi-rd-cv/MILA)|
 |[TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning.](https://arxiv.org/abs/2310.06753v1) |TopoMLP is a system that detects and analyzes traffic features and road centerlines to comprehend road scenes and identify drivable courses for self-driving automobiles. [official code.](https://github.com/wudongming97/topomlp)|
 |[Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model.](https://arxiv.org/abs/2310.17653) | In this study, several data optimization strategies that need less computational overhead to enable knowledge transfer across models are examined.|
+|[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.](https://arxiv.org/abs/2306.07691) | StyleTTS 2 is a text-to-speech model that combines huge speech language models with adversarial training and style diffusion to produce human-level voice synthesis. [official code.](https://github.com/yl4579/StyleTTS2)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -73,9 +74,8 @@
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Neural-Cherche.](https://github.com/raphaelsty/neural-cherche) |Neural-Cherche is a library designed to fine-tune neural search models such as Splade, ColBERT, and SparseEmbed on a specific dataset. |
+|[The Data Engineering Handbook.](https://github.com/DataEngineer-io/data-engineer-handbook) |This repo has all the resources you need to become an amazing data engineer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
