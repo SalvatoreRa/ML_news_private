@@ -43,9 +43,11 @@
 |[TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning.](https://arxiv.org/abs/2310.06753v1) |TopoMLP is a system that detects and analyzes traffic features and road centerlines to comprehend road scenes and identify drivable courses for self-driving automobiles. [official code.](https://github.com/wudongming97/topomlp)|
 |[Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model.](https://arxiv.org/abs/2310.17653) | In this study, several data optimization strategies that need less computational overhead to enable knowledge transfer across models are examined.|
 |[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.](https://arxiv.org/abs/2306.07691) | StyleTTS 2 is a text-to-speech model that combines huge speech language models with adversarial training and style diffusion to produce human-level voice synthesis. [official code.](https://github.com/yl4579/StyleTTS2)|
-|[OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future.](https://www.nytimes.com/2023/11/20/business/openai-staff-exodus-turmoil.html) | A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.|
-|[Sam Altman is still trying to return as OpenAI CEO.](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) |Altman’s move to Microsoft isn’t a done deal, and Ilya Sutskever’s flip to supporting Altman means two board members need to change their minds. |
-|[Amazon’s offering free courses on generative AI.](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses) | From the company that brought you AWS certification comes a new ‘AI Ready’ education track to help train aspiring professionals on Amazon’s AI tech.|
+|[Orca 2: Teaching Small Language Models How to Reason.](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) | A few months ago, we introduced Orca, a 13-billion language model that demonstrated strong reasoning abilities by imitating the step-by-step reasoning traces of more capable LLMs.Orca 2 significantly surpasses models of similar size (including the original Orca model) and attains performance levels similar to or better than models 5-10 times larger, as assessed on complex tasks that test advanced reasoning abilities in zero-shot settings.|
+|[Proving Test Set Contamination in Black Box Language Models.](https://arxiv.org/abs/2310.17623) | a thorough examination of the data that was utilized to train language models. Its findings imply that a large number of closed-source models most likely did not train on widely used benchmarks.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -58,10 +60,12 @@
 |---|---|
 |[Discord is shutting down its AI chatbot Clyde.](https://www.theverge.com/2023/11/17/23965185/discord-is-shutting-down-its-ai-chatbot-clyde) | Discord users won’t be able to chat to Clyde from December 1st onwards.|
 |[OpenAI has put ChatGPT Plus sign-ups on pause.](https://qz.com/openai-has-put-chatgpt-plus-sign-ups-on-pause-1851025002) |After announcing premium-tier users can build their own chatbots, CEO Sam Altman says its Plus subscription has exceeded capacity |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future.](https://www.nytimes.com/2023/11/20/business/openai-staff-exodus-turmoil.html) | A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.|
+|[Sam Altman is still trying to return as OpenAI CEO.](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) |Altman’s move to Microsoft isn’t a done deal, and Ilya Sutskever’s flip to supporting Altman means two board members need to change their minds. |
+|[Salesforce looks to poach outbound OpenAI staff with "full cash" compensation offer.](https://www.itpro.com/technology/artificial-intelligence/salesforce-looks-to-poach-outbound-openai-staff-with-full-cash-compensation-offer) | OpenAI researchers leaving the firm in protest could be offered a lifeline at Salesforce|
+|[Amazon’s offering free courses on generative AI.](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses) | From the company that brought you AWS certification comes a new ‘AI Ready’ education track to help train aspiring professionals on Amazon’s AI tech.|
+|[Eye On AI: Bain Capital Ventures Launches BCV Labs In Search Of New AI Deals.](https://news.crunchbase.com/ai/bain-capital-launches-bcv-labs-startup-venture) | BCV Labs is a new AI incubator and technical community founded by Bain Capital Ventures that provides money, office space, events, GPU credits, fellowship program, and recruiting help.|
+|[Microsoft rebrands its AI-powered Bing Chat as Copilot.](https://www.engadget.com/microsoft-rebrands-its-ai-powered-bing-chat-as-copilot-160027250.html) |The company has also announced more Copilot AI features for its 365 apps. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,10 +82,11 @@
 |[The Data Engineering Handbook.](https://github.com/DataEngineer-io/data-engineer-handbook) |This repo has all the resources you need to become an amazing data engineer. |
 |[tensorli.](https://github.com/joennlae/tensorli) | Absolute minimalistic implementation of a GPT-like transformer using only numpy (<650 lines).|
 |[THE RISE OF “WET” ARTIFICIAL INTELLIGENCE.](https://proto.life/2023/11/perspective-the-rise-of-wet-artificial-intelligence/) |Combining AI with traditional wet lab work creates a virtuous circle from lab to data and back to the lab. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Video-LLaVA.](https://github.com/PKU-YuanGroup/Video-LLaVA) |Video-LLaVA exhibits remarkable interactive capabilities between images and videos, despite the absence of image-video pairs in the dataset. It achieves state-of-the-art performance in video summarization and captioning. |
+|[make-real-starter.](https://github.com/tldraw/make-real-starter) |Recently, tldraw released a popular tool that lets people quickly design software using a paint-like interface. GPT-V is then used to write code for the design's online version. It produces reliable and functional code and operates remarkably well. It also accepts commands in plain language. |
+|[AI Exploits.](https://github.com/protectai/ai-exploits) |A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities |
+|[Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation.](https://github.com/ysh-1998/cowpirec) | The recently proposed CoWPiRec method enhances recommender systems using text-based item representations combined with collaborative filtering information. Using word graphs for item interactions, this novel approach has demonstrated better performance in a range of recommendation circumstances, including solving the cold-start issue.|
+|[RustGPT.](https://github.com/bitswired/rustgpt) | A web ChatGPT clone entirely crafted using Rust and HTMX.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,6 +99,8 @@
 |[OpenAI’s identity crisis and the battle for AI’s future.](https://www.exponentialview.co/p/openais-identity-crisis-and-the-battle) |Last weekend some news happened in OpenAI, this blog post is about discussing some open questions. |
 |[A Data-Driven Look at the Rise of AI.](https://www.newcomer.co/p/a-data-driven-look-at-the-rise-of) |2023, The AI Revolution: Coatue's Sri Viswanath breaks down this year's developments in AI. |
 |[AI: The Coming Revolution.](https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023) |Coatue highlight four points for the future: AI has potential to break through the hype and meaningfully improve our world. Open source is the heartbeat of AI, but not all open source is created equally. Builders and investors need to understand the new, AI-centric tech stack. The best of AI is yet to come|
+|[OpenAI’s Misalignment and Microsoft’s Gain.](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/) |After co-founders Sam Altman and Greg Brockman resigned from OpenAI due to internal issues and the company's failing non-profit strategy, Microsoft acquired key staff and intellectual property from OpenAI, significantly changing the AI field. |
+|[AGI's Impact on Tech, SaaS Valuations.](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations) | Thought experiments on how AGI affects SaaS companies of all shapes and sizes|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,9 +110,6 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 # ML news: Week 12-19 November
 
