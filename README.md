@@ -101,7 +101,7 @@
 |[AI: The Coming Revolution.](https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023) |Coatue highlight four points for the future: AI has potential to break through the hype and meaningfully improve our world. Open source is the heartbeat of AI, but not all open source is created equally. Builders and investors need to understand the new, AI-centric tech stack. The best of AI is yet to come|
 |[OpenAI’s Misalignment and Microsoft’s Gain.](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/) |After co-founders Sam Altman and Greg Brockman resigned from OpenAI due to internal issues and the company's failing non-profit strategy, Microsoft acquired key staff and intellectual property from OpenAI, significantly changing the AI field. |
 |[AGI's Impact on Tech, SaaS Valuations.](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations) | Thought experiments on how AGI affects SaaS companies of all shapes and sizes|
-|[.]() | |
+|[Oops! We Automated Bullshit.](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit) |ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit |
 |[.]() | |
 |[.]() | |
 |[.]() | |
