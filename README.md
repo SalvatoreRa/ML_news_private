@@ -43,9 +43,9 @@
 |[TopoMLP: An Simple yet Strong Pipeline for Driving Topology Reasoning.](https://arxiv.org/abs/2310.06753v1) |TopoMLP is a system that detects and analyzes traffic features and road centerlines to comprehend road scenes and identify drivable courses for self-driving automobiles. [official code.](https://github.com/wudongming97/topomlp)|
 |[Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model.](https://arxiv.org/abs/2310.17653) | In this study, several data optimization strategies that need less computational overhead to enable knowledge transfer across models are examined.|
 |[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.](https://arxiv.org/abs/2306.07691) | StyleTTS 2 is a text-to-speech model that combines huge speech language models with adversarial training and style diffusion to produce human-level voice synthesis. [official code.](https://github.com/yl4579/StyleTTS2)|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future.](https://www.nytimes.com/2023/11/20/business/openai-staff-exodus-turmoil.html) | A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.|
+|[Sam Altman is still trying to return as OpenAI CEO.](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) |Altman’s move to Microsoft isn’t a done deal, and Ilya Sutskever’s flip to supporting Altman means two board members need to change their minds. |
+|[Amazon’s offering free courses on generative AI.](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses) | From the company that brought you AWS certification comes a new ‘AI Ready’ education track to help train aspiring professionals on Amazon’s AI tech.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
