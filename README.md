@@ -87,6 +87,7 @@
 |[AI Exploits.](https://github.com/protectai/ai-exploits) |A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities |
 |[Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation.](https://github.com/ysh-1998/cowpirec) | The recently proposed CoWPiRec method enhances recommender systems using text-based item representations combined with collaborative filtering information. Using word graphs for item interactions, this novel approach has demonstrated better performance in a range of recommendation circumstances, including solving the cold-start issue.|
 |[RustGPT.](https://github.com/bitswired/rustgpt) | A web ChatGPT clone entirely crafted using Rust and HTMX.|
+|[Stable Video Diffusion Image-to-Video Model Card.](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) | Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,8 +103,7 @@
 |[OpenAI’s Misalignment and Microsoft’s Gain.](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/) |After co-founders Sam Altman and Greg Brockman resigned from OpenAI due to internal issues and the company's failing non-profit strategy, Microsoft acquired key staff and intellectual property from OpenAI, significantly changing the AI field. |
 |[AGI's Impact on Tech, SaaS Valuations.](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations) | Thought experiments on how AGI affects SaaS companies of all shapes and sizes|
 |[Oops! We Automated Bullshit.](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit) |ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit |
-|[.]() | |
-|[.]() | |
+|[Explaining the SDXL latent space.](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space) | Using a smaller latent space for diffusion was one of the advances of the original Stable Diffusion model. This indicates that the diffusion occurs on a compressed image representation rather than on pixels. This article explores many interpretations of that space for SDXL.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
