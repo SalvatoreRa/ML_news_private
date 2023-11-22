@@ -66,8 +66,8 @@
 |[Amazon’s offering free courses on generative AI.](https://www.theverge.com/2023/11/20/23969060/amazon-aws-generative-ai-ready-free-certification-courses) | From the company that brought you AWS certification comes a new ‘AI Ready’ education track to help train aspiring professionals on Amazon’s AI tech.|
 |[Eye On AI: Bain Capital Ventures Launches BCV Labs In Search Of New AI Deals.](https://news.crunchbase.com/ai/bain-capital-launches-bcv-labs-startup-venture) | BCV Labs is a new AI incubator and technical community founded by Bain Capital Ventures that provides money, office space, events, GPU credits, fellowship program, and recruiting help.|
 |[Microsoft rebrands its AI-powered Bing Chat as Copilot.](https://www.engadget.com/microsoft-rebrands-its-ai-powered-bing-chat-as-copilot-160027250.html) |The company has also announced more Copilot AI features for its 365 apps. |
-|[.]() | |
-|[.]() | |
+|[Sam Altman to return as CEO of OpenAI.](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai) |After an attempted coup by OpenAI’s board that lasted five days, Altman is returning alongside co-founder Greg Brockman. |
+|[Microsoft and Nvidia are making it easier to run AI models on Windows.](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers) |Microsoft’s new Windows AI Studio lets developers access and configure AI models, such as Microsoft’s Phi, Meta’s Llama 2, and Mistral. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
