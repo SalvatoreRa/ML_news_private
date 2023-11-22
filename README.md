@@ -68,6 +68,10 @@
 |[Microsoft rebrands its AI-powered Bing Chat as Copilot.](https://www.engadget.com/microsoft-rebrands-its-ai-powered-bing-chat-as-copilot-160027250.html) |The company has also announced more Copilot AI features for its 365 apps. |
 |[Sam Altman to return as CEO of OpenAI.](https://www.theverge.com/2023/11/22/23967223/sam-altman-returns-ceo-open-ai) |After an attempted coup by OpenAI’s board that lasted five days, Altman is returning alongside co-founder Greg Brockman. |
 |[Microsoft and Nvidia are making it easier to run AI models on Windows.](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers) |Microsoft’s new Windows AI Studio lets developers access and configure AI models, such as Microsoft’s Phi, Meta’s Llama 2, and Mistral. |
+|[Break the Sequential Dependency of LLM Inference Using Lookahead Decoding.](https://lmsys.org/blog/2023-11-21-lookahead-decoding) |Automating autoregressive language model inference may be done in a variety of ways. One method that has generated excitement is the use of draft models. Although it may take longer, this needs two models. On the other hand, you may reduce the requirement for a draft model and accelerate creation linearly by producing related ngrams from the same model. |
+|[OpenAI drops a big new ChatGPT feature with a joke about its CEO drama.](https://www.theverge.com/2023/11/21/23971489/openai-chatgpt-voice-feature-ceo-drama) | ChatGPT’s voice feature lets you ask it a question by saying it aloud — and now it’s available for free.|
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,6 +92,10 @@
 |[Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation.](https://github.com/ysh-1998/cowpirec) | The recently proposed CoWPiRec method enhances recommender systems using text-based item representations combined with collaborative filtering information. Using word graphs for item interactions, this novel approach has demonstrated better performance in a range of recommendation circumstances, including solving the cold-start issue.|
 |[RustGPT.](https://github.com/bitswired/rustgpt) | A web ChatGPT clone entirely crafted using Rust and HTMX.|
 |[Stable Video Diffusion Image-to-Video Model Card.](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) | Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.|
+|[LangChain for Go.](https://github.com/tmc/langchaingo) | Building applications with LLMs through composability, with Go|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
