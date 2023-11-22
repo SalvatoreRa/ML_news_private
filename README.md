@@ -45,7 +45,7 @@
 |[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.](https://arxiv.org/abs/2306.07691) | StyleTTS 2 is a text-to-speech model that combines huge speech language models with adversarial training and style diffusion to produce human-level voice synthesis. [official code.](https://github.com/yl4579/StyleTTS2)|
 |[Orca 2: Teaching Small Language Models How to Reason.](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) | A few months ago, we introduced Orca, a 13-billion language model that demonstrated strong reasoning abilities by imitating the step-by-step reasoning traces of more capable LLMs.Orca 2 significantly surpasses models of similar size (including the original Orca model) and attains performance levels similar to or better than models 5-10 times larger, as assessed on complex tasks that test advanced reasoning abilities in zero-shot settings.|
 |[Proving Test Set Contamination in Black Box Language Models.](https://arxiv.org/abs/2310.17623) | a thorough examination of the data that was utilized to train language models. Its findings imply that a large number of closed-source models most likely did not train on widely used benchmarks.|
-|[.]() | |
+|[Amazon Reportedly Training AI With Twice As Many Parameters As GPT-4 .](https://futurism.com/the-byte/amazon-training-ai-twice-parameters-gpt-4)  The model will have a whopping 2 trillion parameters, which are the variables that determine the output of a given model, making it one of the largest currently in development.| |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -70,7 +70,7 @@
 |[Microsoft and Nvidia are making it easier to run AI models on Windows.](https://www.theverge.com/2023/11/15/23960471/microsoft-windows-ai-studio-nvidia-developers) |Microsoft’s new Windows AI Studio lets developers access and configure AI models, such as Microsoft’s Phi, Meta’s Llama 2, and Mistral. |
 |[Break the Sequential Dependency of LLM Inference Using Lookahead Decoding.](https://lmsys.org/blog/2023-11-21-lookahead-decoding) |Automating autoregressive language model inference may be done in a variety of ways. One method that has generated excitement is the use of draft models. Although it may take longer, this needs two models. On the other hand, you may reduce the requirement for a draft model and accelerate creation linearly by producing related ngrams from the same model. |
 |[OpenAI drops a big new ChatGPT feature with a joke about its CEO drama.](https://www.theverge.com/2023/11/21/23971489/openai-chatgpt-voice-feature-ceo-drama) | ChatGPT’s voice feature lets you ask it a question by saying it aloud — and now it’s available for free.|
-|[.]() | |
+|[Emmett Shear threatening to leave OpenAI if board can’t prove Sam Altman’s wrongdoing.](https://www.dexerto.com/tech/emmett-shear-threatening-to-leave-openai-if-board-cant-prove-sam-altmans-wrongdoing-2394706) | Former Twitch CEO Emmett Shear took a role at OpenAI following the ousting of Sam Altman, but is reportedly threatening to leave unless the board can show evidence of Altman’s wrongdoing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@
 |[AGI's Impact on Tech, SaaS Valuations.](https://nextword.substack.com/p/agis-impact-on-tech-saas-valuations) | Thought experiments on how AGI affects SaaS companies of all shapes and sizes|
 |[Oops! We Automated Bullshit.](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit) |ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit |
 |[Explaining the SDXL latent space.](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space) | Using a smaller latent space for diffusion was one of the advances of the original Stable Diffusion model. This indicates that the diffusion occurs on a compressed image representation rather than on pixels. This article explores many interpretations of that space for SDXL.|
-|[.]() | |
+|[Sudden Disturbances in Rapidly Moving Objects : The Implications of the OpenAI Fiasco.](https://tomtunguz.com/disturbing-rockets-in-flight) |The unexpected threat to OpenAI's dominating position in the developer ecosystem creates a chance for smaller businesses to step in and take advantage of a fresh opening. Microsoft will probably emerge victorious in the AI race, but it's possible that Anthropic and other model-layer businesses may capitalize on the disruption. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
