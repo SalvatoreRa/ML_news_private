@@ -113,6 +113,9 @@
 |[Oops! We Automated Bullshit.](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit) |ChatGPT is a bullshit generator. To understand AI, we should think harder about bullshit |
 |[Explaining the SDXL latent space.](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space) | Using a smaller latent space for diffusion was one of the advances of the original Stable Diffusion model. This indicates that the diffusion occurs on a compressed image representation rather than on pixels. This article explores many interpretations of that space for SDXL.|
 |[Sudden Disturbances in Rapidly Moving Objects : The Implications of the OpenAI Fiasco.](https://tomtunguz.com/disturbing-rockets-in-flight) |The unexpected threat to OpenAI's dominating position in the developer ecosystem creates a chance for smaller businesses to step in and take advantage of a fresh opening. Microsoft will probably emerge victorious in the AI race, but it's possible that Anthropic and other model-layer businesses may capitalize on the disruption. |
+|[AI should focus on equity in pandemic preparedness.](https://www.nature.com/articles/d41586-023-03608-z) | Over-reliance on AI could inadvertently prioritize certain viruses or populations, leading to inequities in vaccine and disease research.|
+|[How AI is expanding art history.](https://www.nature.com/articles/d41586-023-03604-3) | From identifying disputed artworks to reconstructing lost masterpieces, artificial intelligence is enriching how we interpret our cultural heritage.|
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
