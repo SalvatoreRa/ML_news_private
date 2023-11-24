@@ -116,7 +116,7 @@
 |[Sudden Disturbances in Rapidly Moving Objects : The Implications of the OpenAI Fiasco.](https://tomtunguz.com/disturbing-rockets-in-flight) |The unexpected threat to OpenAI's dominating position in the developer ecosystem creates a chance for smaller businesses to step in and take advantage of a fresh opening. Microsoft will probably emerge victorious in the AI race, but it's possible that Anthropic and other model-layer businesses may capitalize on the disruption. |
 |[AI should focus on equity in pandemic preparedness.](https://www.nature.com/articles/d41586-023-03608-z) | Over-reliance on AI could inadvertently prioritize certain viruses or populations, leading to inequities in vaccine and disease research.|
 |[How AI is expanding art history.](https://www.nature.com/articles/d41586-023-03604-3) | From identifying disputed artworks to reconstructing lost masterpieces, artificial intelligence is enriching how we interpret our cultural heritage.|
-|[.]() | |
+|[How AI shapes the life sciences: an interview with Oliver Stegle.](https://www.embl.org/news/lab-matters/how-ai-shapes-the-life-sciences-an-interview-with-oliver-stegle/) |Oliver Stegle explains how AI-based tools have the potential to transform our ability to better understand the complexity of life and how these tools will shape the future of scientific exploration |
 |[.]() | |
 |[.]() | |
 |[.]() | |
