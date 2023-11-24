@@ -71,8 +71,8 @@
 |[Break the Sequential Dependency of LLM Inference Using Lookahead Decoding.](https://lmsys.org/blog/2023-11-21-lookahead-decoding) |Automating autoregressive language model inference may be done in a variety of ways. One method that has generated excitement is the use of draft models. Although it may take longer, this needs two models. On the other hand, you may reduce the requirement for a draft model and accelerate creation linearly by producing related ngrams from the same model. |
 |[OpenAI drops a big new ChatGPT feature with a joke about its CEO drama.](https://www.theverge.com/2023/11/21/23971489/openai-chatgpt-voice-feature-ceo-drama) | ChatGPT’s voice feature lets you ask it a question by saying it aloud — and now it’s available for free.|
 |[Emmett Shear threatening to leave OpenAI if board can’t prove Sam Altman’s wrongdoing.](https://www.dexerto.com/tech/emmett-shear-threatening-to-leave-openai-if-board-cant-prove-sam-altmans-wrongdoing-2394706) | Former Twitch CEO Emmett Shear took a role at OpenAI following the ousting of Sam Altman, but is reportedly threatening to leave unless the board can show evidence of Altman’s wrongdoing.|
-|[.]() | |
-|[.]() | |
+|[Artificial intelligence finds ways to develop new drugs.](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html) | A new AI model developed by chemists at ETH Zurich can not only predict where a pharmaceutically active molecule can be chemically modified, but also how best to do it. This makes it possible to identify new pharmaceutical ingredients more quickly and improve existing ones in a targeted manner.|
+|[OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say.](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/) |Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers wrote a letter to the board of directors warning of a powerful artificial intelligence discovery that they said could threaten humanity |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,7 +93,8 @@
 |[RustGPT.](https://github.com/bitswired/rustgpt) | A web ChatGPT clone entirely crafted using Rust and HTMX.|
 |[Stable Video Diffusion Image-to-Video Model Card.](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) | Stable Video Diffusion (SVD) Image-to-Video is a diffusion model that takes in a still image as a conditioning frame, and generates a video from it.|
 |[LangChain for Go.](https://github.com/tmc/langchaingo) | Building applications with LLMs through composability, with Go|
-|[.]() | |
+|[Reinforcement Learning for Generative AI: A Survey.](https://arxiv.org/pdf/2308.14328.pdf) |Comprehensive review across various application areas like NLP, computer vision, and more exciting and emerging domains. Insights into RL's flexibility in introducing new training approaches.Future directions for the evolution of generative AI.
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
