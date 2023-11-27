@@ -39,8 +39,8 @@
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[SegVol: Universal and Interactive Volumetric Medical Image Segmentation.](https://arxiv.org/abs/2311.13385v1) |Clinical analysis has entered a new era with the release of SegVol, a universal model for medical picture segmentation. SegVol is highly proficient at segmenting a wide range of anatomical categories, having been trained on a large set of CT images. [official code.](https://github.com/baai-dcai/segvol)|
+|[Visual In-Context Prompting.](https://arxiv.org/abs/2311.13601v1) | This novel strategy supports a variety of cues and environments, significantly improving performance in segmentation tasks and demonstrating outstanding outcomes in open-ended challenges. [official code.](https://github.com/ux-decoder/dinov)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -52,10 +52,10 @@
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anthropic slashes AI pricing amid rising competition.](https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-rising-competition/) | For tokens created after the most recent version of Claude was released, Anthropic added a pricing reduction. Both closed and open model pressure are the source of this. In addition, [the model now can digest up to 200k tokens, hallucinates half as often, and can search the web](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools)|
+|[Gen AI for the Genome: LLM Predicts Characteristics of COVID Variants.](https://blogs.nvidia.com/blog/generative-ai-covid-genome-sequences) |A new demo lets users explore visualizations of the genome-scale language model by Argonne National Laboratory, NVIDIA, and other collaborators. |
+|[Codegen raises new cash to automate software engineering tasks.](https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/) |Codegen has successfully raised a significant amount of money for some truly incredible automated software development technology. It links GitHub PRs for automated engineering to Jira boards. |
+|[Kyutai is a French AI research lab with a $330 million budget that will make everything open source.](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/) |This new lab, called Kyutai, will be a privately funded nonprofit working on artificial general intelligence. It will work with PhD students, postdocs, and researchers on research papers and open-source projects.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -68,10 +68,10 @@
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ziplora-pytorch.](Low-rank learning matrices, or LoRAs, alter model behavior at a lower cost than traditional fine-tuning. This paper suggests a practical method for combining LoRAs while preserving their unique information.) | Low-rank learning matrices, or LoRAs, alter model behavior at a lower cost than traditional fine-tuning. This paper suggests a practical method for combining LoRAs while preserving their unique information. [original paper](https://ziplora.github.io/)|
+|[DuckTrack: Accurate Computer Activity Tracking.](https://duckai.org/blog/ducktrack) | It can be a little difficult to extract image, audio, and keystroke data from your computer. This library's goal is to train digital agents by simplifying that procedure.|
+|[direct-preference-optimization.](https://github.com/eric-mitchell/direct-preference-optimization) |Using extremely identical data, direct preference optimization is a reliable substitute for RLHF. An implementation of the approach can be studied in this repository to gain knowledge about it. |
+|[Kandinsky Video — a new text-to-video generation model.](https://ai-forever.github.io/kandinsky-video/) |This paper presents a new two-stage latent diffusion text-to-video generation architecture based on the text-to-image diffusion model. [code.](https://github.com/ai-forever/KandinskyVideo) |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,10 +84,10 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[The Q* hypothesis: Tree-of-thoughts reasoning, process reward models, and supercharging synthetic data.](https://www.interconnects.ai/p/q-star) |According to a recent leak, an internal breakthrough combining search and reinforcement learning was the reason behind the OpenAI leadership scandal. This article presents one notion that sheds light on what this new approach could be genuinely doing. |
+|[Inside OpenAI, a rift between billionaires and altruistic researchers unravelled over the future of artificial intelligence.](https://www.abc.net.au/news/2023-11-26/openai-sam-altman-board-inside-the-chaotic-week/103149570) |a comprehensive overview of the OpenAI disaster. Generations to come will study this. This synopsis, which covers all of the intriguing facets and consequences, is essential reading for anyone who hasn't followed the full story. |
+|[What is OpenAI, Really?.](https://newsletter.pragmaticengineer.com/p/what-is-openai?) | It’s been five incredibly turbulent days at the leading AI tech company, with the exit and then return of CEO Sam Altman. As we dig into what went wrong, an even bigger question looms: what is OpenAI?|
+|[Why I Just Resigned From My Job In Generative AI.](https://www.musicbusinessworldwide.com/why-just-resigned-from-my-job-generative-ai/) | Stability AI's Audio team leader left because of differences in the company's position on using copyrighted material to train generative AI models. The proponent of generative AI feels that it is not fair use to train models on copyrighted material without permission, as this could put them in competition with original creations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
