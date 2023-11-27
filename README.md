@@ -34,6 +34,70 @@
 
 # ON WORKING
 
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | 
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | 
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | 
+
+
 # ML news: Week 20-26 November
 
 ## Research
@@ -46,14 +110,7 @@
 |[Orca 2: Teaching Small Language Models How to Reason.](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) | A few months ago, we introduced Orca, a 13-billion language model that demonstrated strong reasoning abilities by imitating the step-by-step reasoning traces of more capable LLMs.Orca 2 significantly surpasses models of similar size (including the original Orca model) and attains performance levels similar to or better than models 5-10 times larger, as assessed on complex tasks that test advanced reasoning abilities in zero-shot settings.|
 |[Proving Test Set Contamination in Black Box Language Models.](https://arxiv.org/abs/2310.17623) | a thorough examination of the data that was utilized to train language models. Its findings imply that a large number of closed-source models most likely did not train on widely used benchmarks.|
 |[Amazon Reportedly Training AI With Twice As Many Parameters As GPT-4 .](https://futurism.com/the-byte/amazon-training-ai-twice-parameters-gpt-4)  The model will have a whopping 2 trillion parameters, which are the variables that determine the output of a given model, making it one of the largest currently in development.| |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -73,11 +130,7 @@
 |[Emmett Shear threatening to leave OpenAI if board can’t prove Sam Altman’s wrongdoing.](https://www.dexerto.com/tech/emmett-shear-threatening-to-leave-openai-if-board-cant-prove-sam-altmans-wrongdoing-2394706) | Former Twitch CEO Emmett Shear took a role at OpenAI following the ousting of Sam Altman, but is reportedly threatening to leave unless the board can show evidence of Altman’s wrongdoing.|
 |[Artificial intelligence finds ways to develop new drugs.](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html) | A new AI model developed by chemists at ETH Zurich can not only predict where a pharmaceutically active molecule can be chemically modified, but also how best to do it. This makes it possible to identify new pharmaceutical ingredients more quickly and improve existing ones in a targeted manner.|
 |[OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say.](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/) |Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers wrote a letter to the board of directors warning of a powerful artificial intelligence discovery that they said could threaten humanity |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -95,13 +148,7 @@
 |[LangChain for Go.](https://github.com/tmc/langchaingo) | Building applications with LLMs through composability, with Go|
 |[Reinforcement Learning for Generative AI: A Survey.](https://arxiv.org/pdf/2308.14328.pdf) |Comprehensive review across various application areas like NLP, computer vision, and more exciting and emerging domains. Insights into RL's flexibility in introducing new training approaches.Future directions for the evolution of generative AI.
 |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -117,14 +164,7 @@
 |[AI should focus on equity in pandemic preparedness.](https://www.nature.com/articles/d41586-023-03608-z) | Over-reliance on AI could inadvertently prioritize certain viruses or populations, leading to inequities in vaccine and disease research.|
 |[How AI is expanding art history.](https://www.nature.com/articles/d41586-023-03604-3) | From identifying disputed artworks to reconstructing lost masterpieces, artificial intelligence is enriching how we interpret our cultural heritage.|
 |[How AI shapes the life sciences: an interview with Oliver Stegle.](https://www.embl.org/news/lab-matters/how-ai-shapes-the-life-sciences-an-interview-with-oliver-stegle/) |Oliver Stegle explains how AI-based tools have the potential to transform our ability to better understand the complexity of life and how these tools will shape the future of scientific exploration |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 12-19 November
 
