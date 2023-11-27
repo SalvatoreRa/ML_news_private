@@ -34,7 +34,7 @@
 
 # ON WORKING
 
-# ML news:
+# ML news: Week 20-26 November
 
 ## Research
 |Link|description|
