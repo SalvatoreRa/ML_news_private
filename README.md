@@ -56,14 +56,14 @@
 |[Gen AI for the Genome: LLM Predicts Characteristics of COVID Variants.](https://blogs.nvidia.com/blog/generative-ai-covid-genome-sequences) |A new demo lets users explore visualizations of the genome-scale language model by Argonne National Laboratory, NVIDIA, and other collaborators. |
 |[Codegen raises new cash to automate software engineering tasks.](https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/) |Codegen has successfully raised a significant amount of money for some truly incredible automated software development technology. It links GitHub PRs for automated engineering to Jira boards. |
 |[Kyutai is a French AI research lab with a $330 million budget that will make everything open source.](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/) |This new lab, called Kyutai, will be a privately funded nonprofit working on artificial general intelligence. It will work with PhD students, postdocs, and researchers on research papers and open-source projects.|
+|[Amazon and Salesforce Expand Partnership to Add New AI Capabilities.](https://www.pymnts.com/partnerships/2023/amazon-and-salesforce-expand-partnership-to-add-new-ai-capabilities/) | Salesforce and AWS have extended their collaboration to facilitate customers' management of data on both platforms and their integration of generative AI technology into their workflows and apps.|
+|[Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort.]() |Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving goal. The biggest difference with the update is how vehicle controls will be taken over by neural nets rather than being hard-coded by engineers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
-|[.]() | 
 
 ## Resources
 |Link|description|
@@ -79,7 +79,7 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | 
+|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -95,7 +95,7 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | 
+|[.]() | |
 
 
 # ML news: Week 20-26 November
