@@ -41,8 +41,8 @@
 |---|---|
 |[SegVol: Universal and Interactive Volumetric Medical Image Segmentation.](https://arxiv.org/abs/2311.13385v1) |Clinical analysis has entered a new era with the release of SegVol, a universal model for medical picture segmentation. SegVol is highly proficient at segmenting a wide range of anatomical categories, having been trained on a large set of CT images. [official code.](https://github.com/baai-dcai/segvol)|
 |[Visual In-Context Prompting.](https://arxiv.org/abs/2311.13601v1) | This novel strategy supports a variety of cues and environments, significantly improving performance in segmentation tasks and demonstrating outstanding outcomes in open-ended challenges. [official code.](https://github.com/ux-decoder/dinov)|
-|[.]() | |
-|[.]() | |
+|[Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF.](https://starling.cs.berkeley.edu/) |Researchers at Berkeley used synthetic preference data to train a brand-new, cutting-edge 7B parameter model. This blog discusses the unique difficulties in training reward models (such as how an example's score might change depending on where it is in the list) and how they overcome them. Both the training reward model and the generated model are made publicly. |
+|[Segmentation-Based Parametric Painting.](https://manuelladron.github.io/semantic_based_painting) | A novel method has been devised by researchers to convert pictures into paintings that emulate human characteristics and aesthetics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -52,13 +52,13 @@
 ## News
 |Link|description|
 |---|---|
-|[Anthropic slashes AI pricing amid rising competition.](https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-rising-competition/) | For tokens created after the most recent version of Claude was released, Anthropic added a pricing reduction. Both closed and open model pressure are the source of this. In addition, [the model now can digest up to 200k tokens, hallucinates half as often, and can search the web](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools)|
+|[Anthropic slashes AI pricing amid rising competition.](https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-rising-competition/) | For tokens created after the most recent version of Claude was released, Anthropic added a pricing reduction. Both closed and open model pressure are the source of this. In addition, [the model now can digest up to 200k tokens, hallucinates half as often, and can search the web](https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools), [more info here.](https://www.anthropic.com/index/claude-2-1)|
 |[Gen AI for the Genome: LLM Predicts Characteristics of COVID Variants.](https://blogs.nvidia.com/blog/generative-ai-covid-genome-sequences) |A new demo lets users explore visualizations of the genome-scale language model by Argonne National Laboratory, NVIDIA, and other collaborators. |
 |[Codegen raises new cash to automate software engineering tasks.](https://techcrunch.com/2023/11/16/codegen-raises-new-capital-llm-automation-for-software-dev/) |Codegen has successfully raised a significant amount of money for some truly incredible automated software development technology. It links GitHub PRs for automated engineering to Jira boards. |
 |[Kyutai is a French AI research lab with a $330 million budget that will make everything open source.](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/) |This new lab, called Kyutai, will be a privately funded nonprofit working on artificial general intelligence. It will work with PhD students, postdocs, and researchers on research papers and open-source projects.|
 |[Amazon and Salesforce Expand Partnership to Add New AI Capabilities.](https://www.pymnts.com/partnerships/2023/amazon-and-salesforce-expand-partnership-to-add-new-ai-capabilities/) | Salesforce and AWS have extended their collaboration to facilitate customers' management of data on both platforms and their integration of generative AI technology into their workflows and apps.|
 |[Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort.]() |Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving goal. The biggest difference with the update is how vehicle controls will be taken over by neural nets rather than being hard-coded by engineers. |
-|[.]() | |
+|[ChatGPT with voice is now available to all free users.](https://twitter.com/openai/status/1727065166188274145) | Download the app on your phone and tap the headphones icon to start a conversation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -72,10 +72,10 @@
 |[DuckTrack: Accurate Computer Activity Tracking.](https://duckai.org/blog/ducktrack) | It can be a little difficult to extract image, audio, and keystroke data from your computer. This library's goal is to train digital agents by simplifying that procedure.|
 |[direct-preference-optimization.](https://github.com/eric-mitchell/direct-preference-optimization) |Using extremely identical data, direct preference optimization is a reliable substitute for RLHF. An implementation of the approach can be studied in this repository to gain knowledge about it. |
 |[Kandinsky Video — a new text-to-video generation model.](https://ai-forever.github.io/kandinsky-video/) |This paper presents a new two-stage latent diffusion text-to-video generation architecture based on the text-to-image diffusion model. [code.](https://github.com/ai-forever/KandinskyVideo) |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[SD-T2I-360PanoImage.](https://github.com/archerfmy/sd-t2i-360panoimage) |A novel circular blending technique has been developed by researchers to solve the enduring problem of producing smooth 360-degree panoramic pictures. Their novel methods for creating panoramic panoramas from text and individual photos heavily rely on this methodology. |
+|[insanely-fast-whisper.](https://github.com/Vaibhavs10/insanely-fast-whisper) |Transcribe 150 minutes (2.5 hours) of audio in less than 98 seconds. |
+|[Agency: The Go Way to AI.](https://github.com/neurocult/agency?) |Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach. |
+|[CoachLM.](https://github.com/lunyiliu/coachlm) |CoachLM presents a cutting-edge AI method for improving training datasets for LLMs. This approach dramatically increases the efficacy of instruction-following in LLMs by improving datasets in a novel way—by modifying rather than eliminating low-quality samples. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,9 +88,9 @@
 |[Inside OpenAI, a rift between billionaires and altruistic researchers unravelled over the future of artificial intelligence.](https://www.abc.net.au/news/2023-11-26/openai-sam-altman-board-inside-the-chaotic-week/103149570) |a comprehensive overview of the OpenAI disaster. Generations to come will study this. This synopsis, which covers all of the intriguing facets and consequences, is essential reading for anyone who hasn't followed the full story. |
 |[What is OpenAI, Really?.](https://newsletter.pragmaticengineer.com/p/what-is-openai?) | It’s been five incredibly turbulent days at the leading AI tech company, with the exit and then return of CEO Sam Altman. As we dig into what went wrong, an even bigger question looms: what is OpenAI?|
 |[Why I Just Resigned From My Job In Generative AI.](https://www.musicbusinessworldwide.com/why-just-resigned-from-my-job-generative-ai/) | Stability AI's Audio team leader left because of differences in the company's position on using copyrighted material to train generative AI models. The proponent of generative AI feels that it is not fair use to train models on copyrighted material without permission, as this could put them in competition with original creations.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Exploring the Growing Convergence Between Blockchain and AI.](https://pages.casperlabs.io/report/convergence-blockchain-ai) |This research, which surveyed more than 600 IT professionals worldwide, delves into the main causes of the increasing demand for AI, the most well-liked applications, and the main obstacles preventing its wider deployment. Interestingly, it refutes the idea that blockchain and artificial intelligence are incompatible technology. |
+|[Reshaping the tree: rebuilding organizations for AI.](https://www.oneusefulthing.org/p/reshaping-the-tree-rebuilding-organizations) |By automating tasks and decision-making, the integration of AI in enterprises is altering conventional work processes and empowering teams to operate more productively. Organizations must adjust as AI develops quickly by promoting team experimentation with the technology, getting ready for new developments, and moving quickly to maintain their competitive edge. |
+|[God Help Us, Let's Try To Understand AI Monosemanticity.](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand) | By replicating a larger AI within a smaller one, Anthropic researchers have devised a mechanism to comprehend the intricate workings of AI. What they have discovered is that AI neural networks are capable of encoding information in a sophisticated way, much like physics' superposition. Through the application of this method to a basic AI, they found that it could represent discrete concepts, such as "God," in discrete features. They further conjecture that the same methodology may yield deeper insights into artificial and biological neural systems, which could result in safer and more effective AI development.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
