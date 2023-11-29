@@ -59,8 +59,8 @@
 |[Amazon and Salesforce Expand Partnership to Add New AI Capabilities.](https://www.pymnts.com/partnerships/2023/amazon-and-salesforce-expand-partnership-to-add-new-ai-capabilities/) | Salesforce and AWS have extended their collaboration to facilitate customers' management of data on both platforms and their integration of generative AI technology into their workflows and apps.|
 |[Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort.]() |Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving goal. The biggest difference with the update is how vehicle controls will be taken over by neural nets rather than being hard-coded by engineers. |
 |[ChatGPT with voice is now available to all free users.](https://twitter.com/openai/status/1727065166188274145) | Download the app on your phone and tap the headphones icon to start a conversation.|
-|[.]() | |
-|[.]() | |
+|[Announcing the MLCommons AlgoPerf Training Algorithms Benchmark Competition.](https://mlcommons.org/2023/11/mlc-algoperf-training-algorithms-competition/) | A recent competition called AlgoPerf attempts to optimize for wall clock time. This implies that you can earn real money if you can develop a technique that outperforms current settings (faster than ADAM, for example). Some of the biggest AI companies in the world today support this fascinating task.|
+|[Introducing SDXL Turbo: A Real-Time Text-to-Image Generation Model.](https://stability.ai/news/stability-ai-sdxl-turbo) |SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one. [code and weights.](https://huggingface.co/stabilityai/sdxl-turbo)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
