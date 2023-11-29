@@ -43,8 +43,15 @@
 |[Visual In-Context Prompting.](https://arxiv.org/abs/2311.13601v1) | This novel strategy supports a variety of cues and environments, significantly improving performance in segmentation tasks and demonstrating outstanding outcomes in open-ended challenges. [official code.](https://github.com/ux-decoder/dinov)|
 |[Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF.](https://starling.cs.berkeley.edu/) |Researchers at Berkeley used synthetic preference data to train a brand-new, cutting-edge 7B parameter model. This blog discusses the unique difficulties in training reward models (such as how an example's score might change depending on where it is in the list) and how they overcome them. Both the training reward model and the generated model are made publicly. |
 |[Segmentation-Based Parametric Painting.](https://manuelladron.github.io/semantic_based_painting) | A novel method has been devised by researchers to convert pictures into paintings that emulate human characteristics and aesthetics.|
-|[Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers.](https://arxiv.org/abs/2311.10642) | A groundbreaking study explores the potential of shallow feed-forward networks to replace attention mechanisms in Transformer models. Shallow feed-forward networks can emulate the behaviour of attention mechanisms effectively, with similar performances. This research opens new avenues in neural network design, potentially simplifying complex models.|
+|[Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers.](https://arxiv.org/abs/2311.10642) | A groundbreaking study explores the potential of shallow feed-forward networks to replace attention mechanisms in Transformer models. Shallow feed-forward networks can emulate the behavior of attention mechanisms effectively, with similar performances. This research opens new avenues in neural network design, potentially simplifying complex models.|
 |[MEDITRON-70B: Scaling Medical Pretraining for Large Language Models.](https://huggingface.co/papers/2311.16079) |Large language models (LLMs) can potentially democratize access to medical knowledge.  In this work, we improve access to large-scale medical LLMs by releasing MEDITRON: a suite of open-source LLMs with 7B and 70B parameters adapted to the medical domain.  |
+|[DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization.](https://arxiv.org/abs/2311.16060v1) |A novel technique for maintaining linguistic content in sign language films while maintaining anonymity is DiffSLVA. By eliminating the need for exact position prediction, this method, which makes use of pre-trained diffusion models and a dedicated module for face expressions, addresses earlier shortcomings. |
+|[Efficient Dataset Distillation via Minimax Diffusion.](https://arxiv.org/abs/2311.15529v1) | Generative diffusion techniques have been used in a novel way to produce surrogate datasets that are much less computationally intensive and far more representative and varied.|
+|[Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models.](https://arxiv.org/abs/2311.15908v1) | A new method for video super-resolution (VSR) called StableVSR uses a temporal conditioning module together with diffusion models to improve the quality of upscaled movies.|
+|[Animatable Gaussians: Learning Pose-dependent Gaussian Maps
+for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io/) | This research suggests "Animatable Gaussians," a cutting-edge method that blends 3D Gaussian splatting with 2D CNNs to produce more realistic and intricate human avatars from films.|
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -61,6 +68,12 @@
 |[ChatGPT with voice is now available to all free users.](https://twitter.com/openai/status/1727065166188274145) | Download the app on your phone and tap the headphones icon to start a conversation.|
 |[Announcing the MLCommons AlgoPerf Training Algorithms Benchmark Competition.](https://mlcommons.org/2023/11/mlc-algoperf-training-algorithms-competition/) | A recent competition called AlgoPerf attempts to optimize for wall clock time. This implies that you can earn real money if you can develop a technique that outperforms current settings (faster than ADAM, for example). Some of the biggest AI companies in the world today support this fascinating task.|
 |[Introducing SDXL Turbo: A Real-Time Text-to-Image Generation Model.](https://stability.ai/news/stability-ai-sdxl-turbo) |SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one. [code and weights.](https://huggingface.co/stabilityai/sdxl-turbo)|
+|[OpenAI unlikely to offer board seat to Microsoft, other investors - source.](https://finance.yahoo.com/news/openai-not-expected-offer-board-220512455.html) | ChatGPT owner OpenAI is not expected to offer Microsoft and other investors including Khosla Ventures and Thrive Capital seats on its new board, a person familiar with the matter told Reuters on Tuesday.|
+|[Sports Illustrated Published Articles by Fake, AI-Generated Writers.](https://futurism.com/sports-illustrated-ai-generated-writers) |Articles created by fictitious AI authors have been covertly published by Sports Illustrated. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,6 +89,12 @@
 |[insanely-fast-whisper.](https://github.com/Vaibhavs10/insanely-fast-whisper) |Transcribe 150 minutes (2.5 hours) of audio in less than 98 seconds. |
 |[Agency: The Go Way to AI.](https://github.com/neurocult/agency?) |Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach. |
 |[CoachLM.](https://github.com/lunyiliu/coachlm) |CoachLM presents a cutting-edge AI method for improving training datasets for LLMs. This approach dramatically increases the efficacy of instruction-following in LLMs by improving datasets in a novel way—by modifying rather than eliminating low-quality samples. |
+|[multimodal-maestro.](https://github.com/roboflow/multimodal-maestro) |Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. |
+|[Tanuki.](https://github.com/Tanuki/tanuki.py) |Easily build LLM-powered apps that get cheaper and faster over time. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -91,6 +110,12 @@
 |[Exploring the Growing Convergence Between Blockchain and AI.](https://pages.casperlabs.io/report/convergence-blockchain-ai) |This research, which surveyed more than 600 IT professionals worldwide, delves into the main causes of the increasing demand for AI, the most well-liked applications, and the main obstacles preventing its wider deployment. Interestingly, it refutes the idea that blockchain and artificial intelligence are incompatible technology. |
 |[Reshaping the tree: rebuilding organizations for AI.](https://www.oneusefulthing.org/p/reshaping-the-tree-rebuilding-organizations) |By automating tasks and decision-making, the integration of AI in enterprises is altering conventional work processes and empowering teams to operate more productively. Organizations must adjust as AI develops quickly by promoting team experimentation with the technology, getting ready for new developments, and moving quickly to maintain their competitive edge. |
 |[God Help Us, Let's Try To Understand AI Monosemanticity.](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand) | By replicating a larger AI within a smaller one, Anthropic researchers have devised a mechanism to comprehend the intricate workings of AI. What they have discovered is that AI neural networks are capable of encoding information in a sophisticated way, much like physics' superposition. Through the application of this method to a basic AI, they found that it could represent discrete concepts, such as "God," in discrete features. They further conjecture that the same methodology may yield deeper insights into artificial and biological neural systems, which could result in safer and more effective AI development.|
+|[A Data-Driven Look at the Rise of AI.](https://www.newcomer.co/p/a-data-driven-look-at-the-rise-of?) |This article from the Cerebral Valley AI Summit examines the development of AI using data and is heavily illustrated with slides. We all hear it all the time, but there is a ton of evidence to support it. The development of developer interest and its eventual collapse are of particular importance. |
+|[How Much Does it Cost to Use an LLM?.](https://tomtunguz.com/gm-saas/) | Different models cost different amounts. Also, the size of the context window is an important factor. But how much?|
+|[The 10-Year “Overnight” Success Story of Casetext.](https://www.ycombinator.com/blog/the-10-year-overnight-success-story-of-casetext/) |When Casetext first launched in 2013, it was a crowdsourced legal library, similar to "Wikipedia meets reddit" for legal matters. A decade later, Casetext stands as one of the greatest AI achievements to date, able to compress weeks' worth of laborious legal work into hours or minutes. It was purchased for $650 million just a few months ago. Between those two points, what transpired? |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
