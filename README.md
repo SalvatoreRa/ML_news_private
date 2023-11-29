@@ -43,8 +43,8 @@
 |[Visual In-Context Prompting.](https://arxiv.org/abs/2311.13601v1) | This novel strategy supports a variety of cues and environments, significantly improving performance in segmentation tasks and demonstrating outstanding outcomes in open-ended challenges. [official code.](https://github.com/ux-decoder/dinov)|
 |[Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF.](https://starling.cs.berkeley.edu/) |Researchers at Berkeley used synthetic preference data to train a brand-new, cutting-edge 7B parameter model. This blog discusses the unique difficulties in training reward models (such as how an example's score might change depending on where it is in the list) and how they overcome them. Both the training reward model and the generated model are made publicly. |
 |[Segmentation-Based Parametric Painting.](https://manuelladron.github.io/semantic_based_painting) | A novel method has been devised by researchers to convert pictures into paintings that emulate human characteristics and aesthetics.|
-|[.]() | |
-|[.]() | |
+|[Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers.](https://arxiv.org/abs/2311.10642) | A groundbreaking study explores the potential of shallow feed-forward networks to replace attention mechanisms in Transformer models. Shallow feed-forward networks can emulate the behaviour of attention mechanisms effectively, with similar performances. This research opens new avenues in neural network design, potentially simplifying complex models.|
+|[MEDITRON-70B: Scaling Medical Pretraining for Large Language Models.](https://huggingface.co/papers/2311.16079) |Large language models (LLMs) can potentially democratize access to medical knowledge.  In this work, we improve access to large-scale medical LLMs by releasing MEDITRON: a suite of open-source LLMs with 7B and 70B parameters adapted to the medical domain.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
