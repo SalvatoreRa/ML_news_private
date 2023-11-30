@@ -51,6 +51,12 @@
 |[Animatable Gaussians: Learning Pose-dependent Gaussian Maps
 for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io/) | This research suggests "Animatable Gaussians," a cutting-edge method that blends 3D Gaussian splatting with 2D CNNs to produce more realistic and intricate human avatars from films.|
 |[Illuminating protein space with a programmable generative model.](https://www.nature.com/articles/s41586-023-06728-8) |Evolution has produced a range of diverse proteins, and now a generative model called Chroma can expand that set by allowing the user to design new proteins and protein complexes with desired properties and functions. |
+|[Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection.](https://arxiv.org/abs/2311.16464v1) |UVCOM is a new framework that better handles the distinct requirements of Video Moment Retrieval (MR) and Highlight Detection (HD). |
+|[DeepSeek-LLM.](https://github.com/deepseek-ai/deepseek-LLM) |The Deepseek coder model demonstrated remarkable code synthesis capability. Its current chat LLM, with 67B parameters, works noticeably better than Llama 2's 70B. |
+|[llamafile.](https://github.com/mozilla-Ocho/llamafile) | llamafile lets you distribute and run LLMs with a single file. [Introducing llamafile.](https://hacks.mozilla.org/2023/11/introducing-llamafile/)|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -70,6 +76,12 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[Introducing SDXL Turbo: A Real-Time Text-to-Image Generation Model.](https://stability.ai/news/stability-ai-sdxl-turbo) |SDXL Turbo achieves state-of-the-art performance with a new distillation technology, enabling single-step image generation with unprecedented quality, reducing the required step count from 50 to just one. [code and weights.](https://huggingface.co/stabilityai/sdxl-turbo)|
 |[OpenAI unlikely to offer board seat to Microsoft, other investors - source.](https://finance.yahoo.com/news/openai-not-expected-offer-board-220512455.html) | ChatGPT owner OpenAI is not expected to offer Microsoft and other investors including Khosla Ventures and Thrive Capital seats on its new board, a person familiar with the matter told Reuters on Tuesday.|
 |[Sports Illustrated Published Articles by Fake, AI-Generated Writers.](https://futurism.com/sports-illustrated-ai-generated-writers) |Articles created by fictitious AI authors have been covertly published by Sports Illustrated. |
+|[Together AI raises $102M series A.](https://www.together.ai/blog/series-a) |This investment, led by Kleiner Perkins, will support the expansion of the training and inference solutions, which have had tremendous uptake since Together's June debut. |
+|[Amazon Q.](https://aws.amazon.com/q/) | A generative model was trained by Amazon to help AWS platform users. Additionally, it will be used to general business support. The model is a proprietary mechanism that responds to inquiries from users on different facets of Amazon's backend infrastructure.|
+|[Voltage Park launches massive new cloud for AI development.](https://blog.voltagepark.com/voltage-park-launches-massive-new-cloud-for-affordable-ai-development/) |With a 24k H100 mega cluster, Voltage Park is a new cloud service that powers processes for clients like Character AI. With less than $2 per hour for each GPU, it appears to have industry-leading price. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,11 +129,13 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[What the OpenAI drama means for AI progress — and safety.](https://www.nature.com/articles/d41586-023-03700-4) | A debacle at the company that built ChatGPT highlights concern that commercial forces are acting against the responsible development of artificial-intelligence systems.|
 |[Adjust the format of papers to improve description by AI.](https://www.nature.com/articles/d41586-023-03739-3) |The chatbot ChatGPT and other tools based on large language models (LLMs) can make scientific research more efficient, but they can also introduce mistakes when they describe scientific work. I suggest that small changes to the format of scientific papers could improve the training of LLMs. |
 |[AI under the microscope: the algorithms powering the search for cells.](https://www.nature.com/articles/d41586-023-03722-y) | Deep learning is driving the rapid evolution of algorithms that can automatically find and trace cells in a wide range of microscopy experiments.|
+|[ChatGPT's training data can be exposed via a "divergence attack".](https://stackdiary.com/chatgpts-training-data-can-be-exposed-via-a-divergence-attack/) | Large language models, like ChatGPT, have been shown to be able to memorize and unintentionally disclose particular training data, raising privacy concerns—especially with bigger models.|
+|[In The Age Of AI, Google Experiments With Bold Changes To Search.](https://www.bigtechnology.com/p/in-the-age-of-ai-google-experiments) | The excitement surrounding Q*, the purported AI breakthrough from OpenAI, illustrates the tech community's propensity to quickly change focus and conjecture about the next great development in AI, frequently with no information—a phenomenon known as "Shiny Object Syndrome."|
+|[A global hit: AI translation tools help singers break down borders.](https://www.semafor.com/article/11/10/2023/ai-translation-tools-help-singers-break-down-borders) |While some producers view the cost as prohibitive, YouTube, Mr. Beast, and a South Korean label are among the companies using AI to dub video content into many languages. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
 
 # ML news: Week 20-26 November
 
