@@ -50,7 +50,7 @@
 |[Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models.](https://arxiv.org/abs/2311.15908v1) | A new method for video super-resolution (VSR) called StableVSR uses a temporal conditioning module together with diffusion models to improve the quality of upscaled movies.|
 |[Animatable Gaussians: Learning Pose-dependent Gaussian Maps
 for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io/) | This research suggests "Animatable Gaussians," a cutting-edge method that blends 3D Gaussian splatting with 2D CNNs to produce more realistic and intricate human avatars from films.|
-|[.]() | |
+|[Illuminating protein space with a programmable generative model.](https://www.nature.com/articles/s41586-023-06728-8) |Evolution has produced a range of diverse proteins, and now a generative model called Chroma can expand that set by allowing the user to design new proteins and protein complexes with desired properties and functions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,10 +113,10 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[A Data-Driven Look at the Rise of AI.](https://www.newcomer.co/p/a-data-driven-look-at-the-rise-of?) |This article from the Cerebral Valley AI Summit examines the development of AI using data and is heavily illustrated with slides. We all hear it all the time, but there is a ton of evidence to support it. The development of developer interest and its eventual collapse are of particular importance. |
 |[How Much Does it Cost to Use an LLM?.](https://tomtunguz.com/gm-saas/) | Different models cost different amounts. Also, the size of the context window is an important factor. But how much?|
 |[The 10-Year “Overnight” Success Story of Casetext.](https://www.ycombinator.com/blog/the-10-year-overnight-success-story-of-casetext/) |When Casetext first launched in 2013, it was a crowdsourced legal library, similar to "Wikipedia meets reddit" for legal matters. A decade later, Casetext stands as one of the greatest AI achievements to date, able to compress weeks' worth of laborious legal work into hours or minutes. It was purchased for $650 million just a few months ago. Between those two points, what transpired? |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ChatGPT generates fake data set to support scientific hypothesis.](https://www.nature.com/articles/d41586-023-03635-w) |Researchers say that the model behind the chatbot fabricated a convincing bogus database, but a forensic examination shows it doesn’t pass for authentic. |
+|[What the OpenAI drama means for AI progress — and safety.](https://www.nature.com/articles/d41586-023-03700-4) | A debacle at the company that built ChatGPT highlights concern that commercial forces are acting against the responsible development of artificial-intelligence systems.|
+|[Adjust the format of papers to improve description by AI.](https://www.nature.com/articles/d41586-023-03739-3) |The chatbot ChatGPT and other tools based on large language models (LLMs) can make scientific research more efficient, but they can also introduce mistakes when they describe scientific work. I suggest that small changes to the format of scientific papers could improve the training of LLMs. |
+|[AI under the microscope: the algorithms powering the search for cells.](https://www.nature.com/articles/d41586-023-03722-y) | Deep learning is driving the rapid evolution of algorithms that can automatically find and trace cells in a wide range of microscopy experiments.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
