@@ -41,7 +41,7 @@
 |---|---|
 |[SegVol: Universal and Interactive Volumetric Medical Image Segmentation.](https://arxiv.org/abs/2311.13385v1) |Clinical analysis has entered a new era with the release of SegVol, a universal model for medical picture segmentation. SegVol is highly proficient at segmenting a wide range of anatomical categories, having been trained on a large set of CT images. [official code.](https://github.com/baai-dcai/segvol)|
 |[Visual In-Context Prompting.](https://arxiv.org/abs/2311.13601v1) | This novel strategy supports a variety of cues and environments, significantly improving performance in segmentation tasks and demonstrating outstanding outcomes in open-ended challenges. [official code.](https://github.com/ux-decoder/dinov)|
-|[Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF.](https://starling.cs.berkeley.edu/) |Researchers at Berkeley used synthetic preference data to train a brand-new, cutting-edge 7B parameter model. This blog discusses the unique difficulties in training reward models (such as how an example's score might change depending on where it is in the list) and how they overcome them. Both the training reward model and the generated model are made publicly. |
+|[Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF.](https://starling.cs.berkeley.edu/) |Researchers at Berkeley used synthetic preference data to train a brand-new, cutting-edge 7B parameter model. This blog discusses the unique difficulties in training reward models (such as how an example's score might change depending on where it is in the list) and how they overcome them. Both the training reward model and the generated model are made public. |
 |[Segmentation-Based Parametric Painting.](https://manuelladron.github.io/semantic_based_painting) | A novel method has been devised by researchers to convert pictures into paintings that emulate human characteristics and aesthetics.|
 |[Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers.](https://arxiv.org/abs/2311.10642) | A groundbreaking study explores the potential of shallow feed-forward networks to replace attention mechanisms in Transformer models. Shallow feed-forward networks can emulate the behavior of attention mechanisms effectively, with similar performances. This research opens new avenues in neural network design, potentially simplifying complex models.|
 |[MEDITRON-70B: Scaling Medical Pretraining for Large Language Models.](https://huggingface.co/papers/2311.16079) |Large language models (LLMs) can potentially democratize access to medical knowledge.  In this work, we improve access to large-scale medical LLMs by releasing MEDITRON: a suite of open-source LLMs with 7B and 70B parameters adapted to the medical domain.  |
@@ -54,11 +54,11 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection.](https://arxiv.org/abs/2311.16464v1) |UVCOM is a new framework that better handles the distinct requirements of Video Moment Retrieval (MR) and Highlight Detection (HD). |
 |[DeepSeek-LLM.](https://github.com/deepseek-ai/deepseek-LLM) |The Deepseek coder model demonstrated remarkable code synthesis capability. Its current chat LLM, with 67B parameters, works noticeably better than Llama 2's 70B. |
 |[llamafile.](https://github.com/mozilla-Ocho/llamafile) | llamafile lets you distribute and run LLMs with a single file. [Introducing llamafile.](https://hacks.mozilla.org/2023/11/introducing-llamafile/)|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Millions of new materials discovered with deep learning.](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) |AI tool GNoME finds 2.2 million new crystals, including 380,000 stable materials that could power future technologies |
+|[Seamless: Multilingual Expressive and Streaming Speech Translation.](https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/) |An innovative technique that transforms automated voice recognition is called Seamless. Conversations feel more natural thanks to this sophisticated model, which not only translates across 76 languages but also maintains the speaker's distinct prosody and voice style. |
+|[Language-conditioned Detection Transformer.](https://arxiv.org/abs/2311.17902v1) | A novel open-vocabulary detection system called DECOLA is presented by researchers. It performs exceptionally well at recognizing things outside of its training dataset. [official code.](https://github.com/janghyuncho/decola)|
+|[Diffusion-MU-Attack.](https://github.com/optml-group/diffusion-mu-attack) |This project proposes an evaluation system to assess the reliability of safety-driven unlearning techniques in diffusion models through the use of adversarial prompts. |
+|[AI system self-organises to develop features of brains of complex organisms.](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms) | Cambridge scientists have shown that placing physical constraints on an artificially-intelligent system – in much the same way that the human brain has to develop and operate within physical and biological constraints – allows it to develop features of the brains of complex organisms in order to solve tasks.|
 |[.]() | |
 |[.]() | |
 
@@ -79,8 +79,8 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[Together AI raises $102M series A.](https://www.together.ai/blog/series-a) |This investment, led by Kleiner Perkins, will support the expansion of the training and inference solutions, which have had tremendous uptake since Together's June debut. |
 |[Amazon Q.](https://aws.amazon.com/q/) | A generative model was trained by Amazon to help AWS platform users. Additionally, it will be used to general business support. The model is a proprietary mechanism that responds to inquiries from users on different facets of Amazon's backend infrastructure.|
 |[Voltage Park launches massive new cloud for AI development.](https://blog.voltagepark.com/voltage-park-launches-massive-new-cloud-for-affordable-ai-development/) |With a 24k H100 mega cluster, Voltage Park is a new cloud service that powers processes for clients like Character AI. With less than $2 per hour for each GPU, it appears to have industry-leading price. |
-|[.]() | |
-|[.]() | |
+|[These ex-Apple employees are bringing AI to the desktop.](https://www.theverge.com/2023/11/29/23981802/software-applications-inc-workflow-shortcuts-apple-employees-startup) |After selling Workflow to Apple in 2017, the co-founders are back with a new startup that wants to reimagine how desktop computers work using generative AI. |
+|[Martian’s tool automatically switches between LLMs to reduce costs.](https://techcrunch.com/2023/11/15/martians-tool-automatically-switches-between-llms-to-reduce-costs/) | With $9 million in funding, AI experts Etan Ginsberg and Shriyash Upadhyay founded the startup Martian. Martian developed a "model router" tool that intelligently routes requests to the best appropriate model for the job, maximizing the utilization of huge language AI models like GPT-4 and reducing costs. According to the founders, this strategy encourages fundamental research as opposed to competitive research.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,10 +103,10 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[CoachLM.](https://github.com/lunyiliu/coachlm) |CoachLM presents a cutting-edge AI method for improving training datasets for LLMs. This approach dramatically increases the efficacy of instruction-following in LLMs by improving datasets in a novel way—by modifying rather than eliminating low-quality samples. |
 |[multimodal-maestro.](https://github.com/roboflow/multimodal-maestro) |Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. |
 |[Tanuki.](https://github.com/Tanuki/tanuki.py) |Easily build LLM-powered apps that get cheaper and faster over time. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Accelerating Generative AI with PyTorch II: GPT, Fast.](https://pytorch.org/blog/accelerating-generative-ai-2/) | The PyTorch team describes in this blog post how to significantly accelerate language model inference using native Pytorch code. The article explains how to obtain more than 200 tokens from Llama 2 7B every second.|
+|[Qwen-Audio.](https://qwen-audio.github.io/Qwen-Audio/) | An audio understanding model that is universal has been released by the Alibaba Cloud Group. It is capable of a variety of audio-related tasks, such as text question answering and music comprehension and speaker recognition.|
+|[3D to Photo.](https://github.com/Dabble-Studio/3d-to-photo) | 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine. The app currently uses Stable Diffusion 1.5-inpainting, hosted on Replicate.|
+|[5 Ways To Leverage AI in Tech with Freshworks CIO Prasad Ramakrishnan.](https://www.saastr.com/5-ways-to-leverage-ai-in-tech-with-freshworks-cio-prasad-ramakrishnan/) | Prasad Ramakrishnan, CIO of Freshworks, goes over a few practical applications of AI for startups. This article outlines five ways that businesses may utilize AI to grow and address challenges, from improving user experience to onboarding and optimizing data platforms.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[ChatGPT's training data can be exposed via a "divergence attack".](https://stackdiary.com/chatgpts-training-data-can-be-exposed-via-a-divergence-attack/) | Large language models, like ChatGPT, have been shown to be able to memorize and unintentionally disclose particular training data, raising privacy concerns—especially with bigger models.|
 |[In The Age Of AI, Google Experiments With Bold Changes To Search.](https://www.bigtechnology.com/p/in-the-age-of-ai-google-experiments) | The excitement surrounding Q*, the purported AI breakthrough from OpenAI, illustrates the tech community's propensity to quickly change focus and conjecture about the next great development in AI, frequently with no information—a phenomenon known as "Shiny Object Syndrome."|
 |[A global hit: AI translation tools help singers break down borders.](https://www.semafor.com/article/11/10/2023/ai-translation-tools-help-singers-break-down-borders) |While some producers view the cost as prohibitive, YouTube, Mr. Beast, and a South Korean label are among the companies using AI to dub video content into many languages. |
-|[.]() | |
+|[ChatGPT is winning the future — but what future is that?.](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future) | OpenAI didn’t mean to kickstart a generational shift in the technology industry. But it did. Now all we have to decide is where to go from here.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
