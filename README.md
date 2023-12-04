@@ -37,10 +37,10 @@
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Diffusion Models Without Attention.](https://arxiv.org/abs/2311.18257) | Modern diffusion models employ the attention mechanism in most cases, but not always. Recent advances in theory have accelerated the proliferation of interest in state spaces, leading to intriguing new applications. |
+|[MoMask: Generative Masked Modeling of 3D Human Motions.](https://ericguo5513.github.io/momask/) | A new initiative by the authors of seminal work in this field combines innovative encoder techniques to provide fine-grained control over the production of the final animation.|
+|[When StyleGAN Meets Stable Diffusion.](https://csxmli2016.github.io/projects/w-plus-adapter/) |Enhancing identity preservation in produced pictures, a novel technique uses the enlarged StyleGAN embedding space W+ for text-to-image diffusion models. |
+|[MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation.](https://github.com/tacju/maxtron) | MaXTron is a simple yet effective unified meta-architecture for video segmentation, which enriches existing clip-level segmenters by introducing a within-clip tracking module and a cross-clip tracking module, thus achieving better temporally consistent segmentation results.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -63,9 +63,9 @@
 |[OpenAI’s GPT store delayed to next year.](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt) | OpenAI’s GPT store will be delayed until next year, the company said in an email to people who signed up for its GPT Builder.|
 |[Amazon's Q generative AI chatbot allegedly leaks location of AWS data centers - report.](https://www.datacenterdynamics.com/en/news/amazons-q-generative-ai-chatbot-leaks-location-of-aws-data-centers/) |Amazon's newly launched artificial intelligence chatbot Amazon Q is “experiencing severe hallucinations and leaking confidential data,” internal documents warn. |
 |[Interview: Sam Altman on being fired and rehired by OpenAI.](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired) | “I totally get why people want an answer right now. But I also think it’s totally unreasonable to expect it.”|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Report: Stability AI Positioning Itself for Acquisition.](https://www.pymnts.com/acquisitions/2023/report-stability-ai-positioning-itself-for-acquisition) |Stability AI, a British artificial intelligence (AI) startup, is reportedly considering selling the company amidst mounting pressure from investors over its financial position.  |
+|[Report: Google delays Gemini launch from next week to January.](https://9to5google.com/2023/12/02/google-gemini-launch-delay/) |Google announced Gemini at I/O 2023 as its next-generation foundation model. According to a report today, Google was originally going to launch Gemini next week, but that has now been delayed until January. |
+|[The GPT to rule them all: Training for one trillion parameter model backed by Intel and US government has just begun.](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun) | LLM playfully dubbed 'ScienceGPT' is being trained from data from the Aurora supercomputer|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,8 +76,7 @@
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[weight-selection.](https://github.com/OscarXZQ/weight-selection) | We introduce weight selection, a method for initializing models by selecting a subset of weights from a pretrained larger model. With no extra cost, it is effective for improving the accuracy of a smaller model and reducing its training time needed to reach a certain accuracy level.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,8 +95,8 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[The future of AI in software development.](https://www.lennysnewsletter.com/p/the-future-of-ai-in-software-development) |Inbal Shani, the Chief Product Officer of GitHub, talks about the role AI plays in software development and makes the case that AI-driven code production will increase developer productivity rather than replace it. She delves into GitHub's Copilot's performance measures, philosophy, and innovation-promoting practices. The future of AI in the IT sector is clarified by this discussion. |
+|[OpenAI & Grand Strategy.](https://www.notboring.co/p/openai-and-grand-strategy) | The importance of grand strategy in the IT industry is emphasized in this essay, which compares the lofty goals of contemporary tech executives to historical victories and exhorts them to behave and think like historical leaders in order to match capabilities with ambitions. It uses the recent happenings at OpenAI as an illustration of a grand strategy that works and challenges prospective leaders to develop plans that match their skills with their goals for meaningful, constructive change.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
