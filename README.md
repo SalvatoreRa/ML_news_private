@@ -34,7 +34,54 @@
 
 # ON WORKING
 
-# ML news:
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+# ML news: Week 27 November - 3 December
 
 ## Research
 |Link|description|
@@ -59,8 +106,7 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[Language-conditioned Detection Transformer.](https://arxiv.org/abs/2311.17902v1) | A novel open-vocabulary detection system called DECOLA is presented by researchers. It performs exceptionally well at recognizing things outside of its training dataset. [official code.](https://github.com/janghyuncho/decola)|
 |[Diffusion-MU-Attack.](https://github.com/optml-group/diffusion-mu-attack) |This project proposes an evaluation system to assess the reliability of safety-driven unlearning techniques in diffusion models through the use of adversarial prompts. |
 |[AI system self-organises to develop features of brains of complex organisms.](https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms) | Cambridge scientists have shown that placing physical constraints on an artificially-intelligent system – in much the same way that the human brain has to develop and operate within physical and biological constraints – allows it to develop features of the brains of complex organisms in order to solve tasks.|
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -81,14 +127,7 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[Voltage Park launches massive new cloud for AI development.](https://blog.voltagepark.com/voltage-park-launches-massive-new-cloud-for-affordable-ai-development/) |With a 24k H100 mega cluster, Voltage Park is a new cloud service that powers processes for clients like Character AI. With less than $2 per hour for each GPU, it appears to have industry-leading price. |
 |[These ex-Apple employees are bringing AI to the desktop.](https://www.theverge.com/2023/11/29/23981802/software-applications-inc-workflow-shortcuts-apple-employees-startup) |After selling Workflow to Apple in 2017, the co-founders are back with a new startup that wants to reimagine how desktop computers work using generative AI. |
 |[Martian’s tool automatically switches between LLMs to reduce costs.](https://techcrunch.com/2023/11/15/martians-tool-automatically-switches-between-llms-to-reduce-costs/) | With $9 million in funding, AI experts Etan Ginsberg and Shriyash Upadhyay founded the startup Martian. Martian developed a "model router" tool that intelligently routes requests to the best appropriate model for the job, maximizing the utilization of huge language AI models like GPT-4 and reducing costs. According to the founders, this strategy encourages fundamental research as opposed to competitive research.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -107,10 +146,7 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[Qwen-Audio.](https://qwen-audio.github.io/Qwen-Audio/) | An audio understanding model that is universal has been released by the Alibaba Cloud Group. It is capable of a variety of audio-related tasks, such as text question answering and music comprehension and speaker recognition.|
 |[3D to Photo.](https://github.com/Dabble-Studio/3d-to-photo) | 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine. The app currently uses Stable Diffusion 1.5-inpainting, hosted on Replicate.|
 |[5 Ways To Leverage AI in Tech with Freshworks CIO Prasad Ramakrishnan.](https://www.saastr.com/5-ways-to-leverage-ai-in-tech-with-freshworks-cio-prasad-ramakrishnan/) | Prasad Ramakrishnan, CIO of Freshworks, goes over a few practical applications of AI for startups. This article outlines five ways that businesses may utilize AI to grow and address challenges, from improving user experience to onboarding and optimizing data platforms.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -133,9 +169,7 @@ for High-fidelity Human Avatar Modeling.](https://animatable-gaussians.github.io
 |[In The Age Of AI, Google Experiments With Bold Changes To Search.](https://www.bigtechnology.com/p/in-the-age-of-ai-google-experiments) | The excitement surrounding Q*, the purported AI breakthrough from OpenAI, illustrates the tech community's propensity to quickly change focus and conjecture about the next great development in AI, frequently with no information—a phenomenon known as "Shiny Object Syndrome."|
 |[A global hit: AI translation tools help singers break down borders.](https://www.semafor.com/article/11/10/2023/ai-translation-tools-help-singers-break-down-borders) |While some producers view the cost as prohibitive, YouTube, Mr. Beast, and a South Korean label are among the companies using AI to dub video content into many languages. |
 |[ChatGPT is winning the future — but what future is that?.](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future) | OpenAI didn’t mean to kickstart a generational shift in the technology industry. But it did. Now all we have to decide is where to go from here.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 20-26 November
 
