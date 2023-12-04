@@ -46,10 +46,26 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## News
 |Link|description|
 |---|---|
+|[OpenAI’s GPT store delayed to next year.](https://www.theverge.com/2023/12/1/23984497/openai-gpt-store-delayed-ai-gpt) | OpenAI’s GPT store will be delayed until next year, the company said in an email to people who signed up for its GPT Builder.|
+|[Amazon's Q generative AI chatbot allegedly leaks location of AWS data centers - report.](https://www.datacenterdynamics.com/en/news/amazons-q-generative-ai-chatbot-leaks-location-of-aws-data-centers/) |Amazon's newly launched artificial intelligence chatbot Amazon Q is “experiencing severe hallucinations and leaking confidential data,” internal documents warn. |
+|[Interview: Sam Altman on being fired and rehired by OpenAI.](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired) | “I totally get why people want an answer right now. But I also think it’s totally unreasonable to expect it.”|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -66,6 +82,16 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -79,6 +105,16 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 
 # ML news: Week 27 November - 3 December
