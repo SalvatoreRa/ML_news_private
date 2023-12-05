@@ -41,10 +41,10 @@
 |[MoMask: Generative Masked Modeling of 3D Human Motions.](https://ericguo5513.github.io/momask/) | A new initiative by the authors of seminal work in this field combines innovative encoder techniques to provide fine-grained control over the production of the final animation.|
 |[When StyleGAN Meets Stable Diffusion.](https://csxmli2016.github.io/projects/w-plus-adapter/) |Enhancing identity preservation in produced pictures, a novel technique uses the enlarged StyleGAN embedding space W+ for text-to-image diffusion models. |
 |[MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation.](https://github.com/tacju/maxtron) | MaXTron is a simple yet effective unified meta-architecture for video segmentation, which enriches existing clip-level segmenters by introducing a within-clip tracking module and a cross-clip tracking module, thus achieving better temporally consistent segmentation results.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces.](https://arxiv.org/abs/2312.00752) | An additional article on state spaces that offers better performance and scalability. Here, they train a 3B parameter model, which beats out bigger 7B parameter Transformer models, by taking inspiration from the LSTM. [official code.](https://github.com/radarFudan/mamba)|
+|[MotionEditor: Editing Video Motion via Content-Aware Diffusion.](https://arxiv.org/abs/2311.18830) |MotionEditor is a diffusion model that expertly strikes a balance between preserving the original material and manipulating motion in videos. With the introduction of a novel two-branch architecture with attention injection and a content-aware motion adaptor, modified movements may be seamlessly integrated while preserving the protagonist's look and the original background. [official code.](https://github.com/Francis-Rings/MotionEditor) |
+|[Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction.](https://shinying.github.io/dmp/) | Artificial intelligence-generated images now have more accurate semantic predictions because to a new technique called Diffusion Models as Prior (DMP). Even with minimal training data, this novel method outperforms existing approaches by shrewdly adapting pre-trained text-to-image models for a variety of tasks, such as semantic segmentation and 3D property estimation. [official code.](https://github.com/shinying/dmp)|
+|[IMMA: Immunizing text-to-image Models against Malicious Adaptation.](https://zhengyjzoe.github.io/imma/) |A novel way to prevent malicious adaptations of text-to-image models to produce harmful content is provided by the new IMMA approach. [official code.](https://github.com/zhengyjzoe/IMMA)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -66,6 +66,11 @@
 |[Report: Stability AI Positioning Itself for Acquisition.](https://www.pymnts.com/acquisitions/2023/report-stability-ai-positioning-itself-for-acquisition) |Stability AI, a British artificial intelligence (AI) startup, is reportedly considering selling the company amidst mounting pressure from investors over its financial position.  |
 |[Report: Google delays Gemini launch from next week to January.](https://9to5google.com/2023/12/02/google-gemini-launch-delay/) |Google announced Gemini at I/O 2023 as its next-generation foundation model. According to a report today, Google was originally going to launch Gemini next week, but that has now been delayed until January. |
 |[The GPT to rule them all: Training for one trillion parameter model backed by Intel and US government has just begun.](https://www.techradar.com/pro/the-gpt-to-rule-them-all-training-for-one-trillion-parameter-model-backed-by-intel-and-us-government-has-just-begun) | LLM playfully dubbed 'ScienceGPT' is being trained from data from the Aurora supercomputer|
+|[Perplexity AI unveils ‘online’ LLMs that could dethrone Google Search.](https://venturebeat.com/ai/perplexity-ai-unveils-online-llms-that-could-dethrone-google-search/) |Confusing AI has the ability to overthrow Google with its blend of current knowledge, a conversational AI chatbot interface, and a web index. Versions of the open source models from Mistral and Meta that have been improved and enhanced have been made available by the firm. The models are meant to provide useful, accurate, and current information. These are the first-ever live LLM APIs with no knowledge cutoff, and they are based on online search data. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,12 +81,12 @@
 ## Resources
 |Link|description|
 |---|---|
-|[weight-selection.](https://github.com/OscarXZQ/weight-selection) | We introduce weight selection, a method for initializing models by selecting a subset of weights from a pretrained larger model. With no extra cost, it is effective for improving the accuracy of a smaller model and reducing its training time needed to reach a certain accuracy level.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[weight-selection.](https://github.com/OscarXZQ/weight-selection) | We introduce weight selection, a method for initializing models by selecting a subset of weights from a pre-trained larger model. With no extra cost, it is effective for improving the accuracy of a smaller model and reducing its training time needed to reach a certain accuracy level.|
+|[Nous-Hermes-2-Vision - Mistral 7B.](https://huggingface.co/NousResearch/Nous-Hermes-2-Vision-Alpha) |This vision model is a potent new open-source text and vision model that can operate on consumer hardware, and it is built on top of the best 7B language model with SigLIP integration. The incorporation of function calling is one of the neat ideas here. Due to a hallucination problem, the model remains in alpha. |
+|[LLM As A Function.](https://blog.vjeux.com/2023/analysis/llm-as-a-function.html) | It's helpful to think about language models as functions with standard input and output when adding them to your code base. The author of React Native demonstrates a couple methods for doing that in this blog post, along with the advantages of modeling your models in this manner.|
+|[aiconfig.](https://github.com/lastmile-ai/aiconfig) |AIConfig saves prompts, models and model parameters as source control friendly configs. This allows you to iterate on prompts and model parameters separately from your application code. |
+|[Microsoft's Generative AI for Beginners.](https://microsoft.github.io/generative-ai-for-beginners/) |A 12 Lesson course teaching everything you need to know to start building Generative AI applications |
+|[Unsloth.](https://github.com/unslothai/unsloth) | Fast and memory-efficient LLM tuning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,9 +102,9 @@
 |---|---|
 |[The future of AI in software development.](https://www.lennysnewsletter.com/p/the-future-of-ai-in-software-development) |Inbal Shani, the Chief Product Officer of GitHub, talks about the role AI plays in software development and makes the case that AI-driven code production will increase developer productivity rather than replace it. She delves into GitHub's Copilot's performance measures, philosophy, and innovation-promoting practices. The future of AI in the IT sector is clarified by this discussion. |
 |[OpenAI & Grand Strategy.](https://www.notboring.co/p/openai-and-grand-strategy) | The importance of grand strategy in the IT industry is emphasized in this essay, which compares the lofty goals of contemporary tech executives to historical victories and exhorts them to behave and think like historical leaders in order to match capabilities with ambitions. It uses the recent happenings at OpenAI as an illustration of a grand strategy that works and challenges prospective leaders to develop plans that match their skills with their goals for meaningful, constructive change.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI and Trust.](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html) | In the discussion, the speaker emphasizes the differences between social and interpersonal trust and warns about the potential for profit-driven organizations to take advantage of our inclination to view AI as friends rather than as a service. In order to guarantee that AI continues to be a reliable and advantageous service for society, they urge for government intervention through transparency legislation and regulations targeted at the people who create AI. They also ask for the creation of public AI models.|
+|[AI Doomers are worse than wrong - they're incompetent.](https://www.infinitescroll.us/p/ai-doomers-are-worse-than-wrong-theyre) | This essay attacks the OpenAI AI doomer movement for making calculated mistakes and unnecessarily speeding up AI development instead of protecting it.|
+|[How AI Changes Workflows.](https://matt-rickard.com/how) |GitHub has acknowledged the impact of AI on developer workflows and is "re-founding" Copilot. With AI-assisted procedures like autocomplete code, it will boost productivity and might potentially completely reorganize operations. This change permits customized workflows, but it also necessitates striking a compromise between flexibility and the capacity to offer extensive client assistance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
