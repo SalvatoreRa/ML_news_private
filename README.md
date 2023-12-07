@@ -107,9 +107,9 @@
 |[How AI Changes Workflows.](https://matt-rickard.com/how) |GitHub has acknowledged the impact of AI on developer workflows and is "re-founding" Copilot. With AI-assisted procedures like autocomplete code, it will boost productivity and might potentially completely reorganize operations. This change permits customized workflows, but it also necessitates striking a compromise between flexibility and the capacity to offer extensive client assistance. |
 |[Teach Llamas to Talk: Recent Progress in Instruction Tuning.](https://gaotianyu.xyz/blog/2023/11/30/instruction-tuning/) |After instruction tweaking was implemented, the utility of language models significantly increased. Synthetic data pipelines are one of the numerous recent innovations that improve and streamline the process. |
 |[Two Titans on the Future of AI (with Reid Hoffman & Vinod Khosla).](https://www.newcomer.co/p/two-titans-on-the-future-of-ai-with) | An excellent synopsis of Reid Hoffman and Vinod Khosla's 45+ minute lectures, in which they each delved into a range of subjects from AI to manifestos for "techno-optimists." Both titans have insightful opinions about the future and the best ways to manage the tech sector.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Is AI leading to a reproducibility crisis in science?](https://www.nature.com/articles/d41586-023-03817-6) |Scientists worry that ill-informed use of artificial intelligence is driving a deluge of unreliable or useless research. |
+|[Generative AI could revolutionize health care — but not if control is ceded to big tech.](https://www.nature.com/articles/d41586-023-03803-y) | Large language models such as that used by ChatGPT could soon become essential tools for diagnosing and treating patients. To protect people’s privacy and safety, medical professionals, not commercial interests, must drive their development and deployment.|
+|[ChatGPT one year on: who is using it, how and why?.](https://www.nature.com/articles/d41586-023-03798-6) | In just a year, ChatGPT has permeated scientific research. Seven scientists reveal what they have learned about how the chatbot should — and shouldn’t — be used.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
