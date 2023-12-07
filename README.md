@@ -50,7 +50,7 @@
 |[Zero123++: A Single Image to Consistent Multi-view Diffusion Base Model.](https://github.com/sudo-ai-3d/zero123plus) |This project introduces Zero123++, a model that applies diffusion concepts to produce consistent multi-view pictures from a single input image. Zero123++ tackles problems like as alignment and texture quality by using pretrained 2D models. |
 |[Salient Object Detection in RGB-D Videos (RDVS dataset and DCTNet+ model).](https://github.com/kerenfu/rdvs) | The RDVS dataset, which contains a wide variety of RGB-D video sequences, and DCTNet+, a specialized network for RGB-D video object detection, which is outfitted with cutting-edge features for accurate prediction and enhanced performance over previous models, are the two main contributions revealed by this repository.|
 |[Style Aligned Image Generation via Shared Attention.](https://style-aligned-gen.github.io/) |Amazing work by Google based on SDXL that distributes focus between generations to preserve unified looks. Importantly, this approach doesn't need to be adjusted. |
-|[.]() | |
+|[Describing Differences in Image Sets with Natural Language.](https://arxiv.org/abs/2312.02974) |This essay compares and contrasts two image collections using natural language. This is a brand-new, difficult challenge. The individual photos are captioned, rearranged, and summarized using a language model as part of the solution. [official code.](https://github.com/understanding-visual-datasets/visdiff)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -74,6 +74,9 @@
 |[Airbnb has acquired GamePlanner.AI.](https://news.airbnb.com/airbnb-has-acquired-gameplanner-ai) |Airbnb has purchased GamePlanner, an AI startup.AI, a business headed by Siamak Hodjat, an AI specialist, and Adam Cheyer, a co-founder of Siri. The group's main goals will be to integrate their technologies with Airbnb's platform and expedite certain AI projects. GamePlanner and Airbnb.AI are dedicated to leveraging AI to improve human-computer interaction. |
 |[Introducing Gemini: our largest and most capable AI model.](https://blog.google/technology/ai/google-gemini-ai/) | The field-wise network is a column-specific neural network so as to capture the information associated with the feature. The second component, on the other hand, is across-field-network to choose the specialized operations for the dataset. Finally, the last step n operation fusion network nonlinearly connects the chosen operations. In other words, it is an enhancement of DeepFM in which the network selects the best operations.|
 |[Meta's AI image generator is available as a standalone website.](https://www.engadget.com/metas-ai-image-generator-is-available-as-a-standalone-website-185953058.html) |The company is testing dozens of new AI features in Facebook, Instagram and WhatsApp. |
+|[Microsoft’s Copilot is getting OpenAI’s latest models and a new code interpreter.](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature) |GPT-4 Turbo is on the way soon, alongside improvements to the DALL-E 3 model and deep search results for Bing. |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
