@@ -52,7 +52,7 @@
 |[Style Aligned Image Generation via Shared Attention.](https://style-aligned-gen.github.io/) |Amazing work by Google based on SDXL that distributes focus between generations to preserve unified looks. Importantly, this approach doesn't need to be adjusted. |
 |[Describing Differences in Image Sets with Natural Language.](https://arxiv.org/abs/2312.02974) |This essay compares and contrasts two image collections using natural language. This is a brand-new, difficult challenge. The individual photos are captioned, rearranged, and summarized using a language model as part of the solution. [official code.](https://github.com/understanding-visual-datasets/visdiff)|
 |[BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models.](https://github.com/AIFEG/BenchLMM) | In this work, BenchLMM, a benchmark for testing the resilience of large multimodal models such as GPT-4V and LLaVA against different image styles, is presented.|
-|[Let's Think Outside the Box !.]() | |
+|[Let's Think Outside the Box !](https://zhongshsh.github.io/CLoT/) |This paper presents an approach to investigate Leap-of-Thought capabilities in multimodal LLMs using the Oogiri comedy generating game. This method forces LLMs to use non-sequential thinking, which is an essential ability for coming up with original and amusing answers to a variety of multimodal material. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,7 +78,7 @@
 |[Introducing Gemini: our largest and most capable AI model.](https://blog.google/technology/ai/google-gemini-ai/) | The field-wise network is a column-specific neural network so as to capture the information associated with the feature. The second component, on the other hand, is across-field-network to choose the specialized operations for the dataset. Finally, the last step n operation fusion network nonlinearly connects the chosen operations. In other words, it is an enhancement of DeepFM in which the network selects the best operations.|
 |[Meta's AI image generator is available as a standalone website.](https://www.engadget.com/metas-ai-image-generator-is-available-as-a-standalone-website-185953058.html) |The company is testing dozens of new AI features in Facebook, Instagram and WhatsApp. |
 |[Microsoft’s Copilot is getting OpenAI’s latest models and a new code interpreter.](https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature) |GPT-4 Turbo is on the way soon, alongside improvements to the DALL-E 3 model and deep search results for Bing. |
-|[.]() | |
+|[Elon Musk told OpenAI to move faster right before he left the company in 2018: NYT.](https://www.businessinsider.com/elon-musk-told-openai-to-move-faster-before-he-left-2023-12) | Elon Musk said OpenAI needed to be quicker with its work before departing from the company, per NYT.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,11 +97,16 @@
 |[mlx.](https://github.com/ml-explore/mlx) |Thanks to unified memory, Apple has discreetly introduced a new Array framework that runs faster on Mac devices. It offers some GPU support in addition to being straightforward and tidy. |
 |[stable-fast.](https://github.com/chengzeyi/stable-fast) |An ultra lightweight inference performance optimization framework for HuggingFace Diffusers on NVIDIA GPUs. |
 |[Introducing the OpenAI Switch Kit: Move from closed to open-source AI in minutes.](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes) | With just a few lines of code, you can make your project open source.|
+|[Optimizing LLMs for Real-World Applications.](https://lsvp.com/optimizing-llms-for-real-world-applications/) |Lightspeed provides information from TitanML and Google regarding the specifics of enhancing LLMs through fine-tuning or prompting. |
+|[Efficient SAM Example.](https://github.com/yformer/EfficientSAM/blob/main/EfficientSAM_example.ipynb) |This script provides example for how to get visualization result from EfficientSAM using ready-to-use torchscript |
+|[CopilotKit.](https://github.com/CopilotKit/CopilotKit) |Integrate AI-powered Textareas and in-app chatbots into React web applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Perspectives
 |Link|description|
