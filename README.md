@@ -51,6 +51,9 @@
 |[Salient Object Detection in RGB-D Videos (RDVS dataset and DCTNet+ model).](https://github.com/kerenfu/rdvs) | The RDVS dataset, which contains a wide variety of RGB-D video sequences, and DCTNet+, a specialized network for RGB-D video object detection, which is outfitted with cutting-edge features for accurate prediction and enhanced performance over previous models, are the two main contributions revealed by this repository.|
 |[Style Aligned Image Generation via Shared Attention.](https://style-aligned-gen.github.io/) |Amazing work by Google based on SDXL that distributes focus between generations to preserve unified looks. Importantly, this approach doesn't need to be adjusted. |
 |[Describing Differences in Image Sets with Natural Language.](https://arxiv.org/abs/2312.02974) |This essay compares and contrasts two image collections using natural language. This is a brand-new, difficult challenge. The individual photos are captioned, rearranged, and summarized using a language model as part of the solution. [official code.](https://github.com/understanding-visual-datasets/visdiff)|
+|[BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models.](https://github.com/AIFEG/BenchLMM) | In this work, BenchLMM, a benchmark for testing the resilience of large multimodal models such as GPT-4V and LLaVA against different image styles, is presented.|
+|[Let's Think Outside the Box !.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -91,9 +94,9 @@
 |[Microsoft's Generative AI for Beginners.](https://microsoft.github.io/generative-ai-for-beginners/) |A 12 Lesson course teaching everything you need to know to start building Generative AI applications |
 |[Unsloth.](https://github.com/unslothai/unsloth) | Fast and memory-efficient LLM tuning.|
 |[Responsible Innovation Labs Launches First Pro-Innovation Responsible AI Protocol For Startups.](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.rilabs.org%2Fnews%2Fresponsible-ai-protocol-launch) | A voluntary industry-driven approach for responsible AI has been introduced by nonprofit Responsible Innovation Labs (RIL), especially for startups and their investors. The protocol is intended to make sure startups incorporate ethical AI practices as they grow, and it has the backing of 35 top venture capital funds. This action is in line with the Biden Administration's ethical AI goal.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[mlx.](https://github.com/ml-explore/mlx) |Thanks to unified memory, Apple has discreetly introduced a new Array framework that runs faster on Mac devices. It offers some GPU support in addition to being straightforward and tidy. |
+|[stable-fast.](https://github.com/chengzeyi/stable-fast) |An ultra lightweight inference performance optimization framework for HuggingFace Diffusers on NVIDIA GPUs. |
+|[Introducing the OpenAI Switch Kit: Move from closed to open-source AI in minutes.](https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes) | With just a few lines of code, you can make your project open source.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
