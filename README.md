@@ -53,6 +53,9 @@
 |[Describing Differences in Image Sets with Natural Language.](https://arxiv.org/abs/2312.02974) |This essay compares and contrasts two image collections using natural language. This is a brand-new, difficult challenge. The individual photos are captioned, rearranged, and summarized using a language model as part of the solution. [official code.](https://github.com/understanding-visual-datasets/visdiff)|
 |[BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models.](https://github.com/AIFEG/BenchLMM) | In this work, BenchLMM, a benchmark for testing the resilience of large multimodal models such as GPT-4V and LLaVA against different image styles, is presented.|
 |[Let's Think Outside the Box !](https://zhongshsh.github.io/CLoT/) |This paper presents an approach to investigate Leap-of-Thought capabilities in multimodal LLMs using the Oogiri comedy generating game. This method forces LLMs to use non-sequential thinking, which is an essential ability for coming up with original and amusing answers to a variety of multimodal material. |
+|[OneLLM: One Framework to Align All Modalities with Language.](https://onellm.csuhan.com/) | OneLLM employs a universal enocoder and a universal projection module to align multimodal inputs with LLM. It also utilizes modality tokens {modal} to switch between modalities.|
+|[Kandinsky 3.0.](https://ai-forever.github.io/Kandinsky-3/) |We present Kandinsky 3.0, a large-scale text-to-image generation model based on latent diffusion, continuing the series of text-to-image Kandinsky models and reflecting our progress to achieve higher quality and realism of image generation. Compared to previous versions of Kandinsky 2.x, Kandinsky 3.0 leverages a two times larger UNet backbone, a ten times larger text encoder and remove diffusion mapping. [official code.](https://github.com/ai-forever/Kandinsky-3) |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,8 +107,8 @@
 |[Optimizing LLMs for Real-World Applications.](https://lsvp.com/optimizing-llms-for-real-world-applications/) |Lightspeed provides information from TitanML and Google regarding the specifics of enhancing LLMs through fine-tuning or prompting. |
 |[Efficient SAM Example.](https://github.com/yformer/EfficientSAM/blob/main/EfficientSAM_example.ipynb) |This script provides example for how to get visualization result from EfficientSAM using ready-to-use torchscript |
 |[CopilotKit.](https://github.com/CopilotKit/CopilotKit) |Integrate AI-powered Textareas and in-app chatbots into React web applications. |
-|[.]() | |
-|[.]() | |
+|[Mamba-Chat.](https://github.com/havenhq/mamba-chat/tree/main) |Mamba-Chat is the first chat language model based on a state-space model architecture, not a transformer. The model is based on Albert Gu's and Tri Dao's work Mamba: Linear-Time Sequence Modeling with Selective State Spaces  |
+|[mlx-llama.](https://huggingface.co/mlx-llama/Llama-2-7b-chat-mlx) | People have already enabled Llama 2 models to operate on the new framework, just one day after Apple published the MLX framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
