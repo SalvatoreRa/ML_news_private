@@ -37,6 +37,55 @@
 ## Research
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+# ML news: Week 4 - 10 December
+
+## Research
+|Link|description|
+|---|---|
 |[Diffusion Models Without Attention.](https://arxiv.org/abs/2311.18257) | Modern diffusion models employ the attention mechanism in most cases, but not always. Recent advances in theory have accelerated the proliferation of interest in state spaces, leading to intriguing new applications. |
 |[MoMask: Generative Masked Modeling of 3D Human Motions.](https://ericguo5513.github.io/momask/) | A new initiative by the authors of seminal work in this field combines innovative encoder techniques to provide fine-grained control over the production of the final animation.|
 |[When StyleGAN Meets Stable Diffusion.](https://csxmli2016.github.io/projects/w-plus-adapter/) |Enhancing identity preservation in produced pictures, a novel technique uses the enlarged StyleGAN embedding space W+ for text-to-image diffusion models. |
@@ -55,12 +104,7 @@
 |[Let's Think Outside the Box !](https://zhongshsh.github.io/CLoT/) |This paper presents an approach to investigate Leap-of-Thought capabilities in multimodal LLMs using the Oogiri comedy generating game. This method forces LLMs to use non-sequential thinking, which is an essential ability for coming up with original and amusing answers to a variety of multimodal material. |
 |[OneLLM: One Framework to Align All Modalities with Language.](https://onellm.csuhan.com/) | OneLLM employs a universal enocoder and a universal projection module to align multimodal inputs with LLM. It also utilizes modality tokens {modal} to switch between modalities.|
 |[Kandinsky 3.0.](https://ai-forever.github.io/Kandinsky-3/) |We present Kandinsky 3.0, a large-scale text-to-image generation model based on latent diffusion, continuing the series of text-to-image Kandinsky models and reflecting our progress to achieve higher quality and realism of image generation. Compared to previous versions of Kandinsky 2.x, Kandinsky 3.0 leverages a two times larger UNet backbone, a ten times larger text encoder and remove diffusion mapping. [official code.](https://github.com/ai-forever/Kandinsky-3) |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## News
@@ -86,10 +130,6 @@
 |[X begins rolling out Grok, its ‘rebellious’ chatbot, to subscribers.](https://techcrunch.com/2023/12/07/x-begins-rolling-out-grok-its-rebellious-chatbot-to-subscribers/) |Grok, a ChatGPT competitor developed by xAI, Elon Musk’s AI startup, has officially launched on X, the site formerly known as Twitter. |
 |[Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer.](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer) |Google unveiled Cloud TPU v5p, the company's most potent, adaptable, and scalable AI accelerator to yet. AI-powered products are trained and served using TPUs. Additionally, Google has revealed the AI Hypercomputer from Google Cloud, a supercomputer architecture that makes use of an integrated system of top-tier machine learning frameworks, open software, performance-optimized hardware, and adaptable consumption options. Systems-level co-design is used by AI Hypercomputer to increase productivity and efficiency in AI serving, tweaking, and training. |
 |[Long context prompting for Claude 2.1.](https://www.anthropic.com/index/claude-2-1-prompting) | In reference, Anthropic's last release of Claude had 200k tokens. It only demonstrated 27% retrieval performance on certain common tasks, suggesting that it was afflicted by the "lost in the middle" issue that plagues language models in external evaluations. Retrieval performance rises to 98% when the prompt is modified to include the statement "Assistant: Here is the most relevant sentence in the context."|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -111,9 +151,7 @@
 |[mlx-llama.](https://huggingface.co/mlx-llama/Llama-2-7b-chat-mlx) | People have already enabled Llama 2 models to operate on the new framework, just one day after Apple published the MLX framework. [or if you prefer Mistral.](https://github.com/ml-explore/mlx-examples/tree/main/mistral)|
 |[UIDraw.](https://github.com/jordansinger/UIDraw?) |Draw and build a website on your phone. |
 |[SEO GPT by Writesonic.](https://seogpt.writesonic.com/) |Boost your website’s SEO instantly right inside ChatGPT. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -129,15 +167,6 @@
 |[Generative AI could revolutionize health care — but not if control is ceded to big tech.](https://www.nature.com/articles/d41586-023-03803-y) | Large language models such as that used by ChatGPT could soon become essential tools for diagnosing and treating patients. To protect people’s privacy and safety, medical professionals, not commercial interests, must drive their development and deployment.|
 |[ChatGPT one year on: who is using it, how and why?.](https://www.nature.com/articles/d41586-023-03798-6) | In just a year, ChatGPT has permeated scientific research. Seven scientists reveal what they have learned about how the chatbot should — and shouldn’t — be used.|
 |[ML system design: 300 case studies to learn from.](https://www.evidentlyai.com/ml-system-design) |How do companies like Netflix, Airbnb, and Doordash apply machine learning to improve their products and processes? We put together a database of 300 case studies from 80+ companies that share practical ML use cases and learnings from designing ML systems. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-
 
 # ML news: Week 27 November - 3 December
 
