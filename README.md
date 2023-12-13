@@ -43,8 +43,7 @@
 |[BioCLIP: A Vision Foundation Model for the Tree of Life.](https://imageomics.github.io/bioclip/) |A vision model with applications in biology in mind. On certain physiological tasks, it performs about 20% better than OpenAI's clip. There is also a training set of 10 million paired images and text. |
 |[Diversifying Spatial-Temporal Perception for Video Domain Generalization.](https://arxiv.org/abs/2310.17942v1) |A novel model called the Spatial-Temporal Diversification Network (STDN) examines relationships over time as well as spatial elements within frames to identify a range of cues in movies. |
 |[Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning.](https://shenzhi-wang.github.io/NIPS_FamO2O/) | FamO2O is a framework that researchers have developed to improve the performance of existing offline-to-online reinforcement learning algorithms by figuring out how to best balance limitations and improvement depending on the state.|
-|[Promising or Elusive? Unsupervised Object Segmentation
-from Real-world Single Images.](https://vlar-group.github.io/UnsupObjSeg.html) |This study explores the challenge of utilizing unsupervised models to segment items in real-world photographs. |
+|[Promising or Elusive? Unsupervised Object Segmentation from Real-world Single Images.](https://vlar-group.github.io/UnsupObjSeg.html) |This study explores the challenge of utilizing unsupervised models to segment items in real-world photographs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
