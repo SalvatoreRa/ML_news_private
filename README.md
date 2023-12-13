@@ -45,9 +45,9 @@
 |[Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning.](https://shenzhi-wang.github.io/NIPS_FamO2O/) | FamO2O is a framework that researchers have developed to improve the performance of existing offline-to-online reinforcement learning algorithms by figuring out how to best balance limitations and improvement depending on the state.|
 |[Promising or Elusive? Unsupervised Object Segmentation from Real-world Single Images.](https://vlar-group.github.io/UnsupObjSeg.html) |This study explores the challenge of utilizing unsupervised models to segment items in real-world photographs. |
 |[Phi-2: The surprising power of small language models.](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | Azure's Phi 2 is the latest in a line of small language models that were mostly trained on synthetic data. The performance of 13B parameter models is matched by the 2.7B parameter model. The difficult part of this task is identifying and addressing "test set rephrasing," although the model is very effective in any scenario.|
-|[DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection.](https://arxiv.org/abs/2312.06607v1) | |
-|[.]() | |
-|[.]() | |
+|[DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection.](https://arxiv.org/abs/2312.06607v1) |DiAD uses diffusion models to its advantage in order to find abnormalities. To precisely identify and pinpoint abnormalities in multi-class environments, it integrates a pixel-space autoencoder, a Semantic-Guided (SG) network, and a feature-space extractor in a novel way. |
+|[Learning Naturally Aggregated Appearance for Efficient 3D Editing.](https://felixcheng97.github.io/AGAP/) |A new technique called AGAP makes 3D editing easier. AGAP enables users to effortlessly update 3D scenes without having to re-optimize for each change by utilizing a 2D image known as a canonical image. |
+|[Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior.](https://liuff19.github.io/Sherpa3D/) | A novel framework called Sherpa3D enhances the production of 3D content via text prompts. By employing coarse 3D information to direct the creation process, it combines the advantages of 2D and 3D diffusion models. Thus, the constraints of current technologies are overcome and high-quality, diversified, and geometrically consistent 3D assets are produced.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@
 |[Microsoft and Labor Unions Form ‘Historic’ Alliance on AI.](https://finance.yahoo.com/news/microsoft-labor-unions-form-historic-142333100.html) |Microsoft Corp. is teaming up with labor unions to create “an open dialogue” on how artificial intelligence will impact workers. |
 |[Europe reaches a deal on the world’s first comprehensive AI rules.](https://apnews.com/article/ai-act-europe-regulation-59466a4d8fd3597b04542ef25831322c) | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules, paving the way for legal oversight of AI technology that has promised to transform everyday life and spurred warnings of existential dangers to humanity.|
 |[OpenAI leaders warned of abusive behavior before Sam Altman’s ouster.]() |Sam Altman was briefly fired by OpenAI after a group of top leaders expressed concerns to the board about his claimed psychological abuse, which included inciting conflict amongst staff and causing turmoil. There were also allegations of dishonesty in Altman's board discussions. Threats of widespread resignations and resounding staff support led to Altman's restoration; yet, the incident has raised doubts about the company's future course. |
-|[.]() | |
+|[MIT group releases white papers on governance of AI.](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211) | The series aims to help policymakers create better oversight of AI in society.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +128,7 @@
 |Link|description|
 |---|---|
 |[Excuse me, but the industries AI is disrupting are not lucrative.](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is) |Although the demo video for Google's Gemini AI model was remarkable, the model's real-time capabilities were questioned due to the use of pre-recorded material and edited responses, which resulted in a modest gain in Google's stock price. This caution is reflective of larger worries in the AI sector, as businesses set high standards but struggle to convert AI skills into meaningful economic gains. Current AI models are particularly good in domains that don't always generate large profits. |
-|[.]() | |
+|[Interoperable Authentication Protocol.](https://www.artifact.io/iap) |Considering how quickly model capabilities are developing, coordinating communication between language models and users is essential. In order to address this, the Interoperable Authorization Protocol (IAP) establishes a consent management system and secure, flexible communication routes. In order to match AI operations with a variety of human values and objectives, this open-source methodology promotes cooperation within the AI community. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
