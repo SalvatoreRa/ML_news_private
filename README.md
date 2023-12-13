@@ -39,6 +39,13 @@
 |---|---|
 |[RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models.](https://rave-video.github.io/) |RAVE is a technique for video editing that improves videos by utilizing pre-existing text-to-image diffusion models. With this method, it is possible to achieve excellent video edits without sacrificing the original composition and flow. |
 |[Language-driven Scene Synthesis using Multi-conditional Diffusion Model.](https://github.com/andvg3/LSDM) |Textual cues give scene creation—which is influenced by things like human movement or room design—a new perspective. This repository presents a new method that effectively combines text, movement, and pre-existing objects: a multi-conditional diffusion model. |
+|[Audiobox: Unified Audio Generation with Natural Language Prompts.](https://ai.meta.com/research/publications/audiobox-unified-audio-generation-with-natural-language-prompts/) |Meta has hinted at an AI model for audio foundations. The paper, along with more samples and powerful demos, have been made available. Producing controlled audio content with styles derived from the same model was the primary objective of the project. |
+|[BioCLIP: A Vision Foundation Model for the Tree of Life.](https://imageomics.github.io/bioclip/) |A vision model with applications in biology in mind. On certain physiological tasks, it performs about 20% better than OpenAI's clip. There is also a training set of 10 million paired images and text. |
+|[Diversifying Spatial-Temporal Perception for Video Domain Generalization.](https://arxiv.org/abs/2310.17942v1) |A novel model called the Spatial-Temporal Diversification Network (STDN) examines relationships over time as well as spatial elements within frames to identify a range of cues in movies. |
+|[Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning.](https://shenzhi-wang.github.io/NIPS_FamO2O/) | FamO2O is a framework that researchers have developed to improve the performance of existing offline-to-online reinforcement learning algorithms by figuring out how to best balance limitations and improvement depending on the state.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -61,8 +68,8 @@
 |[Paving the way to efficient architectures: StripedHyena-7B.](https://www.together.ai/blog/stripedhyena-7b) |StripedHyena builds on the many lessons learned in the past year on designing efficient sequence modeling architectures: H3, Hyena, HyenaDNA, and Monarch Mixer. |
 |[FTC looking into Microsoft's investment in OpenAI: Report.](https://finance.yahoo.com/video/ftc-looking-microsofts-investment-openai-222919020.html) |Following UK regulators' probe, the Federal Trade Commission (FTC) is inspecting Microsoft's (MSFT) relationship with and investment in artificial intelligence developer OpenAI, according to Bloomberg. |
 |[Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI.](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/) |An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general-purpose AI systems powered by a relatively new type of AI model called a liquid neural network. |
-|[.]() | |
-|[.]() | |
+|[Microsoft and Labor Unions Form ‘Historic’ Alliance on AI.](https://finance.yahoo.com/news/microsoft-labor-unions-form-historic-142333100.html) |Microsoft Corp. is teaming up with labor unions to create “an open dialogue” on how artificial intelligence will impact workers. |
+|[Europe reaches a deal on the world’s first comprehensive AI rules.](https://apnews.com/article/ai-act-europe-regulation-59466a4d8fd3597b04542ef25831322c) | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules, paving the way for legal oversight of AI technology that has promised to transform everyday life and spurred warnings of existential dangers to humanity.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,7 +92,7 @@
 |[Running Dolphin Locally with Ollama.](https://erichartford.com/running-dolphin-locally-with-ollama) |For llama cpp models, ollama functions similarly to a package management. Its characteristics for quality-of-life usability make modeling simple, even while using a CPU. The two fantastic models, Samantha and Dolphin, which are good unfiltered models helpful for conversational activities, are demonstrated in this example. |
 |[LLM Visualization.](https://bbycroft.net/llm) |Welcome to the walkthrough of the GPT large language model! Here we'll explore the model nano-gpt, with a mere 85,000 parameters. |
 |[giskard.](https://github.com/Giskard-AI/giskard) | The testing framework dedicated to ML models, from tabular to LLMs|
-|[.]() | |
+|[BricksLLM: AI Gateway For Putting LLM In Production.](https://github.com/bricks-cloud/BricksLLM) |BricksLLM is a cloud native AI gateway written in Go. Currently, it serves as a proxy to OpenAI. We let you create API keys that have rate limits, cost limits and TTLs.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
