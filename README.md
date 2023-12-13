@@ -43,11 +43,32 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 
 ## News
 |Link|description|
 |---|---|
+|[French AI start-up Mistral secures €2bn valuation.](https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb) | Eight-month-old group set to close roughly €400mn funding round as early as Friday, in new deal lead by Andreessen Horowitz|
+|[Google unveils AlphaCode 2, powered by Gemini.](https://techcrunch.com/2023/12/06/deepmind-unveils-alphacode-2-powered-by-gemini/) | Alongside its Gemini generative AI model, Google this morning took the wraps off of AlphaCode 2, an improved version of the code-generating AlphaCode|
+|[Introducing Stable LM Zephyr 3B.](https://stability.ai/news/stablelm-zephyr-3b-stability-llm) |Stable LM Zephyr 3B is a 3 billion parameter Large Language Model (LLM), 60% smaller than 7B models, allowing accurate, and responsive output on a variety of devices without requiring high-end hardware. |
+|[Better, Cheaper, Faster LLM Alignment with KTO.](https://contextual.ai/better-cheaper-faster-llm-alignment-with-kto) |a method called Kahneman-Tversky Optimization (KTO) that makes it easier and cheaper than ever before to align LLMs on your data without compromising performance. |
+|[Paving the way to efficient architectures: StripedHyena-7B.](https://www.together.ai/blog/stripedhyena-7b) |StripedHyena builds on the many lessons learned in the past year on designing efficient sequence modeling architectures: H3, Hyena, HyenaDNA, and Monarch Mixer. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -65,11 +86,23 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 
 ## Perspectives
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
