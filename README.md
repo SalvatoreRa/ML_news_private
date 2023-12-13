@@ -43,7 +43,8 @@
 |[BioCLIP: A Vision Foundation Model for the Tree of Life.](https://imageomics.github.io/bioclip/) |A vision model with applications in biology in mind. On certain physiological tasks, it performs about 20% better than OpenAI's clip. There is also a training set of 10 million paired images and text. |
 |[Diversifying Spatial-Temporal Perception for Video Domain Generalization.](https://arxiv.org/abs/2310.17942v1) |A novel model called the Spatial-Temporal Diversification Network (STDN) examines relationships over time as well as spatial elements within frames to identify a range of cues in movies. |
 |[Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning.](https://shenzhi-wang.github.io/NIPS_FamO2O/) | FamO2O is a framework that researchers have developed to improve the performance of existing offline-to-online reinforcement learning algorithms by figuring out how to best balance limitations and improvement depending on the state.|
-|[.]() | |
+|[Promising or Elusive? Unsupervised Object Segmentation
+from Real-world Single Images.](https://vlar-group.github.io/UnsupObjSeg.html) |This study explores the challenge of utilizing unsupervised models to segment items in real-world photographs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -70,8 +71,8 @@
 |[Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI.](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/) |An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general-purpose AI systems powered by a relatively new type of AI model called a liquid neural network. |
 |[Microsoft and Labor Unions Form ‘Historic’ Alliance on AI.](https://finance.yahoo.com/news/microsoft-labor-unions-form-historic-142333100.html) |Microsoft Corp. is teaming up with labor unions to create “an open dialogue” on how artificial intelligence will impact workers. |
 |[Europe reaches a deal on the world’s first comprehensive AI rules.](https://apnews.com/article/ai-act-europe-regulation-59466a4d8fd3597b04542ef25831322c) | European Union negotiators clinched a deal Friday on the world’s first comprehensive artificial intelligence rules, paving the way for legal oversight of AI technology that has promised to transform everyday life and spurred warnings of existential dangers to humanity.|
-|[.]() | |
-|[.]() | |
+|[HuggingFace gets AMD support.](https://github.com/huggingface/transformers/releases/tag/v4.36.0) |The new Mistral model, AMD compatibility, safetensors by default, and more are included in Transformers 4.36.0! |
+|[AI Tamago.](https://github.com/ykhli/AI-tamago) |An 100% local, LLM-generated and driven virtual pet with thoughts, feelings and feedback. Revive your fond memories of Tamagotchi!|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,6 +94,18 @@
 |[LLM Visualization.](https://bbycroft.net/llm) |Welcome to the walkthrough of the GPT large language model! Here we'll explore the model nano-gpt, with a mere 85,000 parameters. |
 |[giskard.](https://github.com/Giskard-AI/giskard) | The testing framework dedicated to ML models, from tabular to LLMs|
 |[BricksLLM: AI Gateway For Putting LLM In Production.](https://github.com/bricks-cloud/BricksLLM) |BricksLLM is a cloud native AI gateway written in Go. Currently, it serves as a proxy to OpenAI. We let you create API keys that have rate limits, cost limits and TTLs.  |
+|[KwaiAgents.](https://github.com/kwaikeg/kwaiagents) |KwaiAgents is a series of Agent-related works open-sourced by the KwaiKEG from Kuaishou Technology |
+|[Now add a walrus: Prompt engineering in DALL-E 3.](https://simonwillison.net/2023/Oct/26/add-a-walrus/) |An experiment using DALL-E 3 that shows how various prompts produce a range of visuals and how additional prompts hone these images. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
