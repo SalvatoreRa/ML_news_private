@@ -37,8 +37,8 @@
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models.](https://rave-video.github.io/) |RAVE is a technique for video editing that improves videos by utilizing pre-existing text-to-image diffusion models. With this method, it is possible to achieve excellent video edits without sacrificing the original composition and flow. |
+|[Language-driven Scene Synthesis using Multi-conditional Diffusion Model.](https://github.com/andvg3/LSDM) |Textual cues give scene creation—which is influenced by things like human movement or room design—a new perspective. This repository presents a new method that effectively combines text, movement, and pre-existing objects: a multi-conditional diffusion model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -59,8 +59,8 @@
 |[Introducing Stable LM Zephyr 3B.](https://stability.ai/news/stablelm-zephyr-3b-stability-llm) |Stable LM Zephyr 3B is a 3 billion parameter Large Language Model (LLM), 60% smaller than 7B models, allowing accurate, and responsive output on a variety of devices without requiring high-end hardware. |
 |[Better, Cheaper, Faster LLM Alignment with KTO.](https://contextual.ai/better-cheaper-faster-llm-alignment-with-kto) |a method called Kahneman-Tversky Optimization (KTO) that makes it easier and cheaper than ever before to align LLMs on your data without compromising performance. |
 |[Paving the way to efficient architectures: StripedHyena-7B.](https://www.together.ai/blog/stripedhyena-7b) |StripedHyena builds on the many lessons learned in the past year on designing efficient sequence modeling architectures: H3, Hyena, HyenaDNA, and Monarch Mixer. |
-|[.]() | |
-|[.]() | |
+|[FTC looking into Microsoft's investment in OpenAI: Report.](https://finance.yahoo.com/video/ftc-looking-microsofts-investment-openai-222919020.html) |Following UK regulators' probe, the Federal Trade Commission (FTC) is inspecting Microsoft's (MSFT) relationship with and investment in artificial intelligence developer OpenAI, according to Bloomberg. |
+|[Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI.](https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/) |An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general-purpose AI systems powered by a relatively new type of AI model called a liquid neural network. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,11 +80,11 @@
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Towards 100x Speedup: Full Stack Transformer Inference Optimization.](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c) |Deployment optimizations are getting more and more popular as open models prove beneficial for various enterprise needs. But the terrain is uneven and complicated. This article provides a good in-depth analysis of numerous common methods for accelerating language model serving.|
+|[Pearl - A Production-ready Reinforcement Learning AI Agent Library.](https://github.com/facebookresearch/Pearl) | Pearl is a new production-ready Reinforcement Learning AI agent library open-sourced by the Applied Reinforcement Learning team at Meta.|
+|[Running Dolphin Locally with Ollama.](https://erichartford.com/running-dolphin-locally-with-ollama) |For llama cpp models, ollama functions similarly to a package management. Its characteristics for quality-of-life usability make modeling simple, even while using a CPU. The two fantastic models, Samantha and Dolphin, which are good unfiltered models helpful for conversational activities, are demonstrated in this example. |
+|[LLM Visualization.](https://bbycroft.net/llm) |Welcome to the walkthrough of the GPT large language model! Here we'll explore the model nano-gpt, with a mere 85,000 parameters. |
+|[giskard.](https://github.com/Giskard-AI/giskard) | The testing framework dedicated to ML models, from tabular to LLMs|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,7 +97,7 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Excuse me, but the industries AI is disrupting are not lucrative.](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is) |Although the demo video for Google's Gemini AI model was remarkable, the model's real-time capabilities were questioned due to the use of pre-recorded material and edited responses, which resulted in a modest gain in Google's stock price. This caution is reflective of larger worries in the AI sector, as businesses set high standards but struggle to convert AI skills into meaningful economic gains. Current AI models are particularly good in domains that don't always generate large profits. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
