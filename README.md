@@ -49,7 +49,7 @@
 |[Learning Naturally Aggregated Appearance for Efficient 3D Editing.](https://felixcheng97.github.io/AGAP/) |A new technique called AGAP makes 3D editing easier. AGAP enables users to effortlessly update 3D scenes without having to re-optimize for each change by utilizing a 2D image known as a canonical image. |
 |[Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior.](https://liuff19.github.io/Sherpa3D/) | A novel framework called Sherpa3D enhances the production of 3D content via text prompts. By employing coarse 3D information to direct the creation process, it combines the advantages of 2D and 3D diffusion models. Thus, the constraints of current technologies are overcome and high-quality, diversified, and geometrically consistent 3D assets are produced.|
 |[Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models.](https://arxiv.org/abs/2312.07046v1) | This work presents a technique for reduced order modeling-based big language model compression that greatly minimizes memory and time requirements without requiring expensive hardware. |
-|[.]() | |
+|[Towards a Generalized Multimodal Foundation Model.](https://x-decoder-vl.github.io/) |With the help of FIND, AI models now have a flexible interface that improves their comprehension of datasets and visuals without changing the fundamental model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
