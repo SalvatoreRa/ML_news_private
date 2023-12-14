@@ -131,8 +131,8 @@
 |[Interoperable Authentication Protocol.](https://www.artifact.io/iap) |Considering how quickly model capabilities are developing, coordinating communication between language models and users is essential. In order to address this, the Interoperable Authorization Protocol (IAP) establishes a consent management system and secure, flexible communication routes. In order to match AI operations with a variety of human values and objectives, this open-source methodology promotes cooperation within the AI community. |
 |[On Platform Shifts and AI.](https://caseyaccidental.com/on-platform-shifts-and-ai/) |While AI represents a technological shift, the discussion at the 2022 TCV Engage Summit focused on the fact that it requires a new distribution channel, which is critical for generating meaningful consumer prospects. Presently available AI breakthroughs are dependent on conventional channels of distribution, which benefits well-established businesses or creative start-ups; nevertheless, new channels of distribution may not materialize as expected. |
 |[The AI revolution in chemistry is not that far away.](https://www.nature.com/articles/d41586-023-03948-w) |Although the artificial intelligence (AI) revolution in chemistry has yet to happen, it is not that far off. The key question is what we can do to get there faster. |
-|[.]() | |
-|[.]() | |
+|[Can AI deliver advice that is judgement-free for science policy?](https://www.nature.com/articles/d41586-023-03949-9) | We acknowledge the potential of using artificial intelligence (AI) to inform science policy, but disagree with the suggestion that it can create judgement-free policy advice|
+|[How to make data open? Stop overlooking librarians.](https://www.nature.com/articles/d41586-023-03935-1) |Digital archivists are already experts at tackling the complex challenges of making research data open and accessible. We can help to smooth the transition. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
