@@ -87,7 +87,7 @@
 |[a16z Open Source AI Grant recipients.](https://a16z.com/announcing-our-latest-open-source-ai-grants/) |This program is designed to support a thriving open-source ecosystem around modern AI. We provide grant funding (not an investment) to developers and small teams who are building critical pieces of the open-source AI stack.  |
 |[Google debuts Imagen 2 with text and logo generation.](https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/) |Google’s making the second generation of Imagen, its AI model that can create and edit images given a text prompt, more widely available — at least to Google Cloud customers using Vertex AI who’ve been approved for access. |
 |[First Impressions with Google’s Gemini.](https://blog.roboflow.com/first-impressions-with-google-gemini/) |The Roboflow team has analyzed Gemini across a range of standard prompts that we have used to evaluate other LMMs, including GPT-4 with Vision, LLaVA, and CogVLM. Our goal is to  better understand what Gemini can and cannot do well at the time of writing this piece. |
-|[.]() | |
+|[OpenAI inks deal with Axel Springer on licensing news for model training.](https://techcrunch.com/2023/12/13/openai-inks-deal-with-axel-springer-on-licensing-news-for-model-training/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,9 +140,9 @@
 |[The AI revolution in chemistry is not that far away.](https://www.nature.com/articles/d41586-023-03948-w) |Although the artificial intelligence (AI) revolution in chemistry has yet to happen, it is not that far off. The key question is what we can do to get there faster. |
 |[Can AI deliver advice that is judgement-free for science policy?](https://www.nature.com/articles/d41586-023-03949-9) | We acknowledge the potential of using artificial intelligence (AI) to inform science policy, but disagree with the suggestion that it can create judgement-free policy advice|
 |[How to make data open? Stop overlooking librarians.](https://www.nature.com/articles/d41586-023-03935-1) |Digital archivists are already experts at tackling the complex challenges of making research data open and accessible. We can help to smooth the transition. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Vertical AI.](https://greylock.com/greymatter/vertical-ai/) | The previous ten years of SaaS have been characterized by horizontal software, or software created to alleviate a user's pain regardless of the kind of user experiencing it. In contrast, vertical SaaS is intended for a specific user base, making it possible to customize the solution to meet their demands. According to a Greylock partner's prediction in this article, going future, software development will be guided by consumers' expectations for customized services.|
+|[Why the AI Act was so hard to pass.](https://www.theverge.com/2023/12/13/23999849/eu-ai-act-artificial-intelligence-regulations-complicated-delays) |Over two years since it was first proposed, policymakers in Brussels were still debating core contents of the EU’s landmark AI regulations hours before reaching a deal. |
+|[Google’s Gemini Marketing Trick.](https://www.bigtechnology.com/p/googles-gemini-marketing-trick) |The world saw a jaw-dropping demo of Gemini this week. It just wasn’t the real deal. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
