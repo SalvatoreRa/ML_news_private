@@ -50,7 +50,7 @@
 |[Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior.](https://liuff19.github.io/Sherpa3D/) | A novel framework called Sherpa3D enhances the production of 3D content via text prompts. By employing coarse 3D information to direct the creation process, it combines the advantages of 2D and 3D diffusion models. Thus, the constraints of current technologies are overcome and high-quality, diversified, and geometrically consistent 3D assets are produced.|
 |[Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models.](https://arxiv.org/abs/2312.07046v1) | This work presents a technique for reduced order modeling-based big language model compression that greatly minimizes memory and time requirements without requiring expensive hardware. |
 |[Towards a Generalized Multimodal Foundation Model.](https://x-decoder-vl.github.io/) |With the help of FIND, AI models now have a flexible interface that improves their comprehension of datasets and visuals without changing the fundamental model. |
-|[.]() | |
+|[HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork.](https://github.com/giangdip2410/hyperrouter) |The HyperRouter technique dynamically modifies router characteristics to increase the effectiveness of training big language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@
 |[HuggingFace gets AMD support.](https://github.com/huggingface/transformers/releases/tag/v4.36.0) |The new Mistral model, AMD compatibility, safetensors by default, and more are included in Transformers 4.36.0! |
 |[AI Tamago.](https://github.com/ykhli/AI-tamago) |An 100% local, LLM-generated and driven virtual pet with thoughts, feelings and feedback. Revive your fond memories of Tamagotchi!|
 |[Introducing gigaGPT: GPT-3 sized models in 565 lines of code.](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code) |GigaGPT is Cerebras’ implementation of Andrei Karpathy’s nanoGPT – the simplest and most compact code base to train and fine-tune GPT models. |
-|[.]() | |
+|[Awesome CLIP in Medical Imaging.](https://github.com/zhaozh10/awesome-clip-in-medical-imaging) | This is a collection of awesome articles about CLIP in medical imaging|
 |[.]() | |
 |[.]() | |
 |[.]() | |
