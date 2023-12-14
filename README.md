@@ -48,7 +48,7 @@
 |[DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection.](https://arxiv.org/abs/2312.06607v1) |DiAD uses diffusion models to its advantage in order to find abnormalities. To precisely identify and pinpoint abnormalities in multi-class environments, it integrates a pixel-space autoencoder, a Semantic-Guided (SG) network, and a feature-space extractor in a novel way. |
 |[Learning Naturally Aggregated Appearance for Efficient 3D Editing.](https://felixcheng97.github.io/AGAP/) |A new technique called AGAP makes 3D editing easier. AGAP enables users to effortlessly update 3D scenes without having to re-optimize for each change by utilizing a 2D image known as a canonical image. |
 |[Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior.](https://liuff19.github.io/Sherpa3D/) | A novel framework called Sherpa3D enhances the production of 3D content via text prompts. By employing coarse 3D information to direct the creation process, it combines the advantages of 2D and 3D diffusion models. Thus, the constraints of current technologies are overcome and high-quality, diversified, and geometrically consistent 3D assets are produced.|
-|[.]() | |
+|[Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models.](https://arxiv.org/abs/2312.07046v1) | This work presents a technique for reduced order modeling-based big language model compression that greatly minimizes memory and time requirements without requiring expensive hardware. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,7 +86,7 @@
 |[Google weighs Gemini AI project to tell people their life story using phone data, photos.](https://www.cnbc.com/2023/12/08/google-weighing-project-ellmann-uses-gemini-ai-to-tell-life-stories.html) |“Project Ellmann” is an internal Google proposal to use artificial intelligence to help users get a “bird’s-eye view” of their life stories. The idea would be to use LLMs like Gemini to ingest search results, spot patterns in a user’s photos, create a chatbot and “answer previously impossible questions” about a person’s life. The team also demonstrated “Ellmann Chat,” with the description “Imagine opening ChatGPT but it already knows everything about your life.”|
 |[a16z Open Source AI Grant recipients.](https://a16z.com/announcing-our-latest-open-source-ai-grants/) |This program is designed to support a thriving open-source ecosystem around modern AI. We provide grant funding (not an investment) to developers and small teams who are building critical pieces of the open-source AI stack.  |
 |[Google debuts Imagen 2 with text and logo generation.](https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/) |Google’s making the second generation of Imagen, its AI model that can create and edit images given a text prompt, more widely available — at least to Google Cloud customers using Vertex AI who’ve been approved for access. |
-|[.]() | |
+|[First Impressions with Google’s Gemini.](https://blog.roboflow.com/first-impressions-with-google-gemini/) |The Roboflow team has analyzed Gemini across a range of standard prompts that we have used to evaluate other LMMs, including GPT-4 with Vision, LLaVA, and CogVLM. Our goal is to  better understand what Gemini can and cannot do well at the time of writing this piece. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@
 |[Now add a walrus: Prompt engineering in DALL-E 3.](https://simonwillison.net/2023/Oct/26/add-a-walrus/) |An experiment using DALL-E 3 that shows how various prompts produce a range of visuals and how additional prompts hone these images.|
 |[HuggingFace gets AMD support.](https://github.com/huggingface/transformers/releases/tag/v4.36.0) |The new Mistral model, AMD compatibility, safetensors by default, and more are included in Transformers 4.36.0! |
 |[AI Tamago.](https://github.com/ykhli/AI-tamago) |An 100% local, LLM-generated and driven virtual pet with thoughts, feelings and feedback. Revive your fond memories of Tamagotchi!|
-|[.]() | |
+|[Introducing gigaGPT: GPT-3 sized models in 565 lines of code.](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code) |GigaGPT is Cerebras’ implementation of Andrei Karpathy’s nanoGPT – the simplest and most compact code base to train and fine-tune GPT models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
