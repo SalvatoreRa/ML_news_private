@@ -53,8 +53,8 @@
 |[HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork.](https://github.com/giangdip2410/hyperrouter) |The HyperRouter technique dynamically modifies router characteristics to increase the effectiveness of training big language models. |
 |[FunSearch: Making new discoveries in mathematical sciences using Large Language Models.](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/) | By searching for “functions” written in computer code, FunSearch made the first discoveries in open problems in mathematical sciences using LLMs. [scientific article.](https://www.nature.com/articles/s41586-023-06924-6)|
 |[Weak to Strong Generalization.](https://openai.com/research/weak-to-strong-generalization) |An analog to weak people aligning super intelligent models, this new discovery from the OpenAI super alignment team (with code) implies that you may utilize much weaker supervisor models to guide or align a considerably more powerful model. To regain much of the alignment performance of GPT-4, they employed GPT-2. Among the key differences between this approach and RLHF-like approaches is that the former provides a tractable route for significant improvement. |
-|[.]() | |
-|[.]() | |
+|[Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers.](https://arxiv.org/abs/2312.08168v1) |Object identifiers are included in Large Language Models by a novel research technique aimed at enhancing comprehension and providing answers about 3D situations. This approach, which focuses on finding and connecting items in a scene, has demonstrated encouraging outcomes in terms of improving AI's comprehension of intricate spatial connections. |
+|[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention.](https://arxiv.org/abs/2312.07987v2) |SwitchHead is a breakthrough in improving the effectiveness of AI models. Transformers' memory and processing requirements are decreased without sacrificing functionality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,7 +90,7 @@
 |[OpenAI inks deal with Axel Springer on licensing news for model training.](https://techcrunch.com/2023/12/13/openai-inks-deal-with-axel-springer-on-licensing-news-for-model-training/) | |
 |[OpenAI's Superalignment Fast Grants.](https://openai.com/blog/superalignment-fast-grants) |We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more. |
 |[A new old kind of R&D lab.](https://www.answer.ai/posts/2023-12-12-launch.html) | Respond AI is a new lab that seeks to find genuinely useful and productive applications for current models rather than creating new ones. Its goal is to do basic research to assist enterprises in enabling AI-enabled application cases.|
-|[.]() | |
+|[Samsung unveils its generative AI model Samsung Gauss.](https://www.zdnet.com/article/samsung-unveils-its-generative-ai-model-samsung-gauss/) |Samsung Gauss consists of language, code, and image models and will be applied to the company's various products in the future. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,9 +115,9 @@
 |[AI Tamago.](https://github.com/ykhli/AI-tamago) |An 100% local, LLM-generated and driven virtual pet with thoughts, feelings and feedback. Revive your fond memories of Tamagotchi!|
 |[Introducing gigaGPT: GPT-3 sized models in 565 lines of code.](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code) |GigaGPT is Cerebras’ implementation of Andrei Karpathy’s nanoGPT – the simplest and most compact code base to train and fine-tune GPT models. |
 |[Awesome CLIP in Medical Imaging.](https://github.com/zhaozh10/awesome-clip-in-medical-imaging) | This is a collection of awesome articles about CLIP in medical imaging|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Roadmap To Learn Generative AI In 2024.](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) | A repository with links and videos |
+|[Lookup Table meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping.](https://github.com/fengzhang427/LLF-LUT) | LLF-LUT is an effective end-to-end framework for the HDR image tone mapping task performing global tone manipulation while preserving local edge details.|
+|[Obsidian: Worlds smallest multi-modal LLM. First multi-modal model in size 3B.](https://huggingface.co/NousResearch/Obsidian-3B-V0.5) |Obsidian-3B-V0.5 is a multi-modal AI model that has vision! it's smarts are built on Capybara-3B-V1.9 based on StableLM-3B-4e1t. Capybara-3B-V1.9 achieves state-of-the-art performance when compared to model with similar size, even beats some 7B models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,9 +143,9 @@
 |[Vertical AI.](https://greylock.com/greymatter/vertical-ai/) | The previous ten years of SaaS have been characterized by horizontal software, or software created to alleviate a user's pain regardless of the kind of user experiencing it. In contrast, vertical SaaS is intended for a specific user base, making it possible to customize the solution to meet their demands. According to a Greylock partner's prediction in this article, going future, software development will be guided by consumers' expectations for customized services.|
 |[Why the AI Act was so hard to pass.](https://www.theverge.com/2023/12/13/23999849/eu-ai-act-artificial-intelligence-regulations-complicated-delays) |Over two years since it was first proposed, policymakers in Brussels were still debating core contents of the EU’s landmark AI regulations hours before reaching a deal. |
 |[Google’s Gemini Marketing Trick.](https://www.bigtechnology.com/p/googles-gemini-marketing-trick) |The world saw a jaw-dropping demo of Gemini this week. It just wasn’t the real deal. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Why Stability AI is launching a subscription fee.](https://sifted.eu/articles/stability-business-model) |Stability AI will charge commercial customers for the use of its most advanced models, pivoting away from being fully open source |
+|[The real research behind the wild rumors about OpenAI’s Q* project.](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors) | OpenAI hasn't said what Q* is but it has revealed plenty of clues.|
+|[Two Titans on the Future of AI (with Reid Hoffman & Vinod Khosla).](https://www.newcomer.co/p/two-titans-on-the-future-of-ai-with) |A double header from Cerebral Valley. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
