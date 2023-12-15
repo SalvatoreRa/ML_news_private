@@ -51,8 +51,8 @@
 |[Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models.](https://arxiv.org/abs/2312.07046v1) | This work presents a technique for reduced order modeling-based big language model compression that greatly minimizes memory and time requirements without requiring expensive hardware. |
 |[Towards a Generalized Multimodal Foundation Model.](https://x-decoder-vl.github.io/) |With the help of FIND, AI models now have a flexible interface that improves their comprehension of datasets and visuals without changing the fundamental model. |
 |[HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork.](https://github.com/giangdip2410/hyperrouter) |The HyperRouter technique dynamically modifies router characteristics to increase the effectiveness of training big language models. |
-|[.]() | |
-|[.]() | |
+|[FunSearch: Making new discoveries in mathematical sciences using Large Language Models.](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/) | By searching for “functions” written in computer code, FunSearch made the first discoveries in open problems in mathematical sciences using LLMs. [scientific article.](https://www.nature.com/articles/s41586-023-06924-6)|
+|[Weak to Strong Generalization.](https://openai.com/research/weak-to-strong-generalization) |An analog to weak people aligning super intelligent models, this new discovery from the OpenAI super alignment team (with code) implies that you may utilize much weaker supervisor models to guide or align a considerably more powerful model. To regain much of the alignment performance of GPT-4, they employed GPT-2. Among the key differences between this approach and RLHF-like approaches is that the former provides a tractable route for significant improvement. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,8 +88,8 @@
 |[Google debuts Imagen 2 with text and logo generation.](https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/) |Google’s making the second generation of Imagen, its AI model that can create and edit images given a text prompt, more widely available — at least to Google Cloud customers using Vertex AI who’ve been approved for access. |
 |[First Impressions with Google’s Gemini.](https://blog.roboflow.com/first-impressions-with-google-gemini/) |The Roboflow team has analyzed Gemini across a range of standard prompts that we have used to evaluate other LMMs, including GPT-4 with Vision, LLaVA, and CogVLM. Our goal is to  better understand what Gemini can and cannot do well at the time of writing this piece. |
 |[OpenAI inks deal with Axel Springer on licensing news for model training.](https://techcrunch.com/2023/12/13/openai-inks-deal-with-axel-springer-on-licensing-news-for-model-training/) | |
-|[.]() | |
-|[.]() | |
+|[OpenAI's Superalignment Fast Grants.](https://openai.com/blog/superalignment-fast-grants) |We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more. |
+|[A new old kind of R&D lab.](https://www.answer.ai/posts/2023-12-12-launch.html) | Respond AI is a new lab that seeks to find genuinely useful and productive applications for current models rather than creating new ones. Its goal is to do basic research to assist enterprises in enabling AI-enabled application cases.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
