@@ -34,6 +34,8 @@
 
 # ON WORKING
 
+# ML news: Week 11 - 17 December
+
 ## Research
 |Link|description|
 |---|---|
@@ -56,17 +58,6 @@
 |[Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers.](https://arxiv.org/abs/2312.08168v1) |Object identifiers are included in Large Language Models by a novel research technique aimed at enhancing comprehension and providing answers about 3D situations. This approach, which focuses on finding and connecting items in a scene, has demonstrated encouraging outcomes in terms of improving AI's comprehension of intricate spatial connections. |
 |[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention.](https://arxiv.org/abs/2312.07987v2) |SwitchHead is a breakthrough in improving the effectiveness of AI models. Transformers' memory and processing requirements are decreased without sacrificing functionality. |
 |[Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models.](https://arxiv.org/abs/2312.06585) |offers a method for self-training with feedback that can significantly lessen reliance on data created by humans; when model-generated data is used in conjunction with a reward function, LLM performance on problem-solving tasks is enhanced. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## News
@@ -91,13 +82,6 @@
 |[OpenAI's Superalignment Fast Grants.](https://openai.com/blog/superalignment-fast-grants) |We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more. |
 |[A new old kind of R&D lab.](https://www.answer.ai/posts/2023-12-12-launch.html) | Respond AI is a new lab that seeks to find genuinely useful and productive applications for current models rather than creating new ones. Its goal is to do basic research to assist enterprises in enabling AI-enabled application cases.|
 |[Samsung unveils its generative AI model Samsung Gauss.](https://www.zdnet.com/article/samsung-unveils-its-generative-ai-model-samsung-gauss/) |Samsung Gauss consists of language, code, and image models and will be applied to the company's various products in the future. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -120,16 +104,6 @@
 |[Obsidian: Worlds smallest multi-modal LLM. First multi-modal model in size 3B.](https://huggingface.co/NousResearch/Obsidian-3B-V0.5) |Obsidian-3B-V0.5 is a multi-modal AI model that has vision! it's smarts are built on Capybara-3B-V1.9 based on StableLM-3B-4e1t. Capybara-3B-V1.9 achieves state-of-the-art performance when compared to model with similar size, even beats some 7B models. |
 |[Mathematical Language Models: A Survey.](https://arxiv.org/abs/2312.07622) |a survey on LLMs' development on mathematical activities; includes papers and resources on LLM research on tasks including theorem proving and math word problem solving, as well as prompting approaches. |
 |[A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges.](https://arxiv.org/abs/2311.05112) |a thorough analysis of more than 300 papers on LLMs in medicine; provides a synopsis of the concepts, uses, and difficulties faced by LLMs in the field. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Perspectives
 |Link|description|
@@ -146,9 +120,6 @@
 |[Why Stability AI is launching a subscription fee.](https://sifted.eu/articles/stability-business-model) |Stability AI will charge commercial customers for the use of its most advanced models, pivoting away from being fully open source |
 |[The real research behind the wild rumors about OpenAI’s Q* project.](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors) | OpenAI hasn't said what Q* is but it has revealed plenty of clues.|
 |[Two Titans on the Future of AI (with Reid Hoffman & Vinod Khosla).](https://www.newcomer.co/p/two-titans-on-the-future-of-ai-with) |A double header from Cerebral Valley. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ML news: Week 4 - 10 December
