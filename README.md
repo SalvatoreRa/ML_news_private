@@ -55,7 +55,7 @@
 |[Weak to Strong Generalization.](https://openai.com/research/weak-to-strong-generalization) |An analog to weak people aligning super intelligent models, this new discovery from the OpenAI super alignment team (with code) implies that you may utilize much weaker supervisor models to guide or align a considerably more powerful model. To regain much of the alignment performance of GPT-4, they employed GPT-2. Among the key differences between this approach and RLHF-like approaches is that the former provides a tractable route for significant improvement. |
 |[Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers.](https://arxiv.org/abs/2312.08168v1) |Object identifiers are included in Large Language Models by a novel research technique aimed at enhancing comprehension and providing answers about 3D situations. This approach, which focuses on finding and connecting items in a scene, has demonstrated encouraging outcomes in terms of improving AI's comprehension of intricate spatial connections. |
 |[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention.](https://arxiv.org/abs/2312.07987v2) |SwitchHead is a breakthrough in improving the effectiveness of AI models. Transformers' memory and processing requirements are decreased without sacrificing functionality. |
-|[.]() | |
+|[Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models.](https://arxiv.org/abs/2312.06585) |offers a method for self-training with feedback that can significantly lessen reliance on data created by humans; when model-generated data is used in conjunction with a reward function, LLM performance on problem-solving tasks is enhanced. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,8 +118,8 @@
 |[Roadmap To Learn Generative AI In 2024.](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) | A repository with links and videos |
 |[Lookup Table meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping.](https://github.com/fengzhang427/LLF-LUT) | LLF-LUT is an effective end-to-end framework for the HDR image tone mapping task performing global tone manipulation while preserving local edge details.|
 |[Obsidian: Worlds smallest multi-modal LLM. First multi-modal model in size 3B.](https://huggingface.co/NousResearch/Obsidian-3B-V0.5) |Obsidian-3B-V0.5 is a multi-modal AI model that has vision! it's smarts are built on Capybara-3B-V1.9 based on StableLM-3B-4e1t. Capybara-3B-V1.9 achieves state-of-the-art performance when compared to model with similar size, even beats some 7B models. |
-|[.]() | |
-|[.]() | |
+|[Mathematical Language Models: A Survey.](https://arxiv.org/abs/2312.07622) |a survey on LLMs' development on mathematical activities; includes papers and resources on LLM research on tasks including theorem proving and math word problem solving, as well as prompting approaches. |
+|[A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges.](https://arxiv.org/abs/2311.05112) |a thorough analysis of more than 300 papers on LLMs in medicine; provides a synopsis of the concepts, uses, and difficulties faced by LLMs in the field. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
