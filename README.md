@@ -37,9 +37,9 @@
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Stabilizing Transformer Training by Preventing Attention Entropy Collapse.](https://github.com/apple/ml-sigma-reparam) |Despite their incredible skills, transformers may be challenging to train because to their numerous instabilities. When the entropy of an Attention matrix collapses is one of the primary problems. With a straightforward reparametrization, our work offers a means to avoid it. |
+|[DiffusionLight: Light Probes for Free by Painting a Chrome Ball.](https://diffusionlight.github.io/?) | This effort overcomes the drawbacks of existing approaches that rely on HDR panorama datasets by introducing a unique method for predicting lighting in photos. The method uncovers a distinct link between chrome balls and diffusion noise by rendering chrome balls into conventional pictures using diffusion models.|
+|[DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving.](https://arxiv.org/abs/2312.09245v1) |A new framework called DriveMLM makes advantage of massive language models to improve autonomous driving. This system performs better in simulations and interacts with current autonomous driving systems. It does this by fusing linguistic judgments with vehicle controls. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -64,8 +64,8 @@
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Snapchat+ subscribers can now create and send AI-generated images.](https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/) | Snapchat is releasing a few new AI powered features for Snapchat+ subscribers.|
+|[Google brings Gemini Pro to Vertex AI.](https://techcrunch.com/2023/12/13/google-brings-gemini-pro-to-vertex-ai/) |After coming to Bard and the Pixel 8 Pro last week, Gemini, Google’s recently announced flagship GenAI model family, is launching for Google Cloud customers using Vertex AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,9 +94,9 @@
 |Link|description|
 |---|---|
 |[Introducing Ego-Exo4D: A foundational dataset for research on video learning and multimodal perception.](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/) |  Ego-Exo4D, a foundational dataset and benchmark suite to support research on video learning and multimodal perception.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Coffee.](https://github.com/Coframe/coffee) | Coffee, which was released last week, integrates AI into current codebases to speed up frontend development. The project primarily focuses on a first-class DX, drawing on insights the Coframe team has gained from producing more than 80% of their frontend using AI.|
+|[DeepEval.](https://github.com/confident-ai/deepeval) | DeepEval is a simple-to-use, open-source evaluation framework for LLM applications. It is similar to Pytest but specialized for unit testing LLM applications. DeepEval evaluates performance based on metrics such as hallucination, answer relevancy, RAGAS, etc., using LLMs and various other NLP models locally on your machine.|
+|[Understanding GPU Memory 1: Visualizing All Allocations over Time.](https://pytorch.org/blog/understanding-gpu-memory-1/) | Determining the reason behind memory leaks in Pytorch has proven to be one of the most difficult tasks for practitioners. Pytorch 2.1 has some incredible new features that provide insight into memory utilization. Classifying the utilization into well-known buckets (such as activations and gradients) is another application for it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
