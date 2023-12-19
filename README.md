@@ -59,14 +59,14 @@
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
 |---|---|
 |[Snapchat+ subscribers can now create and send AI-generated images.](https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/) | Snapchat is releasing a few new AI powered features for Snapchat+ subscribers.|
 |[Google brings Gemini Pro to Vertex AI.](https://techcrunch.com/2023/12/13/google-brings-gemini-pro-to-vertex-ai/) |After coming to Bard and the Pixel 8 Pro last week, Gemini, Google’s recently announced flagship GenAI model family, is launching for Google Cloud customers using Vertex AI. |
-|[.]() | |
+|[Competitive performance claims and industry-leading Inference performance on AMD Instinct MI300X.](https://community.amd.com/t5/instinct-accelerators/competitive-performance-claims-and-industry-leading-inference/ba-p/652304) |With ROCm 6, AMD's flagship AI accelerator, the MI300X, can now perform for inference tasks on par with NVIDIA. The community will benefit greatly from this as it gives burgeoning AI firms access to new chips. |
+|[Agility is using large language models to communicate with its humanoid robots.](https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/) |the company is showcasing some of that work in a short video shared through its social channels. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,7 +97,8 @@
 |[Coffee.](https://github.com/Coframe/coffee) | Coffee, which was released last week, integrates AI into current codebases to speed up frontend development. The project primarily focuses on a first-class DX, drawing on insights the Coframe team has gained from producing more than 80% of their frontend using AI.|
 |[DeepEval.](https://github.com/confident-ai/deepeval) | DeepEval is a simple-to-use, open-source evaluation framework for LLM applications. It is similar to Pytest but specialized for unit testing LLM applications. DeepEval evaluates performance based on metrics such as hallucination, answer relevancy, RAGAS, etc., using LLMs and various other NLP models locally on your machine.|
 |[Understanding GPU Memory 1: Visualizing All Allocations over Time.](https://pytorch.org/blog/understanding-gpu-memory-1/) | Determining the reason behind memory leaks in Pytorch has proven to be one of the most difficult tasks for practitioners. Pytorch 2.1 has some incredible new features that provide insight into memory utilization. Classifying the utilization into well-known buckets (such as activations and gradients) is another application for it.|
-|[.]() | |
+|[Fine Tuning Mistral 7B on Magic the Gathering Drafts.](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the) | Tips, examples, and thoughts from an exploration of the world of fine tuning|
+|[MMLU prompt templates.](https://github.com/microsoft/promptbase/blob/main/src/promptbase/mmlu/prompt_templates.py) |The most effective prompting technique for MMLU at the moment is Microsoft's Medprompt+. The template, along with numerous other chain-of-thought style templates that are widely used in the evaluation community, was made available by Microsoft. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,8 +123,7 @@
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[The Where, When, and How of AI with Theory Ventures, Open AI, MotherDuck and Lamini.](https://www.saastr.com/the-where-when-and-how-of-ai-with-theory-ventures-open-ai-motherduck-and-lamini/) | Prominent inventors and venture capitalists discuss the latest developments in artificial intelligence, ranging from the use of LLMs to enterprise innovation. This is a helpful fast summary if the speed of "things you should know about AI" is a little overwhelming.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
