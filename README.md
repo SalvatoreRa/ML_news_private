@@ -68,8 +68,8 @@
 |[Competitive performance claims and industry-leading Inference performance on AMD Instinct MI300X.](https://community.amd.com/t5/instinct-accelerators/competitive-performance-claims-and-industry-leading-inference/ba-p/652304) |With ROCm 6, AMD's flagship AI accelerator, the MI300X, can now perform for inference tasks on par with NVIDIA. The community will benefit greatly from this as it gives burgeoning AI firms access to new chips. |
 |[Agility is using large language models to communicate with its humanoid robots.](https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/) |the company is showcasing some of that work in a short video shared through its social channels. |
 |[Intel unveils new data center chip with focus on AI growth.](https://finance.yahoo.com/news/intel-unveils-new-data-center-chip-with-focus-on-ai-growth-150001734.html) |On Thursday, the company debuted its 5th Gen Intel Xeon processors during its AI Everywhere event |
-|[.]() | |
-|[.]() | |
+|[ByteDance is secretly using OpenAI’s tech to build a competitor.](https://www.theverge.com/2023/12/15/24003151/bytedance-china-openai-microsoft-competitor-llm) | ‘They really just don’t want to get caught.’ The frenzied race to win in generative AI means that even the biggest players are cutting corners.|
+|[Atlassian welcomes AI to the team.](https://www.atlassian.com/blog/announcements/atlassian-intelligence-ga) |AI capabilities are now generally available across Jira Software, Confluence, Jira Service Management and more. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
