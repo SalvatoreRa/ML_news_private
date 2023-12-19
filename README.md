@@ -93,7 +93,7 @@
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Introducing Ego-Exo4D: A foundational dataset for research on video learning and multimodal perception.](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/) |  Ego-Exo4D, a foundational dataset and benchmark suite to support research on video learning and multimodal perception.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
