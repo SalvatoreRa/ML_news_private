@@ -102,8 +102,8 @@
 |[Big Vision.](https://github.com/google-research/big_vision) |This codebase is designed for training large-scale vision models using Cloud TPU VMs or GPU machines. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable and reproducible input pipelines. |
 |[Thoughts on Jaxtyping.](https://kidger.site/thoughts/jaxtyping/) |In machine learning, shape problems are difficult to debug and can go undetected until the model is attempted to run. Checking shapes as kinds can help you get over most of this obstacle and advance faster. |
 |[Legaltech x AI: The Lightspeed View.](https://lsvp.com/legaltech-x-ai-the-lightspeed-view/) |Lightspeed's perspective on the legaltech industry's use of AI is obvious and intriguing when viewed from the angle that what's good for VCs is good for everyone. Time will tell if they are on the right track or not, but there are some intriguing observations. |
-|[.]() | |
-|[.]() | |
+|[New Sequence Mixers.](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based) |The folks who brought us Mamba (and a ton of other models) have published a nice blog entry explaining simple sequence mixing topologies that provide some very significant speed increases over traditional Transformers. |
+|[microagents.](https://github.com/aymenfurter/microagents) | Agents Capable of Self-Editing Their Prompts / Python Code|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@
 |Link|description|
 |---|---|
 |[The Where, When, and How of AI with Theory Ventures, Open AI, MotherDuck and Lamini.](https://www.saastr.com/the-where-when-and-how-of-ai-with-theory-ventures-open-ai-motherduck-and-lamini/) | Prominent inventors and venture capitalists discuss the latest developments in artificial intelligence, ranging from the use of LLMs to enterprise innovation. This is a helpful fast summary if the speed of "things you should know about AI" is a little overwhelming.|
-|[.]() | |
+|[The Competition is Coming for Nvidia.](https://www.bigtechnology.com/p/the-competition-is-coming-for-nvidia) |After a long, largely unimpeded run, NVIDIA’s challenge has finally arrived. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
