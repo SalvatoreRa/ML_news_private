@@ -67,7 +67,7 @@
 |[Google brings Gemini Pro to Vertex AI.](https://techcrunch.com/2023/12/13/google-brings-gemini-pro-to-vertex-ai/) |After coming to Bard and the Pixel 8 Pro last week, Gemini, Google’s recently announced flagship GenAI model family, is launching for Google Cloud customers using Vertex AI. |
 |[Competitive performance claims and industry-leading Inference performance on AMD Instinct MI300X.](https://community.amd.com/t5/instinct-accelerators/competitive-performance-claims-and-industry-leading-inference/ba-p/652304) |With ROCm 6, AMD's flagship AI accelerator, the MI300X, can now perform for inference tasks on par with NVIDIA. The community will benefit greatly from this as it gives burgeoning AI firms access to new chips. |
 |[Agility is using large language models to communicate with its humanoid robots.](https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/) |the company is showcasing some of that work in a short video shared through its social channels. |
-|[.]() | |
+|[Intel unveils new data center chip with focus on AI growth.](https://finance.yahoo.com/news/intel-unveils-new-data-center-chip-with-focus-on-ai-growth-150001734.html) |On Thursday, the company debuted its 5th Gen Intel Xeon processors during its AI Everywhere event |
 |[.]() | |
 |[.]() | |
 |[.]() | |
