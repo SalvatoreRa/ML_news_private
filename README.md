@@ -40,10 +40,9 @@
 |[Stabilizing Transformer Training by Preventing Attention Entropy Collapse.](https://github.com/apple/ml-sigma-reparam) |Despite their incredible skills, transformers may be challenging to train because to their numerous instabilities. When the entropy of an Attention matrix collapses is one of the primary problems. With a straightforward reparametrization, our work offers a means to avoid it. |
 |[DiffusionLight: Light Probes for Free by Painting a Chrome Ball.](https://diffusionlight.github.io/?) | This effort overcomes the drawbacks of existing approaches that rely on HDR panorama datasets by introducing a unique method for predicting lighting in photos. The method uncovers a distinct link between chrome balls and diffusion noise by rendering chrome balls into conventional pictures using diffusion models.|
 |[DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving.](https://arxiv.org/abs/2312.09245v1) |A new framework called DriveMLM makes advantage of massive language models to improve autonomous driving. This system performs better in simulations and interacts with current autonomous driving systems. It does this by fusing linguistic judgments with vehicle controls. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Graph Neural Networks with Diverse Spectral Filtering.](https://arxiv.org/abs/2312.09041v1) |A novel technique known as DSF has been created by researchers to enhance spectral graph neural networks. The World Wide Web and other complicated networks can be handled more effectively by DSF by adding node-specific filter weights. |
+|[Evaluating and Mitigating Discrimination in Language Model Decisions.](https://www.anthropic.com/index/evaluating-and-mitigating-discrimination-in-language-model-decisions) |A proactive approach to assessing language models' potential for discrimination is covered in this article. The process involves coming up with a broad range of possible prompts for different decision scenarios and variations in demographic data. The main tactic for reducing both positive and negative discrimination is cautious prompt engineering. |
+|[Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models.](https://github.com/hutaihang/faster-diffusion) |A comparison of UNet encoders and decoders in diffusion models demonstrates the former's more stable behavior. Thanks to this realization, a novel encoder propagation strategy was developed, greatly accelerating jobs like text-to-image and text-to-video production. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -99,9 +98,10 @@
 |[Understanding GPU Memory 1: Visualizing All Allocations over Time.](https://pytorch.org/blog/understanding-gpu-memory-1/) | Determining the reason behind memory leaks in Pytorch has proven to be one of the most difficult tasks for practitioners. Pytorch 2.1 has some incredible new features that provide insight into memory utilization. Classifying the utilization into well-known buckets (such as activations and gradients) is another application for it.|
 |[Fine Tuning Mistral 7B on Magic the Gathering Drafts.](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the) | Tips, examples, and thoughts from an exploration of the world of fine tuning|
 |[MMLU prompt templates.](https://github.com/microsoft/promptbase/blob/main/src/promptbase/mmlu/prompt_templates.py) |The most effective prompting technique for MMLU at the moment is Microsoft's Medprompt+. The template, along with numerous other chain-of-thought style templates that are widely used in the evaluation community, was made available by Microsoft. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Amphion.](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. Amphion offers a unique feature: visualizations of classic models or architectures. |
+|[Big Vision.](https://github.com/google-research/big_vision) |This codebase is designed for training large-scale vision models using Cloud TPU VMs or GPU machines. It is based on Jax/Flax libraries, and uses tf.data and TensorFlow Datasets for scalable and reproducible input pipelines. |
+|[Thoughts on Jaxtyping.](https://kidger.site/thoughts/jaxtyping/) |In machine learning, shape problems are difficult to debug and can go undetected until the model is attempted to run. Checking shapes as kinds can help you get over most of this obstacle and advance faster. |
+|[Legaltech x AI: The Lightspeed View.](https://lsvp.com/legaltech-x-ai-the-lightspeed-view/) |Lightspeed's perspective on the legaltech industry's use of AI is obvious and intriguing when viewed from the angle that what's good for VCs is good for everyone. Time will tell if they are on the right track or not, but there are some intriguing observations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
