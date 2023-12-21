@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach.](https://arxiv.org/abs/2312.10740v1) | a deep learning method for identifying deepfake faces in videos utilizing four pre-trained CNN models for high accuracy. [official code.](https://github.com/faysal-md/unmasking-deepfake-faces-from-videos-an-explainable-cost-sensitive-deep-learning-approach-ieee2023)|
 |[Bi-directional Adapter for Multi-modal Tracking.](https://arxiv.org/abs/2312.10611v1) | This effort solves the drawbacks of single-modal object tracking by introducing a multi-modal visual cue tracking paradigm that dynamically leverages the advantages of several modalities, such as RGB and infrared. [official code.](https://github.com/sparktempest/bat)|
 |[Tokenize Anything via Prompting.](https://github.com/baaivision/tokenize-anything) |We present Tokenize Anything via Prompting, a unified and promptable model capable of simultaneously segmenting, recognizing, and captioning arbitrary regions, with flexible visual prompts (point, box and sketch).  |
-|[.]() | |
-|[.]() | |
+|[Gemini: A Family of Highly Capable Multimodal Models.](https://arxiv.org/abs/2312.11805) | Gemini Paper: This report introduces a new family of multimodal models, Gemini, that exhibit remarkable capabilities across image, audio, video, and text understanding. |
+|[FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning.](https://yeungchenwa.github.io/fontdiffuser-homepage) |Diffusion-based FontDiffuser is an automatic font production technique that works especially well with intricate characters and a wide range of style variants. It has a Style Contrastive Refinement module for style transfer and a Multi-scale Content Aggregation block for improved stroke preservation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMLingua.](https://github.com/microsoft/LLMLingua) |LLMLingua utilizes a compact, well-trained language model (e.g., GPT2-small, LLaMA-7B) to identify and remove non-essential tokens in prompts. This approach enables efficient inference with large language models (LLMs), achieving up to 20x compression with minimal performance loss. |
 |[Distil-Whisper.](https://github.com/huggingface/distil-whisper) |Distil-Whisper is a distilled version of Whisper that is 6 times faster, 49% smaller, and performs within 1% word error rate (WER) on out-of-distribution evaluation sets |
 |[M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts.](https://m3dbench.github.io/) |M3DBench introduces a comprehensive 3D instruction-following dataset that encompasses a variety of 3D vision-centric tasks, spanning fundamental abilities in real-world 3D environments. |
-|[.]() | |
-|[.]() | |
+|[WhisperPlus: Advancing Speech-to-Text Processing.](https://github.com/kadirnar/whisper-plus) | Advanced speech-to-text processing|
+|[tinyzero.](https://github.com/s-casci/tinyzero) | Easily train AlphaZero-like agents in any environment you want!|
 |[.]() | |
 |[.]() | |
 |[.]() | |
