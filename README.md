@@ -45,10 +45,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Graph Neural Networks with Diverse Spectral Filtering.](https://arxiv.org/abs/2312.09041v1) |A novel technique known as DSF has been created by researchers to enhance spectral graph neural networks. The World Wide Web and other complicated networks can be handled more effectively by DSF by adding node-specific filter weights. |
 |[Evaluating and Mitigating Discrimination in Language Model Decisions.](https://www.anthropic.com/index/evaluating-and-mitigating-discrimination-in-language-model-decisions) |A proactive approach to assessing language models' potential for discrimination is covered in this article. The process involves coming up with a broad range of possible prompts for different decision scenarios and variations in demographic data. The main tactic for reducing both positive and negative discrimination is cautious prompt engineering. |
 |[Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models.](https://github.com/hutaihang/faster-diffusion) |A comparison of UNet encoders and decoders in diffusion models demonstrates the former's more stable behavior. Thanks to this realization, a novel encoder propagation strategy was developed, greatly accelerating jobs like text-to-image and text-to-video production. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[VideoPoet: A large language model for zero-shot video generation.](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html) | VideoPoet, a large language model (LLM) that is capable of a wide variety of video generation tasks, including text-to-video, image-to-video, video stylization, video inpainting and outpainting, and video-to-audio. |
+|[Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive Deep Learning Approach.](https://arxiv.org/abs/2312.10740v1) | a deep learning method for identifying deepfake faces in videos utilizing four pre-trained CNN models for high accuracy. [official code.](https://github.com/faysal-md/unmasking-deepfake-faces-from-videos-an-explainable-cost-sensitive-deep-learning-approach-ieee2023)|
+|[Bi-directional Adapter for Multi-modal Tracking.](https://arxiv.org/abs/2312.10611v1) | This effort solves the drawbacks of single-modal object tracking by introducing a multi-modal visual cue tracking paradigm that dynamically leverages the advantages of several modalities, such as RGB and infrared. [official code.](https://github.com/sparktempest/bat)|
+|[Tokenize Anything via Prompting.](https://github.com/baaivision/tokenize-anything) |We present Tokenize Anything via Prompting, a unified and promptable model capable of simultaneously segmenting, recognizing, and captioning arbitrary regions, with flexible visual prompts (point, box and sketch).  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -73,10 +73,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Atlassian welcomes AI to the team.](https://www.atlassian.com/blog/announcements/atlassian-intelligence-ga) |AI capabilities are now generally available across Jira Software, Confluence, Jira Service Management, and more. |
 |[Harvey raises $80M Series B.](https://www.harvey.ai/blog/series-b) | A new round of investment has been secured by Harvey AI, a legal service based on OpenAI technology, valuing the startup business at over $700 million. Using OpenAI, the business creates foundation models for applications related to law and legal practice.|
 |[whiterabbitneo/WhiteRabbitNeo-13B.](https://huggingface.co/whiterabbitneo/WhiteRabbitNeo-13B) |The Matrix-related startup whiterabbitneo has produced a 13B parameter language model that has been trained for both offensive and defensive cyber security. It is qualified to respond to inquiries and offer details on computer security. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anthropic Updates Terms of Service.](https://www.anthropic.com/index/expanded-legal-protections-api-improvements) | We are introducing new, simplified Commercial Terms of Service with an expanded copyright indemnity, as well as an improved developer experience with our beta Messages API.|
+|[Pilotless FedEx, Reliable Robotics Plane Completes Flight.](https://www.ttnews.com/articles/pilotless-fedex-plane) | Milestone for Autonomous Flight Could Lead to Regulatory Approval|
+|[Microsoft Copilot gets a music creation feature via Suno integration.](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/) |Microsoft Copilot, Microsoft’s AI-powered chatbot, can now compose songs thanks to an integration with GenAI music app Suno. |
+|[Stability AI announces paid membership for commercial use of its models.](https://www.theverge.com/2023/12/19/24008149/stability-ai-paid-subscription-commercial-rights-safety) |The company said paid tiers will fund the future of its AI research. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,9 +106,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Legaltech x AI: The Lightspeed View.](https://lsvp.com/legaltech-x-ai-the-lightspeed-view/) |Lightspeed's perspective on the legaltech industry's use of AI is obvious and intriguing when viewed from the angle that what's good for VCs is good for everyone. Time will tell if they are on the right track or not, but there are some intriguing observations. |
 |[New Sequence Mixers.](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based) |The folks who brought us Mamba (and a ton of other models) have published a nice blog entry explaining simple sequence mixing topologies that provide some very significant speed increases over traditional Transformers. |
 |[microagents.](https://github.com/aymenfurter/microagents) | Agents Capable of Self-Editing Their Prompts / Python Code|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LLMLingua.](https://github.com/microsoft/LLMLingua) |LLMLingua utilizes a compact, well-trained language model (e.g., GPT2-small, LLaMA-7B) to identify and remove non-essential tokens in prompts. This approach enables efficient inference with large language models (LLMs), achieving up to 20x compression with minimal performance loss. |
+|[Distil-Whisper.](https://github.com/huggingface/distil-whisper) |Distil-Whisper is a distilled version of Whisper that is 6 times faster, 49% smaller, and performs within 1% word error rate (WER) on out-of-distribution evaluation sets |
+|[M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts.](https://m3dbench.github.io/) |M3DBench introduces a comprehensive 3D instruction-following dataset that encompasses a variety of 3D vision-centric tasks, spanning fundamental abilities in real-world 3D environments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
