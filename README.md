@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pilotless FedEx, Reliable Robotics Plane Completes Flight.](https://www.ttnews.com/articles/pilotless-fedex-plane) | Milestone for Autonomous Flight Could Lead to Regulatory Approval|
 |[Microsoft Copilot gets a music creation feature via Suno integration.](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/) |Microsoft Copilot, Microsoft’s AI-powered chatbot, can now compose songs thanks to an integration with GenAI music app Suno. |
 |[Stability AI announces paid membership for commercial use of its models.](https://www.theverge.com/2023/12/19/24008149/stability-ai-paid-subscription-commercial-rights-safety) |The company said paid tiers will fund the future of its AI research. |
-|[.]() | |
-|[.]() | |
+|[More than 10,000 research papers were retracted in 2023 — a new record.](https://www.nature.com/articles/d41586-023-03974-8) |The number of articles being retracted rose sharply this year. Integrity experts say that this is only the tip of the iceberg. |
+|[Large language models direct automated chemistry laboratory.](https://www.nature.com/articles/d41586-023-03790-0) | Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts. [research article.](https://www.nature.com/articles/s41586-023-06792-0)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,11 +127,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The Where, When, and How of AI with Theory Ventures, Open AI, MotherDuck and Lamini.](https://www.saastr.com/the-where-when-and-how-of-ai-with-theory-ventures-open-ai-motherduck-and-lamini/) | Prominent inventors and venture capitalists discuss the latest developments in artificial intelligence, ranging from the use of LLMs to enterprise innovation. This is a helpful fast summary if the speed of "things you should know about AI" is a little overwhelming.|
 |[The Competition is Coming for Nvidia.](https://www.bigtechnology.com/p/the-competition-is-coming-for-nvidia) |After a long, largely unimpeded run, NVIDIA’s challenge has finally arrived. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[From Einstein to AI: how 100 years have shaped science.](https://www.nature.com/articles/d41586-023-04021-2) | Looking back a century reveals how much the research landscape has changed — and how unclear the consequences of scientific innovation can be.|
+|[ChatGPT and science: the AI system was a force in 2023 — for good and bad.](https://www.nature.com/articles/d41586-023-03930-6) | The poster child for generative AI software is a startling human mimic. It represents a potential new era in research, but brings risks.|
+|[What was the Turing test actually about?.](https://www.nature.com/articles/d41586-023-04058-3) |It is important to develop metrics for the public scrutiny of today’s generative artificial intelligence. |
+|[Should scientists delegate their writing to ChatGPT?.](https://www.nature.com/articles/d41586-023-04055-6) | Scientists should exercise caution when using generative artificial intelligence (AI) tools such as ChatGPT to write grant applications|
+|[Mentor–trainee dialogue on proper use of AI tools.](https://www.nature.com/articles/d41586-023-04062-7) |The responsible use of artificial-intelligence (AI) tools in education and academia is important on a micro- as well as a macro scale |
 |[.]() | |
 |[.]() | |
 |[.]() | |
