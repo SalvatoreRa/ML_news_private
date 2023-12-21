@@ -59,7 +59,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -81,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large language models direct automated chemistry laboratory.](https://www.nature.com/articles/d41586-023-03790-0) | Automation of chemistry research has focused on developing robots to execute jobs. Artificial-intelligence technology has now been used not only to control robots, but also to plan their tasks on the basis of simple human prompts. [research article.](https://www.nature.com/articles/s41586-023-06792-0)|
 |[Introducing Text-to-CAD.](https://zoo.dev/blog/introducing-text-to-cad) |After changing their name, Zoo Dev (formerly Kitty Cad) unveiled a new text-to-cad feature. This robust platform creates 3D assets that can be printed or used as parts. |
 |[Waymo finds that its driverless cars ‘significantly outperformed’ humans.](https://9to5google.com/2023/12/20/waymo-driverless-humans/) | New safety research from Waymo finds that its driverless cars “led to a significant reduction in the rates of police-reported and injury-causing crashes compared to human drivers.”|
-|[.]() | |
-|[.]() | |
+|[Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model.](https://arxiv.org/abs/2312.12232) |A novel training-free framework called Diff-Text enables the creation of photo-realistic images with text in any language. By using sketched images as priors, it improves the multilingual capabilities of the Stable Diffusion model. |
+|[Largest Dataset Powering AI Images Removed After Discovery of Child Sexual Abuse Material.](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/) | The model is a massive part of the AI-ecosystem, used by Stable Diffusion and other major generative AI products. The removal follows discoveries made by Stanford researchers, who found thousands instances of suspected child sexual abuse material in the dataset.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,6 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts.](https://m3dbench.github.io/) |M3DBench introduces a comprehensive 3D instruction-following dataset that encompasses a variety of 3D vision-centric tasks, spanning fundamental abilities in real-world 3D environments. |
 |[WhisperPlus: Advancing Speech-to-Text Processing.](https://github.com/kadirnar/whisper-plus) | Advanced speech-to-text processing|
 |[tinyzero.](https://github.com/s-casci/tinyzero) | Easily train AlphaZero-like agents in any environment you want!|
+|[MossFormer2: Combining Transformer and RNN-Free Recurrent Network for Enhanced Time-Domain Monaural Speech Separation.](https://github.com/alibabasglab/MossFormer2) | An improvement on the original MossFormer, the MossFormer2 model provides better monaural speech separation capabilities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,9 +132,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What was the Turing test actually about?.](https://www.nature.com/articles/d41586-023-04058-3) |It is important to develop metrics for the public scrutiny of today’s generative artificial intelligence. |
 |[Should scientists delegate their writing to ChatGPT?.](https://www.nature.com/articles/d41586-023-04055-6) | Scientists should exercise caution when using generative artificial intelligence (AI) tools such as ChatGPT to write grant applications|
 |[Mentor–trainee dialogue on proper use of AI tools.](https://www.nature.com/articles/d41586-023-04062-7) |The responsible use of artificial-intelligence (AI) tools in education and academia is important on a micro- as well as a macro scale |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[My jaw hit the floor when I watched an AI master one of the world's toughest physical games in just six hours.](https://www.techradar.com/computing/artificial-intelligence/my-jaw-hit-the-floor-when-i-watched-an-ai-master-one-of-the-worlds-toughest-physical-games-in-just-six-hours) | An AI just mastered Labyrinth in six hours, and I am questioning my own existence.|
+|[Meta’s CTO on how the generative AI craze has spurred the company to ‘change it up’.](https://www.semafor.com/article/12/20/2023/meta-cto-andrew-bosworth-on-the-generative-ai-craze) | Andrew Bosworth, Chief Technology Officer at Meta, discusses the company's future plans and the hype around artificial intelligence.|
+|[End of YearPay Report 2023.](https://www.levels.fyi/2023/) |Levels.fyi's annual compensation report. View top paying companies, cities, titles & other trends. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
