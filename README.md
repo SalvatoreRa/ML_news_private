@@ -1,5 +1,7 @@
 # ML_news_private
 
+this is just a placeholder, the organized and correct repository is [here](https://github.com/SalvatoreRa/ML-news-of-the-week)
+
 # scheme
 # ML news:
 
@@ -68,9 +70,9 @@
 |[Agility is using large language models to communicate with its humanoid robots.](https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/) |the company is showcasing some of that work in a short video shared through its social channels. |
 |[Intel unveils new data center chip with focus on AI growth.](https://finance.yahoo.com/news/intel-unveils-new-data-center-chip-with-focus-on-ai-growth-150001734.html) |On Thursday, the company debuted its 5th Gen Intel Xeon processors during its AI Everywhere event |
 |[ByteDance is secretly using OpenAI’s tech to build a competitor.](https://www.theverge.com/2023/12/15/24003151/bytedance-china-openai-microsoft-competitor-llm) | ‘They really just don’t want to get caught.’ The frenzied race to win in generative AI means that even the biggest players are cutting corners.|
-|[Atlassian welcomes AI to the team.](https://www.atlassian.com/blog/announcements/atlassian-intelligence-ga) |AI capabilities are now generally available across Jira Software, Confluence, Jira Service Management and more. |
-|[.]() | |
-|[.]() | |
+|[Atlassian welcomes AI to the team.](https://www.atlassian.com/blog/announcements/atlassian-intelligence-ga) |AI capabilities are now generally available across Jira Software, Confluence, Jira Service Management, and more. |
+|[Harvey raises $80M Series B.](https://www.harvey.ai/blog/series-b) | A new round of investment has been secured by Harvey AI, a legal service based on OpenAI technology, valuing the startup business at over $700 million. Using OpenAI, the business creates foundation models for applications related to law and legal practice.|
+|[whiterabbitneo/WhiteRabbitNeo-13B.](https://huggingface.co/whiterabbitneo/WhiteRabbitNeo-13B) |The Matrix-related startup whiterabbitneo has produced a 13B parameter language model that has been trained for both offensive and defensive cyber security. It is qualified to respond to inquiries and offer details on computer security. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
