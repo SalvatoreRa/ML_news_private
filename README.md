@@ -51,6 +51,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tokenize Anything via Prompting.](https://github.com/baaivision/tokenize-anything) |We present Tokenize Anything via Prompting, a unified and promptable model capable of simultaneously segmenting, recognizing, and captioning arbitrary regions, with flexible visual prompts (point, box and sketch).  |
 |[Gemini: A Family of Highly Capable Multimodal Models.](https://arxiv.org/abs/2312.11805) | Gemini Paper: This report introduces a new family of multimodal models, Gemini, that exhibit remarkable capabilities across image, audio, video, and text understanding. |
 |[FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning.](https://yeungchenwa.github.io/fontdiffuser-homepage) |Diffusion-based FontDiffuser is an automatic font production technique that works especially well with intricate characters and a wide range of style variants. It has a Style Contrastive Refinement module for style transfer and a Multi-scale Content Aggregation block for improved stroke preservation. |
+|[Splatter Image: Ultra-Fast Single-View 3D Reconstruction.](https://szymanowiczs.github.io/splatter-image) |The Splatter Image is an ultra-fast method for single- and few-view 3D reconstruction. Training is done on 1 GPU, reconstruction is done at 38 FPS and rendering at 588 FPS. |
+|[PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU.](https://arxiv.org/abs/2312.12456) |The hypothesis that models include cool neurons that are utilized significantly less frequently and hot neurons that are used for nearly all inputs is investigated in this research. It is possible to conserve memory without significantly reducing throughput by preloading the hot neurons to the GPU. There's a code library companion available. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,6 +90,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Largest Dataset Powering AI Images Removed After Discovery of Child Sexual Abuse Material.](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/) | The model is a massive part of the AI-ecosystem, used by Stable Diffusion and other major generative AI products. The removal follows discoveries made by Stanford researchers, who found thousands of instances of suspected child sexual abuse material in the dataset.|
 |[Rite Aid banned from using facial recognition software after falsely identifying shoplifters.](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/) |FTC says the company's 'reckless use' of AI humiliated customers |
 |[AI startup Anthropic reportedly in talks to raise $750M on a $15B valuation.](https://enterprisetalk.com/quick-bytes/ai-startup-anthropic-reportedly-in-talks-to-raise-750m-on-a-15b-valuation/) | Anthropic PBC, an artificial intelligence startup backed by Amazon.com Inc. and Google LLC, is reportedly in talks to raise $750 million in new funding at a valuation of $15 billion|
+|[Apple’s latest AI research could completely transform your iPhone.](https://venturebeat.com/ai/apples-latest-ai-research-could-completely-transform-your-iphone/) | two new papers introducing new techniques for 3D avatars and efficient language model inference. The advancements could enable more immersive visual experiences and allow complex AI systems to run on consumer devices such as the iPhone and iPad.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[WhisperPlus: Advancing Speech-to-Text Processing.](https://github.com/kadirnar/whisper-plus) | Advanced speech-to-text processing|
 |[tinyzero.](https://github.com/s-casci/tinyzero) | Easily train AlphaZero-like agents in any environment you want!|
 |[MossFormer2: Combining Transformer and RNN-Free Recurrent Network for Enhanced Time-Domain Monaural Speech Separation.](https://github.com/alibabasglab/MossFormer2) | An improvement on the original MossFormer, the MossFormer2 model provides better monaural speech separation capabilities.|
-|[.]() | |
+|[llama-recipes.](https://github.com/facebookresearch/llama-recipes) |The 'llama-recipes' repository is a companion to the Llama 2 model. The goal of this repository is to provide examples to quickly get started with fine-tuning for domain adaptation and how to run inference for the fine-tuned models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
