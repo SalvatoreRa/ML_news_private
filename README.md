@@ -36,6 +36,39 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+# ML news: Week 18 - 24 December
+
 ## Research
 |Link|description|
 |---|---|
@@ -56,15 +89,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[On Inference Stability for Diffusion Models.](https://arxiv.org/abs/2312.12431v1) |A 'sequence-aware' loss function has been created by researchers to enhance Denoising Probabilistic Models (DPMs) and solve the problem of timestep correlation in picture production. Better FID and Inception Scores demonstrate that this new method not only provides a tighter estimation of loss but also significantly improves picture quality on datasets such as CelebA and CIFAR10. |
 |[CLIP-DINOiser: Teaching CLIP a few DINO tricks.](https://wysoczanska.github.io/CLIP_DINOiser/) |For better semantic segmentation without annotations, the novel CLIP-DINOiser approach combines self-supervised features with the zero-shot capabilities of the CLIP model. |
 |[A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models.](https://udifftext.github.io/) | A novel technique called UDiffText improves the legibility of text in AI-generated graphics. Through the use of a sophisticated text encoder and extensive dataset fine-tuning, UDiffText enhances text correctness and dramatically lowers spelling errors.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -92,14 +116,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI startup Anthropic reportedly in talks to raise $750M on a $15B valuation.](https://enterprisetalk.com/quick-bytes/ai-startup-anthropic-reportedly-in-talks-to-raise-750m-on-a-15b-valuation/) | Anthropic PBC, an artificial intelligence startup backed by Amazon.com Inc. and Google LLC, is reportedly in talks to raise $750 million in new funding at a valuation of $15 billion|
 |[Apple’s latest AI research could completely transform your iPhone.](https://venturebeat.com/ai/apples-latest-ai-research-could-completely-transform-your-iphone/) | two new papers introducing new techniques for 3D avatars and efficient language model inference. The advancements could enable more immersive visual experiences and allow complex AI systems to run on consumer devices such as the iPhone and iPad.|
 |[OpenAI buffs safety team and gives board veto power on risky AI.](https://techcrunch.com/2023/12/18/openai-buffs-safety-team-and-gives-board-veto-power-on-risky-ai/) |A new safety advisory group has been established by OpenAI, and the board has been given veto power over all models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -125,13 +141,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[llama-recipes.](https://github.com/facebookresearch/llama-recipes) |The 'llama-recipes' repository is a companion to the Llama 2 model. This repository aims to provide examples to quickly get started with fine-tuning for domain adaptation and how to run inference for the fine-tuned models. |
 |[LLaVA-Interactive.](https://llava-vl.github.io/llava-interactive/) | LLaVA-Interactive is a large language-and-vision assistant demo, dedicated to demonstrating the possibilities of multimodal human-machine interaction: visual input, visual output, and visual interaction. It combines complementary skills from three models: visual chat of LLaVA, visual prompt for segmentation from SEEM, and visual prompt for image generation/editing from GLIGEN.|
 |[Whisper Turbo.](https://github.com/FL33TW00D/whisper-turbo) | Whisper Turbo is a fast, cross-platform Whisper implementation, designed to run entirely client-side in your browser/electron app.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -148,18 +157,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[End of YearPay Report 2023.](https://www.levels.fyi/2023/) |Levels.fyi's annual compensation report. View top-paying companies, cities, titles & other trends. |
 |[Year One of Generative AI: Six Key Trends.](https://foundationcapital.com/year-one-of-generative-ai-six-key-trends) |In this post, drawing on countless founder meetings and pitch decks, we distill our first-hand learnings into six trends that have defined the generative AI space throughout 2023 and that are set to shape its trajectory in 2024. |
 |[Marketplaces in the Age of AI.](https://a16z.com/marketplaces-in-the-age-of-ai/) |For the past 20 years, marketplaces have dominated company models. This is a summary from a16z discussing their predictions on how AI would affect this kind of business. Customizing the experience for both sides of the marketplace is the main concept. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 11 - 17 December
 
