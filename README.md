@@ -43,6 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining.](https://mosaicbert.github.io/) |MosaicBERT is a custom BERT architecture optimized for fast pretraining. This study motivated many of the architecture choices around MosaicML's MPT-7B and MPT-30B models. the main architectural modifications used:FlashAttention, ALiBi,  Gated Linear Units, Low Precision LayerNorm.|
 |[Improving Text Embeddings with Large Language Models.](https://arxiv.org/abs/2401.00368) | Microsoft researchers trained a decoder-only transformer based on Mistral for embeddings using synthetic data. In the class, it is the best. Remarkably, they create the synthetic retrieval training data using GPT-4 and a two-step prompting technique.|
+|[Images altered to trick machine vision can influence humans too.](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/) |New research shows that even subtle changes to digital images, designed to confuse computer vision systems, can also affect human perception |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -59,9 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Microsoft’s Copilot app is now available on iOS.](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai) |he Microsoft Copilot app lets you ask questions, draft text, and generate images using AI. |
 |[Stuff we figured out about AI in 2023.](https://simonwillison.net/2023/Dec/31/ai-in-2023/) | This piece aims to summarize the major advancements in AI research throughout the course of 2023. It addresses a number of topics, including LLM applications, the issue of gullibility, model tweaking, and how to execute LLMs on personal devices. When used appropriately, LLMs can significantly improve the quality of life for those who use them. Although they are really rather simple to construct, many applications still find them to be unstable and there is still plenty to learn about them.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models.](https://github.com/eternityyw/gemini-commonsense-evaluation) |This study conducts a thorough evaluation of Gemini Pro's efficacy in commonsense reasoning tasks, employing a diverse array of datasets that span both language-based and multimodal scenarios. |
+|[Noise-free Optimization in Early Training Steps for Image Super-Resolution.](https://arxiv.org/abs/2312.17526v1) | By concentrating on two crucial elements—the ideal centroid of possible high-resolution images and the intrinsic noise that degrades image quality—researchers have created a novel technique that enhances single image super-resolution.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,9 +76,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[llm-course.](https://github.com/mlabonne/llm-course) |Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+|[Bash One-Liners for LLMs.](https://justine.lol/oneliners/) |A project called Llamafile combines the inference and model code into a single portable executable. In order to handle command line output further, this blog post explains how to do so. |
+|[pykoi: RLHF/RLAIF in one unified interface.](https://github.com/CambioML/pykoi) |pykoi is an open-source python library for improving LLMs with RLHF. We provide a unified interface including RLHF/RLAIF data and feedback collection, finetuning with reinforcement learning and reward modeling, and LLM comparisons. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[How IBM Sees AI Changing the Game for Companies of All Sizes with IBM’s VP of Technology and Director of Startups.](https://www.saastr.com/how-ai-is-changing-the-game-for-companies-with-ibm/) |AI technology is revolutionizing a variety of sectors' business landscapes. In this article, IBM's Director of Startups Kylie Rutherford and Vice President of Software and Technology Raj Datta discuss how artificial intelligence (AI) is transforming business for organizations of all kinds and provide several use examples for different products. |
-|[.]() | |
+|[LLMs and Programming in the first days of 2024.](http://antirez.com/news/140) | Large Language Models (LLMs) have greatly accelerated code creation and comprehension of intricate APIs or frameworks in 2023, making them indispensable for programmers. LLMs perform well at high-level Python coding and routine chores, but they are less effective at sophisticated system programming. They may also be used as a simplified form of documentation and as an effective method for increasing productivity.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
