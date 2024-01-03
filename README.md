@@ -41,8 +41,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining.](https://mosaicbert.github.io/) |MosaicBERT is a custom BERT architecture optimized for fast pretraining. This study motivated many of the architecture choices around MosaicML's MPT-7B and MPT-30B models. the main architectural modifications used:FlashAttention, ALiBi,  Gated Linear Units, Low Precision LayerNorm.|
+|[Improving Text Embeddings with Large Language Models.](https://arxiv.org/abs/2401.00368) | Microsoft researchers trained a decoder-only transformer based on Mistral for embeddings using synthetic data. In the class, it is the best. Remarkably, they create the synthetic retrieval training data using GPT-4 and a two-step prompting technique.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[How IBM Sees AI Changing the Game for Companies of All Sizes with IBM’s VP of Technology and Director of Startups.](https://www.saastr.com/how-ai-is-changing-the-game-for-companies-with-ibm/) |AI technology is revolutionizing a variety of sectors' business landscapes. In this article, IBM's Director of Startups Kylie Rutherford and Vice President of Software and Technology Raj Datta discuss how artificial intelligence (AI) is transforming business for organizations of all kinds and provide several use examples for different products. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
