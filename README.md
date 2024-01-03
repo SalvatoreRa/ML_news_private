@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stuff we figured out about AI in 2023.](https://simonwillison.net/2023/Dec/31/ai-in-2023/) | This piece aims to summarize the major advancements in AI research throughout the course of 2023. It addresses a number of topics, including LLM applications, the issue of gullibility, model tweaking, and how to execute LLMs on personal devices. When used appropriately, LLMs can significantly improve the quality of life for those who use them. Although they are really rather simple to construct, many applications still find them to be unstable and there is still plenty to learn about them.|
 |[Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models.](https://github.com/eternityyw/gemini-commonsense-evaluation) |This study conducts a thorough evaluation of Gemini Pro's efficacy in commonsense reasoning tasks, employing a diverse array of datasets that span both language-based and multimodal scenarios. |
 |[Noise-free Optimization in Early Training Steps for Image Super-Resolution.](https://arxiv.org/abs/2312.17526v1) | By concentrating on two crucial elements—the ideal centroid of possible high-resolution images and the intrinsic noise that degrades image quality—researchers have created a novel technique that enhances single image super-resolution.|
-|[.]() | |
+|[AI-created “virtual influencers” are stealing business from humans.](https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/) |Brands are turning to hyper-realistic, AI-generated influencers for promotions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
