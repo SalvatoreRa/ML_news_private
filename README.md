@@ -44,10 +44,31 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
 |---|---|
+|[Microsoft’s Copilot app is now available on iOS.](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai) |he Microsoft Copilot app lets you ask questions, draft text, and generate images using AI. |
+|[Stuff we figured out about AI in 2023.](https://simonwillison.net/2023/Dec/31/ai-in-2023/) | This piece aims to summarize the major advancements in AI research throughout the course of 2023. It addresses a number of topics, including LLM applications, the issue of gullibility, model tweaking, and how to execute LLMs on personal devices. When used appropriately, LLMs can significantly improve the quality of life for those who use them. Although they are really rather simple to construct, many applications still find them to be unstable and there is still plenty to learn about them.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -58,10 +79,34 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Perspectives
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
