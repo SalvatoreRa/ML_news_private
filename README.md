@@ -44,9 +44,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining.](https://mosaicbert.github.io/) |MosaicBERT is a custom BERT architecture optimized for fast pretraining. This study motivated many of the architecture choices around MosaicML's MPT-7B and MPT-30B models. the main architectural modifications used: FlashAttention, ALiBi,  Gated Linear Units, Low Precision LayerNorm.|
 |[Improving Text Embeddings with Large Language Models.](https://arxiv.org/abs/2401.00368) | Microsoft researchers trained a decoder-only transformer based on Mistral for embeddings using synthetic data. In the class, it is the best. Remarkably, they create the synthetic retrieval training data using GPT-4 and a two-step prompting technique.|
 |[Images altered to trick machine vision can influence humans too.](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/) |New research shows that even subtle changes to digital images, designed to confuse computer vision systems, can also affect human perception |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models.](https://arxiv.org/abs/2401.01335) | The fact that existing language models require very expensive human preference data in order to function properly is one of their main disadvantages. Determining if it is possible to have language models self-play in order to develop without gathering this data has emerged as a major area of current study. With only SFT data, a new technique called SPIN makes significant progress in that direction by significantly enhancing a basic model's performance on a variety of tasks.|
+|[Boundary Attention: Learning to Find Faint Boundaries at Any Resolution.](https://arxiv.org/abs/2401.00935) |Identifying edges and curves in pictures is a traditional computer vision challenge. Nevertheless, many existing approaches perform poorly when noise, quality changes, or out-of-distribution instances are introduced. With just 207k parameters, this newly discovered approach works very well on sensor readings. It significantly advances state of the art and employs a two-stage training procedure. |
+|[Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images.](https://arxiv.org/abs/2401.00766) | This work uses a unique temporally modulated recurrent network (TMRNet) with bracketing photography to achieve a considerable improvement in low-light photo quality. This method surpasses current multi-image processing techniques by training with synthetic data and adapting to real-world pictures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -64,8 +64,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Noise-free Optimization in Early Training Steps for Image Super-Resolution.](https://arxiv.org/abs/2312.17526v1) | By concentrating on two crucial elements—the ideal centroid of possible high-resolution images and the intrinsic noise that degrades image quality—researchers have created a novel technique that enhances single image super-resolution.|
 |[AI-created “virtual influencers” are stealing business from humans.](https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/) |Brands are turning to hyper-realistic, AI-generated influencers for promotions. |
 |[DeepMind AI outdoes human mathematicians on unsolved problem.](https://www.nature.com/articles/d41586-023-04043-w) |Large language model improves on efforts to solve combinatorics problems inspired by the card game Set. |
-|[.]() | |
-|[.]() | |
+|[Nikon, Sony and Canon fight AI fakes with new camera tech.](https://asia.nikkei.com/Business/Technology/Nikon-Sony-and-Canon-fight-AI-fakes-with-new-camera-tech) |Digital signatures to provide a way to tell real photos from deep fakes |
+|[Intel to spin out AI software firm with outside investment.](https://finance.yahoo.com/news/intel-spins-ai-software-firm-133626026.html) | Intel on Wednesday said it was forming a new independent company around its artificial intelligence software efforts with backing from digital-focused asset manager DigitalBridge Group and other investors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[llm-course.](https://github.com/mlabonne/llm-course) |Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
 |[Bash One-Liners for LLMs.](https://justine.lol/oneliners/) |A project called Llamafile combines the inference and model code into a single portable executable. In order to handle command line output further, this blog post explains how to do so. |
 |[pykoi: RLHF/RLAIF in one unified interface.](https://github.com/CambioML/pykoi) |pykoi is an open-source Python library for improving LLMs with RLHF. We provide a unified interface including RLHF/RLAIF data and feedback collection, finetuning with reinforcement learning and reward modeling, and LLM comparisons. |
-|[.]() | |
-|[.]() | |
+|[gpt-fast.](https://github.com/pytorch-labs/gpt-fast) |Simple and efficient pytorch-native transformer text generation. |
+|[TinyGPT-V.](https://github.com/DLYuanGod/TinyGPT-V) |TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones |
 |[.]() | |
 |[.]() | |
 |[.]() | |
