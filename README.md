@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models.](https://arxiv.org/abs/2401.01335) | The fact that existing language models require very expensive human preference data in order to function properly is one of their main disadvantages. Determining if it is possible to have language models self-play in order to develop without gathering this data has emerged as a major area of current study. With only SFT data, a new technique called SPIN makes significant progress in that direction by significantly enhancing a basic model's performance on a variety of tasks.|
 |[Boundary Attention: Learning to Find Faint Boundaries at Any Resolution.](https://arxiv.org/abs/2401.00935) |Identifying edges and curves in pictures is a traditional computer vision challenge. Nevertheless, many existing approaches perform poorly when noise, quality changes, or out-of-distribution instances are introduced. With just 207k parameters, this newly discovered approach works very well on sensor readings. It significantly advances state of the art and employs a two-stage training procedure. |
 |[Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images.](https://arxiv.org/abs/2401.00766) | This work uses a unique temporally modulated recurrent network (TMRNet) with bracketing photography to achieve a considerable improvement in low-light photo quality. This method surpasses current multi-image processing techniques by training with synthetic data and adapting to real-world pictures.|
-|[.]() | |
+|[Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.](https://auffusion.github.io/) | The Auffusion system presents a breakthrough in Text-to-Audio (TTA) creation, inspired by Text-to-Image diffusion models. It is quite good at turning text into high-quality audio, especially with complicated inputs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -81,10 +81,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[pykoi: RLHF/RLAIF in one unified interface.](https://github.com/CambioML/pykoi) |pykoi is an open-source Python library for improving LLMs with RLHF. We provide a unified interface including RLHF/RLAIF data and feedback collection, finetuning with reinforcement learning and reward modeling, and LLM comparisons. |
 |[gpt-fast.](https://github.com/pytorch-labs/gpt-fast) |Simple and efficient pytorch-native transformer text generation. |
 |[TinyGPT-V.](https://github.com/DLYuanGod/TinyGPT-V) |TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[sbs-generator.](https://github.com/TheWiselyBearded/sbs-generator?utm_source=tldrai) |This repository contains a framework for converting monocular videos into side-by-side (SBS) 3D videos. It utilizes a combination of image processing techniques and depth map predictions to generate separate views for each eye, creating a 3D effect when viewed with appropriate hardware. |
+|[ColBERTv2: Indexing & Search Notebook.](https://colab.research.google.com/github/stanford-futuredata/ColBERT/blob/main/docs/intro2new.ipynb) |ColBERT is a cutting-edge generation and retrieval technique. To assist readers in getting up to speed and experimenting with the technique, the authors have included a notepad. |
+|[intel-extension-for-transformers.](https://github.com/intel/intel-extension-for-transformers?utm_source=tldrai) |An Innovative Transformer-based Toolkit to Accelerate GenAI/LLM Everywhere |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,6 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Surge in number of ‘extremely productive’ authors concerns scientists.](https://www.nature.com/articles/d41586-023-03865-y) |Some researchers publish a new paper every five days, on average. Data trackers suspect not all their manuscripts were produced through honest labor. |
 |[Satellite images reveal untracked human activity on the oceans.](https://www.nature.com/articles/d41586-023-03983-7) | Machine learning and satellite imagery have been used to map industrial infrastructure at sea — from fishing vessels to wind turbines. The findings provide a more comprehensive picture of maritime activity than ever before.|
 |[Revealing the ‘Clever Hans Effect’ in AI-Driven Drug Discovery.](https://bnnbreaking.com/tech/ai-ml/revealing-the-clever-hans-effect-in-ai-driven-drug-discovery/) |In a landmark study at the University of Bonn, a team led by Prof. Dr. Jürgen Bajorath has revealed a significant finding about the role of artificial intelligence (AI) in pharmaceutical research. |
+|[What We Learned About AI and Education in 2023.](https://aisupremacy.substack.com/p/what-we-learned-about-ai-and-education) |From Disruption to Integration: AI Responsive Education in 2023 |
 |[.]() | |
 |[.]() | |
 |[.]() | |
