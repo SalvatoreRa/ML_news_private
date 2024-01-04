@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs and Programming in the first days of 2024.](http://antirez.com/news/140) | Large Language Models (LLMs) have greatly accelerated code creation and comprehension of intricate APIs or frameworks in 2023, making them indispensable for programmers. LLMs perform well at high-level Python coding and routine chores, but they are less effective at sophisticated system programming. They may also be used as a simplified form of documentation and as an effective method for increasing productivity.|
 |[Surge in number of ‘extremely productive’ authors concerns scientists.](https://www.nature.com/articles/d41586-023-03865-y) |Some researchers publish a new paper every five days, on average. Data trackers suspect not all their manuscripts were produced through honest labor. |
 |[Satellite images reveal untracked human activity on the oceans.](https://www.nature.com/articles/d41586-023-03983-7) | Machine learning and satellite imagery have been used to map industrial infrastructure at sea — from fishing vessels to wind turbines. The findings provide a more comprehensive picture of maritime activity than ever before.|
-|[.]() | |
+|[Revealing the ‘Clever Hans Effect’ in AI-Driven Drug Discovery.](https://bnnbreaking.com/tech/ai-ml/revealing-the-clever-hans-effect-in-ai-driven-drug-discovery/) |In a landmark study at the University of Bonn, a team led by Prof. Dr. Jürgen Bajorath has revealed a significant finding about the role of artificial intelligence (AI) in pharmaceutical research. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
