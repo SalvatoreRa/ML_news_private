@@ -48,6 +48,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boundary Attention: Learning to Find Faint Boundaries at Any Resolution.](https://arxiv.org/abs/2401.00935) |Identifying edges and curves in pictures is a traditional computer vision challenge. Nevertheless, many existing approaches perform poorly when noise, quality changes, or out-of-distribution instances are introduced. With just 207k parameters, this newly discovered approach works very well on sensor readings. It significantly advances state of the art and employs a two-stage training procedure. |
 |[Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images.](https://arxiv.org/abs/2401.00766) | This work uses a unique temporally modulated recurrent network (TMRNet) with bracketing photography to achieve a considerable improvement in low-light photo quality. This method surpasses current multi-image processing techniques by training with synthetic data and adapting to real-world pictures.|
 |[Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.](https://auffusion.github.io/) | The Auffusion system presents a breakthrough in Text-to-Audio (TTA) creation, inspired by Text-to-Image diffusion models. It is quite good at turning text into high-quality audio, especially with complicated inputs.|
+|[Context-Aware Interaction Network for RGB-T Semantic Segmentation.](https://arxiv.org/abs/2401.01624v1) |CAINet is an innovative technique that researchers have developed to improve RGB-T semantic segmentation, which is important for autonomous driving. This system mixes many data kinds in a unique way, emphasizing the complementary qualities and global context of each form of data. |
+|[3D-Aware Visual Question Answering about Parts, Poses and Occlusions.](https://arxiv.org/abs/2310.17914v1) |Although there has been progress in Visual Question Answering (VQA), most models focus primarily on 2D reasoning and ignore the intricacy of 3D visual settings. This study introduces 3D-aware VQA. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -69,8 +71,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Search startup Perplexity AI valued at $520 mln in funding from Bezos, Nvidia.](https://www.reuters.com/technology/perplexity-ai-valued-520-mln-funding-bezos-nvidia-2024-01-04/) |Search startup Perplexity AI has raised $73.6 million from a group of investors including Nvidia |
 |[OpenAI’s app store for GPTs will launch next week.](https://techcrunch.com/2024/01/04/openais-app-store-for-gpts-will-launch-next-week/) | OpenAI plans to launch a store for GPTs, custom apps based on its text-generating AI models (e.g. GPT-4), sometime in the coming week.|
 |[Google appears to be working on an ‘advanced’ version of Bard that you have to pay for.](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription) | Google might be on track to release a Gemini Ultra-powered Bard Advanced.|
-|[Context-Aware Interaction Network for RGB-T Semantic Segmentation.](https://arxiv.org/abs/2401.01624v1) | |
-|[3D-Aware Visual Question Answering about Parts, Poses and Occlusions.](https://arxiv.org/abs/2310.17914v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ColBERTv2: Indexing & Search Notebook.](https://colab.research.google.com/github/stanford-futuredata/ColBERT/blob/main/docs/intro2new.ipynb) |ColBERT is a cutting-edge generation and retrieval technique. To assist readers in getting up to speed and experimenting with the technique, the authors have included a notepad. |
 |[intel-extension-for-transformers.](https://github.com/intel/intel-extension-for-transformers?utm_source=tldrai) |An Innovative Transformer-based Toolkit to Accelerate GenAI/LLM Everywhere |
 |[aMUSEd: An Open MUSE Reproduction.](https://huggingface.co/papers/2401.01808) |We present aMUSEd, an open-source, lightweight masked image model (MIM) for text-to-image generation based on MUSE. With 10 percent of MUSE's parameters, aMUSEd is focused on fast image generation. |
-|[.]() | |
+|[RAGatouille.](https://github.com/bclavie/RAGatouille) | Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
