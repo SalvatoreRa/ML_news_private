@@ -66,6 +66,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMind AI outdoes human mathematicians on unsolved problem.](https://www.nature.com/articles/d41586-023-04043-w) |Large language model improves on efforts to solve combinatorics problems inspired by the card game Set. |
 |[Nikon, Sony and Canon fight AI fakes with new camera tech.](https://asia.nikkei.com/Business/Technology/Nikon-Sony-and-Canon-fight-AI-fakes-with-new-camera-tech) |Digital signatures to provide a way to tell real photos from deep fakes |
 |[Intel to spin out AI software firm with outside investment.](https://finance.yahoo.com/news/intel-spins-ai-software-firm-133626026.html) | Intel on Wednesday said it was forming a new independent company around its artificial intelligence software efforts with backing from digital-focused asset manager DigitalBridge Group and other investors.|
+|[Search startup Perplexity AI valued at $520 mln in funding from Bezos, Nvidia.](https://www.reuters.com/technology/perplexity-ai-valued-520-mln-funding-bezos-nvidia-2024-01-04/) |Search startup Perplexity AI has raised $73.6 million from a group of investors including Nvidia |
+|[OpenAI’s app store for GPTs will launch next week.](https://techcrunch.com/2024/01/04/openais-app-store-for-gpts-will-launch-next-week/) | OpenAI plans to launch a store for GPTs, custom apps based on its text-generating AI models (e.g. GPT-4), sometime in the coming week.|
+|[Google appears to be working on an ‘advanced’ version of Bard that you have to pay for.](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription) | Google might be on track to release a Gemini Ultra-powered Bard Advanced.|
+|[Context-Aware Interaction Network for RGB-T Semantic Segmentation.](https://arxiv.org/abs/2401.01624v1) | |
+|[3D-Aware Visual Question Answering about Parts, Poses and Occlusions.](https://arxiv.org/abs/2310.17914v1) | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[sbs-generator.](https://github.com/TheWiselyBearded/sbs-generator?utm_source=tldrai) |This repository contains a framework for converting monocular videos into side-by-side (SBS) 3D videos. It utilizes a combination of image processing techniques and depth map predictions to generate separate views for each eye, creating a 3D effect when viewed with appropriate hardware. |
 |[ColBERTv2: Indexing & Search Notebook.](https://colab.research.google.com/github/stanford-futuredata/ColBERT/blob/main/docs/intro2new.ipynb) |ColBERT is a cutting-edge generation and retrieval technique. To assist readers in getting up to speed and experimenting with the technique, the authors have included a notepad. |
 |[intel-extension-for-transformers.](https://github.com/intel/intel-extension-for-transformers?utm_source=tldrai) |An Innovative Transformer-based Toolkit to Accelerate GenAI/LLM Everywhere |
-|[.]() | |
+|[aMUSEd: An Open MUSE Reproduction.](https://huggingface.co/papers/2401.01808) |We present aMUSEd, an open-source, lightweight masked image model (MIM) for text-to-image generation based on MUSE. With 10 percent of MUSE's parameters, aMUSEd is focused on fast image generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
