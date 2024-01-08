@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation.]() |A human motion from text framework named GUESS has been introduced. It reduces intricate human stances to more abstract forms on several levels, resulting in a more steady and condensed synthesis of motion from text. |
 |[Learning to Prompt with Text Only Supervision for Vision-Language Models.](https://muzairkhattak.github.io/ProText/) | This project presents a technique to keep the generalization capabilities of CLIP-like vision-language models while adapting them for different tasks. Prompts are learned from LLM data, so labeled images are not necessary.|
 |[LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model.](https://arxiv.org/abs/2401.02330v1) |In this paper, we introduce LLaVA-ϕ (LLaVA-Phi), an efficient multi-modal assistant that harnesses the power of the recently advanced small language model, Phi-2, to facilitate multi-modal dialogues. |
-|[.]() | |
+|[V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs.](https://vstar-seal.github.io/) |We introduce V*, an LLM-guided visual search mechanism that employs the world knowledge in LLMs for efficient visual querying. When combined with an MLLM, this mechanism enhances collaborative reasoning, contextual understanding, and precise targeting of specific visual elements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -66,9 +66,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nabla raises another $24 million for its AI assistant for doctors that automatically writes clinical notes.](https://techcrunch.com/2024/01/05/nabla-raises-another-24-million-for-its-ai-assistant-for-doctors/) | Paris-based startup Nabla just announced that it has raised a $24 million Series B funding round led by Cathay Innovation|
 |[OpenInterpreter gets an OS mode.](https://changes.openinterpreter.com/log/the-new-computer-update) |An excellent effort that mimics OpenAI's interpreter is called Open Interpreter. It can now operate your computer using a language model by pressing buttons and seeing the screen since it has both an OS mode and a visual mode. |
 |[Wave of Apple Generative AI Tools on Track for WWDC Debut.](https://www.macrumors.com/2024/01/07/wave-of-apple-ai-tools-at-wwdc/) |Apple is on schedule to announce a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June, Bloomberg's Mark Gurman reports.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[A survey of 2,778 researchers shows how fragmented the AI science community is.](https://the-decoder.com/a-survey-of-2778-researchers-shows-how-fragmented-the-ai-science-community-is/) |The "2023 Expert Survey on Progress in AI" shows that the scientific community has no consensus on the risks and opportunities of AI, but everything is moving faster than once thought. |
+|[Microsoft’s observer has reportedly joined the OpenAI board.]() |Now Bloomberg reports that person is Microsoft vp Dee Templeton, who has been there for 25 years and leads a team responsible for managing its relationship with OpenAI.|
+|[Microsoft, OpenAI sued for copyright infringement by nonfiction book authors in class action claim.](https://www.cnbc.com/2024/01/05/microsoft-openai-sued-over-copyright-infringement-by-authors.html) |Two nonfiction book authors sued Microsoft and OpenAI in a putative class action complaint alleging that the defendants “simply stole” the writers’ copyrighted works to help build a billion-dollar artificial intelligence system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[How to Build a Thinking AI.](https://aithought.com/) |This article provides an analytical framework for how to simulate human-like thought processes within a computer. It describes how attention and memory should be structured, updated, and utilized to search for associative additions to the stream of thought. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
