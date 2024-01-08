@@ -41,6 +41,36 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+# ML news: Week 1 - 7 January
+
+## Research
+|Link|description|
+|---|---|
 |[MosaicBERT: A Bidirectional Encoder Optimized for Fast Pretraining.](https://mosaicbert.github.io/) |MosaicBERT is a custom BERT architecture optimized for fast pretraining. This study motivated many of the architecture choices around MosaicML's MPT-7B and MPT-30B models. the main architectural modifications used: FlashAttention, ALiBi,  Gated Linear Units, Low Precision LayerNorm.|
 |[Improving Text Embeddings with Large Language Models.](https://arxiv.org/abs/2401.00368) | Microsoft researchers trained a decoder-only transformer based on Mistral for embeddings using synthetic data. In the class, it is the best. Remarkably, they create the synthetic retrieval training data using GPT-4 and a two-step prompting technique.|
 |[Images altered to trick machine vision can influence humans too.](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/) |New research shows that even subtle changes to digital images, designed to confuse computer vision systems, can also affect human perception |
@@ -73,11 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google appears to be working on an ‘advanced’ version of Bard that you have to pay for.](https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription) | Google might be on track to release a Gemini Ultra-powered Bard Advanced.|
 |[LLM Training and Inference with Intel Gaudi 2 AI Accelerators.](https://www.databricks.com/blog/llm-training-and-inference-intel-gaudi2-ai-accelerators) | Excellent training throughput, flops, and decoding bandwidth are features of the new Intel processor, which is accessible for on-premise deployment across many platforms.|
 |[GitHub makes Copilot Chat generally available, letting devs ask questions about code.](https://techcrunch.com/2023/12/29/github-makes-copilot-chat-generally-available-letting-devs-ask-questions-about-code/) |GitHub’s launching Chat in general availability for all users. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -97,9 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Learning JAX as a PyTorch developer.](https://kidger.site/thoughts/torch2jax/) | Some ideas about the transition from Pytorch to Jax. This post explains nine key ideas that set Jax apart and make it effective; each is illustrated with a lovely piece of code.|
 |[Mitigating Hallucination in LLMs.](https://arxiv.org/abs/2401.01313) | A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models|
 |[If LLM Is the Wizard, Then Code Is the Wand.](https://arxiv.org/abs/2401.00812) |A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -112,15 +136,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What We Learned About AI and Education in 2023.](https://aisupremacy.substack.com/p/what-we-learned-about-ai-and-education) |From Disruption to Integration: AI Responsive Education in 2023 |
 |[The AI trust crisis.](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/) |Users worry that their data may be used to train OpenAI's models as a result of Dropbox's new AI features, even though Dropbox has denied this and has a policy requiring customer agreement for such usage. This circumstance draws attention to a larger crisis of confidence in AI and data privacy, highlighting the necessity of corporations communicating clearly and being open about how they use data. |
 |[The official OpenAI prompt engineering guide.](https://platform.openai.com/docs/guides/prompt-engineering/) | a thorough, step-by-step manual that outlines methods and techniques for improving performance with big language models such as GPT-4.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 # ML news: Week 18 - 24 December
 
