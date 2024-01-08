@@ -50,17 +50,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.](https://auffusion.github.io/) | The Auffusion system presents a breakthrough in Text-to-Audio (TTA) creation, inspired by Text-to-Image diffusion models. It is quite good at turning text into high-quality audio, especially with complicated inputs.|
 |[Context-Aware Interaction Network for RGB-T Semantic Segmentation.](https://arxiv.org/abs/2401.01624v1) |CAINet is an innovative technique that researchers have developed to improve RGB-T semantic segmentation, which is important for autonomous driving. This system mixes many data kinds in a unique way, emphasizing the complementary qualities and global context of each form of data. |
 |[3D-Aware Visual Question Answering about Parts, Poses and Occlusions.](https://arxiv.org/abs/2310.17914v1) |Although there has been progress in Visual Question Answering (VQA), most models focus primarily on 2D reasoning and ignore the intricacy of 3D visual settings. This study introduces 3D-aware VQA. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DocLLM.](https://arxiv.org/abs/2401.00908) | We present DocLLM, a lightweight extension to traditional large language models (LLMs) for reasoning over visual documents, taking into account both textual semantics and spatial layout |
+|[GPT-4V(ision) is a Generalist Web Agent.](https://arxiv.org/abs/2401.01614) | In this work, we explore the potential of LMMs like GPT-4V as a generalist web agent that can follow natural language instructions to complete tasks on any given website. |
+|[Fast Inference of Mixture-of-Experts Language Models with Offloading.]() |With the widespread adoption of Large Language Models (LLMs), many deep learning practitioners are looking for strategies for running these models more efficiently. One such strategy is to use a sparse mixture of experts (MoE). In this work, we study the problem of running large MoE language models on consumer hardware with limited accelerator memory. |
+|[LLM Augmented LLMs: Expanding Capabilities through Composition.](https://arxiv.org/abs/2401.02412) |investigate combining specialized models with preexisting foundation models to increase capabilities; introduce cross-attention between models to combine representations that allow for new capabilities. For instance, a PaLM2-S model was enhanced with a smaller model trained on low-resource languages to enhance English translation and arithmetic reasoning for low-resource languages; this was also accomplished with a code-specific model that produced a 40% improvement in code generation and explanation tasks compared to the base code model. |
+|[LLaMA Pro.](https://arxiv.org/abs/2401.02415) |provides a post-pretraining technique to enhance an LLM's knowledge without causing catastrophic forgetting; it does this by freezing the inherited blocks and tuning expanded identity blocks using only new corpus; trains an LLaMA Pro-8.3B initialized from Llama2-7B using code and math data; these models outperform base models on a variety of benchmarks while maintaining the original general capabilities. |
+|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models.](https://arxiv.org/abs/2401.01335) | demonstrates that a supervised fine-tuned LLM can be made better without needing to obtain more human-annotated data. Drawing inspiration from self-play, it uses the LLM to create its training data from prior iterations, then refines its policy by separating the responses it generated from the human-annotated data. This shows that the method can make the LLM perform better and outperform models trained via DPO with GPT-4 preference data.|
 
 ## News
 |Link|description|
 |---|---|
-|[Microsoft’s Copilot app is now available on iOS.](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai) | the Microsoft Copilot app lets you ask questions, draft text, and generate images using AI. |
+|[Microsoft’s Copilot app is now available on iOS.](https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai) | The Microsoft Copilot app lets you ask questions, draft text, and generate images using AI. |
 |[Stuff we figured out about AI in 2023.](https://simonwillison.net/2023/Dec/31/ai-in-2023/) | This piece aims to summarize the major advancements in AI research throughout the course of 2023. It addresses a number of topics, including LLM applications, the issue of gullibility, model tweaking, and how to execute LLMs on personal devices. When used appropriately, LLMs can significantly improve the quality of life for those who use them. Although they are really rather simple to construct, many applications still find them to be unstable and there is still plenty to learn about them.|
 |[Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models.](https://github.com/eternityyw/gemini-commonsense-evaluation) |This study conducts a thorough evaluation of Gemini Pro's efficacy in commonsense reasoning tasks, employing a diverse array of datasets that span both language-based and multimodal scenarios. |
 |[Noise-free Optimization in Early Training Steps for Image Super-Resolution.](https://arxiv.org/abs/2312.17526v1) | By concentrating on two crucial elements—the ideal centroid of possible high-resolution images and the intrinsic noise that degrades image quality—researchers have created a novel technique that enhances single image super-resolution.|
@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ODTrack.](https://github.com/gxnu-zhonglab/odtrack) |ODTrack is a simple, flexible, and effective video-level tracking pipeline, which densely associates the contextual relationships of video frames in an online token propagation manner.  |
 |[ARLib.](https://github.com/coderwzw/arlib) |An open-source framework for conducting data poisoning attacks on recommendation systems, designed to assist researchers and practitioners. |
 |[Learning JAX as a PyTorch developer.](https://kidger.site/thoughts/torch2jax/) | Some ideas about the transition from Pytorch to Jax. This post explains nine key ideas that set Jax apart and make it effective; each is illustrated with a lovely piece of code.|
-|[.]() | |
-|[.]() | |
+|[Mitigating Hallucination in LLMs.](https://arxiv.org/abs/2401.01313) | A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models|
+|[If LLM Is the Wizard, Then Code Is the Wand.](https://arxiv.org/abs/2401.00812) |A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents |
 |[.]() | |
 |[.]() | |
 |[.]() | |
