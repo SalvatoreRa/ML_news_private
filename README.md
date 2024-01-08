@@ -41,9 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation.]() |A human motion from text framework named GUESS has been introduced. It reduces intricate human stances to more abstract forms on several levels, resulting in a more steady and condensed synthesis of motion from text. |
+|[Learning to Prompt with Text Only Supervision for Vision-Language Models.](https://muzairkhattak.github.io/ProText/) | This project presents a technique to keep the generalization capabilities of CLIP-like vision-language models while adapting them for different tasks. Prompts are learned from LLM data, so labeled images are not necessary.|
+|[LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model.](https://arxiv.org/abs/2401.02330v1) |In this paper, we introduce LLaVA-ϕ (LLaVA-Phi), an efficient multi-modal assistant that harnesses the power of the recently advanced small language model, Phi-2, to facilitate multi-modal dialogues. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,9 +88,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Steering Llama-2 with contrastive activation additions.](https://www.alignmentforum.org/posts/v7f8ayBxLhmMFRzpa/steering-llama-2-with-contrastive-activation-additions) | By just adding e.g. a "sycophancy vector" to one bias term, we outperform supervised finetuning and few-shot prompting at steering completions to be more or less sycophantic. Furthermore, these techniques are complementary: we show evidence that we can get all three benefits at once!|
+|[DiffusionEdge.](https://github.com/guhuangai/diffusionedge) | DiffusionEdge is an innovative edge detection model that works better than current techniques. Through the integration of a diffusion probabilistic model, DiffusionEdge produces resource-efficient edge maps that are more precise and clean.|
+|[Transformers From Scratch.](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) | In this blog we’re going to walk through creating and training a transformer from scratch. We’ll go through each foundational element step by step and explain what is happening along the way.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
