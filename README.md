@@ -63,9 +63,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Nabla raises another $24 million for its AI assistant for doctors that automatically writes clinical notes.](https://techcrunch.com/2024/01/05/nabla-raises-another-24-million-for-its-ai-assistant-for-doctors/) | Paris-based startup Nabla just announced that it has raised a $24 million Series B funding round led by Cathay Innovation|
+|[OpenInterpreter gets an OS mode.](https://changes.openinterpreter.com/log/the-new-computer-update) |An excellent effort that mimics OpenAI's interpreter is called Open Interpreter. It can now operate your computer using a language model by pressing buttons and seeing the screen since it has both an OS mode and a visual mode. |
+|[Wave of Apple Generative AI Tools on Track for WWDC Debut.](https://www.macrumors.com/2024/01/07/wave-of-apple-ai-tools-at-wwdc/) |Apple is on schedule to announce a series of generative AI-based tools at its Worldwide Developers Conference (WWDC) in June, Bloomberg's Mark Gurman reports.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
