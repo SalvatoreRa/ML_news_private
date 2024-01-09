@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Steering Llama-2 with contrastive activation additions.](https://www.alignmentforum.org/posts/v7f8ayBxLhmMFRzpa/steering-llama-2-with-contrastive-activation-additions) | By just adding e.g. a "sycophancy vector" to one bias term, we outperform supervised finetuning and few-shot prompting at steering completions to be more or less sycophantic. Furthermore, these techniques are complementary: we show evidence that we can get all three benefits at once!|
 |[DiffusionEdge.](https://github.com/guhuangai/diffusionedge) | DiffusionEdge is an innovative edge detection model that works better than current techniques. Through the integration of a diffusion probabilistic model, DiffusionEdge produces resource-efficient edge maps that are more precise and clean.|
 |[Transformers From Scratch.](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) | In this blog we’re going to walk through creating and training a transformer from scratch. We’ll go through each foundational element step by step and explain what is happening along the way.|
-|[.]() | |
+|[Merge Large Language Models with mergekit.](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) | Model merging is a technique that combines two or more LLMs into a single model. It’s a relatively new and experimental method to create new models for cheap (no GPU required). Model merging works surprisingly well and produced many state-of-the-art models on the Open LLM Leaderboard. In this tutorial, we will implement it using the mergekit library. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
