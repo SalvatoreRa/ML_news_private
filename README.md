@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Integrating CLIP and SAM for Enhanced Image Segmentation.](https://www.mmlab-ntu.com/project/ovsam/) |In order to enhance picture segmentation and identification, this research presents the Open-Vocabulary SAM, a framework that combines the advantages of CLIP and SAM models. |
 |[Diffusion Models for Reinforcement Learning: A Survey.](https://github.com/apexrl/diff4rlsurvey) | Diffusion models' contribution to RL. Their applications are categorized in this repository, which also provides links to upcoming interdisciplinary research opportunities.|
 |[tinygrad.](https://github.com/tinygrad/tinygrad) | A very simple implementation of inference of the new Mistral MoE model using the Tinygrad library.|
-|[.]() | |
+|[YouTube Transcripts → Knowledge Graphs for RAG Applications.](https://medium.com/@a-gilmore/youtube-transcripts-knowledge-graphs-for-rag-applications-2cc790543d4b) | how to scrape YouTube video transcripts into a knowledge graph for Retrieval Augmented Generation (RAG) applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
