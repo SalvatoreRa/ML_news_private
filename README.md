@@ -45,9 +45,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Learning to Prompt with Text Only Supervision for Vision-Language Models.](https://muzairkhattak.github.io/ProText/) | This project presents a technique to keep the generalization capabilities of CLIP-like vision-language models while adapting them for different tasks. Prompts are learned from LLM data, so labeled images are not necessary.|
 |[LLaVA-ϕ: Efficient Multi-Modal Assistant with Small Language Model.](https://arxiv.org/abs/2401.02330v1) |In this paper, we introduce LLaVA-ϕ (LLaVA-Phi), an efficient multi-modal assistant that harnesses the power of the recently advanced small language model, Phi-2, to facilitate multi-modal dialogues. |
 |[V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs.](https://vstar-seal.github.io/) |We introduce V*, an LLM-guided visual search mechanism that employs the world knowledge in LLMs for efficient visual querying. When combined with an MLLM, this mechanism enhances collaborative reasoning, contextual understanding, and precise targeting of specific visual elements. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DeepSeek LLM: Scaling Open-Source Language Models with Longtermism.](https://arxiv.org/abs/2401.02954) |The DeepSeek LLM was one of the greatest coding models available last year. In several benchmarks, it achieved closeness to GPT-3.5 (despite being probably three times larger). A technical study has been made public with details on model training, token counts, model architecture, and other topics. |
+|[Denoising Vision Transformers.](https://arxiv.org/abs/2401.02957) |The vision community has been overtaken by Vision Transformers (ViT). They occasionally still exhibit artifacts in their embeddings that resemble grids. The community is reluctant to use them for jobs that come after because of this. This study suggests a positional embeddings update that fixes this problem and provides a 25%+ performance gain for downstream vision tasks. |
+|[FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF.](https://arxiv.org/abs/2401.02616v1) | A new stabilizer for smooth temporal coherence and GAN-NeRF technology for 3D consistency have been used by researchers to create a facial video editing architecture. This technique works well for editing videos since it keeps viewpoints constant and makes frame transitions smooth.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -69,9 +69,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A survey of 2,778 researchers shows how fragmented the AI science community is.](https://the-decoder.com/a-survey-of-2778-researchers-shows-how-fragmented-the-ai-science-community-is/) |The "2023 Expert Survey on Progress in AI" shows that the scientific community has no consensus on the risks and opportunities of AI, but everything is moving faster than once thought. |
 |[Microsoft’s observer has reportedly joined the OpenAI board.]() |Now Bloomberg reports that person is Microsoft vp Dee Templeton, who has been there for 25 years and leads a team responsible for managing its relationship with OpenAI.|
 |[Microsoft, OpenAI sued for copyright infringement by nonfiction book authors in class action claim.](https://www.cnbc.com/2024/01/05/microsoft-openai-sued-over-copyright-infringement-by-authors.html) |Two nonfiction book authors sued Microsoft and OpenAI in a putative class action complaint alleging that the defendants “simply stole” the writers’ copyrighted works to help build a billion-dollar artificial intelligence system. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI and journalism.](https://openai.com/blog/openai-and-journalism) |In response to The New York Times lawsuit, OpenAI emphasized working with news organizations, asserted that using public content for AI training is fair use, pledged to stop using rare content repeatedly in their models, and expressed surprise at the lawsuit considering their continuous efforts to address issues. |
+|[Getty and Nvidia bring generative AI to stock photos.](https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos) | Generative AI by iStock lets users make their own stock photos from text prompts.|
+|[Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years.](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs) | Microsoft wants 2024 to be the year of the AI PC as it lines up bigger changes to Windows.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,12 +93,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Transformers From Scratch.](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) | In this blog we’re going to walk through creating and training a transformer from scratch. We’ll go through each foundational element step by step and explain what is happening along the way.|
 |[Merge Large Language Models with mergekit.](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) | Model merging is a technique that combines two or more LLMs into a single model. It’s a relatively new and experimental method to create new models for cheap (no GPU required). Model merging works surprisingly well and produced many state-of-the-art models on the Open LLM Leaderboard. In this tutorial, we will implement it using the mergekit library. |
 |[Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory.](https://arxiv.org/abs/2310.20360) | This book aims to provide an introduction to the topic of deep learning algorithms. We review essential components of deep learning algorithms in full mathematical detail including different artificial neural network (ANN) architectures and different optimization algorithms|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Portkey's AI Gateway.](https://github.com/Portkey-AI/gateway) | is the interface between your app and hosted LLMs. It streamlines API requests to OpenAI, Anthropic, Mistral, LLama2, Anyscale, Google Gemini and more with a unified API.|
+|[act-plus-plus.](https://github.com/MarkFzp/act-plus-plus) | Imitation Learning algorithms and Co-training for Mobile ALOHA|
+|[crewAI.](https://github.com/joaomdmoura/crewAI) |  Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.|
+|[Integrating CLIP and SAM for Enhanced Image Segmentation.](https://www.mmlab-ntu.com/project/ovsam/) |In order to enhance picture segmentation and identification, this research presents the Open-Vocabulary SAM, a framework that combines the advantages of CLIP and SAM models. |
+|[Diffusion Models for Reinforcement Learning: A Survey.](https://github.com/apexrl/diff4rlsurvey) | Diffusion models' contribution to RL. Their applications are categorized in this repository, which also provides links to upcoming interdisciplinary research opportunities.|
+|[tinygrad.](https://github.com/tinygrad/tinygrad) | A very simple implementation of inference of the new Mistral MoE model using the Tinygrad library.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[How to Build a Thinking AI.](https://aithought.com/) |This article provides an analytical framework for how to simulate human-like thought processes within a computer. It describes how attention and memory should be structured, updated, and utilized to search for associative additions to the stream of thought. |
-|[.]() | |
+|[The New York Times’ AI Opportunity.](https://stratechery.com/2024/the-new-york-times-ai-opportunity) | In its case against OpenAI and Microsoft, the New York Times alleges that the companies' AI technologies—ChatGPT among them—were trained on millions of copyrighted articles from the newspaper, resulting in outputs that are directly competitive with the Times' services. The lawsuit challenges the legality of AI training practices and the effects of AI on traditional content creators, claiming that this amounts to copyright infringement and jeopardizes the newspaper's investment in journalism. It also demands the destruction of AI models and data that used Times content, along with billions of dollars in damages.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
