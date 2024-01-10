@@ -48,9 +48,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek LLM: Scaling Open-Source Language Models with Longtermism.](https://arxiv.org/abs/2401.02954) |The DeepSeek LLM was one of the greatest coding models available last year. In several benchmarks, it achieved closeness to GPT-3.5 (despite being probably three times larger). A technical study has been made public with details on model training, token counts, model architecture, and other topics. |
 |[Denoising Vision Transformers.](https://arxiv.org/abs/2401.02957) |The vision community has been overtaken by Vision Transformers (ViT). They occasionally still exhibit artifacts in their embeddings that resemble grids. The community is reluctant to use them for jobs that come after because of this. This study suggests a positional embeddings update that fixes this problem and provides a 25%+ performance gain for downstream vision tasks. |
 |[FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF.](https://arxiv.org/abs/2401.02616v1) | A new stabilizer for smooth temporal coherence and GAN-NeRF technology for 3D consistency have been used by researchers to create a facial video editing architecture. This technique works well for editing videos since it keeps viewpoints constant and makes frame transitions smooth.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[A Minimaximalist Approach to Reinforcement Learning from Human Feedback.](https://arxiv.org/abs/2401.04056) |Self-Play Preference Optimization (SPO), a less complex alignment method than conventional RLHF, has been presented by Google researchers. Using game theory, the researchers were able to develop single-player self-play dynamics that provide good performance and are resilient to noisy preferences. |
+|[Mixtral of Experts.](https://arxiv.org/abs/2401.04088) | We introduce Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model. Mixtral has the same architecture as Mistral 7B, with the difference that each layer is composed of 8 feedforward blocks (i.e. experts). |
+|[GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation.](https://arxiv.org/abs/2401.04092v1) |The constraints of existing single-criterion measures have been addressed by researchers with the development of a new assessment metric for text-to-3D generative models. This sophisticated technique compares 3D objects and generates prompts using GPT-4V. It is very compatible with human tastes and provides flexibility by adjusting to different user-specified requirements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -72,10 +72,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI and journalism.](https://openai.com/blog/openai-and-journalism) |In response to The New York Times lawsuit, OpenAI emphasized working with news organizations, asserted that using public content for AI training is fair use, pledged to stop using rare content repeatedly in their models, and expressed surprise at the lawsuit considering their continuous efforts to address issues. |
 |[Getty and Nvidia bring generative AI to stock photos.](https://www.theverge.com/2024/1/8/24027259/getty-images-nvidia-generative-ai-stock-photos) | Generative AI by iStock lets users make their own stock photos from text prompts.|
 |[Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years.](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs) | Microsoft wants 2024 to be the year of the AI PC as it lines up bigger changes to Windows.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Rabbit foundation model and computer.](https://www.rabbit.tech/keynote) |Large action model (LAM) developed by Rabbit was designed to work with the R1 pocket companion computer. Almost fully driven by its LAM, the company's R1 gadget is a reimagining of the computer and smartphone. |
+|[OpenAI’s news publisher deals reportedly top out at $5 million a year.](https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright) | The ChatGPT company has been trying to get more news organizations to sign licensing deals to train AI models.|
+|[Intel: ‘We are bringing the AI PC to the car’.](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces) | The chip company is doubling down on its auto business, introducing a new AI-enhanced system-on-a-chip for cars. The first company to install it will be Zeekr.|
+|[Self-emerging Token Labeling.](https://github.com/NVlabs/STL) | Using a novel self-emerging token labeling (STL) framework, researchers have made a substantial development for Vision Transformers (ViTs) by improving the resilience of the Fully Attentional Network (FAN) models. Using this method, a FAN student model is trained after a FAN token labeler has been trained to produce relevant patch token labels.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion Models for Reinforcement Learning: A Survey.](https://github.com/apexrl/diff4rlsurvey) | Diffusion models' contribution to RL. Their applications are categorized in this repository, which also provides links to upcoming interdisciplinary research opportunities.|
 |[tinygrad.](https://github.com/tinygrad/tinygrad) | A very simple implementation of inference of the new Mistral MoE model using the Tinygrad library.|
 |[YouTube Transcripts → Knowledge Graphs for RAG Applications.](https://medium.com/@a-gilmore/youtube-transcripts-knowledge-graphs-for-rag-applications-2cc790543d4b) | how to scrape YouTube video transcripts into a knowledge graph for Retrieval Augmented Generation (RAG) applications. |
-|[.]() | |
-|[.]() | |
+|[AI Toolkit.](https://github.com/linkdd/aitoolkit) | AI Toolkit is a header-only C++ library which provides tools for building the brain of your game's NPCs.|
+|[SpeechAgents.](https://0nutation.github.io/SpeechAgents.github.io/) |SpeechAgents is a multi-modal artificial intelligence system that can very realistically mimic human speech. With the use of a multi-modal LLM, this system can manage up to 25 agents. Its ability to imitate human language, complete with constant substance, realistic rhythms, and emotive emotions, suggests that it has promise for use in plays and audio books. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
