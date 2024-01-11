@@ -55,6 +55,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning.](https://github.com/gersteinlab/medagents) |We propose a Multi-disciplinary Collaboration (MC) framework. The framework works in five stages: (i) expert gathering: gather experts from distinct disciplines according to the clinical question; (ii) analysis proposition: domain experts put forward their own analysis with their expertise; (iii) report summarization: compose a summarized report on the basis of a previous series of analyses; (iv) collaborative consultation: engage the experts in discussions over the summarized report. The report will be revised iteratively until an agreement from all the experts is reached; (v) decision making: derive a final decision from the unanimous report. |
 |[DiffBody: Diffusion-based Pose and Shape Editing of Human Images.](https://www.cgg.cs.tsukuba.ac.jp/~okuyama/pub/diffbody/index.html) | This study presents a one-shot approach to human image editing that allows for substantial body form and position modifications without compromising the subject's identification.|
 |[LLaMA Beyond English: An Empirical Study on Language Capability Transfer.](https://huggingface.co/papers/2401.01055) |  Our evaluation results demonstrate that comparable performance to state-of-the-art transfer models can be achieved with less than 1% of the pretraining data, both in terms of knowledge alignment and response quality.|
+|[Masked Audio Generation using a Single Non-Autoregressive Transformer.](https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/) |The majority of audio creation methods produce sounds by diffusion or an auto-regressive model. This study does not employ a complex Transformer or several stages. Rather, it employs an obscured language model on top of audio tokens. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -77,6 +81,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s news publisher deals reportedly top out at $5 million a year.](https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright) | The ChatGPT company has been trying to get more news organizations to sign licensing deals to train AI models.|
 |[Intel: ‘We are bringing the AI PC to the car’.](https://www.theverge.com/2024/1/9/24026990/intel-auto-car-ai-pc-soc-sdv-zeekr-ces) | The chip company is doubling down on its auto business, introducing a new AI-enhanced system-on-a-chip for cars. The first company to install it will be Zeekr.|
 |[AlphaFold’s Latest Strides: Improved Accuracy for Antibody-Antigen Complex Modeling.](https://cbirt.net/alphafolds-latest-strides-improved-accuracy-for-antibody-antigen-complex-modeling/) | A new study from the University of Maryland evaluates its accuracy and provides new insights into the factors influencing protein modeling.|
+|[Introducing the GPT Store.](https://openai.com/blog/introducing-the-gpt-store) | OpenAI has launched the GPT store, which allows developers to get paid by building these agents. The company plans to feature GPTs every week.|
+|[Regulators aren’t convinced that Microsoft and OpenAI operate independently.](https://arstechnica.com/tech-policy/2024/01/regulators-arent-convinced-that-microsoft-and-openai-operate-independently/) | EU is fielding comments on potential market harms of Microsoft's investments.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,12 +112,20 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Toolkit.](https://github.com/linkdd/aitoolkit) | AI Toolkit is a header-only C++ library which provides tools for building the brain of your game's NPCs.|
 |[SpeechAgents.](https://0nutation.github.io/SpeechAgents.github.io/) |SpeechAgents is a multi-modal artificial intelligence system that can very realistically mimic human speech. With the use of a multi-modal LLM, this system can manage up to 25 agents. Its ability to imitate human language, complete with constant substance, realistic rhythms, and emotive emotions, suggests that it has promise for use in plays and audio books. |
 |[Model Card for Switch Transformers C - 2048 experts (1.6T parameters for 3.1 TB).](https://huggingface.co/google/switch-c-2048) |Google's switch transformer was among the first Mixture-of-Experts models to achieve success. It can now be found on the HuggingFace platform with code. |
+|[Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL.](https://huggingface.co/blog/unsloth-trl) | Pulling your hair out because LLM fine-tuning is taking forever? In this post, we introduce a lightweight tool developed by the community to make LLM fine-tuning go super fast!|
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
