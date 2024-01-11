@@ -119,10 +119,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Part One: One-Year Anniversary of ChatGPT. Has AI Become the New Tech Platform?.](https://twang.substack.com/p/part-one-one-year-anniversary-of) | The "Anatomy Framework", a tool for evaluating the disruptive potential of any breakthrough, including artificial intelligence, is introduced in this article. It examines innovation from five perspectives: apps, tools, core platform, underlying infrastructure, and ecosystem facilitators. It also covers the role of innovators, both new and established, and the innovation medium (hardware vs. software).|
 |[There are holes in Europe’s AI Act — and researchers can help to fill them.](https://www.nature.com/articles/d41586-024-00029-4) |Scientists have been promised a front-row seat for the formulation of the EU’s proposed AI regulatory structures. They should seize this opportunity to bridge some big gaps. |
 |[The science events to watch for in 2024.](https://www.nature.com/articles/d41586-023-04044-9) |Advanced AI tools, Moon missions and ultrafast supercomputers are among the developments set to shape research in the coming year. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Will superintelligent AI sneak up on us? New study offers reassurance.](https://www.nature.com/articles/d41586-023-04094-z) |Improvements in the performance of large language models such as ChatGPT are more predictable than they seem. |
+|[AI consciousness: scientists say we urgently need answers.](https://www.nature.com/articles/d41586-023-04047-6) |Researchers call for more funding to study the boundary between conscious and unconscious systems. |
+|[AI could transform metal recycling globally.](https://www.nature.com/articles/d41586-024-00022-x) |Metal recycling needs to become more cost-efficient because it is a crucial contributor to the global circular economy and the transition to renewable energy.  |
+|[Can AI make genuine theoretical discoveries?.]() | When Nature included ChatGPT alongside its list of ten people who helped to shape science in 2023, it seemed deliberately provocative|
 |[.]() | |
 |[.]() | |
 |[.]() | |
