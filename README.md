@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiffBody: Diffusion-based Pose and Shape Editing of Human Images.](https://www.cgg.cs.tsukuba.ac.jp/~okuyama/pub/diffbody/index.html) | This study presents a one-shot approach to human image editing that allows for substantial body form and position modifications without compromising the subject's identification.|
 |[LLaMA Beyond English: An Empirical Study on Language Capability Transfer.](https://huggingface.co/papers/2401.01055) |  Our evaluation results demonstrate that comparable performance to state-of-the-art transfer models can be achieved with less than 1% of the pretraining data, both in terms of knowledge alignment and response quality.|
 |[Masked Audio Generation using a Single Non-Autoregressive Transformer.](https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/) |The majority of audio creation methods produce sounds by diffusion or an auto-regressive model. This study does not employ a complex Transformer or several stages. Rather, it employs an obscured language model on top of audio tokens. |
-|[.]() | |
+|[TechGPT-2.0: A large language model project to solve the task of knowledge graph construction.](https://arxiv.org/abs/2401.04507v1) |TechGPT-2.0 improves on big language models for particular applications, such as building knowledge graphs. With its emphasis on relationship triple extraction and named entity identification, the project also represents a major advancement for the Chinese open-source AI community. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SpeechAgents.](https://0nutation.github.io/SpeechAgents.github.io/) |SpeechAgents is a multi-modal artificial intelligence system that can very realistically mimic human speech. With the use of a multi-modal LLM, this system can manage up to 25 agents. Its ability to imitate human language, complete with constant substance, realistic rhythms, and emotive emotions, suggests that it has promise for use in plays and audio books. |
 |[Model Card for Switch Transformers C - 2048 experts (1.6T parameters for 3.1 TB).](https://huggingface.co/google/switch-c-2048) |Google's switch transformer was among the first Mixture-of-Experts models to achieve success. It can now be found on the HuggingFace platform with code. |
 |[Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL.](https://huggingface.co/blog/unsloth-trl) | Pulling your hair out because LLM fine-tuning is taking forever? In this post, we introduce a lightweight tool developed by the community to make LLM fine-tuning go super fast!|
-|[.]() | |
-|[.]() | |
+|[distilabel Orca Pairs for DPO.](https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs) | a novel technique that makes it possible to filter excellent pair preferences for alignment. It significantly raises the performance of the baseline model.|
+|[Chatbot UI.](https://github.com/mckaywrigley/chatbot-ui) |The open-source AI chat app for everyone. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
