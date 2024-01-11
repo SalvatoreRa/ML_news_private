@@ -83,9 +83,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AlphaFold’s Latest Strides: Improved Accuracy for Antibody-Antigen Complex Modeling.](https://cbirt.net/alphafolds-latest-strides-improved-accuracy-for-antibody-antigen-complex-modeling/) | A new study from the University of Maryland evaluates its accuracy and provides new insights into the factors influencing protein modeling.|
 |[Introducing the GPT Store.](https://openai.com/blog/introducing-the-gpt-store) | OpenAI has launched the GPT store, which allows developers to get paid by building these agents. The company plans to feature GPTs every week.|
 |[Regulators aren’t convinced that Microsoft and OpenAI operate independently.](https://arstechnica.com/tech-policy/2024/01/regulators-arent-convinced-that-microsoft-and-openai-operate-independently/) | EU is fielding comments on potential market harms of Microsoft's investments.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Your private AI can have eyes. Ollama with the LLaVA model.](https://benyoung.blog/your-private-ai-can-have-eyes-ollama-with-the-llava-model) | Vision models are now supported by Ollama. With Llava, you may enjoy cutting-edge language and vision performance on your MacBook Pro.|
+|[OpenAI debuts ChatGPT subscription aimed at small teams.](https://techcrunch.com/2024/01/10/openai-launches-chatgpt-subscription-aimed-at-small-teams/) |OpenAI is launching a new subscription plan for ChatGPT, its viral AI-powered chatbot, aimed at smaller, self-service-oriented teams. |
+|[Valve now allows the “vast majority” of AI-powered games on Steam.](https://arstechnica.com/gaming/2024/01/valve-most-games-made-with-ai-tools-are-now-welcome-on-steam/) |New reporting system will enforce "guardrails" for "live-generated" AI content. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,8 +140,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI consciousness: scientists say we urgently need answers.](https://www.nature.com/articles/d41586-023-04047-6) |Researchers call for more funding to study the boundary between conscious and unconscious systems. |
 |[AI could transform metal recycling globally.](https://www.nature.com/articles/d41586-024-00022-x) |Metal recycling needs to become more cost-efficient because it is a crucial contributor to the global circular economy and the transition to renewable energy.  |
 |[Can AI make genuine theoretical discoveries?.]() | When Nature included ChatGPT alongside its list of ten people who helped to shape science in 2023, it seemed deliberately provocative|
-|[.]() | |
-|[.]() | |
+|[AI and the Future of SaaS.](https://thebootstrappedfounder.com/ai-and-the-future-of-saas/) |Today, let’s look into the crystal ball and see a few opportunities, challenges, and threats that AI systems may pose for software entrepreneurs and creators. |
+|[Benchmarking GPT-4 Turbo - A Cautionary Tale.](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale) |GPT-4 Turbo came up slightly behind at 68.8%, while GPT-4 successfully finished 70% of the programming tasks. It's interesting to note that GPT-4 Turbo needed more tries than GPT-4, which may indicate that it lacks GPT-4's memory power. An further test supported this. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
