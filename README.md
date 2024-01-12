@@ -86,6 +86,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Your private AI can have eyes. Ollama with the LLaVA model.](https://benyoung.blog/your-private-ai-can-have-eyes-ollama-with-the-llava-model) | Vision models are now supported by Ollama. With Llava, you may enjoy cutting-edge language and vision performance on your MacBook Pro.|
 |[OpenAI debuts ChatGPT subscription aimed at small teams.](https://techcrunch.com/2024/01/10/openai-launches-chatgpt-subscription-aimed-at-small-teams/) |OpenAI is launching a new subscription plan for ChatGPT, its viral AI-powered chatbot, aimed at smaller, self-service-oriented teams. |
 |[Valve now allows the “vast majority” of AI-powered games on Steam.](https://arstechnica.com/gaming/2024/01/valve-most-games-made-with-ai-tools-are-now-welcome-on-steam/) |New reporting system will enforce "guardrails" for "live-generated" AI content. |
+|[marc newson designs swarovski's world-first AI binoculars that identify species on their own.](https://www.designboom.com/technology/marc-newson-swarovski-optik-world-first-ai-binoculars-ax-visio-ces-2024-01-11-2024/) | the dubbed world’s first AI-supported binoculars that using their high-performance analog long-range optics and digital intelligence, they can detect and identify more than 9,000 birds and other wildlife at a touch of a button.|
+|[Google Cloud launches new generative AI tools for retailers.](https://www.cnbc.com/2024/01/11/google-cloud-launches-new-generative-ai-tools-for-retailers.html) |Google launched several new AI tools for retailers to improve online shopping experiences and other retail operations. |
+|[Amazon’s Alexa gets new generative AI-powered experiences.](https://techcrunch.com/2024/01/09/amazons-alexa-gets-new-generative-ai-powered-experiences/) |Today, the company revealed three developers delivering new generative AI-powered Alexa experiences, including AI chatbot platform Character.AI, AI music company Splash and Voice AI game developer Volley. All three experiences are available in the Amazon Alexa Skill Store. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,6 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+
 
 ## Resources
 |Link|description|
