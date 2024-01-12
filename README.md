@@ -57,9 +57,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLaMA Beyond English: An Empirical Study on Language Capability Transfer.](https://huggingface.co/papers/2401.01055) |  Our evaluation results demonstrate that comparable performance to state-of-the-art transfer models can be achieved with less than 1% of the pretraining data, both in terms of knowledge alignment and response quality.|
 |[Masked Audio Generation using a Single Non-Autoregressive Transformer.](https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/) |The majority of audio creation methods produce sounds by diffusion or an auto-regressive model. This study does not employ a complex Transformer or several stages. Rather, it employs an obscured language model on top of audio tokens. |
 |[TechGPT-2.0: A large language model project to solve the task of knowledge graph construction.](https://arxiv.org/abs/2401.04507v1) |TechGPT-2.0 improves on big language models for particular applications, such as building knowledge graphs. With its emphasis on relationship triple extraction and named entity identification, the project also represents a major advancement for the Chinese open-source AI community. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Long-Context Retrieval Models with Monarch Mixer.](https://hazyresearch.stanford.edu/blog/2024-01-11-m2-bert-retrieval) |Compute has been investigating a variety of substitutes for Transformers. It has published a retrieval model for retrieval tasks that performs better than a lot of closed embedding models. |
+|[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting.](https://arxiv.org/abs/2310.11324) | It is shown that, depending on the prompt, prompting models for a small set of shot benchmarks can provide task accuracy ranging from 4 to 88%. This study demonstrates how to enhance your prompts in a scientific way.|
+|[Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects.](https://arxiv.org/abs/2401.05055v1) | An extensive review of deep learning's application to blind motion deblurring—a crucial field in computer vision—is provided in this work. It covers everything from fundamental ideas and the drawbacks of conventional approaches to a thorough analysis of contemporary strategies including CNNs, GANs, RNNs, and Transformers.|
+|[Singer Identity Representation Learning using Self-Supervised Techniques.](https://arxiv.org/abs/2401.05064v1) | A new framework has been created by researchers to examine and comprehend singing voices more thoroughly. By applying self-supervised learning on isolated vocal records and focusing on out-of-domain generalization, they achieved progress in tasks like singing voice similarity and synthesis, improving upon current technology.|
+|[Towards the Law of Capacity Gap in Distilling Language Models.](https://github.com/genezc/minima) | Language model (LM) distillation is a trending area that aims to distil the knowledge resided in a large teacher LM to a small student one. he law later guides us to distil a 3B student LM (termed MiniMA) from a 7B teacher LM (adapted LLaMA2-7B). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,7 +122,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL.](https://huggingface.co/blog/unsloth-trl) | Pulling your hair out because LLM fine-tuning is taking forever? In this post, we introduce a lightweight tool developed by the community to make LLM fine-tuning go super fast!|
 |[distilabel Orca Pairs for DPO.](https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs) | a novel technique that makes it possible to filter excellent pair preferences for alignment. It significantly raises the performance of the baseline model.|
 |[Chatbot UI.](https://github.com/mckaywrigley/chatbot-ui) |The open-source AI chat app for everyone. |
-|[.]() | |
+|[explain-then-translate.](https://github.com/pootiet/explain-then-translate) |We propose 2-stage Chain-of-Thought (CoT) like prompting technique for program translation: we ask models to explain the source programs first before translating. |
+|[WhiteRabbitNeo-33B-v1 .](https://huggingface.co/whiterabbitneo/WhiteRabbitNeo-33B-v1) | Both offensive and defensive security training have been given to this model. This general-purpose coding paradigm can help with activities related to cyber security. This implies that you may use it to learn how to defend against various attacks and vulnerabilities as well as to safeguard your networks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,9 +150,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can AI make genuine theoretical discoveries?.]() | When Nature included ChatGPT alongside its list of ten people who helped to shape science in 2023, it seemed deliberately provocative|
 |[AI and the Future of SaaS.](https://thebootstrappedfounder.com/ai-and-the-future-of-saas/) |Today, let’s look into the crystal ball and see a few opportunities, challenges, and threats that AI systems may pose for software entrepreneurs and creators. |
 |[Benchmarking GPT-4 Turbo - A Cautionary Tale.](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale) |GPT-4 Turbo came up slightly behind at 68.8%, while GPT-4 successfully finished 70% of the programming tasks. It's interesting to note that GPT-4 Turbo needed more tries than GPT-4, which may indicate that it lacks GPT-4's memory power. An further test supported this. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Unraveling spectral properties of kernel matrices.](https://francisbach.com/spectrum-kernel-matrices-i/) | This article examines the implications for learning properties of the way that eigenvalues vary for various Kernel Matrices.|
+|[NVIDIA’s CEO on Leading Through the A.I. Revolution.](https://hbr.org/podcast/2023/12/nvidias-ceo-on-leading-through-the-a-i-revolution) |In this podcast, NVIDIA CEO and co-founder Jensen Huang shares his thoughts on how he steers his company through rapidly changing times and offers advice to other entrepreneurs on how to stay competitive by incorporating AI into their operations. |
+|[It’s Humans All the Way Down.](https://blog.jim-nielsen.com/2024/humans-all-the-way-down/) |Because everyone believes that everyone else's work is simple, people believe that AI will replace a lot of employment. Ignorance is the foundation for the desire to exclude humans from the equation. It is impossible to ignore the fact that people matter, even in the craziest of ideas. Humans want to be seen and understood by other humans. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
