@@ -41,10 +41,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[I am a Strange Dataset: Metalinguistic Tests for Language Models.](https://arxiv.org/abs/2401.05300) |An example of a self-referential challenge phrase is "the last word in this sentence is is." This kind of phrase is extremely difficult for language models to handle. This work presents a dataset and some assessments aimed at enhancing the metalinguistic capabilities of language models. |
+|[PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models.](https://arxiv.org/abs/2401.05252) | A complementary line of inquiry to the well-known Stable Diffusion collection of picture generating models has been PixArt. With the use of ControlNet-style prompting and latent consistency models, this work improves control and speeds up creation.|
+|[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training.](https://arxiv.org/abs/2401.05566) |Anthropic has published some really intriguing research in which a sleeper phrase designed to induce a particular response is used to deliberately poison a language model. It discovered that this kind of model could not be "aligned" with the robust system that it utilized for its production models. In other words, once the model was poisoned, negative behavior could not be undone with the resources available today. |
+|[PALP: Prompt Aligned Personalization of Text-to-Image Models.](https://prompt-aligned.github.io/) | Right now, Dreambooth is the most effective way to customize an image model. Prompt alignment is composable and significantly increases adherence to the prompt.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -60,9 +60,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI changes policy to allow military applications.](https://techcrunch.com/2024/01/12/openai-changes-policy-to-allow-military-applications/) |In an unannounced update to its usage policy, OpenAI has opened the door to military applications of its technologies. |
+|[Using AI, MIT researchers identify a new class of antibiotic candidates.](https://www.freethink.com/health/ai-antibiotics) |These compounds can kill methicillin-resistant Staphylococcus aureus (MRSA), a bacterium that causes deadly infections. |
+|[Microsoft wants to automatically launch its Copilot AI on some Windows 11 devices.](https://www.theverge.com/2024/1/12/24035637/microsoft-windows-11-copilot-ai-chatbot-automatically-open-boot-startup) | You might see Copilot start automatically opening on Windows 11 soon, but only with certain display situations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,11 +82,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Moore-AnimateAnyone.](https://github.com/MooreThreads/Moore-AnimateAnyone) |AnimateAnyone is a fantastic video control model that animates the person in the control image by using skeletal motion and an image as input. This code replicates that work in an open manner. |
+|[surya.](https://github.com/VikParuchuri/surya) | Surya is a multilingual document OCR toolkit|
+|[David Attenborough narrates your life.](https://github.com/cbh123/narrator) |Using a combination of GPT4-V, top-of-the-line text-to-speech, and some computer capture software, you can have someone like David Attenborough narrate everything that is happening in your life. |
+|[Create translations that follow your speech style.](https://seamless.metademolab.com/expressive) |Meta has a new demo for seamless voice cloning and translation between languages. SeamlessExpressive is an AI model that aims to maintain expressive speech style elements in the translation|
+|[Vanna.](https://github.com/vanna-ai/vanna) | Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation) framework for SQL generation and related functionality.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,8 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[The Case for Cyborgs.](https://every.to/p/the-case-for-cyborgs) |Augmenting human intelligence beyond AI will
+take us much further than creating something new |
+|[Past, Present, and Future of AI with Vijay Pande.](https://a16z.com/podcast/past-present-and-future-of-ai-with-vijay-pande/) |A forty-minute contemplation about AI featuring an outlook for the future. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
