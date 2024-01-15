@@ -36,7 +36,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news:
+# ML news: 8 - 14 January
 
 ## Research
 |Link|description|
@@ -62,10 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects.](https://arxiv.org/abs/2401.05055v1) | An extensive review of deep learning's application to blind motion deblurring—a crucial field in computer vision—is provided in this work. It covers everything from fundamental ideas and the drawbacks of conventional approaches to a thorough analysis of contemporary strategies including CNNs, GANs, RNNs, and Transformers.|
 |[Singer Identity Representation Learning using Self-Supervised Techniques.](https://arxiv.org/abs/2401.05064v1) | A new framework has been created by researchers to examine and comprehend singing voices more thoroughly. By applying self-supervised learning on isolated vocal records and focusing on out-of-domain generalization, they achieved progress in tasks like singing voice similarity and synthesis, improving upon current technology.|
 |[Towards the Law of Capacity Gap in Distilling Language Models.](https://github.com/genezc/minima) | Language model (LM) distillation is a trending area that aims to distil the knowledge resided in a large teacher LM to a small student one. he law later guides us to distil a 3B student LM (termed MiniMA) from a 7B teacher LM (adapted LLaMA2-7B). |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -91,14 +88,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[marc newson designs swarovski's world-first AI binoculars that identify species on their own.](https://www.designboom.com/technology/marc-newson-swarovski-optik-world-first-ai-binoculars-ax-visio-ces-2024-01-11-2024/) | the dubbed world’s first AI-supported binoculars that using their high-performance analog long-range optics and digital intelligence, they can detect and identify more than 9,000 birds and other wildlife at a touch of a button.|
 |[Google Cloud launches new generative AI tools for retailers.](https://www.cnbc.com/2024/01/11/google-cloud-launches-new-generative-ai-tools-for-retailers.html) |Google launched several new AI tools for retailers to improve online shopping experiences and other retail operations. |
 |[Amazon’s Alexa gets new generative AI-powered experiences.](https://techcrunch.com/2024/01/09/amazons-alexa-gets-new-generative-ai-powered-experiences/) |Today, the company revealed three developers delivering new generative AI-powered Alexa experiences, including AI chatbot platform Character.AI, AI music company Splash and Voice AI game developer Volley. All three experiences are available in the Amazon Alexa Skill Store. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -124,15 +113,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chatbot UI.](https://github.com/mckaywrigley/chatbot-ui) |The open-source AI chat app for everyone. |
 |[explain-then-translate.](https://github.com/pootiet/explain-then-translate) |We propose 2-stage Chain-of-Thought (CoT) like prompting technique for program translation: we ask models to explain the source programs first before translating. |
 |[WhiteRabbitNeo-33B-v1 .](https://huggingface.co/whiterabbitneo/WhiteRabbitNeo-33B-v1) | Both offensive and defensive security training have been given to this model. This general-purpose coding paradigm can help with activities related to cyber security. This implies that you may use it to learn how to defend against various attacks and vulnerabilities as well as to safeguard your networks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -153,12 +133,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Unraveling spectral properties of kernel matrices.](https://francisbach.com/spectrum-kernel-matrices-i/) | This article examines the implications for learning properties of the way that eigenvalues vary for various Kernel Matrices.|
 |[NVIDIA’s CEO on Leading Through the A.I. Revolution.](https://hbr.org/podcast/2023/12/nvidias-ceo-on-leading-through-the-a-i-revolution) |In this podcast, NVIDIA CEO and co-founder Jensen Huang shares his thoughts on how he steers his company through rapidly changing times and offers advice to other entrepreneurs on how to stay competitive by incorporating AI into their operations. |
 |[It’s Humans All the Way Down.](https://blog.jim-nielsen.com/2024/humans-all-the-way-down/) |Because everyone believes that everyone else's work is simple, people believe that AI will replace a lot of employment. Ignorance is the foundation for the desire to exclude humans from the equation. It is impossible to ignore the fact that people matter, even in the craziest of ideas. Humans want to be seen and understood by other humans. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 1 - 7 January
 
