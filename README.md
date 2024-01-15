@@ -104,8 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[The Case for Cyborgs.](https://every.to/p/the-case-for-cyborgs) |Augmenting human intelligence beyond AI will
-take us much further than creating something new |
+|[The Case for Cyborgs.](https://every.to/p/the-case-for-cyborgs) |Augmenting human intelligence beyond AI will take us much further than creating something new |
 |[Past, Present, and Future of AI with Vijay Pande.](https://a16z.com/podcast/past-present-and-future-of-ai-with-vijay-pande/) |A forty-minute contemplation about AI featuring an outlook for the future. |
 |[.]() | |
 |[.]() | |
