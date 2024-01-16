@@ -45,8 +45,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models.](https://arxiv.org/abs/2401.05252) | A complementary line of inquiry to the well-known Stable Diffusion collection of picture generating models has been PixArt. With the use of ControlNet-style prompting and latent consistency models, this work improves control and speeds up creation.|
 |[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training.](https://arxiv.org/abs/2401.05566) |Anthropic has published some really intriguing research in which a sleeper phrase designed to induce a particular response is used to deliberately poison a language model. It discovered that this kind of model could not be "aligned" with the robust system that it utilized for its production models. In other words, once the model was poisoned, negative behavior could not be undone with the resources available today. |
 |[PALP: Prompt Aligned Personalization of Text-to-Image Models.](https://prompt-aligned.github.io/) | Right now, Dreambooth is the most effective way to customize an image model. Prompt alignment is composable and significantly increases adherence to the prompt.|
-|[.]() | |
-|[.]() | |
+|[INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning.](https://arxiv.org/abs/2401.06532v1) | |
+|[Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach.](https://arxiv.org/abs/2401.05633v1) |A new dataset called INTERS has been created by researchers with the goal of enhancing the performance of big language models such as Mistral and LLaMA in information retrieval tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -63,8 +63,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI changes policy to allow military applications.](https://techcrunch.com/2024/01/12/openai-changes-policy-to-allow-military-applications/) |In an unannounced update to its usage policy, OpenAI has opened the door to military applications of its technologies. |
 |[Using AI, MIT researchers identify a new class of antibiotic candidates.](https://www.freethink.com/health/ai-antibiotics) |These compounds can kill methicillin-resistant Staphylococcus aureus (MRSA), a bacterium that causes deadly infections. |
 |[Microsoft wants to automatically launch its Copilot AI on some Windows 11 devices.](https://www.theverge.com/2024/1/12/24035637/microsoft-windows-11-copilot-ai-chatbot-automatically-open-boot-startup) | You might see Copilot start automatically opening on Windows 11 soon, but only with certain display situations.|
-|[.]() | |
-|[.]() | |
+|[Microsoft launches Copilot Pro for $20 per month per user.](https://searchengineland.com/microsoft-launches-copilot-pro-for-20-per-month-per-user-436526) | Copilot Pro gives you the latest features and best models that Microsoft AI has to offer.|
+|[How OpenAI is approaching 2024 worldwide elections.](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections) | We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
