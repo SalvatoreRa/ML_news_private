@@ -47,8 +47,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PALP: Prompt Aligned Personalization of Text-to-Image Models.](https://prompt-aligned.github.io/) | Right now, Dreambooth is the most effective way to customize an image model. Prompt alignment is composable and significantly increases adherence to the prompt.|
 |[INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning.](https://arxiv.org/abs/2401.06532v1) | |
 |[Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach.](https://arxiv.org/abs/2401.05633v1) |A new dataset called INTERS has been created by researchers with the goal of enhancing the performance of big language models such as Mistral and LLaMA in information retrieval tasks. |
-|[.]() | |
-|[.]() | |
+|[HiCMAE.](https://github.com/sunlicai/hicmae) | A revolutionary self-supervised learning framework called HiCMAE was created to improve AVER, or Audio-Visual Emotion Recognition. This method leverages large-scale pre-training on unlabeled audio-visual data to get over data scarcity issues.|
+|[Language Enhanced Multi-modal Grounding Model.](https://lzw-lzw.github.io/LEGO.github.io/) | A novel end-to-end multimodal grounding model called LEGO exhibits sophisticated comprehension and grounding skills across several modalities, including pictures, sounds, and videos.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,10 +87,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[David Attenborough narrates your life.](https://github.com/cbh123/narrator) |Using a combination of GPT4-V, top-of-the-line text-to-speech, and some computer capture software, you can have someone like David Attenborough narrate everything that is happening in your life. |
 |[Create translations that follow your speech style.](https://seamless.metademolab.com/expressive) |Meta has a new demo for seamless voice cloning and translation between languages. SeamlessExpressive is an AI model that aims to maintain expressive speech style elements in the translation|
 |[Vanna.](https://github.com/vanna-ai/vanna) | Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation) framework for SQL generation and related functionality.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[GRDBIS.](https://github.com/liuxy1103/grdbis) |Graph Relation Distillation for Efficient Biomedical Instance Segmentation |
+|[AQLM.](https://github.com/vahe1994/aqlm) | Official PyTorch implementation for Extreme Compression of Large Language Models via Additive Quantization|
+|[RotationDrag.](https://github.com/tony-lowe/rotationdrag) |RotationDrag: Point-based Image Editing with Rotated Diffusion Features |
+|[AutoGGUF.](https://colab.research.google.com/drive/1P646NEg33BZy4BfLDNpTz0V0lwIU3CHu) |GGUF is a format that allows many quantization methods and is used to run models with llama cpp. The quantization is automated by this notebook; it may not be effective for all models, but it is for the majority. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The Case for Cyborgs.](https://every.to/p/the-case-for-cyborgs) |Augmenting human intelligence beyond AI will take us much further than creating something new |
 |[Past, Present, and Future of AI with Vijay Pande.](https://a16z.com/podcast/past-present-and-future-of-ai-with-vijay-pande/) |A forty-minute contemplation about AI featuring an outlook for the future. |
-|[.]() | |
-|[.]() | |
+|[AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) |AI will affect almost 40 percent of jobs around the world, replacing some and complementing others. We need a careful balance of policies to tap its potential |
+|[AI is Not the Solution to All Our Educational Challenges.](https://nickpotkalitsky.substack.com/p/ai-is-not-the-solution-to-all-our) |Empowering Students with an Immersive Mindset for Navigating an Unpredictable World |
 |[.]() | |
 |[.]() | |
 |[.]() | |
