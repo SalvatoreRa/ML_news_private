@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach.](https://arxiv.org/abs/2401.05633v1) |A new dataset called INTERS has been created by researchers with the goal of enhancing the performance of big language models such as Mistral and LLaMA in information retrieval tasks. |
 |[HiCMAE.](https://github.com/sunlicai/hicmae) | A revolutionary self-supervised learning framework called HiCMAE was created to improve AVER, or Audio-Visual Emotion Recognition. This method leverages large-scale pre-training on unlabeled audio-visual data to get over data scarcity issues.|
 |[Language Enhanced Multi-modal Grounding Model.](https://lzw-lzw.github.io/LEGO.github.io/) | A novel end-to-end multimodal grounding model called LEGO exhibits sophisticated comprehension and grounding skills across several modalities, including pictures, sounds, and videos.|
-|[The Unreasonable Effectiveness of Easy Training Data for Hard Tasks.](https://arxiv.org/abs/2401.06751) | |
-|[Mutual Distillation Learning For Person Re-Identification.](https://arxiv.org/abs/2401.06430v1) | |
+|[The Unreasonable Effectiveness of Easy Training Data for Hard Tasks.](https://arxiv.org/abs/2401.06751) | challenging data has long been assumed to be necessary to solve challenging issues, yet this data is noisy and difficult to identify. This work demonstrates that models may be made far more capable of generating solutions to difficult situations by fine-tuning them on related but easy data. An further piece of evidence to back up fine-tuning is that it elicits information rather than imparts it.|
+|[Mutual Distillation Learning For Person Re-Identification.](https://arxiv.org/abs/2401.06430v1) | By merging two distinct approaches, researchers have created a revolutionary method called Mutual Distillation Learning For Person Re-identification (MDPR) that improves person re-identification.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,6 +96,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AutoGGUF.](https://colab.research.google.com/drive/1P646NEg33BZy4BfLDNpTz0V0lwIU3CHu) |GGUF is a format that allows many quantization methods and is used to run models with llama cpp. The quantization is automated by this notebook; it may not be effective for all models, but it is for the majority. |
 |[Listening with LLM.](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/) |consolidate learnings on how to finetune Large Language Models (LLMs) to process audio, with the eventual goal of being able to build and host a LLM able to describe human voices. |
 |[PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding.](https://github.com/TencentARC/PhotoMaker) |Generating customized, styled images is one of the most popular applications of generative picture models. Previously, DreamBooth or LoRA training were needed for this. Now, with just one picture and ID embeddings, you may significantly increase quality while lowering computing costs. |
+|[Content Consistent Super-Resolution.](https://github.com/csslc/CCSR) |Improving the Stability of Diffusion Models for Content Consistent Super-Resolution |
+|[FilCo.](https://github.com/zorazrw/filco) | This repository contains the code and data about the project: Learning to Filter Context for Retrieval-Augmented Generation|
+|[haiku_dpo .](https://huggingface.co/datasets/davanstrien/haiku_dpo) |Dataset to help align models to write correct Haiku’s. |
+|[sanity-checks-revisited.](https://github.com/annahedstroem/sanity-checks-revisited) |This repository contains the code and experiments for the paper Sanity Checks Revisited: An Exploration to Repair the Model Parameter Randomisation Test |
+|[MAGNeT.](https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466) | Masked Audio Generation using a Single Non-Autoregressive Transformer|
+|[Tiny Narrations.](https://github.com/sfcompute/tinynarrations) |A text-to-speech read variant of the well-known (and compact) Tiny Stories dataset is called Tiny Narrations. On the SF Compute H100 cluster, it makes use of XTTS2. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Past, Present, and Future of AI with Vijay Pande.](https://a16z.com/podcast/past-present-and-future-of-ai-with-vijay-pande/) |A forty-minute contemplation about AI featuring an outlook for the future. |
 |[AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) |AI will affect almost 40 percent of jobs around the world, replacing some and complementing others. We need a careful balance of policies to tap its potential |
 |[AI is Not the Solution to All Our Educational Challenges.](https://nickpotkalitsky.substack.com/p/ai-is-not-the-solution-to-all-our) |Empowering Students with an Immersive Mindset for Navigating an Unpredictable World |
-|[.]() | |
+|[The Lazy Tyranny of the Wait Calculation.](https://www.oneusefulthing.org/p/the-lazy-tyranny-of-the-wait-calculation) |The "Wait Calculation" idea suggests holding off on undertaking certain tasks or going on a space mission to Barnard's Star until technology has advanced enough to save a considerable amount of time and effort. This strategy must be weighed against the unpredictable nature of technology advancement and the possibility of learning losses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
