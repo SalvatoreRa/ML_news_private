@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach.](https://arxiv.org/abs/2401.05633v1) |A new dataset called INTERS has been created by researchers with the goal of enhancing the performance of big language models such as Mistral and LLaMA in information retrieval tasks. |
 |[HiCMAE.](https://github.com/sunlicai/hicmae) | A revolutionary self-supervised learning framework called HiCMAE was created to improve AVER, or Audio-Visual Emotion Recognition. This method leverages large-scale pre-training on unlabeled audio-visual data to get over data scarcity issues.|
 |[Language Enhanced Multi-modal Grounding Model.](https://lzw-lzw.github.io/LEGO.github.io/) | A novel end-to-end multimodal grounding model called LEGO exhibits sophisticated comprehension and grounding skills across several modalities, including pictures, sounds, and videos.|
-|[.]() | |
-|[.]() | |
+|[The Unreasonable Effectiveness of Easy Training Data for Hard Tasks.](https://arxiv.org/abs/2401.06751) | |
+|[Mutual Distillation Learning For Person Re-Identification.](https://arxiv.org/abs/2401.06430v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -65,6 +65,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft wants to automatically launch its Copilot AI on some Windows 11 devices.](https://www.theverge.com/2024/1/12/24035637/microsoft-windows-11-copilot-ai-chatbot-automatically-open-boot-startup) | You might see Copilot start automatically opening on Windows 11 soon, but only with certain display situations.|
 |[Microsoft launches Copilot Pro for $20 per month per user.](https://searchengineland.com/microsoft-launches-copilot-pro-for-20-per-month-per-user-436526) | Copilot Pro gives you the latest features and best models that Microsoft AI has to offer.|
 |[How OpenAI is approaching 2024 worldwide elections.](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections) | We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information.|
+|[Sakana AI raises $30m seed.](https://sakana.ai/seed-round/) |In Tokyo, Sakana.ai is constructing a state-of-the-art research facility to create foundation models that are more compact and effective. David Ha and Llion Jones, two former Google researchers who are credited with innovations including Transformers, World Models, and LoRA, formed the business. To lead this initiative and establish Tokyo as a leader in AI, it has received a $30 million seed round from Jon Chu at Khosla Ventures and Brandon Reeves at Lux Capital. |
+|[Stable Code 3B: Coding on the Edge.](https://stability.ai/news/stable-code-2024-llm-code-completion-release) |https://stability.ai/news/stable-code-2024-llm-code-completion-release |
+|[OpenAI announces team to build ‘crowdsourced’ governance ideas into its models.](https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/) | OpenAI says it wants to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.”|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -91,11 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AQLM.](https://github.com/vahe1994/aqlm) | Official PyTorch implementation for Extreme Compression of Large Language Models via Additive Quantization|
 |[RotationDrag.](https://github.com/tony-lowe/rotationdrag) |RotationDrag: Point-based Image Editing with Rotated Diffusion Features |
 |[AutoGGUF.](https://colab.research.google.com/drive/1P646NEg33BZy4BfLDNpTz0V0lwIU3CHu) |GGUF is a format that allows many quantization methods and is used to run models with llama cpp. The quantization is automated by this notebook; it may not be effective for all models, but it is for the majority. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Listening with LLM.](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/) |consolidate learnings on how to finetune Large Language Models (LLMs) to process audio, with the eventual goal of being able to build and host a LLM able to describe human voices. |
+|[PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding.](https://github.com/TencentARC/PhotoMaker) |Generating customized, styled images is one of the most popular applications of generative picture models. Previously, DreamBooth or LoRA training were needed for this. Now, with just one picture and ID embeddings, you may significantly increase quality while lowering computing costs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
