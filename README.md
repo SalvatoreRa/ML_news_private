@@ -51,8 +51,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Language Enhanced Multi-modal Grounding Model.](https://lzw-lzw.github.io/LEGO.github.io/) | A novel end-to-end multimodal grounding model called LEGO exhibits sophisticated comprehension and grounding skills across several modalities, including pictures, sounds, and videos.|
 |[The Unreasonable Effectiveness of Easy Training Data for Hard Tasks.](https://arxiv.org/abs/2401.06751) | challenging data has long been assumed to be necessary to solve challenging issues, yet this data is noisy and difficult to identify. This work demonstrates that models may be made far more capable of generating solutions to difficult situations by fine-tuning them on related but easy data. An further piece of evidence to back up fine-tuning is that it elicits information rather than imparts it.|
 |[Mutual Distillation Learning For Person Re-Identification.](https://arxiv.org/abs/2401.06430v1) | By merging two distinct approaches, researchers have created a revolutionary method called Mutual Distillation Learning For Person Re-identification (MDPR) that improves person re-identification.|
-|[.]() | |
-|[.]() | |
+|[Large language models help computer programs to evolve.](https://www.nature.com/articles/s41586-023-06924-6) | A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers. [comment here.](https://www.nature.com/articles/d41586-023-03998-0)|
+|[Solving olympiad geometry without human demonstrations.](https://www.nature.com/articles/s41586-023-06747-5) |Proving mathematical theorems at the olympiad level represents a notable milestone in human-level automated reasoning |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,11 +115,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) |AI will affect almost 40 percent of jobs around the world, replacing some and complementing others. We need a careful balance of policies to tap its potential |
 |[AI is Not the Solution to All Our Educational Challenges.](https://nickpotkalitsky.substack.com/p/ai-is-not-the-solution-to-all-our) |Empowering Students with an Immersive Mindset for Navigating an Unpredictable World |
 |[The Lazy Tyranny of the Wait Calculation.](https://www.oneusefulthing.org/p/the-lazy-tyranny-of-the-wait-calculation) |The "Wait Calculation" idea suggests holding off on undertaking certain tasks or going on a space mission to Barnard's Star until technology has advanced enough to save a considerable amount of time and effort. This strategy must be weighed against the unpredictable nature of technology advancement and the possibility of learning losses. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[What counts as plagiarism? Harvard president’s resignation sparks debate.](https://www.nature.com/articles/d41586-024-00035-6) |Allegations against Claudine Gay have left researchers arguing over academic standards and practices. |
+|[‘Set it and forget it’: automated lab uses AI and robotics to improve proteins.](https://www.nature.com/articles/d41586-024-00093-w) |A self-driving lab system spent half a year engineering enzymes to work at higher temperatures. |
+|[The consciousness wars: can scientists ever agree on how the mind works?.](https://www.nature.com/articles/d41586-024-00107-7) | There are dozens of theories of how the brain produces conscious experience, and a new type of study is testing some of them head-to-head.|
+|[Centres of Excellence in AI for global health equity — a strategic vision for LMICs.](https://www.nature.com/articles/d41586-024-00113-9) |We propose that Centres of Excellence should be established in low- and middle-income countries (LMICs) to enable artificial intelligence (AI) to deliver equity in health care. |
+|[Does generative AI help academics to do more or less?.](https://www.nature.com/articles/d41586-024-00115-7) |UK academics use generative artificial intelligence (AI) in their work mainly because it improves task efficiency, saves time and labour, and boosts competitiveness  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
