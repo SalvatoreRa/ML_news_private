@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stable Code 3B: Coding on the Edge.](https://stability.ai/news/stable-code-2024-llm-code-completion-release) |Stable Code 3B is a 3 billion parameter Large Language Model (LLM), allowing accurate and responsive code completion at a level on par with models such as CodeLLaMA 7b that are 2.5x larger. |
 |[OpenAI announces team to build ‘crowdsourced’ governance ideas into its models.](https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/) | OpenAI says it wants to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.”|
 |[OpenAI must defend ChatGPT fabrications after failing to defeat libel suit.](https://arstechnica.com/tech-policy/2024/01/openai-must-defend-chatgpt-fabrications-after-failing-to-defeat-libel-suit) | ChatGPT users may soon learn whether false outputs will be allowed to ruin lives.|
-|[.]() | |
+|[Samsung’s S24 and S24 Plus put new AI smarts in a polished package.](https://www.theverge.com/2024/1/17/24040372/samsung-galaxy-s24-plus-price-release-date-specs-features-ai-artificial-intelligence) |The two smaller siblings of the Galaxy S24 Ultra are very similar-looking phones to last year’s devices, but they include new AI-powered features and a promise of seven years of software and security updates. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tiny Narrations.](https://github.com/sfcompute/tinynarrations) |A text-to-speech read variant of the well-known (and compact) Tiny Stories dataset is called Tiny Narrations. On the SF Compute H100 cluster, it makes use of XTTS2. |
 |[Interconnects Tools for Multimodal Blogging!.](https://github.com/natolambert/interconnects-tools) | Python tools for easily translating your blog content to podcasts & YouTube|
 |[ALMA: Advanced Language Model-based translator.](https://github.com/fe1ixxu/alma) |ALMA (Advanced Language Model-based TrAnslator) is a many-to-many LLM-based translation model, which adopts a new translation model paradigm: it begins with fine-tuning on monolingual data and is further optimized using high-quality parallel data. This two-step fine-tuning process ensures strong translation performance. |
-|[.]() | |
-|[.]() | |
+|[Privy.](https://github.com/srikanth235/privy) |A privacy-first coding assistant. |
+|[UV-SAM: Adapting Segment Anything Model for Urban Village Identification.](https://github.com/tsinghua-fib-lab/uv-sam) |This work presents UV-SAM, a modified version of the Segment Anything Model and the Vision Foundation Model that may be used to precisely locate urban village borders on satellite imagery. UV-SAM provides an effective substitute for conventional field surveys by integrating various image representations to achieve accurate detection. |
 |[.]() | |
 |[.]() | |
 
