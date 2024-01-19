@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Samsung’s S24 and S24 Plus put new AI smarts in a polished package.](https://www.theverge.com/2024/1/17/24040372/samsung-galaxy-s24-plus-price-release-date-specs-features-ai-artificial-intelligence) |The two smaller siblings of the Galaxy S24 Ultra are very similar-looking phones to last year’s devices, but they include new AI-powered features and a promise of seven years of software and security updates. |
 |[OpenAI announces first partnership with a university.](https://www.cnbc.com/2024/01/18/openai-announces-first-partnership-with-a-university.html) | OpenAI on Thursday announced its first partnership with a higher education institution.|
 |[Mark Zuckerberg’s new goal is creating artificial general intelligence.](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview) | And he wants Meta to open source it. Eventually. Maybe.|
-|[.]() | |
-|[.]() | |
+|[8bit HippoAttention: Up to 3X Faster Compared to FlashAttentionV2.](https://blog.hippoml.com/8bit-hippoattention-up-to-3x-faster-compared-to-flashattentionv2-8f9def90b482) | 8bit in neural networks is not a new concept. However, shipping 8bit models in the real world on a large scale is challenging.|
+|[Microsoft makes its AI-powered reading tutor free.](https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/) | Microsoft today made Reading Coach, its AI-powered tool that provides learners with personalized reading practice, available at no cost to anyone with a Microsoft account.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,11 +113,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Privy.](https://github.com/srikanth235/privy) |A privacy-first coding assistant. |
 |[UV-SAM: Adapting Segment Anything Model for Urban Village Identification.](https://github.com/tsinghua-fib-lab/uv-sam) |This work presents UV-SAM, a modified version of the Segment Anything Model and the Vision Foundation Model that may be used to precisely locate urban village borders on satellite imagery. UV-SAM provides an effective substitute for conventional field surveys by integrating various image representations to achieve accurate detection. |
 |[ml-aim.](https://github.com/apple/ml-aim) | We introduce AIM a collection of vision models pre-trained with an autoregressive generative objective. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[compose-and-conquer.]() |Official implementation of Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis. Excell for placing objects in three-dimensional space |
+|[Vlogger.](https://github.com/zhuangshaobin/vlogger) |we present Vlogger, a generic AI system for generating a minute-level video blog (i.e., vlog) of user descriptions. Different from short videos with a few seconds, vlog often contains a complex storyline with diversified scenes, which is challenging for most existing video generation approaches.  |
+|[trapped-in-texture-bias.](https://github.com/johannestheo/trapped-in-texture-bias) |This is the official code release for the paper Trapped in texture bias? A large scale comparison of deep instance segmentation |
+|[MegaDolphin-120b.](https://huggingface.co/cognitivecomputations/MegaDolphin-120b) |MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b |
+|[TACO(Topics in Algorithmic COde generation dataset).](https://github.com/FlagOpen/TACO) |TACO (Topics in Algorithmic COde generation dataset) is a dataset focused on algorithmic code generation, designed to provide a more challenging training dataset and evaluation benchmark for the code generation model field.  |
 |[.]() | |
 
 ## Perspectives
