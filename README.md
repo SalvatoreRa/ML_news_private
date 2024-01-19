@@ -57,6 +57,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities.](https://arxiv.org/abs/2401.08045) | The difficulty of creating Vision Foundation Models (VFMs) especially for autonomous driving is examined in this research. It offers insights into pre-training, task adaptability, and data preparation in AI by examining more than 250 research articles, showcasing state-of-the-art methods such as 3D Gaussian Splatting and NeRF.|
 |[DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models.](https://arxiv.org/abs/2401.08392v1) | By concentrating on video tasks, DoraemonGPT, a novel artificial intelligence system built on huge language models, advances our comprehension of dynamic real-world events. For effective spatial-temporal querying, it transforms films into a symbolic memory. It also includes specialized tools and an innovative planner for handling challenging tasks.|
 |[Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering.](https://github.com/codium-ai/alphacodium) | AlphaCodium presents a new method to improve LLMs' code creation. As evidenced by the CodeContests dataset, this multi-stage, test-based iterative procedure greatly increases the accuracy of models such as GPT-4 in tackling complicated programming tasks.|
+|[Foundations of Vector Retrieval.](https://arxiv.org/abs/2401.09350) |Almost all of the information one may want to know about the current status of the vector retrieval area is covered in this enormous document. It will take some time to go through this important resource. |
+|[Learning to Follow Object-Centric Image Editing Instructions Faithfully.](https://arxiv.org/abs/2310.19145v1) |This study addresses issues such as ambiguous instructions and selectively selecting regions of the image to modify, hence enhancing the quality of photographs modified with natural language instructions. |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 
@@ -109,6 +112,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ALMA: Advanced Language Model-based translator.](https://github.com/fe1ixxu/alma) |ALMA (Advanced Language Model-based TrAnslator) is a many-to-many LLM-based translation model, which adopts a new translation model paradigm: it begins with fine-tuning on monolingual data and is further optimized using high-quality parallel data. This two-step fine-tuning process ensures strong translation performance. |
 |[Privy.](https://github.com/srikanth235/privy) |A privacy-first coding assistant. |
 |[UV-SAM: Adapting Segment Anything Model for Urban Village Identification.](https://github.com/tsinghua-fib-lab/uv-sam) |This work presents UV-SAM, a modified version of the Segment Anything Model and the Vision Foundation Model that may be used to precisely locate urban village borders on satellite imagery. UV-SAM provides an effective substitute for conventional field surveys by integrating various image representations to achieve accurate detection. |
+|[ml-aim.](https://github.com/apple/ml-aim) | We introduce AIM a collection of vision models pre-trained with an autoregressive generative objective. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 
