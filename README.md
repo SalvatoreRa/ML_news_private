@@ -125,8 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The consciousness wars: can scientists ever agree on how the mind works?.](https://www.nature.com/articles/d41586-024-00107-7) | There are dozens of theories of how the brain produces conscious experience, and a new type of study is testing some of them head-to-head.|
 |[Centres of Excellence in AI for global health equity — a strategic vision for LMICs.](https://www.nature.com/articles/d41586-024-00113-9) |We propose that Centres of Excellence should be established in low- and middle-income countries (LMICs) to enable artificial intelligence (AI) to deliver equity in health care. |
 |[Does generative AI help academics to do more or less?.](https://www.nature.com/articles/d41586-024-00115-7) |UK academics use generative artificial intelligence (AI) in their work mainly because it improves task efficiency, saves time and labour, and boosts competitiveness  |
-|[.]() | |
-|[.]() | |
+|[Evaluations Are All We Need.](https://www.strangeloopcanon.com/p/evaluations-are-all-we-need) |This essay examines the difficulties in assessing LLMs and contrasts them with assessments of employees conducted by humans. It addresses the challenge of gauging the practicality and intelligence of LLMs, emphasizing the shortcomings of existing assessment techniques and the demand for more efficient ones. |
+|[The Road To Honest AI.](https://www.astralcodexten.com/p/the-road-to-honest-ai) |Identifying and modifying honesty-related vectors within the AI or employing unrelated questions to discover lying tendencies based on the AI's response consistency are two strategies suggested by recent studies to regulate AI honesty. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
