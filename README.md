@@ -52,7 +52,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Unreasonable Effectiveness of Easy Training Data for Hard Tasks.](https://arxiv.org/abs/2401.06751) | challenging data has long been assumed to be necessary to solve challenging issues, yet this data is noisy and difficult to identify. This work demonstrates that models may be made far more capable of generating solutions to difficult situations by fine-tuning them on related but easy data. An further piece of evidence to back up fine-tuning is that it elicits information rather than imparts it.|
 |[Mutual Distillation Learning For Person Re-Identification.](https://arxiv.org/abs/2401.06430v1) | By merging two distinct approaches, researchers have created a revolutionary method called Mutual Distillation Learning For Person Re-identification (MDPR) that improves person re-identification.|
 |[Large language models help computer programs to evolve.](https://www.nature.com/articles/s41586-023-06924-6) | A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers. [comment here.](https://www.nature.com/articles/d41586-023-03998-0)|
-|[Solving olympiad geometry without human demonstrations.](https://www.nature.com/articles/s41586-023-06747-5) |Proving mathematical theorems at the olympiad level represents a notable milestone in human-level automated reasoning |
+|[Solving olympiad geometry without human demonstrations.](https://www.nature.com/articles/s41586-023-06747-5) |Proving mathematical theorems at the olympiad level represents a notable milestone in human-level automated reasoning [Blog post from DeepMind.](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/) |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -68,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sakana AI raises $30m seed.](https://sakana.ai/seed-round/) |In Tokyo, Sakana.ai is constructing a state-of-the-art research facility to create foundation models that are more compact and effective. David Ha and Llion Jones, two former Google researchers who are credited with innovations including Transformers, World Models, and LoRA, formed the business. To lead this initiative and establish Tokyo as a leader in AI, it has received a $30 million seed round from Jon Chu at Khosla Ventures and Brandon Reeves at Lux Capital. |
 |[Stable Code 3B: Coding on the Edge.](https://stability.ai/news/stable-code-2024-llm-code-completion-release) |Stable Code 3B is a 3 billion parameter Large Language Model (LLM), allowing accurate and responsive code completion at a level on par with models such as CodeLLaMA 7b that are 2.5x larger. |
 |[OpenAI announces team to build ‘crowdsourced’ governance ideas into its models.](https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/) | OpenAI says it wants to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.”|
-|[.]() | |
+|[OpenAI must defend ChatGPT fabrications after failing to defeat libel suit.](https://arstechnica.com/tech-policy/2024/01/openai-must-defend-chatgpt-fabrications-after-failing-to-defeat-libel-suit) | ChatGPT users may soon learn whether false outputs will be allowed to ruin lives.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
