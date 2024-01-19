@@ -53,10 +53,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mutual Distillation Learning For Person Re-Identification.](https://arxiv.org/abs/2401.06430v1) | By merging two distinct approaches, researchers have created a revolutionary method called Mutual Distillation Learning For Person Re-identification (MDPR) that improves person re-identification.|
 |[Large language models help computer programs to evolve.](https://www.nature.com/articles/s41586-023-06924-6) | A branch of computer science known as genetic programming has been given a boost with the application of large language models that are trained on the combined intuition of the world’s programmers. [comment here.](https://www.nature.com/articles/d41586-023-03998-0)|
 |[Solving olympiad geometry without human demonstrations.](https://www.nature.com/articles/s41586-023-06747-5) |Proving mathematical theorems at the olympiad level represents a notable milestone in human-level automated reasoning [Blog post from DeepMind.](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/) |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Fast and Expressive LLM Inference with RadixAttention and SGLang.](https://lmsys.org/blog/2024-01-17-sglang) |Two new advances for language model inference have been provided by LMSYS. The first is a backend tweak that raises the performance of tokens per second overall. Prompting parallelism is possible with the second prompting approach, which is an embedded language tailored to a particular domain. |
+|[Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities.](https://arxiv.org/abs/2401.08045) | The difficulty of creating Vision Foundation Models (VFMs) especially for autonomous driving is examined in this research. It offers insights into pre-training, task adaptability, and data preparation in AI by examining more than 250 research articles, showcasing state-of-the-art methods such as 3D Gaussian Splatting and NeRF.|
+|[DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models.](https://arxiv.org/abs/2401.08392v1) | By concentrating on video tasks, DoraemonGPT, a novel artificial intelligence system built on huge language models, advances our comprehension of dynamic real-world events. For effective spatial-temporal querying, it transforms films into a symbolic memory. It also includes specialized tools and an innovative planner for handling challenging tasks.|
+|[Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering.](https://github.com/codium-ai/alphacodium) | AlphaCodium presents a new method to improve LLMs' code creation. As evidenced by the CodeContests dataset, this multi-stage, test-based iterative procedure greatly increases the accuracy of models such as GPT-4 in tackling complicated programming tasks.|
 |[.]() | |
 |[.]() | |
 
@@ -105,6 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[sanity-checks-revisited.](https://github.com/annahedstroem/sanity-checks-revisited) |This repository contains the code and experiments for the paper Sanity Checks Revisited: An Exploration to Repair the Model Parameter Randomisation Test |
 |[MAGNeT.](https://huggingface.co/collections/facebook/magnet-659ef0ceb62804e6f41d1466) | Masked Audio Generation using a Single Non-Autoregressive Transformer|
 |[Tiny Narrations.](https://github.com/sfcompute/tinynarrations) |A text-to-speech read variant of the well-known (and compact) Tiny Stories dataset is called Tiny Narrations. On the SF Compute H100 cluster, it makes use of XTTS2. |
+|[Interconnects Tools for Multimodal Blogging!.](https://github.com/natolambert/interconnects-tools) | Python tools for easily translating your blog content to podcasts & YouTube|
+|[ALMA: Advanced Language Model-based translator.](https://github.com/fe1ixxu/alma) |ALMA (Advanced Language Model-based TrAnslator) is a many-to-many LLM-based translation model, which adopts a new translation model paradigm: it begins with fine-tuning on monolingual data and is further optimized using high-quality parallel data. This two-step fine-tuning process ensures strong translation performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
