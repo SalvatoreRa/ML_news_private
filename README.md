@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI announces team to build ‘crowdsourced’ governance ideas into its models.](https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/) | OpenAI says it wants to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.”|
 |[OpenAI must defend ChatGPT fabrications after failing to defeat libel suit.](https://arstechnica.com/tech-policy/2024/01/openai-must-defend-chatgpt-fabrications-after-failing-to-defeat-libel-suit) | ChatGPT users may soon learn whether false outputs will be allowed to ruin lives.|
 |[Samsung’s S24 and S24 Plus put new AI smarts in a polished package.](https://www.theverge.com/2024/1/17/24040372/samsung-galaxy-s24-plus-price-release-date-specs-features-ai-artificial-intelligence) |The two smaller siblings of the Galaxy S24 Ultra are very similar-looking phones to last year’s devices, but they include new AI-powered features and a promise of seven years of software and security updates. |
-|[.]() | |
-|[.]() | |
+|[OpenAI announces first partnership with a university.](https://www.cnbc.com/2024/01/18/openai-announces-first-partnership-with-a-university.html) | OpenAI on Thursday announced its first partnership with a higher education institution.|
+|[Mark Zuckerberg’s new goal is creating artificial general intelligence.](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview) | And he wants Meta to open source it. Eventually. Maybe.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
