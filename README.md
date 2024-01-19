@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mark Zuckerberg’s new goal is creating artificial general intelligence.](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview) | And he wants Meta to open source it. Eventually. Maybe.|
 |[8bit HippoAttention: Up to 3X Faster Compared to FlashAttentionV2.](https://blog.hippoml.com/8bit-hippoattention-up-to-3x-faster-compared-to-flashattentionv2-8f9def90b482) | 8bit in neural networks is not a new concept. However, shipping 8bit models in the real world on a large scale is challenging.|
 |[Microsoft makes its AI-powered reading tutor free.](https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/) | Microsoft today made Reading Coach, its AI-powered tool that provides learners with personalized reading practice, available at no cost to anyone with a Microsoft account.|
-|[.]() | |
+|[Ousted Twitter CEO Parag Agrawal is back with an AI startup; gets $30 mn in funding led by Khosla Ventures.](https://www.msn.com/en-in/money/news/ousted-twitter-ceo-parag-agrawal-is-back-with-an-ai-startup-gets-30-mn-in-funding-led-by-khosla-ventures/ar-AA1mQq92) |  Agrawal is back with an artificial intelligence (AI) startup that has already raised $30 million in funding that is led by Khosla Ventures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
