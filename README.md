@@ -59,9 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering.](https://github.com/codium-ai/alphacodium) | AlphaCodium presents a new method to improve LLMs' code creation. As evidenced by the CodeContests dataset, this multi-stage, test-based iterative procedure greatly increases the accuracy of models such as GPT-4 in tackling complicated programming tasks.|
 |[Foundations of Vector Retrieval.](https://arxiv.org/abs/2401.09350) |Almost all of the information one may want to know about the current status of the vector retrieval area is covered in this enormous document. It will take some time to go through this important resource. |
 |[Learning to Follow Object-Centric Image Editing Instructions Faithfully.](https://arxiv.org/abs/2310.19145v1) |This study addresses issues such as ambiguous instructions and selectively selecting regions of the image to modify, hence enhancing the quality of photographs modified with natural language instructions. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -81,12 +79,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[8bit HippoAttention: Up to 3X Faster Compared to FlashAttentionV2.](https://blog.hippoml.com/8bit-hippoattention-up-to-3x-faster-compared-to-flashattentionv2-8f9def90b482) | 8bit in neural networks is not a new concept. However, shipping 8bit models in the real world on a large scale is challenging.|
 |[Microsoft makes its AI-powered reading tutor free.](https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/) | Microsoft today made Reading Coach, its AI-powered tool that provides learners with personalized reading practice, available at no cost to anyone with a Microsoft account.|
 |[Ousted Twitter CEO Parag Agrawal is back with an AI startup; gets $30 mn in funding led by Khosla Ventures.](https://www.msn.com/en-in/money/news/ousted-twitter-ceo-parag-agrawal-is-back-with-an-ai-startup-gets-30-mn-in-funding-led-by-khosla-ventures/ar-AA1mQq92) |  Agrawal is back with an artificial intelligence (AI) startup that has already raised $30 million in funding that is led by Khosla Ventures.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -118,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[trapped-in-texture-bias.](https://github.com/johannestheo/trapped-in-texture-bias) |This is the official code release for the paper Trapped in texture bias? A large scale comparison of deep instance segmentation |
 |[MegaDolphin-120b.](https://huggingface.co/cognitivecomputations/MegaDolphin-120b) |MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b |
 |[TACO(Topics in Algorithmic COde generation dataset).](https://github.com/FlagOpen/TACO) |TACO (Topics in Algorithmic COde generation dataset) is a dataset focused on algorithmic code generation, designed to provide a more challenging training dataset and evaluation benchmark for the code generation model field.  |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -135,12 +127,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Does generative AI help academics to do more or less?.](https://www.nature.com/articles/d41586-024-00115-7) |UK academics use generative artificial intelligence (AI) in their work mainly because it improves task efficiency, saves time and labour, and boosts competitiveness  |
 |[Evaluations Are All We Need.](https://www.strangeloopcanon.com/p/evaluations-are-all-we-need) |This essay examines the difficulties in assessing LLMs and contrasts them with assessments of employees conducted by humans. It addresses the challenge of gauging the practicality and intelligence of LLMs, emphasizing the shortcomings of existing assessment techniques and the demand for more efficient ones. |
 |[The Road To Honest AI.](https://www.astralcodexten.com/p/the-road-to-honest-ai) |Identifying and modifying honesty-related vectors within the AI or employing unrelated questions to discover lying tendencies based on the AI's response consistency are two strategies suggested by recent studies to regulate AI honesty. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ML news: 8 - 14 January
