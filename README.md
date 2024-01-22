@@ -27,7 +27,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories.](https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/) |A new report reveals that OpenAI CEO Sam Altman is gearing up to raise money to set up his own network of AI chip factories. |
 |[Google DeepMind scientists in talks to leave and form AI startup.](https://finance.yahoo.com/news/google-deepmind-scientists-talks-leave-193114887.html) |A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations. |
 |[The AI phones are coming.](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24) |We’re tired of tapping through apps on our phones all day. Can Samsung show us an AI tool to save us? |
-|[.]() | |
+|[How Microsoft found a potential new battery material using AI.](https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai) |Advances in AI and high-performance computing are changing the way scientists look for new battery materials. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -52,9 +52,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[nanotron.](https://github.com/huggingface/nanotron) |The objective of this library is to provide easy distributed primitives in order to train a variety of models efficiently using 3D parallelism. |
+|[DataTrove.](https://github.com/huggingface/datatrove) |DataTrove is a library to process, filter and deduplicate text data at a very large scale. It provides a set of prebuilt commonly used processing blocks with a framework to easily add custom functionality. |
+|[CaptionIMG.](https://github.com/ANTONIOPSD/CaptionIMG) |Simple program written in python to manually caption your images (or any other file types) so you can use them for AI training. I use it for Dreambooth training (StableDiffusion). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
