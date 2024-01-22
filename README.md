@@ -8,8 +8,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[OMG-Seg: Is One Model Good Enough For All Segmentation?.](https://lxtgh.github.io/project/omg_seg/) |OMG-Seg can handle over ten different segmentation tasks in one framework, including image-level and video-level segmentation tasks, interactive segmentation, and open-vocabulary segmentation. To our knowledge, this is the first model to unify these four directions. |
+|[Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation.](https://arxiv.org/abs/2401.09732v1) |BriVIS, an approach that enhances open-vocabulary Video Instance Segmentation (VIS), was created by researchers. BriVIS achieves a more precise alignment between text and video by preserving the context of object motions across video frames through the use of a method known as Brownian Bridges. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -24,6 +24,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
+|[OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories.](https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/) |A new report reveals that OpenAI CEO Sam Altman is gearing up to raise money to set up his own network of AI chip factories. |
+|[Google DeepMind scientists in talks to leave and form AI startup.](https://finance.yahoo.com/news/google-deepmind-scientists-talks-leave-193114887.html) |A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations. |
+|[The AI phones are coming.](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24) |We’re tired of tapping through apps on our phones all day. Can Samsung show us an AI tool to save us? |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -59,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Text-to-Video: The Task, Challenges and the Current State.](https://huggingface.co/blog/text-to-video) |Text-to-video is next in line in the long list of incredible advances in generative models. How do these models work, how do they differ from text-to-image models, and what kind of performance can we expect from them?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
