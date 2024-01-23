@@ -12,11 +12,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation.](https://arxiv.org/abs/2401.09732v1) |BriVIS, an approach that enhances open-vocabulary Video Instance Segmentation (VIS), was created by researchers. BriVIS achieves a more precise alignment between text and video by preserving the context of object motions across video frames through the use of a method known as Brownian Bridges. |
 |[Encoder-minimal and Decoder-minimal Framework for Remote Sensing Image Dehazing.](https://arxiv.org/abs/2312.07849v1) |A novel framework called RSHazeNet was created to eliminate haze from remote sensing photos. The tool makes use of cutting-edge modules to enhance image comprehension and detail preservation, improving clarity and analytical use. |
 |[Supervised Fine-tuning in turn Improves Visual Foundation Models.](https://github.com/tencentarc/visft) |Drawing inspiration from supervised fine-tuning (SFT) in natural language processing such as instruction tuning, we explore the potential of fine-grained SFT in enhancing the generation of vision foundation models after their pretraining. Thus a two-stage method ViSFT (Vision SFT) is proposed to unleash the fine-grained knowledge of vision foundation models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Group Anything with Radiance Fields.](https://www.garfield.studio/) |Hierarchical grouping in 3D by training a scale-conditioned affinity field from multi-level masks |
+|[DiverseEvol.](https://github.com/ofa-sys/diverseevol) | We introduce DiverseEvol, an efficient instruction-tuning method that allows the model itself to iteratively sample training subsets to improve its own performance, without any external supervision from humans or more advanced LLMs.|
+|[Unleashing the Power of Large-Scale Unlabeled Data.](https://depth-anything.github.io/) |Depth Anything is trained on 1.5M labeled images and 62M+ unlabeled images jointly, providing the most capable Monocular Depth Estimation (MDE) |
+|[Prompt Highlighter: Interactive Control for Multi-Modal LLMs.](https://julianjuaner.github.io/projects/PromptHighlighter/) | By enabling users to highlight specific portions of prompts, researchers present the "Prompt Highlighter," a technique that transforms text production in multi-modal language models.|
+|[MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer.](https://github.com/opengvlab/mm-interleaved) | A novel generative model called MM-Interleaved is very good at handling and producing interleaved image-text data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -37,10 +37,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The AI phones are coming.](https://www.theverge.com/2024/1/16/24040562/samsung-unpacked-galaxy-ai-s24) |We’re tired of tapping through apps on our phones all day. Can Samsung show us an AI tool to save us? |
 |[How Microsoft found a potential new battery material using AI.](https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai) |Advances in AI and high-performance computing are changing the way scientists look for new battery materials. |
 |[Google will pitch Bard Advanced as providing ‘complex, better responses’.](https://9to5google.com/2024/01/19/bard-advanced-better-responses/) |At the start of December, Google said Gemini Ultra would launch in early 2024 and be available in “Bard Advanced.” When it launches, Google will position Bard Advanced as providing “complex, better responses.” |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Stability AI unveils smaller, more efficient 1.6B language model as part of ongoing innovation.](https://venturebeat.com/ai/stability-ai-unveils-smaller-more-efficient-1-6b-language-model-as-part-of-ongoing-innovation/) |Stability AI, the vendor that is perhaps best known for its stable diffusion text to image generative AI technology, today released one of its smallest models yet, with the debut of  Stable LM 2 1.6B. |
+|[Tesla finally releases FSD v12, its last hope for self-driving.](https://electrek.co/2024/01/22/tesla-releases-fsd-v12-last-hope-self-driving/) |Tesla has finally started releasing its FSD Beta v12 update to customers, which is sort of its last hope to deliver on its self-driving promises. |
+|[Code LoRA From Scratch.](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch) | LoRA, which stands for Low-Rank Adaptation, is a popular technique to finetune LLMs more efficiently. Instead of adjusting all the parameters of a deep neural network, LoRA focuses on updating only a small set of low-rank matrices. This Studio explains how LoRA works by coding it from scratch, which is an excellent exercise for looking under the hood of an algorithm.|
+|[Microsoft’s Nadella Wants Stability at OpenAI, Not Control.](https://www.bloomberg.com/news/articles/2024-01-16/microsoft-s-nadella-wants-stability-at-openai-not-more-control) |In the midst of regulatory reviews in the EU and the UK, Microsoft CEO Satya Nadella is happy with the current condition of Microsoft's cooperation with OpenAI, emphasizing stability above control. He highlights both Microsoft's substantial funding in OpenAI and their own autonomous AI research. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -64,8 +64,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DataTrove.](https://github.com/huggingface/datatrove) |DataTrove is a library to process, filter and deduplicate text data at a very large scale. It provides a set of prebuilt commonly used processing blocks with a framework to easily add custom functionality. |
 |[CaptionIMG.](https://github.com/ANTONIOPSD/CaptionIMG) |Simple program written in python to manually caption your images (or any other file types) so you can use them for AI training. I use it for Dreambooth training (StableDiffusion). |
 |[AI Toolkit.](https://github.com/linkdd/aitoolkit) | AI Toolkit is a header-only C++ library which provides tools for building the brain of your game's NPCs.|
-|[.]() | |
-|[.]() | |
+|[Face Mixer Diffusion.](https://www.justinpinkney.com/blog/2024/face-mixer-diffusion/?utm_source=tldrai) | This piece demonstrates how to clone faces in photos using diffusion. Although there are other methods for creating deep fakes, diffusion is intriguing since it allows for the necessary inpainting of other image elements.|
+|[Self-Rewarding Language Model.](https://github.com/lucidrains/self-rewarding-lm-pytorch) |Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Text-to-Video: The Task, Challenges and the Current State.](https://huggingface.co/blog/text-to-video) |Text-to-video is next in line in the long list of incredible advances in generative models. How do these models work, how do they differ from text-to-image models, and what kind of performance can we expect from them?|
-|[.]() | |
+|[My AI Timelines Have Sped Up (Again).](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html) |In light of developments in scaling up models, the author updated their forecasts for the AI timetable. As of right now, they predict that artificial general intelligence will be achieved with a 10% probability by 2028 and a 50% likelihood by 2045. The efficacy of massive language models and the knowledge that numerous intelligent capabilities may arise at scale are credited with these changes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
