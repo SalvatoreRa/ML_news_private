@@ -41,8 +41,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla finally releases FSD v12, its last hope for self-driving.](https://electrek.co/2024/01/22/tesla-releases-fsd-v12-last-hope-self-driving/) |Tesla has finally started releasing its FSD Beta v12 update to customers, which is sort of its last hope to deliver on its self-driving promises. |
 |[Code LoRA From Scratch.](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch) | LoRA, which stands for Low-Rank Adaptation, is a popular technique to finetune LLMs more efficiently. Instead of adjusting all the parameters of a deep neural network, LoRA focuses on updating only a small set of low-rank matrices. This Studio explains how LoRA works by coding it from scratch, which is an excellent exercise for looking under the hood of an algorithm.|
 |[Microsoft’s Nadella Wants Stability at OpenAI, Not Control.](https://www.bloomberg.com/news/articles/2024-01-16/microsoft-s-nadella-wants-stability-at-openai-not-more-control) |In the midst of regulatory reviews in the EU and the UK, Microsoft CEO Satya Nadella is happy with the current condition of Microsoft's cooperation with OpenAI, emphasizing stability above control. He highlights both Microsoft's substantial funding in OpenAI and their own autonomous AI research. |
-|[.]() | |
-|[.]() | |
+|[ElevenLabs Releases New Voice AI Products and Raises $80M Series B.](https://elevenlabs.io/blog/series-b/) | To strengthen its position in voice AI research and product development|
+|[Google Chrome gains AI features, including a writing helper, theme creator, and tab organizer.](https://techcrunch.com/2024/01/23/google-chrome-gains-ai-features-including-a-writing-helper-theme-creator-and-tab-organizer/) | Google’s Chrome web browser is getting an infusion of AI technology in the latest release. The company announced today it’s soon adding a trio of new AI-powered features to Chrome for Mac and Windows, including a way to smartly organize your tabs, customize your theme, and get help when writing things on the web — like forum posts, online reviews, and more.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
