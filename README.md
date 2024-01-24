@@ -17,9 +17,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Unleashing the Power of Large-Scale Unlabeled Data.](https://depth-anything.github.io/) |Depth Anything is trained on 1.5M labeled images and 62M+ unlabeled images jointly, providing the most capable Monocular Depth Estimation (MDE) |
 |[Prompt Highlighter: Interactive Control for Multi-Modal LLMs.](https://julianjuaner.github.io/projects/PromptHighlighter/) | By enabling users to highlight specific portions of prompts, researchers present the "Prompt Highlighter," a technique that transforms text production in multi-modal language models.|
 |[MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer.](https://github.com/opengvlab/mm-interleaved) | A novel generative model called MM-Interleaved is very good at handling and producing interleaved image-text data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation.](https://arxiv.org/abs/2401.08417) | A different preference optimization method is now being used in machine translation. For this job, it is more data-efficient than DPO. Crucially, the goal prevented the model from suggesting correct but inadequate translations, allowing it to perform competitively on WMT.|
+|[WARM: On the Benefits of Weight Averaged Reward Models.](https://arxiv.org/abs/2401.12187) |In RLHF, reward models are employed to simulate human desire; nevertheless, the model that is being aligned frequently "hacks the reward" and performs poorly. The resultant aligned model is favored 79% of the time over one aligned with a single reward model. This is achieved by combining numerous reward models that maintain a linear mode connection. Although model merging may be merely regularization, it has shown to be an effective training phase for the general language model pipeline and has performed fairly well in general models. |
+|[Benchmarking Large Multimodal Models against Common Corruptions.](https://arxiv.org/abs/2401.11943) | This technical study introduces MMCBench, a new benchmark created to evaluate large multimodal models' (LMMs) consistency and dependability on a variety of tasks, including text-to-image and speech-to-text. It covers more than 100 well-known models with the goal of helping readers better comprehend how various AI systems function in practical situations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -66,7 +66,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Toolkit.](https://github.com/linkdd/aitoolkit) | AI Toolkit is a header-only C++ library which provides tools for building the brain of your game's NPCs.|
 |[Face Mixer Diffusion.](https://www.justinpinkney.com/blog/2024/face-mixer-diffusion/?utm_source=tldrai) | This piece demonstrates how to clone faces in photos using diffusion. Although there are other methods for creating deep fakes, diffusion is intriguing since it allows for the necessary inpainting of other image elements.|
 |[Self-Rewarding Language Model.](https://github.com/lucidrains/self-rewarding-lm-pytorch) |Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI |
-|[.]() | |
+|[snorkelai/Snorkel-Mistral-PairRM-DPO.](https://huggingface.co/snorkelai/Snorkel-Mistral-PairRM-DPO) | A powerful new Mistral tune that creates a DPO-compatible dataset by cleverly using poor supervision and synthetic data. Numerous iterations of the described procedure can be used for a broad range of corporate use cases.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
