@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft’s Nadella Wants Stability at OpenAI, Not Control.](https://www.bloomberg.com/news/articles/2024-01-16/microsoft-s-nadella-wants-stability-at-openai-not-more-control) |In the midst of regulatory reviews in the EU and the UK, Microsoft CEO Satya Nadella is happy with the current condition of Microsoft's cooperation with OpenAI, emphasizing stability above control. He highlights both Microsoft's substantial funding in OpenAI and their own autonomous AI research. |
 |[ElevenLabs Releases New Voice AI Products and Raises $80M Series B.](https://elevenlabs.io/blog/series-b/) | To strengthen its position in voice AI research and product development|
 |[Google Chrome gains AI features, including a writing helper, theme creator, and tab organizer.](https://techcrunch.com/2024/01/23/google-chrome-gains-ai-features-including-a-writing-helper-theme-creator-and-tab-organizer/) | Google’s Chrome web browser is getting an infusion of AI technology in the latest release. The company announced today it’s soon adding a trio of new AI-powered features to Chrome for Mac and Windows, including a way to smartly organize your tabs, customize your theme, and get help when writing things on the web — like forum posts, online reviews, and more.|
-|[.]() | |
+|[Anthropic researchers find that AI models can be trained to deceive.](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive/) | Most humans learn the skill of deceiving other humans. So can AI models learn the same? Yes, the answer seems — and terrifyingly, they’re exceptionally good at it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -67,9 +67,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Face Mixer Diffusion.](https://www.justinpinkney.com/blog/2024/face-mixer-diffusion/?utm_source=tldrai) | This piece demonstrates how to clone faces in photos using diffusion. Although there are other methods for creating deep fakes, diffusion is intriguing since it allows for the necessary inpainting of other image elements.|
 |[Self-Rewarding Language Model.](https://github.com/lucidrains/self-rewarding-lm-pytorch) |Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI |
 |[snorkelai/Snorkel-Mistral-PairRM-DPO.](https://huggingface.co/snorkelai/Snorkel-Mistral-PairRM-DPO) | A powerful new Mistral tune that creates a DPO-compatible dataset by cleverly using poor supervision and synthetic data. Numerous iterations of the described procedure can be used for a broad range of corporate use cases.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[nanoColBERT.](https://github.com/Hannibal046/nanoColBERT) | ColBERT is a powerful late-interaction model that could perform both retrieval and reranking.|
+|[RPG-DiffusionMaster.](https://github.com/yangling0818/rpg-diffusionmaster) | RPG is a powerful training-free paradigm that can utilize proprietary MLLMs (e.g., GPT-4, Gemini-Pro) or open-source local MLLMs (e.g., miniGPT-4) as the prompt recaptioner and region planner with our complementary regional diffusion to achieve SOTA text-to-image generation and editing. Our framework is very flexible and can generalize to arbitrary MLLM architectures and diffusion backbones. |
+|[Matrix Multiplication: Optimizing the code from 6 hours to 1 sec.](A brief read about matrix multiplication optimizations particular to certain hardware and a generic procedure to accelerate AI programs.) |https://vaibhaw-vipul.medium.com/matrix-multiplication-optimizing-the-code-from-6-hours-to-1-sec-70889d33dcfa |
+|[SyncTalk: Mastering Realism in Talking Head Videos.](https://ziqiaopeng.github.io/synctalk/) |A significant advancement in realistic talking head videos is SyncTalk. It solves earlier problems with lip motions, expressions, and facial identity synchronization. |
+|[Hallucination Leaderboard.](https://github.com/vectara/hallucination-leaderboard) |Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model. This evaluates how often an LLM introduces hallucinations when summarizing a document. We plan to update this regularly as our model and the LLMs get updated over time. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,9 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Text-to-Video: The Task, Challenges and the Current State.](https://huggingface.co/blog/text-to-video) |Text-to-video is next in line in the long list of incredible advances in generative models. How do these models work, how do they differ from text-to-image models, and what kind of performance can we expect from them?|
 |[My AI Timelines Have Sped Up (Again).](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html) |In light of developments in scaling up models, the author updated their forecasts for the AI timetable. As of right now, they predict that artificial general intelligence will be achieved with a 10% probability by 2028 and a 50% likelihood by 2045. The efficacy of massive language models and the knowledge that numerous intelligent capabilities may arise at scale are credited with these changes. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Should The Future Be Human?.](https://www.astralcodexten.com/p/should-the-future-be-human) | Elon Musk and Larry Page have a deep disagreement over the possible risks associated with artificial intelligence. Page has called Musk a "speciesist" for favoring humans over digital life forms, which has caused a gap in their friendship. This demonstrates the necessity for careful and deliberate development of AI technology and reflects the larger discussion on the influence of AI, which includes worries about consciousness, individuation, art, science, philosophy, and the potential for mergers between humans and AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
