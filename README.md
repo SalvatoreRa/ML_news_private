@@ -20,7 +20,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation.](https://arxiv.org/abs/2401.08417) | A different preference optimization method is now being used in machine translation. For this job, it is more data-efficient than DPO. Crucially, the goal prevented the model from suggesting correct but inadequate translations, allowing it to perform competitively on WMT.|
 |[WARM: On the Benefits of Weight Averaged Reward Models.](https://arxiv.org/abs/2401.12187) |In RLHF, reward models are employed to simulate human desire; nevertheless, the model that is being aligned frequently "hacks the reward" and performs poorly. The resultant aligned model is favored 79% of the time over one aligned with a single reward model. This is achieved by combining numerous reward models that maintain a linear mode connection. Although model merging may be merely regularization, it has shown to be an effective training phase for the general language model pipeline and has performed fairly well in general models. |
 |[Benchmarking Large Multimodal Models against Common Corruptions.](https://arxiv.org/abs/2401.11943) | This technical study introduces MMCBench, a new benchmark created to evaluate large multimodal models' (LMMs) consistency and dependability on a variety of tasks, including text-to-image and speech-to-text. It covers more than 100 well-known models with the goal of helping readers better comprehend how various AI systems function in practical situations.|
-|[.]() | |
+|[Predicting multiple conformations via sequence clustering and AlphaFold2.](https://www.nature.com/articles/s41586-023-06832-9) |AlphaFold2  has revolutionized structural biology by accurately predicting single structures of proteins. However, a protein’s biological function often depends on multiple conformational substates, and disease-causing point mutations often cause population changes within these substates |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,10 +96,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Text-to-Video: The Task, Challenges and the Current State.](https://huggingface.co/blog/text-to-video) |Text-to-video is next in line in the long list of incredible advances in generative models. How do these models work, how do they differ from text-to-image models, and what kind of performance can we expect from them?|
 |[My AI Timelines Have Sped Up (Again).](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html) |In light of developments in scaling up models, the author updated their forecasts for the AI timetable. As of right now, they predict that artificial general intelligence will be achieved with a 10% probability by 2028 and a 50% likelihood by 2045. The efficacy of massive language models and the knowledge that numerous intelligent capabilities may arise at scale are credited with these changes. |
 |[Should The Future Be Human?.](https://www.astralcodexten.com/p/should-the-future-be-human) | Elon Musk and Larry Page have a deep disagreement over the possible risks associated with artificial intelligence. Page has called Musk a "speciesist" for favoring humans over digital life forms, which has caused a gap in their friendship. This demonstrates the necessity for careful and deliberate development of AI technology and reflects the larger discussion on the influence of AI, which includes worries about consciousness, individuation, art, science, philosophy, and the potential for mergers between humans and AI.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Computers make mistakes and AI will make things worse — the law must recognize that.](https://www.nature.com/articles/d41586-024-00168-8) | A tragic scandal at the UK Post Office highlights the need for legal change, especially as organizations embrace artificial intelligence to enhance decision-making.|
+|[Google AI has better bedside manner than human doctors — and makes better diagnoses.](https://www.nature.com/articles/d41586-024-00099-4) | Researchers say their artificial-intelligence system could help to democratize medicine.|
+|[Tech developers must respect equitable AI access.](https://www.nature.com/articles/d41586-024-00185-7) | We argue for a legal framework to ensure equitable access to artificial intelligence (AI) tools, such as ChatGPT, to avoid limiting their benefits to a privileged few|
+|[Seven technologies to watch in 2024.](https://www.nature.com/articles/d41586-024-00173-x) | Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation|
 |[.]() | |
 |[.]() | |
 |[.]() | |
