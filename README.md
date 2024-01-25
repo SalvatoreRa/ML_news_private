@@ -28,6 +28,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -44,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ElevenLabs Releases New Voice AI Products and Raises $80M Series B.](https://elevenlabs.io/blog/series-b/) | To strengthen its position in voice AI research and product development|
 |[Google Chrome gains AI features, including a writing helper, theme creator, and tab organizer.](https://techcrunch.com/2024/01/23/google-chrome-gains-ai-features-including-a-writing-helper-theme-creator-and-tab-organizer/) | Google’s Chrome web browser is getting an infusion of AI technology in the latest release. The company announced today it’s soon adding a trio of new AI-powered features to Chrome for Mac and Windows, including a way to smartly organize your tabs, customize your theme, and get help when writing things on the web — like forum posts, online reviews, and more.|
 |[Anthropic researchers find that AI models can be trained to deceive.](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive/) | Most humans learn the skill of deceiving other humans. So can AI models learn the same? Yes, the answer seems — and terrifyingly, they’re exceptionally good at it.|
-|[.]() | |
+|[Google shows off Lumiere, a space-time diffusion model for realistic AI videos .](https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/) |Lumiere, a space-time diffusion model proposed by researchers from Google, Weizmann Institute of Science and Tel Aviv University to help with realistic video generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -72,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Matrix Multiplication: Optimizing the code from 6 hours to 1 sec.](https://vaibhaw-vipul.medium.com/matrix-multiplication-optimizing-the-code-from-6-hours-to-1-sec-70889d33dcfa) | A brief read about matrix multiplication optimizations particular to certain hardware and a generic procedure to accelerate AI programs.|
 |[SyncTalk: Mastering Realism in Talking Head Videos.](https://ziqiaopeng.github.io/synctalk/) |A significant advancement in realistic talking head videos is SyncTalk. It solves earlier problems with lip motions, expressions, and facial identity synchronization. |
 |[Hallucination Leaderboard.](https://github.com/vectara/hallucination-leaderboard) |Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model. This evaluates how often an LLM introduces hallucinations when summarizing a document. We plan to update this regularly as our model and the LLMs get updated over time. |
-|[.]() | |
-|[.]() | |
+|[Embedding English Wikipedia in under 15 minutes.](https://modal.com/blog/embedding-wikipedia) | Modal provides a serverless solution for organizations grappling with scaling workloads. Modal’s technology enables rapid scaling across many GPUs, which we can use to run large-scale workloads, such as generating embeddings for a massive text dataset, at lightning speed.|
+|[Concrete Steps to Get Started in Transformer Mechanistic Interpretability.](https://www.neelnanda.io/mechanistic-interpretability/getting-started) | Among the founders of Mechanistic Interpretability (MI) is Neel Nanda. This serves as his entry guide into the industry. It has two hundred specific open-ended questions. The research of language models' quantitative values, or MI, involves actually examining neurons. Even though there hasn't been much progress in this area of study yet, it is accessible because it doesn't demand a lot of processing power.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
