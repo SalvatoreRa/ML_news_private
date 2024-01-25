@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic researchers find that AI models can be trained to deceive.](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive/) | Most humans learn the skill of deceiving other humans. So can AI models learn the same? Yes, the answer seems — and terrifyingly, they’re exceptionally good at it.|
 |[Google shows off Lumiere, a space-time diffusion model for realistic AI videos .](https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/) |Lumiere, a space-time diffusion model proposed by researchers from Google, Weizmann Institute of Science and Tel Aviv University to help with realistic video generation. |
 |[Adept Fuyu-Heavy: A new multimodal model.](https://www.adept.ai/blog/adept-fuyu-heavy) |Adept Fuyu-Heavy is a new multimodal model designed specifically for digital agents. In particular, Fuyu-Heavy scores higher on the MMMU benchmark than even Gemini Pro.|
-|[.]() | |
+|[Report: Apple Making ‘Significant’ Push to Bring AI to iPhones.](https://www.pymnts.com/apple/2024/report-apple-making-significant-push-to-bring-ai-to-iphones/) |Apple is reportedly making a major push to bring artificial intelligence (AI) to the iPhone. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,10 +82,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Embedding English Wikipedia in under 15 minutes.](https://modal.com/blog/embedding-wikipedia) | Modal provides a serverless solution for organizations grappling with scaling workloads. Modal’s technology enables rapid scaling across many GPUs, which we can use to run large-scale workloads, such as generating embeddings for a massive text dataset, at lightning speed.|
 |[Concrete Steps to Get Started in Transformer Mechanistic Interpretability.](https://www.neelnanda.io/mechanistic-interpretability/getting-started) | Among the founders of Mechanistic Interpretability (MI) is Neel Nanda. This serves as his entry guide into the industry. It has two hundred specific open-ended questions. The research of language models' quantitative values, or MI, involves actually examining neurons. Even though there hasn't been much progress in this area of study yet, it is accessible because it doesn't demand a lot of processing power.|
 |[The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation.](https://github.com/mulab-mir/song-describer-dataset) | SDD contains ~1.1k captions for 706 permissively licensed music recordings. It is designed for use in evaluation of models that address music-and-language (M&L) tasks such as music captioning, text-to-music generation and music-language retrieval.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DiffMoog: A Modular Differentiable Commercial-like Synthesizer.](https://github.com/aisynth/diffmoog) | This repo contains the implementation of DiffMoog, a differential, subtractive, modular synthesizer, incorporating standard architecture and sound modules commonly found in commercial synthesizers.|
+|[TensorDict.](https://github.com/pytorch/tensordict) |TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device or point-to-point communication in distributed settings. The main purpose of TensorDict is to make code-bases more readable and modular by abstracting away tailored operations |
+|[Evaluation Metrics for LLM Applications In Production.](https://docs.parea.ai/blog/eval-metrics-for-llm-apps-in-prod) |How to measure the performance of LLM applications without ground truth data. |
+|[Asynchronous Local-SGD Training for Language Modeling.](https://github.com/google-deepmind/asyncdiloco) |This repository contains a Colab notebook that presents a minimal toy example replicating the observed optimization challenge in asynchronous Local-SGD. The task is to perform classification on a mixture of mixtures of Gaussian data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google AI has better bedside manner than human doctors — and makes better diagnoses.](https://www.nature.com/articles/d41586-024-00099-4) | Researchers say their artificial-intelligence system could help to democratize medicine.|
 |[Tech developers must respect equitable AI access.](https://www.nature.com/articles/d41586-024-00185-7) | We argue for a legal framework to ensure equitable access to artificial intelligence (AI) tools, such as ChatGPT, to avoid limiting their benefits to a privileged few|
 |[Seven technologies to watch in 2024.](https://www.nature.com/articles/d41586-024-00173-x) | Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation|
-|[.]() | |
+|[If AI Were Conscious, How Would We Know?.](https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we) | When discussing AI consciousness, references to Searle's Chinese Room Thought Experiment and the Turing Test are frequently made. The former examines whether an AI's conduct can be distinguished from that of a human, while the latter contends that exterior behavior is insufficient to demonstrate consciousness. Given that our knowledge of consciousness in AI is mostly derived on functionalist theories and human experiences, this argument emphasizes how difficult it is to define and identify consciousness in AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
