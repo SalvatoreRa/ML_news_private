@@ -23,8 +23,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Predicting multiple conformations via sequence clustering and AlphaFold2.](https://www.nature.com/articles/s41586-023-06832-9) |AlphaFold2  has revolutionized structural biology by accurately predicting single structures of proteins. However, a protein’s biological function often depends on multiple conformational substates, and disease-causing point mutations often cause population changes within these substates |
 |[HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds.](https://arxiv.org/abs/2310.20234v1) |HEDNet is a novel encoder-decoder network that aims to improve autonomous cars' ability to recognize 3D objects by tackling the problem of sparse point distribution in 3D situations. |
 |[Prompt Pool based Class-Incremental Continual Learning for Dialog State Tracking.](https://github.com/thu-spmi/ppt2dst) | This project proposes a novel prompt pool approach to recording the status of dialogs that does not need task IDs during testing, allowing it to adjust to changing user requirements.|
-|[.]() | |
-|[.]() | |
+|[DittoGym: Learning to Control Soft Shape-Shifting Robots.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -54,8 +53,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google shows off Lumiere, a space-time diffusion model for realistic AI videos .](https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/) |Lumiere, a space-time diffusion model proposed by researchers from Google, Weizmann Institute of Science and Tel Aviv University to help with realistic video generation. |
 |[Adept Fuyu-Heavy: A new multimodal model.](https://www.adept.ai/blog/adept-fuyu-heavy) |Adept Fuyu-Heavy is a new multimodal model designed specifically for digital agents. In particular, Fuyu-Heavy scores higher on the MMMU benchmark than even Gemini Pro.|
 |[Report: Apple Making ‘Significant’ Push to Bring AI to iPhones.](https://www.pymnts.com/apple/2024/report-apple-making-significant-push-to-bring-ai-to-iphones/) |Apple is reportedly making a major push to bring artificial intelligence (AI) to the iPhone. |
-|[.]() | |
-|[.]() | |
+|[Hugging Face and Google partner for open AI collaboration.](https://huggingface.co/blog/gcp-partnership) |Today, we are thrilled to announce our strategic partnership with Google Cloud to democratize good machine learning. We will collaborate with Google across open science, open source, cloud, and hardware to enable companies to build their own AI with the latest open models from Hugging Face and the latest cloud and hardware features from Google Cloud. |
+|[OpenAI's New embedding models and API updates.](https://openai.com/blog/new-embedding-models-and-api-updates) | We are launching a new generation of embedding models, new GPT-4 Turbo and moderation models, new API usage management tools, and soon, lower pricing on GPT-3.5 Turbo.|
+|[Announcing Qdrant's $28M Series A Funding Round.](https://qdrant.tech/blog/series-a-funding-round/) | The firm behind the vector database, which powers some of ChatGPT and X's "More like this," has secured funds to enhance its corporate solutions and extend its Rust-based vector store.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
