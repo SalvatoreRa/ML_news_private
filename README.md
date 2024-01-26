@@ -25,9 +25,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Prompt Pool based Class-Incremental Continual Learning for Dialog State Tracking.](https://github.com/thu-spmi/ppt2dst) | This project proposes a novel prompt pool approach to recording the status of dialogs that does not need task IDs during testing, allowing it to adjust to changing user requirements.|
 |[DittoGym: Learning to Control Soft Shape-Shifting Robots.](https://dittogym.github.io/) |A major problem with soft robotics is the wide control space. In this study, a simulator with a variety of tasks for handling soft objects that resemble "dittos" is introduced. It includes several powerful baselines, visualization, and utilities. |
 |[SGTR+: End-to-end Scene Graph Generation with Transformer.](https://arxiv.org/abs/2401.12835v1) | A novel technique that researchers have created speeds up and improves the efficiency of the scene graph creation process. Their transformer-based approach aims to enhance the model's comprehension and interconnection of many parts in a picture, resulting in enhanced performance on complex tasks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data.](https://dreamsim-nights.github.io/) | Based on how similar two photographs are to one another, image similarity systems provide a score. This study builds upon earlier approaches, mainly by using artificial intelligence and human preferences.|
+|[SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation.](https://arxiv.org/abs/2401.13560v2) | A model called SegMamba is intended for 3D medical image segmentation. In comparison to the Transformer architecture, it provides a more effective option. |
+|[SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation.](https://github.com/barrett-python/sfc) |To improve semantic segmentation, researchers have created the Shared Feature Calibration (SFC) technique. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
