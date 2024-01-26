@@ -23,8 +23,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Predicting multiple conformations via sequence clustering and AlphaFold2.](https://www.nature.com/articles/s41586-023-06832-9) |AlphaFold2  has revolutionized structural biology by accurately predicting single structures of proteins. However, a protein’s biological function often depends on multiple conformational substates, and disease-causing point mutations often cause population changes within these substates |
 |[HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds.](https://arxiv.org/abs/2310.20234v1) |HEDNet is a novel encoder-decoder network that aims to improve autonomous cars' ability to recognize 3D objects by tackling the problem of sparse point distribution in 3D situations. |
 |[Prompt Pool based Class-Incremental Continual Learning for Dialog State Tracking.](https://github.com/thu-spmi/ppt2dst) | This project proposes a novel prompt pool approach to recording the status of dialogs that does not need task IDs during testing, allowing it to adjust to changing user requirements.|
-|[DittoGym: Learning to Control Soft Shape-Shifting Robots.]() | |
-|[.]() | |
+|[DittoGym: Learning to Control Soft Shape-Shifting Robots.](https://dittogym.github.io/) |A major problem with soft robotics is the wide control space. In this study, a simulator with a variety of tasks for handling soft objects that resemble "dittos" is introduced. It includes several powerful baselines, visualization, and utilities. |
+|[SGTR+: End-to-end Scene Graph Generation with Transformer.](https://arxiv.org/abs/2401.12835v1) | A novel technique that researchers have created speeds up and improves the efficiency of the scene graph creation process. Their transformer-based approach aims to enhance the model's comprehension and interconnection of many parts in a picture, resulting in enhanced performance on complex tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,11 +86,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TensorDict.](https://github.com/pytorch/tensordict) |TensorDict is a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device or point-to-point communication in distributed settings. The main purpose of TensorDict is to make code-bases more readable and modular by abstracting away tailored operations |
 |[Evaluation Metrics for LLM Applications In Production.](https://docs.parea.ai/blog/eval-metrics-for-llm-apps-in-prod) |How to measure the performance of LLM applications without ground truth data. |
 |[Asynchronous Local-SGD Training for Language Modeling.](https://github.com/google-deepmind/asyncdiloco) |This repository contains a Colab notebook that presents a minimal toy example replicating the observed optimization challenge in asynchronous Local-SGD. The task is to perform classification on a mixture of mixtures of Gaussian data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[SpeechGPT: Speech Large Language Models.](https://github.com/0nutation/speechgpt) |A novel speech synthesis model called SpeechGPT-Gen effectively manages the intricacies of language and voice traits. |
+|[LLM Steer.](https://github.com/Mihaiii/llm_steer) |A Python module to steer LLM responses towards a certain topic/subject and to enhance capabilities (e.g., making it provide correct responses to tricky logical puzzles more often). A practical tool for using activation engineering by adding steer vectors to different layers of a Large Language Model (LLM). It should be used along with the transformers library. |
+|[RoMa: A lightweight library to deal with 3D rotations in PyTorch..](https://github.com/naver/roma) |RoMa (which stands for Rotation Manipulation) provides differentiable mappings between 3D rotation representations, mappings from Euclidean to rotation space, and various utilities related to rotations. It is implemented in PyTorch and aims to be an easy-to-use and reasonably efficient toolbox for Machine Learning and gradient-based optimization.|
+|[AgentBoard: An Analytical Evaluation Board of
+Multi-Turn LLM Agent.](https://hkust-nlp.github.io/agentboard/) | AgentBoard is a benchmark designed for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. Main Performance of different LLMs across various environments are shown below, please check our Result for more details.|
+|[makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch.](https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch) | This blog walks through implementing a sparse mixture of experts language model from scratch. This is inspired by and largely based on Andrej Karpathy's project 'makemore' and borrows a number of re-usable components from that implementation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tech developers must respect equitable AI access.](https://www.nature.com/articles/d41586-024-00185-7) | We argue for a legal framework to ensure equitable access to artificial intelligence (AI) tools, such as ChatGPT, to avoid limiting their benefits to a privileged few|
 |[Seven technologies to watch in 2024.](https://www.nature.com/articles/d41586-024-00173-x) | Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation|
 |[If AI Were Conscious, How Would We Know?.](https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we) | When discussing AI consciousness, references to Searle's Chinese Room Thought Experiment and the Turing Test are frequently made. The former examines whether an AI's conduct can be distinguished from that of a human, while the latter contends that exterior behavior is insufficient to demonstrate consciousness. Given that our knowledge of consciousness in AI is mostly derived on functionalist theories and human experiences, this argument emphasizes how difficult it is to define and identify consciousness in AI.|
-|[.]() | |
+|[AI today and trends for an AI future.](https://davidtsong.substack.com/p/ai-today-and-trends-for-an-ai-future) | A survey of experts on: How are early adopters using AI today? Where is AI going in 2024?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
