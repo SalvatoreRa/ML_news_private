@@ -28,12 +28,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data.](https://dreamsim-nights.github.io/) | Based on how similar two photographs are to one another, image similarity systems provide a score. This study builds upon earlier approaches, mainly by using artificial intelligence and human preferences.|
 |[SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation.](https://arxiv.org/abs/2401.13560v2) | A model called SegMamba is intended for 3D medical image segmentation. In comparison to the Transformer architecture, it provides a more effective option. |
 |[SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation.](https://github.com/barrett-python/sfc) |To improve semantic segmentation, researchers have created the Shared Feature Calibration (SFC) technique. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -56,13 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hugging Face and Google partner for open AI collaboration.](https://huggingface.co/blog/gcp-partnership) |Today, we are thrilled to announce our strategic partnership with Google Cloud to democratize good machine learning. We will collaborate with Google across open science, open source, cloud, and hardware to enable companies to build their own AI with the latest open models from Hugging Face and the latest cloud and hardware features from Google Cloud. |
 |[OpenAI's New embedding models and API updates.](https://openai.com/blog/new-embedding-models-and-api-updates) | We are launching a new generation of embedding models, new GPT-4 Turbo and moderation models, new API usage management tools, and soon, lower pricing on GPT-3.5 Turbo.|
 |[Announcing Qdrant's $28M Series A Funding Round.](https://qdrant.tech/blog/series-a-funding-round/) | The firm behind the vector database, which powers some of ChatGPT and X's "More like this," has secured funds to enhance its corporate solutions and extend its Rust-based vector store.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -92,10 +81,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AgentBoard: An Analytical Evaluation Board of
 Multi-Turn LLM Agent.](https://hkust-nlp.github.io/agentboard/) | AgentBoard is a benchmark designed for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. Main Performance of different LLMs across various environments are shown below, please check our Result for more details.|
 |[makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch.](https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch) | This blog walks through implementing a sparse mixture of experts language model from scratch. This is inspired by and largely based on Andrej Karpathy's project 'makemore' and borrows a number of re-usable components from that implementation. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -110,10 +95,6 @@ Multi-Turn LLM Agent.](https://hkust-nlp.github.io/agentboard/) | AgentBoard is 
 |[Seven technologies to watch in 2024.](https://www.nature.com/articles/d41586-024-00173-x) | Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation|
 |[If AI Were Conscious, How Would We Know?.](https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we) | When discussing AI consciousness, references to Searle's Chinese Room Thought Experiment and the Turing Test are frequently made. The former examines whether an AI's conduct can be distinguished from that of a human, while the latter contends that exterior behavior is insufficient to demonstrate consciousness. Given that our knowledge of consciousness in AI is mostly derived on functionalist theories and human experiences, this argument emphasizes how difficult it is to define and identify consciousness in AI.|
 |[AI today and trends for an AI future.](https://davidtsong.substack.com/p/ai-today-and-trends-for-an-ai-future) | A survey of experts on: How are early adopters using AI today? Where is AI going in 2024?|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ON WORKING
