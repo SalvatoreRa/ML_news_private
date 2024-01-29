@@ -3,7 +3,109 @@
 this is just a placeholder, the organized and correct repository is [here](https://github.com/SalvatoreRa/ML-news-of-the-week)
 
 # scheme
+
 # ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+# ON WORKING
+
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+# ML news: Week 22 - 28 January
 
 ## Research
 |Link|description|
@@ -97,37 +199,7 @@ Multi-Turn LLM Agent.](https://hkust-nlp.github.io/agentboard/) | AgentBoard is 
 |[AI today and trends for an AI future.](https://davidtsong.substack.com/p/ai-today-and-trends-for-an-ai-future) | A survey of experts on: How are early adopters using AI today? Where is AI going in 2024?|
 
 
-# ON WORKING
 
-# ML news:
-
-## Research
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-## News
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-## Resources
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-## Perspectives
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 15 - 21 January
 
