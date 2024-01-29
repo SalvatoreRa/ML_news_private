@@ -59,8 +59,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Voltron Data acquires Claypot to unlock real-time AI with modular data systems.](https://venturebeat.com/data-infrastructure/exclusive-voltron-data-acquires-claypot-to-unlock-real-time-ai-with-modular-data-systems/) |Today, San Francisco-based Voltron Data, a startup providing enterprises with a modular and composable approach to building systems for data analytics, confirmed to VentureBeat that is acquiring real-time AI platform Claypot. The terms of the deal were not disclosed. |
+|[FTC investigating Microsoft, Amazon, and Google investments into OpenAI and Anthropic.](https://www.theverge.com/2024/1/25/24050693/ftc-investigating-microsoft-amazon-google-investments-openai-anthropic) | The commission wants to understand the tangled web of investments between cloud providers and AI startups.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
