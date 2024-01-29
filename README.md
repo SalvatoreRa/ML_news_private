@@ -41,9 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Matryoshka Representation Learning.](https://arxiv.org/abs/2205.13147) |The new embeddings from OpenAI are scalable to meet your demands. This is thought to be caused by the learning strategy known as the nesting doll approach, which learns characteristics at different granularities. |
+|[Vivim: a Video Vision Mamba for Medical Video Object Segmentation.](https://arxiv.org/abs/2401.14168v1) | A new framework called Vivim efficiently processes lengthy video sequences for medical video object segmentation. In comparison to conventional techniques, Vivim provides faster and more accurate segmentation results by effectively compressing spatiotemporal data using the state space model methodology.|
+|[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities.](https://ailab-cvc.github.io/M2PT/) | This study presents a unique way to improve transformers by utilizing disparate input from many modalities, e.g., audio data to improve an image model. By connecting the transformers of two distinct modalities in a unique way, Multimodal Pathway enables a target modality to profit from the advantages of another.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Voltron Data acquires Claypot to unlock real-time AI with modular data systems.](https://venturebeat.com/data-infrastructure/exclusive-voltron-data-acquires-claypot-to-unlock-real-time-ai-with-modular-data-systems/) |Today, San Francisco-based Voltron Data, a startup providing enterprises with a modular and composable approach to building systems for data analytics, confirmed to VentureBeat that is acquiring real-time AI platform Claypot. The terms of the deal were not disclosed. |
 |[FTC investigating Microsoft, Amazon, and Google investments into OpenAI and Anthropic.](https://www.theverge.com/2024/1/25/24050693/ftc-investigating-microsoft-amazon-google-investments-openai-anthropic) | The commission wants to understand the tangled web of investments between cloud providers and AI startups.|
-|[.]() | |
+|[Google’s New AI Is Learning to Diagnose Patients.](https://spectrum.ieee.org/ai-doctor) | The DeepMind team turns to medicine with an AI model named AMIE|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -75,10 +75,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[imp-v1-3b .](https://huggingface.co/MILVLG/imp-v1-3b) |An additional multimodal model trained using SigLIP and Phi-2. This one is tiny enough to run on-device and provides very promising performance. |
+|[WebDataset.](https://huggingface.co/docs/hub/datasets-webdataset) |WebDataset is a library for writing I/O pipelines for large datasets. Its sequential I/O and sharding features make it especially useful for streaming large-scale datasets to a DataLoader. |
+|[LLMs-from-scratch.](https://github.com/rasbt/LLMs-from-scratch) | An unfinished yet intriguing series of exercises to teach language model building from beginning.|
+|[Exploring ColBERT with RAGatouille.](https://til.simonwillison.net/llms/colbert-ragatouille) | For RAG applications, ColBERT is a great paradigm to embed queries and index data. This article runs some benchmarks and examines the method's underlying intuition.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
