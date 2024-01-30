@@ -63,7 +63,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FTC investigating Microsoft, Amazon, and Google investments into OpenAI and Anthropic.](https://www.theverge.com/2024/1/25/24050693/ftc-investigating-microsoft-amazon-google-investments-openai-anthropic) | The commission wants to understand the tangled web of investments between cloud providers and AI startups.|
 |[Google’s New AI Is Learning to Diagnose Patients.](https://spectrum.ieee.org/ai-doctor) | The DeepMind team turns to medicine with an AI model named AMIE|
 |[1/100th of the cost: CPU startup Tachyum claims that one of its processing units can rival dozens of Nvidia H200 GPUs — with a 99% saving that could turn the AI market on its head if true.](https://www.techradar.com/pro/1100th-of-the-cost-cpu-startup-tachyum-claims-that-one-of-its-processing-units-can-rival-dozens-of-nvidia-h200-gpus-with-a-99-saving-that-could-turn-the-ai-market-on-its-head-if-true) |The 5nm Prodigy processor can dynamically switch between AI, HPC, and cloud workloads and costs $23,000 |
-|[.]() | |
+|[ChatGPT is violating Europe’s privacy laws, Italian DPA tells OpenAI.](https://techcrunch.com/2024/01/29/chatgpt-italy-gdpr-notification/) |https://techcrunch.com/2024/01/29/chatgpt-italy-gdpr-notification/ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs-from-scratch.](https://github.com/rasbt/LLMs-from-scratch) | An unfinished yet intriguing series of exercises to teach language model building from beginning.|
 |[Exploring ColBERT with RAGatouille.](https://til.simonwillison.net/llms/colbert-ragatouille) | For RAG applications, ColBERT is a great paradigm to embed queries and index data. This article runs some benchmarks and examines the method's underlying intuition.|
 |[mamba.rs.](https://github.com/LaurentMazare/mamba.rs) | Inspired by efforts on the Llama models, this project uses pure Rust to run inference for Mamba on the CPU.|
-|[.]() | |
-|[.]() | |
+|[🦙 Code Llama.](https://huggingface.co/codellama) |Code Llama is a code-specialized version of Llama 2 that was created by further training Llama 2 on its code-specific datasets, sampling more data from that same dataset for longer. |
+|[Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5).](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers) |A brand new era for the RWKV-v5 architecture and linear transformer's has arrived - with the strongest multi-lingual model in open source today |
 |[.]() | |
 |[.]() | |
 |[.]() | |
