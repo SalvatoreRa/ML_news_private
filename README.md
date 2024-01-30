@@ -45,11 +45,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Vivim: a Video Vision Mamba for Medical Video Object Segmentation.](https://arxiv.org/abs/2401.14168v1) | A new framework called Vivim efficiently processes lengthy video sequences for medical video object segmentation. In comparison to conventional techniques, Vivim provides faster and more accurate segmentation results by effectively compressing spatiotemporal data using the state space model methodology.|
 |[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities.](https://ailab-cvc.github.io/M2PT/) | This study presents a unique way to improve transformers by utilizing disparate input from many modalities, e.g., audio data to improve an image model. By connecting the transformers of two distinct modalities in a unique way, Multimodal Pathway enables a target modality to profit from the advantages of another.|
 |[pix2gestalt: Amodal Segmentation by Synthesizing Wholes.](https://gestalt.cs.columbia.edu/) | A framework called Pix2Gestalt is intended for zero-shot amodal segmentation. When an item is partially occluded, it can rebuild its entire shape and look with great skill. Pix2Gestalt, which makes use of large-scale diffusion models, performs exceptionally well in difficult situations, such as producing artistic images that break convention.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Large-Vocabulary 3D Diffusion Model with Transformer.](https://ziangcao0312.github.io/difftf_pages/) |The variety of objects that may be generated in 3D poses a significant difficulty. This study builds up the system to operate with a considerably bigger range of items in each 3D category and employs a changed architecture to enhance sampling efficiency. |
+|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns.](https://arxiv.org/abs/2401.15024) |Another potential distillation work. Importantly, this one can work on models as small as Phi-2. This means you can remove 90% of the rows and columns of weight matrices with minimal reduction to quality at almost all scales. |
+|[Learning Universal Predictors.](https://arxiv.org/abs/2401.14953) |The process of teaching systems to learn from experience and swiftly adjust to new tasks is known as meta-learning. With artificial data produced by a Universal Turing Machine, this Google project enhances Meta Learning and conducts both theoretical and experimental analysis of the outcomes. |
+|[CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion.](https://arxiv.org/abs/2401.14066v1) | CreativeSynth is an artistic picture editing technique that combines text and image inputs in a seamless manner. Its diffusion approach, which has specialized attention processes built in, allows for fine alteration of both style and content while maintaining the essential elements of the original artwork.|
+|[Annotated Hands for Generative Models.](https://arxiv.org/abs/2401.15075v1) |By adding three more channels to training photos for hand annotations, researchers have increased the capacity of generative models, such as GANs and diffusion models, to produce realistic hand images. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,6 +82,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[mamba.rs.](https://github.com/LaurentMazare/mamba.rs) | Inspired by efforts on the Llama models, this project uses pure Rust to run inference for Mamba on the CPU.|
 |[🦙 Code Llama.](https://huggingface.co/codellama) |Code Llama is a code-specialized version of Llama 2 that was created by further training Llama 2 on its code-specific datasets, sampling more data from that same dataset for longer. |
 |[Eagle 7B : Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages (RWKV-v5).](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers) |A brand new era for the RWKV-v5 architecture and linear transformer's has arrived - with the strongest multi-lingual model in open source today |
+|[InconsistencyMasks.](https://github.com/michaelvorndran/inconsistencymasks) | A novel technique for picture segmentation called Inconsistency Masks (IM) functions even with sparse data. Tested on the ISIC 2018 dataset, our method performs better than conventional methods and even surpasses models trained on fully labeled datasets.|
+|[distortion-generator.](https://github.com/zamdimon/distortion-generator) |A novel technique for picture distortion strikes a compromise between privacy and accuracy in biometric systems, rendering facial photos incomprehensible to humans but yet identifiable to AI. |
+|[TaskingAI.](https://github.com/TaskingAI/TaskingAI) | TaskingAI brings Firebase's simplicity to AI-native app development. The platform enables the creation of GPTs-like multi-tenant applications using a wide range of LLMs from various providers. It features distinct, modular functions such as Inference, Retrieval, Assistant, and Tool, seamlessly integrated to enhance the development process.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
