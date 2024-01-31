@@ -55,6 +55,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -67,6 +72,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[This whimsical clock is the playful gadget AI needs right now.](https://www.fastcompany.com/91015583/this-whimsical-clock-is-the-playful-gadget-ai-needs-right-now) |The Poem/1 clock dreams up a new poem every minute to tell you the time. Do you need it? No. But you might want it. |
 |[iOS 17.4: Apple continues work on AI-powered Siri and Messages features, with help from ChatGPT.](https://9to5mac.com/2024/01/26/apple-siri-chatgpt-ios-18-development/) | Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new version of Siri powered by large language model technology, with a little help from other sources.|
 |[Opera to launch new AI-powered browser for iOS in Europe following Apple’s DMA changes.](https://techcrunch.com/2024/01/26/opera-to-launch-new-ai-powered-browser-for-ios-in-europe-following-apples-dma-changes/) |Opera revealed today that it will launch a new AI-powered browser built on its own engine for iOS in Europe. The Norway-based company announced the change following the news that Apple is going to allow alternative browser engines to run on iOS as a result of the requirements of the European Digital Markets Act (DMA).  |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[InconsistencyMasks.](https://github.com/michaelvorndran/inconsistencymasks) | A novel technique for picture segmentation called Inconsistency Masks (IM) functions even with sparse data. Tested on the ISIC 2018 dataset, our method performs better than conventional methods and even surpasses models trained on fully labeled datasets.|
 |[distortion-generator.](https://github.com/zamdimon/distortion-generator) |A novel technique for picture distortion strikes a compromise between privacy and accuracy in biometric systems, rendering facial photos incomprehensible to humans but yet identifiable to AI. |
 |[TaskingAI.](https://github.com/TaskingAI/TaskingAI) | TaskingAI brings Firebase's simplicity to AI-native app development. The platform enables the creation of GPTs-like multi-tenant applications using a wide range of LLMs from various providers. It features distinct, modular functions such as Inference, Retrieval, Assistant, and Tool, seamlessly integrated to enhance the development process.|
-|[.]() | |
+|[100x Faster Clustering with Lilac Garden.](https://docs.lilacml.com/blog/introducing-garden.html) | A difficulty in language model training is locating a sufficiently varied dataset. It is considerably more difficult to visualize this data. This useful tool facilitates data exploration to enhance filtering and overall quality through topic modeling and quick clustering.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
