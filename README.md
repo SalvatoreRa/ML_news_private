@@ -50,10 +50,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Learning Universal Predictors.](https://arxiv.org/abs/2401.14953) |The process of teaching systems to learn from experience and swiftly adjust to new tasks is known as meta-learning. With artificial data produced by a Universal Turing Machine, this Google project enhances Meta Learning and conducts both theoretical and experimental analysis of the outcomes. |
 |[CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion.](https://arxiv.org/abs/2401.14066v1) | CreativeSynth is an artistic picture editing technique that combines text and image inputs in a seamless manner. Its diffusion approach, which has specialized attention processes built in, allows for fine alteration of both style and content while maintaining the essential elements of the original artwork.|
 |[Annotated Hands for Generative Models.](https://arxiv.org/abs/2401.15075v1) |By adding three more channels to training photos for hand annotations, researchers have increased the capacity of generative models, such as GANs and diffusion models, to produce realistic hand images. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling.](https://arxiv.org/abs/2401.16380) | Many AI systems employ the concept of "up captioning" to enhance labels during training. This work from Apple rephrases C4 as instructions, Q&A pairs, and more in order to apply it to pre-training. The rephrasing step increased convergence by 10x, according to the study, making the model significantly more sample-efficient, albeit at the expense of the rephrasing step itself.|
+|[Continual Learning with Pre-Trained Models: A Survey.](https://arxiv.org/abs/2401.16386v1) |This work provides an extensive overview of the most recent developments in continuous learning, which is centered on continually adjusting to new information while preserving prior understanding. |
+|[MacGNN.](https://github.com/yuanchenbei/macgnn) |The MAcro Recommendation Graph (MAG) and Macro Graph Neural Networks (MacGNN) are introduced in this research. These methods greatly reduce the number of nodes by assembling similar behavior patterns into macro nodes, which addresses the computational difficulty of Graph Neural Networks. |
+|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns.](https://arxiv.org/abs/2401.15024v1) |A unique post-training sparsification approach is introduced by SliceGPT to lower the resource requirements of big language models. In large models such as LLAMA2-70B and OPT 66B, it can eliminate up to 25% of the model parameters while maintaining up to 99% task performance by substituting smaller weight matrices and lowering embedding dimensions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[distortion-generator.](https://github.com/zamdimon/distortion-generator) |A novel technique for picture distortion strikes a compromise between privacy and accuracy in biometric systems, rendering facial photos incomprehensible to humans but yet identifiable to AI. |
 |[TaskingAI.](https://github.com/TaskingAI/TaskingAI) | TaskingAI brings Firebase's simplicity to AI-native app development. The platform enables the creation of GPTs-like multi-tenant applications using a wide range of LLMs from various providers. It features distinct, modular functions such as Inference, Retrieval, Assistant, and Tool, seamlessly integrated to enhance the development process.|
 |[100x Faster Clustering with Lilac Garden.](https://docs.lilacml.com/blog/introducing-garden.html) | A difficulty in language model training is locating a sufficiently varied dataset. It is considerably more difficult to visualize this data. This useful tool facilitates data exploration to enhance filtering and overall quality through topic modeling and quick clustering.|
-|[.]() | |
-|[.]() | |
+|[float8_experimental.](https://github.com/pytorch-labs/float8_experimental) |Although less precise model training is quicker and less expensive, it is less reliable. Quantized training has been the subject of several excellent contemporary studies. Building on those foundations, this repository offers float8 teaching through readable and hackable code. |
+|[Enchanted.](https://github.com/AugustDev/enchanted) | Enchanted is open source, Ollama compatible, elegant iOS/iPad mobile app for chatting with privately hosted models such as Llama 2, Mistral, Vicuna, Starling and more. It's essentially ChatGPT app UI that connects to your private Ollama models. You can download Enchanted from the App Store or build yourself from scratch.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
