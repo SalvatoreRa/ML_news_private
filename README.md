@@ -64,9 +64,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s New AI Is Learning to Diagnose Patients.](https://spectrum.ieee.org/ai-doctor) | The DeepMind team turns to medicine with an AI model named AMIE|
 |[1/100th of the cost: CPU startup Tachyum claims that one of its processing units can rival dozens of Nvidia H200 GPUs — with a 99% saving that could turn the AI market on its head if true.](https://www.techradar.com/pro/1100th-of-the-cost-cpu-startup-tachyum-claims-that-one-of-its-processing-units-can-rival-dozens-of-nvidia-h200-gpus-with-a-99-saving-that-could-turn-the-ai-market-on-its-head-if-true) |The 5nm Prodigy processor can dynamically switch between AI, HPC, and cloud workloads and costs $23,000 |
 |[ChatGPT is violating Europe’s privacy laws, Italian DPA tells OpenAI.](https://techcrunch.com/2024/01/29/chatgpt-italy-gdpr-notification/) |https://techcrunch.com/2024/01/29/chatgpt-italy-gdpr-notification/ |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[This whimsical clock is the playful gadget AI needs right now.](https://www.fastcompany.com/91015583/this-whimsical-clock-is-the-playful-gadget-ai-needs-right-now) |The Poem/1 clock dreams up a new poem every minute to tell you the time. Do you need it? No. But you might want it. |
+|[iOS 17.4: Apple continues work on AI-powered Siri and Messages features, with help from ChatGPT.](https://9to5mac.com/2024/01/26/apple-siri-chatgpt-ios-18-development/) | Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new version of Siri powered by large language model technology, with a little help from other sources.|
+|[Opera to launch new AI-powered browser for iOS in Europe following Apple’s DMA changes.](https://techcrunch.com/2024/01/26/opera-to-launch-new-ai-powered-browser-for-ios-in-europe-following-apples-dma-changes/) |Opera revealed today that it will launch a new AI-powered browser built on its own engine for iOS in Europe. The Norway-based company announced the change following the news that Apple is going to allow alternative browser engines to run on iOS as a result of the requirements of the European Digital Markets Act (DMA).  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
