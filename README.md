@@ -104,6 +104,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[float8_experimental.](https://github.com/pytorch-labs/float8_experimental) |Although less precise model training is quicker and less expensive, it is less reliable. Quantized training has been the subject of several excellent contemporary studies. Building on those foundations, this repository offers float8 teaching through readable and hackable code. |
 |[Enchanted.](https://github.com/AugustDev/enchanted) | Enchanted is open source, Ollama compatible, elegant iOS/iPad mobile app for chatting with privately hosted models such as Llama 2, Mistral, Vicuna, Starling and more. It's essentially ChatGPT app UI that connects to your private Ollama models. You can download Enchanted from the App Store or build yourself from scratch.|
 |[Introduction to point processing.](https://medium.com/ai-in-plain-english/introduction-to-point-processing-b9d022ad8cf8) | Whether you are doing medical image analysis or you use Photoshop, you are using point preprocessing|
+|[MF-MOS: A Motion-Focused Model for Moving Object Segmentation.](https://github.com/scnu-rislab/mf-mos) |A new model called MF-MOS makes use of LiDAR technology to more effectively identify moving objects during autonomous driving. Using residual maps for motion capture and range pictures for semantic guiding, it distinguishes motion from semantic information in a unique way. |
+|[Mctx: MCTS-in-JAX.](https://github.com/google-deepmind/mctx) |Mctx is a library with a JAX-native implementation of Monte Carlo tree search (MCTS) algorithms such as AlphaZero, MuZero, and Gumbel MuZero. For computation speed up, the implementation fully supports JIT-compilation. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AlphaFold found thousands of possible psychedelics. Will its predictions help drug discovery?](https://www.nature.com/articles/d41586-024-00130-8) | Researchers have doubted how useful the AI protein-structure tool will be in discovering medicines — now they are learning how to deploy it effectively. |
 |[Reaching carbon neutrality requires energy-efficient training of AI.](https://www.nature.com/articles/d41586-024-00200-x) |Artificial intelligence (AI) models have achieved remarkable success, but their training requires a huge amount of energy.  |
 |[What will robots think of us?](https://www.science.org/doi/10.1126/scirobotics.adn6096) | Two recent science fiction novels humorously illustrate the importance of correct robot mental models.|
-|[.]() | |
+|[What Can be Done in 59 Seconds: An Opportunity (and a Crisis).](https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
