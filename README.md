@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[100x Faster Clustering with Lilac Garden.](https://docs.lilacml.com/blog/introducing-garden.html) | A difficulty in language model training is locating a sufficiently varied dataset. It is considerably more difficult to visualize this data. This useful tool facilitates data exploration to enhance filtering and overall quality through topic modeling and quick clustering.|
 |[float8_experimental.](https://github.com/pytorch-labs/float8_experimental) |Although less precise model training is quicker and less expensive, it is less reliable. Quantized training has been the subject of several excellent contemporary studies. Building on those foundations, this repository offers float8 teaching through readable and hackable code. |
 |[Enchanted.](https://github.com/AugustDev/enchanted) | Enchanted is open source, Ollama compatible, elegant iOS/iPad mobile app for chatting with privately hosted models such as Llama 2, Mistral, Vicuna, Starling and more. It's essentially ChatGPT app UI that connects to your private Ollama models. You can download Enchanted from the App Store or build yourself from scratch.|
-|[.]() | |
+|[Introduction to point processing.](https://medium.com/ai-in-plain-english/introduction-to-point-processing-b9d022ad8cf8) | Whether you are doing medical image analysis or you use Photoshop, you are using point preprocessing|
 |[.]() | |
 |[.]() | |
 |[.]() | |
