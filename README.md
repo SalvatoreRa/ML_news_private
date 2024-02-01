@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Weaver: Foundation Models for Creative Writing.](https://arxiv.org/abs/2401.17268) | A group of models called Weaver have been trained especially to narrate stories. On a benchmark for storytelling, the biggest model (34B params) performs better than GPT-4.|
 |[Text Image Inpainting via Global Structure-Guided Diffusion Models.](https://arxiv.org/abs/2401.14832v1) |In this study, two datasets for handwritten words and scenes are introduced, along with a benchmark. With original, damaged, and assistant photos, the new Global Structure-guided Diffusion Model (GSDM) effectively recovers clean texts by taking use of text structure. Both picture quality and identification accuracy demonstrate notable gains. |
 |[Multi-granularity Correspondence Learning from Long-term Noisy Videos.](https://lin-yijie.github.io/projects/Norton/) | With Norton, the multi-granularity noisy correspondence problem in video-language studies is addressed, offering a novel strategy for enhancing long-term video comprehension. |
-|[.]() | |
+|[GPAvatar: Generalizable and Precise Head Avatar from Image(s).](https://xg-chu.github.io/project_gpavatar/) | With the use of a Multi Tri-planes Attention module and a dynamic point-based expression field, GPAvatar presents a novel technique for generating 3D head avatars from photos.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral CEO confirms ‘leak’ of new open source AI model nearing GPT-4 performance.](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/) | The past few days have been a wild ride for the growing open source AI community — even by its fast-moving and freewheeling standards.|
 |[Microsoft LASERs away LLM inaccuracies.](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai) | Microsoft’s LASER method seems counterintuitive, but it makes models trained on large amounts of data smaller and more accurate.|
 |[LLaVA-1.6: Improved reasoning, OCR, and world knowledge.](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) | The most recent iteration of the visual language model Llava features enhanced reasoning, global knowledge, and OCR. It complements Gemini in some duties. The model, code, and data will be made available by the Llava team.|
-|[.]() | |
+|[ServiceNow’s statement on AI.](https://www.linkedin.com/posts/tomasztunguz_servicenow-a-150b-market-cap-company-made-activity-7156752212608618496-R7Yy/) | The $150 billion market capitalization business ServiceNow revealed last week that, among all of its new product family launches, including its initial Pro SKU, its generation AI solutions generated the biggest net new ACV contribution for the first full quarter. It's exciting to see that enterprise-level AI applications are already contributing to significant revenue growth.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introduction to point processing.](https://medium.com/ai-in-plain-english/introduction-to-point-processing-b9d022ad8cf8) | Whether you are doing medical image analysis or you use Photoshop, you are using point preprocessing|
 |[MF-MOS: A Motion-Focused Model for Moving Object Segmentation.](https://github.com/scnu-rislab/mf-mos) |A new model called MF-MOS makes use of LiDAR technology to more effectively identify moving objects during autonomous driving. Using residual maps for motion capture and range pictures for semantic guiding, it distinguishes motion from semantic information in a unique way. |
 |[Mctx: MCTS-in-JAX.](https://github.com/google-deepmind/mctx) |Mctx is a library with a JAX-native implementation of Monte Carlo tree search (MCTS) algorithms such as AlphaZero, MuZero, and Gumbel MuZero. For computation speed up, the implementation fully supports JIT-compilation. |
-|[.]() | |
-|[.]() | |
+|[FireLLaVA: the first commercially permissive OSS LLaVA model.](https://fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model) |A new open vision model called FireLlava can be used for commercial applications after it was trained on data. It performs similarly to the first Llava, however not quite as well as Llava 1.5. |
+|[uAgents: AI Agent Framework.](https://github.com/fetchai/uAgents) |uAgents is a library developed by Fetch.ai that allows for creating autonomous AI agents in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AlphaFold found thousands of possible psychedelics. Will its predictions help drug discovery?](https://www.nature.com/articles/d41586-024-00130-8) | Researchers have doubted how useful the AI protein-structure tool will be in discovering medicines — now they are learning how to deploy it effectively. |
 |[Reaching carbon neutrality requires energy-efficient training of AI.](https://www.nature.com/articles/d41586-024-00200-x) |Artificial intelligence (AI) models have achieved remarkable success, but their training requires a huge amount of energy.  |
 |[What will robots think of us?](https://www.science.org/doi/10.1126/scirobotics.adn6096) | Two recent science fiction novels humorously illustrate the importance of correct robot mental models.|
-|[What Can be Done in 59 Seconds: An Opportunity (and a Crisis).](https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an) | |
+|[What Can be Done in 59 Seconds: An Opportunity (and a Crisis).](https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an) |AI is already capable of completing several jobs in less than a minute, thus businesses and staff will need to stress the need of utilizing AI for good rather than evil. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
