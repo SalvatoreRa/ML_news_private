@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Many AI Safety Orgs Have Tried to Criminalize Currently-Existing Open-Source AI.](https://1a3orn.com/sub/machine-learning-bans.html) | Numerous teams are attempting to address the difficulties posed by the quickly developing field of artificial intelligence. |
-|[.]() | |
-|[.]() | |
+|[AlphaFold found thousands of possible psychedelics. Will its predictions help drug discovery?](https://www.nature.com/articles/d41586-024-00130-8) | Researchers have doubted how useful the AI protein-structure tool will be in discovering medicines — now they are learning how to deploy it effectively. |
+|[Reaching carbon neutrality requires energy-efficient training of AI.](https://www.nature.com/articles/d41586-024-00200-x) |Artificial intelligence (AI) models have achieved remarkable success, but their training requires a huge amount of energy.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
