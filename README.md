@@ -72,9 +72,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[This whimsical clock is the playful gadget AI needs right now.](https://www.fastcompany.com/91015583/this-whimsical-clock-is-the-playful-gadget-ai-needs-right-now) |The Poem/1 clock dreams up a new poem every minute to tell you the time. Do you need it? No. But you might want it. |
 |[iOS 17.4: Apple continues work on AI-powered Siri and Messages features, with help from ChatGPT.](https://9to5mac.com/2024/01/26/apple-siri-chatgpt-ios-18-development/) | Apple is widely expected to unveil major new artificial intelligence features with iOS 18 in June. Code found by 9to5Mac in the first beta of iOS 17.4 shows that Apple is continuing to work on a new version of Siri powered by large language model technology, with a little help from other sources.|
 |[Opera to launch new AI-powered browser for iOS in Europe following Apple’s DMA changes.](https://techcrunch.com/2024/01/26/opera-to-launch-new-ai-powered-browser-for-ios-in-europe-following-apples-dma-changes/) |Opera revealed today that it will launch a new AI-powered browser built on its own engine for iOS in Europe. The Norway-based company announced the change following the news that Apple is going to allow alternative browser engines to run on iOS as a result of the requirements of the European Digital Markets Act (DMA).  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mistral CEO confirms ‘leak’ of new open source AI model nearing GPT-4 performance.](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/) | The past few days have been a wild ride for the growing open source AI community — even by its fast-moving and freewheeling standards.|
+|[Microsoft LASERs away LLM inaccuracies.](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai) | Microsoft’s LASER method seems counterintuitive, but it makes models trained on large amounts of data smaller and more accurate.|
+|[LLaVA-1.6: Improved reasoning, OCR, and world knowledge.](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) | The most recent iteration of the visual language model Llava features enhanced reasoning, global knowledge, and OCR. It complements Gemini in some duties. The model, code, and data will be made available by the Llava team.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
