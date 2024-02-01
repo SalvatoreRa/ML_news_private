@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Continual Learning with Pre-Trained Models: A Survey.](https://arxiv.org/abs/2401.16386v1) |This work provides an extensive overview of the most recent developments in continuous learning, which is centered on continually adjusting to new information while preserving prior understanding. |
 |[MacGNN.](https://github.com/yuanchenbei/macgnn) |The MAcro Recommendation Graph (MAG) and Macro Graph Neural Networks (MacGNN) are introduced in this research. These methods greatly reduce the number of nodes by assembling similar behavior patterns into macro nodes, which addresses the computational difficulty of Graph Neural Networks. |
 |[SliceGPT: Compress Large Language Models by Deleting Rows and Columns.](https://arxiv.org/abs/2401.15024v1) |A unique post-training sparsification approach is introduced by SliceGPT to lower the resource requirements of big language models. In large models such as LLAMA2-70B and OPT 66B, it can eliminate up to 25% of the model parameters while maintaining up to 99% task performance by substituting smaller weight matrices and lowering embedding dimensions. |
-|[.]() | |
+|[Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates.](https://www.science.org/doi/10.1126/science.adi3794) | Our framework can support permitting, policy design, and use of machine learning in regulatory implementation problems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
