@@ -81,6 +81,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft LASERs away LLM inaccuracies.](https://www.theverge.com/2024/1/31/24057362/microsoft-llm-accuracy-laser-research-ai) | Microsoft’s LASER method seems counterintuitive, but it makes models trained on large amounts of data smaller and more accurate.|
 |[LLaVA-1.6: Improved reasoning, OCR, and world knowledge.](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) | The most recent iteration of the visual language model Llava features enhanced reasoning, global knowledge, and OCR. It complements Gemini in some duties. The model, code, and data will be made available by the Llava team.|
 |[ServiceNow’s statement on AI.](https://www.linkedin.com/posts/tomasztunguz_servicenow-a-150b-market-cap-company-made-activity-7156752212608618496-R7Yy/) | The $150 billion market capitalization business ServiceNow revealed last week that, among all of its new product family launches, including its initial Pro SKU, its generation AI solutions generated the biggest net new ACV contribution for the first full quarter. It's exciting to see that enterprise-level AI applications are already contributing to significant revenue growth.|
+|[Bard’s latest updates: Access Gemini Pro globally and generate images.](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/amp/) |you can now generate images in Bard in English in most countries around the world, at no cost. This new capability is powered by our updated Imagen 2 model |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mctx: MCTS-in-JAX.](https://github.com/google-deepmind/mctx) |Mctx is a library with a JAX-native implementation of Monte Carlo tree search (MCTS) algorithms such as AlphaZero, MuZero, and Gumbel MuZero. For computation speed up, the implementation fully supports JIT-compilation. |
 |[FireLLaVA: the first commercially permissive OSS LLaVA model.](https://fireworks.ai/blog/firellava-the-first-commercially-permissive-oss-llava-model) |A new open vision model called FireLlava can be used for commercial applications after it was trained on data. It performs similarly to the first Llava, however not quite as well as Llava 1.5. |
 |[uAgents: AI Agent Framework.](https://github.com/fetchai/uAgents) |uAgents is a library developed by Fetch.ai that allows for creating autonomous AI agents in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events. |
-|[.]() | |
-|[.]() | |
+|[teknium/OpenHermes-2.5.](https://huggingface.co/datasets/teknium/OpenHermes-2.5) | Some of the top open models available have been trained using data from OpenHermes-2.5. More than one million high-quality data points are included in the collection. It's now available for purchase.|
+|[OLMo: Open Language Model.](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580) |A State-Of-The-Art, Truly Open LLM and Framework |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reaching carbon neutrality requires energy-efficient training of AI.](https://www.nature.com/articles/d41586-024-00200-x) |Artificial intelligence (AI) models have achieved remarkable success, but their training requires a huge amount of energy.  |
 |[What will robots think of us?](https://www.science.org/doi/10.1126/scirobotics.adn6096) | Two recent science fiction novels humorously illustrate the importance of correct robot mental models.|
 |[What Can be Done in 59 Seconds: An Opportunity (and a Crisis).](https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an) |AI is already capable of completing several jobs in less than a minute, thus businesses and staff will need to stress the need of utilizing AI for good rather than evil. |
-|[.]() | |
+|[The American Dynamism 50: AI.](https://a16z.com/american-dynamism-50-ai/) |This list of 50 companies, compiled by a16z, addresses some of the most important issues facing the US in the areas of manufacturing, transportation, energy, and military. They're all utilizing AI to speed up their work in one way or another. This is an excellent insight if you're interested in practical uses of artificial intelligence. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
