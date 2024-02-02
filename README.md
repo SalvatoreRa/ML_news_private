@@ -58,7 +58,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Text Image Inpainting via Global Structure-Guided Diffusion Models.](https://arxiv.org/abs/2401.14832v1) |In this study, two datasets for handwritten words and scenes are introduced, along with a benchmark. With original, damaged, and assistant photos, the new Global Structure-guided Diffusion Model (GSDM) effectively recovers clean texts by taking use of text structure. Both picture quality and identification accuracy demonstrate notable gains. |
 |[Multi-granularity Correspondence Learning from Long-term Noisy Videos.](https://lin-yijie.github.io/projects/Norton/) | With Norton, the multi-granularity noisy correspondence problem in video-language studies is addressed, offering a novel strategy for enhancing long-term video comprehension. |
 |[GPAvatar: Generalizable and Precise Head Avatar from Image(s).](https://xg-chu.github.io/project_gpavatar/) | With the use of a Multi Tri-planes Attention module and a dynamic point-based expression field, GPAvatar presents a novel technique for generating 3D head avatars from photos.|
-|[.]() | |
+|[MobileDiffusion: Rapid text-to-image generation on-device.](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html) |With certain architectural modifications, Google has demonstrated a latent consistency diffusion model that it trained for sub-second generation times on mobile devices. |
+|[SNP-S3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks.](https://arxiv.org/abs/2401.17773v1) | Shared Network Pre-training (SNP) enhances the joint learning of text and video. Compared to earlier models, this approach is more effective and adaptable and incorporates a novel technique called Significant Semantic Strengthening (S3) to improve comprehension of important terms in sentences.|
+|[Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation.](https://github.com/ymy-k/hi-sam) | An improved version of the Segment Anything Model (SAM) with a focus on hierarchical text segmentation is called Hi-SAM. Hi-SAM is an excellent text segmenter at several levels, ranging from strokes to paragraphs, and it can even analyze layouts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLaVA-1.6: Improved reasoning, OCR, and world knowledge.](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/) | The most recent iteration of the visual language model Llava features enhanced reasoning, global knowledge, and OCR. It complements Gemini in some duties. The model, code, and data will be made available by the Llava team.|
 |[ServiceNow’s statement on AI.](https://www.linkedin.com/posts/tomasztunguz_servicenow-a-150b-market-cap-company-made-activity-7156752212608618496-R7Yy/) | The $150 billion market capitalization business ServiceNow revealed last week that, among all of its new product family launches, including its initial Pro SKU, its generation AI solutions generated the biggest net new ACV contribution for the first full quarter. It's exciting to see that enterprise-level AI applications are already contributing to significant revenue growth.|
 |[Bard’s latest updates: Access Gemini Pro globally and generate images.](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/amp/) |you can now generate images in Bard in English in most countries around the world, at no cost. This new capability is powered by our updated Imagen 2 model |
-|[.]() | |
+|[Amazon debuts ‘Rufus,’ an AI shopping assistant in its mobile app.](https://techcrunch.com/2024/02/01/amazon-debuts-rufus-an-ai-shopping-assistant-in-its-mobile-app/) |Amazon announced today the launch of an AI-powered shopping assistant it’s calling Rufus that’s been trained on the e-commerce giant’s product catalog as well as information from around the web. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,9 +114,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[uAgents: AI Agent Framework.](https://github.com/fetchai/uAgents) |uAgents is a library developed by Fetch.ai that allows for creating autonomous AI agents in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events. |
 |[teknium/OpenHermes-2.5.](https://huggingface.co/datasets/teknium/OpenHermes-2.5) | Some of the top open models available have been trained using data from OpenHermes-2.5. More than one million high-quality data points are included in the collection. It's now available for purchase.|
 |[OLMo: Open Language Model.](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580) |A State-Of-The-Art, Truly Open LLM and Framework |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[BAAI/bge-m3.](https://huggingface.co/BAAI/bge-m3) |A flexible embedding model that performs very well in multi-functionality (dense, multi-vector, and sparse retrieval), multi-linguistic (supporting more than 100 languages), and multi-granularity (managing inputs ranging from brief phrases to documents with up to 8192 tokens) is presented by the BGE-M3 project. It makes use of a hybrid retrieval pipeline, which leverages its simultaneous embedding and sparse retrieval capabilities, to combine several techniques and re-ranking for increased accuracy and generalization. |
+|[RAGs.](https://github.com/run-llama/rags) |Using natural language, users can develop RAG pipelines from data sources with the help of the Streamlit app RAGs. All users need to do is specify the parameters and tasks they require from their RAG systems. You can query the RAG, and it will respond to inquiries about the information.|
+|[GPT Newspaper.](https://github.com/assafelovic/gpt-newspaper) | GPT Newspaper project, an innovative autonomous agent designed to create personalized newspapers tailored to user preferences. GPT Newspaper revolutionizes the way we consume news by leveraging the power of AI to curate, write, design, and edit content based on individual tastes and interests. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
