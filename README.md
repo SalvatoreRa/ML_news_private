@@ -41,10 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection.](https://arxiv.org/abs/2309.12247) |When it comes to detecting bogus news, a refined BERT model performs better than an off-the-shelf LLM like GPT-3.5-turbo. |
+|[PAP-REC: Personalized Automatic Prompt for Recommendation Language Model.](https://arxiv.org/abs/2402.00284v1) |In order to improve the efficacy and efficiency of Recommendation Language Models, PAP-REC has developed a technique that automatically generates tailored prompts. |
+|[PAM: Prompting Audio-Language Models for Audio Quality Assessment.](https://arxiv.org/abs/2402.00282v1) | PAM is a tool that evaluates audio quality without reference tracks or specific training by using Audio-Language Models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -63,8 +62,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Sakana Awarded Japanese Government Supercomputing Grant.](https://sakana.ai/nedo-grant/) |Sakana AI is one of seven institutions in Japan chosen by the Japanese government to receive a supercomputing grant, for encouraging development of foundation AI models to strengthen the capabilities of Japan’s generative AI ecosystem. |
+|[Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs.](https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/) | Hugging Face, the New York City-based startup that offers a popular, developer-focused repository for open source AI code and frameworks (and hosted last year’s “Woodstock of AI”), today announced the launch of third-party, customizable Hugging Chat Assistants.|
+|[Arc is building an AI agent that browses on your behalf.](https://techcrunch.com/2024/02/01/arc-is-building-an-ai-agent-that-browses-on-your-behalf/) | The Browser Company, which makes the Arc Browser, is on a quest to change that by building an AI that surfs the web for you and gets you the results while bypassing search engines. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
