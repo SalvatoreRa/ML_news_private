@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection.](https://arxiv.org/abs/2309.12247) |When it comes to detecting bogus news, a refined BERT model performs better than an off-the-shelf LLM like GPT-3.5-turbo. |
 |[PAP-REC: Personalized Automatic Prompt for Recommendation Language Model.](https://arxiv.org/abs/2402.00284v1) |In order to improve the efficacy and efficiency of Recommendation Language Models, PAP-REC has developed a technique that automatically generates tailored prompts. |
 |[PAM: Prompting Audio-Language Models for Audio Quality Assessment.](https://arxiv.org/abs/2402.00282v1) | PAM is a tool that evaluates audio quality without reference tracks or specific training by using Audio-Language Models.|
-|[.]() | |
+|[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning.](https://animatelcm.github.io/) |AnimateLCM is a novel method that divides the learning process into two halves in order to rapidly produce high-quality films and enhance current video diffusion models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[chatllm-vscode.](https://marketplace.visualstudio.com/items?itemName=locuslab.chatllm-vscode) | ChatLLM is a VSCode extension for interacting with LLM APIs in a flexible and long-form manner. It leverages the VSCode notebook support to do so, creating a new type of notebook (.chatllm) files where you can interact with an (API-based) LLM system over a long document. |
 |[diffusers v0.26.0.](https://github.com/huggingface/diffusers/releases/tag/v0.26.0) |This new release comes with two new video pipelines, a more unified and consistent experience for single-file checkpoint loading, support for multiple IP-Adapters’ inference with multiple reference images, and more. |
 |[Ollama vision models.](https://ollama.ai/blog/vision-models) |Recently, support for vision models was introduced by Ollama. Llava 1.6 comes with both Python and JavaScript packages that offer enhanced support and vision functionality. |
-|[.]() | |
-|[.]() | |
+|[Image to Music v2.](https://huggingface.co/posts/fffiloni/484223631728087) |Images to text, text to prompt, and prompt to music can all be translated into a visually appealing pipeline. |
+|[3DTopia.](https://github.com/3DTopia/3DTopia) |A two-stage text-to-3D generation model. The first stage uses diffusion model to quickly generate candidates. The second stage refines the assets chosen from the first stage. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
