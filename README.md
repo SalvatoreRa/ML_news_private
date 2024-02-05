@@ -88,10 +88,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[aphrodite-engine.](https://github.com/PygmalionAI/aphrodite-engine) | For AI inference workloads, the Aphrodite engine can increase throughput while lowering VRAM needs.|
+|[chatllm-vscode.](https://marketplace.visualstudio.com/items?itemName=locuslab.chatllm-vscode) | ChatLLM is a VSCode extension for interacting with LLM APIs in a flexible and long-form manner. It leverages the VSCode notebook support to do so, creating a new type of notebook (.chatllm) files where you can interact with an (API-based) LLM system over a long document. |
+|[diffusers v0.26.0.](https://github.com/huggingface/diffusers/releases/tag/v0.26.0) |This new release comes with two new video pipelines, a more unified and consistent experience for single-file checkpoint loading, support for multiple IP-Adapters’ inference with multiple reference images, and more. |
+|[Ollama vision models.](https://ollama.ai/blog/vision-models) |Recently, support for vision models was introduced by Ollama. Llava 1.6 comes with both Python and JavaScript packages that offer enhanced support and vision functionality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
