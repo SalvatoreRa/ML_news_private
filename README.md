@@ -41,6 +41,36 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+# ML news: Week 29 January - 4 February
+
+## Research
+|Link|description|
+|---|---|
 |[Matryoshka Representation Learning.](https://arxiv.org/abs/2205.13147) |The new embeddings from OpenAI are scalable to meet your demands. This is thought to be caused by the learning strategy known as the nesting doll approach, which learns characteristics at different granularities. |
 |[Vivim: a Video Vision Mamba for Medical Video Object Segmentation.](https://arxiv.org/abs/2401.14168v1) | A new framework called Vivim efficiently processes lengthy video sequences for medical video object segmentation. In comparison to conventional techniques, Vivim provides faster and more accurate segmentation results by effectively compressing spatiotemporal data using the state space model methodology.|
 |[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities.](https://ailab-cvc.github.io/M2PT/) | This study presents a unique way to improve transformers by utilizing disparate input from many modalities, e.g., audio data to improve an image model. By connecting the transformers of two distinct modalities in a unique way, Multimodal Pathway enables a target modality to profit from the advantages of another.|
@@ -61,12 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MobileDiffusion: Rapid text-to-image generation on-device.](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html) |With certain architectural modifications, Google has demonstrated a latent consistency diffusion model that it trained for sub-second generation times on mobile devices. |
 |[SNP-S3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks.](https://arxiv.org/abs/2401.17773v1) | Shared Network Pre-training (SNP) enhances the joint learning of text and video. Compared to earlier models, this approach is more effective and adaptable and incorporates a novel technique called Significant Semantic Strengthening (S3) to improve comprehension of important terms in sentences.|
 |[Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation.](https://github.com/ymy-k/hi-sam) | An improved version of the Segment Anything Model (SAM) with a focus on hierarchical text segmentation is called Hi-SAM. Hi-SAM is an excellent text segmenter at several levels, ranging from strokes to paragraphs, and it can even analyze layouts.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -85,11 +110,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ServiceNow’s statement on AI.](https://www.linkedin.com/posts/tomasztunguz_servicenow-a-150b-market-cap-company-made-activity-7156752212608618496-R7Yy/) | The $150 billion market capitalization business ServiceNow revealed last week that, among all of its new product family launches, including its initial Pro SKU, its generation AI solutions generated the biggest net new ACV contribution for the first full quarter. It's exciting to see that enterprise-level AI applications are already contributing to significant revenue growth.|
 |[Bard’s latest updates: Access Gemini Pro globally and generate images.](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/amp/) |you can now generate images in Bard in English in most countries around the world, at no cost. This new capability is powered by our updated Imagen 2 model |
 |[Amazon debuts ‘Rufus,’ an AI shopping assistant in its mobile app.](https://techcrunch.com/2024/02/01/amazon-debuts-rufus-an-ai-shopping-assistant-in-its-mobile-app/) |Amazon announced today the launch of an AI-powered shopping assistant it’s calling Rufus that’s been trained on the e-commerce giant’s product catalog as well as information from around the web. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -117,9 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BAAI/bge-m3.](https://huggingface.co/BAAI/bge-m3) |A flexible embedding model that performs very well in multi-functionality (dense, multi-vector, and sparse retrieval), multi-linguistic (supporting more than 100 languages), and multi-granularity (managing inputs ranging from brief phrases to documents with up to 8192 tokens) is presented by the BGE-M3 project. It makes use of a hybrid retrieval pipeline, which leverages its simultaneous embedding and sparse retrieval capabilities, to combine several techniques and re-ranking for increased accuracy and generalization. |
 |[RAGs.](https://github.com/run-llama/rags) |Using natural language, users can develop RAG pipelines from data sources with the help of the Streamlit app RAGs. All users need to do is specify the parameters and tasks they require from their RAG systems. You can query the RAG, and it will respond to inquiries about the information.|
 |[GPT Newspaper.](https://github.com/assafelovic/gpt-newspaper) | GPT Newspaper project, an innovative autonomous agent designed to create personalized newspapers tailored to user preferences. GPT Newspaper revolutionizes the way we consume news by leveraging the power of AI to curate, write, design, and edit content based on individual tastes and interests. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -130,12 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What will robots think of us?](https://www.science.org/doi/10.1126/scirobotics.adn6096) | Two recent science fiction novels humorously illustrate the importance of correct robot mental models.|
 |[What Can be Done in 59 Seconds: An Opportunity (and a Crisis).](https://www.oneusefulthing.org/p/what-can-be-done-in-59-seconds-an) |AI is already capable of completing several jobs in less than a minute, thus businesses and staff will need to stress the need of utilizing AI for good rather than evil. |
 |[The American Dynamism 50: AI.](https://a16z.com/american-dynamism-50-ai/) |This list of 50 companies, compiled by a16z, addresses some of the most important issues facing the US in the areas of manufacturing, transportation, energy, and military. They're all utilizing AI to speed up their work in one way or another. This is an excellent insight if you're interested in practical uses of artificial intelligence. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 # ML news: Week 22 - 28 January
