@@ -94,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ollama vision models.](https://ollama.ai/blog/vision-models) |Recently, support for vision models was introduced by Ollama. Llava 1.6 comes with both Python and JavaScript packages that offer enhanced support and vision functionality. |
 |[Image to Music v2.](https://huggingface.co/posts/fffiloni/484223631728087) |Images to text, text to prompt, and prompt to music can all be translated into a visually appealing pipeline. |
 |[3DTopia.](https://github.com/3DTopia/3DTopia) |A two-stage text-to-3D generation model. The first stage uses diffusion model to quickly generate candidates. The second stage refines the assets chosen from the first stage. |
-|[.]() | |
-|[.]() | |
+|[Open Source Alternative to Rabbit.](https://github.com/KillianLucas/01) |An open-source version of the Rabbit hardware, complete with language modeling, is being developed by a team. |
+|[NaturalSQL by ChatDB.](https://github.com/cfahlgren1/natural-sql) | NaturalSQL by ChatDB is a series of models with state-of-the-art performance on Text to SQL instructions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
