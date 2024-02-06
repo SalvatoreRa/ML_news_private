@@ -45,9 +45,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PAP-REC: Personalized Automatic Prompt for Recommendation Language Model.](https://arxiv.org/abs/2402.00284v1) |In order to improve the efficacy and efficiency of Recommendation Language Models, PAP-REC has developed a technique that automatically generates tailored prompts. |
 |[PAM: Prompting Audio-Language Models for Audio Quality Assessment.](https://arxiv.org/abs/2402.00282v1) | PAM is a tool that evaluates audio quality without reference tracks or specific training by using Audio-Language Models.|
 |[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning.](https://animatelcm.github.io/) |AnimateLCM is a novel method that divides the learning process into two halves in order to rapidly produce high-quality films and enhance current video diffusion models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Boximator: Generating Rich and Controllable Motions for Video Synthesis.](https://arxiv.org/abs/2402.01566) |Controlling video synthesis is a well-known challenge. This paper suggests guiding the generation using boxes and arrows over time, which enhances human preference judgment but still leaves the user with imperfect guidance. |
+|[KTO: Model Alignment as Prospect Theoretic Optimization.](https://arxiv.org/abs/2402.01306v1) |Kahneman-Tversky Optimization (KTO) is a novel method for conditioning AI models to more closely resemble human thought processes. Utilizing ideas from prospect theory developed by Kahneman & Tversky, KTO prioritizes utility above preference likelihood. |
+|[A simple method to reduce hallucination in Large Vision-Language Models.](https://arxiv.org/abs/2402.01345v1) | This study clarifies the reasons for multimodal hallucination, a condition in which large vision-language models (LVLMs) occasionally represent visuals erroneously. One important factor is semantic shift bias, especially at paragraph breaks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
