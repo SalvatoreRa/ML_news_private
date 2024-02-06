@@ -65,8 +65,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sakana Awarded Japanese Government Supercomputing Grant.](https://sakana.ai/nedo-grant/) |Sakana AI is one of seven institutions in Japan chosen by the Japanese government to receive a supercomputing grant, for encouraging development of foundation AI models to strengthen the capabilities of Japan’s generative AI ecosystem. |
 |[Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs.](https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/) | Hugging Face, the New York City-based startup that offers a popular, developer-focused repository for open source AI code and frameworks (and hosted last year’s “Woodstock of AI”), today announced the launch of third-party, customizable Hugging Chat Assistants.|
 |[Arc is building an AI agent that browses on your behalf.](https://techcrunch.com/2024/02/01/arc-is-building-an-ai-agent-that-browses-on-your-behalf/) | The Browser Company, which makes the Arc Browser, is on a quest to change that by building an AI that surfs the web for you and gets you the results while bypassing search engines. |
-|[.]() | |
-|[.]() | |
+|[Introducing Qwen1.5.](https://qwenlm.github.io/blog/qwen1.5/) | 0.5B to 72B range of parameters. This collection of multilingual models is outstanding. It's interesting to note that the first significant sub-1B parameter language model is the smallest model.|
+|[Inside OpenAI’s Plan to Make AI More ‘Democratic’.](https://time.com/6684266/openai-democracy-artificial-intelligence/) |Colin Megill met with Wojciech Zaremba, co-founder of OpenAI, in May 2023 to talk about integrating Polis, an AI-powered public debating platform that promotes democratic involvement. The cooperation sought to use public feedback to match AI with human ideals. It started the "Democratic Inputs to AI" project at OpenAI, which aims to investigate AI governance through a $1 million award program. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
