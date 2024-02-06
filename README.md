@@ -48,8 +48,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boximator: Generating Rich and Controllable Motions for Video Synthesis.](https://arxiv.org/abs/2402.01566) |Controlling video synthesis is a well-known challenge. This paper suggests guiding the generation using boxes and arrows over time, which enhances human preference judgment but still leaves the user with imperfect guidance. |
 |[KTO: Model Alignment as Prospect Theoretic Optimization.](https://arxiv.org/abs/2402.01306v1) |Kahneman-Tversky Optimization (KTO) is a novel method for conditioning AI models to more closely resemble human thought processes. Utilizing ideas from prospect theory developed by Kahneman & Tversky, KTO prioritizes utility above preference likelihood. |
 |[A simple method to reduce hallucination in Large Vision-Language Models.](https://arxiv.org/abs/2402.01345v1) | This study clarifies the reasons for multimodal hallucination, a condition in which large vision-language models (LVLMs) occasionally represent visuals erroneously. One important factor is semantic shift bias, especially at paragraph breaks.|
-|[.]() | |
-|[.]() | |
+|[CapHuman: Capture Your Moments in Parallel Universes.](https://caphuman.github.io/) | Given only one reference facial photograph, our CapHuman can generate photo-realistic specific individual portraits with content-rich representations and diverse head positions, poses, facial expressions, and illuminations in different contexts.|
+|[Nomic Embed: Training a Reproducible Long Context Text Embedder.](https://arxiv.org/abs/2402.01613v1) | Nomic-Embed-Text-V1 is an open-source, completely reproducible text embedding model that raises the bar. It does well on activities with both short and lengthy contexts. Nomic-Embed-Text-V1, which is transparent to the extreme, provides full access to its model weights, training code, and a large dataset consisting of 235 million text pairs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -67,7 +67,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Arc is building an AI agent that browses on your behalf.](https://techcrunch.com/2024/02/01/arc-is-building-an-ai-agent-that-browses-on-your-behalf/) | The Browser Company, which makes the Arc Browser, is on a quest to change that by building an AI that surfs the web for you and gets you the results while bypassing search engines. |
 |[Introducing Qwen1.5.](https://qwenlm.github.io/blog/qwen1.5/) | 0.5B to 72B range of parameters. This collection of multilingual models is outstanding. It's interesting to note that the first significant sub-1B parameter language model is the smallest model.|
 |[Inside OpenAI’s Plan to Make AI More ‘Democratic’.](https://time.com/6684266/openai-democracy-artificial-intelligence/) |Colin Megill met with Wojciech Zaremba, co-founder of OpenAI, in May 2023 to talk about integrating Polis, an AI-powered public debating platform that promotes democratic involvement. The cooperation sought to use public feedback to match AI with human ideals. It started the "Democratic Inputs to AI" project at OpenAI, which aims to investigate AI governance through a $1 million award program. |
-|[.]() | |
+|[Roblox releases real-time AI chat translator.](https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator) | Roblox built an AI model that it says translates text chats so quickly users may not even notice it’s translating the messages of other players at first. It works with 16 languages, including English, French, Japanese, Thai, Polish, and Vietnamese. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[3DTopia.](https://github.com/3DTopia/3DTopia) |A two-stage text-to-3D generation model. The first stage uses diffusion model to quickly generate candidates. The second stage refines the assets chosen from the first stage. |
 |[Open Source Alternative to Rabbit.](https://github.com/KillianLucas/01) |An open-source version of the Rabbit hardware, complete with language modeling, is being developed by a team. |
 |[NaturalSQL by ChatDB.](https://github.com/cfahlgren1/natural-sql) | NaturalSQL by ChatDB is a series of models with state-of-the-art performance on Text to SQL instructions.|
-|[.]() | |
+|[contextual_bandits_tutorial.](https://github.com/facebookresearch/Pearl/blob/main/pearl/tutorials/contextual_bandits/contextual_bandits_tutorial.ipynb) |Meta maintains the RL framework called Pearls. This tutorial uses the program to walk through a bandit-based learning problem. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[MIT Paper: AI’s Labor Market Impacts Are Slower Than Expected.](https://aisupremacy.substack.com/p/mit-paper-ais-labor-market-impacts) |The economic feasibility of automating vision-based operations is examined in the working paper "Beyond AI Exposure: Which Tasks are Cost-Effective to Automate with Computer Vision?" authored by researchers from IBM and MIT. Just 23% of them are profitable to automate, it was discovered. In contrast with more disruptive expectations, the report projects a gradual impact on the job market over several years. |
+|[How AI Is Helping Us Learn About Birds.](https://themarkup.org/hello-world/2024/02/03/how-ai-is-helping-us-learn-about-birds) |Machine learning is powering new insights into how birds migrate—and forecasts about where they’ll go next |
 |[.]() | |
 |[.]() | |
 |[.]() | |
