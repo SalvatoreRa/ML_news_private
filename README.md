@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Rethinking Optimization and Architecture for Tiny Language Models.](https://arxiv.org/abs/2402.02791v2) | This work investigates how to focus on small models with fewer parameters in order to develop strong language models better suited for mobile devices. |
 |[Unified Hallucination Detection for Multimodal Large Language Models.](https://arxiv.org/abs/2402.03190v1) |In order to address the important problem of hallucinations in Multimodal Large Language Models (MLLMs), researchers have created a new benchmark called MHaluBench, which is used to assess different hallucination detection techniques. |
 |[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions.](https://invictus717.github.io/InteractiveVideo/) | With InteractiveVideo, users may now create videos in a new style that allows for dynamic user interaction. This intuitive framework, in contrast to conventional techniques, enables real-time adjustments utilizing text, graphics, painting, and even drag-and-drop.|
-|[.]() | |
+|[DeepSeekMath.](https://github.com/deepseek-ai/deepseek-math) |DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,9 +106,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NaturalSQL by ChatDB.](https://github.com/cfahlgren1/natural-sql) | NaturalSQL by ChatDB is a series of models with state-of-the-art performance on Text to SQL instructions.|
 |[contextual_bandits_tutorial.](https://github.com/facebookresearch/Pearl/blob/main/pearl/tutorials/contextual_bandits/contextual_bandits_tutorial.ipynb) |Meta maintains the RL framework called Pearls. This tutorial uses the program to walk through a bandit-based learning problem. |
 |[BRIA Background Removal v1.4 Model Card.](https://huggingface.co/briaai/RMBG-1.4) |RMBG v1.4 is our state-of-the-art background removal model, designed to effectively separate foreground from background in a range of categories and image types. This model has been trained on a carefully selected dataset, which includes: general stock images, e-commerce, gaming, and advertising content, making it suitable for commercial use cases powering enterprise content creation at scale. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MetaVoice-1B.](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) | a small and powerful text-to-speech model that supports generation and voice cloning.|
+|[Latxa.](https://huggingface.co/collections/HiTZ/latxa-65a697e6838b3acc53677304) |Latxa is a collection of foundation models specifically tuned for Basque. |
+|[fabric.](https://github.com/danielmiessler/fabric) | An open-source framework for augmenting humans using AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[MIT Paper: AI’s Labor Market Impacts Are Slower Than Expected.](https://aisupremacy.substack.com/p/mit-paper-ais-labor-market-impacts) |The economic feasibility of automating vision-based operations is examined in the working paper "Beyond AI Exposure: Which Tasks are Cost-Effective to Automate with Computer Vision?" authored by researchers from IBM and MIT. Just 23% of them are profitable to automate, it was discovered. In contrast with more disruptive expectations, the report projects a gradual impact on the job market over several years. |
 |[How AI Is Helping Us Learn About Birds.](https://themarkup.org/hello-world/2024/02/03/how-ai-is-helping-us-learn-about-birds) |Machine learning is powering new insights into how birds migrate—and forecasts about where they’ll go next |
-|[.]() | |
+|[The Techno-Industrial Revolution.](https://www.notboring.co/p/the-techno-industrial-revolution) | |The increasing sophistication of AI tooling and corporate use cases will lead to an increasing number of practical uses of the technology. The potential here can be viewed through the lens of how AI will increase margins significantly while lowering costs and improving process efficiency. This could open the door to entirely new approaches that weren't previously viable due to extremely narrow profit margins. A couple of these examples are examined in this article.
 |[.]() | |
 |[.]() | |
 |[.]() | |
