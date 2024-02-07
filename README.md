@@ -50,10 +50,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A simple method to reduce hallucination in Large Vision-Language Models.](https://arxiv.org/abs/2402.01345v1) | This study clarifies the reasons for multimodal hallucination, a condition in which large vision-language models (LVLMs) occasionally represent visuals erroneously. One important factor is semantic shift bias, especially at paragraph breaks.|
 |[CapHuman: Capture Your Moments in Parallel Universes.](https://caphuman.github.io/) | Given only one reference facial photograph, our CapHuman can generate photo-realistic specific individual portraits with content-rich representations and diverse head positions, poses, facial expressions, and illuminations in different contexts.|
 |[Nomic Embed: Training a Reproducible Long Context Text Embedder.](https://arxiv.org/abs/2402.01613v1) | Nomic-Embed-Text-V1 is an open-source, completely reproducible text embedding model that raises the bar. It does well on activities with both short and lengthy contexts. Nomic-Embed-Text-V1, which is transparent to the extreme, provides full access to its model weights, training code, and a large dataset consisting of 235 million text pairs.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?](https://arxiv.org/abs/2402.01832) | Training large-scale picture models is difficult due to legitimate copyright concerns and the disappearance of large-scale datasets like LAION. This work demonstrates that 30 million artificially created pictures may be used to train a strong CLIP model.|
+|[Rethinking Optimization and Architecture for Tiny Language Models.](https://arxiv.org/abs/2402.02791v2) | This work investigates how to focus on small models with fewer parameters in order to develop strong language models better suited for mobile devices. |
+|[Unified Hallucination Detection for Multimodal Large Language Models.](https://arxiv.org/abs/2402.03190v1) |In order to address the important problem of hallucinations in Multimodal Large Language Models (MLLMs), researchers have created a new benchmark called MHaluBench, which is used to assess different hallucination detection techniques. |
+|[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions.](https://invictus717.github.io/InteractiveVideo/) | With InteractiveVideo, users may now create videos in a new style that allows for dynamic user interaction. This intuitive framework, in contrast to conventional techniques, enables real-time adjustments utilizing text, graphics, painting, and even drag-and-drop.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open Source Alternative to Rabbit.](https://github.com/KillianLucas/01) |An open-source version of the Rabbit hardware, complete with language modeling, is being developed by a team. |
 |[NaturalSQL by ChatDB.](https://github.com/cfahlgren1/natural-sql) | NaturalSQL by ChatDB is a series of models with state-of-the-art performance on Text to SQL instructions.|
 |[contextual_bandits_tutorial.](https://github.com/facebookresearch/Pearl/blob/main/pearl/tutorials/contextual_bandits/contextual_bandits_tutorial.ipynb) |Meta maintains the RL framework called Pearls. This tutorial uses the program to walk through a bandit-based learning problem. |
-|[.]() | |
+|[BRIA Background Removal v1.4 Model Card.](https://huggingface.co/briaai/RMBG-1.4) |RMBG v1.4 is our state-of-the-art background removal model, designed to effectively separate foreground from background in a range of categories and image types. This model has been trained on a carefully selected dataset, which includes: general stock images, e-commerce, gaming, and advertising content, making it suitable for commercial use cases powering enterprise content creation at scale. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
