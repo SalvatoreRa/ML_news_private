@@ -58,6 +58,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -68,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Qwen1.5.](https://qwenlm.github.io/blog/qwen1.5/) | 0.5B to 72B range of parameters. This collection of multilingual models is outstanding. It's interesting to note that the first significant sub-1B parameter language model is the smallest model.|
 |[Inside OpenAI’s Plan to Make AI More ‘Democratic’.](https://time.com/6684266/openai-democracy-artificial-intelligence/) |Colin Megill met with Wojciech Zaremba, co-founder of OpenAI, in May 2023 to talk about integrating Polis, an AI-powered public debating platform that promotes democratic involvement. The cooperation sought to use public feedback to match AI with human ideals. It started the "Democratic Inputs to AI" project at OpenAI, which aims to investigate AI governance through a $1 million award program. |
 |[Roblox releases real-time AI chat translator.](https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator) | Roblox built an AI model that it says translates text chats so quickly users may not even notice it’s translating the messages of other players at first. It works with 16 languages, including English, French, Japanese, Thai, Polish, and Vietnamese. |
-|[.]() | |
-|[.]() | |
+|[OpenAI is adding new watermarks to DALL-E 3.](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials) |OpenAI says watermarks in image metadata are not perfect, but they help build trust of digital information. |
+|[Microsoft Copilot for Sales and Copilot for Service are now generally available.](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/) |The AI-powered Copilot for Sales and Service from Microsoft is now widely accessible. It increases the efficiency of sales and support staff by integrating with CRM platforms like Salesforce. The solutions promise to improve customer interactions and expedite company operations by automating repetitive tasks and providing insights directly within Microsoft 365 apps. Early users of these AI capabilities, such as Avanade, report considerable time savings and improved client engagement. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
