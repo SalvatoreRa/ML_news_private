@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft brings new AI image functionality to Copilot, adds new model Deucalion.](https://venturebeat.com/ai/microsoft-brings-ai-image-generation-to-copilot-adds-new-model-deucalion/) |In a startling move, Microsoft today announced a redesigned look for its Copilot AI search and chatbot experience on the web (formerly known as Bing Chat), new built-in AI image creation and editing functionality, and a new AI model, Deucalion, that is powering one version of Copilot. |
 |[Meet ‘Smaug-72B’: The new king of open-source AI.](https://venturebeat.com/ai/meet-smaug-72b-the-new-king-of-open-source-ai/) | A new open-source language model has claimed the throne of the best in the world, according to the latest rankings from Hugging Face, one of the leading platforms for natural language processing (NLP) research and applications.|
 |[EU’s AI Act passes last big hurdle on the way to adoption.](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/) |The European Union’s AI Act, a risk-based plan for regulating applications of artificial intelligence, has passed what looks to be the final big hurdle standing in the way of adoption after Member State representatives today voted to confirm the final text of the draft law. |
-|[.]() | |
+|[OpenAI forms a new team to study child safety.](https://techcrunch.com/2024/02/07/openai-forms-a-new-team-to-study-child-safety/) |Under scrutiny from activists — and parents — OpenAI has formed a new team to study ways to prevent its AI tools from being misused or abused by kids. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[fabric.](https://github.com/danielmiessler/fabric) | An open-source framework for augmenting humans using AI.|
 |[YOLO-World.](https://github.com/AILab-CVC/YOLO-World) |The process of locating objects and their bounding boxes is called object detection. Usually, only a predetermined selection of items selected during training may be used for this. This study presents a real-time approach capable of Open Vocabulary object identification, i.e., detecting bounding boxes for any combination of objects supplied at run-time. |
 |[SELF-DISCOVER.](https://github.com/catid/self-discover) | the implementation of SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures. a novel prompting technique that allows language models to use a set of reasoning primitives to discover a larger framework for problem-specific reasoning.|
-|[.]() | |
+|[AI Filter.](https://github.com/thomasj02/AiFilter) |AI Filter is a Chrome extension that uses a local language model to filter your social media feeds (currently, only Twitter / X) according to your instructions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,8 +124,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MIT Paper: AI’s Labor Market Impacts Are Slower Than Expected.](https://aisupremacy.substack.com/p/mit-paper-ais-labor-market-impacts) |The economic feasibility of automating vision-based operations is examined in the working paper "Beyond AI Exposure: Which Tasks are Cost-Effective to Automate with Computer Vision?" authored by researchers from IBM and MIT. Just 23% of them are profitable to automate, it was discovered. In contrast with more disruptive expectations, the report projects a gradual impact on the job market over several years. |
 |[How AI Is Helping Us Learn About Birds.](https://themarkup.org/hello-world/2024/02/03/how-ai-is-helping-us-learn-about-birds) |Machine learning is powering new insights into how birds migrate—and forecasts about where they’ll go next |
 |[The Techno-Industrial Revolution.](https://www.notboring.co/p/the-techno-industrial-revolution) | |The increasing sophistication of AI tooling and corporate use cases will lead to an increasing number of practical uses of the technology. The potential here can be viewed through the lens of how AI will increase margins significantly while lowering costs and improving process efficiency. This could open the door to entirely new approaches that weren't previously viable due to extremely narrow profit margins. A couple of these examples are examined in this article.
-|[.]() | |
-|[.]() | |
+|[The path to profitability for AI in 2024.](https://sidstage.substack.com/p/the-path-to-profitability-for-ai) | The emphasis of AI research has recently shifted from accuracy and breadth to efficiency and depth. AI's increasing energy consumption and NVIDIA's H100 sales demonstrate the industry's size. Research is now focused on smaller, more efficient models, such as Phi 2, and emphasizes sustainable economics from model architecture to deployment, all because investments expect profitability. AI's computational efficiency and energy efficiency are expected to increase with advancements in training, fine-tuning, and design. On-device features are a reflection of a larger movement towards more useful and sustainable AI applications.|
+|[How design drove $10M in preorders for Rabbit R1 AI hardware.](https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware) |In an expansive interview, Rabbit CEO Jesse Lyu shares how he collaborates with Teenage Engineering, why he didn’t want to make a phone, and how the R1’s retro-future design is key to the company’s strategy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
