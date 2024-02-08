@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MetaVoice-1B.](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) | a small and powerful text-to-speech model that supports generation and voice cloning.|
 |[Latxa.](https://huggingface.co/collections/HiTZ/latxa-65a697e6838b3acc53677304) |Latxa is a collection of foundation models specifically tuned for Basque. |
 |[fabric.](https://github.com/danielmiessler/fabric) | An open-source framework for augmenting humans using AI.|
-|[.]() | |
-|[.]() | |
+|[YOLO-World.](https://github.com/AILab-CVC/YOLO-World) |The process of locating objects and their bounding boxes is called object detection. Usually, only a predetermined selection of items selected during training may be used for this. This study presents a real-time approach capable of Open Vocabulary object identification, i.e., detecting bounding boxes for any combination of objects supplied at run-time. |
+|[SELF-DISCOVER.](https://github.com/catid/self-discover) | the implementation of SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures. a novel prompting technique that allows language models to use a set of reasoning primitives to discover a larger framework for problem-specific reasoning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
