@@ -58,8 +58,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Natural language guidance of high-fidelity text-to-speech models with synthetic annotations.](https://www.text-description-to-speech.com/) | These Stability AI-trained text-to-speech algorithms can follow exact natural language commands. Its developers artificially annotated a sizable corpus of speech for training as there isn't a sizable dataset with appropriate textual descriptions of audio for creation. This is a further illustration of the larger trend of generative modeling training, up-captioning, and annotating.|
 |[MusicRL: Aligning Music Generation to Human Preferences.](https://arxiv.org/abs/2402.04229) |The Google MusicLM team used an RL approach on their music generating models using 300k feedback pieces and other incentive signals. They discovered that in human preference experiments, it performs better than the base model; nonetheless, it is not evident whether RL technique produces the greatest quality output. |
 |[A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation.](https://arxiv.org/abs/2402.04087v1) |In order to increase CLIP's performance in picture classification tasks without the need for more training or resources, this article revisits the traditional Gaussian Discriminant Analysis (GDA) approach. |
-|[.]() | |
-|[.]() | |
+|[MobileVLM V2: Faster and Stronger Baseline for Vision Language Model.](https://arxiv.org/abs/2402.03766v1) | The line of sophisticated vision-language models for mobile devices known as MobileVLM V2 offers appreciable performance gains thanks to creative architecture.|
+|[The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs.](https://arxiv.org/abs/2402.03757v1) |According to a recent study, multi-modal large language models (MLLMs) like GPT-4V have a flaw in that they make mistakes when dealing with particular kinds of image-text inputs. A benchmark called CorrelationQA was created to assess how well MLLMs performed in situations where text could be contradicted or misled by visuals. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
