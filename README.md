@@ -55,9 +55,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Unified Hallucination Detection for Multimodal Large Language Models.](https://arxiv.org/abs/2402.03190v1) |In order to address the important problem of hallucinations in Multimodal Large Language Models (MLLMs), researchers have created a new benchmark called MHaluBench, which is used to assess different hallucination detection techniques. |
 |[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions.](https://invictus717.github.io/InteractiveVideo/) | With InteractiveVideo, users may now create videos in a new style that allows for dynamic user interaction. This intuitive framework, in contrast to conventional techniques, enables real-time adjustments utilizing text, graphics, painting, and even drag-and-drop.|
 |[DeepSeekMath.](https://github.com/deepseek-ai/deepseek-math) |DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Natural language guidance of high-fidelity text-to-speech models with synthetic annotations.](https://www.text-description-to-speech.com/) | These Stability AI-trained text-to-speech algorithms can follow exact natural language commands. Its developers artificially annotated a sizable corpus of speech for training as there isn't a sizable dataset with appropriate textual descriptions of audio for creation. This is a further illustration of the larger trend of generative modeling training, up-captioning, and annotating.|
+|[MusicRL: Aligning Music Generation to Human Preferences.](https://arxiv.org/abs/2402.04229) |The Google MusicLM team used an RL approach on their music generating models using 300k feedback pieces and other incentive signals. They discovered that in human preference experiments, it performs better than the base model; nonetheless, it is not evident whether RL technique produces the greatest quality output. |
+|[A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation.](https://arxiv.org/abs/2402.04087v1) |In order to increase CLIP's performance in picture classification tasks without the need for more training or resources, this article revisits the traditional Gaussian Discriminant Analysis (GDA) approach. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
