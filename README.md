@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Roblox releases real-time AI chat translator.](https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator) | Roblox built an AI model that it says translates text chats so quickly users may not even notice it’s translating the messages of other players at first. It works with 16 languages, including English, French, Japanese, Thai, Polish, and Vietnamese. |
 |[OpenAI is adding new watermarks to DALL-E 3.](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials) |OpenAI says watermarks in image metadata are not perfect, but they help build trust of digital information. |
 |[Microsoft Copilot for Sales and Copilot for Service are now generally available.](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/) |The AI-powered Copilot for Sales and Service from Microsoft is now widely accessible. It increases the efficiency of sales and support staff by integrating with CRM platforms like Salesforce. The solutions promise to improve customer interactions and expedite company operations by automating repetitive tasks and providing insights directly within Microsoft 365 apps. Early users of these AI capabilities, such as Avanade, report considerable time savings and improved client engagement. |
-|[.]() | |
+|[First passages of rolled-up Herculaneum scroll revealed.](https://www.nature.com/articles/d41586-024-00346-8) |Researchers used artificial intelligence to decipher the text of 2,000-year-old charred papyrus scripts, unveiling musings on music and capers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
