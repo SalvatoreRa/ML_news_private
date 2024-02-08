@@ -65,7 +65,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -80,8 +79,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft Copilot for Sales and Copilot for Service are now generally available.](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/) |The AI-powered Copilot for Sales and Service from Microsoft is now widely accessible. It increases the efficiency of sales and support staff by integrating with CRM platforms like Salesforce. The solutions promise to improve customer interactions and expedite company operations by automating repetitive tasks and providing insights directly within Microsoft 365 apps. Early users of these AI capabilities, such as Avanade, report considerable time savings and improved client engagement. |
 |[First passages of rolled-up Herculaneum scroll revealed.](https://www.nature.com/articles/d41586-024-00346-8) |Researchers used artificial intelligence to decipher the text of 2,000-year-old charred papyrus scripts, unveiling musings on music and capers. |
 |[IBM wants to build a 100,000-qubit quantum computer.](https://www.technologyreview.com/2023/05/25/1073606/ibm-wants-to-build-a-100000-qubit-quantum-computer/) | The company wants to make large-scale quantum computers a reality within just 10 years.|
-|[.]() | |
-|[.]() | |
+|[Microsoft brings new AI image functionality to Copilot, adds new model Deucalion.](https://venturebeat.com/ai/microsoft-brings-ai-image-generation-to-copilot-adds-new-model-deucalion/) |In a startling move, Microsoft today announced a redesigned look for its Copilot AI search and chatbot experience on the web (formerly known as Bing Chat), new built-in AI image creation and editing functionality, and a new AI model, Deucalion, that is powering one version of Copilot. |
+|[Meet ‘Smaug-72B’: The new king of open-source AI.](https://venturebeat.com/ai/meet-smaug-72b-the-new-king-of-open-source-ai/) | A new open-source language model has claimed the throne of the best in the world, according to the latest rankings from Hugging Face, one of the leading platforms for natural language processing (NLP) research and applications.|
+|[EU’s AI Act passes last big hurdle on the way to adoption.](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/) |The European Union’s AI Act, a risk-based plan for regulating applications of artificial intelligence, has passed what looks to be the final big hurdle standing in the way of adoption after Member State representatives today voted to confirm the final text of the draft law. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
