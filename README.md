@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MobileVLM V2: Faster and Stronger Baseline for Vision Language Model.](https://arxiv.org/abs/2402.03766v1) | The line of sophisticated vision-language models for mobile devices known as MobileVLM V2 offers appreciable performance gains thanks to creative architecture.|
 |[The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs.](https://arxiv.org/abs/2402.03757v1) |According to a recent study, multi-modal large language models (MLLMs) like GPT-4V have a flaw in that they make mistakes when dealing with particular kinds of image-text inputs. A benchmark called CorrelationQA was created to assess how well MLLMs performed in situations where text could be contradicted or misled by visuals. |
 |[Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction.](https://arxiv.org/abs/2402.04154v2) | The creation of a generalist AI agent that can comprehend and adhere to gaming instructions is examined in this research as a first step toward "read-to-play" capabilities. The researchers incorporate multimodal game instructions into a decision transformer to improve the agent's multitasking and generalization abilities.|
-|[MetaTree: Learning a Decision Tree Algorithm with Transformers.](https://github.com/evanzhuang/metatree) | |
+|[MetaTree: Learning a Decision Tree Algorithm with Transformers.](https://github.com/evanzhuang/metatree) |MetaTree is a transformer-based decision tree algorithm. It learns from classical decision tree algorithms for better generalization capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
