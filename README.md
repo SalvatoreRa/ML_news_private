@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meet ‘Smaug-72B’: The new king of open-source AI.](https://venturebeat.com/ai/meet-smaug-72b-the-new-king-of-open-source-ai/) | A new open-source language model has claimed the throne of the best in the world, according to the latest rankings from Hugging Face, one of the leading platforms for natural language processing (NLP) research and applications.|
 |[EU’s AI Act passes last big hurdle on the way to adoption.](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/) |The European Union’s AI Act, a risk-based plan for regulating applications of artificial intelligence, has passed what looks to be the final big hurdle standing in the way of adoption after Member State representatives today voted to confirm the final text of the draft law. |
 |[OpenAI forms a new team to study child safety.](https://techcrunch.com/2024/02/07/openai-forms-a-new-team-to-study-child-safety/) |Under scrutiny from activists — and parents — OpenAI has formed a new team to study ways to prevent its AI tools from being misused or abused by kids. |
-|[.]() | |
+|[Human brain cells hooked up to a chip can do speech recognition.](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/) |Clusters of brain cells grown in the lab have shown potential as a new type of hybrid bio-computer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Techno-Industrial Revolution.](https://www.notboring.co/p/the-techno-industrial-revolution) | |The increasing sophistication of AI tooling and corporate use cases will lead to an increasing number of practical uses of the technology. The potential here can be viewed through the lens of how AI will increase margins significantly while lowering costs and improving process efficiency. This could open the door to entirely new approaches that weren't previously viable due to extremely narrow profit margins. A couple of these examples are examined in this article.
 |[The path to profitability for AI in 2024.](https://sidstage.substack.com/p/the-path-to-profitability-for-ai) | The emphasis of AI research has recently shifted from accuracy and breadth to efficiency and depth. AI's increasing energy consumption and NVIDIA's H100 sales demonstrate the industry's size. Research is now focused on smaller, more efficient models, such as Phi 2, and emphasizes sustainable economics from model architecture to deployment, all because investments expect profitability. AI's computational efficiency and energy efficiency are expected to increase with advancements in training, fine-tuning, and design. On-device features are a reflection of a larger movement towards more useful and sustainable AI applications.|
 |[How design drove $10M in preorders for Rabbit R1 AI hardware.](https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware) |In an expansive interview, Rabbit CEO Jesse Lyu shares how he collaborates with Teenage Engineering, why he didn’t want to make a phone, and how the R1’s retro-future design is key to the company’s strategy. |
-|[.]() | |
+|[What’s next for robotaxis in 2024.](https://www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/) |In addition to restoring public trust, robotaxi companies need to prove that their business models can compete with Uber and taxis. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
