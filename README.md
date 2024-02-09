@@ -60,8 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation.](https://arxiv.org/abs/2402.04087v1) |In order to increase CLIP's performance in picture classification tasks without the need for more training or resources, this article revisits the traditional Gaussian Discriminant Analysis (GDA) approach. |
 |[MobileVLM V2: Faster and Stronger Baseline for Vision Language Model.](https://arxiv.org/abs/2402.03766v1) | The line of sophisticated vision-language models for mobile devices known as MobileVLM V2 offers appreciable performance gains thanks to creative architecture.|
 |[The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs.](https://arxiv.org/abs/2402.03757v1) |According to a recent study, multi-modal large language models (MLLMs) like GPT-4V have a flaw in that they make mistakes when dealing with particular kinds of image-text inputs. A benchmark called CorrelationQA was created to assess how well MLLMs performed in situations where text could be contradicted or misled by visuals. |
-|[.]() | |
-|[.]() | |
+|[Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction.](https://arxiv.org/abs/2402.04154v2) | The creation of a generalist AI agent that can comprehend and adhere to gaming instructions is examined in this research as a first step toward "read-to-play" capabilities. The researchers incorporate multimodal game instructions into a decision transformer to improve the agent's multitasking and generalization abilities.|
+|[MetaTree: Learning a Decision Tree Algorithm with Transformers.](https://github.com/evanzhuang/metatree) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,9 +84,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EU’s AI Act passes last big hurdle on the way to adoption.](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/) |The European Union’s AI Act, a risk-based plan for regulating applications of artificial intelligence, has passed what looks to be the final big hurdle standing in the way of adoption after Member State representatives today voted to confirm the final text of the draft law. |
 |[OpenAI forms a new team to study child safety.](https://techcrunch.com/2024/02/07/openai-forms-a-new-team-to-study-child-safety/) |Under scrutiny from activists — and parents — OpenAI has formed a new team to study ways to prevent its AI tools from being misused or abused by kids. |
 |[Human brain cells hooked up to a chip can do speech recognition.](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/) |Clusters of brain cells grown in the lab have shown potential as a new type of hybrid bio-computer. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today.](https://blog.google/products/gemini/bard-gemini-advanced-app/) |You may now finally interact with Gemini Ultra 1.0 thanks to a new service that Google established. However, access to the model will need a monthly subscription fee. Additionally, a companion smartphone app exists. |
+|[1X robotics demonstration.](https://www.1x.tech/discover/all-neural-networks-all-autonomous-all-1x-speed) | One robotics startup, 1X, has achieved significant advancements in video-to-control models. The robot, which is powered by neural networks that generate 10 Hz control impulses from visual input, has been demonstrated by the business executing a variety of tasks.|
+|[AR glasses with multimodal AI nets funding from Pokémon GO creator.](https://techcrunch.com/2024/02/08/ar-glasses-with-multimodal-ai-attracts-funding-from-pokemon-go-founder/) | Today, Singapore-based Brilliant Labs announced its new product, Frame, a pair of lightweight AR glasses powered by a multimodal AI assistant called Noa. The glasses have captured the attention and investment of John Hanke, CEO of Niantic, the augmented reality platform behind games like Pokémon GO.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YOLO-World.](https://github.com/AILab-CVC/YOLO-World) |The process of locating objects and their bounding boxes is called object detection. Usually, only a predetermined selection of items selected during training may be used for this. This study presents a real-time approach capable of Open Vocabulary object identification, i.e., detecting bounding boxes for any combination of objects supplied at run-time. |
 |[SELF-DISCOVER.](https://github.com/catid/self-discover) | the implementation of SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures. a novel prompting technique that allows language models to use a set of reasoning primitives to discover a larger framework for problem-specific reasoning.|
 |[AI Filter.](https://github.com/thomasj02/AiFilter) |AI Filter is a Chrome extension that uses a local language model to filter your social media feeds (currently, only Twitter / X) according to your instructions. |
-|[.]() | |
+|[Fully Local RAG using Ollama & PgVector.](https://github.com/phidatahq/phidata/tree/main/cookbook/local_rag) |Using Ollama, pgvector, and local data, you can create a complex and potent RAG system that operates on your hardware. |
+|[LightEval .](https://github.com/huggingface/lighteval) | LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.|
+|[CogCoM.](https://github.com/thudm/cogcom) | CogCoM is a general vision-language model (VLM) endowed with Chain of Manipulations (CoM) mechanism, that enables VLMs to perform multi-turns evidential visual reasoning by actively manipulating the input image. We now release CogCoM-base-17b, a model with 10 billion visual parameters and 7 billion language parameters, trained on a data fusion of 4 types capabilities (instruction-following, OCR, detailed-captioning, and CoM).|
+|[How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024.](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b) |By using a set of qapair questions that gathered material from a variety of viewpoints and produced a content-addressed hash for every document, HelixML was able to improve Mistral-7B. |
+|[VatsaDev/animebench-alpha.](https://huggingface.co/datasets/VatsaDev/animebench-alpha) | a benchmark dataset with quotes and information about different anime characters to evaluate language model performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,8 +131,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The path to profitability for AI in 2024.](https://sidstage.substack.com/p/the-path-to-profitability-for-ai) | The emphasis of AI research has recently shifted from accuracy and breadth to efficiency and depth. AI's increasing energy consumption and NVIDIA's H100 sales demonstrate the industry's size. Research is now focused on smaller, more efficient models, such as Phi 2, and emphasizes sustainable economics from model architecture to deployment, all because investments expect profitability. AI's computational efficiency and energy efficiency are expected to increase with advancements in training, fine-tuning, and design. On-device features are a reflection of a larger movement towards more useful and sustainable AI applications.|
 |[How design drove $10M in preorders for Rabbit R1 AI hardware.](https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware) |In an expansive interview, Rabbit CEO Jesse Lyu shares how he collaborates with Teenage Engineering, why he didn’t want to make a phone, and how the R1’s retro-future design is key to the company’s strategy. |
 |[What’s next for robotaxis in 2024.](https://www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/) |In addition to restoring public trust, robotaxi companies need to prove that their business models can compete with Uber and taxis. |
-|[.]() | |
-|[.]() | |
+|[Google's Gemini Advanced: Tasting Notes and Implications.](https://www.oneusefulthing.org/p/google-gemini-advanced-tasting-notes) | Similar to OpenAI's GPT-4, Google's recently released GPT-4 class AI model, Gemini Advanced, exhibits comparable characteristics. It excels at providing explanations and fusing search with images.|
+|[Thesis on value accumulation in AI.](https://lethain.com/value-accumulation-in-ai/) |This investor's perspective breaks down the layers of value that exist in AI today into three categories: AI-enhanced products (like all of you that use AI to improve your products), modeling and core (like OpenAI and Anthropic), and infrastructure layer (like cloud providers and chip makers). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
