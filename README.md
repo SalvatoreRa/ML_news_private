@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CogCoM.](https://github.com/thudm/cogcom) | CogCoM is a general vision-language model (VLM) endowed with Chain of Manipulations (CoM) mechanism, that enables VLMs to perform multi-turns evidential visual reasoning by actively manipulating the input image. We now release CogCoM-base-17b, a model with 10 billion visual parameters and 7 billion language parameters, trained on a data fusion of 4 types capabilities (instruction-following, OCR, detailed-captioning, and CoM).|
 |[How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024.](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b) |By using a set of qapair questions that gathered material from a variety of viewpoints and produced a content-addressed hash for every document, HelixML was able to improve Mistral-7B. |
 |[VatsaDev/animebench-alpha.](https://huggingface.co/datasets/VatsaDev/animebench-alpha) | a benchmark dataset with quotes and information about different anime characters to evaluate language model performance.|
-|[.]() | |
+|[NextBrain: a next-generation, histological atlas of the human brain for high-resolution neuroimaging studies.](https://github-pages.ucl.ac.uk/NextBrain/#/home) |We present a next-generation probabilistic atlas of the human brain using histological sections of five full human hemispheres with manual annotations for 333 regions of interest. This website enables the interactive inspection of these five cases using a  3D navigation interface  and search functionality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
