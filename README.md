@@ -118,6 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024.](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b) |By using a set of qapair questions that gathered material from a variety of viewpoints and produced a content-addressed hash for every document, HelixML was able to improve Mistral-7B. |
 |[VatsaDev/animebench-alpha.](https://huggingface.co/datasets/VatsaDev/animebench-alpha) | a benchmark dataset with quotes and information about different anime characters to evaluate language model performance.|
 |[NextBrain: a next-generation, histological atlas of the human brain for high-resolution neuroimaging studies.](https://github-pages.ucl.ac.uk/NextBrain/#/home) |We present a next-generation probabilistic atlas of the human brain using histological sections of five full human hemispheres with manual annotations for 333 regions of interest. This website enables the interactive inspection of these five cases using a  3D navigation interface  and search functionality. |
+|[Efficient Linear Model Merging for LLMs.](https://lightning.ai/lightning-ai/studios/efficient-linear-model-merging-for-llms) |Model merging is a technique for combining multiple pretrained or finetuned LLMs into a single, more powerful model. This approach is particularly useful when individual models excel in different domains or tasks, and merging them can create a model with a broader range of capabilities and improved overall performance. |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
