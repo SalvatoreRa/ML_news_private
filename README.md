@@ -36,6 +36,37 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
+# ML news:
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
 # ML news: Week 5 - 11 February
 
 ## Research
@@ -62,9 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs.](https://arxiv.org/abs/2402.03757v1) |According to a recent study, multi-modal large language models (MLLMs) like GPT-4V have a flaw in that they make mistakes when dealing with particular kinds of image-text inputs. A benchmark called CorrelationQA was created to assess how well MLLMs performed in situations where text could be contradicted or misled by visuals. |
 |[Read to Play (R2-Play): Decision Transformer with Multimodal Game Instruction.](https://arxiv.org/abs/2402.04154v2) | The creation of a generalist AI agent that can comprehend and adhere to gaming instructions is examined in this research as a first step toward "read-to-play" capabilities. The researchers incorporate multimodal game instructions into a decision transformer to improve the agent's multitasking and generalization abilities.|
 |[MetaTree: Learning a Decision Tree Algorithm with Transformers.](https://github.com/evanzhuang/metatree) |MetaTree is a transformer-based decision tree algorithm. It learns from classical decision tree algorithms for better generalization capabilities. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -87,11 +116,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today.](https://blog.google/products/gemini/bard-gemini-advanced-app/) |You may now finally interact with Gemini Ultra 1.0 thanks to a new service that Google established. However, access to the model will need a monthly subscription fee. Additionally, a companion smartphone app exists. |
 |[1X robotics demonstration.](https://www.1x.tech/discover/all-neural-networks-all-autonomous-all-1x-speed) | One robotics startup, 1X, has achieved significant advancements in video-to-control models. The robot, which is powered by neural networks that generate 10 Hz control impulses from visual input, has been demonstrated by the business executing a variety of tasks.|
 |[AR glasses with multimodal AI nets funding from Pokémon GO creator.](https://techcrunch.com/2024/02/08/ar-glasses-with-multimodal-ai-attracts-funding-from-pokemon-go-founder/) | Today, Singapore-based Brilliant Labs announced its new product, Frame, a pair of lightweight AR glasses powered by a multimodal AI assistant called Noa. The glasses have captured the attention and investment of John Hanke, CEO of Niantic, the augmented reality platform behind games like Pokémon GO.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -119,10 +143,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VatsaDev/animebench-alpha.](https://huggingface.co/datasets/VatsaDev/animebench-alpha) | a benchmark dataset with quotes and information about different anime characters to evaluate language model performance.|
 |[NextBrain: a next-generation, histological atlas of the human brain for high-resolution neuroimaging studies.](https://github-pages.ucl.ac.uk/NextBrain/#/home) |We present a next-generation probabilistic atlas of the human brain using histological sections of five full human hemispheres with manual annotations for 333 regions of interest. This website enables the interactive inspection of these five cases using a  3D navigation interface  and search functionality. |
 |[Efficient Linear Model Merging for LLMs.](https://lightning.ai/lightning-ai/studios/efficient-linear-model-merging-for-llms) |Model merging is a technique for combining multiple pretrained or finetuned LLMs into a single, more powerful model. This approach is particularly useful when individual models excel in different domains or tasks, and merging them can create a model with a broader range of capabilities and improved overall performance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -135,19 +155,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What’s next for robotaxis in 2024.](https://www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/) |In addition to restoring public trust, robotaxi companies need to prove that their business models can compete with Uber and taxis. |
 |[Google's Gemini Advanced: Tasting Notes and Implications.](https://www.oneusefulthing.org/p/google-gemini-advanced-tasting-notes) | Similar to OpenAI's GPT-4, Google's recently released GPT-4 class AI model, Gemini Advanced, exhibits comparable characteristics. It excels at providing explanations and fusing search with images.|
 |[Thesis on value accumulation in AI.](https://lethain.com/value-accumulation-in-ai/) |This investor's perspective breaks down the layers of value that exist in AI today into three categories: AI-enhanced products (like all of you that use AI to improve your products), modeling and core (like OpenAI and Anthropic), and infrastructure layer (like cloud providers and chip makers). |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 29 January - 4 February
 
