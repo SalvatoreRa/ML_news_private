@@ -41,8 +41,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Skill Set Optimization: Reinforcing Language Model Behavior via Transferable Skills.](https://allenai.github.io/sso/) |It has so far proven difficult to transfer expertise amongst RL agents. An environment-neutral skill set is optimized for in this work. Its generalization performance is encouraging. |
+|[Self-Play Fine-Tuning (SPIN).](https://github.com/uclaml/SPIN) |We propose a new fine-tuning method called Self-Play fIne-tuNing (SPIN), which starts from a supervised fine-tuned model. At the heart of SPIN lies a self-play mechanism, where the LLM refines its capability by playing against instances of itself. More specifically, the LLM generates its own training data from its previous iterations, refining its policy by discerning these self-generated responses from those obtained from human-annotated data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -64,8 +64,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Laion releases assistant BUD-E.](https://laion.ai/blog/bud-e/) | An open assistant that runs on a gaming laptop and utilizes highly optimized language models and natural voice has been made available by the Laion research group. The project's goal is to offer a capable, low-resource personal assistant that is simple to deploy.|
 |[OpenAI Hits $2 Billion Revenue Milestone.](https://money.usnews.com/investing/news/articles/2024-02-09/openai-hits-2-billion-revenue-milestone-ft) |Microsoft-backed OpenAI hit the $2 billion revenue milestone in December. The company's annualized revenue topped $1.6 billion in December based on strong growth from its ChatGPT product, up from $1.3 billion as of mid-October, the Information had reported previously. |
-|[.]() | |
-|[.]() | |
+|[AI PCs will make up nearly 60% of total PC shipments by 2027.](https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html) |Demand for AI PCs to start ramping up this year |
+|[The first human received an implant from 
+@Neuralink
+ yesterday and is recovering well.](https://twitter.com/elonmusk/status/1752098683024220632) |Initial results show promising neuron spike detection. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,9 +87,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[RLX: Reinforcement Learning with MLX.](https://github.com/noahfarr/rlx) |RLX is a collection of Reinforcement Learning algorithms implemented based on the implementations from CleanRL in MLX, Apple's new Machine Learning framework.  |
+|[llmware.](https://github.com/llmware-ai/llmware) | llmware is a unified framework for developing LLM-based application patterns including Retrieval Augmented Generation (RAG). This project provides an integrated set of tools that anyone can use - from a beginner to the most sophisticated AI developer - to rapidly build industrial-grade, knowledge-based enterprise LLM applications with specific focus on making it easy to integrate open source small specialized models and connecting enterprise knowledge safely and securely.|
+|[Point Transformer V3.](https://github.com/pointcept/pointtransformerv3) | For processing 3D point clouds, the Point Transformer V3 (PTv3) model is an effective and straightforward paradigm. By putting more of an emphasis on efficiency and scaling up than on fine-grained design details, it is able to attain quicker processing speeds and improved memory economy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI agents as a new distribution channel.](https://kojo.blog/agent-driven-commerce/) |By making judgments about what to buy on behalf of customers, AI agents are starting to emerge as a new route of distribution that might level the playing field between startups and established players. Businesses will need to adjust their goods to cater to AI tastes instead of human ones as this trend develops, which will alter the conventional dynamics of product appraisal, purchase, and discovery. The development of AI portends a time when agent-driven commerce may completely change the way goods are advertised and bought. |
 |[Thinking about High-Quality Human Data.](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/) |The topic of this piece is how people generate data. It also covers labeling, annotating, and gathering preference data, among other topics. |
-|[.]() | |
-|[.]() | |
+|[AI Aesthetics.](https://www.usv.com/writing/2024/02/ai-aesthetics/) | Artificial Intelligence will radically transform the way we create, appreciate, and produce art. This article delves deeper into this topic and identifies the businesses spearheading the shift.|
+|[NYC: Brain2Music.](https://www.youtube.com/watch?v=cD6Y1K1xgwk) | Research talk from Google about reading music from a person’s brain.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
