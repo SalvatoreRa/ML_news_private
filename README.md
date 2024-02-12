@@ -41,7 +41,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Laion releases assistant BUD-E.](https://laion.ai/blog/bud-e/) | An open assistant that runs on a gaming laptop and utilizes highly optimized language models and natural voice has been made available by the Laion research group. The project's goal is to offer a capable, low-resource personal assistant that is simple to deploy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -63,7 +62,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Laion releases assistant BUD-E.](https://laion.ai/blog/bud-e/) | An open assistant that runs on a gaming laptop and utilizes highly optimized language models and natural voice has been made available by the Laion research group. The project's goal is to offer a capable, low-resource personal assistant that is simple to deploy.|
+|[OpenAI Hits $2 Billion Revenue Milestone.](https://money.usnews.com/investing/news/articles/2024-02-09/openai-hits-2-billion-revenue-milestone-ft) |Microsoft-backed OpenAI hit the $2 billion revenue milestone in December. The company's annualized revenue topped $1.6 billion in December based on strong growth from its ChatGPT product, up from $1.3 billion as of mid-October, the Information had reported previously. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[AI agents as a new distribution channel.](https://kojo.blog/agent-driven-commerce/) |By making judgments about what to buy on behalf of customers, AI agents are starting to emerge as a new route of distribution that might level the playing field between startups and established players. Businesses will need to adjust their goods to cater to AI tastes instead of human ones as this trend develops, which will alter the conventional dynamics of product appraisal, purchase, and discovery. The development of AI portends a time when agent-driven commerce may completely change the way goods are advertised and bought. |
+|[Thinking about High-Quality Human Data.](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/) |The topic of this piece is how people generate data. It also covers labeling, annotating, and gathering preference data, among other topics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
