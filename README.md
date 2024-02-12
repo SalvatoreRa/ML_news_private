@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RLX: Reinforcement Learning with MLX.](https://github.com/noahfarr/rlx) |RLX is a collection of Reinforcement Learning algorithms implemented based on the implementations from CleanRL in MLX, Apple's new Machine Learning framework.  |
 |[llmware.](https://github.com/llmware-ai/llmware) | llmware is a unified framework for developing LLM-based application patterns including Retrieval Augmented Generation (RAG). This project provides an integrated set of tools that anyone can use - from a beginner to the most sophisticated AI developer - to rapidly build industrial-grade, knowledge-based enterprise LLM applications with specific focus on making it easy to integrate open source small specialized models and connecting enterprise knowledge safely and securely.|
 |[Point Transformer V3.](https://github.com/pointcept/pointtransformerv3) | For processing 3D point clouds, the Point Transformer V3 (PTv3) model is an effective and straightforward paradigm. By putting more of an emphasis on efficiency and scaling up than on fine-grained design details, it is able to attain quicker processing speeds and improved memory economy.|
-|[.]() | |
+|[phidata.](https://github.com/phidatahq/phidata) |Phidata is a toolkit for building AI Assistants using function calling. Function calling enables LLMs to achieve tasks by calling functions and intelligently choosing their next step based on the response, just like how humans solve problems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
