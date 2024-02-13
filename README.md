@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ml-mgie.](https://github.com/apple/ml-mgie) |Apple released code that uses multimodal language models to improve human-provided natural language edits to images. |
 |[Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting.](https://github.com/time-series-foundation-models/lag-llama) | Lag-Llama is the first open-source foundation model for time series forecasting!|
 |[Learning to Fly in Seconds.](https://github.com/arplaboratory/learning-to-fly) |This repository contains the code for the paper Learning to Fly in Seconds. It allows to train end-to-end control policies using deep reinforcement learning. The training is done in simulation and is finished within seconds on a consumer-grade laptop. The trained policies generalize and can be deployed on real quadrotors |
-|[.]() | |
+|[Packing Inputs Without Cross-Contamination Attention.](https://github.com/MeetKai/functionary/tree/main/functionary/train/packing) |By concatenating instances, packing in training models can enhance training effectiveness. When examples are handled carelessly, contamination might happen since the focus isn't sure where to end. Although the community has discovered that EOS is frequently enough, issues can nevertheless arise. This repository offers a Hugging Face implementation for popular models to correctly compress input data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Thinking about High-Quality Human Data.](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/) |The topic of this piece is how people generate data. It also covers labeling, annotating, and gathering preference data, among other topics. |
 |[AI Aesthetics.](https://www.usv.com/writing/2024/02/ai-aesthetics/) | Artificial Intelligence will radically transform the way we create, appreciate, and produce art. This article delves deeper into this topic and identifies the businesses spearheading the shift.|
 |[NYC: Brain2Music.](https://www.youtube.com/watch?v=cD6Y1K1xgwk) | Research talk from Google about reading music from a person’s brain.|
-|[.]() | |
-|[.]() | |
+|[Massed Muddler Intelligence.](https://studio.ribbonfarm.com/p/massed-muddler-intelligence) | A move away from conventional monolithic AI scaling and toward a paradigm based on distributed, agent-based systems that learn and adapt in real time is represented by the idea of massed muddler intelligence, or MMI. MMI promotes AI development that stresses scalable, interactive agents with a degree of autonomy and mutual governance, moving away from the current focus on accumulating larger datasets and computational resources. This approach is based on the principles of embodiment, boundary intelligence, temporality, and personhood.|
+|[AI Could Actually Help Rebuild The Middle Class.](https://www.noemamag.com/how-ai-could-help-rebuild-the-middle-class/) |AI doesn’t have to be a job destroyer. It offers us the opportunity to extend expertise to a larger set of workers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
