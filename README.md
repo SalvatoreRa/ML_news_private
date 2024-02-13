@@ -43,9 +43,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Skill Set Optimization: Reinforcing Language Model Behavior via Transferable Skills.](https://allenai.github.io/sso/) |It has so far proven difficult to transfer expertise amongst RL agents. An environment-neutral skill set is optimized for in this work. Its generalization performance is encouraging. |
 |[Self-Play Fine-Tuning (SPIN).](https://github.com/uclaml/SPIN) |We propose a new fine-tuning method called Self-Play fIne-tuNing (SPIN), which starts from a supervised fine-tuned model. At the heart of SPIN lies a self-play mechanism, where the LLM refines its capability by playing against instances of itself. More specifically, the LLM generates its own training data from its previous iterations, refining its policy by discerning these self-generated responses from those obtained from human-annotated data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Real-World Fluid Directed Rigid Body Control via Deep Reinforcement Learning.](https://arxiv.org/abs/2402.06102) |"Box o Flows" addresses the difficulty of replicating complicated fluid dynamics for reinforcement learning (RL) applications by introducing a unique experimental system for testing RL algorithms in dynamic real-world environments. It demonstrates how model-free reinforcement learning algorithms may produce complex behaviors from simple rewards, improve data efficiency through offline reinforcement learning, and open the door to more widespread RL use in complex systems. |
+|[WebLINX.](https://mcgill-nlp.github.io/weblinx/) |A collection of 100,000 web-based conversations in conversational format is called Weblinx. It was made available to advance research on web-based navigation guided by language models. |
+|[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting.](https://arxiv.org/abs/2402.06390v1) | In order to produce incredibly lifelike 3D avatars, this work presents ImplicitDeepfake1, a novel method that blends deepfake technology with Gaussian Splatting (GS) and Neural Radiance Fields (NeRFs).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
