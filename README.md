@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[phidata.](https://github.com/phidatahq/phidata) |Phidata is a toolkit for building AI Assistants using function calling. Function calling enables LLMs to achieve tasks by calling functions and intelligently choosing their next step based on the response, just like how humans solve problems. |
 |[ml-mgie.](https://github.com/apple/ml-mgie) |Apple released code that uses multimodal language models to improve human-provided natural language edits to images. |
 |[Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting.](https://github.com/time-series-foundation-models/lag-llama) | Lag-Llama is the first open-source foundation model for time series forecasting!|
-|[.]() | |
+|[Learning to Fly in Seconds.](https://github.com/arplaboratory/learning-to-fly) |This repository contains the code for the paper Learning to Fly in Seconds. It allows to train end-to-end control policies using deep reinforcement learning. The training is done in simulation and is finished within seconds on a consumer-grade laptop. The trained policies generalize and can be deployed on real quadrotors |
 |[.]() | |
 |[.]() | |
 |[.]() | |
