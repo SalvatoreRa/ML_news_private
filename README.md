@@ -95,9 +95,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting.](https://github.com/time-series-foundation-models/lag-llama) | Lag-Llama is the first open-source foundation model for time series forecasting!|
 |[Learning to Fly in Seconds.](https://github.com/arplaboratory/learning-to-fly) |This repository contains the code for the paper Learning to Fly in Seconds. It allows to train end-to-end control policies using deep reinforcement learning. The training is done in simulation and is finished within seconds on a consumer-grade laptop. The trained policies generalize and can be deployed on real quadrotors |
 |[Packing Inputs Without Cross-Contamination Attention.](https://github.com/MeetKai/functionary/tree/main/functionary/train/packing) |By concatenating instances, packing in training models can enhance training effectiveness. When examples are handled carelessly, contamination might happen since the focus isn't sure where to end. Although the community has discovered that EOS is frequently enough, issues can nevertheless arise. This repository offers a Hugging Face implementation for popular models to correctly compress input data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ZLUDA.](https://github.com/vosen/ZLUDA) | ZLUDA lets you run unmodified CUDA applications with near-native performance on  AMD GPUs.|
+|[GenTranslate.](https://github.com/yuchen005/gentranslate) |A novel method called GenTranslate leverages massive language models to enhance translation quality. The best translations produced by foundational models are the main focus. Tests have shown that the approach performs better than the state-of-the-art translation models. |
+|[Design2Code.](https://github.com/mostafasadeghi97/design2code) |Design2Code is an open-source project that converts various web design formats, including sketches, wireframes, Figma, XD, etc., into clean and responsive HTML/CSS/JS code. Just upload your design image, and Design2Code will automatically generate the code for you. It's that simple! |
 |[.]() | |
 |[.]() | |
 |[.]() | |
