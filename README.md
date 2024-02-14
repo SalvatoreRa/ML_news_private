@@ -46,9 +46,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Real-World Fluid Directed Rigid Body Control via Deep Reinforcement Learning.](https://arxiv.org/abs/2402.06102) |"Box o Flows" addresses the difficulty of replicating complicated fluid dynamics for reinforcement learning (RL) applications by introducing a unique experimental system for testing RL algorithms in dynamic real-world environments. It demonstrates how model-free reinforcement learning algorithms may produce complex behaviors from simple rewards, improve data efficiency through offline reinforcement learning, and open the door to more widespread RL use in complex systems. |
 |[WebLINX.](https://mcgill-nlp.github.io/weblinx/) |A collection of 100,000 web-based conversations in conversational format is called Weblinx. It was made available to advance research on web-based navigation guided by language models. |
 |[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting.](https://arxiv.org/abs/2402.06390v1) | In order to produce incredibly lifelike 3D avatars, this work presents ImplicitDeepfake1, a novel method that blends deepfake technology with Gaussian Splatting (GS) and Neural Radiance Fields (NeRFs).|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts.](https://arxiv.org/abs/2402.07625v1) | |
+|[Complete Instances Mining for Weakly Supervised Instance Segmentation.](https://arxiv.org/abs/2402.07633v1) | |
+|[Whispers in the Machine: Confidentiality in LLM-integrated Systems.](https://arxiv.org/abs/2402.06922v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
