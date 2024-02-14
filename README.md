@@ -74,9 +74,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta will start detecting and labeling AI-generated images from other companies.](https://www.techspot.com/news/101779-meta-start-detecting-labeling-ai-generated-images-other.html) | The feature will arrive on Facebook, Instagram, and Threads in the coming months|
 |[Stability and Wurstchen release new text to image model.](https://stability.ai/news/introducing-stable-cascade) |a new text to image model building upon the Würstchen architecture. Stable Cascade is exceptionally easy to train and finetune on consumer hardware thanks to its three-stage approach. In addition to providing checkpoints and inference scripts, we are releasing scripts for finetuning, ControlNet, and LoRA training to enable users further to experiment with this new architecture that can be found on [the Stability GitHub page](https://github.com/Stability-AI/StableCascade).|
 |[Memory and new controls for ChatGPT.](https://openai.com/blog/memory-and-new-controls-for-chatgpt) |OpenAI is testing a new feature that allows ChatGPT to remember facts across conversations. This can be switched off if desired. It will allow for a higher measure of personalization when interacting with the chat system. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others.](https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others) | On Thursday, The Wall Street Journal reported that OpenAI CEO Sam Altman is in talks with investors to raise as much as $5 trillion to $7 trillion for AI chip manufacturing, according to people familiar with the matter. The funding seeks to address the scarcity of graphics processing units (GPUs) crucial for training and running large language models like those that power ChatGPT, Microsoft Copilot, and Google Gemini.|
+|[Meta to deploy in-house custom chips this year to power AI drive.](https://finance.yahoo.com/news/exclusive-meta-deploy-house-custom-161945182.html) | acebook owner Meta Platforms plans to deploy into its data centers this year a new version of a custom chip aimed at supporting its artificial intelligence (AI) push, according to an internal company document seen by Reuters on Thursday.|
+|[Google Launches €25 Million AI Opportunity Initiative for Skills Training Across Europe.](https://www.maginative.com/article/google-launches-eu25-million-ai-opportunity-initiative-for-skills-training-across-europe/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ZLUDA.](https://github.com/vosen/ZLUDA) | ZLUDA lets you run unmodified CUDA applications with near-native performance on  AMD GPUs.|
 |[GenTranslate.](https://github.com/yuchen005/gentranslate) |A novel method called GenTranslate leverages massive language models to enhance translation quality. The best translations produced by foundational models are the main focus. Tests have shown that the approach performs better than the state-of-the-art translation models. |
 |[Design2Code.](https://github.com/mostafasadeghi97/design2code) |Design2Code is an open-source project that converts various web design formats, including sketches, wireframes, Figma, XD, etc., into clean and responsive HTML/CSS/JS code. Just upload your design image, and Design2Code will automatically generate the code for you. It's that simple! |
-|[.]() | |
+|[SGLang.](https://github.com/sgl-project/sglang) |SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable by co-designing the frontend language and the runtime system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Massed Muddler Intelligence.](https://studio.ribbonfarm.com/p/massed-muddler-intelligence) | A move away from conventional monolithic AI scaling and toward a paradigm based on distributed, agent-based systems that learn and adapt in real time is represented by the idea of massed muddler intelligence, or MMI. MMI promotes AI development that stresses scalable, interactive agents with a degree of autonomy and mutual governance, moving away from the current focus on accumulating larger datasets and computational resources. This approach is based on the principles of embodiment, boundary intelligence, temporality, and personhood.|
 |[AI Could Actually Help Rebuild The Middle Class.](https://www.noemamag.com/how-ai-could-help-rebuild-the-middle-class/) |AI doesn’t have to be a job destroyer. It offers us the opportunity to extend expertise to a larger set of workers. |
 |[Letter from the YouTube CEO: 4 Big bets for 2024.](https://blog.youtube/inside-youtube/2024-letter-from-neal/) | YouTube is investing in diverse revenue streams for creators. The platform witnessed a 50% increase in the use of channel memberships. It is creating creator support networks through programs like the Creator Collective. Efforts are undertaken to help politicians appreciate and respect the economic and entertainment worth of artists.|
-|[.]() | |
+|[Meta’s AI Chief Yann LeCun on AGI, Open-Source, and AI Risk.](https://time.com/6694432/yann-lecun-meta-ai-interview/) | Ahead of the award ceremony in Dubai, LeCun sat down with TIME to discuss the barriers to achieving “artificial general intelligence” (AGI), the merits of Meta’s open-source approach, and what he sees as the “preposterous” claim that AI could pose an existential risk to the human race.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
