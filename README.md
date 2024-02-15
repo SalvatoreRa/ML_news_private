@@ -50,9 +50,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Complete Instances Mining for Weakly Supervised Instance Segmentation.](https://arxiv.org/abs/2402.07633v1) | A novel method for image segmentation has been presented by researchers that uses just simple image labels to identify particular portions of a picture, such as a dog. They overcame the difficulty of a network identifying many occurrences of the same object by presenting an innovative technique that improves efficiency and lowers mistake rates.|
 |[Whispers in the Machine: Confidentiality in LLM-integrated Systems.](https://arxiv.org/abs/2402.06922v1) | The increased pairing of huge language models with external technologies has given rise to new vulnerabilities associated with data breaches. This research offers a methodical way to assess various AI systems' privacy protection efficacy.|
 |[This AI learnt language by seeing the world through a baby’s eyes.](https://www.nature.com/articles/d41586-024-00288-1) | An artificial intelligence (AI) model has learnt to recognize words such as ‘crib’ and ‘ball’, by studying headcam recordings of a tiny fraction of a single baby’s life. [original article.](https://www.science.org/doi/10.1126/science.adi1374)|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[World Model on Million-Length Video and Language with RingAttention.](https://largeworldmodel.github.io/) |This model can correctly respond to queries with a million token video duration using ring attention and an optimized 7B parameter model. It performs exceptionally accurately on retrieval benchmarks and beats commercial VLMs. |
+|[LUMIERE - A Space-Time Diffusion Model for Video Generation.](https://lumiere-video.github.io/) | A new text-to-video model from Google can assist in accepting input in the form of images and styles. It diffuses everything simultaneously via a brand-new "space-time UNet." |
+|[SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction.](https://vchitect.github.io/SEINE-project/) | With the help of textual descriptions, SEINE is a novel video diffusion model that can expand short AI-generated video clips into larger, narrative-level segments with smooth and creative scene transitions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
