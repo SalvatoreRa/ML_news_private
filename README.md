@@ -78,6 +78,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta to deploy in-house custom chips this year to power AI drive.](https://finance.yahoo.com/news/exclusive-meta-deploy-house-custom-161945182.html) | acebook owner Meta Platforms plans to deploy into its data centers this year a new version of a custom chip aimed at supporting its artificial intelligence (AI) push, according to an internal company document seen by Reuters on Thursday.|
 |[Google Launches €25 Million AI Opportunity Initiative for Skills Training Across Europe.](https://www.maginative.com/article/google-launches-eu25-million-ai-opportunity-initiative-for-skills-training-across-europe/) | |
 |[The brain area that lights up in prickly people.](https://www.nature.com/articles/d41586-024-00318-y) |Those who are quick to take offence show similar levels of activity in a region of the brain that’s crucial for decision-making. |
+|[Disrupting malicious uses of AI by state-affiliated threat actors.](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors) |OpenAI discovered and terminated accounts affiliated with nation-states using GPT models for malicious cases. |
+|[Andrej Karpathy is leaving OpenAI again — but he says there was no drama.](https://techcrunch.com/2024/02/13/andrej-karpathy-is-leaving-openai-again-but-he-says-there-was-no-drama/) |Andrej Karpathy, a widely respected research scientist, announced today that he has left OpenAI. This is the second time Karpathy has left the top AI firm and his departure is not because of any event, issue or drama, he said. |
+|[NVIDIA’s new AI chatbot runs locally on your PC.](https://www.engadget.com/nvidias-new-ai-chatbot-runs-locally-on-your-pc-163406121.html) |NVIDIA just released a free demo version of a chatbot that runs locally on your PC. This is pretty neat, as it gives the chatbot access to your files and documents. You can feed Chat with RTX a selection of personal data and have it create summaries based on that information. You can also ask it questions, just like any chatbot, and dives into your data for answers. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
