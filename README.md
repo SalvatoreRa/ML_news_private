@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GenTranslate.](https://github.com/yuchen005/gentranslate) |A novel method called GenTranslate leverages massive language models to enhance translation quality. The best translations produced by foundational models are the main focus. Tests have shown that the approach performs better than the state-of-the-art translation models. |
 |[Design2Code.](https://github.com/mostafasadeghi97/design2code) |Design2Code is an open-source project that converts various web design formats, including sketches, wireframes, Figma, XD, etc., into clean and responsive HTML/CSS/JS code. Just upload your design image, and Design2Code will automatically generate the code for you. It's that simple! |
 |[SGLang.](https://github.com/sgl-project/sglang) |SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable by co-designing the frontend language and the runtime system. |
-|[.]() | |
+|[DALI.](https://github.com/AAAI-DISIM-UnivAQ/DALI) |This study presents cutting-edge techniques to guarantee that autonomous intelligent agents—which are essential in applications that depend on life—remain morally and ethically sound even as they develop. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Letter from the YouTube CEO: 4 Big bets for 2024.](https://blog.youtube/inside-youtube/2024-letter-from-neal/) | YouTube is investing in diverse revenue streams for creators. The platform witnessed a 50% increase in the use of channel memberships. It is creating creator support networks through programs like the Creator Collective. Efforts are undertaken to help politicians appreciate and respect the economic and entertainment worth of artists.|
 |[Meta’s AI Chief Yann LeCun on AGI, Open-Source, and AI Risk.](https://time.com/6694432/yann-lecun-meta-ai-interview/) | Ahead of the award ceremony in Dubai, LeCun sat down with TIME to discuss the barriers to achieving “artificial general intelligence” (AGI), the merits of Meta’s open-source approach, and what he sees as the “preposterous” claim that AI could pose an existential risk to the human race.|
 |[Deepfakes, trolls and cybertroopers: how social media could sway elections in 2024.](https://www.nature.com/articles/d41586-024-00274-7) | Faced with data restrictions and harassment, researchers are mapping out fresh approaches to studying social media’s political reach.|
-|[.]() | |
+|[Why "Chat over Your Data" Is Harder Than You Think.](https://www.arcus.co/blog/chat) |Contrary to popular belief, developing chat-based, domain-specific LLM applications and copilots is challenging. Achieving strong performance, managing intricate queries and data, and providing robust data retrieval for LLM-based chat apps are a few of the difficulties. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
