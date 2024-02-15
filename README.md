@@ -53,8 +53,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[World Model on Million-Length Video and Language with RingAttention.](https://largeworldmodel.github.io/) |This model can correctly respond to queries with a million token video duration using ring attention and an optimized 7B parameter model. It performs exceptionally accurately on retrieval benchmarks and beats commercial VLMs. |
 |[LUMIERE - A Space-Time Diffusion Model for Video Generation.](https://lumiere-video.github.io/) | A new text-to-video model from Google can assist in accepting input in the form of images and styles. It diffuses everything simultaneously via a brand-new "space-time UNet." |
 |[SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction.](https://vchitect.github.io/SEINE-project/) | With the help of textual descriptions, SEINE is a novel video diffusion model that can expand short AI-generated video clips into larger, narrative-level segments with smooth and creative scene transitions.|
-|[.]() | |
-|[.]() | |
+|[Text-Driven Image Editing via Learnable Regions.](https://yuanze-lin.me/LearnableRegions_page/) |Given an input image and a language description for editing, our method can generate realistic and relevant images without the need for user-specified regions for editing. It performs local image editing while preserving the image context. Our method can also handle multiple-object and long-paragraph scenarios. |
+|[Video annotator.](https://github.com/netflix/videoannotator) |The annotation process directly incorporates subject experts thanks to the Video Annotator framework. This novel method increases the accuracy and efficiency of the model by combining human expertise with zero-shot and active learning techniques. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NVIDIA’s new AI chatbot runs locally on your PC.](https://www.engadget.com/nvidias-new-ai-chatbot-runs-locally-on-your-pc-163406121.html) |NVIDIA just released a free demo version of a chatbot that runs locally on your PC. This is pretty neat, as it gives the chatbot access to your files and documents. You can feed Chat with RTX a selection of personal data and have it create summaries based on that information. You can also ask it questions, just like any chatbot, and dives into your data for answers. |
 |[MAGNeT: Masked Audio Generation using a Single Non-Autoregressive Transformer.](https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md) | Facebook unveiled an advanced open-source audio model that is 7 times quicker than competing models without compromising on quality. It is able to produce sound effects and music. The manuscript is now accessible.|
 |[MIMIR.](https://github.com/iamgroot42/mimir) |Python package for measuring memorization in LLMs. |
-|[.]() | |
+|[Nvidia is now worth as much as the whole Chinese stock market.](https://finance.yahoo.com/news/nvidia-now-worth-much-whole-010315545.html) |Nvidia is now worth the same as the whole Chinese stock market as defined by Hong Kong-listed H-shares, Bank of America chief investment strategist Michael Hartnett pointed out in a new note. The company's market cap has hit $1.7 trillion, the same as all Chinese companies listed on the Hong Kong Stock Exchange. Nvidia's stock soared 239% in 2023 and is up 41% in 2024, through Thursday.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Design2Code.](https://github.com/mostafasadeghi97/design2code) |Design2Code is an open-source project that converts various web design formats, including sketches, wireframes, Figma, XD, etc., into clean and responsive HTML/CSS/JS code. Just upload your design image, and Design2Code will automatically generate the code for you. It's that simple! |
 |[SGLang.](https://github.com/sgl-project/sglang) |SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable by co-designing the frontend language and the runtime system. |
 |[DALI.](https://github.com/AAAI-DISIM-UnivAQ/DALI) |This study presents cutting-edge techniques to guarantee that autonomous intelligent agents—which are essential in applications that depend on life—remain morally and ethically sound even as they develop. |
-|[.]() | |
+|[Reor Project.](https://github.com/reorproject/reor) | Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
