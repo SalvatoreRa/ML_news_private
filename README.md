@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts.](https://arxiv.org/abs/2402.07625v1) | Researchers have created a novel method to improve language models' mathematical proficiency by letting base models choose excellent mathematical information on their own.|
 |[Complete Instances Mining for Weakly Supervised Instance Segmentation.](https://arxiv.org/abs/2402.07633v1) | A novel method for image segmentation has been presented by researchers that uses just simple image labels to identify particular portions of a picture, such as a dog. They overcame the difficulty of a network identifying many occurrences of the same object by presenting an innovative technique that improves efficiency and lowers mistake rates.|
 |[Whispers in the Machine: Confidentiality in LLM-integrated Systems.](https://arxiv.org/abs/2402.06922v1) | The increased pairing of huge language models with external technologies has given rise to new vulnerabilities associated with data breaches. This research offers a methodical way to assess various AI systems' privacy protection efficacy.|
-|[.]() | |
+|[This AI learnt language by seeing the world through a baby’s eyes.](https://www.nature.com/articles/d41586-024-00288-1) | An artificial intelligence (AI) model has learnt to recognize words such as ‘crib’ and ‘ball’, by studying headcam recordings of a tiny fraction of a single baby’s life. [original article.](https://www.science.org/doi/10.1126/science.adi1374)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others.](https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others) | On Thursday, The Wall Street Journal reported that OpenAI CEO Sam Altman is in talks with investors to raise as much as $5 trillion to $7 trillion for AI chip manufacturing, according to people familiar with the matter. The funding seeks to address the scarcity of graphics processing units (GPUs) crucial for training and running large language models like those that power ChatGPT, Microsoft Copilot, and Google Gemini.|
 |[Meta to deploy in-house custom chips this year to power AI drive.](https://finance.yahoo.com/news/exclusive-meta-deploy-house-custom-161945182.html) | acebook owner Meta Platforms plans to deploy into its data centers this year a new version of a custom chip aimed at supporting its artificial intelligence (AI) push, according to an internal company document seen by Reuters on Thursday.|
 |[Google Launches €25 Million AI Opportunity Initiative for Skills Training Across Europe.](https://www.maginative.com/article/google-launches-eu25-million-ai-opportunity-initiative-for-skills-training-across-europe/) | |
-|[.]() | |
+|[The brain area that lights up in prickly people.](https://www.nature.com/articles/d41586-024-00318-y) |Those who are quick to take offence show similar levels of activity in a region of the brain that’s crucial for decision-making. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,6 +120,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Could Actually Help Rebuild The Middle Class.](https://www.noemamag.com/how-ai-could-help-rebuild-the-middle-class/) |AI doesn’t have to be a job destroyer. It offers us the opportunity to extend expertise to a larger set of workers. |
 |[Letter from the YouTube CEO: 4 Big bets for 2024.](https://blog.youtube/inside-youtube/2024-letter-from-neal/) | YouTube is investing in diverse revenue streams for creators. The platform witnessed a 50% increase in the use of channel memberships. It is creating creator support networks through programs like the Creator Collective. Efforts are undertaken to help politicians appreciate and respect the economic and entertainment worth of artists.|
 |[Meta’s AI Chief Yann LeCun on AGI, Open-Source, and AI Risk.](https://time.com/6694432/yann-lecun-meta-ai-interview/) | Ahead of the award ceremony in Dubai, LeCun sat down with TIME to discuss the barriers to achieving “artificial general intelligence” (AGI), the merits of Meta’s open-source approach, and what he sees as the “preposterous” claim that AI could pose an existential risk to the human race.|
+|[Deepfakes, trolls and cybertroopers: how social media could sway elections in 2024.](https://www.nature.com/articles/d41586-024-00274-7) | Faced with data restrictions and harassment, researchers are mapping out fresh approaches to studying social media’s political reach.|
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
