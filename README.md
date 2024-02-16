@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DALI.](https://github.com/AAAI-DISIM-UnivAQ/DALI) |This study presents cutting-edge techniques to guarantee that autonomous intelligent agents—which are essential in applications that depend on life—remain morally and ethically sound even as they develop. |
 |[Reor Project.](https://github.com/reorproject/reor) | Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.|
 |[Dinosaur: differentiable dynamics for global atmospheric modeling.](https://github.com/google-research/dinosaur) | The Google group has made code available to support atmospheric modeling. DeepMind's latest weather modeling tools are built around this code.|
-|[.]() | |
+|[Neural Flow.](https://github.com/valine/NeuralFlow) | This is a Python script for plotting the intermediate layer outputs of Mistral 7B. When you run the script, it produces a 512x256 image representing the output at every layer of the model. The concept is straightforward: collect the output tensors from each layer, normalize them between zero and one, and plot these values as a heatmap. The resulting image reveals a surprising amount of structure. I have found this enormously helpful for visually inspecting outputs when fine-tuning models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
