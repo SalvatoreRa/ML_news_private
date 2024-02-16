@@ -55,6 +55,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction.](https://vchitect.github.io/SEINE-project/) | With the help of textual descriptions, SEINE is a novel video diffusion model that can expand short AI-generated video clips into larger, narrative-level segments with smooth and creative scene transitions.|
 |[Text-Driven Image Editing via Learnable Regions.](https://yuanze-lin.me/LearnableRegions_page/) |Given an input image and a language description for editing, our method can generate realistic and relevant images without the need for user-specified regions for editing. It performs local image editing while preserving the image context. Our method can also handle multiple-object and long-paragraph scenarios. |
 |[Video annotator.](https://github.com/netflix/videoannotator) |The annotation process directly incorporates subject experts thanks to the Video Annotator framework. This novel method increases the accuracy and efficiency of the model by combining human expertise with zero-shot and active learning techniques. |
+|[Automated Unit Test Improvement using Large Language Models at Meta.](https://arxiv.org/abs/2402.09171) |Meta created tests for its code base using massive language models. It discovered significant gains in overall code quality and test coverage. |
+|[Meta’s V-JEPA model.](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/?) |According to Yann LeCun, VP and Chief AI Scientist at Meta, more data-efficient self-supervised models are required for general intelligence. This approach, which uses models trained on video to comprehend parts of the world, is a first step in that direction. The models can be accessed by the general public. |
+|[Extreme Video Compression with Pre-trained Diffusion Models.](https://arxiv.org/abs/2402.08934v1) |Diffusion models have been used by researchers to create a novel video compression technique that produces high-quality video frames at low data rates. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SGLang.](https://github.com/sgl-project/sglang) |SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable by co-designing the frontend language and the runtime system. |
 |[DALI.](https://github.com/AAAI-DISIM-UnivAQ/DALI) |This study presents cutting-edge techniques to guarantee that autonomous intelligent agents—which are essential in applications that depend on life—remain morally and ethically sound even as they develop. |
 |[Reor Project.](https://github.com/reorproject/reor) | Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.|
-|[.]() | |
+|[Dinosaur: differentiable dynamics for global atmospheric modeling.](https://github.com/google-research/dinosaur) | The Google group has made code available to support atmospheric modeling. DeepMind's latest weather modeling tools are built around this code.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
