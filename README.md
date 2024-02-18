@@ -4,7 +4,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # scheme
 
-# ML news:
+# ML news: 
 
 ## Research
 |Link|description|
@@ -36,7 +36,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news:
+# ML news: Week 12 - 18 February
 
 ## Research
 |Link|description|
