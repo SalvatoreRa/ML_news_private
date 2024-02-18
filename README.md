@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reor Project.](https://github.com/reorproject/reor) | Reor is an AI-powered desktop note-taking app: it automatically links related ideas, answers questions on your notes and provides semantic search. Everything is stored locally and you can edit your notes with an Obsidian-like markdown editor.|
 |[Dinosaur: differentiable dynamics for global atmospheric modeling.](https://github.com/google-research/dinosaur) | The Google group has made code available to support atmospheric modeling. DeepMind's latest weather modeling tools are built around this code.|
 |[Neural Flow.](https://github.com/valine/NeuralFlow) | This is a Python script for plotting the intermediate layer outputs of Mistral 7B. When you run the script, it produces a 512x256 image representing the output at every layer of the model. The concept is straightforward: collect the output tensors from each layer, normalize them between zero and one, and plot these values as a heatmap. The resulting image reveals a surprising amount of structure. I have found this enormously helpful for visually inspecting outputs when fine-tuning models.|
-|[.]() | |
-|[.]() | |
+|[Tabula Rasa: not enough data? Generate them!.](https://levelup.gitconnected.com/tabula-rasa-not-enough-data-generate-them-e1c160acb9c9) |How you can apply generative AI to tabular data |
+|[A practical guide to neighborhood image processing.](https://ai.plainenglish.io/a-practical-guide-to-neighborhood-image-processing-cd3cc7f264a7) |Love thy neighbors: How the neighbors are influencing a pixel |
 |[.]() | |
 |[.]() | |
 |[.]() | |
