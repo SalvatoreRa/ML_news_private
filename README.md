@@ -118,12 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Automated Unit Test Improvement using Large Language Models at Meta.](https://arxiv.org/abs/2402.09171) |Meta created tests for its code base using massive language models. It discovered significant gains in overall code quality and test coverage. |
 |[Meta’s V-JEPA model.](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/?) |According to Yann LeCun, VP and Chief AI Scientist at Meta, more data-efficient self-supervised models are required for general intelligence. This approach, which uses models trained on video to comprehend parts of the world, is a first step in that direction. The models can be accessed by the general public. |
 |[Extreme Video Compression with Pre-trained Diffusion Models.](https://arxiv.org/abs/2402.08934v1) |Diffusion models have been used by researchers to create a novel video compression technique that produces high-quality video frames at low data rates. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -153,13 +148,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Sora.](https://openai.com/sora) |A new video generating model with amazing quality was revealed by OpenAI. Red teamers are allowed to test it right now. |
 |[Lambda Raises $320M To Build A GPU Cloud For AI.](https://lambdalabs.com/blog/lambda-raises-320m-to-build-a-gpu-cloud-for-ai) | Lambda’s mission is to build the #1 AI compute platform in the world. To accomplish this, we’ll need lots of NVIDIA GPUs, ultra-fast networking, lots of data center space, and lots of great new software to delight you and your AI engineering team.|
 |[USPTO says AI models can’t hold patents.](https://arstechnica.com/information-technology/2024/02/us-says-ai-models-cant-hold-patents/) | the United States Patent and Trademark Office (USPTO) published guidance on inventorship for AI-assisted inventions, clarifying that while AI systems can play a role in the creative process, only natural persons (human beings) who make significant contributions to the conception of an invention can be named as inventors. It also rules out using AI models to churn out patent ideas without significant human input.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -182,9 +170,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Neural Flow.](https://github.com/valine/NeuralFlow) | This is a Python script for plotting the intermediate layer outputs of Mistral 7B. When you run the script, it produces a 512x256 image representing the output at every layer of the model. The concept is straightforward: collect the output tensors from each layer, normalize them between zero and one, and plot these values as a heatmap. The resulting image reveals a surprising amount of structure. I have found this enormously helpful for visually inspecting outputs when fine-tuning models.|
 |[Tabula Rasa: not enough data? Generate them!.](https://levelup.gitconnected.com/tabula-rasa-not-enough-data-generate-them-e1c160acb9c9) |How you can apply generative AI to tabular data |
 |[A practical guide to neighborhood image processing.](https://ai.plainenglish.io/a-practical-guide-to-neighborhood-image-processing-cd3cc7f264a7) |Love thy neighbors: How the neighbors are influencing a pixel |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -199,11 +184,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta’s AI Chief Yann LeCun on AGI, Open-Source, and AI Risk.](https://time.com/6694432/yann-lecun-meta-ai-interview/) | Ahead of the award ceremony in Dubai, LeCun sat down with TIME to discuss the barriers to achieving “artificial general intelligence” (AGI), the merits of Meta’s open-source approach, and what he sees as the “preposterous” claim that AI could pose an existential risk to the human race.|
 |[Deepfakes, trolls and cybertroopers: how social media could sway elections in 2024.](https://www.nature.com/articles/d41586-024-00274-7) | Faced with data restrictions and harassment, researchers are mapping out fresh approaches to studying social media’s political reach.|
 |[Why "Chat over Your Data" Is Harder Than You Think.](https://www.arcus.co/blog/chat) |Contrary to popular belief, developing chat-based, domain-specific LLM applications and copilots is challenging. Achieving strong performance, managing intricate queries and data, and providing robust data retrieval for LLM-based chat apps are a few of the difficulties. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ML news: Week 5 - 11 February
