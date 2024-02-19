@@ -69,8 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic takes steps to prevent election misinformation.](https://techcrunch.com/2024/02/16/anthropic-takes-steps-to-prevent-election-misinformation/) | Called Prompt Shield, the technology, which relies on a combination of AI detection models and rules, shows a pop-up if a U.S.-based user of Claude, Anthropic’s chatbot, asks for voting information. The pop-up offers to redirect the user to TurboVote, a resource from the nonpartisan organization Democracy Works, where they can find up-to-date, accurate voting information.|
 |[OpenAI's next AI product could be after your job (again).](https://www.androidauthority.com/openai-ai-agent-coming-soon-3412336/) | OpenAI is said to be developing AI agents that automate even more complex tasks, though their launch timeline remains unknown. One AI agent is said to take over the customer’s device to perform tasks like transferring data from a document to a spreadsheet, filling out expense reports, and entering them into accounting software. The other AI agent is said to perform more research-oriented, web-based tasks, such as creating itineraries and booking flight tickets.|
 |[Our next-generation model: Gemini 1.5.](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) |  In fact, we’re ready to introduce the next generation: Gemini 1.5. It shows dramatic improvements across a number of dimensions and 1.5 Pro achieves comparable quality to 1.0 Ultra, while using less compute.|
-|[.]() | |
-|[.]() | |
+|[OpenAI on track to hit $2bn revenue milestone as growth rockets.](https://www.ft.com/content/81ac0e78-5b9b-43c2-b135-d11c47480119) | Thanks in large part to ChatGPT's enormous success, OpenAI has reached an annual revenue run rate of over $2 billion, making it one of the fastest-growing tech companies.|
+|[Sam Altman wants Washington's backing for his $7 trillion AI chip venture.](https://www.businessinsider.com/sam-altman-wants-government-backing-7-trillion-ai-chip-venture-2024-2) |The OpenAI CEO is working to secure US government approval for the project as it risks raising national security and antitrust concerns, Bloomberg reported. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The data revolution in venture capital.](https://www.signatureblock.co/articles/the-data-revolution-in-venture-capital) |Investors, data scientists, and tool builders leading the data-driven future of venture capital. |
-|[.]() | |
+|[The Three C's: Creativity, Collaboration, and Communication.](https://www.digitalnative.tech/p/the-three-cs-creativity-collaboration) | The way we communicate, work together, and complete creative projects has changed significantly since the invention of computing. With AI, we're beginning to witness the commencement of another significant change. We undervalue how significant this change will be. Businesses that integrate artificial intelligence (AI) into their products from the start will have a significant edge over those who add it later to already-existing goods.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
