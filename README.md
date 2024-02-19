@@ -53,10 +53,28 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
 |---|---|
+|[Anthropic takes steps to prevent election misinformation.](https://techcrunch.com/2024/02/16/anthropic-takes-steps-to-prevent-election-misinformation/) | Called Prompt Shield, the technology, which relies on a combination of AI detection models and rules, shows a pop-up if a U.S.-based user of Claude, Anthropic’s chatbot, asks for voting information. The pop-up offers to redirect the user to TurboVote, a resource from the nonpartisan organization Democracy Works, where they can find up-to-date, accurate voting information.|
+|[OpenAI's next AI product could be after your job (again).](https://www.androidauthority.com/openai-ai-agent-coming-soon-3412336/) | OpenAI is said to be developing AI agents that automate even more complex tasks, though their launch timeline remains unknown. One AI agent is said to take over the customer’s device to perform tasks like transferring data from a document to a spreadsheet, filling out expense reports, and entering them into accounting software. The other AI agent is said to perform more research-oriented, web-based tasks, such as creating itineraries and booking flight tickets.|
+|[Our next-generation model: Gemini 1.5.](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) |  In fact, we’re ready to introduce the next generation: Gemini 1.5. It shows dramatic improvements across a number of dimensions and 1.5 Pro achieves comparable quality to 1.0 Ultra, while using less compute.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,10 +97,28 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Perspectives
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
