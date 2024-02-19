@@ -88,10 +88,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[minbpe.](https://github.com/karpathy/minbpe) |Minimal, clean code for the (byte-level) Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. The BPE algorithm is "byte-level" because it runs on UTF-8 encoded strings. |
+|[GPTScript.](https://github.com/gptscript-ai/gptscript) |GPTScript is a new scripting language to automate your interaction with a Large Language Model (LLM), namely OpenAI. The ultimate goal is to create a fully natural language based programming experience. The syntax of GPTScript is largely natural language, making it very easy to learn and use. |
+|[QWEN.](https://github.com/QwenLM/Qwen) | We opensource our Qwen series, now including Qwen, the base language models, namely Qwen-1.8B, Qwen-7B, Qwen-14B, and Qwen-72B, as well as Qwen-Chat, the chat models, namely Qwen-1.8B-Chat, Qwen-7B-Chat, Qwen-14B-Chat, and Qwen-72B-Chat. |
+|[Sora Reference Papers.](https://huggingface.co/collections/fffiloni/sora-reference-papers-65d0c8d4891646a27b84c4a8) |A collection of all papers referenced in OpenAI's "Video generation models as world simulators" |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[The data revolution in venture capital.](https://www.signatureblock.co/articles/the-data-revolution-in-venture-capital) |Investors, data scientists, and tool builders leading the data-driven future of venture capital. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
