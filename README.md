@@ -41,9 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning.](https://arxiv.org/abs/2402.04833) | Deciding which examples to employ when aligning language models with preference data is frequently difficult. This paper proposes an unexpectedly strong baseline: pick the 1,000 longest cases.|
+|[Extreme Video Compression with Pre-trained Diffusion Models.](https://arxiv.org/abs/2402.08934v1) |As diffusion models get more adept in synthesizing pictures and videos, they may be used for other purposes due to their extensive "knowledge" of the world. This study discovered an astounding 0.02 bits per pixel reduction. The secret here was to track perceptual similarities along the route and deliver a new frame of the original movie as necessary. |
+|[OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset.](https://arxiv.org/abs/2402.10176v1) |In order to train open-source Large Language Models in math that equal the performance of closed-source models, researchers have developed a new dataset called OpenMathInstruct-1. With 1.8 million problem-solution pairings, this innovation paves the way for more competitive and approachable AI systems for math teaching. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
