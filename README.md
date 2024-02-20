@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[repeng.](https://github.com/vgel/repeng/) |Control vectors are a low-cost means of controlling the output of semantic generation. Compared to LoRA, they are less expensive to train yet may still be fairly powerful. It's made simpler with this library. |
 |[OpenRLHF.](https://github.com/OpenLLMAI/OpenRLHF) | This is a Ray-based implementation of RLHF for Mistral and other Llama-style models. Several PPO stabilizing techniques are included to enhance performance. |
 |[3D Diffuser Actor: Policy Diffusion with 3D Scene Representations.](https://github.com/nickgkan/3d_diffuser_actor) |To enhance robot manipulation, the 3D Diffuser Actor blends 3D scene representations with diffusion strategies. Robots are better able to comprehend and engage with their surroundings thanks to this AI-driven method. |
-|[.]() | |
+|[How to jointly tune learning rate and weight decay for AdamW.](https://fabian-sp.github.io/posts/2024/02/decoupling/) |AdamW is often considered a method that decouples weight decay and learning rate. In this blog post, we show that this is not true for the specific way AdamW is implemented in Pytorch. We also show how to adapt the tuning strategy in order to fix this: when doubling the learning rate, the weight decay should be halved. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The data revolution in venture capital.](https://www.signatureblock.co/articles/the-data-revolution-in-venture-capital) |Investors, data scientists, and tool builders leading the data-driven future of venture capital. |
 |[The Three C's: Creativity, Collaboration, and Communication.](https://www.digitalnative.tech/p/the-three-cs-creativity-collaboration) | The way we communicate, work together, and complete creative projects has changed significantly since the invention of computing. With AI, we're beginning to witness the commencement of another significant change. We undervalue how significant this change will be. Businesses that integrate artificial intelligence (AI) into their products from the start will have a significant edge over those who add it later to already-existing goods.|
-|[.]() | |
+|[Inside OpenAI Logan Kilpatrick (head of developer relations).](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) | Have you ever wondered how OpenAI develops and innovates so quickly? The head of developer relations at OpenAI, Logan Kilpatrick, talks about the company's decision-making structure for product launches, high agency and urgency, and OpenAI's distinct culture in this podcast.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
