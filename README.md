@@ -71,9 +71,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Our next-generation model: Gemini 1.5.](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) |  In fact, we’re ready to introduce the next generation: Gemini 1.5. It shows dramatic improvements across a number of dimensions and 1.5 Pro achieves comparable quality to 1.0 Ultra, while using less compute.|
 |[OpenAI on track to hit $2bn revenue milestone as growth rockets.](https://www.ft.com/content/81ac0e78-5b9b-43c2-b135-d11c47480119) | Thanks in large part to ChatGPT's enormous success, OpenAI has reached an annual revenue run rate of over $2 billion, making it one of the fastest-growing tech companies.|
 |[Sam Altman wants Washington's backing for his $7 trillion AI chip venture.](https://www.businessinsider.com/sam-altman-wants-government-backing-7-trillion-ai-chip-venture-2024-2) |The OpenAI CEO is working to secure US government approval for the project as it risks raising national security and antitrust concerns, Bloomberg reported. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[‘Gemini Business’ and ‘Gemini Enterprise’ plans for Google Workspace are coming.](https://9to5google.com/2024/02/19/gemini-business-enterprise/) | The upcoming changelog — as spotted by Testing Catalog and Dylan Roussel on X/Twitter today — reveals the existence of “Gemini Business” and “Gemini Enterprise” plans. This will give “Google Workspace customers access to one of Google’s most capable Al models, 1.0 Ultra in Gemini and enterprise-grade data protections.”|
+|[OpenAI Reaches $80 Billion Valuation In Venture Firm Deal, Report Says.](https://www.forbes.com/sites/antoniopequenoiv/2024/02/16/openai-reaches-80-billion-valuation-in-venture-firm-deal-report-says) |OpenAI inked a deal with venture capital firm Thrive Capital that boosted its valuation to $80 billion or more, the New York Times reported, a nearly threefold increase in value from just nine months ago.|
+|[Magic raises $117m to continue code generation models.](https://x.com/magicailabs/status/1758140204446323188?s=20) |We've raised $117M  to build an AI software engineer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
