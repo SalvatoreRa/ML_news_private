@@ -92,9 +92,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPTScript.](https://github.com/gptscript-ai/gptscript) |GPTScript is a new scripting language to automate your interaction with a Large Language Model (LLM), namely OpenAI. The ultimate goal is to create a fully natural language based programming experience. The syntax of GPTScript is largely natural language, making it very easy to learn and use. |
 |[QWEN.](https://github.com/QwenLM/Qwen) | We opensource our Qwen series, now including Qwen, the base language models, namely Qwen-1.8B, Qwen-7B, Qwen-14B, and Qwen-72B, as well as Qwen-Chat, the chat models, namely Qwen-1.8B-Chat, Qwen-7B-Chat, Qwen-14B-Chat, and Qwen-72B-Chat. |
 |[Sora Reference Papers.](https://huggingface.co/collections/fffiloni/sora-reference-papers-65d0c8d4891646a27b84c4a8) |A collection of all papers referenced in OpenAI's "Video generation models as world simulators" |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[repeng.](https://github.com/vgel/repeng/) |Control vectors are a low-cost means of controlling the output of semantic generation. Compared to LoRA, they are less expensive to train yet may still be fairly powerful. It's made simpler with this library. |
+|[OpenRLHF.](https://github.com/OpenLLMAI/OpenRLHF) | This is a Ray-based implementation of RLHF for Mistral and other Llama-style models. Several PPO stabilizing techniques are included to enhance performance. |
+|[3D Diffuser Actor: Policy Diffusion with 3D Scene Representations.](https://github.com/nickgkan/3d_diffuser_actor) |To enhance robot manipulation, the 3D Diffuser Actor blends 3D scene representations with diffusion strategies. Robots are better able to comprehend and engage with their surroundings thanks to this AI-driven method. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
