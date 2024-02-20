@@ -44,9 +44,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning.](https://arxiv.org/abs/2402.04833) | Deciding which examples to employ when aligning language models with preference data is frequently difficult. This paper proposes an unexpectedly strong baseline: pick the 1,000 longest cases.|
 |[Extreme Video Compression with Pre-trained Diffusion Models.](https://arxiv.org/abs/2402.08934v1) |As diffusion models get more adept in synthesizing pictures and videos, they may be used for other purposes due to their extensive "knowledge" of the world. This study discovered an astounding 0.02 bits per pixel reduction. The secret here was to track perceptual similarities along the route and deliver a new frame of the original movie as necessary. |
 |[OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset.](https://arxiv.org/abs/2402.10176v1) |In order to train open-source Large Language Models in math that equal the performance of closed-source models, researchers have developed a new dataset called OpenMathInstruct-1. With 1.8 million problem-solution pairings, this innovation paves the way for more competitive and approachable AI systems for math teaching. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.](https://arxiv.org/abs/2401.18079) | A feature of the Transformer design that allows it to consume less memory at inference time is the quantization of the KV cache. The process of decreasing floating point accuracy with the least amount of quality loss is called quantization. |
+|[Pushing the Limits of Zero-shot End-to-End Speech Translation.](https://arxiv.org/abs/2402.10422v1) | ZeroSwot is a novel approach to voice Translation (ST) that addresses the data scarcity and distinctions between text and voice. It may operate with a multilingual translation model by using special strategies to train a voice encoder using only speech recognition data.|
+|[Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE).](https://arxiv.org/abs/2402.10376v1) |A novel technique called SpLiCE simplifies the complicated visual data in CLIP. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
