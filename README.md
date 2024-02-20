@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization.](https://arxiv.org/abs/2401.18079) | A feature of the Transformer design that allows it to consume less memory at inference time is the quantization of the KV cache. The process of decreasing floating point accuracy with the least amount of quality loss is called quantization. |
 |[Pushing the Limits of Zero-shot End-to-End Speech Translation.](https://arxiv.org/abs/2402.10422v1) | ZeroSwot is a novel approach to voice Translation (ST) that addresses the data scarcity and distinctions between text and voice. It may operate with a multilingual translation model by using special strategies to train a voice encoder using only speech recognition data.|
 |[Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE).](https://arxiv.org/abs/2402.10376v1) |A novel technique called SpLiCE simplifies the complicated visual data in CLIP. |
-|[.]() | |
+|[TDViT: Temporal Dilated Video Transformer for Dense Video Tasks.](https://arxiv.org/abs/2402.09257v1) | A novel Temporal Dilated Video Transformer (TDViT) has been created to enhance the analysis of tasks involving dense videos, like object detection in videos frame by frame.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenRLHF.](https://github.com/OpenLLMAI/OpenRLHF) | This is a Ray-based implementation of RLHF for Mistral and other Llama-style models. Several PPO stabilizing techniques are included to enhance performance. |
 |[3D Diffuser Actor: Policy Diffusion with 3D Scene Representations.](https://github.com/nickgkan/3d_diffuser_actor) |To enhance robot manipulation, the 3D Diffuser Actor blends 3D scene representations with diffusion strategies. Robots are better able to comprehend and engage with their surroundings thanks to this AI-driven method. |
 |[How to jointly tune learning rate and weight decay for AdamW.](https://fabian-sp.github.io/posts/2024/02/decoupling/) |AdamW is often considered a method that decouples weight decay and learning rate. In this blog post, we show that this is not true for the specific way AdamW is implemented in Pytorch. We also show how to adapt the tuning strategy in order to fix this: when doubling the learning rate, the weight decay should be halved. |
-|[.]() | |
-|[.]() | |
+|[OpenLLMetry-JS.](https://github.com/traceloop/openllmetry-js) | OpenLLMetry-JS is a set of extensions built on top of OpenTelemetry that gives you complete observability over your LLM application. Because it uses OpenTelemetry under the hood, it can be connected to your existing observability solutions - Datadog, Honeycomb, and others.|
+|[List of GPU clusters for rent.](https://gpulist.ai/) |a list of entire clusters that can be rented on an hourly basis. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
