@@ -99,6 +99,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenLLMetry-JS.](https://github.com/traceloop/openllmetry-js) | OpenLLMetry-JS is a set of extensions built on top of OpenTelemetry that gives you complete observability over your LLM application. Because it uses OpenTelemetry under the hood, it can be connected to your existing observability solutions - Datadog, Honeycomb, and others.|
 |[List of GPU clusters for rent.](https://gpulist.ai/) |a list of entire clusters that can be rented on an hourly basis. |
 |[Mamba: The Hard Way.](https://srush.github.io/annotated-mamba/hard.html) | A detailed description of how Mamba works |
+|[new benchmark for large language models.](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html) |It's a collection of nearly 100 tests I've extracted from my actual conversation history with various LLMs. |
+|[BoCoEL.](https://github.com/rentruewang/bocoel) |Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate evaluation (benchmarking) that's 10 times faster with just a few lines of modular code. |
+|[FiT: Flexible Vision Transformer for Diffusion Model.](https://github.com/whlzy/fit) | This repo contains PyTorch model definitions, pre-trained weights and sampling code for our flexible vision transformer (FiT). FiT is a diffusion transformer based model which can generate images at unrestricted resolutions and aspect ratios.|
+|[RobustVLM.](https://github.com/chs20/robustvlm) | In order to defend multi-modal models like OpenFlamingo and LLaVA against visual adversarial assaults, a novel technique is presented in this study. The authors successfully defend these models against manipulative picture assaults by fine-tuning the CLIP visual encoder in an unsupervised way, increasing the models' dependability and security in practical applications without requiring a complete model retraining.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,6 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
