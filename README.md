@@ -74,8 +74,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Gemini Business’ and ‘Gemini Enterprise’ plans for Google Workspace are coming.](https://9to5google.com/2024/02/19/gemini-business-enterprise/) | The upcoming changelog — as spotted by Testing Catalog and Dylan Roussel on X/Twitter today — reveals the existence of “Gemini Business” and “Gemini Enterprise” plans. This will give “Google Workspace customers access to one of Google’s most capable Al models, 1.0 Ultra in Gemini and enterprise-grade data protections.”|
 |[OpenAI Reaches $80 Billion Valuation In Venture Firm Deal, Report Says.](https://www.forbes.com/sites/antoniopequenoiv/2024/02/16/openai-reaches-80-billion-valuation-in-venture-firm-deal-report-says) |OpenAI inked a deal with venture capital firm Thrive Capital that boosted its valuation to $80 billion or more, the New York Times reported, a nearly threefold increase in value from just nine months ago.|
 |[Magic raises $117m to continue code generation models.](https://x.com/magicailabs/status/1758140204446323188?s=20) |We've raised $117M  to build an AI software engineer. |
-|[.]() | |
-|[.]() | |
+|[SoftBank Founder Masayoshi Son Aims to Raise $100 Billion for New Chip Venture, "Izanagi".](https://www.msn.com/en-us/money/companies/softbank-founder-masayoshi-son-aims-to-raise-100-billion-for-new-chip-venture-izanagi/ar-BB1iq42h) |Masayoshi Son, the visionary founder of SoftBank Group Corp., has set his sights on revolutionizing the semiconductor industry with the launch of Izanagi, a groundbreaking chip venture backed by a staggering $100 billion investment. |
+|[Scribe $25M Series B.](https://scribehow.com/library/series-b-announcement) | To further its AI-driven platform, Scribe has secured a Series B fundraising round headed by Redpoint Ventures. This round aims to speed up the generation of visual step-by-step tutorials and enable knowledge exchange between enterprises.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to jointly tune learning rate and weight decay for AdamW.](https://fabian-sp.github.io/posts/2024/02/decoupling/) |AdamW is often considered a method that decouples weight decay and learning rate. In this blog post, we show that this is not true for the specific way AdamW is implemented in Pytorch. We also show how to adapt the tuning strategy in order to fix this: when doubling the learning rate, the weight decay should be halved. |
 |[OpenLLMetry-JS.](https://github.com/traceloop/openllmetry-js) | OpenLLMetry-JS is a set of extensions built on top of OpenTelemetry that gives you complete observability over your LLM application. Because it uses OpenTelemetry under the hood, it can be connected to your existing observability solutions - Datadog, Honeycomb, and others.|
 |[List of GPU clusters for rent.](https://gpulist.ai/) |a list of entire clusters that can be rented on an hourly basis. |
-|[.]() | |
+|[Mamba: The Hard Way.](https://srush.github.io/annotated-mamba/hard.html) | A detailed description of how Mamba works |
 |[.]() | |
 |[.]() | |
 |[.]() | |
