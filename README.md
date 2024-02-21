@@ -48,9 +48,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pushing the Limits of Zero-shot End-to-End Speech Translation.](https://arxiv.org/abs/2402.10422v1) | ZeroSwot is a novel approach to voice Translation (ST) that addresses the data scarcity and distinctions between text and voice. It may operate with a multilingual translation model by using special strategies to train a voice encoder using only speech recognition data.|
 |[Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE).](https://arxiv.org/abs/2402.10376v1) |A novel technique called SpLiCE simplifies the complicated visual data in CLIP. |
 |[TDViT: Temporal Dilated Video Transformer for Dense Video Tasks.](https://arxiv.org/abs/2402.09257v1) | A novel Temporal Dilated Video Transformer (TDViT) has been created to enhance the analysis of tasks involving dense videos, like object detection in videos frame by frame.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Generative Representational Instruction Tuning.](https://arxiv.org/abs/2402.09906) | A model that creates embeddings and text has been trained and released by the Contextual team. It performs noticeably better than a single specialized model. With an embedding as the output modality, the model offers an intriguing interpretation of the multi-modal trend. |
+|[LoRA+: Efficient Low Rank Adaptation of Large Models.](https://arxiv.org/abs/2402.12354v1) | In order to improve on the current Low-Rank Adaptation (LoRA) technique for fine-tuning big models, this work introduces LoRA+. By applying multiple learning rates for important process components, LoRA+ achieves improved performance and faster fine-tuning without raising processing loads.|
+|[GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting.](https://github.com/GaussianObject/GaussianObject) |We propose GaussianObject, a framework to represent and render the 3D object with Gaussian splatting, that achieves high rendering quality with only 4 input images. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
