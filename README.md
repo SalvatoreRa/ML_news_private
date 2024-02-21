@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The data revolution in venture capital.](https://www.signatureblock.co/articles/the-data-revolution-in-venture-capital) |Investors, data scientists, and tool builders leading the data-driven future of venture capital. |
 |[The Three C's: Creativity, Collaboration, and Communication.](https://www.digitalnative.tech/p/the-three-cs-creativity-collaboration) | The way we communicate, work together, and complete creative projects has changed significantly since the invention of computing. With AI, we're beginning to witness the commencement of another significant change. We undervalue how significant this change will be. Businesses that integrate artificial intelligence (AI) into their products from the start will have a significant edge over those who add it later to already-existing goods.|
 |[Inside OpenAI Logan Kilpatrick (head of developer relations).](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) | Have you ever wondered how OpenAI develops and innovates so quickly? The head of developer relations at OpenAI, Logan Kilpatrick, talks about the company's decision-making structure for product launches, high agency and urgency, and OpenAI's distinct culture in this podcast.|
-|[.]() | |
-|[.]() | |
+|[Mind-reading devices are revealing the brain’s secrets.](https://www.nature.com/articles/d41586-024-00481-2) |Implants and other technologies that decode neural activity can restore people’s abilities to move and speak — and help researchers to understand how the brain works. |
+|[Generative AI’s environmental costs are soaring — and mostly secret.](https://www.nature.com/articles/d41586-024-00478-x) | First-of-its-kind US bill would address the environmental costs of the technology, but there’s a long way to go.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
