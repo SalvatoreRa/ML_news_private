@@ -76,6 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Magic raises $117m to continue code generation models.](https://x.com/magicailabs/status/1758140204446323188?s=20) |We've raised $117M  to build an AI software engineer. |
 |[SoftBank Founder Masayoshi Son Aims to Raise $100 Billion for New Chip Venture, "Izanagi".](https://www.msn.com/en-us/money/companies/softbank-founder-masayoshi-son-aims-to-raise-100-billion-for-new-chip-venture-izanagi/ar-BB1iq42h) |Masayoshi Son, the visionary founder of SoftBank Group Corp., has set his sights on revolutionizing the semiconductor industry with the launch of Izanagi, a groundbreaking chip venture backed by a staggering $100 billion investment. |
 |[Scribe $25M Series B.](https://scribehow.com/library/series-b-announcement) | To further its AI-driven platform, Scribe has secured a Series B fundraising round headed by Redpoint Ventures. This round aims to speed up the generation of visual step-by-step tutorials and enable knowledge exchange between enterprises.  |
+|[Amazon AGI Team Say Their AI Is Showing “Emergent Abilities”.](https://futurism.com/the-byte/amazon-researchers-ai-emergent) | "Big Adaptive Streamable TTS with Emergent Abilities" (BASE TTS), a language model created by Amazon AGI researchers, exhibits "state-of-the-art naturalness" in conversational text and demonstrates language skills that it wasn't particularly trained on.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,9 +122,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inside OpenAI Logan Kilpatrick (head of developer relations).](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) | Have you ever wondered how OpenAI develops and innovates so quickly? The head of developer relations at OpenAI, Logan Kilpatrick, talks about the company's decision-making structure for product launches, high agency and urgency, and OpenAI's distinct culture in this podcast.|
 |[Mind-reading devices are revealing the brain’s secrets.](https://www.nature.com/articles/d41586-024-00481-2) |Implants and other technologies that decode neural activity can restore people’s abilities to move and speak — and help researchers to understand how the brain works. |
 |[Generative AI’s environmental costs are soaring — and mostly secret.](https://www.nature.com/articles/d41586-024-00478-x) | First-of-its-kind US bill would address the environmental costs of the technology, but there’s a long way to go.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Strategies for an Accelerating Future.](https://www.oneusefulthing.org/p/strategies-for-an-accelerating-future) | With Google's Gemini providing a context window of over a million tokens and Groq's hardware enabling almost instantaneous responses from GPT-3.5 models, among other recent advancements in AI, these represent a significant advancement in practical AI applications and highlight the pressing need for leaders to comprehend and adjust to the rapidly changing AI landscape.|
+|[How to lose at Generative AI!](https://medium.com/@sanguit/how-to-lose-at-generative-ai-2e6e6c20fecf) |Despite its excitement, generative AI is likely to let most startups down since it benefits established players with data advantages, established workflows, and the capacity to integrate AI without requiring significant system changes. A difficult road lies ahead for startups hoping to make a significant impact in the Generative AI space, even in spite of venture capital flooding the space. These startups are essentially preparing the market for incumbents who can readily adopt and integrate AI innovations into their dominant platforms by concentrating on expeditious engineering and UX improvements at the workflow layer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
