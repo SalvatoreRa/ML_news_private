@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scribe $25M Series B.](https://scribehow.com/library/series-b-announcement) | To further its AI-driven platform, Scribe has secured a Series B fundraising round headed by Redpoint Ventures. This round aims to speed up the generation of visual step-by-step tutorials and enable knowledge exchange between enterprises.  |
 |[Amazon AGI Team Say Their AI Is Showing “Emergent Abilities”.](https://futurism.com/the-byte/amazon-researchers-ai-emergent) | "Big Adaptive Streamable TTS with Emergent Abilities" (BASE TTS), a language model created by Amazon AGI researchers, exhibits "state-of-the-art naturalness" in conversational text and demonstrates language skills that it wasn't particularly trained on.|
 |[Gemma: Introducing new state-of-the-art open models.](https://blog.google/technology/developers/gemma-open-models/) | We’re releasing model weights in two sizes: Gemma 2B and Gemma 7B. Each size is released with pre-trained and instruction-tuned variants. Ready-to-use Colab and Kaggle notebooks, alongside integration with popular tools such as Hugging Face, MaxText, NVIDIA NeMo and TensorRT-LLM, make it easy to get started with Gemma.|
-|[.]() | |
+|[Reddit has a new AI training deal to sell user content.](https://www.theverge.com/2024/2/17/24075670/reddit-ai-training-license-deal-user-content) |Over a decade of valuable user content is now for sale as Reddit preps to go public. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FiT: Flexible Vision Transformer for Diffusion Model.](https://github.com/whlzy/fit) | This repo contains PyTorch model definitions, pre-trained weights and sampling code for our flexible vision transformer (FiT). FiT is a diffusion transformer based model which can generate images at unrestricted resolutions and aspect ratios.|
 |[RobustVLM.](https://github.com/chs20/robustvlm) | In order to defend multi-modal models like OpenFlamingo and LLaVA against visual adversarial assaults, a novel technique is presented in this study. The authors successfully defend these models against manipulative picture assaults by fine-tuning the CLIP visual encoder in an unsupervised way, increasing the models' dependability and security in practical applications without requiring a complete model retraining.|
 |[HELM Instruct: A Multidimensional Instruction Following Evaluation Framework with Absolute Ratings.](https://crfm.stanford.edu/2024/02/18/helm-instruct.html) | A popular benchmark called Holistic Evaluation of Language Models (HELM) was issued by the Stanford language modeling group. Additionally, they created HELM-Instruct, a version for instruction following. It is absolute, open-ended, and multifaceted.|
-|[.]() | |
-|[.]() | |
+|[LoRA Land: Fine-Tuned Open-Source LLMs that Outperform GPT-4.](https://predibase.com/blog/lora-land-fine-tuned-open-source-llms-that-outperform-gpt-4) | We’re excited to release LoRA Land, a collection of 25 fine-tuned Mistral-7b models that consistently outperform base models by 70% and GPT-4 by 4-15%, depending on the task. This collection of specialized fine-tuned models–all trained with the same base model–offers a blueprint for teams seeking to efficiently and cost-effectively deploy highly performant AI systems.|
+|[Multimodal LLM’s Ability to Understand Visual Data.](https://github.com/unimodal4reasoning/chartvlm) | A new tool called ChartX is designed to assess how well multi-modal large language models (MLLMs) can understand and make sense of visual charts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
