@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generative Representational Instruction Tuning.](https://arxiv.org/abs/2402.09906) | A model that creates embeddings and text has been trained and released by the Contextual team. It performs noticeably better than a single specialized model. With an embedding as the output modality, the model offers an intriguing interpretation of the multi-modal trend. |
 |[LoRA+: Efficient Low Rank Adaptation of Large Models.](https://arxiv.org/abs/2402.12354v1) | In order to improve on the current Low-Rank Adaptation (LoRA) technique for fine-tuning big models, this work introduces LoRA+. By applying multiple learning rates for important process components, LoRA+ achieves improved performance and faster fine-tuning without raising processing loads.|
 |[GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting.](https://github.com/GaussianObject/GaussianObject) |We propose GaussianObject, a framework to represent and render the 3D object with Gaussian splatting, that achieves high rendering quality with only 4 input images. |
-|[.]() | |
+|[MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction.](https://mvdiffusion-plusplus.github.io/) |This paper presents a neural architecture MVDiffusion++ for 3D object reconstruction that synthesizes dense and high-resolution views of an object given one or a few images without camera poses.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Critical Evaluation of AI Feedback for Aligning Language Models.](https://github.com/architsharma97/dpo-rlaif) |The efficacy of integrating reinforcement learning with supervised fine-tuning in training is questioned in this repository. The more involved two-step technique can be outperformed by first training with a more sophisticated model, such as GPT-4. |
 |[MMCSG Dataset.](https://ai.meta.com/datasets/mmcsg-dataset/) | The MMCSG (Multi-Modal Conversations in Smart Glasses) dataset comprises two-sided conversations recorded using Aria glasses, featuring multi-modal data such as multi-channel audio, video, accelerometer, and gyroscope measurements. This dataset is suitable for research in areas like automatic speech recognition, activity detection, and speaker diarization.|
 |[MultiLora inference server.](https://github.com/predibase/lorax) |One base model can have many LoRAs hot-swapped onto it using the Lorax inference server. This allows a large variety of model tunes to be supported with a significant reduction in RAM use. |
-|[.]() | |
+|[GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations.](https://github.com/jinhaoduan/gtbench) | GTBench is a language-driven environment, evaluating the strategic reasoning limitations of LLMs through game-theoretic tasks. GTBench is built on top of OpenSpiel, supporting 10 widely-recognized games|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Strategies for an Accelerating Future.](https://www.oneusefulthing.org/p/strategies-for-an-accelerating-future) | With Google's Gemini providing a context window of over a million tokens and Groq's hardware enabling almost instantaneous responses from GPT-3.5 models, among other recent advancements in AI, these represent a significant advancement in practical AI applications and highlight the pressing need for leaders to comprehend and adjust to the rapidly changing AI landscape.|
 |[How to lose at Generative AI!](https://medium.com/@sanguit/how-to-lose-at-generative-ai-2e6e6c20fecf) |Despite its excitement, generative AI is likely to let most startups down since it benefits established players with data advantages, established workflows, and the capacity to integrate AI without requiring significant system changes. A difficult road lies ahead for startups hoping to make a significant impact in the Generative AI space, even in spite of venture capital flooding the space. These startups are essentially preparing the market for incumbents who can readily adopt and integrate AI innovations into their dominant platforms by concentrating on expeditious engineering and UX improvements at the workflow layer. |
 |[Stockholm declaration on AI ethics: why others should sign.](https://www.nature.com/articles/d41586-024-00517-7) |The use of artificial intelligence (AI) in science has potential to do both harm and good. As a step towards preventing the harms, we have prepared the Stockholm Declaration on AI for Science.  |
-|[.]() | |
+|[This is why the idea that AI will just augment jobs, never replace them, is a lie!.](https://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html) |AI will automate labor in certain areas. The response thus far has been divided: would increased efficiency allow for more human workers to accomplish the same duties, or will fewer workers be needed? This article compares and contrasts the effects of technology on manufacturing, agriculture, and the contemporary knowledge worker. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
