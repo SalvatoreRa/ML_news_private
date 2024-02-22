@@ -107,6 +107,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HELM Instruct: A Multidimensional Instruction Following Evaluation Framework with Absolute Ratings.](https://crfm.stanford.edu/2024/02/18/helm-instruct.html) | A popular benchmark called Holistic Evaluation of Language Models (HELM) was issued by the Stanford language modeling group. Additionally, they created HELM-Instruct, a version for instruction following. It is absolute, open-ended, and multifaceted.|
 |[LoRA Land: Fine-Tuned Open-Source LLMs that Outperform GPT-4.](https://predibase.com/blog/lora-land-fine-tuned-open-source-llms-that-outperform-gpt-4) | We’re excited to release LoRA Land, a collection of 25 fine-tuned Mistral-7b models that consistently outperform base models by 70% and GPT-4 by 4-15%, depending on the task. This collection of specialized fine-tuned models–all trained with the same base model–offers a blueprint for teams seeking to efficiently and cost-effectively deploy highly performant AI systems.|
 |[Multimodal LLM’s Ability to Understand Visual Data.](https://github.com/unimodal4reasoning/chartvlm) | A new tool called ChartX is designed to assess how well multi-modal large language models (MLLMs) can understand and make sense of visual charts.|
+|[A Critical Evaluation of AI Feedback for Aligning Language Models.](https://github.com/architsharma97/dpo-rlaif) |The efficacy of integrating reinforcement learning with supervised fine-tuning in training is questioned in this repository. The more involved two-step technique can be outperformed by first training with a more sophisticated model, such as GPT-4. |
+|[MMCSG Dataset.](https://ai.meta.com/datasets/mmcsg-dataset/) | The MMCSG (Multi-Modal Conversations in Smart Glasses) dataset comprises two-sided conversations recorded using Aria glasses, featuring multi-modal data such as multi-channel audio, video, accelerometer, and gyroscope measurements. This dataset is suitable for research in areas like automatic speech recognition, activity detection, and speaker diarization.|
+|[MultiLora inference server.](https://github.com/predibase/lorax) |One base model can have many LoRAs hot-swapped onto it using the Lorax inference server. This allows a large variety of model tunes to be supported with a significant reduction in RAM use. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
