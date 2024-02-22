@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LoRA+: Efficient Low Rank Adaptation of Large Models.](https://arxiv.org/abs/2402.12354v1) | In order to improve on the current Low-Rank Adaptation (LoRA) technique for fine-tuning big models, this work introduces LoRA+. By applying multiple learning rates for important process components, LoRA+ achieves improved performance and faster fine-tuning without raising processing loads.|
 |[GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting.](https://github.com/GaussianObject/GaussianObject) |We propose GaussianObject, a framework to represent and render the 3D object with Gaussian splatting, that achieves high rendering quality with only 4 input images. |
 |[MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction.](https://mvdiffusion-plusplus.github.io/) |This paper presents a neural architecture MVDiffusion++ for 3D object reconstruction that synthesizes dense and high-resolution views of an object given one or a few images without camera poses.  |
-|[.]() | |
+|[ChatterBox: Multi-round Multimodal Referring and Grounding.](https://github.com/sunsmarterjie/chatterbox) |A vision-language model called ChatterBox performs exceptionally well in multimodal dialogues, particularly in the recently defined job of multimodal multi-round referring and grounding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon AGI Team Say Their AI Is Showing “Emergent Abilities”.](https://futurism.com/the-byte/amazon-researchers-ai-emergent) | "Big Adaptive Streamable TTS with Emergent Abilities" (BASE TTS), a language model created by Amazon AGI researchers, exhibits "state-of-the-art naturalness" in conversational text and demonstrates language skills that it wasn't particularly trained on.|
 |[Gemma: Introducing new state-of-the-art open models.](https://blog.google/technology/developers/gemma-open-models/) | We’re releasing model weights in two sizes: Gemma 2B and Gemma 7B. Each size is released with pre-trained and instruction-tuned variants. Ready-to-use Colab and Kaggle notebooks, alongside integration with popular tools such as Hugging Face, MaxText, NVIDIA NeMo and TensorRT-LLM, make it easy to get started with Gemma.|
 |[Reddit has a new AI training deal to sell user content.](https://www.theverge.com/2024/2/17/24075670/reddit-ai-training-license-deal-user-content) |Over a decade of valuable user content is now for sale as Reddit preps to go public. |
-|[.]() | |
+|[Apple Developing AI Tool to Help Developers Write Code for Apps.](https://www.macrumors.com/2024/02/15/apple-xcode-ai-tool-for-coding/) | Apple is working on an updated version of Xcode that will include an AI tool for generating code, reports Bloomberg. The AI tool will be similar to GitHub Copilot from Microsoft, which can generate code based on natural language requests and convert code from one programming language to another.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MMCSG Dataset.](https://ai.meta.com/datasets/mmcsg-dataset/) | The MMCSG (Multi-Modal Conversations in Smart Glasses) dataset comprises two-sided conversations recorded using Aria glasses, featuring multi-modal data such as multi-channel audio, video, accelerometer, and gyroscope measurements. This dataset is suitable for research in areas like automatic speech recognition, activity detection, and speaker diarization.|
 |[MultiLora inference server.](https://github.com/predibase/lorax) |One base model can have many LoRAs hot-swapped onto it using the Lorax inference server. This allows a large variety of model tunes to be supported with a significant reduction in RAM use. |
 |[GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations.](https://github.com/jinhaoduan/gtbench) | GTBench is a language-driven environment, evaluating the strategic reasoning limitations of LLMs through game-theoretic tasks. GTBench is built on top of OpenSpiel, supporting 10 widely-recognized games|
-|[.]() | |
+|[CrewAI.](https://blog.replit.com/crew-ai) |A library called CrewAI is available for creating and managing AI agents that make use of Replit and LangChain. It offers an easy-to-integrate modular setup comprising tasks, agents, crews, and tools for a variety of applications. LangSmith improves performance insights into non-deterministic LLM calls while streamlining the debugging process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
