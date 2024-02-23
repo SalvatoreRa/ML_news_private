@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis.](https://arxiv.org/abs/2402.13494v1) | GradSafe is a novel technique that can identify dangerous prompts in big language models without requiring a lot of training. Compared to existing approaches, it can identify dangerous prompts more accurately by examining the gradients of certain parameters.|
 |[Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition.](https://arxiv.org/abs/2402.13643v1) |A novel technique called Class-Aware Mask-guided (CAM) feature refinement improves text recognition in challenging environments. |
 |[Object Recognition as Next Token Prediction.](https://github.com/kaiyuyue/nxtp) |an innovative approach to object recognition that makes use of a language decoder. With this approach, text tokens are predicted from picture embeddings by using a customized non-causal attention mask. It makes it possible to sample many labels in parallel effectively. |
-|[.]() | |
+|[TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment.](https://arxiv.org/abs/2401.03854v1) | To evaluate the quality of the generated images, TIER makes use of both written prompts and the images that result from them. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CrewAI.](https://blog.replit.com/crew-ai) |A library called CrewAI is available for creating and managing AI agents that make use of Replit and LangChain. It offers an easy-to-integrate modular setup comprising tasks, agents, crews, and tools for a variety of applications. LangSmith improves performance insights into non-deterministic LLM calls while streamlining the debugging process. |
 |[gemma.cpp.](https://github.com/google/gemma.cpp) | gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.|
 |[MMedLM.](https://github.com/magic-ai4med/mmedlm) | The official codes for "Towards Building Multilingual Language Model for Medicine".|
-|[.]() | |
+|[LLM Evaluation Metrics for Labeled Data.](https://docs.parea.ai/blog/llm-eval-metrics-for-labeled-data) |How to measure the performance of LLM applications with ground truth data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
