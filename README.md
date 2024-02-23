@@ -56,9 +56,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large language models streamline automated machine learning for clinical studies.](https://www.nature.com/articles/s41467-024-45879-8) |A knowledge gap persists between machine learning developers and clinicians. Here, the authors show that the Advanced Data Analysis extension of ChatGPT could bridge this gap and simplify complex data analyses, making them more accessible to clinicians.|
 |[Extracting accurate materials data from research papers with conversational language models and prompt engineering.](https://www.nature.com/articles/s41467-024-45914-8) | Efficient data extraction from research papers accelerates science and engineering. Here, the authors develop an automated approach which uses conversational large language models to achieve high precision and recall in extracting materials data.|
 |[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis.](https://arxiv.org/abs/2402.13494v1) | GradSafe is a novel technique that can identify dangerous prompts in big language models without requiring a lot of training. Compared to existing approaches, it can identify dangerous prompts more accurately by examining the gradients of certain parameters.|
-|[Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition.](https://arxiv.org/abs/2402.13643v1) |A novel technique called Class-Aware Mask-guided (CAM) feature refinement improves text recognition in challenging environments.
- |
-|[.]() | |
+|[Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition.](https://arxiv.org/abs/2402.13643v1) |A novel technique called Class-Aware Mask-guided (CAM) feature refinement improves text recognition in challenging environments. |
+|[Object Recognition as Next Token Prediction.](https://github.com/kaiyuyue/nxtp) |an innovative approach to object recognition that makes use of a language decoder. With this approach, text tokens are predicted from picture embeddings by using a customized non-causal attention mask. It makes it possible to sample many labels in parallel effectively. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stable Diffusion 3.](https://stability.ai/news/stable-diffusion-3) |Announcing Stable Diffusion 3 in early preview, our most capable text-to-image model with greatly improved performance in multi-subject prompts, image quality, and spelling abilities. |
 |[How Bret Taylor’s new company is rethinking customer experience in the age of AI.](https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/) |he two founders fundamentally see AI agents as a new technology category, providing an entirely new way for customers to interact with brands to improve their overall experience. |
 |[Introducing Phind-70B – closing the code quality gap with GPT-4 Turbo while running 4x faster.](https://www.phind.com/blog/introducing-phind-70b) | We're excited to announce Phind-70B, our largest and most performant model to date. Running at up to 80 tokens per second, Phind-70B gives high-quality answers for technical topics without making users make a cup of coffee while they wait. Phind-70B scores 82.3% on HumanEval, beating the latest GPT-4 Turbo (gpt-4-0125-preview) score of 81.1% in our evaluation.  |
-|[.]() | |
+|[Marqo Raises $12.5 Million to Help Businesses Build Generative AI Applications.](https://www.pymnts.com/news/investment-tracker/2024/marqo-raises-12-5-million-to-help-businesses-build-generative-ai-applications/) |Marqo has raised $12.5 million in a Series A funding round to advance the adoption of its search platform that helps businesses build generative artificial intelligence (AI) applications that are more relevant and up to date. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations.](https://github.com/jinhaoduan/gtbench) | GTBench is a language-driven environment, evaluating the strategic reasoning limitations of LLMs through game-theoretic tasks. GTBench is built on top of OpenSpiel, supporting 10 widely-recognized games|
 |[CrewAI.](https://blog.replit.com/crew-ai) |A library called CrewAI is available for creating and managing AI agents that make use of Replit and LangChain. It offers an easy-to-integrate modular setup comprising tasks, agents, crews, and tools for a variety of applications. LangSmith improves performance insights into non-deterministic LLM calls while streamlining the debugging process. |
 |[gemma.cpp.](https://github.com/google/gemma.cpp) | gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.|
-|[.]() | |
+|[MMedLM.](https://github.com/magic-ai4med/mmedlm) | The official codes for "Towards Building Multilingual Language Model for Medicine".|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to lose at Generative AI!](https://medium.com/@sanguit/how-to-lose-at-generative-ai-2e6e6c20fecf) |Despite its excitement, generative AI is likely to let most startups down since it benefits established players with data advantages, established workflows, and the capacity to integrate AI without requiring significant system changes. A difficult road lies ahead for startups hoping to make a significant impact in the Generative AI space, even in spite of venture capital flooding the space. These startups are essentially preparing the market for incumbents who can readily adopt and integrate AI innovations into their dominant platforms by concentrating on expeditious engineering and UX improvements at the workflow layer. |
 |[Stockholm declaration on AI ethics: why others should sign.](https://www.nature.com/articles/d41586-024-00517-7) |The use of artificial intelligence (AI) in science has potential to do both harm and good. As a step towards preventing the harms, we have prepared the Stockholm Declaration on AI for Science.  |
 |[This is why the idea that AI will just augment jobs, never replace them, is a lie!.](https://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html) |AI will automate labor in certain areas. The response thus far has been divided: would increased efficiency allow for more human workers to accomplish the same duties, or will fewer workers be needed? This article compares and contrasts the effects of technology on manufacturing, agriculture, and the contemporary knowledge worker. |
-|[.]() | |
+|[LLM evaluation at scale with the NeurIPS Large Language Model Efficiency Challenge.](https://blog.mozilla.ai/exploring-llm-evaluation-at-scale-with-the-neurips-large-language-model-efficiency-challenge/) |‍After a year of breakneck innovation and hype in the AI space, we have now moved sufficiently beyond the peak of the hype cycle to start asking a critical question: are LLMs good enough yet to solve all of the business and societal challenges we are setting them up for? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
