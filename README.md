@@ -55,8 +55,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatterBox: Multi-round Multimodal Referring and Grounding.](https://github.com/sunsmarterjie/chatterbox) |A vision-language model called ChatterBox performs exceptionally well in multimodal dialogues, particularly in the recently defined job of multimodal multi-round referring and grounding. |
 |[Large language models streamline automated machine learning for clinical studies.](https://www.nature.com/articles/s41467-024-45879-8) |A knowledge gap persists between machine learning developers and clinicians. Here, the authors show that the Advanced Data Analysis extension of ChatGPT could bridge this gap and simplify complex data analyses, making them more accessible to clinicians.|
 |[Extracting accurate materials data from research papers with conversational language models and prompt engineering.](https://www.nature.com/articles/s41467-024-45914-8) | Efficient data extraction from research papers accelerates science and engineering. Here, the authors develop an automated approach which uses conversational large language models to achieve high precision and recall in extracting materials data.|
-|[.]() | |
-|[.]() | |
+|[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis.](https://arxiv.org/abs/2402.13494v1) | GradSafe is a novel technique that can identify dangerous prompts in big language models without requiring a lot of training. Compared to existing approaches, it can identify dangerous prompts more accurately by examining the gradients of certain parameters.|
+|[Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition.](https://arxiv.org/abs/2402.13643v1) |A novel technique called Class-Aware Mask-guided (CAM) feature refinement improves text recognition in challenging environments.
+ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MultiLora inference server.](https://github.com/predibase/lorax) |One base model can have many LoRAs hot-swapped onto it using the Lorax inference server. This allows a large variety of model tunes to be supported with a significant reduction in RAM use. |
 |[GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations.](https://github.com/jinhaoduan/gtbench) | GTBench is a language-driven environment, evaluating the strategic reasoning limitations of LLMs through game-theoretic tasks. GTBench is built on top of OpenSpiel, supporting 10 widely-recognized games|
 |[CrewAI.](https://blog.replit.com/crew-ai) |A library called CrewAI is available for creating and managing AI agents that make use of Replit and LangChain. It offers an easy-to-integrate modular setup comprising tasks, agents, crews, and tools for a variety of applications. LangSmith improves performance insights into non-deterministic LLM calls while streamlining the debugging process. |
-|[.]() | |
+|[gemma.cpp.](https://github.com/google/gemma.cpp) | gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
