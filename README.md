@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting.](https://github.com/GaussianObject/GaussianObject) |We propose GaussianObject, a framework to represent and render the 3D object with Gaussian splatting, that achieves high rendering quality with only 4 input images. |
 |[MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction.](https://mvdiffusion-plusplus.github.io/) |This paper presents a neural architecture MVDiffusion++ for 3D object reconstruction that synthesizes dense and high-resolution views of an object given one or a few images without camera poses.  |
 |[ChatterBox: Multi-round Multimodal Referring and Grounding.](https://github.com/sunsmarterjie/chatterbox) |A vision-language model called ChatterBox performs exceptionally well in multimodal dialogues, particularly in the recently defined job of multimodal multi-round referring and grounding. |
-|[.]() | |
+|[Large language models streamline automated machine learning for clinical studies.](https://www.nature.com/articles/s41467-024-45879-8) |A knowledge gap persists between machine learning developers and clinicians. Here, the authors show that the Advanced Data Analysis extension of ChatGPT could bridge this gap and simplify complex data analyses, making them more accessible to clinicians.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
