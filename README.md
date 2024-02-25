@@ -41,6 +41,96 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+# ML news: Week 19 - 25 February
+
+## Research
+|Link|description|
+|---|---|
 |[Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning.](https://arxiv.org/abs/2402.04833) | Deciding which examples to employ when aligning language models with preference data is frequently difficult. This paper proposes an unexpectedly strong baseline: pick the 1,000 longest cases.|
 |[Extreme Video Compression with Pre-trained Diffusion Models.](https://arxiv.org/abs/2402.08934v1) |As diffusion models get more adept in synthesizing pictures and videos, they may be used for other purposes due to their extensive "knowledge" of the world. This study discovered an astounding 0.02 bits per pixel reduction. The secret here was to track perceptual similarities along the route and deliver a new frame of the original movie as necessary. |
 |[OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset.](https://arxiv.org/abs/2402.10176v1) |In order to train open-source Large Language Models in math that equal the performance of closed-source models, researchers have developed a new dataset called OpenMathInstruct-1. With 1.8 million problem-solution pairings, this innovation paves the way for more competitive and approachable AI systems for math teaching. |
@@ -59,9 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition.](https://arxiv.org/abs/2402.13643v1) |A novel technique called Class-Aware Mask-guided (CAM) feature refinement improves text recognition in challenging environments. |
 |[Object Recognition as Next Token Prediction.](https://github.com/kaiyuyue/nxtp) |an innovative approach to object recognition that makes use of a language decoder. With this approach, text tokens are predicted from picture embeddings by using a customized non-causal attention mask. It makes it possible to sample many labels in parallel effectively. |
 |[TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment.](https://arxiv.org/abs/2401.03854v1) | To evaluate the quality of the generated images, TIER makes use of both written prompts and the images that result from them. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -84,10 +172,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Bret Taylor’s new company is rethinking customer experience in the age of AI.](https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/) |he two founders fundamentally see AI agents as a new technology category, providing an entirely new way for customers to interact with brands to improve their overall experience. |
 |[Introducing Phind-70B – closing the code quality gap with GPT-4 Turbo while running 4x faster.](https://www.phind.com/blog/introducing-phind-70b) | We're excited to announce Phind-70B, our largest and most performant model to date. Running at up to 80 tokens per second, Phind-70B gives high-quality answers for technical topics without making users make a cup of coffee while they wait. Phind-70B scores 82.3% on HumanEval, beating the latest GPT-4 Turbo (gpt-4-0125-preview) score of 81.1% in our evaluation.  |
 |[Marqo Raises $12.5 Million to Help Businesses Build Generative AI Applications.](https://www.pymnts.com/news/investment-tracker/2024/marqo-raises-12-5-million-to-help-businesses-build-generative-ai-applications/) |Marqo has raised $12.5 million in a Series A funding round to advance the adoption of its search platform that helps businesses build generative artificial intelligence (AI) applications that are more relevant and up to date. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -118,13 +202,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[gemma.cpp.](https://github.com/google/gemma.cpp) | gemma.cpp is a lightweight, standalone C++ inference engine for the Gemma foundation models from Google.|
 |[MMedLM.](https://github.com/magic-ai4med/mmedlm) | The official codes for "Towards Building Multilingual Language Model for Medicine".|
 |[LLM Evaluation Metrics for Labeled Data.](https://docs.parea.ai/blog/llm-eval-metrics-for-labeled-data) |How to measure the performance of LLM applications with ground truth data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -140,16 +217,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stockholm declaration on AI ethics: why others should sign.](https://www.nature.com/articles/d41586-024-00517-7) |The use of artificial intelligence (AI) in science has potential to do both harm and good. As a step towards preventing the harms, we have prepared the Stockholm Declaration on AI for Science.  |
 |[This is why the idea that AI will just augment jobs, never replace them, is a lie!.](https://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html) |AI will automate labor in certain areas. The response thus far has been divided: would increased efficiency allow for more human workers to accomplish the same duties, or will fewer workers be needed? This article compares and contrasts the effects of technology on manufacturing, agriculture, and the contemporary knowledge worker. |
 |[LLM evaluation at scale with the NeurIPS Large Language Model Efficiency Challenge.](https://blog.mozilla.ai/exploring-llm-evaluation-at-scale-with-the-neurips-large-language-model-efficiency-challenge/) |‍After a year of breakneck innovation and hype in the AI space, we have now moved sufficiently beyond the peak of the hype cycle to start asking a critical question: are LLMs good enough yet to solve all of the business and societal challenges we are setting them up for? |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 12 - 18 February
 
