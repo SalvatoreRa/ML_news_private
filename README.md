@@ -67,8 +67,8 @@ outcomes.|
 |[‘Embarrassing and wrong’: Google admits it lost control of image-generating AI.](https://techcrunch.com/2024/02/23/embarrassing-and-wrong-google-admits-it-lost-control-of-image-generating-ai/) | |
 |[Is OpenAI the next challenger trying to take on Google Search?](https://www.theverge.com/2024/2/14/24073320/is-openai-the-next-challenger-trying-to-take-on-google-search) | The Information says OpenAI is working on web search (partially powered by Bing) that would more directly compete with Google. It’s unclear if it would be standalone, or a part of ChatGPT.|
 |[Transformer Circuits Thread - Updates - February 2024.](https://transformer-circuits.pub/2024/feb-update/index.html) | The research experts at Anthropic have been developing a Circuit-based approach to comprehend deep neural networks. These circuits seek to pinpoint model components that are employed in particular applications. Every month, the research team publishes an update on the trials they conducted and the 
-|[.]() | |
-|[.]() | |
+|[A new tool targets voter fraud in Georgia – but is it skirting the law?.](https://www.theguardian.com/us-news/2024/feb/26/eagleai-georgia-voter-registration-election) |A tech company supported by Trump’s former lawyer is injecting chaos into the state’s vote-counting process |
+|[Democratic political operative admits he commissioned robocall of AI Biden.](https://www.theguardian.com/us-news/2024/feb/26/steve-kramer-admits-he-commissioned-robocall-ai-biden-new-hampshire) |Steve Kramer said ‘easy-to-use technology’ enabled him to send automated call while New Orleans magician says he was paid $150 to make it |
 |[.]() | |
 |[.]() | |
 |[.]() | |
