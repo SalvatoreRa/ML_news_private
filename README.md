@@ -63,9 +63,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Microsoft reportedly makes AI server gear to cut Nvidia dependence.](https://breakingthenews.net/Article/Microsoft-reportedly-makes-AI-server-gear-to-cut-Nvidia-dependence/61524303) | Microsoft is creating its own AI server hardware to intensify actions to decrease its dependency on Nvidia, according to a source familiar with the matter speaking to The Information.|
+|[‘Embarrassing and wrong’: Google admits it lost control of image-generating AI.](https://techcrunch.com/2024/02/23/embarrassing-and-wrong-google-admits-it-lost-control-of-image-generating-ai/) | |
+|[Is OpenAI the next challenger trying to take on Google Search?](https://www.theverge.com/2024/2/14/24073320/is-openai-the-next-challenger-trying-to-take-on-google-search) | The Information says OpenAI is working on web search (partially powered by Bing) that would more directly compete with Google. It’s unclear if it would be standalone, or a part of ChatGPT.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
