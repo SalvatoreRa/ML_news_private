@@ -46,9 +46,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.](https://github.com/lucky-lance/expert_sparsity) | Researchers have created a new technique that focuses on "expert-level sparsification," which minimizes model size without sacrificing performance, to make LLMs more effective and user-friendly. For Mixture-of-Experts LLMs, which are strong but typically too large to manage simply, this is very helpful.|
 |[Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion.](https://meowuu7.github.io/GeneOH-Diffusion/) |A novel method called GeneOH Diffusion enhances models' comprehension of and ability to manipulate objects with their hands. The goal of this technique is to improve the naturalness of these interactions by fixing mistakes in hand gestures and object relationships. |
 |[Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis.](https://snap-research.github.io/snapvideo/index.html) |With the exception of Sora, Snap Research has developed a video creation model that is 3 times faster to run than the prior state of the art. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenCodeInterpreter.](https://opencodeinterpreter.github.io/) |By training on a synthetic multi-turn dataset and utilizing human feedback, a model built on CodeLlama and DeepSeek Coder was able to achieve 85%+ on the HumanEval programming benchmark. |
+outcomes.|
+|[INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models.](https://arxiv.org/abs/2402.14334v1) | A new benchmark called INSTRUCTIR aims to improve search engines' ability to infer users' intentions. INSTRUCTIR assesses how well search engines can obey user instructions and adjust to different and evolving search needs, in contrast to existing approaches that primarily concentrate on the query itself.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -66,6 +66,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft reportedly makes AI server gear to cut Nvidia dependence.](https://breakingthenews.net/Article/Microsoft-reportedly-makes-AI-server-gear-to-cut-Nvidia-dependence/61524303) | Microsoft is creating its own AI server hardware to intensify actions to decrease its dependency on Nvidia, according to a source familiar with the matter speaking to The Information.|
 |[‘Embarrassing and wrong’: Google admits it lost control of image-generating AI.](https://techcrunch.com/2024/02/23/embarrassing-and-wrong-google-admits-it-lost-control-of-image-generating-ai/) | |
 |[Is OpenAI the next challenger trying to take on Google Search?](https://www.theverge.com/2024/2/14/24073320/is-openai-the-next-challenger-trying-to-take-on-google-search) | The Information says OpenAI is working on web search (partially powered by Bing) that would more directly compete with Google. It’s unclear if it would be standalone, or a part of ChatGPT.|
+|[Transformer Circuits Thread - Updates - February 2024.](https://transformer-circuits.pub/2024/feb-update/index.html) | The research experts at Anthropic have been developing a Circuit-based approach to comprehend deep neural networks. These circuits seek to pinpoint model components that are employed in particular applications. Every month, the research team publishes an update on the trials they conducted and the 
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Pearl - A Production-ready Reinforcement Learning AI Agent Library.](https://github.com/facebookresearch/pearl) | Pearl is a new production-ready Reinforcement Learning AI agent library open-sourced by the Applied Reinforcement Learning team at Meta. Pearl enables to develop Reinforcement Learning AI agents. |
-|[.]() | |
+|[Large Language Models for Data Annotation: A Survey.](https://github.com/zhen-tan-dmml/llm4annotation) | This is a curated list of papers about LLM for Annotation|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Sam Altman Wants $7 Trillion.](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion) |In order to meet the fast rising costs of developing generative AI models such as GPT, Sam Altman has proposed a $7 trillion budget, indicating an exponential increase in resources required for further iterations. This goal highlights a critical juncture in the development of AI, striking a balance between the quickening pace of scientific improvement and its wider effects on safety and societal preparedness. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
