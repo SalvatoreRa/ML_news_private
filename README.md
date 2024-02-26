@@ -44,9 +44,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs.](https://arxiv.org/abs/2402.14740) | The RL approach REINFORCE is straightforward, well-known, and simple to comprehend. In simulators, training steadily is a challenge. In general, PPO is far more reliable and performant. REINFORCE is used by Gemini, and PPO is presumably used by GPT-4.|
 |[AlphaFold Meets Flow Matching for Generating Protein Ensembles.](https://arxiv.org/abs/2402.04845) |The protein's post-folding state can be predicted using AlphaFold. Adding invertible flow matching allows you to significantly increase modeling capability throughout the whole protein landscape. |
 |[Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models.](https://github.com/lucky-lance/expert_sparsity) | Researchers have created a new technique that focuses on "expert-level sparsification," which minimizes model size without sacrificing performance, to make LLMs more effective and user-friendly. For Mixture-of-Experts LLMs, which are strong but typically too large to manage simply, this is very helpful.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion.](https://meowuu7.github.io/GeneOH-Diffusion/) |A novel method called GeneOH Diffusion enhances models' comprehension of and ability to manipulate objects with their hands. The goal of this technique is to improve the naturalness of these interactions by fixing mistakes in hand gestures and object relationships. |
+|[Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis.](https://snap-research.github.io/snapvideo/index.html) |With the exception of Sora, Snap Research has developed a video creation model that is 3 times faster to run than the prior state of the art. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,6 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
+|[Pearl - A Production-ready Reinforcement Learning AI Agent Library.](https://github.com/facebookresearch/pearl) | Pearl is a new production-ready Reinforcement Learning AI agent library open-sourced by the Applied Reinforcement Learning team at Meta. Pearl enables to develop Reinforcement Learning AI agents. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
