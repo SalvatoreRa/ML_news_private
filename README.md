@@ -69,9 +69,9 @@ outcomes.|
 |[Transformer Circuits Thread - Updates - February 2024.](https://transformer-circuits.pub/2024/feb-update/index.html) | The research experts at Anthropic have been developing a Circuit-based approach to comprehend deep neural networks. These circuits seek to pinpoint model components that are employed in particular applications. Every month, the research team publishes an update on the trials they conducted and the 
 |[A new tool targets voter fraud in Georgia – but is it skirting the law?.](https://www.theguardian.com/us-news/2024/feb/26/eagleai-georgia-voter-registration-election) |A tech company supported by Trump’s former lawyer is injecting chaos into the state’s vote-counting process |
 |[Democratic political operative admits he commissioned robocall of AI Biden.](https://www.theguardian.com/us-news/2024/feb/26/steve-kramer-admits-he-commissioned-robocall-ai-biden-new-hampshire) |Steve Kramer said ‘easy-to-use technology’ enabled him to send automated call while New Orleans magician says he was paid $150 to make it |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mistral Large.](https://mistral.ai/news/mistral-large/) |Mistral Large is our new cutting-edge text generation model. It reaches top-tier reasoning capabilities. It can be used for complex multilingual reasoning tasks, including text understanding, transformation, and code generation. Mistral Large achieves strong results on commonly used benchmarks, making it the world's second-ranked model generally available through an API (next to GPT-4) |
+|[Scale AI to set the Pentagon’s path for testing and evaluating large language models .](https://defensescoop.com/2024/02/20/scale-ai-pentagon-testing-evaluating-large-language-models/) | The company will create a comprehensive T&E framework for generative AI within the Defense Department.|
+|[DatologyAI is building tech to automatically curate AI training datasets.](https://techcrunch.com/2024/02/22/datologyai-is-building-tech-to-automatically-curate-ai-training-data-sets/) |Morcos’ company, DatologyAI, builds tooling to automatically curate datasets like those used to train OpenAI’s ChatGPT, Google’s Gemini and other like GenAI models. The platform can identify which data is most important depending on a model’s application (e.g. writing emails), Morcos claims, in addition to ways the dataset can be augmented with additional data and how it should be batched, or divided into more manageable chunks, during model training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
