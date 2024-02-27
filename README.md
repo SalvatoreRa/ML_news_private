@@ -49,6 +49,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenCodeInterpreter.](https://opencodeinterpreter.github.io/) |By training on a synthetic multi-turn dataset and utilizing human feedback, a model built on CodeLlama and DeepSeek Coder was able to achieve 85%+ on the HumanEval programming benchmark. |
 outcomes.|
 |[INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models.](https://arxiv.org/abs/2402.14334v1) | A new benchmark called INSTRUCTIR aims to improve search engines' ability to infer users' intentions. INSTRUCTIR assesses how well search engines can obey user instructions and adjust to different and evolving search needs, in contrast to existing approaches that primarily concentrate on the query itself.|
+|[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases.](https://arxiv.org/abs/2402.14905) | |
+|[ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models.](https://arxiv.org/abs/2402.14660v1) | |
+|[Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion.](https://arxiv.org/abs/2310.20453v1) | |
+|[FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings.](https://barquerogerman.github.io/FlowMDM/) | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
