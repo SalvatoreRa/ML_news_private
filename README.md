@@ -53,9 +53,9 @@ outcomes.|
 |[ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models.](https://arxiv.org/abs/2402.14660v1) | A new multilingual benchmark called ConceptMath is used to assess LLMs' arithmetic proficiency in both Chinese and English. It's special because it deconstructs arithmetic problems into discrete ideas, enabling a more thorough evaluation of an AI's mathematical prowess and shortcomings. |
 |[Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion.](https://arxiv.org/abs/2310.20453v1) | DreamRec proposed a revolutionary 'learning-to-generate' technique to sequential recommendation, whereby it generates a 'oracle' item representing the optimal next option for the user, as opposed to the conventional way of identifying user preferences from a mixture of positive and negative things.|
 |[FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings.](https://barquerogerman.github.io/FlowMDM/) | A novel model called FlowMDM uses text descriptions to create lengthy, continuous sequences of human movements. This groundbreaking diffusion-based model excels in accuracy and realism on important datasets by using Blended Positional Encodings to create realistic motion without the need for additional denoising stages.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[VSP-LLM (Visual Speech Processing incorporated with LLMs).](https://github.com/sally-sh/vsp-llm) | We propose a novel framework, namely Visual Speech Processing incorporated with LLMs (VSP-LLM), to maximize the context modeling ability by bringing the overwhelming power of LLMs. Specifically, VSP-LLM is designed to perform multi-tasks of visual speech recognition and translation, where the given instructions control the type of task. |
+|[Repetition Improves Language Model Embeddings.](https://github.com/jakespringer/echo-embeddings) |We present echo embeddings, an embedding strategy designed to address an architectural limitation of autoregressive models: that token embeddings cannot contain information from tokens that appear later in the input. Echo embeddings resolve this issue by repeating the input twice in the input to the embedding model. Our method has strong performance on MTEB and is compatible with many other methods for improving embedding models. |
+|[Range-Agnostic Multi-View Depth Estimation With Keyframe Selection.](https://andreaconti.github.io/projects/range_agnostic_multi_view_depth/) |Multi-View 3D reconstruction techniques process a set of source views and a reference view to yield an estimated depth map for the latter. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,9 +78,9 @@ outcomes.|
 |[Mistral Large.](https://mistral.ai/news/mistral-large/) |Mistral Large is our new cutting-edge text generation model. It reaches top-tier reasoning capabilities. It can be used for complex multilingual reasoning tasks, including text understanding, transformation, and code generation. Mistral Large achieves strong results on commonly used benchmarks, making it the world's second-ranked model generally available through an API (next to GPT-4) |
 |[Scale AI to set the Pentagon’s path for testing and evaluating large language models .](https://defensescoop.com/2024/02/20/scale-ai-pentagon-testing-evaluating-large-language-models/) | The company will create a comprehensive T&E framework for generative AI within the Defense Department.|
 |[DatologyAI is building tech to automatically curate AI training datasets.](https://techcrunch.com/2024/02/22/datologyai-is-building-tech-to-automatically-curate-ai-training-data-sets/) |Morcos’ company, DatologyAI, builds tooling to automatically curate datasets like those used to train OpenAI’s ChatGPT, Google’s Gemini and other like GenAI models. The platform can identify which data is most important depending on a model’s application (e.g. writing emails), Morcos claims, in addition to ways the dataset can be augmented with additional data and how it should be batched, or divided into more manageable chunks, during model training. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Bay Bridge: A supercomputer built for startups.](https://sfcompute.com/blog/worlds-cheapest-supercomputer) | With flexible short-term renting options, San Francisco Compute Company is now providing the lowest-cost H100 training clusters in the world to customers who require intensive compute for AI model training but do not want to commit to long-term agreements. Its first cluster, Angel Island, is operational at the moment, and Bay Bridge will follow shortly. The unique business strategy of SF Compute places a premium on cost and accessibility for AI entrepreneurs without requiring long-term commitments.|
+|[mlabonne/AlphaMonarch-7B.](https://huggingface.co/mlabonne/AlphaMonarch-7B) |AlphaMonarch-7B is a new DPO merge that retains all the reasoning abilities of the very best merges and significantly improves its conversational abilities. Kind of the best of both worlds in a 7B model. |
+|[LazyAxolotl.](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW) | This notebook allows you to fine-tune your LLMs using Axolotl and Runpod|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,7 +94,7 @@ outcomes.|
 |---|---|
 |[Pearl - A Production-ready Reinforcement Learning AI Agent Library.](https://github.com/facebookresearch/pearl) | Pearl is a new production-ready Reinforcement Learning AI agent library open-sourced by the Applied Reinforcement Learning team at Meta. Pearl enables to develop Reinforcement Learning AI agents. |
 |[Large Language Models for Data Annotation: A Survey.](https://github.com/zhen-tan-dmml/llm4annotation) | This is a curated list of papers about LLM for Annotation|
-|[.]() | |
+|[Automotive Object Detection with Spiking Neural Networks (SNNs).](https://github.com/aitor-martinez-seras/snn-automotive-object-detection) |One novel and effective model for autonomous cars is Spiking Neural Networks. High performance is attained using up to 85% less energy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
