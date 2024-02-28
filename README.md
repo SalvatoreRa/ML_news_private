@@ -59,7 +59,7 @@ outcomes.|
 |[ChatMusician: Understanding and Generating Music Intrinsically with LLM.](https://arxiv.org/abs/2402.16153) | Adding a modality-specific encoder to a language model is usually necessary for comprehending music. This is unstable and costly. This study demonstrated that tokenizing music into ABC notation significantly boosted music knowledge without affecting basic language proficiency. |
 |[MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs.](https://arxiv.org/abs/2402.15627) | Bytedance has produced a system called MegaScale that can be used to train massively parallel large language models. It succeeded in training a 175B LLM on 12,288 GPUs with 55.2% Model FLOPs Utilization (MFU), which is extremely impressive. Bytedance plans to open source some aspects of the codebase. |
 |[ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval.](https://arxiv.org/abs/2402.15838v1) |ListT5 presents a novel reranking technique that not only increases information retrieval precision but also provides a workable solution to the issues that earlier listwise rerankers encountered. |
-|[.]() | |
+|[.]() |  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
