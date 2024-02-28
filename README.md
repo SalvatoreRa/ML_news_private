@@ -96,8 +96,8 @@ outcomes.|
 |[Large Language Models for Data Annotation: A Survey.](https://github.com/zhen-tan-dmml/llm4annotation) | This is a curated list of papers about LLM for Annotation|
 |[Automotive Object Detection with Spiking Neural Networks (SNNs).](https://github.com/aitor-martinez-seras/snn-automotive-object-detection) |One novel and effective model for autonomous cars is Spiking Neural Networks. High performance is attained using up to 85% less energy. |
 |[Berkeley function calling leaderboard.](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html) | When a language model can access resources through synthesized functions to carry out commands, this is known as function calling. To pass to such functions, the parameters must be properly synthesized. The purpose of this leaderboard is to evaluate the model's performance on function calling tasks.|
-|[.]() | |
-|[.]() | |
+|[FuseChat.](https://github.com/fanqiwan/fusellm) |FuseChat is a novel approach to combine the advantages of many huge language models into a single, more potent model without having to pay expensive training fees again. |
+|[ShieldLM .](https://github.com/thu-coai/ShieldLM) | ShieldLM is a bilingual (Chinese and English) safety detector that mainly aims to help to detect safety issues in LLMs' generations. It aligns with general human safety standards, supports fine-grained customizable detection rules, and provides explanations for its decisions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
