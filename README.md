@@ -115,7 +115,7 @@ outcomes.|
 |Link|description|
 |---|---|
 |[Sam Altman Wants $7 Trillion.](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion) |In order to meet the fast rising costs of developing generative AI models such as GPT, Sam Altman has proposed a $7 trillion budget, indicating an exponential increase in resources required for further iterations. This goal highlights a critical juncture in the development of AI, striking a balance between the quickening pace of scientific improvement and its wider effects on safety and societal preparedness. |
-|[.]() | |
+|[Ten AI Insights from Databricks, Anyscale, and Microsoft.](https://foundationcapital.com/ten-ai-insights-from-databricks-anyscale-and-microsoft/) |This article features interviews with founders of AI-forward firms, including their perspectives on the emergence of artificial intelligence (AGI), how to approach LLMs, and basic strategies for entrepreneurs integrating AI into their products. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
