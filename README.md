@@ -95,7 +95,7 @@ outcomes.|
 |[Pearl - A Production-ready Reinforcement Learning AI Agent Library.](https://github.com/facebookresearch/pearl) | Pearl is a new production-ready Reinforcement Learning AI agent library open-sourced by the Applied Reinforcement Learning team at Meta. Pearl enables to develop Reinforcement Learning AI agents. |
 |[Large Language Models for Data Annotation: A Survey.](https://github.com/zhen-tan-dmml/llm4annotation) | This is a curated list of papers about LLM for Annotation|
 |[Automotive Object Detection with Spiking Neural Networks (SNNs).](https://github.com/aitor-martinez-seras/snn-automotive-object-detection) |One novel and effective model for autonomous cars is Spiking Neural Networks. High performance is attained using up to 85% less energy. |
-|[.]() | |
+|[Berkeley function calling leaderboard.](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html) | When a language model can access resources through synthesized functions to carry out commands, this is known as function calling. To pass to such functions, the parameters must be properly synthesized. The purpose of this leaderboard is to evaluate the model's performance on function calling tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
