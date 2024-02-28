@@ -59,8 +59,8 @@ outcomes.|
 |[ChatMusician: Understanding and Generating Music Intrinsically with LLM.](https://arxiv.org/abs/2402.16153) | Adding a modality-specific encoder to a language model is usually necessary for comprehending music. This is unstable and costly. This study demonstrated that tokenizing music into ABC notation significantly boosted music knowledge without affecting basic language proficiency. |
 |[MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs.](https://arxiv.org/abs/2402.15627) | Bytedance has produced a system called MegaScale that can be used to train massively parallel large language models. It succeeded in training a 175B LLM on 12,288 GPUs with 55.2% Model FLOPs Utilization (MFU), which is extremely impressive. Bytedance plans to open source some aspects of the codebase. |
 |[ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval.](https://arxiv.org/abs/2402.15838v1) |ListT5 presents a novel reranking technique that not only increases information retrieval precision but also provides a workable solution to the issues that earlier listwise rerankers encountered. |
-|[.]() |  |
-|[.]() | |
+|[MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT.](https://github.com/mbzuai-oryx/MobiLlama) |  Our primary contribution is the introduction of an accurate and fully transparent open-source 0.5 billion (0.5B) parameter SLM, named MobiLlama, catering to the specific needs of resource-constrained computing with an emphasis on enhanced performance with reduced resource demands.  |
+|[Accurate LoRA-Finetuning Quantization of LLMs via Information Retention.](https://arxiv.org/abs/2402.05445v1) |A novel method called IR-QLoRA improves quantized big language model accuracy, which makes them more appropriate for usage on low-resource devices. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@ outcomes.|
 |[mlabonne/AlphaMonarch-7B.](https://huggingface.co/mlabonne/AlphaMonarch-7B) |AlphaMonarch-7B is a new DPO merge that retains all the reasoning abilities of the very best merges and significantly improves its conversational abilities. Kind of the best of both worlds in a 7B model. |
 |[LazyAxolotl.](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW) | This notebook allows you to fine-tune your LLMs using Axolotl and Runpod|
 |[Apple’s electric car project is dead.](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down) |After a decade of work, the company is reportedly giving up on its ambitious effort to create an autonomous electric car. |
-|[.]() | |
+|[Expressive Whole-Body Control for Humanoid Robots.](https://expressive-humanoid.github.io/) |UCSD researchers trained robust, socially-inclined, expressive policies for humanoid robots. Their unchoreographed dancing on grass videos are quite amazing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ outcomes.|
 |[Berkeley function calling leaderboard.](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html) | When a language model can access resources through synthesized functions to carry out commands, this is known as function calling. To pass to such functions, the parameters must be properly synthesized. The purpose of this leaderboard is to evaluate the model's performance on function calling tasks.|
 |[FuseChat.](https://github.com/fanqiwan/fusellm) |FuseChat is a novel approach to combine the advantages of many huge language models into a single, more potent model without having to pay expensive training fees again. |
 |[ShieldLM .](https://github.com/thu-coai/ShieldLM) | ShieldLM is a bilingual (Chinese and English) safety detector that mainly aims to help to detect safety issues in LLMs' generations. It aligns with general human safety standards, supports fine-grained customizable detection rules, and provides explanations for its decisions.|
-|[.]() | |
+|[Enable decision making based on LLM-based simulations.](https://github.com/simulatrex/simulatrex-engine) | An open-source project called Simulatrex is dedicated to GABM, or generative agent-based modeling. Large language models are used to provide more accurate simulations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
