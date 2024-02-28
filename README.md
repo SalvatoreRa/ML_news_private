@@ -81,7 +81,7 @@ outcomes.|
 |[Bay Bridge: A supercomputer built for startups.](https://sfcompute.com/blog/worlds-cheapest-supercomputer) | With flexible short-term renting options, San Francisco Compute Company is now providing the lowest-cost H100 training clusters in the world to customers who require intensive compute for AI model training but do not want to commit to long-term agreements. Its first cluster, Angel Island, is operational at the moment, and Bay Bridge will follow shortly. The unique business strategy of SF Compute places a premium on cost and accessibility for AI entrepreneurs without requiring long-term commitments.|
 |[mlabonne/AlphaMonarch-7B.](https://huggingface.co/mlabonne/AlphaMonarch-7B) |AlphaMonarch-7B is a new DPO merge that retains all the reasoning abilities of the very best merges and significantly improves its conversational abilities. Kind of the best of both worlds in a 7B model. |
 |[LazyAxolotl.](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW) | This notebook allows you to fine-tune your LLMs using Axolotl and Runpod|
-|[.]() | |
+|[Apple’s electric car project is dead.](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down) |After a decade of work, the company is reportedly giving up on its ambitious effort to create an autonomous electric car. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
