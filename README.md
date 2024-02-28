@@ -56,9 +56,9 @@ outcomes.|
 |[VSP-LLM (Visual Speech Processing incorporated with LLMs).](https://github.com/sally-sh/vsp-llm) | We propose a novel framework, namely Visual Speech Processing incorporated with LLMs (VSP-LLM), to maximize the context modeling ability by bringing the overwhelming power of LLMs. Specifically, VSP-LLM is designed to perform multi-tasks of visual speech recognition and translation, where the given instructions control the type of task. |
 |[Repetition Improves Language Model Embeddings.](https://github.com/jakespringer/echo-embeddings) |We present echo embeddings, an embedding strategy designed to address an architectural limitation of autoregressive models: that token embeddings cannot contain information from tokens that appear later in the input. Echo embeddings resolve this issue by repeating the input twice in the input to the embedding model. Our method has strong performance on MTEB and is compatible with many other methods for improving embedding models. |
 |[Range-Agnostic Multi-View Depth Estimation With Keyframe Selection.](https://andreaconti.github.io/projects/range_agnostic_multi_view_depth/) |Multi-View 3D reconstruction techniques process a set of source views and a reference view to yield an estimated depth map for the latter. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ChatMusician: Understanding and Generating Music Intrinsically with LLM.](https://arxiv.org/abs/2402.16153) | Adding a modality-specific encoder to a language model is usually necessary for comprehending music. This is unstable and costly. This study demonstrated that tokenizing music into ABC notation significantly boosted music knowledge without affecting basic language proficiency. |
+|[MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs.](https://arxiv.org/abs/2402.15627) | Bytedance has produced a system called MegaScale that can be used to train massively parallel large language models. It succeeded in training a 175B LLM on 12,288 GPUs with 55.2% Model FLOPs Utilization (MFU), which is extremely impressive. Bytedance plans to open source some aspects of the codebase. |
+|[ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval.](https://arxiv.org/abs/2402.15838v1) |ListT5 presents a novel reranking technique that not only increases information retrieval precision but also provides a workable solution to the issues that earlier listwise rerankers encountered. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
