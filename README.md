@@ -60,6 +60,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval.](https://arxiv.org/abs/2402.15838v1) |ListT5 presents a novel reranking technique that not only increases information retrieval precision but also provides a workable solution to the issues that earlier listwise rerankers encountered. |
 |[MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT.](https://github.com/mbzuai-oryx/MobiLlama) |  Our primary contribution is the introduction of an accurate and fully transparent open-source 0.5 billion (0.5B) parameter SLM, named MobiLlama, catering to the specific needs of resource-constrained computing with an emphasis on enhanced performance with reduced resource demands.  |
 |[Accurate LoRA-Finetuning Quantization of LLMs via Information Retention.](https://arxiv.org/abs/2402.05445v1) |A novel method called IR-QLoRA improves quantized big language model accuracy, which makes them more appropriate for usage on low-resource devices. |
+|[Video as the New Language for Real-World Decision Making.](https://arxiv.org/abs/2402.17139) | |
+|[The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://arxiv.org/abs/2402.17764) | |
+|[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models.](https://arxiv.org/abs/2311.06783v1) | |
+|[Graph Diffusion Policy Optimization.](https://github.com/sail-sg/gdpo) | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple’s electric car project is dead.](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down) |After a decade of work, the company is reportedly giving up on its ambitious effort to create an autonomous electric car. |
 |[Expressive Whole-Body Control for Humanoid Robots.](https://expressive-humanoid.github.io/) |UCSD researchers trained robust, socially-inclined, expressive policies for humanoid robots. Their unchoreographed dancing on grass videos are quite amazing. |
 |[Meta plans launch of new AI language model Llama 3 in July, The Information reports.](https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/) |Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by users, The Information reported on Wednesday. |
-|[.]() | |
+|[Tim Cook Says Apple Will 'Break New Ground' in Generative AI.](https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/) | Cook said that the company will "break new ground" in generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
