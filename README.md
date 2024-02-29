@@ -64,8 +64,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits.](https://arxiv.org/abs/2402.17764) |A parameter in the majority of language models is represented by 16 bits or more. This produces strong models that may be costly to operate. This study suggests a technique where each parameter is in {-1, 0, 1} and requires 1.58 bits. Performance is precisely matched by this approach up to 3B parameters. Models and code are not yet available. |
 |[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models.](https://arxiv.org/abs/2311.06783v1) |Enhancing multi-modality foundation models such as GPT-4V in low-level visual perception tasks is the main goal of this research. The extensive study collected comments on 18,973 photos from 58,000 people and produced the Q-Pathway dataset for brightness, color, and clarity analysis. |
 |[Graph Diffusion Policy Optimization.](https://github.com/sail-sg/gdpo) | The primary objective of this work is to improve multi-modality foundation models, like GPT-4V, in low-level visual perception tasks. The comprehensive study created the Q-Pathway dataset for brightness, color, and clarity analysis by gathering feedback on 18,973 photographs from 58,000 users.|
-|[.]() | |
-|[.]() | |
+|[HiGPT: Heterogeneous Graph Language Model.](https://higpt-hku.github.io/) |A method for learning across many heterogeneous graphs without requiring fine-tuning is called HiGPT. It excels at adapting to different data distributions thanks to its integration with a unique graph tokenizer and a large corpus of graph commands. |
+|[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning.](https://arxiv.org/abs/2402.17188v1) |PromptMM uses Multi-modal Knowledge Distillation to enhance recommendation systems on sites like Amazon and TikTok. In order to avoid overfitting, it eliminates errors in user preferences and streamlines systems by extracting key characteristics from different kinds of content (textual, audio, or visual). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,9 +108,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FuseChat.](https://github.com/fanqiwan/fusellm) |FuseChat is a novel approach to combine the advantages of many huge language models into a single, more potent model without having to pay expensive training fees again. |
 |[ShieldLM .](https://github.com/thu-coai/ShieldLM) | ShieldLM is a bilingual (Chinese and English) safety detector that mainly aims to help to detect safety issues in LLMs' generations. It aligns with general human safety standards, supports fine-grained customizable detection rules, and provides explanations for its decisions.|
 |[Enable decision making based on LLM-based simulations.](https://github.com/simulatrex/simulatrex-engine) | An open-source project called Simulatrex is dedicated to GABM, or generative agent-based modeling. Large language models are used to provide more accurate simulations.|
-|[Training-Free Long-Context Scaling of Large Language Models.](https://github.com/hkunlp/chunkllama) | |
-|[.]() | |
-|[.]() | |
+|[Training-Free Long-Context Scaling of Large Language Models.](https://github.com/hkunlp/chunkllama) |Dual chunk attention is a training-free and effective method for extending the context window of large language models (LLMs) to more than 8x times their original pre-training length. We refer to the Llama-based model with dual chunk attention as ChunkLlama. |
+|[DPO to encourage descriptiveness.](A minimal code set up with TRL to tune a model to be more descriptive.) | https://gist.github.com/vwxyzjn/64d91ce0b66b0548f1d2c33e855d168c|
+|[Shape suffixes for ML coding.](https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd) | The readable nature of shapes in tensors is significantly enhanced by a coding style at Character AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
