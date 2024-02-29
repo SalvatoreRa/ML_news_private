@@ -64,6 +64,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -82,6 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LazyAxolotl.](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW) | This notebook allows you to fine-tune your LLMs using Axolotl and Runpod|
 |[Apple’s electric car project is dead.](https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down) |After a decade of work, the company is reportedly giving up on its ambitious effort to create an autonomous electric car. |
 |[Expressive Whole-Body Control for Humanoid Robots.](https://expressive-humanoid.github.io/) |UCSD researchers trained robust, socially-inclined, expressive policies for humanoid robots. Their unchoreographed dancing on grass videos are quite amazing. |
+|[Meta plans launch of new AI language model Llama 3 in July, The Information reports.](https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/) |Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by users, The Information reported on Wednesday. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
