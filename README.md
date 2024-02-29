@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FuseChat.](https://github.com/fanqiwan/fusellm) |FuseChat is a novel approach to combine the advantages of many huge language models into a single, more potent model without having to pay expensive training fees again. |
 |[ShieldLM .](https://github.com/thu-coai/ShieldLM) | ShieldLM is a bilingual (Chinese and English) safety detector that mainly aims to help to detect safety issues in LLMs' generations. It aligns with general human safety standards, supports fine-grained customizable detection rules, and provides explanations for its decisions.|
 |[Enable decision making based on LLM-based simulations.](https://github.com/simulatrex/simulatrex-engine) | An open-source project called Simulatrex is dedicated to GABM, or generative agent-based modeling. Large language models are used to provide more accurate simulations.|
-|[.]() | |
+|[Training-Free Long-Context Scaling of Large Language Models.](https://github.com/hkunlp/chunkllama) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,9 +127,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ten AI Insights from Databricks, Anyscale, and Microsoft.](https://foundationcapital.com/ten-ai-insights-from-databricks-anyscale-and-microsoft/) |This article features interviews with founders of AI-forward firms, including their perspectives on the emergence of artificial intelligence (AGI), how to approach LLMs, and basic strategies for entrepreneurs integrating AI into their products. |
 |[What the EU’s tough AI law means for research and ChatGPT.](https://www.nature.com/articles/d41586-024-00497-8) |The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models. |
 |[Online images amplify gender bias.](https://www.nature.com/articles/s41586-024-07068-x) |We find that gender bias is consistently more prevalent in images than text for both female- and male-typed categories. We also show that the documented underrepresentation of women online is substantially worse in images than in text, public opinion and US census data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ChunkLlama.](https://github.com/hkunlp/chunkllama) |Dual chunk attention is a training-free and effective method for extending the context window of large language models (LLMs) to more than 8x times their original pre-training length. We refer to the Llama-based model with dual chunk attention as ChunkLlama.  |
+|[distilabel.](https://github.com/argilla-io/distilabel) | AI Feedback (AIF) framework for building datasets with and for LLMs.|
+|[StarCoder2.](https://huggingface.co/bigcode/starcoder2-15b) |StarCoder2-15B model is a 15B parameter model trained on 600+ programming languages from The Stack v2, with opt-out requests excluded. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
