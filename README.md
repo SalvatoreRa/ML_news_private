@@ -66,8 +66,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Graph Diffusion Policy Optimization.](https://github.com/sail-sg/gdpo) | The primary objective of this work is to improve multi-modality foundation models, like GPT-4V, in low-level visual perception tasks. The comprehensive study created the Q-Pathway dataset for brightness, color, and clarity analysis by gathering feedback on 18,973 photographs from 58,000 users.|
 |[HiGPT: Heterogeneous Graph Language Model.](https://higpt-hku.github.io/) |A method for learning across many heterogeneous graphs without requiring fine-tuning is called HiGPT. It excels at adapting to different data distributions thanks to its integration with a unique graph tokenizer and a large corpus of graph commands. |
 |[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning.](https://arxiv.org/abs/2402.17188v1) |PromptMM uses Multi-modal Knowledge Distillation to enhance recommendation systems on sites like Amazon and TikTok. In order to avoid overfitting, it eliminates errors in user preferences and streamlines systems by extracting key characteristics from different kinds of content (textual, audio, or visual). |
-|[.]() | |
-|[.]() | |
+|[Genie: Generative Interactive Environments.](https://sites.google.com/view/genie-2024/home) |We introduce Genie, a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches. |
+|[UniVS: Unified and Universal Video Segmentation with Prompts as Queries.](https://arxiv.org/abs/2402.18115) | |
+|[Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis.](https://arxiv.org/abs/2402.18078v1) | |
+|[Evaluating Quantized Large Language Models.](https://arxiv.org/abs/2402.18158v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,8 +97,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tim Cook Says Apple Will 'Break New Ground' in Generative AI.](https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/) | Cook said that the company will "break new ground" in generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.|
 |[Elon Musk sues OpenAI accusing it of putting profit before humanity.](https://www.theguardian.com/technology/2024/mar/01/elon-musk-sues-open-ai-profit-power-microsoft-sam-altman) |Lawsuit says chief executive Sam Altman’s deal with Microsoft has broken organisation’s mission |
 |[Figure raises $675M at $2.6B valuation.](https://twitter.com/Figure_robot/status/1763202496959521036?t=dkT4cm1ds_PCRErc8liWww&s=19) | In order to continue developing humanoid robots, Figure, a robotics startup, has secured $675 million from a number of significant investors, including OpenAI.|
-|[.]() | |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
