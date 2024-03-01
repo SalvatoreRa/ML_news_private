@@ -94,6 +94,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta plans launch of new AI language model Llama 3 in July, The Information reports.](https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/) |Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by users, The Information reported on Wednesday. |
 |[Tim Cook Says Apple Will 'Break New Ground' in Generative AI.](https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/) | Cook said that the company will "break new ground" in generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.|
 |[Elon Musk sues OpenAI accusing it of putting profit before humanity.](https://www.theguardian.com/technology/2024/mar/01/elon-musk-sues-open-ai-profit-power-microsoft-sam-altman) |Lawsuit says chief executive Sam Altman’s deal with Microsoft has broken organisation’s mission |
+|[Figure raises $675M at $2.6B valuation.](https://twitter.com/Figure_robot/status/1763202496959521036?t=dkT4cm1ds_PCRErc8liWww&s=19) | In order to continue developing humanoid robots, Figure, a robotics startup, has secured $675 million from a number of significant investors, including OpenAI.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Training-Free Long-Context Scaling of Large Language Models.](https://github.com/hkunlp/chunkllama) |Dual chunk attention is a training-free and effective method for extending the context window of large language models (LLMs) to more than 8x times their original pre-training length. We refer to the Llama-based model with dual chunk attention as ChunkLlama. |
 |[DPO to encourage descriptiveness.](A minimal code set up with TRL to tune a model to be more descriptive.) | https://gist.github.com/vwxyzjn/64d91ce0b66b0548f1d2c33e855d168c|
 |[Shape suffixes for ML coding.](https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd) | The readable nature of shapes in tensors is significantly enhanced by a coding style at Character AI.|
-|[.]() | |
+|[Getting started with MAX Developer Edition.](https://www.modular.com/blog/getting-started-with-max-developer-edition) |To drastically reduce complexity and accelerate AI implementations, Modular developed the MAX toolset. It is currently accessible. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
