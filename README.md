@@ -67,9 +67,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HiGPT: Heterogeneous Graph Language Model.](https://higpt-hku.github.io/) |A method for learning across many heterogeneous graphs without requiring fine-tuning is called HiGPT. It excels at adapting to different data distributions thanks to its integration with a unique graph tokenizer and a large corpus of graph commands. |
 |[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning.](https://arxiv.org/abs/2402.17188v1) |PromptMM uses Multi-modal Knowledge Distillation to enhance recommendation systems on sites like Amazon and TikTok. In order to avoid overfitting, it eliminates errors in user preferences and streamlines systems by extracting key characteristics from different kinds of content (textual, audio, or visual). |
 |[Genie: Generative Interactive Environments.](https://sites.google.com/view/genie-2024/home) |We introduce Genie, a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches. |
-|[UniVS: Unified and Universal Video Segmentation with Prompts as Queries.](https://arxiv.org/abs/2402.18115) | |
-|[Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis.](https://arxiv.org/abs/2402.18078v1) | |
-|[Evaluating Quantized Large Language Models.](https://arxiv.org/abs/2402.18158v1) | |
+|[UniVS: Unified and Universal Video Segmentation with Prompts as Queries.](https://arxiv.org/abs/2402.18115) | With a unique prompt-based methodology, UniVS is a unified architecture for video segmentation that addresses the difficulties of diverse segmentation jobs. UniVS removes the requirement for heuristic inter-frame matching by utilizing prompt characteristics as queries and providing a target-wise prompt cross-attention layer. This allows UniVS to adapt to various video segmentation settings with ease.|
+|[Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis.](https://arxiv.org/abs/2402.18078v1) | With a deep semantic knowledge of pictures, the Coarse-to-Fine Latent Diffusion (CFLD) method avoids overfitting and offers a novel Pose-Guided Person Image Synthesis technique that overcomes the drawbacks of previous models.|
+|[Evaluating Quantized Large Language Models.](https://arxiv.org/abs/2402.18158v1) |Large language models like OPT and LLaMA2 can be rendered more compute- and memory-efficient through the use of post-training quantization. |
+|[Representing 3D sparse map points and lines for camera relocalization.](https://thpjp.github.io/pl2map/) | With minimal memory and processing power, this study presents a novel method for 3D mapping and localization that processes both point and line information using a lightweight neural network, greatly improving pose accuracy.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
