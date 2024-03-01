@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Expressive Whole-Body Control for Humanoid Robots.](https://expressive-humanoid.github.io/) |UCSD researchers trained robust, socially-inclined, expressive policies for humanoid robots. Their unchoreographed dancing on grass videos are quite amazing. |
 |[Meta plans launch of new AI language model Llama 3 in July, The Information reports.](https://www.reuters.com/technology/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-2024-02-28/) |Meta Platforms (META.O), opens new tab is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by users, The Information reported on Wednesday. |
 |[Tim Cook Says Apple Will 'Break New Ground' in Generative AI.](https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/) | Cook said that the company will "break new ground" in generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.|
-|[.]() | |
+|[Elon Musk sues OpenAI accusing it of putting profit before humanity.](https://www.theguardian.com/technology/2024/mar/01/elon-musk-sues-open-ai-profit-power-microsoft-sam-altman) |Lawsuit says chief executive Sam Altman’s deal with Microsoft has broken organisation’s mission |
 |[.]() | |
 |[.]() | |
 |[.]() | |
