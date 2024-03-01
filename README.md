@@ -123,9 +123,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DPO to encourage descriptiveness.](A minimal code set up with TRL to tune a model to be more descriptive.) | https://gist.github.com/vwxyzjn/64d91ce0b66b0548f1d2c33e855d168c|
 |[Shape suffixes for ML coding.](https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd) | The readable nature of shapes in tensors is significantly enhanced by a coding style at Character AI.|
 |[Getting started with MAX Developer Edition.](https://www.modular.com/blog/getting-started-with-max-developer-edition) |To drastically reduce complexity and accelerate AI implementations, Modular developed the MAX toolset. It is currently accessible. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Bonito.](https://github.com/batsresearch/bonito) |Bonito is an open-source model for conditional task generation: the task of converting unannotated text into task-specific training datasets for instruction tuning. This repo is a lightweight library for Bonito to easily create synthetic datasets built on top of the Hugging Face transformers and vllm libraries. |
+|[Awesome-LLMs-for-Video-Understanding.](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) |A selection of helpful resources for comprehending videos with huge language models can be found in this repository. |
+|[Mist text to speech.](https://rime.ai/blog/introducing-mist) |A new text-to-speech technology called Rime has strong conversational capabilities. This model may incorporate "ums" and realistic pauses, in contrast to earlier ones. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChunkLlama.](https://github.com/hkunlp/chunkllama) |Dual chunk attention is a training-free and effective method for extending the context window of large language models (LLMs) to more than 8x times their original pre-training length. We refer to the Llama-based model with dual chunk attention as ChunkLlama.  |
 |[distilabel.](https://github.com/argilla-io/distilabel) | AI Feedback (AIF) framework for building datasets with and for LLMs.|
 |[StarCoder2.](https://huggingface.co/bigcode/starcoder2-15b) |StarCoder2-15B model is a 15B parameter model trained on 600+ programming languages from The Stack v2, with opt-out requests excluded. |
-|[.]() | |
+|[The paradox of diffusion distillation.](https://sander.ai/2024/02/28/paradox.html) |Diffusion models decompose complex issues, such as image production, into numerous smaller issues, such as minimizing a little amount of noise in an image. Single step diffusion generation has received a lot of attention, however it appears to miss the mark. This article examines the diffusion distillation conundrum and lists the various avenues of inquiry that might be pursued. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
