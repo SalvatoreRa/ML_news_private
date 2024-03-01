@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis.](https://arxiv.org/abs/2402.18078v1) | With a deep semantic knowledge of pictures, the Coarse-to-Fine Latent Diffusion (CFLD) method avoids overfitting and offers a novel Pose-Guided Person Image Synthesis technique that overcomes the drawbacks of previous models.|
 |[Evaluating Quantized Large Language Models.](https://arxiv.org/abs/2402.18158v1) |Large language models like OPT and LLaMA2 can be rendered more compute- and memory-efficient through the use of post-training quantization. |
 |[Representing 3D sparse map points and lines for camera relocalization.](https://thpjp.github.io/pl2map/) | With minimal memory and processing power, this study presents a novel method for 3D mapping and localization that processes both point and line information using a lightweight neural network, greatly improving pose accuracy.|
-|[.]() | |
+|[Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving.](https://drive-wm.github.io/) | Drive-WM can produce high-quality multiview films to forecast future events, allowing self-driving cars to make more intelligent and safe driving choices.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,8 +126,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Bonito.](https://github.com/batsresearch/bonito) |Bonito is an open-source model for conditional task generation: the task of converting unannotated text into task-specific training datasets for instruction tuning. This repo is a lightweight library for Bonito to easily create synthetic datasets built on top of the Hugging Face transformers and vllm libraries. |
 |[Awesome-LLMs-for-Video-Understanding.](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) |A selection of helpful resources for comprehending videos with huge language models can be found in this repository. |
 |[Mist text to speech.](https://rime.ai/blog/introducing-mist) |A new text-to-speech technology called Rime has strong conversational capabilities. This model may incorporate "ums" and realistic pauses, in contrast to earlier ones. |
-|[.]() | |
-|[.]() | |
+|[Add your own Ollama models.](https://github.com/ollama/ollama/blob/main/docs/import.md) |guidelines for contributing your own models to the Ollama repository for public usage. |
+|[2x speed up HF inference with static KV Cache.](https://gist.github.com/ArthurZucker/af34221def212259b43d55a2811d2dbb) | Increased inference speed can lead to new use cases. This code proposes a method to accelerate Hugging Face inference using Llama models.|
 |[.]() | |
 |[.]() | |
 
