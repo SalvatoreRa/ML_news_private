@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Evaluating Quantized Large Language Models.](https://arxiv.org/abs/2402.18158v1) |Large language models like OPT and LLaMA2 can be rendered more compute- and memory-efficient through the use of post-training quantization. |
 |[Representing 3D sparse map points and lines for camera relocalization.](https://thpjp.github.io/pl2map/) | With minimal memory and processing power, this study presents a novel method for 3D mapping and localization that processes both point and line information using a lightweight neural network, greatly improving pose accuracy.|
 |[Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving.](https://drive-wm.github.io/) | Drive-WM can produce high-quality multiview films to forecast future events, allowing self-driving cars to make more intelligent and safe driving choices.|
-|[.]() | |
+|[Do Large Language Models Latently Perform Multi-Hop Reasoning?.](https://arxiv.org/abs/2402.16837) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
