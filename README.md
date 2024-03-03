@@ -36,7 +36,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: Week 26 February - 3 March
 
 ## Research
 |Link|description|
@@ -73,13 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Representing 3D sparse map points and lines for camera relocalization.](https://thpjp.github.io/pl2map/) | With minimal memory and processing power, this study presents a novel method for 3D mapping and localization that processes both point and line information using a lightweight neural network, greatly improving pose accuracy.|
 |[Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving.](https://drive-wm.github.io/) | Drive-WM can produce high-quality multiview films to forecast future events, allowing self-driving cars to make more intelligent and safe driving choices.|
 |[Do Large Language Models Latently Perform Multi-Hop Reasoning?.](https://arxiv.org/abs/2402.16837) | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -102,12 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tim Cook Says Apple Will 'Break New Ground' in Generative AI.](https://www.macrumors.com/2024/02/28/tim-cook-apple-generative-ai-break-new-ground/) | Cook said that the company will "break new ground" in generative AI in 2024. "We believe it will unlock transformative opportunities for our users," said Cook.|
 |[Elon Musk sues OpenAI accusing it of putting profit before humanity.](https://www.theguardian.com/technology/2024/mar/01/elon-musk-sues-open-ai-profit-power-microsoft-sam-altman) |Lawsuit says chief executive Sam Altman’s deal with Microsoft has broken organisation’s mission |
 |[Figure raises $675M at $2.6B valuation.](https://twitter.com/Figure_robot/status/1763202496959521036?t=dkT4cm1ds_PCRErc8liWww&s=19) | In order to continue developing humanoid robots, Figure, a robotics startup, has secured $675 million from a number of significant investors, including OpenAI.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -128,8 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mist text to speech.](https://rime.ai/blog/introducing-mist) |A new text-to-speech technology called Rime has strong conversational capabilities. This model may incorporate "ums" and realistic pauses, in contrast to earlier ones. |
 |[Add your own Ollama models.](https://github.com/ollama/ollama/blob/main/docs/import.md) |guidelines for contributing your own models to the Ollama repository for public usage. |
 |[2x speed up HF inference with static KV Cache.](https://gist.github.com/ArthurZucker/af34221def212259b43d55a2811d2dbb) | Increased inference speed can lead to new use cases. This code proposes a method to accelerate Hugging Face inference using Llama models.|
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -142,16 +130,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[distilabel.](https://github.com/argilla-io/distilabel) | AI Feedback (AIF) framework for building datasets with and for LLMs.|
 |[StarCoder2.](https://huggingface.co/bigcode/starcoder2-15b) |StarCoder2-15B model is a 15B parameter model trained on 600+ programming languages from The Stack v2, with opt-out requests excluded. |
 |[The paradox of diffusion distillation.](https://sander.ai/2024/02/28/paradox.html) |Diffusion models decompose complex issues, such as image production, into numerous smaller issues, such as minimizing a little amount of noise in an image. Single step diffusion generation has received a lot of attention, however it appears to miss the mark. This article examines the diffusion distillation conundrum and lists the various avenues of inquiry that might be pursued. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 19 - 25 February
 
