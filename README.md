@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[On the Societal Impact of Open Foundation Models.](https://crfm.stanford.edu/open-fms/) |a position paper that centers on open foundation models and discusses their advantages, disadvantages, and effects; it also suggests a framework for risk analysis and clarifies why, in certain situations, the marginal risk of these models is low. Finally, it provides a more sober evaluation of the open foundation models' effects on society. |
-|[.]() | |
+|[Towards Long Context RAG.](https://www.llamaindex.ai/blog/towards-long-context-rag) |The amazing one-million-word context window that Google's Gemini 1.5 Pro has brought to the AI community has sparked a debate regarding the future viability of retrieval-augmented generation (RAG).  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
