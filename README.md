@@ -58,8 +58,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AI-generated images of Trump with Black voters being spread by supporters.](https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters) |No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds |
-|[.]() | |
-|[.]() | |
+|[Elon Musk sues OpenAI over AI threat.](https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/) |OpenAI is not so open now, Musk claims, following the closed-source release of the company's artificial general intelligence technology under Microsoft. |
+|[OpenAI wants to make a walking, talking humanoid robot smarter.](https://www.popsci.com/technology/openai-wants-to-make-a-walking-talking-humanoid-robot-smarter/) | Figure’s founder Brett Adcock says a new partnership with OpenAI could help its robots hold conversation and learn from its mistakes over time.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
