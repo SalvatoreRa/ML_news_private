@@ -41,9 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[HyperAttention: Long-context Attention in Near-Linear Time.](https://arxiv.org/abs/2310.05869) | It's well accepted—and informally verified—that HyperAttention is the key to Gemini's incredible 1 million+ token context window's success.|
+|[Why do Learning Rates Transfer? Reconciling Optimization and Scaling Limits for Deep Learning.](https://arxiv.org/abs/2402.17457) | An attempt is made to explain the success of MuP hyperparameter transfer theoretically in this study. The greatest eigenvalue of the training loss Hessian, according to its creators, is unaffected by the network's depth or breadth.|
+|[WebArena: A Realistic Web Environment for Building Autonomous Agents.](https://arxiv.org/abs/2307.13854) | The possibility for Agents to handle a range of digital responsibilities has the community enthused. But even the most advanced general-purpose models find it difficult to accomplish jobs where people achieve more than 70% of the time. It is becoming evident that these activities could require models that have been carefully trained.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[2.4x faster Gemma + 58% less VRAM.](https://unsloth.ai/blog/gemma) |You can now finetune Gemma 7b 2.43x faster than HF + Flash Attention 2 with 57.5% less VRAM use. When compared to vanilla HF, Unsloth is 2.53x faster and uses 70% less VRAM. |
+|[DUSt3R.](https://github.com/naver/dust3r/tree/main) |With the help of this project, you may create 3D representations in GLB form by taking a few photos of a site and reconstructing it for usage in 3D applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
