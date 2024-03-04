@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[AI-generated images of Trump with Black voters being spread by supporters.](https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters) |No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds |
 |[.]() | |
 |[.]() | |
 |[.]() | |
