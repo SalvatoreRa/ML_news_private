@@ -47,6 +47,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models.](https://shi-labs.github.io/Smooth-Diffusion/) |Latent space smoothness in text-to-image diffusion models is a problem that is addressed by a novel method called Smooth Diffusion. With this technique, even little changes in input will result in a steady and progressive alteration of the visuals. |
 |[Rethinking Inductive Biases for Surface Normal Estimation.](https://baegwangbin.github.io/DSINE/) |A technique called DSNIE significantly enhances monocular surface normal estimation, which finds use in various computer graphics fields. |
 |[CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition.](https://arxiv.org/abs/2402.19231v1) | CricaVPR presents a revolutionary method that focuses on the relationships between many photos, even when they are taken in various situations, in order to improve visual place identification.|
+|[Empowering Large Language Model Agents through Action Learning.](https://arxiv.org/abs/2402.15809) | investigates open-action learning for language agents using an iterative learning strategy that uses Python functions to create and improve actions; on each iteration, the proposed framework (LearnAct) modifies and updates available actions based on execution feedback, expanding the action space and improving action effectiveness; the LearnAct framework was tested on Robotic planning and AlfWorld environments, showing 32% improvement in agent performance in AlfWorld when compared to ReAct+Reflexion.|
+|[PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval.](https://arxiv.org/abs/2402.19273) |demonstrates how to use LLMs to integrate several approaches, such as retrieval augmentation, fine-tuning, tool utilization, and more; while the suggested framework is used in the context of urban and spatial planning, many of the insights and useful advice are applicable to other fields as well. |
+|[Evo: Long-context modeling from molecular to genome scale.](https://www.together.ai/blog/evo) | Introducing Evo, a long-context biological foundation model based on the StripedHyena architecture that generalizes across the fundamental languages of biology: DNA, RNA, and proteins. Evo is capable of both prediction tasks and generative design, from molecular to whole genome scale (over 650k tokens in length). Evo is trained at a nucleotide (byte) resolution, on a large corpus of prokaryotic genomic sequences covering 2.7 million whole genomes.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[2.4x faster Gemma + 58% less VRAM.](https://unsloth.ai/blog/gemma) |You can now finetune Gemma 7b 2.43x faster than HF + Flash Attention 2 with 57.5% less VRAM use. When compared to vanilla HF, Unsloth is 2.53x faster and uses 70% less VRAM. |
 |[DUSt3R.](https://github.com/naver/dust3r/tree/main) |With the help of this project, you may create 3D representations in GLB form by taking a few photos of a site and reconstructing it for usage in 3D applications. |
-|[.]() | |
-|[.]() | |
+|[Datasets for Large Language Models: A Comprehensive Survey.](https://arxiv.org/abs/2402.18041) |an extensive (more than 180 pages) review and analysis of LLM datasets. |
+|[Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey.](https://arxiv.org/abs/2402.17944) |an overview of LLMs for tabular data jobs that includes important methods, measurements, datasets, models, and optimization strategies; it also discusses unmet issues and offers suggestions for future lines of inquiry. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[On the Societal Impact of Open Foundation Models.](https://crfm.stanford.edu/open-fms/) |a position paper that centers on open foundation models and discusses their advantages, disadvantages, and effects; it also suggests a framework for risk analysis and clarifies why, in certain situations, the marginal risk of these models is low. Finally, it provides a more sober evaluation of the open foundation models' effects on society. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
