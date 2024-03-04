@@ -44,9 +44,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HyperAttention: Long-context Attention in Near-Linear Time.](https://arxiv.org/abs/2310.05869) | It's well accepted—and informally verified—that HyperAttention is the key to Gemini's incredible 1 million+ token context window's success.|
 |[Why do Learning Rates Transfer? Reconciling Optimization and Scaling Limits for Deep Learning.](https://arxiv.org/abs/2402.17457) | An attempt is made to explain the success of MuP hyperparameter transfer theoretically in this study. The greatest eigenvalue of the training loss Hessian, according to its creators, is unaffected by the network's depth or breadth.|
 |[WebArena: A Realistic Web Environment for Building Autonomous Agents.](https://arxiv.org/abs/2307.13854) | The possibility for Agents to handle a range of digital responsibilities has the community enthused. But even the most advanced general-purpose models find it difficult to accomplish jobs where people achieve more than 70% of the time. It is becoming evident that these activities could require models that have been carefully trained.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models.](https://shi-labs.github.io/Smooth-Diffusion/) |Latent space smoothness in text-to-image diffusion models is a problem that is addressed by a novel method called Smooth Diffusion. With this technique, even little changes in input will result in a steady and progressive alteration of the visuals. |
+|[Rethinking Inductive Biases for Surface Normal Estimation.](https://baegwangbin.github.io/DSINE/) |A technique called DSNIE significantly enhances monocular surface normal estimation, which finds use in various computer graphics fields. |
+|[CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition.](https://arxiv.org/abs/2402.19231v1) | CricaVPR presents a revolutionary method that focuses on the relationships between many photos, even when they are taken in various situations, in order to improve visual place identification.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
