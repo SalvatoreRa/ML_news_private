@@ -60,8 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-generated images of Trump with Black voters being spread by supporters.](https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters) |No evidence to tie fake images, including one created by Florida radio host, to Trump campaign, BBC Panorama investigation finds |
 |[Elon Musk sues OpenAI over AI threat.](https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/) |OpenAI is not so open now, Musk claims, following the closed-source release of the company's artificial general intelligence technology under Microsoft. |
 |[OpenAI wants to make a walking, talking humanoid robot smarter.](https://www.popsci.com/technology/openai-wants-to-make-a-walking-talking-humanoid-robot-smarter/) | Figure’s founder Brett Adcock says a new partnership with OpenAI could help its robots hold conversation and learn from its mistakes over time.|
-|[.]() | |
-|[.]() | |
+|[MagicLab’s humanoid can toast marshmallows, fold clothes and dance.](https://interestingengineering.com/innovation/magiclabs-humanoid-can-toast-marshmallows-fold-clothes-and-dance) |Miniature high-torque servo actuators combined with sensitive multi-dimensional pressure sensors enabled the team to create an exceptionally dexterous hand–MagicBot. |
+|[Amazon to spend $1 billion on startups that combine AI with robots.](https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/) | Amazon’s $1 billion industrial innovation fund is to step up investments in companies that combine artificial intelligence and robotics, as the ecommerce giant seeks to drive efficiencies across its logistics network.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
