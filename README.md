@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Resonance RoPE: Improving Context Length Generalization of Large Language Models.](https://arxiv.org/abs/2403.00071) | To assist LLMs comprehend and produce text in longer sequences than they were first trained on, researchers have created a new method dubbed Resonance RoPE. By using less processing power, our approach outperforms the current Rotary Position Embedding (RoPE) technique and improves model performance on lengthy texts.|
 |[The All-Seeing Project V2: Towards General Relation Comprehension of the Open World.](https://arxiv.org/abs/2402.19474v1) | The All-Seeing Project V2 introduces the ASMv2 model, which blends text generation, object localization, and understanding the connections between objects in images.|
 |[GPQA: A Graduate-Level Google-Proof Q&A Benchmark.](https://arxiv.org/abs/2311.12022v1) | A formidable task is offered by a new dataset named GPQA, which has 448 difficult multiple-choice questions covering physics, chemistry, and biology. Even domain specialists have difficulty—they only score about 65% accuracy—while non-experts only get 34%. Only 39% of advanced AI systems, such as GPT-4, are accurate. The goal of this dataset is to provide techniques for monitoring AI results in challenging scientific problems.|
-|[.]() | |
+|[SURE: SUrvey REcipes for building reliable and robust deep networks.](https://yutingli0606.github.io/SURE/) |SURE is a revolutionary strategy that integrates multiple approaches to increase the accuracy of deep neural network uncertainty predictions, particularly for image classification applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon to spend $1 billion on startups that combine AI with robots.](https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/) | Amazon’s $1 billion industrial innovation fund is to step up investments in companies that combine artificial intelligence and robotics, as the ecommerce giant seeks to drive efficiencies across its logistics network.|
 |[Claude 3 released.](https://www.anthropic.com/news/claude-3-family) |Three new Claude 3 family models have been trained by Anthropic, the best of which achieves benchmark scores that GPT4 has publicly disclosed. It excels at visual tasks and is a multimodal model as well. Claude's coding skills have significantly improved with this version, which is significant. |
 |[ChatGPT can read its answers out loud.](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android) |OpenAI’s new Read Aloud feature for ChatGPT could come in handy when users are on the go by reading its responses in one of five voice options out loud to users. It is now available on both the web version of ChatGPT and the iOS and Android ChatGPT apps. |
-|[.]() | |
+|[Adobe reveals a GenAI tool for music.](https://techcrunch.com/2024/02/28/adobe-reveals-a-genai-tool-for-music/) |  Adobe unveiled Project Music GenAI Control, a platform that can generate audio from text descriptions (e.g. “happy dance,” “sad jazz”) or a reference melody and let users customize the results within the same workflow.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,9 +107,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[On the Societal Impact of Open Foundation Models.](https://crfm.stanford.edu/open-fms/) |a position paper that centers on open foundation models and discusses their advantages, disadvantages, and effects; it also suggests a framework for risk analysis and clarifies why, in certain situations, the marginal risk of these models is low. Finally, it provides a more sober evaluation of the open foundation models' effects on society. |
 |[Towards Long Context RAG.](https://www.llamaindex.ai/blog/towards-long-context-rag) |The amazing one-million-word context window that Google's Gemini 1.5 Pro has brought to the AI community has sparked a debate regarding the future viability of retrieval-augmented generation (RAG).  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Aggregator’s AI Risk.](https://stratechery.com/2024/aggregators-ai-risk/) |The impact of the Internet, especially through Aggregators like Google and Meta, is comparable to that of the printing press on the spread of knowledge and the establishment of nation-states. But the rise of generative AI puts the Aggregator model to the test by offering unique solutions that represent ingrained worldviews. This could undermine the Aggregator economics's universal appeal and point to the need for a move toward personalized AI in order to preserve its dominance. |
+|[Is Synthetic Data the Key to AGI?.](https://digitalspirits.substack.com/p/is-synthetic-data-the-key-to-agi) |The caliber of training data has a major impact on how effective large language models are. By 2027, projections indicate that there will be a shortage of high-quality data. A possible answer to this problem is synthetic data generation, which could change internet business models and emphasize the significance of fair data access and antitrust laws.|
+|[AI Research Internship Search as a CS PhD Student.](https://newsletter.yongzx.io/p/ai-research-internship-search-as) | Tips and thoughts from my relatively successful summer research internship hunt during third-year Computer Science PhD study.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
