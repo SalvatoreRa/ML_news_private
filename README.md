@@ -90,9 +90,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DUSt3R.](https://github.com/naver/dust3r/tree/main) |With the help of this project, you may create 3D representations in GLB form by taking a few photos of a site and reconstructing it for usage in 3D applications. |
 |[Datasets for Large Language Models: A Comprehensive Survey.](https://arxiv.org/abs/2402.18041) |an extensive (more than 180 pages) review and analysis of LLM datasets. |
 |[Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey.](https://arxiv.org/abs/2402.17944) |an overview of LLMs for tabular data jobs that includes important methods, measurements, datasets, models, and optimization strategies; it also discusses unmet issues and offers suggestions for future lines of inquiry. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Using Claude 3 Opus for video summarization.](https://github.com/hundredblocks/transcription_demo) | Andrej Karpathy challenged me to write a blog article based on one of his latest videos in a lengthy context. This job was completed by Claude 3 with assistance from some pre-processing data. The end product is an excellent and captivating blog post.|
+|[Dual-domain strip attention for image restoration.](https://github.com/c-yn/DSANet) |A new technique that greatly enhances image restoration tasks is dual-domain strip attention mechanism. |
+|[Open-Sora-Plan.](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
