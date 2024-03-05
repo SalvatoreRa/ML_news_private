@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI wants to make a walking, talking humanoid robot smarter.](https://www.popsci.com/technology/openai-wants-to-make-a-walking-talking-humanoid-robot-smarter/) | Figure’s founder Brett Adcock says a new partnership with OpenAI could help its robots hold conversation and learn from its mistakes over time.|
 |[MagicLab’s humanoid can toast marshmallows, fold clothes and dance.](https://interestingengineering.com/innovation/magiclabs-humanoid-can-toast-marshmallows-fold-clothes-and-dance) |Miniature high-torque servo actuators combined with sensitive multi-dimensional pressure sensors enabled the team to create an exceptionally dexterous hand–MagicBot. |
 |[Amazon to spend $1 billion on startups that combine AI with robots.](https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/) | Amazon’s $1 billion industrial innovation fund is to step up investments in companies that combine artificial intelligence and robotics, as the ecommerce giant seeks to drive efficiencies across its logistics network.|
-|[.]() | |
-|[.]() | |
+|[Claude 3 released.](https://www.anthropic.com/news/claude-3-family) |Three new Claude 3 family models have been trained by Anthropic, the best of which achieves benchmark scores that GPT4 has publicly disclosed. It excels at visual tasks and is a multimodal model as well. Claude's coding skills have significantly improved with this version, which is significant. |
+|[ChatGPT can read its answers out loud.](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android) |OpenAI’s new Read Aloud feature for ChatGPT could come in handy when users are on the go by reading its responses in one of five voice options out loud to users. It is now available on both the web version of ChatGPT and the iOS and Android ChatGPT apps. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
