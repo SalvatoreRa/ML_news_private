@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control.](https://unified-attention-control.github.io/) |A novel method for improving motion quality and semantic coherence in films produced by text-to-video models is presented by UniCtrl. By employing motion injection and cross-frame self-attention approaches, it enhances video coherence and realism without requiring further training. |
 |[VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT.](https://github.com/YoucanBaby/VTG-GPT) |With natural language queries, VTG-GPT provides a revolutionary GPT-based technique that can precisely identify particular video segments without the need for fine-tuning or training. |
 |[MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training.](https://github.com/apple/ml-mobileclip) |With the same performance as OpenAI's original CLIP model, MobileClip operates seven times quicker. It may be utilized for a variety of language and visual activities on-device. |
-|[.]() | |
+|[Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures.](https://arxiv.org/abs/2403.02308v1) | Vision-RWKV provides an effective solution for high-resolution image processing by modifying the RWKV architecture from NLP for use in vision challenges.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,6 +85,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adobe reveals a GenAI tool for music.](https://techcrunch.com/2024/02/28/adobe-reveals-a-genai-tool-for-music/) |  Adobe unveiled Project Music GenAI Control, a platform that can generate audio from text descriptions (e.g. “happy dance,” “sad jazz”) or a reference melody and let users customize the results within the same workflow.|
 |[OpenAI fires back at Elon Musk in legal fight over breach of contract claims.](https://www.theguardian.com/technology/2024/mar/06/openai-elon-musk-emails-chatgpt) | ChatGPT maker releases emails in support of claim businessman backed plan to create for-profit unit|
 |[OpenAI and Elon Musk.](https://openai.com/blog/openai-elon-musk) | In response to Elon Musk's complaint, OpenAI provided screenshots of emails between Elon Musk, Greg Brockman, Sam Altman, and Ilya Sutskever, as well as their version of events. According to the receipts, Musk thought there was little hope for OpenAI to succeed and agreed that some models should be closed source.|
+|[Perplexity AI Reportedly Raising Additional Money At Significantly Higher Valuation Cap Than $520M.](https://www.benzinga.com/news/24/02/37412558/watch-out-google-openai-perplexity-ai-reportedly-raising-additional-money-at-significantly-higher-va) | Perplexity AI, a rising star in the field of artificial intelligence, is reportedly in discussions to secure additional funding at a valuation significantly higher than its previous round.|
+|[Le Chat.](https://mistral.ai/news/le-chat-mistral/) | Using its Mistral models, Mistral AI has introduced 'le Chat Mistral,' a new multilingual conversational assistant with an enterprise edition for companies.|
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
