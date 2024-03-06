@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude 3 released.](https://www.anthropic.com/news/claude-3-family) |Three new Claude 3 family models have been trained by Anthropic, the best of which achieves benchmark scores that GPT4 has publicly disclosed. It excels at visual tasks and is a multimodal model as well. Claude's coding skills have significantly improved with this version, which is significant. |
 |[ChatGPT can read its answers out loud.](https://www.theverge.com/2024/3/4/24090500/chatgpt-openai-voice-ios-android) |OpenAI’s new Read Aloud feature for ChatGPT could come in handy when users are on the go by reading its responses in one of five voice options out loud to users. It is now available on both the web version of ChatGPT and the iOS and Android ChatGPT apps. |
 |[Adobe reveals a GenAI tool for music.](https://techcrunch.com/2024/02/28/adobe-reveals-a-genai-tool-for-music/) |  Adobe unveiled Project Music GenAI Control, a platform that can generate audio from text descriptions (e.g. “happy dance,” “sad jazz”) or a reference melody and let users customize the results within the same workflow.|
-|[.]() | |
+|[OpenAI fires back at Elon Musk in legal fight over breach of contract claims.](https://www.theguardian.com/technology/2024/mar/06/openai-elon-musk-emails-chatgpt) | ChatGPT maker releases emails in support of claim businessman backed plan to create for-profit unit|
 |[.]() | |
 |[.]() | |
 |[.]() | |
