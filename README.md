@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Using Claude 3 Opus for video summarization.](https://github.com/hundredblocks/transcription_demo) | Andrej Karpathy challenged me to write a blog article based on one of his latest videos in a lengthy context. This job was completed by Claude 3 with assistance from some pre-processing data. The end product is an excellent and captivating blog post.|
 |[Dual-domain strip attention for image restoration.](https://github.com/c-yn/DSANet) |A new technique that greatly enhances image restoration tasks is dual-domain strip attention mechanism. |
 |[Open-Sora-Plan.](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
-|[.]() | |
+|[ML system design: 300 case studies to learn from.](https://www.evidentlyai.com/ml-system-design) | We put together a database of 300 case studies from 80+ companies that share practical ML use cases and learnings from designing ML systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
