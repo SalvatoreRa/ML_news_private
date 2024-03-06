@@ -63,6 +63,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -94,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dual-domain strip attention for image restoration.](https://github.com/c-yn/DSANet) |A new technique that greatly enhances image restoration tasks is dual-domain strip attention mechanism. |
 |[Open-Sora-Plan.](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
 |[ML system design: 300 case studies to learn from.](https://www.evidentlyai.com/ml-system-design) | We put together a database of 300 case studies from 80+ companies that share practical ML use cases and learnings from designing ML systems. |
-|[.]() | |
+|[orca-math-word-problems-200k .](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k) |This dataset contains ~200K grade school math word problems. All the answers in this dataset is generated using Azure GPT4-Turbo. Please refer to Orca-Math: Unlocking the potential of SLMs in Grade School Math for details about the dataset construction. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,9 +119,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Is Synthetic Data the Key to AGI?.](https://digitalspirits.substack.com/p/is-synthetic-data-the-key-to-agi) |The caliber of training data has a major impact on how effective large language models are. By 2027, projections indicate that there will be a shortage of high-quality data. A possible answer to this problem is synthetic data generation, which could change internet business models and emphasize the significance of fair data access and antitrust laws.|
 |[AI Research Internship Search as a CS PhD Student.](https://newsletter.yongzx.io/p/ai-research-internship-search-as) | Tips and thoughts from my relatively successful summer research internship hunt during third-year Computer Science PhD study.|
 |[How AI Could Disrupt Hollywood.](https://www.vanityfair.com/news/ai-hollywood-letter-from-la) |New platforms and tools may allow a person to create a feature-length film from their living room. But can they really compete with the studios? |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Training great LLMs entirely from ground zero in the wilderness as a startup.](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness) |Reka's creator and well-known GPU critic Yi Tay detailed their experience building very powerful language models outside of Google in a blog post. The primary obstacles stem from hardware instability and cluster issues. They also had difficulties with software maturity. |
+|[Claude 3 Is The Most Human AI Yet.](https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet) | Anthropic's Claude 3, a large language model similar to GPT-4, is notable not so much for its cost-effectiveness or benchmark test results as for its distinctly human-like, creative, and naturalistic interaction quality. This represents a major breakthrough in AI's capacity to collaborate imaginatively with writers.|
+|[Licensing AI Means Licensing the Whole Economy.](https://www.fromthenew.world/p/licensing-ai-means-licensing-the) | AI is a vast process employing statistical approaches, and it would be impractical to control its use across all organizations. Therefore, regulating AI like a tangible commodity is incorrect. Given AI's imminent economic ubiquity, targeted regulation for particular misuses—akin to current strategies for programming or email abuses—is more successful.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
