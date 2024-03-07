@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Le Chat.](https://mistral.ai/news/le-chat-mistral/) | Using its Mistral models, Mistral AI has introduced 'le Chat Mistral,' a new multilingual conversational assistant with an enterprise edition for companies.|
 |[Neuralink brain chip: advance sparks safety and secrecy concerns.](https://www.nature.com/articles/d41586-024-00550-6) | Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.
 |
-|[.]() | |
+|[Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms.](https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets) | Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Licensing AI Means Licensing the Whole Economy.](https://www.fromthenew.world/p/licensing-ai-means-licensing-the) | AI is a vast process employing statistical approaches, and it would be impractical to control its use across all organizations. Therefore, regulating AI like a tangible commodity is incorrect. Given AI's imminent economic ubiquity, targeted regulation for particular misuses—akin to current strategies for programming or email abuses—is more successful.|
 |[Is ChatGPT making scientists hyper-productive? The highs and lows of using AI.](https://www.nature.com/articles/d41586-024-00592-w) |Large language models are transforming scientific writing and publishing. But the productivity boost that these tools bring could have a downside. |
 |[Artificial intelligence and illusions of understanding in scientific research.](https://www.nature.com/articles/s41586-024-07146-0) |Why are AI tools so attractive and what are the risks of implementing them across the research pipeline? Here we develop a taxonomy of scientists’ visions for AI, observing that their appeal comes from promises to improve productivity and objectivity by overcoming human shortcomings. |
-|[.]() | |
+|[AI will likely increase energy use and accelerate climate misinformation – report.](https://www.theguardian.com/technology/2024/mar/07/ai-climate-change-energy-disinformation-report) | Claims that artificial intelligence will help solve the climate crisis are misguided, warns a coalition of environmental groups|
 |[.]() | |
 |[.]() | |
 |[.]() | |
