@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral x Snowflake.](https://www.snowflake.com/news/snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex/) | Snowflake, the Data Cloud company, and Mistral AI, one of Europe’s leading providers of AI solutions, today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake customers in the Data Cloud.|
 |[Moondream 2 small vision language model.](https://moondream.ai/) | Moondream is a tiny language model built on SigLIP and Phi-2. The benchmark performance has been much enhanced in this second edition, which is licensed for commercial use. It is perfect for describing visuals and operating on low-end computing hardware.|
 |[Driverless startup Waymo to test self-driving vehicles with no human driver in Austin.](https://eu.statesman.com/story/business/technology/2024/03/05/waymo-to-test-self-driving-vehicles-without-human-driver-in-austin/72855110007/) |Autonomous vehicle company Waymo will begin testing driverless cars, with no human behind the wheel, in Austin, starting Wednesday. |
-|[.]() | |
-|[.]() | |
+|[Google brings Stack Overflow’s knowledge base to Gemini for Google Cloud.](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/) |Developer Q&A site Stack Overflow is launching a new program today that will give AI companies access to its knowledge base through a new API, aptly named OverflowAPI. |
+|[Brave’s Leo AI assistant is now available to Android users.](https://techcrunch.com/2024/02/29/braves-leo-ai-assistant-is-now-available-to-android-users/) |Brave is launching its AI-powered assistant, Leo, to all Android users. The assistant allows users to ask questions, translate pages, summarize pages, create content and more. The Android launch comes a few months after Brave first launched Leo on desktop. Brave says Leo will be available on iOS devices in the coming weeks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
