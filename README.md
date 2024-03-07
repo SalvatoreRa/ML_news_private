@@ -90,6 +90,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Neuralink brain chip: advance sparks safety and secrecy concerns.](https://www.nature.com/articles/d41586-024-00550-6) | Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.
 |
 |[Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms.](https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets) | Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account|
+|[Mistral x Snowflake.](https://www.snowflake.com/news/snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex/) | Snowflake, the Data Cloud company, and Mistral AI, one of Europe’s leading providers of AI solutions, today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake customers in the Data Cloud.|
+|[Moondream 2 small vision language model.](https://moondream.ai/) | Moondream is a tiny language model built on SigLIP and Phi-2. The benchmark performance has been much enhanced in this second edition, which is licensed for commercial use. It is perfect for describing visuals and operating on low-end computing hardware.|
+|[Driverless startup Waymo to test self-driving vehicles with no human driver in Austin.](https://eu.statesman.com/story/business/technology/2024/03/05/waymo-to-test-self-driving-vehicles-without-human-driver-in-austin/72855110007/) |Autonomous vehicle company Waymo will begin testing driverless cars, with no human behind the wheel, in Austin, starting Wednesday. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
