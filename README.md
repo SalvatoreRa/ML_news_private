@@ -87,7 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI and Elon Musk.](https://openai.com/blog/openai-elon-musk) | In response to Elon Musk's complaint, OpenAI provided screenshots of emails between Elon Musk, Greg Brockman, Sam Altman, and Ilya Sutskever, as well as their version of events. According to the receipts, Musk thought there was little hope for OpenAI to succeed and agreed that some models should be closed source.|
 |[Perplexity AI Reportedly Raising Additional Money At Significantly Higher Valuation Cap Than $520M.](https://www.benzinga.com/news/24/02/37412558/watch-out-google-openai-perplexity-ai-reportedly-raising-additional-money-at-significantly-higher-va) | Perplexity AI, a rising star in the field of artificial intelligence, is reportedly in discussions to secure additional funding at a valuation significantly higher than its previous round.|
 |[Le Chat.](https://mistral.ai/news/le-chat-mistral/) | Using its Mistral models, Mistral AI has introduced 'le Chat Mistral,' a new multilingual conversational assistant with an enterprise edition for companies.|
-|[.]() | |
+|[Neuralink brain chip: advance sparks safety and secrecy concerns.](https://www.nature.com/articles/d41586-024-00550-6) | Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,6 +127,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Training great LLMs entirely from ground zero in the wilderness as a startup.](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness) |Reka's creator and well-known GPU critic Yi Tay detailed their experience building very powerful language models outside of Google in a blog post. The primary obstacles stem from hardware instability and cluster issues. They also had difficulties with software maturity. |
 |[Claude 3 Is The Most Human AI Yet.](https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet) | Anthropic's Claude 3, a large language model similar to GPT-4, is notable not so much for its cost-effectiveness or benchmark test results as for its distinctly human-like, creative, and naturalistic interaction quality. This represents a major breakthrough in AI's capacity to collaborate imaginatively with writers.|
 |[Licensing AI Means Licensing the Whole Economy.](https://www.fromthenew.world/p/licensing-ai-means-licensing-the) | AI is a vast process employing statistical approaches, and it would be impractical to control its use across all organizations. Therefore, regulating AI like a tangible commodity is incorrect. Given AI's imminent economic ubiquity, targeted regulation for particular misuses—akin to current strategies for programming or email abuses—is more successful.|
+|[Is ChatGPT making scientists hyper-productive? The highs and lows of using AI.](https://www.nature.com/articles/d41586-024-00592-w) |Large language models are transforming scientific writing and publishing. But the productivity boost that these tools bring could have a downside. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
