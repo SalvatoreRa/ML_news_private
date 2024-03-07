@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude 3 Is The Most Human AI Yet.](https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet) | Anthropic's Claude 3, a large language model similar to GPT-4, is notable not so much for its cost-effectiveness or benchmark test results as for its distinctly human-like, creative, and naturalistic interaction quality. This represents a major breakthrough in AI's capacity to collaborate imaginatively with writers.|
 |[Licensing AI Means Licensing the Whole Economy.](https://www.fromthenew.world/p/licensing-ai-means-licensing-the) | AI is a vast process employing statistical approaches, and it would be impractical to control its use across all organizations. Therefore, regulating AI like a tangible commodity is incorrect. Given AI's imminent economic ubiquity, targeted regulation for particular misuses—akin to current strategies for programming or email abuses—is more successful.|
 |[Is ChatGPT making scientists hyper-productive? The highs and lows of using AI.](https://www.nature.com/articles/d41586-024-00592-w) |Large language models are transforming scientific writing and publishing. But the productivity boost that these tools bring could have a downside. |
-|[.]() | |
+|[Artificial intelligence and illusions of understanding in scientific research.](https://www.nature.com/articles/s41586-024-07146-0) |Why are AI tools so attractive and what are the risks of implementing them across the research pipeline? Here we develop a taxonomy of scientists’ visions for AI, observing that their appeal comes from promises to improve productivity and objectivity by overcoming human shortcomings. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
