@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[orca-math-word-problems-200k .](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k) |This dataset contains ~200K grade school math word problems. All the answers in this dataset is generated using Azure GPT4-Turbo. Please refer to Orca-Math: Unlocking the potential of SLMs in Grade School Math for details about the dataset construction. |
 |[mlx-swift-examples.](https://github.com/ml-explore/mlx-swift-examples) | Apple created the MLX framework, which is used to train AI models on Macs. This repository demonstrates how to use Swift for model training on mobile devices. An MNIST classifier model can be trained with just one on an iPhone.|
 |[Text Clustering.](https://github.com/huggingface/text-clustering) |A free and open source text clustering tool that makes it simple and rapid to embed, cluster, and semantically label clusters. On 100k samples, the full pipeline runs in 10 minutes. |
-|[.]() | |
+|[EasyLM.](https://github.com/young-geng/EasyLM) | Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. EasyLM can scale up LLM training to hundreds of TPU/GPU accelerators by leveraging JAX's pjit functionality.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,8 +142,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Is ChatGPT making scientists hyper-productive? The highs and lows of using AI.](https://www.nature.com/articles/d41586-024-00592-w) |Large language models are transforming scientific writing and publishing. But the productivity boost that these tools bring could have a downside. |
 |[Artificial intelligence and illusions of understanding in scientific research.](https://www.nature.com/articles/s41586-024-07146-0) |Why are AI tools so attractive and what are the risks of implementing them across the research pipeline? Here we develop a taxonomy of scientists’ visions for AI, observing that their appeal comes from promises to improve productivity and objectivity by overcoming human shortcomings. |
 |[AI will likely increase energy use and accelerate climate misinformation – report.](https://www.theguardian.com/technology/2024/mar/07/ai-climate-change-energy-disinformation-report) | Claims that artificial intelligence will help solve the climate crisis are misguided, warns a coalition of environmental groups|
-|[.]() | |
-|[.]() | |
+|[We Need Self-Driving Cars.](https://www.newcomer.co/p/we-need-self-driving-cars) | Anyone rooting against self-driving cars is cheering for tens of thousands of deaths, year after year. We shouldn’t be burning self-driving cars in the streets. We should be celebrating…|
+|[Subprime Intelligence.](https://www.wheresyoured.at/sam-altman-fried/) |Significant problems in OpenAI's Sora demonstrate the limitations of generative AI's comprehension. The technology presents both practical obstacles and revolutionary possibilities, as seen by its high computing needs and potential impact on the creative industry. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
