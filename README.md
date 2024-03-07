@@ -60,9 +60,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT.](https://github.com/YoucanBaby/VTG-GPT) |With natural language queries, VTG-GPT provides a revolutionary GPT-based technique that can precisely identify particular video segments without the need for fine-tuning or training. |
 |[MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training.](https://github.com/apple/ml-mobileclip) |With the same performance as OpenAI's original CLIP model, MobileClip operates seven times quicker. It may be utilized for a variety of language and visual activities on-device. |
 |[Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures.](https://arxiv.org/abs/2403.02308v1) | Vision-RWKV provides an effective solution for high-resolution image processing by modifying the RWKV architecture from NLP for use in vision challenges.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Design2Code: How Far Are We From Automating Front-End Engineering?](https://arxiv.org/abs/2403.03163) | It's hard to take pictures of a design and turn them into code. This study suggests an 18B model as a baseline and assessments imply that we are about there for performing this on basic designs. GPT-4V-generated code is sometimes preferred to human-synthesized code.|
+|[MathScale: Scaling Instruction Tuning for Mathematical Reasoning.](https://arxiv.org/abs/2403.02884) |Researchers created two million route issues using fake data. After training a 7B model, they discovered that it performed well when compared to the most advanced big language models. |
+|[Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos.](https://arxiv.org/abs/2403.02782v1) | The KEPP system offers a fresh method for organizing and carrying out difficult jobs. The approach, which makes use of a probabilistic knowledge network, enables the model to arrange activities in a logical way in order to accomplish a goal.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
