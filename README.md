@@ -114,6 +114,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open-Sora-Plan.](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
 |[ML system design: 300 case studies to learn from.](https://www.evidentlyai.com/ml-system-design) | We put together a database of 300 case studies from 80+ companies that share practical ML use cases and learnings from designing ML systems. |
 |[orca-math-word-problems-200k .](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k) |This dataset contains ~200K grade school math word problems. All the answers in this dataset is generated using Azure GPT4-Turbo. Please refer to Orca-Math: Unlocking the potential of SLMs in Grade School Math for details about the dataset construction. |
+|[mlx-swift-examples.](https://github.com/ml-explore/mlx-swift-examples) | Apple created the MLX framework, which is used to train AI models on Macs. This repository demonstrates how to use Swift for model training on mobile devices. An MNIST classifier model can be trained with just one on an iPhone.|
+|[Text Clustering.](https://github.com/huggingface/text-clustering) |A free and open source text clustering tool that makes it simple and rapid to embed, cluster, and semantically label clusters. On 100k samples, the full pipeline runs in 10 minutes. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
