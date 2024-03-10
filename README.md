@@ -67,10 +67,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[tinyBenchmarks: evaluating LLMs with fewer examples.](https://arxiv.org/abs/2402.14992) | In this paper, we investigate strategies to reduce the number of evaluations needed to assess the performance of an LLM on several key benchmarks. This work shows that you can reliably evaluate language model performance with as few as 100 examples from popular benchmarks.|
 |[3D Diffusion Policy.](https://3d-diffusion-policy.github.io/) | DP3 presents a novel method for imitation learning that effectively teaches robots difficult abilities by fusing diffusion strategies with 3D visual data.|
 |[Co-LLM: Learning to Decode Collaboratively with Multiple Language Models.](https://github.com/clinicalml/co-llm) |Using an innovative approach, multiple huge language models can collaborate by alternately producing text token by token. With the use of this tactic, models are better able to apply their distinct advantages and areas of competence to a variety of activities, including following instructions, answering questions related to a given domain, and solving reasoning-based problems. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() |  |
 
 ## News
 |Link|description|
@@ -97,9 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inflection-2.5.](https://inflection.ai/inflection-2-5) |A new model has been introduced by Inflection to power Pi, its personal assistant. The model achieves remarkable reasoning scores on benchmarks and performs within 94% of the GPT-4. In comparison to GPT-4, Inflection claims that training only required 40% of the compute. This post offers an intriguing discovery: a typical conversation with Pi lasts 33 minutes. |
 |[Cohere and Accenture Collaborate to Accelerate Enterprise AI Adoption.](https://txt.cohere.com/cohere-accenture-collaborate/) | Cohere and Accenture are working together to provide over 9,000 enterprise clients with cohere embedding technology.|
 |[Microsoft’s Mistral deal beefs up Azure without spurning OpenAI.](https://www.theverge.com/24087008/microsoft-mistral-openai-azure-europe) | Microsoft investing in Mistral puts the focus on its Azure model offerings.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -123,11 +117,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Multi-Head Attention Implementations.](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch03/02_bonus_efficient-multihead-attention/mha-implementations.ipynb) |Different implementations of the widely used multi-headed attention module in contemporary LLMs varied in speed by over ten times. This notebook lists a handful and compares how well they perform. |
 |[US regulators investigate whether OpenAI investors were misled, say reports.](https://www.theguardian.com/business/2024/feb/29/us-regulators-investigate-whether-openai-investors-were-misled) | Internal communications from CEO Sam Altman reportedly under scrutiny in SEC inquiry|
 |[Microsoft introduces Copilot AI chatbot for finance workers in Excel and Outlook.](https://www.cnbc.com/2024/02/29/microsoft-introduces-copilot-ai-chatbot-for-finance-workers.html) | Microsoft is launching a Copilot for Finance, which it said will be able to perform a handful of common role-specific actions in Excel and Outlook.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -148,10 +137,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Subprime Intelligence.](https://www.wheresyoured.at/sam-altman-fried/) |Significant problems in OpenAI's Sora demonstrate the limitations of generative AI's comprehension. The technology presents both practical obstacles and revolutionary possibilities, as seen by its high computing needs and potential impact on the creative industry. |
 |[Sora, Groq, and Virtual Reality.](https://stratechery.com/2024/sora-groq-and-virtual-reality/) |A few years ago, Facebook's drive into the metaverse looked misguided, and the idea of the metaverse appeared like fiction from Ernest Cline's novel. Things feel different now. Groq's deterministic circuits streamline machine-learning algorithms for quicker processing, while Sora creates intricate video situations. The combination of these developments brings us one step closer to real-time video simulation and full-fledged virtual reality. |
 |[AI Is Like Water.](https://www.nfx.com/post/ai-like-water) | For GenAI companies to have a competitive advantage, technology alone is no longer sufficient. This means that since the basic product is virtually the same, GenAI and bottled water are comparable. The primary differentiators need to originate from elements like distribution, user experience, perceived customer value, branding, and marketing.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ML news: Week 26 February - 3 March
