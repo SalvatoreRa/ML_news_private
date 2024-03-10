@@ -64,9 +64,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MathScale: Scaling Instruction Tuning for Mathematical Reasoning.](https://arxiv.org/abs/2403.02884) |Researchers created two million route issues using fake data. After training a 7B model, they discovered that it performed well when compared to the most advanced big language models. |
 |[Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos.](https://arxiv.org/abs/2403.02782v1) | The KEPP system offers a fresh method for organizing and carrying out difficult jobs. The approach, which makes use of a probabilistic knowledge network, enables the model to arrange activities in a logical way in order to accomplish a goal.|
 |[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents.](https://www.zjukg.org/project/KnowAgent/) | KnowAgent presents an innovative method for enhancing the planning abilities of big language models through the incorporation of explicit action information. The method leads LLMs through more rational planning trajectories, which improves their performance on challenging tasks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[tinyBenchmarks: evaluating LLMs with fewer examples.](https://arxiv.org/abs/2402.14992) | In this paper, we investigate strategies to reduce the number of evaluations needed to assess the performance of an LLM on several key benchmarks. This work shows that you can reliably evaluate language model performance with as few as 100 examples from popular benchmarks.|
+|[3D Diffusion Policy.](https://3d-diffusion-policy.github.io/) | DP3 presents a novel method for imitation learning that effectively teaches robots difficult abilities by fusing diffusion strategies with 3D visual data.|
+|[Co-LLM: Learning to Decode Collaboratively with Multiple Language Models.](https://github.com/clinicalml/co-llm) |Using an innovative approach, multiple huge language models can collaborate by alternately producing text token by token. With the use of this tactic, models are better able to apply their distinct advantages and areas of competence to a variety of activities, including following instructions, answering questions related to a given domain, and solving reasoning-based problems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,17 +87,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI and Elon Musk.](https://openai.com/blog/openai-elon-musk) | In response to Elon Musk's complaint, OpenAI provided screenshots of emails between Elon Musk, Greg Brockman, Sam Altman, and Ilya Sutskever, as well as their version of events. According to the receipts, Musk thought there was little hope for OpenAI to succeed and agreed that some models should be closed source.|
 |[Perplexity AI Reportedly Raising Additional Money At Significantly Higher Valuation Cap Than $520M.](https://www.benzinga.com/news/24/02/37412558/watch-out-google-openai-perplexity-ai-reportedly-raising-additional-money-at-significantly-higher-va) | Perplexity AI, a rising star in the field of artificial intelligence, is reportedly in discussions to secure additional funding at a valuation significantly higher than its previous round.|
 |[Le Chat.](https://mistral.ai/news/le-chat-mistral/) | Using its Mistral models, Mistral AI has introduced 'le Chat Mistral,' a new multilingual conversational assistant with an enterprise edition for companies.|
-|[Neuralink brain chip: advance sparks safety and secrecy concerns.](https://www.nature.com/articles/d41586-024-00550-6) | Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.
-|
+|[Neuralink brain chip: advance sparks safety and secrecy concerns.](https://www.nature.com/articles/d41586-024-00550-6) | Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.|
 |[Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms.](https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets) | Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account|
 |[Mistral x Snowflake.](https://www.snowflake.com/news/snowflake-partners-with-mistral-ai-to-bring-industry-leading-language-models-to-enterprises-through-snowflake-cortex/) | Snowflake, the Data Cloud company, and Mistral AI, one of Europe’s leading providers of AI solutions, today announced a global partnership to bring Mistral AI’s most powerful language models directly to Snowflake customers in the Data Cloud.|
 |[Moondream 2 small vision language model.](https://moondream.ai/) | Moondream is a tiny language model built on SigLIP and Phi-2. The benchmark performance has been much enhanced in this second edition, which is licensed for commercial use. It is perfect for describing visuals and operating on low-end computing hardware.|
 |[Driverless startup Waymo to test self-driving vehicles with no human driver in Austin.](https://eu.statesman.com/story/business/technology/2024/03/05/waymo-to-test-self-driving-vehicles-without-human-driver-in-austin/72855110007/) |Autonomous vehicle company Waymo will begin testing driverless cars, with no human behind the wheel, in Austin, starting Wednesday. |
 |[Google brings Stack Overflow’s knowledge base to Gemini for Google Cloud.](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/) |Developer Q&A site Stack Overflow is launching a new program today that will give AI companies access to its knowledge base through a new API, aptly named OverflowAPI. |
 |[Brave’s Leo AI assistant is now available to Android users.](https://techcrunch.com/2024/02/29/braves-leo-ai-assistant-is-now-available-to-android-users/) |Brave is launching its AI-powered assistant, Leo, to all Android users. The assistant allows users to ask questions, translate pages, summarize pages, create content and more. The Android launch comes a few months after Brave first launched Leo on desktop. Brave says Leo will be available on iOS devices in the coming weeks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Inflection-2.5.](https://inflection.ai/inflection-2-5) |A new model has been introduced by Inflection to power Pi, its personal assistant. The model achieves remarkable reasoning scores on benchmarks and performs within 94% of the GPT-4. In comparison to GPT-4, Inflection claims that training only required 40% of the compute. This post offers an intriguing discovery: a typical conversation with Pi lasts 33 minutes. |
+|[Cohere and Accenture Collaborate to Accelerate Enterprise AI Adoption.](https://txt.cohere.com/cohere-accenture-collaborate/) | Cohere and Accenture are working together to provide over 9,000 enterprise clients with cohere embedding technology.|
+|[Microsoft’s Mistral deal beefs up Azure without spurning OpenAI.](https://www.theverge.com/24087008/microsoft-mistral-openai-azure-europe) | Microsoft investing in Mistral puts the focus on its Azure model offerings.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,10 +116,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[mlx-swift-examples.](https://github.com/ml-explore/mlx-swift-examples) | Apple created the MLX framework, which is used to train AI models on Macs. This repository demonstrates how to use Swift for model training on mobile devices. An MNIST classifier model can be trained with just one on an iPhone.|
 |[Text Clustering.](https://github.com/huggingface/text-clustering) |A free and open source text clustering tool that makes it simple and rapid to embed, cluster, and semantically label clusters. On 100k samples, the full pipeline runs in 10 minutes. |
 |[EasyLM.](https://github.com/young-geng/EasyLM) | Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. EasyLM can scale up LLM training to hundreds of TPU/GPU accelerators by leveraging JAX's pjit functionality.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[You can now train a 70b language model at home.](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) |Today, we’re releasing Answer.AI’s first project: a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090). This system, which combines FSDP and QLoRA, is the result of a collaboration between Answer.AI, Tim Dettmers (U Washington), and Hugging Face’s Titus von Koeller and Sourab Mangrulkar. |
+|[Training Models at Scale.](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/scaling/JAX/overview.html?utm_source=tldrai) |The goal of this tutorial is to provide a comprehensive overview of techniques and strategies used for scaling deep learning models, and to provide a hands-on guide to implement these strategies from scratch in JAX with Flax using shard_map.  |
+|[Genstruct 7B.](https://huggingface.co/NousResearch/Genstruct-7B) |Genstruct 7B is an instruction-generation model, designed to create valid instructions given a raw text corpus. This enables the creation of new, partially synthetic instruction finetuning datasets from any raw-text corpus. |
+|[Fructose.](https://github.com/bananaml/fructose) |Fructose is a python package to create a dependable, strongly-typed interface around an LLM call. |
+|[Efficient Multi-Head Attention Implementations.](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch03/02_bonus_efficient-multihead-attention/mha-implementations.ipynb) |Different implementations of the widely used multi-headed attention module in contemporary LLMs varied in speed by over ten times. This notebook lists a handful and compares how well they perform. |
+|[US regulators investigate whether OpenAI investors were misled, say reports.](https://www.theguardian.com/business/2024/feb/29/us-regulators-investigate-whether-openai-investors-were-misled) | Internal communications from CEO Sam Altman reportedly under scrutiny in SEC inquiry|
+|[Microsoft introduces Copilot AI chatbot for finance workers in Excel and Outlook.](https://www.cnbc.com/2024/02/29/microsoft-introduces-copilot-ai-chatbot-for-finance-workers.html) | Microsoft is launching a Copilot for Finance, which it said will be able to perform a handful of common role-specific actions in Excel and Outlook.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,8 +146,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI will likely increase energy use and accelerate climate misinformation – report.](https://www.theguardian.com/technology/2024/mar/07/ai-climate-change-energy-disinformation-report) | Claims that artificial intelligence will help solve the climate crisis are misguided, warns a coalition of environmental groups|
 |[We Need Self-Driving Cars.](https://www.newcomer.co/p/we-need-self-driving-cars) | Anyone rooting against self-driving cars is cheering for tens of thousands of deaths, year after year. We shouldn’t be burning self-driving cars in the streets. We should be celebrating…|
 |[Subprime Intelligence.](https://www.wheresyoured.at/sam-altman-fried/) |Significant problems in OpenAI's Sora demonstrate the limitations of generative AI's comprehension. The technology presents both practical obstacles and revolutionary possibilities, as seen by its high computing needs and potential impact on the creative industry. |
-|[.]() | |
-|[.]() | |
+|[Sora, Groq, and Virtual Reality.](https://stratechery.com/2024/sora-groq-and-virtual-reality/) |A few years ago, Facebook's drive into the metaverse looked misguided, and the idea of the metaverse appeared like fiction from Ernest Cline's novel. Things feel different now. Groq's deterministic circuits streamline machine-learning algorithms for quicker processing, while Sora creates intricate video situations. The combination of these developments brings us one step closer to real-time video simulation and full-fledged virtual reality. |
+|[AI Is Like Water.](https://www.nfx.com/post/ai-like-water) | For GenAI companies to have a competitive advantage, technology alone is no longer sufficient. This means that since the basic product is virtually the same, GenAI and bottled water are comparable. The primary differentiators need to originate from elements like distribution, user experience, perceived customer value, branding, and marketing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
