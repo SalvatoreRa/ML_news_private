@@ -60,9 +60,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI announces new members to board of directors.](https://openai.com/blog/openai-announces-new-members-to-board-of-directors) |Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board |
 |[So long and thanks for all the pixels: Nvidia reportedly retiring the GTX brand for good.](https://www.pcgamer.com/hardware/graphics-cards/so-long-and-thanks-for-all-the-pixels-nvidia-reportedly-retiring-the-gtx-brand-for-good/) | Nvidia has stopped producing GPUs based on its Turing architecture. The last of them included the likes of the GTX 1660, 1650 and 1630 series of GPUs. Once remaining stocks sell, they'll be gone and with them the "GTX" brand itself, leaving all Nvidia gaming graphics cards as "RTX" models.|
 |[Google’s upcoming Tensor G4 Chip set to rival Snapdragon 8 Gen 4 and Apple A18 Pro.](https://www.gizmochina.com/2024/03/07/google-tensor-g4-chip-performance/) | Let’s say you’re a smartphone manufacturer aiming to develop a new model. You have two options: partner with an established chipmaker like Qualcomm or MediaTek, or follow the path of Apple by designing your own custom chipset.Google has taken a similar approach, developing its in house Tensor processors. Recent information suggests the Pixel 9 will feature the Tensor G4 chipset, promising improved heat and power management for an enhanced user experience. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Yi: Open Foundation Models by 01.AI.](https://arxiv.org/abs/2403.04652) |One of the most potent open language models for a long time has been the Yi model. The group has published a document that offers significant new information about how they gather data and train employees. |
+|[From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models.](https://arxiv.org/abs/2403.03893v1) | This research uses translation to enhance safety measures in situations when direct data is not available, so taking on the task of minimizing dangerous material in AI across many languages.|
+|[Plum: Prompt Learning using Metaheuristic.](https://arxiv.org/abs/2311.08364v1) |In this research, a broad class of more than 100 discrete optimization techniques known as metaheuristics is presented as a potent tool for enhancing rapid learning in big language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
