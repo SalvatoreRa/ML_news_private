@@ -65,8 +65,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s upcoming Tensor G4 Chip set to rival Snapdragon 8 Gen 4 and Apple A18 Pro.](https://www.gizmochina.com/2024/03/07/google-tensor-g4-chip-performance/) | Let’s say you’re a smartphone manufacturer aiming to develop a new model. You have two options: partner with an established chipmaker like Qualcomm or MediaTek, or follow the path of Apple by designing your own custom chipset.Google has taken a similar approach, developing its in house Tensor processors. Recent information suggests the Pixel 9 will feature the Tensor G4 chipset, promising improved heat and power management for an enhanced user experience. |
 |[Microsoft may debut its first 'AI PCs' later this month.](https://www.engadget.com/microsoft-may-debut-its-first-ai-pcs-later-this-month-204522580.html) |A report suggests an OLED Surface Pro 10 and Surface Laptop 6 are imminent. |
 |[Looks like we may now know which OpenAI execs flagged concerns about Sam Altman before his ouster.](https://www.businessinsider.com/openai-cto-mira-murati-concerns-sam-altman-ouster-nyt-2024-3) | Two OpenAI execs raised concerns about Sam Altman before his ouster, The New York Times reported. The outlet reported that the company's chief technology officer, Mira Murati, played a key role. Altman returned as CEO in days, leaving many unanswered questions about what happened.|
-|[.]() | |
-|[.]() | |
+|[Cloudflare announces Firewall for AI.](https://blog.cloudflare.com/firewall-for-ai/) |Today, Cloudflare is announcing the development of Firewall for AI, a protection layer that can be deployed in front of Large Language Models (LLMs) to identify abuses before they reach the models. |
+|[Google announces they are tackling spammy, low-quality content on Search.]() |We’re making algorithmic enhancements to our core ranking systems to ensure we surface the most helpful information on the web and reduce unoriginal content in search results. We’re updating our spam policies to keep the lowest-quality content out of Search, like expired websites repurposed as spam repositories by new owners and obituary spam. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Retrieval-Augmented Generation for AI-Generated Content: A Survey.](https://arxiv.org/abs/2402.19473v1) | gives a summary of RAG's application in several generating contexts, such as code, images, and audio, and includes a taxonomy of RAG upgrades along with citations to important works. |
 |[Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models.](https://arxiv.org/abs/2402.17177v2) | Based on public technical reports and reverse engineering, this paper presents a comprehensive review of the model's background, related technologies, applications, remaining challenges, and future directions of text-to-video AI models. |
 |[SaulLM-7B: A pioneering Large Language Model for Law.](https://arxiv.org/abs/2403.03883) | With 7 billion parameters, SaulLM-7B is the first LLM designed explicitly for legal text comprehension and generation. Leveraging the Mistral 7B architecture as its foundation, SaulLM-7B is trained on an English legal corpus of over 30 billion tokens. |
-|[.]() | |
+|[A Practical Guide to RAG Pipeline Evaluation (Part 1: Retrieval).](https://medium.com/relari/a-practical-guide-to-rag-pipeline-evaluation-part-1-27a472b09893) | Retrieval is a critical and complex subsystem of the RAG pipelines. After all, the LLM output is only as good as the information you provide it, unless your App relies solely on the training data of the LLM. The core is measuring retrieval is assessing whether each of the retrieved results is relevant for a given query. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
