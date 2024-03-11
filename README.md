@@ -81,6 +81,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[You can now train a 70b language model at home.](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) |a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090). This system, which combines FSDP and QLoRA, is the result of a collaboration between Answer.AI, Tim Dettmers (U Washington), and Hugging Face’s Titus von Koeller and Sourab Mangrulkar. |
 |[Retrieval-Augmented Generation for AI-Generated Content: A Survey.](https://arxiv.org/abs/2402.19473v1) | gives a summary of RAG's application in several generating contexts, such as code, images, and audio, and includes a taxonomy of RAG upgrades along with citations to important works. |
 |[Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models.](https://arxiv.org/abs/2402.17177v2) | Based on public technical reports and reverse engineering, this paper presents a comprehensive review of the model's background, related technologies, applications, remaining challenges, and future directions of text-to-video AI models. |
+|[SaulLM-7B: A pioneering Large Language Model for Law.](https://arxiv.org/abs/2403.03883) | With 7 billion parameters, SaulLM-7B is the first LLM designed explicitly for legal text comprehension and generation. Leveraging the Mistral 7B architecture as its foundation, SaulLM-7B is trained on an English legal corpus of over 30 billion tokens. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
