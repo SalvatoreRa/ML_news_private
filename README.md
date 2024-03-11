@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ViewFusion: Towards Multi-View Consistency via Interpolated Denoising.](https://wi-sc.github.io/ViewFusion.github.io/) | A new technique called ViewFusion aims to enhance the way diffusion models produce images from fresh angles while maintaining the consistency of the images from one view to another.|
 |[Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap.](https://arxiv.org/abs/2402.19450) | reveals that there is a reasoning gap between the current models and the proposed functional benchmarks for evaluating the reasoning abilities of LLMs, ranging from 58.35% to 80.31%. However, the authors also note that these gaps can be closed with more advanced prompting techniques.|
 |[Can Large Language Models Reason and Plan?](https://arxiv.org/abs/2403.04121) |The subject of thinking and planning for LLMs is covered in a recent position paper. The following is an overview of the author's findings: In summary, I don't have any strong evidence from anything I've read, checked, or done to suggest that LLMs engage in typical reasoning or planning. Instead, they use web-scale training to perform a type of universal approximate retrieval, which is sometimes confused for reasoning abilities, as I have explained." |
-|[.]() | |
+|[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents.](https://arxiv.org/abs/2403.03101) | we introduce KnowAgent, a novel approach designed to enhance the planning capabilities of LLMs by incorporating explicit action knowledge. Specifically, KnowAgent employs an action knowledge base and a knowledgeable self-learning strategy to constrain the action path during planning, enabling more reasonable trajectory synthesis, and thereby enhancing the planning performance of language agents.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[DeepSpeed-FP6: The Power of FP6-Centric Serving for Large Language Models.](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024) | A recent upgrade to Microsoft's robust DeepSpeed training package lets models use up to six bits per parameter. This can expedite inference by a factor of more than two.|
 |[You can now train a 70b language model at home.](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) |a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090). This system, which combines FSDP and QLoRA, is the result of a collaboration between Answer.AI, Tim Dettmers (U Washington), and Hugging Face’s Titus von Koeller and Sourab Mangrulkar. |
-|[.]() | |
-|[.]() | |
+|[Retrieval-Augmented Generation for AI-Generated Content: A Survey.](https://arxiv.org/abs/2402.19473v1) | gives a summary of RAG's application in several generating contexts, such as code, images, and audio, and includes a taxonomy of RAG upgrades along with citations to important works. |
+|[Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models.](https://arxiv.org/abs/2402.17177v2) | Based on public technical reports and reverse engineering, this paper presents a comprehensive review of the model's background, related technologies, applications, remaining challenges, and future directions of text-to-video AI models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
