@@ -41,7 +41,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Yi: Open Foundation Models by 01.AI.](https://arxiv.org/abs/2403.04652) |One of the most potent open language models for a long time has been the Yi model. The group has published a document that offers significant new information about how they gather data and train employees. |
+|[From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models.](https://arxiv.org/abs/2403.03893v1) | This research uses translation to enhance safety measures in situations when direct data is not available, so taking on the task of minimizing dangerous material in AI across many languages.|
+|[Plum: Prompt Learning using Metaheuristic.](https://arxiv.org/abs/2311.08364v1) |In this research, a broad class of more than 100 discrete optimization techniques known as metaheuristics is presented as a potent tool for enhancing rapid learning in big language models. |
+|[ViewFusion: Towards Multi-View Consistency via Interpolated Denoising.](https://wi-sc.github.io/ViewFusion.github.io/) | A new technique called ViewFusion aims to enhance the way diffusion models produce images from fresh angles while maintaining the consistency of the images from one view to another.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -60,9 +63,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI announces new members to board of directors.](https://openai.com/blog/openai-announces-new-members-to-board-of-directors) |Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board |
 |[So long and thanks for all the pixels: Nvidia reportedly retiring the GTX brand for good.](https://www.pcgamer.com/hardware/graphics-cards/so-long-and-thanks-for-all-the-pixels-nvidia-reportedly-retiring-the-gtx-brand-for-good/) | Nvidia has stopped producing GPUs based on its Turing architecture. The last of them included the likes of the GTX 1660, 1650 and 1630 series of GPUs. Once remaining stocks sell, they'll be gone and with them the "GTX" brand itself, leaving all Nvidia gaming graphics cards as "RTX" models.|
 |[Google’s upcoming Tensor G4 Chip set to rival Snapdragon 8 Gen 4 and Apple A18 Pro.](https://www.gizmochina.com/2024/03/07/google-tensor-g4-chip-performance/) | Let’s say you’re a smartphone manufacturer aiming to develop a new model. You have two options: partner with an established chipmaker like Qualcomm or MediaTek, or follow the path of Apple by designing your own custom chipset.Google has taken a similar approach, developing its in house Tensor processors. Recent information suggests the Pixel 9 will feature the Tensor G4 chipset, promising improved heat and power management for an enhanced user experience. |
-|[Yi: Open Foundation Models by 01.AI.](https://arxiv.org/abs/2403.04652) |One of the most potent open language models for a long time has been the Yi model. The group has published a document that offers significant new information about how they gather data and train employees. |
-|[From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models.](https://arxiv.org/abs/2403.03893v1) | This research uses translation to enhance safety measures in situations when direct data is not available, so taking on the task of minimizing dangerous material in AI across many languages.|
-|[Plum: Prompt Learning using Metaheuristic.](https://arxiv.org/abs/2311.08364v1) |In this research, a broad class of more than 100 discrete optimization techniques known as metaheuristics is presented as a potent tool for enhancing rapid learning in big language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[DeepSpeed-FP6: The Power of FP6-Centric Serving for Large Language Models.](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fp6/03-05-2024) | A recent upgrade to Microsoft's robust DeepSpeed training package lets models use up to six bits per parameter. This can expedite inference by a factor of more than two.|
+|[You can now train a 70b language model at home.](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) |a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090). This system, which combines FSDP and QLoRA, is the result of a collaboration between Answer.AI, Tim Dettmers (U Washington), and Hugging Face’s Titus von Koeller and Sourab Mangrulkar. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,9 +90,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Winning Strategies for Applied AI Companies.](https://medium.com/point-nine-news/winning-strategies-for-applied-ai-companies-f02cac0a6ad8) | Key Success Factors after reviewing over 70 companies that have raised at least $7M|
+|[AI startups require new strategies: This time it’s actually different.](https://longform.asmartbear.com/ai-startups/) | The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the Internet. Ignore this at your peril.|
+|[The GPT-4 barrier has finally been broken.]() | Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
