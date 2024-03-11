@@ -45,8 +45,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models.](https://arxiv.org/abs/2403.03893v1) | This research uses translation to enhance safety measures in situations when direct data is not available, so taking on the task of minimizing dangerous material in AI across many languages.|
 |[Plum: Prompt Learning using Metaheuristic.](https://arxiv.org/abs/2311.08364v1) |In this research, a broad class of more than 100 discrete optimization techniques known as metaheuristics is presented as a potent tool for enhancing rapid learning in big language models. |
 |[ViewFusion: Towards Multi-View Consistency via Interpolated Denoising.](https://wi-sc.github.io/ViewFusion.github.io/) | A new technique called ViewFusion aims to enhance the way diffusion models produce images from fresh angles while maintaining the consistency of the images from one view to another.|
-|[.]() | |
-|[.]() | |
+|[Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap.](https://arxiv.org/abs/2402.19450) | reveals that there is a reasoning gap between the current models and the proposed functional benchmarks for evaluating the reasoning abilities of LLMs, ranging from 58.35% to 80.31%. However, the authors also note that these gaps can be closed with more advanced prompting techniques.|
+|[Can Large Language Models Reason and Plan?](https://arxiv.org/abs/2403.04121) |The subject of thinking and planning for LLMs is covered in a recent position paper. The following is an overview of the author's findings: In summary, I don't have any strong evidence from anything I've read, checked, or done to suggest that LLMs engage in typical reasoning or planning. Instead, they use web-scale training to perform a type of universal approximate retrieval, which is sometimes confused for reasoning abilities, as I have explained." |
 |[.]() | |
 |[.]() | |
 |[.]() | |
