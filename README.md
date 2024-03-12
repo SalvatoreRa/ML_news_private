@@ -75,9 +75,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google announces they are tackling spammy, low-quality content on Search.]() |We’re making algorithmic enhancements to our core ranking systems to ensure we surface the most helpful information on the web and reduce unoriginal content in search results. We’re updating our spam policies to keep the lowest-quality content out of Search, like expired websites repurposed as spam repositories by new owners and obituary spam. |
 |[This week, xAI will open source Grok.](https://twitter.com/elonmusk/status/1767108624038449405) | Official tweet of Elon Musk |
 |[Covariant is building ChatGPT for robots.](https://techcrunch.com/2024/03/11/covariant-is-building-chatgpt-for-robots/) | The UC Berkeley spinout says its new AI platform can help robots think more like people. Covariant this week announced the launch of RFM-1 (Robotics Foundation Model 1).|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI solves huge problem holding back fusion power.](https://www.freethink.com/energy/nuclear-fusion-reactions) | Princeton researchers have trained an AI to predict and prevent a common problem arising during nuclear fusion reactions — and they think it might be able to solve other problems, too.|
+|[Midjourney bans all Stability AI employees over alleged data scraping.](https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage) |Midjourney blamed a near 24-hour service outage on ‘botnet-like activity’ from two accounts linked to the Stable Diffusion creator. |
+|[Microsoft compares The New York Times’ claims against OpenAI to Hollywood’s early fight against VCR.](/www.cnbc.com/2024/03/05/microsoft-seeks-dismissal-parts-of-new-york-times-suit-against-openai.html) |Microsoft is helping OpenAI fight back against claims of copyright infringement by The New York Times. The news outlet’s lawsuit, filed in December, seeks to hold Microsoft and OpenAI accountable for billions of dollars in damages. In a court filing on Monday, Microsoft accuses the publisher of “unsubstantiated” claims that use of OpenAI’s technology is harming its business.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Practical Guide to RAG Pipeline Evaluation (Part 1: Retrieval).](https://medium.com/relari/a-practical-guide-to-rag-pipeline-evaluation-part-1-27a472b09893) | Retrieval is a critical and complex subsystem of the RAG pipelines. After all, the LLM output is only as good as the information you provide it, unless your App relies solely on the training data of the LLM. The core is measuring retrieval is assessing whether each of the retrieved results is relevant for a given query. |
 |[C4AI Command-R.](https://huggingface.co/CohereForAI/c4ai-command-r-v01) |C4AI Command-R is a research release of a 35 billion parameter highly performant generative model. Command-R is a large language model with open weights optimized for a variety of use cases including reasoning, summarization, and question answering. Command-R has the capability for multilingual generation evaluated in 10 languages and highly performant RAG capabilities. |
 |[Artificial Intelligence Controller Interface (AICI).](https://github.com/microsoft/aici) |The Artificial Intelligence Controller Interface (AICI) lets you build Controllers that constrain and direct output of a Large Language Model (LLM) in real time. Controllers are flexible programs capable of implementing constrained decoding, dynamic editing of prompts and generated text, and coordinating execution across multiple, parallel generations.  |
-|[.]() | |
+|[US Public Domain Books (English).](https://huggingface.co/datasets/storytracer/US-PD-Books) | This dataset contains more than 650,000 English books (~ 61 billion words) presumed to be in the public domain in the US which were digitised by the Internet Archive and catalogued as part of the Open Library project. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
