@@ -67,6 +67,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Looks like we may now know which OpenAI execs flagged concerns about Sam Altman before his ouster.](https://www.businessinsider.com/openai-cto-mira-murati-concerns-sam-altman-ouster-nyt-2024-3) | Two OpenAI execs raised concerns about Sam Altman before his ouster, The New York Times reported. The outlet reported that the company's chief technology officer, Mira Murati, played a key role. Altman returned as CEO in days, leaving many unanswered questions about what happened.|
 |[Cloudflare announces Firewall for AI.](https://blog.cloudflare.com/firewall-for-ai/) |Today, Cloudflare is announcing the development of Firewall for AI, a protection layer that can be deployed in front of Large Language Models (LLMs) to identify abuses before they reach the models. |
 |[Google announces they are tackling spammy, low-quality content on Search.]() |We’re making algorithmic enhancements to our core ranking systems to ensure we surface the most helpful information on the web and reduce unoriginal content in search results. We’re updating our spam policies to keep the lowest-quality content out of Search, like expired websites repurposed as spam repositories by new owners and obituary spam. |
+|[This week, xAI will open source Grok.](https://twitter.com/elonmusk/status/1767108624038449405) | Official tweet of Elon Musk |
+|[Covariant is building ChatGPT for robots.](https://techcrunch.com/2024/03/11/covariant-is-building-chatgpt-for-robots/) | The UC Berkeley spinout says its new AI platform can help robots think more like people. Covariant this week announced the launch of RFM-1 (Robotics Foundation Model 1).|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
