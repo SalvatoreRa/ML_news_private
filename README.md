@@ -51,9 +51,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation.](https://arxiv.org/abs/2403.05056v1) | The new Stealing Stable Diffusion (SSD) method improves monocular depth estimate performance in challenging settings such as low light or wet ones.|
 |[VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models.](https://videoelevator.github.io/) |Using the advantages of text-to-image models, VideoElevator presents a unique method that improves text-to-video diffusion models. Videos with better frame quality and text alignment are produced by dividing the improvement process into two parts: fine-tuning temporal motion and improving spatial quality. This is known as the plug-and-play approach. |
 |[Face2Diffusion for Fast and Editable Face Personalization.](https://mapooon.github.io/Face2DiffusionPage/) | Gaussian Splatting is combined with 3D mesh geometry in SplattingAvatar to create vibrant virtual humans, introducing a novel method for producing lifelike virtual humans. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Stealing Part of a Production Language Model.](https://arxiv.org/abs/2403.06634) |By leveraging their public APIs, you may obtain parts of closed language models—like the embeddings layer—for free. A simple budget of less than $2,000 may do this. |
+|[Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling.](https://caduceus-dna.github.io/) |DNA sequence prediction model developed on the Transformer rival Mamba platform. For a little model, it is incredibly powerful and efficient. |
+|[V3D: Video Diffusion Models are Effective 3D Generators.](https://heheyas.github.io/V3D/) |In order to improve 3D object production, this research presents a revolutionary method that creates detailed, high-quality objects from a single photograph. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
