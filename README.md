@@ -60,8 +60,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -81,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Devin, the first AI software engineer.](https://www.cognition-labs.com/blog) | Devin, a new system from Cognition, receives a 14% on the difficult SWE-Bench benchmark, which evaluates AI's capacity for writing code. GPT-4 received a 1.7% score. This model demonstrates excellent contextual learning skills.|
 |[Building Meta’s GenAI Infrastructure.](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/) |The Llama 3 training infrastructure is described in this Meta blog article. It covers networking, storage, Pytorch, NCCL, and many enhancements. This will prepare the way for Meta's H100s to go online throughout the course of the remaining months of this year. |
 |[Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application.](https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/) |Pi differentiates itself by aiming to create software that can be applied across a wide range of robotics hardware. |
-|[.]() | |
-|[.]() | |
+|[Researchers create AI worms that can spread from one system to another.](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/) |Worms could potentially steal data and deploy malware. Now, in a demonstration of the risks of connected, autonomous AI ecosystems, a group of researchers has created one of what they claim are the first generative AI worms—which can spread from one system to another, potentially stealing data or deploying malware in the process.|
+|[Perplexity brings Yelp data to its chatbot.](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai) |Perplexity’s responses can source multiple Yelp reviews for that cafe you were considering, along with location data and other information. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,6 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artificial Intelligence Controller Interface (AICI).](https://github.com/microsoft/aici) |The Artificial Intelligence Controller Interface (AICI) lets you build Controllers that constrain and direct output of a Large Language Model (LLM) in real time. Controllers are flexible programs capable of implementing constrained decoding, dynamic editing of prompts and generated text, and coordinating execution across multiple, parallel generations.  |
 |[US Public Domain Books (English).](https://huggingface.co/datasets/storytracer/US-PD-Books) | This dataset contains more than 650,000 English books (~ 61 billion words) presumed to be in the public domain in the US which were digitised by the Internet Archive and catalogued as part of the Open Library project. |
 |[transformer-debugger.](https://github.com/openai/transformer-debugger) | Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.|
+|[VideoMamba.](https://github.com/opengvlab/videomamba) |VideoMamba is a technology that effectively manages global dependencies and local redundancy to tackle the challenges of video interpretation. |
+|[FastV.](https://github.com/pkunlp-icler/fastv) |FastV is a plug-and-play inference acceleration method for large vision language models relying on visual tokens. It could reach 45% theoretical FLOPs reduction without harming the performance through pruning redundant visual tokens in deep layers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,8 +123,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The GPT-4 barrier has finally been broken.]() | Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
 |[Embrace AI to break down barriers in publishing for people who aren’t fluent in English.](https://www.nature.com/articles/d41586-024-00761-x) |E. M. Wolkovich describes having a paper rejected because of an unfounded accusation that ChatGPT was used to write it.We think that both the rejection and the bias against the use of artificial intelligence (AI) in scientific writing are misguided. |
 |[Why scientists trust AI too much — and what to do about it.](https://www.nature.com/articles/d41586-024-00639-y) | Some researchers see superhuman qualities in artificial intelligence. All scientists need to be alert to the risks this creates.|
-|[.]() | |
-|[.]() | |
+|[The Future of Poetry.](https://medium.com/@sierraelman/the-future-of-poetry-26dabfc2f50a) |Questions about whether poems were authored by humans or artificial intelligence (AI) were given to 38 AI experts and 39 English experts. First prize went to The Human, followed by Bard, ChatGPT-4, and Claude in that order, for both writing quality and the ability to deceive respondents into thinking that the poetry were written by a human. The fact that English specialists were far better at identifying which poems were composed by AI suggests that they should be involved more in the development of upcoming AI systems. |
+|[Barack Obama on AI, free speech, and the future of the internet.](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The former president joined me on Decoder to discuss AI regulation, the First Amendment, and of course, what apps he has on his homescreen.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
