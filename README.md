@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Together AI $106M round of funding.](https://www.together.ai/blog/series-a2) | we’ve raised $106M in a new round of financing led by Salesforce Ventures with participation from Coatue, and existing investors.|
 |[Autonomous Vehicle Startup Applied Intuition Hits $6B Valuation After $250M Series E.](https://news.crunchbase.com/transportation/applied-intuition-valuation-autonomous-vehicle-startup-funding) |Autonomous vehicle software developer Applied Intuition locked up a $250 million Series E valuing the company at a $6 billion — a 67% uptick in value from its previous round. The deal comes even as venture funding for autonomous vehicle-related startups has been in decline in recent years. |
 |[OpenAI CTO Says It’s Releasing Sora This Year.](https://futurism.com/the-byte/openai-cto-releasing-sora-this-year) | But now, OpenAI chief technology officer Mira Murati told the Wall Street Journal that the company will publicly release Sora "later this year."|
-|[.]() | |
+|[Google now wants to limit the AI-powered search spam it helped create.](https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/) | Ranking update targets sites "created for search engines instead of people."|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Barack Obama on AI, free speech, and the future of the internet.](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The former president joined me on Decoder to discuss AI regulation, the First Amendment, and of course, what apps he has on his homescreen.|
 |[AI startups require new strategies: This time it’s actually different.](https://longform.asmartbear.com/ai-startups/) |The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the Internet. Ignore this at your peril. |
 |[Top AIs still fail IQ tests - When asked to read image-based questions.](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests) |According to recent testing, sophisticated AI models such as ChatGPT-4 and Google's "Gemini Advanced" do poorly on visual IQ tests, receiving lower than average scores. Although ChatGPT-4 exhibits mediocre pattern recognition abilities, it misidentifies objects visually and makes logical mistakes, indicating a considerable difference in comparison to human intellect. These results suggest that the development of universally intelligent AI systems may still be some way off. |
-|[.]() | |
+|[The Top 100 Gen AI Consumer Apps.](https://a16z.com/100-gen-ai-apps/) | Over 40% of the top web products are new, having entered the top 50 in the last six months, according to Andreessen Horowitz's most recent consumer analysis on the top 100 Gen AI consumer apps.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
