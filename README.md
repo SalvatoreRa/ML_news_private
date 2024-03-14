@@ -84,6 +84,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
@@ -102,6 +108,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -109,6 +121,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Winning Strategies for Applied AI Companies.](https://medium.com/point-nine-news/winning-strategies-for-applied-ai-companies-f02cac0a6ad8) | Key Success Factors after reviewing over 70 companies that have raised at least $7M|
 |[AI startups require new strategies: This time it’s actually different.](https://longform.asmartbear.com/ai-startups/) | The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the Internet. Ignore this at your peril.|
 |[The GPT-4 barrier has finally been broken.]() | Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
