@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft compares The New York Times’ claims against OpenAI to Hollywood’s early fight against VCR.](/www.cnbc.com/2024/03/05/microsoft-seeks-dismissal-parts-of-new-york-times-suit-against-openai.html) |Microsoft is helping OpenAI fight back against claims of copyright infringement by The New York Times. The news outlet’s lawsuit, filed in December, seeks to hold Microsoft and OpenAI accountable for billions of dollars in damages. In a court filing on Monday, Microsoft accuses the publisher of “unsubstantiated” claims that use of OpenAI’s technology is harming its business.|
 |[Introducing Devin, the first AI software engineer.](https://www.cognition-labs.com/blog) | Devin, a new system from Cognition, receives a 14% on the difficult SWE-Bench benchmark, which evaluates AI's capacity for writing code. GPT-4 received a 1.7% score. This model demonstrates excellent contextual learning skills.|
 |[Building Meta’s GenAI Infrastructure.](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/) |The Llama 3 training infrastructure is described in this Meta blog article. It covers networking, storage, Pytorch, NCCL, and many enhancements. This will prepare the way for Meta's H100s to go online throughout the course of the remaining months of this year. |
-|[.]() | |
+|[Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application.](https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/) |Pi differentiates itself by aiming to create software that can be applied across a wide range of robotics hardware. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
