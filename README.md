@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stealing Part of a Production Language Model.](https://arxiv.org/abs/2403.06634) |By leveraging their public APIs, you may obtain parts of closed language models—like the embeddings layer—for free. A simple budget of less than $2,000 may do this. |
 |[Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling.](https://caduceus-dna.github.io/) |DNA sequence prediction model developed on the Transformer rival Mamba platform. For a little model, it is incredibly powerful and efficient. |
 |[V3D: Video Diffusion Models are Effective 3D Generators.](https://heheyas.github.io/V3D/) |In order to improve 3D object production, this research presents a revolutionary method that creates detailed, high-quality objects from a single photograph. |
-|[.]() | |
+|[A generalist AI agent for 3D virtual environments.](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) |We present new research on a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,6 +84,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini now lets you tune and modify responses with a prompt.](https://9to5google.com/2024/03/06/gemini-modify-tune-response/) |Google is launching “a more precise way for you to tune Gemini’s responses” on the web app. When selecting (by highlighting) a part of Gemini’s response to your prompt, a pencil/sparkle icon appears to “Modify selected text.” This opens a box with Regenerate, Shorter, Longer, and Remove options, as well as an open text field. |
 |[Microsoft’s neural voice tool for people with speech disabilities arrives later this year.](https://www.engadget.com/microsofts-neural-voice-tool-for-people-with-speech-disabilities-arrives-later-this-year-161550277.html) |At the Microsoft Ability summit today, the company is continuing to raise awareness about inclusive design. |
 |[Together AI $106M round of funding.](https://www.together.ai/blog/series-a2) | we’ve raised $106M in a new round of financing led by Salesforce Ventures with participation from Coatue, and existing investors.|
+|[Autonomous Vehicle Startup Applied Intuition Hits $6B Valuation After $250M Series E.](https://news.crunchbase.com/transportation/applied-intuition-valuation-autonomous-vehicle-startup-funding) |Autonomous vehicle software developer Applied Intuition locked up a $250 million Series E valuing the company at a $6 billion — a 67% uptick in value from its previous round. The deal comes even as venture funding for autonomous vehicle-related startups has been in decline in recent years. |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[transformer-debugger.](https://github.com/openai/transformer-debugger) | Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.|
 |[VideoMamba.](https://github.com/opengvlab/videomamba) |VideoMamba is a technology that effectively manages global dependencies and local redundancy to tackle the challenges of video interpretation. |
 |[FastV.](https://github.com/pkunlp-icler/fastv) |FastV is a plug-and-play inference acceleration method for large vision language models relying on visual tokens. It could reach 45% theoretical FLOPs reduction without harming the performance through pruning redundant visual tokens in deep layers. |
-|[.]() | |
+|[Maximizing training throughput using PyTorch FSDP.](https://pytorch.org/blog/maximizing-training/) | Together, teams from IBM and Meta have achieved 57% MFU by rapidly training potent models in parallel on huge A100 and H100 clusters.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
