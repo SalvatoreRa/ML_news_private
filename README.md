@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Researchers create AI worms that can spread from one system to another.](https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/) |Worms could potentially steal data and deploy malware. Now, in a demonstration of the risks of connected, autonomous AI ecosystems, a group of researchers has created one of what they claim are the first generative AI worms—which can spread from one system to another, potentially stealing data or deploying malware in the process.|
 |[Perplexity brings Yelp data to its chatbot.](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai) |Perplexity’s responses can source multiple Yelp reviews for that cafe you were considering, along with location data and other information. |
 |[Gemini now lets you tune and modify responses with a prompt.](https://9to5google.com/2024/03/06/gemini-modify-tune-response/) |Google is launching “a more precise way for you to tune Gemini’s responses” on the web app. When selecting (by highlighting) a part of Gemini’s response to your prompt, a pencil/sparkle icon appears to “Modify selected text.” This opens a box with Regenerate, Shorter, Longer, and Remove options, as well as an open text field. |
-|[.]() | |
+|[Microsoft’s neural voice tool for people with speech disabilities arrives later this year.](https://www.engadget.com/microsofts-neural-voice-tool-for-people-with-speech-disabilities-arrives-later-this-year-161550277.html) |At the Microsoft Ability summit today, the company is continuing to raise awareness about inclusive design. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
