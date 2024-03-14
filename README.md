@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[V3D: Video Diffusion Models are Effective 3D Generators.](https://heheyas.github.io/V3D/) |In order to improve 3D object production, this research presents a revolutionary method that creates detailed, high-quality objects from a single photograph. |
 |[A generalist AI agent for 3D virtual environments.](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) |We present new research on a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings |
 |[SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces.](https://arxiv.org/abs/2403.07711v1) |By concentrating on linear memory consumption, this study overcomes the memory limitations of conventional attention-based diffusion models and presents a novel method for producing videos using state-space models (SSMs). As tested with the UCF101 and MineRL Navigate datasets, SSMs allow the generation of lengthier video sequences with competitive quality. |
-|[.]() | |
+|[SemCity: Semantic Scene Generation with Triplane Diffusion.](https://sglab.kaist.ac.kr/SemCity/) | SemCity transforms 3D scene production by emphasizing real-world outdoor environments—a problem that is sometimes disregarded because of how difficult and sparse outdoor data may be.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft’s neural voice tool for people with speech disabilities arrives later this year.](https://www.engadget.com/microsofts-neural-voice-tool-for-people-with-speech-disabilities-arrives-later-this-year-161550277.html) |At the Microsoft Ability summit today, the company is continuing to raise awareness about inclusive design. |
 |[Together AI $106M round of funding.](https://www.together.ai/blog/series-a2) | we’ve raised $106M in a new round of financing led by Salesforce Ventures with participation from Coatue, and existing investors.|
 |[Autonomous Vehicle Startup Applied Intuition Hits $6B Valuation After $250M Series E.](https://news.crunchbase.com/transportation/applied-intuition-valuation-autonomous-vehicle-startup-funding) |Autonomous vehicle software developer Applied Intuition locked up a $250 million Series E valuing the company at a $6 billion — a 67% uptick in value from its previous round. The deal comes even as venture funding for autonomous vehicle-related startups has been in decline in recent years. |
-|[.]() | |
+|[OpenAI CTO Says It’s Releasing Sora This Year.](https://futurism.com/the-byte/openai-cto-releasing-sora-this-year) | But now, OpenAI chief technology officer Mira Murati told the Wall Street Journal that the company will publicly release Sora "later this year."|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MoAI.](https://github.com/ByungKwanLee/MoAI) |MoAI is a new large language and vision model that integrates auxiliary visual data from specific computer vision tasks to improve upon existing models. |
 |[superopenai: logging and caching superpowers for the openai sdk.](https://github.com/villagecomputing/superopenai) |superopenai is a minimal convenience library for logging and caching LLM requests and responses for visibility and rapid iteration during development. |
 |[TripoSR.](https://github.com/vast-ai-research/triposr) | TripoSR, a state-of-the-art open-source model for fast feedforward 3D reconstruction from a single image, collaboratively developed by Tripo AI and Stability AI.|
-|[.]() | |
+|[Exploring Alternative UX Patterns for GenAI Interfaces.](https://medium.com/@danlittlewood/exploring-alternative-ux-patterns-for-genai-interfaces-a5c0d3ad4e01) | In the rapidly evolving landscape of GenAI interfaces, it is crucial to venture beyond the established norms. The current dominance of Quick Actions and Multi-Turn engagement patterns in these interfaces, while effective in many cases, should not limit our imagination or hinder the potential for innovation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,8 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why scientists trust AI too much — and what to do about it.](https://www.nature.com/articles/d41586-024-00639-y) | Some researchers see superhuman qualities in artificial intelligence. All scientists need to be alert to the risks this creates.|
 |[The Future of Poetry.](https://medium.com/@sierraelman/the-future-of-poetry-26dabfc2f50a) |Questions about whether poems were authored by humans or artificial intelligence (AI) were given to 38 AI experts and 39 English experts. First prize went to The Human, followed by Bard, ChatGPT-4, and Claude in that order, for both writing quality and the ability to deceive respondents into thinking that the poetry were written by a human. The fact that English specialists were far better at identifying which poems were composed by AI suggests that they should be involved more in the development of upcoming AI systems. |
 |[Barack Obama on AI, free speech, and the future of the internet.](https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview) | The former president joined me on Decoder to discuss AI regulation, the First Amendment, and of course, what apps he has on his homescreen.|
-|[.]() | |
-|[.]() | |
+|[AI startups require new strategies: This time it’s actually different.](https://longform.asmartbear.com/ai-startups/) |The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the Internet. Ignore this at your peril. |
+|[Top AIs still fail IQ tests - When asked to read image-based questions.](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests) |According to recent testing, sophisticated AI models such as ChatGPT-4 and Google's "Gemini Advanced" do poorly on visual IQ tests, receiving lower than average scores. Although ChatGPT-4 exhibits mediocre pattern recognition abilities, it misidentifies objects visually and makes logical mistakes, indicating a considerable difference in comparison to human intellect. These results suggest that the development of universally intelligent AI systems may still be some way off. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
