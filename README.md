@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[C4AI Command-R.](https://huggingface.co/CohereForAI/c4ai-command-r-v01) |C4AI Command-R is a research release of a 35 billion parameter highly performant generative model. Command-R is a large language model with open weights optimized for a variety of use cases including reasoning, summarization, and question answering. Command-R has the capability for multilingual generation evaluated in 10 languages and highly performant RAG capabilities. |
 |[Artificial Intelligence Controller Interface (AICI).](https://github.com/microsoft/aici) |The Artificial Intelligence Controller Interface (AICI) lets you build Controllers that constrain and direct output of a Large Language Model (LLM) in real time. Controllers are flexible programs capable of implementing constrained decoding, dynamic editing of prompts and generated text, and coordinating execution across multiple, parallel generations.  |
 |[US Public Domain Books (English).](https://huggingface.co/datasets/storytracer/US-PD-Books) | This dataset contains more than 650,000 English books (~ 61 billion words) presumed to be in the public domain in the US which were digitised by the Internet Archive and catalogued as part of the Open Library project. |
-|[.]() | |
+|[transformer-debugger.](https://github.com/openai/transformer-debugger) | Transformer Debugger (TDB) is a tool developed by OpenAI's Superalignment team with the goal of supporting investigations into specific behaviors of small language models. The tool combines automated interpretability techniques with sparse autoencoders.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
