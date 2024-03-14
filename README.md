@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Winning Strategies for Applied AI Companies.](https://medium.com/point-nine-news/winning-strategies-for-applied-ai-companies-f02cac0a6ad8) | Key Success Factors after reviewing over 70 companies that have raised at least $7M|
 |[AI startups require new strategies: This time it’s actually different.](https://longform.asmartbear.com/ai-startups/) | The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the Internet. Ignore this at your peril.|
 |[The GPT-4 barrier has finally been broken.]() | Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
-|[.]() | |
-|[.]() | |
+|[Embrace AI to break down barriers in publishing for people who aren’t fluent in English.](https://www.nature.com/articles/d41586-024-00761-x) |E. M. Wolkovich describes having a paper rejected because of an unfounded accusation that ChatGPT was used to write it.We think that both the rejection and the bias against the use of artificial intelligence (AI) in scientific writing are misguided. |
+|[Why scientists trust AI too much — and what to do about it.](https://www.nature.com/articles/d41586-024-00639-y) | Some researchers see superhuman qualities in artificial intelligence. All scientists need to be alert to the risks this creates.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
