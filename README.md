@@ -55,6 +55,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling.](https://caduceus-dna.github.io/) |DNA sequence prediction model developed on the Transformer rival Mamba platform. For a little model, it is incredibly powerful and efficient. |
 |[V3D: Video Diffusion Models are Effective 3D Generators.](https://heheyas.github.io/V3D/) |In order to improve 3D object production, this research presents a revolutionary method that creates detailed, high-quality objects from a single photograph. |
 |[A generalist AI agent for 3D virtual environments.](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) |We present new research on a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings |
+|[SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces.](https://arxiv.org/abs/2403.07711v1) |By concentrating on linear memory consumption, this study overcomes the memory limitations of conventional attention-based diffusion models and presents a novel method for producing videos using state-space models (SSMs). As tested with the UCF101 and MineRL Navigate datasets, SSMs allow the generation of lengthier video sequences with competitive quality. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,9 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VideoMamba.](https://github.com/opengvlab/videomamba) |VideoMamba is a technology that effectively manages global dependencies and local redundancy to tackle the challenges of video interpretation. |
 |[FastV.](https://github.com/pkunlp-icler/fastv) |FastV is a plug-and-play inference acceleration method for large vision language models relying on visual tokens. It could reach 45% theoretical FLOPs reduction without harming the performance through pruning redundant visual tokens in deep layers. |
 |[Maximizing training throughput using PyTorch FSDP.](https://pytorch.org/blog/maximizing-training/) | Together, teams from IBM and Meta have achieved 57% MFU by rapidly training potent models in parallel on huge A100 and H100 clusters.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MoAI.](https://github.com/ByungKwanLee/MoAI) |MoAI is a new large language and vision model that integrates auxiliary visual data from specific computer vision tasks to improve upon existing models. |
+|[superopenai: logging and caching superpowers for the openai sdk.](https://github.com/villagecomputing/superopenai) |superopenai is a minimal convenience library for logging and caching LLM requests and responses for visibility and rapid iteration during development. |
+|[TripoSR.](https://github.com/vast-ai-research/triposr) | TripoSR, a state-of-the-art open-source model for fast feedforward 3D reconstruction from a single image, collaboratively developed by Tripo AI and Stability AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
