@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code.](https://arxiv.org/abs/2403.07974) |It is difficult to evaluate language models that have been taught to code. The majority of people utilize OpenAI's HumanEval. Some open models, nevertheless, appear to overfit to this standard. Coding performance may be measured while reducing contamination issues with LiveCodeBench. |
 |[Evil Geniuses: Delving into the Safety of LLM-based Agents.](https://arxiv.org/abs/2311.11855v1) |'Evil Geniuses' is a virtual squad that researchers utilized in a recent study to examine the safety of LLMs. They discovered that these AI agents are less resistant to malevolent attacks, give more nuanced answers, and make it more difficult to identify improper responses. |
 |[ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions.](https://github.com/Traffic-X/ViT-CoMer) | In this work, a novel backbone architecture called ViT-CoMer is presented, which improves on Vision Transformers (ViT) for dense prediction tasks without requiring pre-training.|
-|[.]() | |
+|[From Wait Times to Real-Time: Assort Health Secures $3.5 Million to Scale First Generative AI for Healthcare Call Centers.](https://www.assorthealth.com/blog-posts/assort-health-secures-3-5-million-to-scale-first-generative-ai-for-healthcare-call-centers) |Solution Erases Long Phone Holds for Patients, Supports Overwhelmed Medical Front Desk Workers and Improves Patient Access to Physicians |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Exploring Alternative UX Patterns for GenAI Interfaces.](https://medium.com/@danlittlewood/exploring-alternative-ux-patterns-for-genai-interfaces-a5c0d3ad4e01) | In the rapidly evolving landscape of GenAI interfaces, it is crucial to venture beyond the established norms. The current dominance of Quick Actions and Multi-Turn engagement patterns in these interfaces, while effective in many cases, should not limit our imagination or hinder the potential for innovation.|
 |[rerankers.](https://github.com/AnswerDotAI/rerankers/) |Rerankers are an important part of any retrieval architecture, but they're also often more obscure than other parts of the pipeline. rerankers seeks to address this problem by providing a simple API for all popular rerankers, no matter the architecture.|
 |[skyvern.](https://github.com/Skyvern-AI/skyvern) |Skyvern automates browser-based workflows using LLMs and computer vision. It provides a simple API endpoint to fully automate manual workflows, replacing brittle or unreliable automation solutions.|
-|[.]() | |
+|[Licensing AI Means Licensing the Whole Economy.](https://www.fromthenew.world/p/licensing-ai-means-licensing-the) |Because artificial intelligence is a process that is essential to many different economic uses, it is not possible to regulate it like a physical thing. |
 |[.]() | |
 |[.]() | |
 
