@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM.](https://arxiv.org/abs/2403.07816) |This study demonstrates how to train several models and combine them into a single Mixture-of-Experts model. |
 |[LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code.](https://arxiv.org/abs/2403.07974) |It is difficult to evaluate language models that have been taught to code. The majority of people utilize OpenAI's HumanEval. Some open models, nevertheless, appear to overfit to this standard. Coding performance may be measured while reducing contamination issues with LiveCodeBench. |
 |[Evil Geniuses: Delving into the Safety of LLM-based Agents.](https://arxiv.org/abs/2311.11855v1) |'Evil Geniuses' is a virtual squad that researchers utilized in a recent study to examine the safety of LLMs. They discovered that these AI agents are less resistant to malevolent attacks, give more nuanced answers, and make it more difficult to identify improper responses. |
-|[.]() | |
+|[ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions.](https://github.com/Traffic-X/ViT-CoMer) | In this work, a novel backbone architecture called ViT-CoMer is presented, which improves on Vision Transformers (ViT) for dense prediction tasks without requiring pre-training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Partners With Le Monde And Prisa Media.](https://openai.com/blog/global-news-partnerships-le-monde-and-prisa-media) | We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.|
 |[World’s first major act to regulate AI passed by European lawmakers.](https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html) | The European Union’s parliament on Wednesday approved the world’s first major set of regulatory ground rules to govern the mediatized artificial intelligence at the forefront of tech investment.|
 |[Figure 01 can now have full conversations with people.](https://twitter.com/figure_robot/status/1767913661253984474) | Figure's robots can now hold in-depth discussions with humans thanks to the integration of OpenAI's technology. While Figure's neural networks provide quick, low-level dexterous robot operations, OpenAI's models offer high-level visual and linguistic intelligence. This X article includes a video of a human conversing with a Figure robot, teaching it how to complete tasks, explaining the rationale behind the tasks, and providing a self-evaluation of the activities' effectiveness.|
-|[.]() | |
+|[Claude 3 Is The Most Human AI Yet.](https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet) | Claude 3, Anthropic's latest AI model, is distinguished by its "warmth," which makes it a reliable collaborator on creative writing assignments. More human-feeling and lifelike, Claude 3 is said to straddle the line between delightful deep contemplation and good thought. Though this subtlety has not been fully captured by technological benchmarks, Claude 3 is set to transform our relationship with AI in creative processes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TripoSR.](https://github.com/vast-ai-research/triposr) | TripoSR, a state-of-the-art open-source model for fast feedforward 3D reconstruction from a single image, collaboratively developed by Tripo AI and Stability AI.|
 |[Exploring Alternative UX Patterns for GenAI Interfaces.](https://medium.com/@danlittlewood/exploring-alternative-ux-patterns-for-genai-interfaces-a5c0d3ad4e01) | In the rapidly evolving landscape of GenAI interfaces, it is crucial to venture beyond the established norms. The current dominance of Quick Actions and Multi-Turn engagement patterns in these interfaces, while effective in many cases, should not limit our imagination or hinder the potential for innovation.|
 |[rerankers.](https://github.com/AnswerDotAI/rerankers/) |Rerankers are an important part of any retrieval architecture, but they're also often more obscure than other parts of the pipeline. rerankers seeks to address this problem by providing a simple API for all popular rerankers, no matter the architecture.|
-|[.]() | |
+|[skyvern.](https://github.com/Skyvern-AI/skyvern) |Skyvern automates browser-based workflows using LLMs and computer vision. It provides a simple API endpoint to fully automate manual workflows, replacing brittle or unreliable automation solutions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI startups require new strategies: This time it’s actually different.](https://longform.asmartbear.com/ai-startups/) |The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the Internet. Ignore this at your peril. |
 |[Top AIs still fail IQ tests - When asked to read image-based questions.](https://www.maximumtruth.org/p/top-ais-still-fail-iq-tests) |According to recent testing, sophisticated AI models such as ChatGPT-4 and Google's "Gemini Advanced" do poorly on visual IQ tests, receiving lower than average scores. Although ChatGPT-4 exhibits mediocre pattern recognition abilities, it misidentifies objects visually and makes logical mistakes, indicating a considerable difference in comparison to human intellect. These results suggest that the development of universally intelligent AI systems may still be some way off. |
 |[The Top 100 Gen AI Consumer Apps.](https://a16z.com/100-gen-ai-apps/) | Over 40% of the top web products are new, having entered the top 50 in the last six months, according to Andreessen Horowitz's most recent consumer analysis on the top 100 Gen AI consumer apps.|
-|[.]() | |
-|[.]() | |
+|[This Nvidia Cofounder Could Have Been Worth $70 Billion. Instead He Lives Off The Grid.](https://www.forbes.com/sites/phoebeliu/2023/11/26/this-nvidia-cofounder-could-have-been-worth-70-billion-instead-he-lives-off-the-grid/) |If Curtis Priem, Nvidia’s first CTO, had held onto all his stock, he’d be the 16th richest person in America. Instead, he sold out years ago and gave most of his fortune to his alma mater Rensselaer Polytechnic Institute. |
+|[How to thrive in a crowded enterprise AI market.](https://lsvp.com/stories/generative-sf-how-to-thrive-in-a-crowded-enterprise-ai-market/) |At a Lightspeed event, Arvind Jain, CEO of Glean, spoke on the difficulties and solutions facing corporate AI startups. He emphasized the need of providing genuine business value, being tenacious in hiring, and placing a higher priority on product quality than speed and cost. Jain also emphasized how privacy and security issues have slowed down the deployment of generative AI tools in businesses. Glean wants to become a widely used workplace AI platform that completely transforms how people work by becoming firmly integrated into organizational operations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
