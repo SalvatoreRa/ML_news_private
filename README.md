@@ -57,9 +57,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A generalist AI agent for 3D virtual environments.](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) |We present new research on a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings |
 |[SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces.](https://arxiv.org/abs/2403.07711v1) |By concentrating on linear memory consumption, this study overcomes the memory limitations of conventional attention-based diffusion models and presents a novel method for producing videos using state-space models (SSMs). As tested with the UCF101 and MineRL Navigate datasets, SSMs allow the generation of lengthier video sequences with competitive quality. |
 |[SemCity: Semantic Scene Generation with Triplane Diffusion.](https://sglab.kaist.ac.kr/SemCity/) | SemCity transforms 3D scene production by emphasizing real-world outdoor environments—a problem that is sometimes disregarded because of how difficult and sparse outdoor data may be.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM.](https://arxiv.org/abs/2403.07816) |This study demonstrates how to train several models and combine them into a single Mixture-of-Experts model. |
+|[LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code.](https://arxiv.org/abs/2403.07974) |It is difficult to evaluate language models that have been taught to code. The majority of people utilize OpenAI's HumanEval. Some open models, nevertheless, appear to overfit to this standard. Coding performance may be measured while reducing contamination issues with LiveCodeBench. |
+|[Evil Geniuses: Delving into the Safety of LLM-based Agents.](https://arxiv.org/abs/2311.11855v1) |'Evil Geniuses' is a virtual squad that researchers utilized in a recent study to examine the safety of LLMs. They discovered that these AI agents are less resistant to malevolent attacks, give more nuanced answers, and make it more difficult to identify improper responses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[superopenai: logging and caching superpowers for the openai sdk.](https://github.com/villagecomputing/superopenai) |superopenai is a minimal convenience library for logging and caching LLM requests and responses for visibility and rapid iteration during development. |
 |[TripoSR.](https://github.com/vast-ai-research/triposr) | TripoSR, a state-of-the-art open-source model for fast feedforward 3D reconstruction from a single image, collaboratively developed by Tripo AI and Stability AI.|
 |[Exploring Alternative UX Patterns for GenAI Interfaces.](https://medium.com/@danlittlewood/exploring-alternative-ux-patterns-for-genai-interfaces-a5c0d3ad4e01) | In the rapidly evolving landscape of GenAI interfaces, it is crucial to venture beyond the established norms. The current dominance of Quick Actions and Multi-Turn engagement patterns in these interfaces, while effective in many cases, should not limit our imagination or hinder the potential for innovation.|
-|[.]() | |
+|[rerankers.](https://github.com/AnswerDotAI/rerankers/) |Rerankers are an important part of any retrieval architecture, but they're also often more obscure than other parts of the pipeline. rerankers seeks to address this problem by providing a simple API for all popular rerankers, no matter the architecture.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
