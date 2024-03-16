@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Figure 01 can now have full conversations with people.](https://twitter.com/figure_robot/status/1767913661253984474) | Figure's robots can now hold in-depth discussions with humans thanks to the integration of OpenAI's technology. While Figure's neural networks provide quick, low-level dexterous robot operations, OpenAI's models offer high-level visual and linguistic intelligence. This X article includes a video of a human conversing with a Figure robot, teaching it how to complete tasks, explaining the rationale behind the tasks, and providing a self-evaluation of the activities' effectiveness.|
 |[Claude 3 Is The Most Human AI Yet.](https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet) | Claude 3, Anthropic's latest AI model, is distinguished by its "warmth," which makes it a reliable collaborator on creative writing assignments. More human-feeling and lifelike, Claude 3 is said to straddle the line between delightful deep contemplation and good thought. Though this subtlety has not been fully captured by technological benchmarks, Claude 3 is set to transform our relationship with AI in creative processes.|
 |[Enhancing RAG-based application accuracy by constructing and leveraging knowledge graphs.](https://blog.langchain.dev/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/) |A practical guide to constructing and retrieving information from knowledge graphs in RAG applications with Neo4j and LangChain |
-|[.]() | |
-|[.]() | |
+|[You can now train a 70b language model at home.](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) |We’re releasing an open source system, based on FSDP and QLoRA, that can train a 70b model on two 24GB GPUs. |
+|[pricing sheet with all popular token-based pricing providers and the top-performing models.](https://docs.google.com/spreadsheets/d/1NX8ZW9Jnfpy88PC2d6Bwla87JRiv3GTeqwXoB4mKU_s/edit#gid=0) |Princing and comparison between different LLMs |
 |[.]() | |
 |[.]() | |
 |[.]() | |
