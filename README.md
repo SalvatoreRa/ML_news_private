@@ -96,6 +96,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[World’s first major act to regulate AI passed by European lawmakers.](https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html) | The European Union’s parliament on Wednesday approved the world’s first major set of regulatory ground rules to govern the mediatized artificial intelligence at the forefront of tech investment.|
 |[Figure 01 can now have full conversations with people.](https://twitter.com/figure_robot/status/1767913661253984474) | Figure's robots can now hold in-depth discussions with humans thanks to the integration of OpenAI's technology. While Figure's neural networks provide quick, low-level dexterous robot operations, OpenAI's models offer high-level visual and linguistic intelligence. This X article includes a video of a human conversing with a Figure robot, teaching it how to complete tasks, explaining the rationale behind the tasks, and providing a self-evaluation of the activities' effectiveness.|
 |[Claude 3 Is The Most Human AI Yet.](https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet) | Claude 3, Anthropic's latest AI model, is distinguished by its "warmth," which makes it a reliable collaborator on creative writing assignments. More human-feeling and lifelike, Claude 3 is said to straddle the line between delightful deep contemplation and good thought. Though this subtlety has not been fully captured by technological benchmarks, Claude 3 is set to transform our relationship with AI in creative processes.|
+|[Enhancing RAG-based application accuracy by constructing and leveraging knowledge graphs.](https://blog.langchain.dev/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/) |A practical guide to constructing and retrieving information from knowledge graphs in RAG applications with Neo4j and LangChain |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
