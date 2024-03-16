@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Evil Geniuses: Delving into the Safety of LLM-based Agents.](https://arxiv.org/abs/2311.11855v1) |'Evil Geniuses' is a virtual squad that researchers utilized in a recent study to examine the safety of LLMs. They discovered that these AI agents are less resistant to malevolent attacks, give more nuanced answers, and make it more difficult to identify improper responses. |
 |[ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions.](https://github.com/Traffic-X/ViT-CoMer) | In this work, a novel backbone architecture called ViT-CoMer is presented, which improves on Vision Transformers (ViT) for dense prediction tasks without requiring pre-training.|
 |[From Wait Times to Real-Time: Assort Health Secures $3.5 Million to Scale First Generative AI for Healthcare Call Centers.](https://www.assorthealth.com/blog-posts/assort-health-secures-3-5-million-to-scale-first-generative-ai-for-healthcare-call-centers) |Solution Erases Long Phone Holds for Patients, Supports Overwhelmed Medical Front Desk Workers and Improves Patient Access to Physicians |
-|[.]() | |
+|[MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.](https://arxiv.org/abs/2403.09611) | Apple just released a multimodal model and discussed how they trained in detail.|
 |[.]() | |
 |[.]() | |
 
