@@ -36,6 +36,36 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
+# ML news: 
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 # ML news: Week 11 - 17 March
 
 ## Research
@@ -63,8 +93,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions.](https://github.com/Traffic-X/ViT-CoMer) | In this work, a novel backbone architecture called ViT-CoMer is presented, which improves on Vision Transformers (ViT) for dense prediction tasks without requiring pre-training.|
 |[From Wait Times to Real-Time: Assort Health Secures $3.5 Million to Scale First Generative AI for Healthcare Call Centers.](https://www.assorthealth.com/blog-posts/assort-health-secures-3-5-million-to-scale-first-generative-ai-for-healthcare-call-centers) |Solution Erases Long Phone Holds for Patients, Supports Overwhelmed Medical Front Desk Workers and Improves Patient Access to Physicians |
 |[MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.](https://arxiv.org/abs/2403.09611) | Apple just released a multimodal model and discussed how they trained in detail.|
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -99,10 +127,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enhancing RAG-based application accuracy by constructing and leveraging knowledge graphs.](https://blog.langchain.dev/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/) |A practical guide to constructing and retrieving information from knowledge graphs in RAG applications with Neo4j and LangChain |
 |[You can now train a 70b language model at home.](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) |We’re releasing an open source system, based on FSDP and QLoRA, that can train a 70b model on two 24GB GPUs. |
 |[pricing sheet with all popular token-based pricing providers and the top-performing models.](https://docs.google.com/spreadsheets/d/1NX8ZW9Jnfpy88PC2d6Bwla87JRiv3GTeqwXoB4mKU_s/edit#gid=0) |Princing and comparison between different LLMs |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -127,8 +151,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[rerankers.](https://github.com/AnswerDotAI/rerankers/) |Rerankers are an important part of any retrieval architecture, but they're also often more obscure than other parts of the pipeline. rerankers seeks to address this problem by providing a simple API for all popular rerankers, no matter the architecture.|
 |[skyvern.](https://github.com/Skyvern-AI/skyvern) |Skyvern automates browser-based workflows using LLMs and computer vision. It provides a simple API endpoint to fully automate manual workflows, replacing brittle or unreliable automation solutions.|
 |[Licensing AI Means Licensing the Whole Economy.](https://www.fromthenew.world/p/licensing-ai-means-licensing-the) |Because artificial intelligence is a process that is essential to many different economic uses, it is not possible to regulate it like a physical thing. |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -146,8 +168,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[This Nvidia Cofounder Could Have Been Worth $70 Billion. Instead He Lives Off The Grid.](https://www.forbes.com/sites/phoebeliu/2023/11/26/this-nvidia-cofounder-could-have-been-worth-70-billion-instead-he-lives-off-the-grid/) |If Curtis Priem, Nvidia’s first CTO, had held onto all his stock, he’d be the 16th richest person in America. Instead, he sold out years ago and gave most of his fortune to his alma mater Rensselaer Polytechnic Institute. |
 |[How to thrive in a crowded enterprise AI market.](https://lsvp.com/stories/generative-sf-how-to-thrive-in-a-crowded-enterprise-ai-market/) |At a Lightspeed event, Arvind Jain, CEO of Glean, spoke on the difficulties and solutions facing corporate AI startups. He emphasized the need of providing genuine business value, being tenacious in hiring, and placing a higher priority on product quality than speed and cost. Jain also emphasized how privacy and security issues have slowed down the deployment of generative AI tools in businesses. Glean wants to become a widely used workplace AI platform that completely transforms how people work by becoming firmly integrated into organizational operations. |
 |[As AI tools get smarter, they’re growing more covertly racist, experts find.](https://www.theguardian.com/technology/2024/mar/16/ai-racism-chatgpt-gemini-bias) | ChatGPT and Gemini discriminate against those who speak African American Vernacular English, report shows|
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 4 - 10 March
 
