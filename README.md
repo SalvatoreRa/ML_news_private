@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Open Release of Grok-1.](https://x.ai/blog/grok-os) | We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model, Grok-1.|
 |[Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/) | OpenAI may have accidentally leaked details about a new AI model called GPT-4.5 Turbo. The leak suggests that GPT-4.5 Turbo will be faster, more accurate, and have a larger knowledge base than its predecessor.|
-|[.]() | |
+|[Claude 3 Haiku: our fastest model yet.](https://www.anthropic.com/news/claude-3-haiku) | Today we’re releasing Claude 3 Haiku, the fastest and most affordable model in its intelligence class. With state-of-the-art vision capabilities and strong performance on industry benchmarks|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[What I learned from looking at 900 most popular open source AI tools.](https://huyenchip.com/2024/03/14/ai-oss.html) | By examining the GitHub stars of well-known AI models, we can uncover some fascinating patterns. The majority of open-source AI tools appear to be geared at apps and infrastructure.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
