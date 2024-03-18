@@ -41,7 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[ScoreHMR: Score-Guided Diffusion for 3D Human Recovery.](https://statho.github.io/ScoreHMR/) | 
+We present Score-Guided Human Mesh Recovery (ScoreHMR), an approach for solving inverse problems for 3D human pose and shape reconstruction. ScoreHMR mimics model fitting approaches, but alignment with the image observation is achieved through score guidance in the latent space of a diffusion model. Here, we show the application of our approach on videos, utilizing keypoint detections and score guidance with keypoint reprojection and temporal smoothness terms.|
+|[Cappy: Outperforming and boosting large multi-task language models with a small scorer.](https://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html) | A little model called Cappy has been taught to accept instructions and a candidate completion, then calculate how well the completion satisfies the instructions by returning a score. It performs better on this job than significantly bigger models, indicating that it may be applied as a generation and training feedback mechanism.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -63,7 +65,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open Release of Grok-1.](https://x.ai/blog/grok-os) | We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model, Grok-1.|
 |[Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/) | OpenAI may have accidentally leaked details about a new AI model called GPT-4.5 Turbo. The leak suggests that GPT-4.5 Turbo will be faster, more accurate, and have a larger knowledge base than its predecessor.|
 |[Claude 3 Haiku: our fastest model yet.](https://www.anthropic.com/news/claude-3-haiku) | Today we’re releasing Claude 3 Haiku, the fastest and most affordable model in its intelligence class. With state-of-the-art vision capabilities and strong performance on industry benchmarks|
-|[Cappy: Outperforming and boosting large multi-task language models with a small scorer.](https://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html) | A little model called Cappy has been taught to accept instructions and a candidate completion, then calculate how well the completion satisfies the instructions by returning a score. It performs better on this job than significantly bigger models, indicating that it may be applied as a generation and training feedback mechanism.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,12 +80,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[tlm - Local CLI Copilot, powered by CodeLLaMa.](https://github.com/yusufcanb/tlm) |tlm is your CLI companion which requires nothing except your workstation. It uses most efficient and powerful CodeLLaMa in your local environment to provide you the best possible command line suggestions. |
+|[Multi-node LLM Training on AMD GPUs.](https://www.lamini.ai/blog/multi-node-llm-training-on-amd-gpus) |The whole stack of technologies, including schedulers, model training software, and more, that Lamini employs to train models on AMD GPUs is described in this blog article. |
+|[clarity-upscaler.](https://github.com/philz1337x/clarity-upscaler) | A state-of-the-art image upscaling tool.|
+|[musiclang_predict.](https://github.com/MusicLang/musiclang_predict) |Music Lang is an API and set of models that generate music. |
+|[Optimizing Technical Docs for LLMs.](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms) | Capa.ai provides guidance on how to organize LLM documentation, including how to include troubleshooting FAQs, self-contained code snippets, segmentation into sub-products, and community forum creation.|
+|[lamini/earnings-calls-qa.](https://huggingface.co/datasets/lamini/earnings-calls-qa) |This dataset contains transcripts of earning calls for various companies, along with questions and answers related to the companies' financial performance and other relevant topics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -99,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[What I learned from looking at 900 most popular open source AI tools.](https://huyenchip.com/2024/03/14/ai-oss.html) | By examining the GitHub stars of well-known AI models, we can uncover some fascinating patterns. The majority of open-source AI tools appear to be geared at apps and infrastructure.|
-|[.]() | |
-|[.]() | |
+|[LLM inference speed of light.](https://zeux.io/2024/03/15/llm-inference-sol/) |This article explores the "speed of light" theoretical limit for transformer-based language model inference and emphasizes the significance of memory bandwidth over computational power, showing that the ability to read data from memory rather than perform calculations is the primary constraint on inference speed, and that this is an important factor to optimize and comprehend the performance of AI. |
+|[AI is bad/good actually.](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/artificial-intelligence/bad/good/) | This article's author suggests eschewing the nebulous good/bad continuum and instead use terminology like "harmful," "helpful," "capable," and "incapable" to distinguish AI conversations. For them, AI is capable yet possibly dangerous because of unresolved problems like bias exaggeration and copyright infringement. Using these more precise phrases, the author asks readers to explain their own opinions on AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
