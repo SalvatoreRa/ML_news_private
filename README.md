@@ -60,8 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Open Release of Grok-1.](https://x.ai/blog/grok-os) | We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model, Grok-1.|
+|[Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/) | OpenAI may have accidentally leaked details about a new AI model called GPT-4.5 Turbo. The leak suggests that GPT-4.5 Turbo will be faster, more accurate, and have a larger knowledge base than its predecessor.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
