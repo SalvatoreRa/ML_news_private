@@ -48,7 +48,7 @@ We present Score-Guided Human Mesh Recovery (ScoreHMR), an approach for solving 
 |[Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.](https://arxiv.org/abs/2403.09629) |outlines Quiet-STaR, a generalization of STaR that enables language models (LMs) to acquire reasoning skills that are more scalable and general; Quiet-STaR gives LMs the ability to produce justifications for each token in order to explain future text; it suggests a token-wise parallel sampling approach that enhances LM predictions by producing internal thoughts effectively; REINFORCE is used to improve the rationale creation. |
 |[Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM.](https://arxiv.org/abs/2403.07816) |suggests combining expert LLMs with a Mixture-of-Experts LLM as a more computationally efficient way to train LLMs. This method, called BTX, is shown to be more effective than training a single specialized LLM or a larger generalist LLM. It works by first training (in parallel) multiple copies of a seed LLM with specialized knowledge in different domains (i.e., expert LLMs), then combining them into a single LLM using MoE feed-forward layers. Finally, the entire unified model is fine-tuned. |
 |[Large language models surpass human experts in predicting neuroscience results.](https://arxiv.org/abs/2403.03230) |suggests using BrainBench as a benchmark to assess LLMs' capacity to forecast neuroscience outcomes; discovers that LLMs outperform experts in forecasting the results of experiments; an LLM that has been modified based on neuroscience literature has been demonstrated to do even better. |
-|[.]() | |
+|[Uni-SMART: Universal Science Multimodal Analysis and Research Transformer.](https://arxiv.org/abs/2403.10301) |Comprehensive literature analysis faces a problem due to the scientific literature's constant increase. Because of their ability to summarize, LLMs present a viable option; yet, they are not well-suited to the multimodal aspects that are common in scientific information. Uni-SMART (Universal Science Multimodal Analysis and Research Transformer) was created to fill this vacuum by understanding and analyzing the intricate multimodal data found in scientific publications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -65,7 +65,7 @@ We present Score-Guided Human Mesh Recovery (ScoreHMR), an approach for solving 
 |[Open Release of Grok-1.](https://x.ai/blog/grok-os) | We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model, Grok-1.|
 |[Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/) | OpenAI may have accidentally leaked details about a new AI model called GPT-4.5 Turbo. The leak suggests that GPT-4.5 Turbo will be faster, more accurate, and have a larger knowledge base than its predecessor.|
 |[Claude 3 Haiku: our fastest model yet.](https://www.anthropic.com/news/claude-3-haiku) | Today we’re releasing Claude 3 Haiku, the fastest and most affordable model in its intelligence class. With state-of-the-art vision capabilities and strong performance on industry benchmarks|
-|[.]() | |
+|[Midjourney debuts feature for generating consistent characters across multiple gen AI images.](https://venturebeat.com/ai/midjourney-debuts-feature-for-generating-consistent-characters-across-multiple-gen-ai-images/) |The popular AI image generating service Midjourney has deployed one of its most oft-requested features: the ability to recreate characters consistently across new images. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,8 +87,8 @@ We present Score-Guided Human Mesh Recovery (ScoreHMR), an approach for solving 
 |[Optimizing Technical Docs for LLMs.](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms) | Capa.ai provides guidance on how to organize LLM documentation, including how to include troubleshooting FAQs, self-contained code snippets, segmentation into sub-products, and community forum creation.|
 |[lamini/earnings-calls-qa.](https://huggingface.co/datasets/lamini/earnings-calls-qa) |This dataset contains transcripts of earning calls for various companies, along with questions and answers related to the companies' financial performance and other relevant topics. |
 |[Knowledge Conflicts for LLMs: A Survey.](https://arxiv.org/abs/2403.08319) |a summary of the prevalent problem of knowledge conflict that arises while working with LLMs; the survey article divides these conflicts into three categories: intra-memory, inter-context, and context-memory conflict. It also offers insights into the sources of these conflicts and possible solutions. |
-|[.]() | |
-|[.]() | |
+|[Enhancing RAG-based application accuracy by constructing and leveraging knowledge graphs.](https://blog.langchain.dev/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/) |A practical guide to constructing and retrieving information from knowledge graphs in RAG applications with Neo4j and LangChain |
+|[How to Evaluate Your RAG System?]() | Retrieval Augmented Generation (RAG) is a powerful technique that enhances output quality by retrieving relevant context from an external vector database. However, building and evaluating a RAG system can be challenging, especially when it comes to measuring performance. In this post, we'll explore the most effective metrics for each stage of your RAG pipeline and how to use them to evaluate your whole system.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
