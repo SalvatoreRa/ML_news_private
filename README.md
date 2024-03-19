@@ -50,6 +50,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Uni-SMART: Universal Science Multimodal Analysis and Research Transformer.](https://arxiv.org/abs/2403.10301) |Comprehensive literature analysis faces a problem due to the scientific literature's constant increase. Because of their ability to summarize, LLMs present a viable option; yet, they are not well-suited to the multimodal aspects that are common in scientific information. Uni-SMART (Universal Science Multimodal Analysis and Research Transformer) was created to fill this vacuum by understanding and analyzing the intricate multimodal data found in scientific publications. |
 |[Mechanics of Next Token Prediction with Self-Attention.](https://arxiv.org/abs/2403.08081) | Predicting the next token is a straightforward goal that triggers complex actions. This work discovered that the problem could be divided into two parts: soft composition and hard retrieval. This allowed for good overall performance and in-context learning, and the single self attention layer was trained using gradient descent.|
 |[Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection.](https://arxiv.org/abs/2403.09313v1) | By combining visual transformers with knowledge distillation, YOLOX-ViT presents a novel method for object recognition in underwater robots. |
+|[GroupContrast.](https://github.com/dvlab-research/groupcontrast) |GroupContrast combines semantic-aware contrastive learning with segment grouping to redefine self-supervised 3D representation learning. |
+|[Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification.](https://github.com/924973292/editor) | With an emphasis on object-centric information, this study presents a novel approach to object detection in photos captured from a variety of spectrums, including RGB, near-infrared, and thermal imaging. The goal is to increase recognition accuracy by mitigating the effects of background noise. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,6 +95,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to Evaluate Your RAG System?]() | Retrieval Augmented Generation (RAG) is a powerful technique that enhances output quality by retrieving relevant context from an external vector database. However, building and evaluating a RAG system can be challenging, especially when it comes to measuring performance. In this post, we'll explore the most effective metrics for each stage of your RAG pipeline and how to use them to evaluate your whole system.|
 |[Anthropic Prompt Library.](https://docs.anthropic.com/claude/prompt-library) | Although Claude 3 has been widely used, these models use a somewhat different prompting technique. Anthropic has compiled a list of user prompts that are effective for a wide range of assignments and subjects.|
 |[Pretraining 16 language models on different tokenizers.](https://github.com/alasdairforsythe/tokenmonster/blob/main/benchmark/pretrain.md) | One peculiarity of contemporary language modeling is that the model is not trained until the tokenizer has been trained. The second peculiar truth is that, on vast scales, vocabulary size doesn't appear to matter all that much.|
+|[LLM4Decompile.](https://github.com/albertan017/LLM4Decompile) | Reverse Engineering: Decompiling Binary Code with Large Language Models|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What I learned from looking at 900 most popular open source AI tools.](https://huyenchip.com/2024/03/14/ai-oss.html) | By examining the GitHub stars of well-known AI models, we can uncover some fascinating patterns. The majority of open-source AI tools appear to be geared at apps and infrastructure.|
 |[LLM inference speed of light.](https://zeux.io/2024/03/15/llm-inference-sol/) |This article explores the "speed of light" theoretical limit for transformer-based language model inference and emphasizes the significance of memory bandwidth over computational power, showing that the ability to read data from memory rather than perform calculations is the primary constraint on inference speed, and that this is an important factor to optimize and comprehend the performance of AI. |
 |[AI is bad/good actually.](https://www.todepond.com/wikiblogarden/better-computing/worse-computing/artificial-intelligence/bad/good/) | This article's author suggests eschewing the nebulous good/bad continuum and instead use terminology like "harmful," "helpful," "capable," and "incapable" to distinguish AI conversations. For them, AI is capable yet possibly dangerous because of unresolved problems like bias exaggeration and copyright infringement. Using these more precise phrases, the author asks readers to explain their own opinions on AI.|
-|[.]() | |
+|[Captain's log: the irreducible weirdness of prompting AIs.](https://www.oneusefulthing.org/p/captains-log-the-irreducible-weirdness) |A wealth of free AI and machine learning tools can be found on the new companion website, More Useful Things. These resources highlight the amusing and useful ways in which AI-generated prompts, such as creative scenarios, can surpass human-crafted ones in tasks like solving mathematical puzzles. For more consistent prompting outcomes, the experiment emphasizes the value of adding context, few-shot learning, and chain-of-thought strategies. Though organized prompting is still an evolving art with considerable potential benefits, prompting as a talent may become less important as AI models advance and get better at inferring user intent. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
