@@ -65,8 +65,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Did OpenAI just accidentally leak the next big ChatGPT upgrade?](https://www.androidauthority.com/chat-gpt-4-5-turbo-3425326/) | OpenAI may have accidentally leaked details about a new AI model called GPT-4.5 Turbo. The leak suggests that GPT-4.5 Turbo will be faster, more accurate, and have a larger knowledge base than its predecessor.|
 |[Claude 3 Haiku: our fastest model yet.](https://www.anthropic.com/news/claude-3-haiku) | Today we’re releasing Claude 3 Haiku, the fastest and most affordable model in its intelligence class. With state-of-the-art vision capabilities and strong performance on industry benchmarks|
 |[Midjourney debuts feature for generating consistent characters across multiple gen AI images.](https://venturebeat.com/ai/midjourney-debuts-feature-for-generating-consistent-characters-across-multiple-gen-ai-images/) |The popular AI image generating service Midjourney has deployed one of its most oft-requested features: the ability to recreate characters consistently across new images. |
-|[.]() | |
-|[.]() | |
+|[Apple researchers achieve breakthroughs in multimodal AI as company ramps up investments.](https://venturebeat.com/ai/apple-researchers-achieve-breakthroughs-in-multimodal-ai-as-company-ramps-up-investments/) |Apple researchers have developed new methods for training large language models on both text and images, enabling more powerful and flexible AI systems, in what could be a significant advance for artificial intelligence and for future Apple products. |
+|[Introducing Stable Video 3D: Quality Novel View Synthesis and 3D Generation from Single Images.](https://stability.ai/news/introducing-stable-video-3d) | Today we are releasing Stable Video 3D (SV3D), a generative model based on Stable Video Diffusion, advancing the field of 3D technology and delivering greatly improved quality and view-consistency.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Knowledge Conflicts for LLMs: A Survey.](https://arxiv.org/abs/2403.08319) |a summary of the prevalent problem of knowledge conflict that arises while working with LLMs; the survey article divides these conflicts into three categories: intra-memory, inter-context, and context-memory conflict. It also offers insights into the sources of these conflicts and possible solutions. |
 |[Enhancing RAG-based application accuracy by constructing and leveraging knowledge graphs.](https://blog.langchain.dev/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/) |A practical guide to constructing and retrieving information from knowledge graphs in RAG applications with Neo4j and LangChain |
 |[How to Evaluate Your RAG System?]() | Retrieval Augmented Generation (RAG) is a powerful technique that enhances output quality by retrieving relevant context from an external vector database. However, building and evaluating a RAG system can be challenging, especially when it comes to measuring performance. In this post, we'll explore the most effective metrics for each stage of your RAG pipeline and how to use them to evaluate your whole system.|
-|[.]() | |
+|[Anthropic Prompt Library.](https://docs.anthropic.com/claude/prompt-library) | Although Claude 3 has been widely used, these models use a somewhat different prompting technique. Anthropic has compiled a list of user prompts that are effective for a wide range of assignments and subjects.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
