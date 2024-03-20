@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection.](https://arxiv.org/abs/2403.09313v1) | By combining visual transformers with knowledge distillation, YOLOX-ViT presents a novel method for object recognition in underwater robots. |
 |[GroupContrast.](https://github.com/dvlab-research/groupcontrast) |GroupContrast combines semantic-aware contrastive learning with segment grouping to redefine self-supervised 3D representation learning. |
 |[Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification.](https://github.com/924973292/editor) | With an emphasis on object-centric information, this study presents a novel approach to object detection in photos captured from a variety of spectrums, including RGB, near-infrared, and thermal imaging. The goal is to increase recognition accuracy by mitigating the effects of background noise. |
-|[.]() | |
-|[.]() | |
+|[Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation.](https://arxiv.org/abs/2403.12015) |Stable Diffusion 3 is a potent model for creating images. Latent Adversarial Diffusion Distillation, which keeps picture production quality constant while reducing the number of diffusion stages to 4, is shown in this study. |
+|[Distilling Datasets Into Less Than One Image.](https://vision.huji.ac.il/podd/) |Poster Dataset Distillation (PoDD): We propose PoDD, a new dataset distillation setting for a tiny, under 1 image-per-class (IPC) budget. In this example, the standard method attains an accuracy of 35.5% on CIFAR-100 with approximately 100k pixels, PoDD achieves an accuracy of 35.7% with less than half the pixels (roughly 40k) |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pretraining 16 language models on different tokenizers.](https://github.com/alasdairforsythe/tokenmonster/blob/main/benchmark/pretrain.md) | One peculiarity of contemporary language modeling is that the model is not trained until the tokenizer has been trained. The second peculiar truth is that, on vast scales, vocabulary size doesn't appear to matter all that much.|
 |[LLM4Decompile.](https://github.com/albertan017/LLM4Decompile) | Reverse Engineering: Decompiling Binary Code with Large Language Models|
 |[Under The Hood: How OpenAI's Sora Model Works.](https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works) | In this blog post, we dive into some of the technical details behind Sora. We also talk about our current thinking around the implications of these video models. Finally, we discuss our thoughts around the compute used for training models like Sora and present projections for how that training compute compares to inference, which has meaningful indications for estimated future GPU demand.|
-|[.]() | |
+|[Quiet-STaR.](https://github.com/ezelikman/quiet-star) | A reasoning framework called Quiet-Star enhances language models' capacity to produce accurate results. An eight-step model per token has been given along with the code.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
