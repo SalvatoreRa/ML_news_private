@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google researchers unveil ‘VLOGGER’, an AI that can bring still photos to life.](https://venturebeat.com/ai/google-researchers-unveil-vlogger-an-ai-that-can-bring-still-photos-to-life/) |Google researchers have developed a new artificial intelligence system that can generate lifelike videos of people speaking, gesturing and moving — from just a single still photo. The technology, called VLOGGER, relies on advanced machine learning models to synthesize startlingly realistic footage, opening up a range of potential applications while also raising concerns around deepfakes and misinformation. |
 |[Microsoft has added the GPT-4 Turbo LLM to the free version of Copilot.](https://www.neowin.net/news/microsoft-has-added-the-gpt-4-turbo-llm-to-the-free-version-of-copilot/) |Microsoft is boosting the performance of its Copilot generative AI chatbot today. It has been confirmed that all free Copilot users can now access the GPT-4 Turbo large language model from OpenAI. |
 |[Korean researchers power-shame Nvidia with new neural AI chip — claim 625 times less power draw, 41 times smaller.](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller) | The new C-Transformer chip is claimed to be the world's first ultra-low power AI accelerator chip capable of large language model (LLM) processing. |
-|[.]() | |
-|[.]() | |
+|[Inflection co-founders leave for Microsoft AI.](https://inflection.ai/the-new-inflection) | Karén Simonyan and Mustafa Suleyman are leaving Inflection to launch Microsoft AI. The next CEO will be Sean White. Additionally, a few Inflection senior team members are joining Microsoft AI.|
+|[Lilac acquired by Databricks.](https://www.databricks.com/blog/lilac-joins-databricks-simplify-unstructured-data-evaluation-generative-ai) |Lilac is a scalable, user-friendly tool for data scientists to search, cluster, and analyze any kind of text dataset with a focus on generative AI.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
