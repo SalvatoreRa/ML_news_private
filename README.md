@@ -77,6 +77,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Korean researchers power-shame Nvidia with new neural AI chip — claim 625 times less power draw, 41 times smaller.](https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller) | The new C-Transformer chip is claimed to be the world's first ultra-low power AI accelerator chip capable of large language model (LLM) processing. |
 |[Inflection co-founders leave for Microsoft AI.](https://inflection.ai/the-new-inflection) | Karén Simonyan and Mustafa Suleyman are leaving Inflection to launch Microsoft AI. The next CEO will be Sean White. Additionally, a few Inflection senior team members are joining Microsoft AI.|
 |[Lilac acquired by Databricks.](https://www.databricks.com/blog/lilac-joins-databricks-simplify-unstructured-data-evaluation-generative-ai) |Lilac is a scalable, user-friendly tool for data scientists to search, cluster, and analyze any kind of text dataset with a focus on generative AI.  |
+|[IBM and NASA build language models to make scientific knowledge more accessible.](https://research.ibm.com/blog/science-expert-LLM) | In a new collaboration, IBM and NASA created a suite of efficient language models by training on scientific literature. Based on the transformer architecture, these models can be used in a variety of applications, from classification and entity extraction to question-answering and information retrieval. These models achieve high performance across a variety of domains and can respond promptly. We have open-sourced the models on Hugging Face for the benefit of the scientific and academic community. |
+|[Introducing RAG 2.0.](https://contextual.ai/introducing-rag2/) | A technique for adding knowledge to a language model that can become stale is called retrieval augmented generation, or RAG. Unfortunately, outside of demonstrations, the current paradigm of "frozen RAG," in which just a portion of the pipeline is trained and the model itself is not updated, performs badly. This blog describes the next generation of RAG, where all the components are fine-tuned for the job at hand. In this system, an open model such as Mistral 7B can perform better than the conventional GPT-4 RAG.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic Prompt Library.](https://docs.anthropic.com/claude/prompt-library) | Although Claude 3 has been widely used, these models use a somewhat different prompting technique. Anthropic has compiled a list of user prompts that are effective for a wide range of assignments and subjects.|
 |[Pretraining 16 language models on different tokenizers.](https://github.com/alasdairforsythe/tokenmonster/blob/main/benchmark/pretrain.md) | One peculiarity of contemporary language modeling is that the model is not trained until the tokenizer has been trained. The second peculiar truth is that, on vast scales, vocabulary size doesn't appear to matter all that much.|
 |[LLM4Decompile.](https://github.com/albertan017/LLM4Decompile) | Reverse Engineering: Decompiling Binary Code with Large Language Models|
-|[.]() | |
+|[Under The Hood: How OpenAI's Sora Model Works.](https://factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works) | In this blog post, we dive into some of the technical details behind Sora. We also talk about our current thinking around the implications of these video models. Finally, we discuss our thoughts around the compute used for training models like Sora and present projections for how that training compute compares to inference, which has meaningful indications for estimated future GPU demand.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
