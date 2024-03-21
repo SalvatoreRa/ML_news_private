@@ -128,6 +128,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |["AI, no ads please": 4 words to wipe out $1tn.](https://12challenges.substack.com/p/ai-no-ads-please-4-words-to-wipe) |AI poses a huge threat to ad-based platforms by slashing how many ads we see |
 |[OpenAI’s “Own Goal”.](https://garymarcus.substack.com/p/openais-own-goal) |And why it is becoming increasingly difficult to take them at their word |
 |[What if it isn't happening, AGI is not coming?](https://www.mindprison.cc/p/what-if-agi-is-not-coming) |No matter what appears to be happening, we always have to consider what if it isn't. What If LLMs fail to turn into AGIs? Has our quest for intelligence simply unveiled our demonstrable lack thereof? Will trillions of dollars turn unpredictable hallucination machines into reliable universal productivity tools that can do anything? |
+|[How OpenAI’s text-to-video tool Sora could change science – and society.](https://www.nature.com/articles/d41586-024-00661-0) |OpenAI’s debut of its impressive Sora text-to-video tool has raised important questions. |
+|[Chatbot AI makes racist judgements on the basis of dialect.](https://www.nature.com/articles/d41586-024-00779-1) | Some large language models harbour hidden biases that cannot be removed using standard methods.|
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
