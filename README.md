@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Could AI-designed proteins be weaponized? Scientists lay out safety guidelines.](https://www.nature.com/articles/d41586-024-00699-0) | AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field.|
 |[Three reasons why AI doesn’t model human language.](https://www.nature.com/articles/d41586-024-00824-z) |Artificial intelligence (AI) is being used to develop large language models (LLMs) with considerable success. But they should not be seen as being models of how human language works and is acquired. |
 |[So … you’ve been hacked.](https://www.nature.com/articles/d41586-024-00818-x) |Research institutions are under siege from cybercriminals and other digital assailants. How do you make sure you don’t let them in? |
-|[.]() | |
+|[8 Google Employees Invented Modern AI. Here’s the Inside Story.](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) |They met by chance, got hooked on an idea, and wrote the “Transformers” paper—the most consequential tech breakthrough in recent history. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
