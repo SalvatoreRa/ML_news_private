@@ -55,9 +55,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation.](https://arxiv.org/abs/2403.12015) |Stable Diffusion 3 is a potent model for creating images. Latent Adversarial Diffusion Distillation, which keeps picture production quality constant while reducing the number of diffusion stages to 4, is shown in this study. |
 |[Distilling Datasets Into Less Than One Image.](https://vision.huji.ac.il/podd/) |Poster Dataset Distillation (PoDD): We propose PoDD, a new dataset distillation setting for a tiny, under 1 image-per-class (IPC) budget. In this example, the standard method attains an accuracy of 35.5% on CIFAR-100 with approximately 100k pixels, PoDD achieves an accuracy of 35.7% with less than half the pixels (roughly 40k) |
 |[MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control .](https://sites.google.com/view/minedreamer/main) | MineDreamer is an artificial intelligence (AI) bot that uses cutting-edge language and vision models creatively to obey intricate commands in the Minecraft universe.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DreamDA: Generative Data Augmentation with Diffusion Models.](https://arxiv.org/abs/2403.12803v1) | DreamDA presents a novel method of data augmentation by creating high-quality, diversified synthetic visuals that closely resemble the original data distribution using diffusion models. |
+|[Chain-of-Spot: Interactive Reasoning Improves Large Vision-language Models.](https://sites.google.com/view/chain-of-spot/) | The Interactive Reasoning method known as Chain-of-Spot (CoS) greatly improves the way Large Vision-Language Models (LVLMs) analyze and comprehend pictures. With CoS, LVLMs may obtain precise visual information without sacrificing picture quality by concentrating on specific regions of interest inside images in response to predetermined inquiries or commands. |
+|[StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On.](https://rlawjdghek.github.io/StableVITON/) | A new method for image-based virtual try-on is called StableVITON. This approach makes advantage of the creative capacity of diffusion models that have already been trained, while keeping attention to garment details. StableVITON discovers semantic correspondences in the latent space of a pre-trained model between clothing and the human body. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stable Diffusion maker leaves Stability AI.](https://sifted.eu/articles/stability-ai-rombach-news) | Robin Rombach helped build the tech that made Stability AI famous, now he's leaving the company|
 |[Introducing Copilot4D: A Foundation Model for Self-Driving.](https://waabi.ai/introducing-copilot4d/) | Waabi's Copilot4D is a ground-breaking foundation model that advances the capabilities of autonomous machines by using LiDAR data to comprehend and forecast the 3D dynamics of the environment across time.|
 |[NLX Raises $15M in Series A Funding.](https://nlx.ai/news/nlx-raises-15m-in-series-a-funding) |In March 2024, NLX extended its Series A funding to $15M, adding Comcast Ventures. |
-|[.]() | |
+|[Triton Puzzles.](https://github.com/srush/Triton-Puzzles/) | Triton is an alternative open-source language that allows you to code at a higher-level and compile to accelerators like GPU. This set is puzzles is meant to teach you how to use Triton from first principles in an interactive fashion. You will start with trivial examples and build your way up to real algorithms like Flash Attention and Quantized neural networks. These puzzles do not need to run on GPU since they use a Triton interpreter.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
