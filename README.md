@@ -58,6 +58,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DreamDA: Generative Data Augmentation with Diffusion Models.](https://arxiv.org/abs/2403.12803v1) | DreamDA presents a novel method of data augmentation by creating high-quality, diversified synthetic visuals that closely resemble the original data distribution using diffusion models. |
 |[Chain-of-Spot: Interactive Reasoning Improves Large Vision-language Models.](https://sites.google.com/view/chain-of-spot/) | The Interactive Reasoning method known as Chain-of-Spot (CoS) greatly improves the way Large Vision-Language Models (LVLMs) analyze and comprehend pictures. With CoS, LVLMs may obtain precise visual information without sacrificing picture quality by concentrating on specific regions of interest inside images in response to predetermined inquiries or commands. |
 |[StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On.](https://rlawjdghek.github.io/StableVITON/) | A new method for image-based virtual try-on is called StableVITON. This approach makes advantage of the creative capacity of diffusion models that have already been trained, while keeping attention to garment details. StableVITON discovers semantic correspondences in the latent space of a pre-trained model between clothing and the human body. |
+|[Diffusion-based Video Translation.](https://www.mmlab-ntu.com/project/fresco/) |FRESCO is a unique method that greatly enhances the spatial-temporal consistency in video translation tasks by combining intra-frame and inter-frame correspondences. |
+|[Generalized Consistency Trajectory Models.](https://github.com/1202kbs/gctm) | With the introduction of Generalized Consistency Trajectory Models (GCTMs), this effort improves the capabilities of diffusion models for tasks such as image restoration and editing. By translating between any two distributions in a single step, these models simplify the procedure and enable remarkably accurate and efficient image modification. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Copilot4D: A Foundation Model for Self-Driving.](https://waabi.ai/introducing-copilot4d/) | Waabi's Copilot4D is a ground-breaking foundation model that advances the capabilities of autonomous machines by using LiDAR data to comprehend and forecast the 3D dynamics of the environment across time.|
 |[NLX Raises $15M in Series A Funding.](https://nlx.ai/news/nlx-raises-15m-in-series-a-funding) |In March 2024, NLX extended its Series A funding to $15M, adding Comcast Ventures. |
 |[Triton Puzzles.](https://github.com/srush/Triton-Puzzles/) | Triton is an alternative open-source language that allows you to code at a higher-level and compile to accelerators like GPU. This set is puzzles is meant to teach you how to use Triton from first principles in an interactive fashion. You will start with trivial examples and build your way up to real algorithms like Flash Attention and Quantized neural networks. These puzzles do not need to run on GPU since they use a Triton interpreter.|
-|[.]() | |
+|[New Breakthrough Brings Matrix Multiplication Closer to Ideal.](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/) |Researchers from Tsinghua University and UC Berkeley have made great strides in matrix multiplication, introducing a novel method that has already inspired improvements. Significant time, power, and cost savings in a variety of applications could result from this development in a fundamental computer procedure. Since the previous milestone in 2010, this is the most significant advancement in lowering the computational cost of matrix multiplication. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quiet-STaR.](https://github.com/ezelikman/quiet-star) | A reasoning framework called Quiet-Star enhances language models' capacity to produce accurate results. An eight-step model per token has been given along with the code.|
 |[MoE-Adapters4CL.](https://github.com/jiazuoyu/moe-adapters4cl) |Continual learning can empower vision-language models to continuously acquire new knowledge, without the need for access to the entire historical dataset. Through extensive experiments across various settings, our proposed method consistently outperforms previous state-of-the-art approaches while concurrently reducing parameter training burdens by 60%.|
 |[LlamaGym.](https://github.com/KhoomeiK/LlamaGym) |Fine-tune LLM agents with online reinforcement learning |
-|[.]() | |
+|[Stylized image binning algorithm.](https://benjdd.com/posts/stylized-image-binning-algorithm/) |This is a tutorial on utilizing a JavaScript binning method to create an image processing application that looks like pixel art and has customizable interactive web features like sliders. By averaging pixel brightness inside bins, the binning technique transforms photos into stylized, pixelated artwork by utilizing parameters like bin size and spacing. The approach entails efficiently optimizing looping structures and modifying pixel data on HTML canvas components. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Three reasons why AI doesn’t model human language.](https://www.nature.com/articles/d41586-024-00824-z) |Artificial intelligence (AI) is being used to develop large language models (LLMs) with considerable success. But they should not be seen as being models of how human language works and is acquired. |
 |[So … you’ve been hacked.](https://www.nature.com/articles/d41586-024-00818-x) |Research institutions are under siege from cybercriminals and other digital assailants. How do you make sure you don’t let them in? |
 |[8 Google Employees Invented Modern AI. Here’s the Inside Story.](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) |They met by chance, got hooked on an idea, and wrote the “Transformers” paper—the most consequential tech breakthrough in recent history. |
-|[.]() | |
+|[Using LLMs to Generate Fuzz Generators.](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/) |Claude and other LLMs are capable of producing efficient fuzzers for code parsing, automating a task that has historically required a great deal of human labor. Given that fuzzing is stochastic, LLMs seem to be a good fit for producing fuzzers, even if they are usually not exact enough for static analysis. To find and exploit code vulnerabilities, a hybrid approach that combines targeted fuzzing and LLM-driven static analysis may be promising. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
