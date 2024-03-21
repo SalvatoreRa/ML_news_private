@@ -91,6 +91,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NLX Raises $15M in Series A Funding.](https://nlx.ai/news/nlx-raises-15m-in-series-a-funding) |In March 2024, NLX extended its Series A funding to $15M, adding Comcast Ventures. |
 |[Triton Puzzles.](https://github.com/srush/Triton-Puzzles/) | Triton is an alternative open-source language that allows you to code at a higher-level and compile to accelerators like GPU. This set is puzzles is meant to teach you how to use Triton from first principles in an interactive fashion. You will start with trivial examples and build your way up to real algorithms like Flash Attention and Quantized neural networks. These puzzles do not need to run on GPU since they use a Triton interpreter.|
 |[New Breakthrough Brings Matrix Multiplication Closer to Ideal.](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/) |Researchers from Tsinghua University and UC Berkeley have made great strides in matrix multiplication, introducing a novel method that has already inspired improvements. Significant time, power, and cost savings in a variety of applications could result from this development in a fundamental computer procedure. Since the previous milestone in 2010, this is the most significant advancement in lowering the computational cost of matrix multiplication. |
+|[OpenAI could release GPT-5 in a few months: Report.](https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-release-few-months-9224982/) |OpenAI could release GPT-5, the next-generation of its groundbreaking large language model, in a few months, according to a new report. |
+|[Beijing court’s ruling that AI-generated content can be covered by copyright eschews US stand, with far-reaching implications on tech’s use.](https://www.scmp.com/tech/tech-trends/article/3243570/beijing-courts-ruling-ai-generated-content-can-be-covered-copyright-eschews-us-stand-far-reaching) |The Beijing Internet Court ruled that an AI-generated image in an intellectual property dispute was an artwork protected by copyright laws. That decision is expected have far-reaching implications for future AI copyright disputes, which could eventually benefit Chinese Big Tech companies. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
