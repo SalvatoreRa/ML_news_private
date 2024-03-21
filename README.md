@@ -130,8 +130,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What if it isn't happening, AGI is not coming?](https://www.mindprison.cc/p/what-if-agi-is-not-coming) |No matter what appears to be happening, we always have to consider what if it isn't. What If LLMs fail to turn into AGIs? Has our quest for intelligence simply unveiled our demonstrable lack thereof? Will trillions of dollars turn unpredictable hallucination machines into reliable universal productivity tools that can do anything? |
 |[How OpenAI’s text-to-video tool Sora could change science – and society.](https://www.nature.com/articles/d41586-024-00661-0) |OpenAI’s debut of its impressive Sora text-to-video tool has raised important questions. |
 |[Chatbot AI makes racist judgements on the basis of dialect.](https://www.nature.com/articles/d41586-024-00779-1) | Some large language models harbour hidden biases that cannot be removed using standard methods.|
-|[.]() | |
-|[.]() | |
+|[Could AI-designed proteins be weaponized? Scientists lay out safety guidelines.](https://www.nature.com/articles/d41586-024-00699-0) | AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field.|
+|[Three reasons why AI doesn’t model human language.](https://www.nature.com/articles/d41586-024-00824-z) |Artificial intelligence (AI) is being used to develop large language models (LLMs) with considerable success. But they should not be seen as being models of how human language works and is acquired. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
