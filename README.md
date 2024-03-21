@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chatbot AI makes racist judgements on the basis of dialect.](https://www.nature.com/articles/d41586-024-00779-1) | Some large language models harbour hidden biases that cannot be removed using standard methods.|
 |[Could AI-designed proteins be weaponized? Scientists lay out safety guidelines.](https://www.nature.com/articles/d41586-024-00699-0) | AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field.|
 |[Three reasons why AI doesn’t model human language.](https://www.nature.com/articles/d41586-024-00824-z) |Artificial intelligence (AI) is being used to develop large language models (LLMs) with considerable success. But they should not be seen as being models of how human language works and is acquired. |
-|[.]() | |
+|[So … you’ve been hacked.](https://www.nature.com/articles/d41586-024-00818-x) |Research institutions are under siege from cybercriminals and other digital assailants. How do you make sure you don’t let them in? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
