@@ -81,8 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing RAG 2.0.](https://contextual.ai/introducing-rag2/) | A technique for adding knowledge to a language model that can become stale is called retrieval augmented generation, or RAG. Unfortunately, outside of demonstrations, the current paradigm of "frozen RAG," in which just a portion of the pipeline is trained and the model itself is not updated, performs badly. This blog describes the next generation of RAG, where all the components are fine-tuned for the job at hand. In this system, an open model such as Mistral 7B can perform better than the conventional GPT-4 RAG.|
 |[Fitbit Using Google Gemini for New AI That Could Become Your Fitness Coach.](https://www.pcmag.com/news/fitbit-using-google-gemini-for-new-ai-that-could-become-your-fitness-coach) |Google is training Gemini on health data, and it's creating a new AI model for the Fitbit app that can give advice tailored to your needs. |
 |[Stable Diffusion maker leaves Stability AI.](https://sifted.eu/articles/stability-ai-rombach-news) | Robin Rombach helped build the tech that made Stability AI famous, now he's leaving the company|
-|[.]() | |
-|[.]() | |
+|[Introducing Copilot4D: A Foundation Model for Self-Driving.](https://waabi.ai/introducing-copilot4d/) | Waabi's Copilot4D is a ground-breaking foundation model that advances the capabilities of autonomous machines by using LiDAR data to comprehend and forecast the 3D dynamics of the environment across time.|
+|[NLX Raises $15M in Series A Funding.](https://nlx.ai/news/nlx-raises-15m-in-series-a-funding) |In March 2024, NLX extended its Series A funding to $15M, adding Comcast Ventures. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
