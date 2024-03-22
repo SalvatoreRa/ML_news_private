@@ -124,8 +124,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MoE-Adapters4CL.](https://github.com/jiazuoyu/moe-adapters4cl) |Continual learning can empower vision-language models to continuously acquire new knowledge, without the need for access to the entire historical dataset. Through extensive experiments across various settings, our proposed method consistently outperforms previous state-of-the-art approaches while concurrently reducing parameter training burdens by 60%.|
 |[LlamaGym.](https://github.com/KhoomeiK/LlamaGym) |Fine-tune LLM agents with online reinforcement learning |
 |[Stylized image binning algorithm.](https://benjdd.com/posts/stylized-image-binning-algorithm/) |This is a tutorial on utilizing a JavaScript binning method to create an image processing application that looks like pixel art and has customizable interactive web features like sliders. By averaging pixel brightness inside bins, the binning technique transforms photos into stylized, pixelated artwork by utilizing parameters like bin size and spacing. The approach entails efficiently optimizing looping structures and modifying pixel data on HTML canvas components. |
-|[.]() | |
-|[.]() | |
+|[TorchTune.](https://github.com/pytorch/torchtune) | TorchTune is a native-Pytorch library for easily authoring, fine-tuning and experimenting with LLMs.|
+|[MVFA-AD.](https://github.com/mediabrain-sjtu/mvfa-ad) |Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,6 +150,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[So … you’ve been hacked.](https://www.nature.com/articles/d41586-024-00818-x) |Research institutions are under siege from cybercriminals and other digital assailants. How do you make sure you don’t let them in? |
 |[8 Google Employees Invented Modern AI. Here’s the Inside Story.](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) |They met by chance, got hooked on an idea, and wrote the “Transformers” paper—the most consequential tech breakthrough in recent history. |
 |[Using LLMs to Generate Fuzz Generators.](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/) |Claude and other LLMs are capable of producing efficient fuzzers for code parsing, automating a task that has historically required a great deal of human labor. Given that fuzzing is stochastic, LLMs seem to be a good fit for producing fuzzers, even if they are usually not exact enough for static analysis. To find and exploit code vulnerabilities, a hybrid approach that combines targeted fuzzing and LLM-driven static analysis may be promising. |
+|[First Impressions of Early-Access GPT-4 Fine-Tuning.](https://www.supersimple.io/blog/gpt-4-fine-tuning-early-access) |A few weeks ago we finally got access to the GPT-4 fine-tuning API (in limited early access), and were super excited to check out how well it works. We’d been a user of OpenAI’s fine-tuned models since fine-tuning the original GPT-3 davinci model first became available. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
