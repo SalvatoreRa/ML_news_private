@@ -60,9 +60,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On.](https://rlawjdghek.github.io/StableVITON/) | A new method for image-based virtual try-on is called StableVITON. This approach makes advantage of the creative capacity of diffusion models that have already been trained, while keeping attention to garment details. StableVITON discovers semantic correspondences in the latent space of a pre-trained model between clothing and the human body. |
 |[Diffusion-based Video Translation.](https://www.mmlab-ntu.com/project/fresco/) |FRESCO is a unique method that greatly enhances the spatial-temporal consistency in video translation tasks by combining intra-frame and inter-frame correspondences. |
 |[Generalized Consistency Trajectory Models.](https://github.com/1202kbs/gctm) | With the introduction of Generalized Consistency Trajectory Models (GCTMs), this effort improves the capabilities of diffusion models for tasks such as image restoration and editing. By translating between any two distributions in a single step, these models simplify the procedure and enable remarkably accurate and efficient image modification. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing SceneScript, a novel approach for 3D scene reconstruction.](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/) | A model developed by Meta Reality Labs may convert visual input into a three-dimensional (3D) representation of a scene. The 70m parameter model has exceptional stability and operates rapidly on the device.|
+|[Scalable Diffusion Models with State Space Backbone.](https://arxiv.org/abs/2402.05608v1) | |
+|[PuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns.](https://arxiv.org/abs/2403.13315v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
