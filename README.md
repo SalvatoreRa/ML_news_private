@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cohere’s Command-R Enterprise Model Coming to ai.nvidia.com.](https://txt.cohere.com/cohere-launch-nvidia/) |The RAG-optimized Command-R model from Cohere, which is intended to help enterprises transition to large-scale production, will soon be available in the freshly released NVIDIA API catalog. |
 |[Biden-Harris Administration Announces Deal with Intel for AI Chips.](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support) | Biden-Harris Administration Announces Preliminary Terms with Intel to Support Investment in U.S. Semiconductor Technology Leadership and Create Tens of Thousands of Jobs|
 |[Apple’s AI ambitions could include Google or OpenAI.](https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt) | The iPhone-maker is in ‘active’ talks to bring Gemini to the iPhone, and has also considered using ChatGPT.|
-|[.]() | |
+|[World’s first major act to regulate AI passed by European lawmakers.](https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html) | The European Union’s parliament on Wednesday approved the world’s first major set of regulatory ground rules to govern the mediatized artificial intelligence at the forefront of tech investment. Born in 2021, the EU AI Act divides the technology into categories of risk, ranging from “unacceptable” — which would see the technology banned — to high, medium and low hazard.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
