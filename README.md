@@ -61,8 +61,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion-based Video Translation.](https://www.mmlab-ntu.com/project/fresco/) |FRESCO is a unique method that greatly enhances the spatial-temporal consistency in video translation tasks by combining intra-frame and inter-frame correspondences. |
 |[Generalized Consistency Trajectory Models.](https://github.com/1202kbs/gctm) | With the introduction of Generalized Consistency Trajectory Models (GCTMs), this effort improves the capabilities of diffusion models for tasks such as image restoration and editing. By translating between any two distributions in a single step, these models simplify the procedure and enable remarkably accurate and efficient image modification. |
 |[Introducing SceneScript, a novel approach for 3D scene reconstruction.](https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/) | A model developed by Meta Reality Labs may convert visual input into a three-dimensional (3D) representation of a scene. The 70m parameter model has exceptional stability and operates rapidly on the device.|
-|[Scalable Diffusion Models with State Space Backbone.](https://arxiv.org/abs/2402.05608v1) | |
-|[PuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns.](https://arxiv.org/abs/2403.13315v1) | |
+|[Scalable Diffusion Models with State Space Backbone.](https://arxiv.org/abs/2402.05608v1) | A novel kind of diffusion model known as Diffusion State Space Models (DiS) uses a state space backbone for image data instead of the conventional U-Net. These models are effective at producing high-quality photos with little computing work and can manage long-range relationships. |
+|[PuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns.](https://arxiv.org/abs/2403.13315v1) |PuzzleVQA is a dataset created to evaluate big multimodal models such as GPT-4V's capacity for abstract thinking. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
