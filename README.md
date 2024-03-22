@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Japan’s premier AI lab launches its first model.](https://sakana.ai/evolutionary-model-merge/) | Sakana AI develops cutting-edge models for Japanese language, vision, and picture production. In order to evolve foundation models without the need for costly pretraining, it introduced an evolutionary model merging. The model merging and a description of the process are now available.|
 |[Cohere’s Command-R Enterprise Model Coming to ai.nvidia.com.](https://txt.cohere.com/cohere-launch-nvidia/) |The RAG-optimized Command-R model from Cohere, which is intended to help enterprises transition to large-scale production, will soon be available in the freshly released NVIDIA API catalog. |
 |[Biden-Harris Administration Announces Deal with Intel for AI Chips.](https://www.commerce.gov/news/press-releases/2024/03/biden-harris-administration-announces-preliminary-terms-intel-support) | Biden-Harris Administration Announces Preliminary Terms with Intel to Support Investment in U.S. Semiconductor Technology Leadership and Create Tens of Thousands of Jobs|
-|[.]() | |
+|[Apple’s AI ambitions could include Google or OpenAI.](https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt) | The iPhone-maker is in ‘active’ talks to bring Gemini to the iPhone, and has also considered using ChatGPT.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
