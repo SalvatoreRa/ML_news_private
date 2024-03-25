@@ -39,8 +39,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework.](https://arxiv.org/abs/2403.13248) |This paper introduces Mora, a new multi-agent framework designed to close the gap in the field of generalist video generation, mimicking the capabilities of the leading model, Sora, across a range of tasks including text-to-video and video editing. Despite achieving performance close to Sora in various tasks, Mora still faces a holistic performance gap, marking a step towards future advancements in collaborative AI agents for video generation. |
-|[.]() | |
-|[.]() | |
+|[Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models.](https://arxiv.org/abs/2403.14291v1) |Text-to-image diffusion models such as Stable Diffusion are altered by Open-Vocabulary Attention Maps (OVAM), which overcome earlier restrictions by enabling the creation of attention maps for any word. |
+|[HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption.](https://arxiv.org/abs/2403.14111v1) |Securing data privacy with Homomorphic Encryption, HETAL's novel method to transfer learning represents a major advancement in safe AI training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -73,10 +73,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Building and testing C extensions for SQLite with ChatGPT Code Interpreter.](https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/) | This essay goes into great detail on how to create code in a foreign language for a difficult task using ChatGPT (or any other language model). Its creator writes, compiles, and downloads new bindings for the well-known database SQLite using ChatGPT's code interpreter.|
+|[Official Mistral Fine-tuning Code.](https://github.com/mistralai-sf24/hackathon/tree/main/finetune) | A hackathon was recently organized by Mistral. The business also published code for optimizing its language models along with version 0.2 of the 7B model. The coding is clear and easy to read.|
+|[Scalable Optimal Transport.](https://github.com/abdelwahed/OT_for_big_data) | A curated list of research works and resources on optimal transport in machine learning.|
+|[AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation.](https://github.com/c-yn/adair) |AdaIR presents an all-in-one image restoration network that addresses several types of picture deterioration such noise, blur, and haze by using frequency mining and modulation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
