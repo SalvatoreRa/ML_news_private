@@ -41,7 +41,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework.](https://arxiv.org/abs/2403.13248) |This paper introduces Mora, a new multi-agent framework designed to close the gap in the field of generalist video generation, mimicking the capabilities of the leading model, Sora, across a range of tasks including text-to-video and video editing. Despite achieving performance close to Sora in various tasks, Mora still faces a holistic performance gap, marking a step towards future advancements in collaborative AI agents for video generation. |
 |[Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models.](https://arxiv.org/abs/2403.14291v1) |Text-to-image diffusion models such as Stable Diffusion are altered by Open-Vocabulary Attention Maps (OVAM), which overcome earlier restrictions by enabling the creation of attention maps for any word. |
 |[HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption.](https://arxiv.org/abs/2403.14111v1) |Securing data privacy with Homomorphic Encryption, HETAL's novel method to transfer learning represents a major advancement in safe AI training. |
-|[.]() | |
+|[HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.](https://yihangchen-ee.github.io/project_hac/) | This paper presents the Hash-grid Assisted Context (HAC) framework, which outperforms existing standards by achieving over 75X compression of 3D Gaussian Splatting (3DGS) data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -62,6 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[After raising $1.3B, Inflection is eaten alive by its biggest investor, Microsoft.]() | In June 2023, Inflection announced it had raised $1.3 billion to build what it called “more personal AI.” The lead investor was Microsoft. Today, less than a year later, Microsoft announced that it was feasting on Inflection’s body and sucking the marrow from the bones (though I think they phrased it differently).|
 |[OpenAI is pitching Sora to Hollywood.](https://www.theverge.com/2024/3/22/24108858/openai-is-pitching-sora-to-hollywood) |The AI company is scheduled to meet with a number of studios, talent agencies, and media executives in Los Angeles next week to discuss partnerships, sources familiar with the matter tell Bloomberg.  |
 |[GitHub’s latest AI tool can automatically fix code vulnerabilities.](https://techcrunch.com/2024/03/20/githubs-latest-ai-tool-that-can-automatically-fix-code-vulnerabilities/) |It’s a bad day for bugs. Earlier today, Sentry announced its AI Autofix feature for debugging production code and now, a few hours later, GitHub is launching the first beta of its code-scanning autofix feature for finding and fixing security vulnerabilities during the coding process. |
+|[Researchers gave AI an 'inner monologue' and it massively improved its performance.](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance) | Scientists trained an AI system to think before speaking with a technique called QuietSTaR. The inner monologue improved common sense reasoning and doubled math performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -77,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Official Mistral Fine-tuning Code.](https://github.com/mistralai-sf24/hackathon/tree/main/finetune) | A hackathon was recently organized by Mistral. The business also published code for optimizing its language models along with version 0.2 of the 7B model. The coding is clear and easy to read.|
 |[Scalable Optimal Transport.](https://github.com/abdelwahed/OT_for_big_data) | A curated list of research works and resources on optimal transport in machine learning.|
 |[AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation.](https://github.com/c-yn/adair) |AdaIR presents an all-in-one image restoration network that addresses several types of picture deterioration such noise, blur, and haze by using frequency mining and modulation. |
-|[.]() | |
+|[Turbocharged Training: Optimizing the Databricks Mosaic AI stack with FP8.](https://www.databricks.com/blog/turbocharged-training-optimizing-databricks-mosaic-ai-stack-fp8) |The group at Databricks Mosaic has persisted in advancing language model training. They talk about the fp8 training stack and potential advantages of decreasing precision in this post. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,9 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[How People Are Really Using GenAI.](https://hbr.org/2024/03/how-people-are-really-using-genai) |  There are many use cases for generative AI, spanning a vast number of areas of domestic and work life. Looking through thousands of comments on sites such as Reddit and Quora, the author’s team found that the use of this technology is as wide-ranging as the problems we encounter in our lives. The 100 categories they identified can be divided into six top-level themes, which give an immediate sense of what generative AI is being used for: Technical Assistance & Troubleshooting (23%), Content Creation & Editing (22%), Personal & Professional Support (17%), Learning & Education (15%), Creativity & Recreation (13%), Research, Analysis & Decision Making (10%).|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Untangling concerns about consolidation in AI.](https://generatingconversation.substack.com/p/untangling-concerns-about-consolidation) | Microsoft's recent acquisition of Inflection's talent sparked discussions about the largest tech giants having too much influence over AI research and development. Although they have the resources to work quickly on basic language models, there are legitimate concerns that the concentration of power would stifle transparency and innovation. This article examines the intricate trade-offs that arise as artificial intelligence becomes more widely used.|
+|[‘A landmark moment’: scientists use AI to design antibodies from scratch.](https://www.nature.com/articles/d41586-024-00846-7) |Modified protein-design tool could make it easier to tackle challenging drug targets — but AI antibodies are still a long way from reaching the clinic. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
