@@ -57,11 +57,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[Stability AI CEO resigns to ‘pursue decentralized AI’.](https://www.theverge.com/2024/3/23/24109511/stability-ai-ceo-emad-mostaque-resignation-decentralized-ai) |Emad Mostaque’s resignation comes after key departures at the AI startup. |
+|[Stability AI CEO resigns to ‘pursue decentralized AI’.](https://www.theverge.com/2024/3/23/24109511/stability-ai-ceo-emad-mostaque-resignation-decentralized-ai) |Emad Mostaque’s resignation comes after key departures at the AI startup. And [here](https://stability.ai/news/stabilityai-announcement) the Company announcement.|
 |[GTC Wrap-Up: ‘We Created a Processor for the Generative AI Era,’ NVIDIA CEO Says.](https://blogs.nvidia.com/blog/2024-gtc-keynote/) |Kicking off the biggest GTC conference yet, NVIDIA founder and CEO Jensen Huang unveils NVIDIA Blackwell, NIM microservices, Omniverse Cloud APIs and more. |
 |[After raising $1.3B, Inflection is eaten alive by its biggest investor, Microsoft.]() | In June 2023, Inflection announced it had raised $1.3 billion to build what it called “more personal AI.” The lead investor was Microsoft. Today, less than a year later, Microsoft announced that it was feasting on Inflection’s body and sucking the marrow from the bones (though I think they phrased it differently).|
-|[.]() | |
-|[.]() | |
+|[OpenAI is pitching Sora to Hollywood.](https://www.theverge.com/2024/3/22/24108858/openai-is-pitching-sora-to-hollywood) |The AI company is scheduled to meet with a number of studios, talent agencies, and media executives in Los Angeles next week to discuss partnerships, sources familiar with the matter tell Bloomberg.  |
+|[GitHub’s latest AI tool can automatically fix code vulnerabilities.](https://techcrunch.com/2024/03/20/githubs-latest-ai-tool-that-can-automatically-fix-code-vulnerabilities/) |It’s a bad day for bugs. Earlier today, Sentry announced its AI Autofix feature for debugging production code and now, a few hours later, GitHub is launching the first beta of its code-scanning autofix feature for finding and fixing security vulnerabilities during the coding process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
