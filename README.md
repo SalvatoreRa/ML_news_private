@@ -38,7 +38,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework.](https://arxiv.org/abs/2403.13248) |This paper introduces Mora, a new multi-agent framework designed to close the gap in the field of generalist video generation, mimicking the capabilities of the leading model, Sora, across a range of tasks including text-to-video and video editing. Despite achieving performance close to Sora in various tasks, Mora still faces a holistic performance gap, marking a step towards future advancements in collaborative AI agents for video generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[How People Are Really Using GenAI.](https://hbr.org/2024/03/how-people-are-really-using-genai) |  There are many use cases for generative AI, spanning a vast number of areas of domestic and work life. Looking through thousands of comments on sites such as Reddit and Quora, the author’s team found that the use of this technology is as wide-ranging as the problems we encounter in our lives. The 100 categories they identified can be divided into six top-level themes, which give an immediate sense of what generative AI is being used for: Technical Assistance & Troubleshooting (23%), Content Creation & Editing (22%), Personal & Professional Support (17%), Learning & Education (15%), Creativity & Recreation (13%), Research, Analysis & Decision Making (10%).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
