@@ -42,11 +42,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models.](https://arxiv.org/abs/2403.14291v1) |Text-to-image diffusion models such as Stable Diffusion are altered by Open-Vocabulary Attention Maps (OVAM), which overcome earlier restrictions by enabling the creation of attention maps for any word. |
 |[HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption.](https://arxiv.org/abs/2403.14111v1) |Securing data privacy with Homomorphic Encryption, HETAL's novel method to transfer learning represents a major advancement in safe AI training. |
 |[HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.](https://yihangchen-ee.github.io/project_hac/) | This paper presents the Hash-grid Assisted Context (HAC) framework, which outperforms existing standards by achieving over 75X compression of 3D Gaussian Splatting (3DGS) data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Shadow Generation for Composite Image Using Diffusion model.](https://arxiv.org/abs/2403.15234v1) | |
+|[View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network.](https://arxiv.org/abs/2403.14513v1) | |
+|[ElasticDiffusion: Training-free Arbitrary Size Image Generation.](https://arxiv.org/abs/2311.18822v1) | |
+|[PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model.](https://github.com/zamling/psalm) | |
+|[Compositional Inversion for Stable Diffusion Models.](https://arxiv.org/abs/2312.08048v2) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -67,7 +67,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sora: First Impressions.](https://openai.com/blog/sora-first-impressions) | A compilation of Sora content generated from visual artists, designers, creative directors, and filmmakers.|
 |[Open Interpreter O1 Light.](https://twitter.com/OpenInterpreter/status/1770821439458840846) |A portable speech interface that manages your home computer is called the 01 Light. It can utilize your applications, view your screen, and pick up new abilities. The open-source 01 serves as the basis for a new generation of AI gadgets. |
 |[Character Voice For Everyone.](https://blog.character.ai/character-voice-for-everyone/) | Character Voice is a set of capabilities that elevates the Character.AI experience by enabling users to hear Characters conversing with them one-on-one. The company's bigger goal is to create a multimodal interface that will enable more smooth, simple, and interesting interactions. This is the first step toward that goal. |
-|[.]() | |
+|[Cerebras Systems Unveils World’s Fastest AI Chip with Whopping 4 Trillion Transistors.](https://www.cerebras.net/press-release/cerebras-announces-third-generation-wafer-scale-engine) |The 24T parameter language models may be trained using Cerebras' new wafer chip. PyTorch is supported natively. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
