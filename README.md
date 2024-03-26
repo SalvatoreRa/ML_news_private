@@ -68,8 +68,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open Interpreter O1 Light.](https://twitter.com/OpenInterpreter/status/1770821439458840846) |A portable speech interface that manages your home computer is called the 01 Light. It can utilize your applications, view your screen, and pick up new abilities. The open-source 01 serves as the basis for a new generation of AI gadgets. |
 |[Character Voice For Everyone.](https://blog.character.ai/character-voice-for-everyone/) | Character Voice is a set of capabilities that elevates the Character.AI experience by enabling users to hear Characters conversing with them one-on-one. The company's bigger goal is to create a multimodal interface that will enable more smooth, simple, and interesting interactions. This is the first step toward that goal. |
 |[Cerebras Systems Unveils World’s Fastest AI Chip with Whopping 4 Trillion Transistors.](https://www.cerebras.net/press-release/cerebras-announces-third-generation-wafer-scale-engine) |The 24T parameter language models may be trained using Cerebras' new wafer chip. PyTorch is supported natively. |
-|[.]() | |
-|[.]() | |
+|[The GPT-4 barrier has finally been broken.](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/) | The GPT-4 barrier has finally been broken
+Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
+|[China puts trust in AI to maintain largest high-speed rail network on Earth.](https://www.scmp.com/news/china/science/article/3255039/china-puts-trust-ai-maintain-largest-high-speed-rail-network-earth) |The railway system is in better condition than when it was first built, according to peer-reviewed paper. Vast amounts of real-time data are processed by an artificial intelligence system in Beijing to identify problems before they arise, the engineers say|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Untangling concerns about consolidation in AI.](https://generatingconversation.substack.com/p/untangling-concerns-about-consolidation) | Microsoft's recent acquisition of Inflection's talent sparked discussions about the largest tech giants having too much influence over AI research and development. Although they have the resources to work quickly on basic language models, there are legitimate concerns that the concentration of power would stifle transparency and innovation. This article examines the intricate trade-offs that arise as artificial intelligence becomes more widely used.|
 |[‘A landmark moment’: scientists use AI to design antibodies from scratch.](https://www.nature.com/articles/d41586-024-00846-7) |Modified protein-design tool could make it easier to tackle challenging drug targets — but AI antibodies are still a long way from reaching the clinic. |
 |[TechScape: Is the US calling time on Apple’s smartphone domination?](https://www.theguardian.com/technology/2024/mar/26/techscape-apple-us-government-antitrust-lawsuit-elon-musk) |The tech giant fights regulators on both sides of the Atlantic, as the US government launches a grab-bag of accusations. Plus, Elon Musk’s bad day in court |
-|[.]() | |
+|[Go, Python, Rust, and production AI applications.](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/) |The roles of Python, Go, and Rust in developing AI applications are covered in this article: Go is used for larger-scale production, Python is used for developing AI models, and Rust is used for tasks requiring high performance. It highlights the significance of choosing the appropriate language for the task based on the ecosystem and tool fit, speculating that Go may replace Python as the production language. The author promotes connecting the Go and Python communities to improve the development of AI applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
