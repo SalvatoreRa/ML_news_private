@@ -64,6 +64,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GitHub’s latest AI tool can automatically fix code vulnerabilities.](https://techcrunch.com/2024/03/20/githubs-latest-ai-tool-that-can-automatically-fix-code-vulnerabilities/) |It’s a bad day for bugs. Earlier today, Sentry announced its AI Autofix feature for debugging production code and now, a few hours later, GitHub is launching the first beta of its code-scanning autofix feature for finding and fixing security vulnerabilities during the coding process. |
 |[Researchers gave AI an 'inner monologue' and it massively improved its performance.](https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance) | Scientists trained an AI system to think before speaking with a technique called QuietSTaR. The inner monologue improved common sense reasoning and doubled math performance.|
 |[a California city is training AI to spot homeless encampments.](https://www.theguardian.com/technology/2024/mar/25/san-jose-homelessness-ai-detection) |For the last several months, a city at the heart of Silicon Valley has been training artificial intelligence to recognize tents and cars with people living inside in what experts believe is the first experiment of its kind in the United States. |
+|[Sora: First Impressions.](https://openai.com/blog/sora-first-impressions) | A compilation of Sora content generated from visual artists, designers, creative directors, and filmmakers.|
+|[Open Interpreter O1 Light.](https://twitter.com/OpenInterpreter/status/1770821439458840846) |A portable speech interface that manages your home computer is called the 01 Light. It can utilize your applications, view your screen, and pick up new abilities. The open-source 01 serves as the basis for a new generation of AI gadgets. |
+|[Character Voice For Everyone.](https://blog.character.ai/character-voice-for-everyone/) | Character Voice is a set of capabilities that elevates the Character.AI experience by enabling users to hear Characters conversing with them one-on-one. The company's bigger goal is to create a multimodal interface that will enable more smooth, simple, and interesting interactions. This is the first step toward that goal. |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
