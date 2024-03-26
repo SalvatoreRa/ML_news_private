@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The GPT-4 barrier has finally been broken.](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/) | The GPT-4 barrier has finally been broken
 Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
 |[China puts trust in AI to maintain largest high-speed rail network on Earth.](https://www.scmp.com/news/china/science/article/3255039/china-puts-trust-ai-maintain-largest-high-speed-rail-network-earth) |The railway system is in better condition than when it was first built, according to peer-reviewed paper. Vast amounts of real-time data are processed by an artificial intelligence system in Beijing to identify problems before they arise, the engineers say|
-|[.]() | |
+|[Microsoft to hold a special Windows and Surface AI event in May.](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella) | Ahead of Build 2024, Microsoft CEO Satya Nadella will share the company’s ‘AI vision’ for both software and hardware.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -83,10 +83,10 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[Building and testing C extensions for SQLite with ChatGPT Code Interpreter.](https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/) | This essay goes into great detail on how to create code in a foreign language for a difficult task using ChatGPT (or any other language model). Its creator writes, compiles, and downloads new bindings for the well-known database SQLite using ChatGPT's code interpreter.|
 |[Official Mistral Fine-tuning Code.](https://github.com/mistralai-sf24/hackathon/tree/main/finetune) | A hackathon was recently organized by Mistral. The business also published code for optimizing its language models along with version 0.2 of the 7B model. The coding is clear and easy to read.|
 |[Scalable Optimal Transport.](https://github.com/abdelwahed/OT_for_big_data) | A curated list of research works and resources on optimal transport in machine learning.|
-|[AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation.](https://github.com/c-yn/adair) |AdaIR presents an all-in-one image restoration network that addresses several types of picture deterioration such noise, blur, and haze by using frequency mining and modulation. |
-|[Turbocharged Training: Optimizing the Databricks Mosaic AI stack with FP8.](https://www.databricks.com/blog/turbocharged-training-optimizing-databricks-mosaic-ai-stack-fp8) |The group at Databricks Mosaic has persisted in advancing language model training. They talk about the fp8 training stack and potential advantages of decreasing precision in this post. |
-|[.]() | |
-|[.]() | |
+|[AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation.](https://github.com/c-yn/adair) |AdaIR presents an all-in-one image restoration network that addresses several types of picture deterioration such as noise, blur, and haze by using frequency mining and modulation. |
+|[Turbocharged Training: Optimizing the Databricks Mosaic AI stack with FP8.](https://www.databricks.com/blog/turbocharged-training-optimizing-databricks-mosaic-ai-stack-fp8) |The group at Databricks Mosaic has persisted in advancing language model training. They talk about the fp8 training stack and the potential advantages of decreasing precision in this post. |
+|[Low-latency Generative AI Model Serving with Ray, NVIDIA Triton Inference Server, and NVIDIA TensorRT-LLM.](https://www.anyscale.com/blog/low-latency-generative-ai-model-serving-with-ray-nvidia) |A new collaboration between Anyscale and NVIDIA will allow users to scale generative AI models into production. Customers can enhance resource management, observability, and autoscaling by utilizing the combined capabilities of Anyscale's managed runtime environment and Ray through this integration. |
+|[Discover The Best AI Websites & Tools.](https://www.toolify.ai/) | 11006 AIs and 233 categories in the best AI tools directory. AI tools list & GPTs store are updated daily by ChatGPT.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
