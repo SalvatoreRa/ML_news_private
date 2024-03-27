@@ -73,9 +73,9 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[China puts trust in AI to maintain largest high-speed rail network on Earth.](https://www.scmp.com/news/china/science/article/3255039/china-puts-trust-ai-maintain-largest-high-speed-rail-network-earth) |The railway system is in better condition than when it was first built, according to peer-reviewed paper. Vast amounts of real-time data are processed by an artificial intelligence system in Beijing to identify problems before they arise, the engineers say|
 |[Microsoft to hold a special Windows and Surface AI event in May.](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella) | Ahead of Build 2024, Microsoft CEO Satya Nadella will share the company’s ‘AI vision’ for both software and hardware.|
 |[AI ‘apocalypse’ could take away almost 8m jobs in UK, says report.](https://www.theguardian.com/technology/2024/mar/27/ai-apocalypse-could-take-away-almost-8m-jobs-in-uk-says-report) | Women, younger workers and lower paid are at most risk from artificial intelligence, says IPPR thinktank|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Elon Musk says all Premium subscribers on X will gain access to AI chatbot Grok this week.](https://techcrunch.com/2024/03/26/elon-musk-says-all-premium-subscribers-on-x-will-gain-access-to-ai-chatbot-grok-this-week/) |Following Elon Musk’s xAI’s move to open source its Grok large language model earlier in March, the X owner on Tuesday said that the company formerly known as Twitter will soon offer the Grok chatbot to more paying subscribers.  |
+|[OpenAI’s chatbot store is filling up with spam.](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/) |TechCrunch found that the GPT Store, OpenAI’s official marketplace for GPTs, is flooded with bizarre, potentially copyright-infringing GPTs that imply a light touch where it concerns OpenAI’s moderation efforts.|
+|[Apple's big WWDC 2024 announcement may be an AI App Store.](https://appleinsider.com/articles/24/03/25/apples-big-wwdc-2024-announcement-may-be-an-ai-app-store) |Apple's AI strategy may not necessarily be to only offer the best AI apps it can produce, but instead deliver an enhanced AI App Store that may debut at WWDC. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
