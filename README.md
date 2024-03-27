@@ -72,6 +72,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top of every key benchmark, but more importantly the clear winner in terms of “vibes”. Today that barrier has finally been smashed. We have four new models, all released to the public in the last four weeks, that are benchmarking near or even above GPT-4. |
 |[China puts trust in AI to maintain largest high-speed rail network on Earth.](https://www.scmp.com/news/china/science/article/3255039/china-puts-trust-ai-maintain-largest-high-speed-rail-network-earth) |The railway system is in better condition than when it was first built, according to peer-reviewed paper. Vast amounts of real-time data are processed by an artificial intelligence system in Beijing to identify problems before they arise, the engineers say|
 |[Microsoft to hold a special Windows and Surface AI event in May.](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella) | Ahead of Build 2024, Microsoft CEO Satya Nadella will share the company’s ‘AI vision’ for both software and hardware.|
+|[AI ‘apocalypse’ could take away almost 8m jobs in UK, says report.](https://www.theguardian.com/technology/2024/mar/27/ai-apocalypse-could-take-away-almost-8m-jobs-in-uk-says-report) | Women, younger workers and lower paid are at most risk from artificial intelligence, says IPPR thinktank|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
