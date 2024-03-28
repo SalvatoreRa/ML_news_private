@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting.](https://github.com/yyyujintang/vmrnn-pytorch) | Our suggestion is the VMRNN cell, a novel recurrent unit that combines the advantages of LSTM and Vision Mamba blocks. Our comprehensive tests demonstrate that, despite retaining a reduced model size, our suggested strategy achieves competitive outcomes on a range of pivot benchmarks.|
 |[Salience-DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement.](https://github.com/xiuqhou/Salience-DETR) |In order to balance computing economy and accuracy, this research presents Salience DETR, which uses hierarchical salience filtering to improve query selection in object identification. |
 |[Universal Cell Embeddings: A Foundation Model for Cell Biology.](https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1) |we present the Universal Cell Embedding (UCE) foundation model. UCE was trained on a corpus of cell atlas data from human and other species in a completely self-supervised way without any data annotations. UCE offers a unified biological latent space that can represent any cell, regardless of tissue or species. This universal cell embedding captures important biological variation despite the presence of experimental noise across diverse datasets. |
-|[.]() | |
+|[AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation.](https://arxiv.org/abs/2403.17694v1) | Using just one reference image and voice input, the AniPortrait framework can produce realistic animated portraits. This technique creates animations that are exceptional in terms of authentic facial expressions, a variety of poses, and great visual quality by first converting audio into 3D representations and then mapping them onto 2D facial landmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,11 +108,17 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[codel.](https://github.com/semanser/codel) |Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. |
 |[binary vector search is better than your FP32 vectors.](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vector) | A crucial component of RAG pipelines is searching over embedding vectors. You may retain performance while reducing memory needs by 30x by substituting a single 0 or 1 for the fp32 numbers, followed by a KNN clusterer and reranker.|
 |[Deepfake Generation and Detection: A Benchmark and Survey.](https://arxiv.org/abs/2403.17881v1) |This thorough analysis explores the developments and difficulties around deepfake technology and its detection, emphasizing the arms race between those who produce deepfakes and those who are creating systems to identify them. |
+|[Evaluate LLMs in real time with Street Fighter III.](https://github.com/OpenGenerativeAI/llm-colosseum) |Make LLM fight each other in real time in Street Fighter III. Each player is controlled by an LLM. We send to the LLM a text description of the screen. The LLM decide on the next moves its character will make. The next moves depends on its previous moves, the moves of its opponents, its power and health bars.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
