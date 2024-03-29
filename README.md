@@ -56,9 +56,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation.](https://arxiv.org/abs/2403.17694v1) | Using just one reference image and voice input, the AniPortrait framework can produce realistic animated portraits. This technique creates animations that are exceptional in terms of authentic facial expressions, a variety of poses, and great visual quality by first converting audio into 3D representations and then mapping them onto 2D facial landmarks.|
 |[PAID: (Prompt-guided) Attention Interpolation of Text-to-Image.](https://qy-h00.github.io/attention-interpolation-diffusion/) |Two methods, AID and its version PAID, are intended to enhance image interpolation by the incorporation of text and pose conditions. Without the need for further training, these techniques guarantee the creation of images with improved consistency, smoothness, and fidelity. |
 |[The Need for Speed: Pruning Transformers with One Recipe.](https://www.samirkhaki.com/optin-transformer-pruning/) | With the help of the OPTIN framework, transformer-based AI models can now be more effective across a range of domains without requiring retraining. Through the use of an intermediate feature distillation technique, OPTIN is able to compress networks under certain conditions with minimal impact on accuracy.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Long-form factuality in large language models.](https://arxiv.org/abs/2403.18802) |Factual information can be produced through the use of language models. Google has made available benchmarks and a dataset that demonstrate the performance of each model. This research demonstrates that language models outperform human annotators in most situations and offers advice on how to enhance a model's factuality. |
+|[CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning.](https://arxiv.org/abs/2403.17369v1) |A novel method for Unsupervised Domain Adaptation (UDA) is called CoDA. It learns from variances at both the scene and image levels, which aids AI models in becoming more adaptive to unlabeled, difficult settings. |
+|[Backtracing: Retrieving the Cause of the Query.](https://github.com/rosewang2008/backtracing) | This method finds the precise content—from lectures to news articles—that prompts users to ask questions online. Backtracing is a technique that seeks to assist content producers in improving their work by locating and comprehending the reasons for misunderstandings, inquisitiveness, or emotional responses.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,7 +97,7 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[AI21 releases Jamba Language Model.](https://www.ai21.com/jamba) |The Mamba model style is designed to outperform Transformers in terms of efficiency while maintaining performance parity. One new version with MoE layers is Jamba. With a context length of 128k tokens, it can operate at 1.6k tokens per second. It performs 67% on the benchmark for MMLU. There are weights available. |
 |[Hume introduces Empathic Voice Interface.](https://twitter.com/hume_ai/status/1773017055974789176) |Meet Hume’s Empathic Voice Interface (EVI), the first conversational AI with emotional intelligence. |
 |[Google starts testing AI overviews from SGE in main Google search interface.](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680) |Google is now testing AI overviews in the main Google Search results, even if you have not opted into the Google Search Generative Experience labs feature. Google said this is an experience on a “subset of queries, on a small percentage of search traffic in the U.S.,” a Google spokesperson told Search Engine Land. |
-|[.]() | |
+|[LLaVA-HR: High-Resolution Large Language-Vision Assistant .](https://github.com/luogen1996/llava-hr) | This repository contains the implementation of LLaVA-HR, a strong and efficient MLLM powered by our mixture-of-resolution adaptation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,6 +149,12 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[Here’s why AI search engines really can’t kill Google.](https://www.theverge.com/24111326/ai-search-perplexity-copilot-you-google-review) |The AI search tools are getting better — but they don’t yet understand what a search engine really is and how we really use them. |
 |[Inside the shadowy global battle to tame the world's most dangerous technology.](https://www.politico.eu/article/ai-control-kamala-harris-nick-clegg-meta-big-tech-social-media/) | The problem of controlling AI is one that the world is now facing. Global leaders, tech executives, and legislators convened a number of high-profile meetings and conferences that exposed disagreements and differences over how to regulate this game-changing technology.|
 |[Hackers can read private AI-assistant chats even though they’re encrypted.](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/) |All non-Google chat GPTs affected by side channel that leaks responses sent to users. |
+|[Towards 1-bit Machine Learning Models.](https://mobiusml.github.io/1bit_blog/) |Recent works on extreme low-bit quantization such as BitNet and 1.58 bit have attracted a lot of attention in the machine learning community. The main idea is that matrix multiplication with quantized weights can be implemented without multiplications, which can potentially be a game-changer in terms of compute efficiency of large machine learning models. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
