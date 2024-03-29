@@ -94,12 +94,19 @@ Four weeks ago, GPT-4 remained the undisputed champion: consistently at the top 
 |[Amazon invests another $2.75B in Anthropic — reportedly ‘largest’ in company history.](https://venturebeat.com/ai/amazon-invests-another-2-75b-in-anthropic-reportedly-largest-in-company-history/) | Today, Amazon announced it has finalized that investment at the full planned amount, putting in another $2.75 billion atop the $1.25 billion it originally committed last year. According to CNBC, it is Amazon’s “largest venture investment yet.”|
 |[OpenAI Is Starting To Test GPT Earning Sharing.](https://twitter.com/OpenAI/status/1773032605002203559) | We’re partnering with a small group of US builders to test usage-based GPT earnings. Our goal is to create a vibrant ecosystem where builders are rewarded for their creativity and impact and we look forward to collaborating with builders on the best approach to get there.|
 |[Nvidia Tops MLPerf’s Inferencing Tests.](https://spectrum.ieee.org/ai-benchmark-mlperf-llama-stablediffusion) | Now that we’re firmly in the age of massive generative AI, it’s time to add two such behemoths, Llama 2 70B and Stable Diffusion XL, to MLPerf’s inferencing tests. Version 4.0 of the benchmark tests more than 8,500 results from 23 submitting organizations. As has been the case from the beginning, computers with Nvidia GPUs came out on top, particularly those with its H200 processor. But AI accelerators from Intel and Qualcomm were in the mix as well.|
+|[AI21 releases Jamba Language Model.](https://www.ai21.com/jamba) |The Mamba model style is designed to outperform Transformers in terms of efficiency while maintaining performance parity. One new version with MoE layers is Jamba. With a context length of 128k tokens, it can operate at 1.6k tokens per second. It performs 67% on the benchmark for MMLU. There are weights available. |
+|[Hume introduces Empathic Voice Interface.](https://twitter.com/hume_ai/status/1773017055974789176) |Meet Hume’s Empathic Voice Interface (EVI), the first conversational AI with emotional intelligence. |
+|[Google starts testing AI overviews from SGE in main Google search interface.](https://searchengineland.com/google-starts-testing-ai-overviews-from-sge-in-main-google-search-interface-438680) |Google is now testing AI overviews in the main Google Search results, even if you have not opted into the Google Search Generative Experience labs feature. Google said this is an experience on a “subset of queries, on a small percentage of search traffic in the U.S.,” a Google spokesperson told Search Engine Land. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Resources
 |Link|description|
