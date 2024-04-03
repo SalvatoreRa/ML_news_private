@@ -66,7 +66,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters.](https://qwenlm.github.io/blog/qwen-moe/) | Compared to Qwen1.5-7B, which contains 6.5 billion non-embedding parameters, Qwen1.5-MoE-A2.7B contains only 2.0 billion non-embedding parameters, approximately one-third of Qwen1.5-7B’s size. Notably, it achieves a 75% decrease in training expenses and accelerates inference speed by a factor of 1.74, offering substantial improvements in resource utilization without compromising performance.|
 |[“The king is dead”—Claude 3 surpasses GPT-4 on Chatbot Arena for the first time.](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/) |Anthropic's Claude 3 is first to unseat GPT-4 for #1 since launch of Chatbot Arena in May '23. |
 |[Microsoft Copilot AI will soon run locally on PCs.](https://www.engadget.com/microsoft-copilot-ai-will-soon-run-locally-on-pcs-130642514.html) | Microsoft's Copilot AI service is set to run locally on PCs, Intel told Tom's Hardware. The company also said that next-gen AI PCs would require built-in neural processing units (NPUs) with over 40 TOPS (trillion operations per second) of power — beyond the capabilities of any consumer processor on the market.|
-|[.]() | |
+|[Navigating the Challenges and Opportunities of Synthetic Voices.](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices) | Using a 15-second audio sample, OpenAI's Voice Engine model creates speech that sounds like a speaker. Applications for it include support for non-verbal people, translation, and educational aids. Because of the possibility of abuse, OpenAI is deploying its technology cautiously.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[How Autonomous Racing Is Pushing Self-Driving Cars Forward.](https://www.inverse.com/science/self-driving-cars-ai-autonomous-racing) | The gritty reality of racing without drivers teaches us a lot about the future of autonomous cars.|
 |[Does AI need a “body” to become truly intelligent? Meta researchers think so.](https://www.freethink.com/robots-ai/embodied-ai) | AIs that can generate videos, quickly translate languages, or write new computer code could be world changing, but can they ever be truly intelligent? Not according to the embodiment hypothesis, which argues that human-level intelligence can only emerge if an intelligence is able to sense and navigate a physical environment, the same way babies can. |
-|[.]() | |
+|[Nobody Knows How to Safety-Test AI.](https://time.com/6958868/artificial-intelligence-safety-evaluations-risks/) | In line with government goals, Beth Barnes' NGO METR is working with prominent AI firms like OpenAI and Anthropic to create safety checks for sophisticated AI systems. The emphasis is on evaluating hazards, including AI autonomy and self-replication, with the understanding that safety assessments are still in their infancy and cannot ensure AI safety. Despite worries that the existing testing could not be sufficiently trustworthy to support the rapid progress of AI technologies, METR's work is viewed as pragmatic.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
