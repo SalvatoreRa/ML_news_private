@@ -68,8 +68,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft Copilot AI will soon run locally on PCs.](https://www.engadget.com/microsoft-copilot-ai-will-soon-run-locally-on-pcs-130642514.html) | Microsoft's Copilot AI service is set to run locally on PCs, Intel told Tom's Hardware. The company also said that next-gen AI PCs would require built-in neural processing units (NPUs) with over 40 TOPS (trillion operations per second) of power — beyond the capabilities of any consumer processor on the market.|
 |[Navigating the Challenges and Opportunities of Synthetic Voices.](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices) | Using a 15-second audio sample, OpenAI's Voice Engine model creates speech that sounds like a speaker. Applications for it include support for non-verbal people, translation, and educational aids. Because of the possibility of abuse, OpenAI is deploying its technology cautiously.|
 |[Apple AI researchers boast useful on-device model that ‘substantially outperforms’ GPT-4.](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/) |Nevertheless, Apple forges ahead with the promise of AI. In a newly published research paper, Apple’s AI gurus describe a system in which Siri can do much more than try to recognize what’s in an image. The best part? It thinks one of its models for doing this benchmarks better than ChatGPT 4.0. |
-|[.]() | |
-|[.]() | |
+|[Introducing Bezi AI.](https://bezi.com/hq/blog/introducing-bezi-ai) |The capacity to ideate at the speed of thought with a limitless asset collection is a major turning point in the field of 3D design. |
+|[Robot, can you say ‘Cheese’?](https://www.engineering.columbia.edu/news/robot-can-you-say-cheese) |Columbia engineers build Emo, a silicon-clad robotic face that makes eye contact and uses two AI models to anticipate and replicate a person’s smile before the person actually smiles -- a major advance in robots predicting human facial expressions accurately, improving interactions, and building trust between humans and robots. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
