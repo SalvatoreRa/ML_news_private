@@ -70,6 +70,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple AI researchers boast useful on-device model that ‘substantially outperforms’ GPT-4.](https://9to5mac.com/2024/04/01/apple-ai-gpt-4/) |Nevertheless, Apple forges ahead with the promise of AI. In a newly published research paper, Apple’s AI gurus describe a system in which Siri can do much more than try to recognize what’s in an image. The best part? It thinks one of its models for doing this benchmarks better than ChatGPT 4.0. |
 |[Introducing Bezi AI.](https://bezi.com/hq/blog/introducing-bezi-ai) |The capacity to ideate at the speed of thought with a limitless asset collection is a major turning point in the field of 3D design. |
 |[Robot, can you say ‘Cheese’?](https://www.engineering.columbia.edu/news/robot-can-you-say-cheese) |Columbia engineers build Emo, a silicon-clad robotic face that makes eye contact and uses two AI models to anticipate and replicate a person’s smile before the person actually smiles -- a major advance in robots predicting human facial expressions accurately, improving interactions, and building trust between humans and robots. |
+|[Billie Eilish, Nicki Minaj, Stevie Wonder and more musicians demand protection against AI.](https://www.theguardian.com/technology/2024/apr/02/musicians-demand-protection-against-ai) |Letter signed by more than 200 artists makes broad ask that tech firms pledge to not develop AI tools to replace human creatives |
+|[US and UK announce formal partnership on artificial intelligence safety.](https://www.theguardian.com/technology/2024/apr/02/us-uk-artificial-intelligence-partnership) | Countries sign memorandum to develop advanced AI model testing amid growing safety concerns|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
