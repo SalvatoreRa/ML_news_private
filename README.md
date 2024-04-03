@@ -41,8 +41,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes.](https://arxiv.org/abs/2403.19589v1) | Scholars have unveiled a novel methodology for comprehending outside surroundings, surmounting challenges such as variable conditions and insufficient data that had hitherto impeded progress.|
+|[Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks.](https://arxiv.org/abs/2403.19633v1) |This work presents a control system that emphasizes collaboration with neighboring drivers to enable safe and seamless lane changes in congested traffic by combining AI and predictive algorithms. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
