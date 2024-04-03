@@ -43,9 +43,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes.](https://arxiv.org/abs/2403.19589v1) | Scholars have unveiled a novel methodology for comprehending outside surroundings, surmounting challenges such as variable conditions and insufficient data that had hitherto impeded progress.|
 |[Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks.](https://arxiv.org/abs/2403.19633v1) |This work presents a control system that emphasizes collaboration with neighboring drivers to enable safe and seamless lane changes in congested traffic by combining AI and predictive algorithms. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs.](https://arxiv.org/abs/2403.20041) |It is difficult to run language models on phones because of latency, bandwidth, and power limitations. This study demonstrates how to obtain 30 tokens/second generation for the potent Gemma 2B model using quantization, the removal of the kv cache, and other optimizations. This is about three times quicker than other frameworks. |
+|[Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models.](https://arxiv.org/abs/2403.20331) |Sometimes, given an input image, Visual Language Models (VLMs) are unable to provide a response to a question. Even cutting-edge VLMs like GPT-4V have difficulties with this. This paper suggests some possible enhancements and a benchmark for VLMs that encounter intractable problems. |
+|[Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction.](https://arxiv.org/abs/2403.19314v1) |With its revolutionary approach to 3D scene reconstruction, Total-Decom makes it simple to edit and manipulate photographs by precisely breaking down objects from several views with little effort on the part of the user. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
