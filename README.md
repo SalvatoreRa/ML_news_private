@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Announcing Grok-1.5.](https://x.ai/blog/grok-1.5) |Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on 𝕏 soon. |
 |[Microsoft & OpenAI planning $100 billion supercomputer Stargate AI.](https://www.gizmochina.com/2024/03/30/microsoft-openai-plan-100-billion-ai-supercomputer-stargate/) | According to a report by The Information, Microsoft and OpenAI are reportedly planning a joint data center project that could reach $100 billion in cost. The project is said to culminate in the launch of a massive artificial intelligence supercomputer named “Stargate” by 2028.|
-|[.]() | |
+|[In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talent.](https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html) |China has produced a huge number of top A.I. engineers in recent years. New research shows that, by some measures, it has already eclipsed the United States. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Your AI Product Needs Evals.](https://hamel.dev/blog/posts/evals/) |How to construct domain-specific LLM evaluation systems. This post outlines my thoughts on building evaluation systems for LLMs-powered AI products.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
