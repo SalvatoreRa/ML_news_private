@@ -74,9 +74,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[US and UK announce formal partnership on artificial intelligence safety.](https://www.theguardian.com/technology/2024/apr/02/us-uk-artificial-intelligence-partnership) | Countries sign memorandum to develop advanced AI model testing amid growing safety concerns|
 |[OpenAI deems its voice cloning tool too risky for general release.](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release) |Delaying the Voice Engine technology rollout minimises the potential for misinformation in an important global election year |
 |[DrugGPT: new AI tool could help doctors prescribe medicine in England.](https://www.theguardian.com/science/2024/mar/31/druggpt-new-ai-tool-could-help-doctors-prescribe-medicine-in-england) | New tool may offer prescription ‘safety net’ and reduce the 237m medication errors made each year in England|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[New York City to test AI-enabled gun scanners in subway system.](https://www.theguardian.com/technology/2024/mar/29/new-york-city-subway-ai-gun-scanners) |Mayor Eric Adams announced pilot program as part of effort to deter violence, with plans to evaluate scanners at some stations |
+|[Twitter usage in US ‘fallen by a fifth’ since Elon Musk’s takeover.](https://www.theguardian.com/technology/2024/mar/26/twitter-usage-in-us-fallen-by-a-fifth-since-elon-musks-takeover) |App users for social media site, rebranded as X, down by 23% since November 2022 according to Sensor Tower |
+|[Scientists turn to AI to make beer taste even better.](https://www.theguardian.com/technology/2024/mar/26/ai-beer-taste-better-belgium-scientists) | Researchers in Belgium use artificial intelligence to improve taste, but say the skill of the brewer remains vital|
 |[.]() | |
 |[.]() | |
 |[.]() | |
