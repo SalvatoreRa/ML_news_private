@@ -86,8 +86,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild.](https://github.com/jasonppy/VoiceCraft) | VoiceCraft is a token infilling neural codec language model, that achieves state-of-the-art performance on both speech editing and zero-shot text-to-speech (TTS) on in-the-wild data including audiobooks, internet videos, and podcasts.To clone or edit an unseen voice, VoiceCraft needs only a few seconds of reference.|
 |[Interrupting Cow.](https://github.com/KhoomeiK/interrupting-cow) |Interruptions make conversations feel natural. Much work has focused on AI voice assistants that can be interrupted by humans, but systems that know much more than us should be able to interrupt us too. |
 |[EvoEval: Evolving Coding Benchmarks via LLM.](https://github.com/evo-eval/evoeval) | With the help of a new benchmark suite called EvoEval, Large Language Models' coding prowess is put to the ultimate test.|
-|[.]() | |
-|[.]() | |
+|[Optimum-NVIDIA.](https://github.com/huggingface/optimum-nvidia) |Optimum-NVIDIA delivers the best inference performance on the NVIDIA platform through Hugging Face. Run LLaMA 2 at 1,200 tokens/second (up to 28x faster than the framework) by changing just a single line in your existing transformers code. |
+|[OpenUI.](https://github.com/wandb/openui) |Building UI components can be a slog. OpenUI aims to make the process fun, fast, and flexible. It's also a tool we're using at W&B to test and prototype our next generation tooling for building powerful applications on top of LLM's. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
