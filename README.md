@@ -65,7 +65,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[In One Key A.I. Metric, China Pulls Ahead of the U.S.: Talent.](https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html) |China has produced a huge number of top A.I. engineers in recent years. New research shows that, by some measures, it has already eclipsed the United States. |
 |[Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters.](https://qwenlm.github.io/blog/qwen-moe/) | Compared to Qwen1.5-7B, which contains 6.5 billion non-embedding parameters, Qwen1.5-MoE-A2.7B contains only 2.0 billion non-embedding parameters, approximately one-third of Qwen1.5-7B’s size. Notably, it achieves a 75% decrease in training expenses and accelerates inference speed by a factor of 1.74, offering substantial improvements in resource utilization without compromising performance.|
 |[“The king is dead”—Claude 3 surpasses GPT-4 on Chatbot Arena for the first time.](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/) |Anthropic's Claude 3 is first to unseat GPT-4 for #1 since launch of Chatbot Arena in May '23. |
-|[.]() | |
+|[Microsoft Copilot AI will soon run locally on PCs.](https://www.engadget.com/microsoft-copilot-ai-will-soon-run-locally-on-pcs-130642514.html) | Microsoft's Copilot AI service is set to run locally on PCs, Intel told Tom's Hardware. The company also said that next-gen AI PCs would require built-in neural processing units (NPUs) with over 40 TOPS (trillion operations per second) of power — beyond the capabilities of any consumer processor on the market.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
