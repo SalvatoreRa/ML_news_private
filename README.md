@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EvoEval: Evolving Coding Benchmarks via LLM.](https://github.com/evo-eval/evoeval) | With the help of a new benchmark suite called EvoEval, Large Language Models' coding prowess is put to the ultimate test.|
 |[Optimum-NVIDIA.](https://github.com/huggingface/optimum-nvidia) |Optimum-NVIDIA delivers the best inference performance on the NVIDIA platform through Hugging Face. Run LLaMA 2 at 1,200 tokens/second (up to 28x faster than the framework) by changing just a single line in your existing transformers code. |
 |[OpenUI.](https://github.com/wandb/openui) |Building UI components can be a slog. OpenUI aims to make the process fun, fast, and flexible. It's also a tool we're using at W&B to test and prototype our next generation tooling for building powerful applications on top of LLM's. |
-|[.]() | |
+|[openchat-3.5-0106-gemma.](https://huggingface.co/openchat/openchat-3.5-0106-gemma) | The highest performing Gemma model in the world. Trained with OpenChat's C-RLFT on openchat-3.5-0106 data. Achieving similar performance to Mistral-based openchat, and much better than Gemma-7b and Gemma-7b-it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Autonomous Racing Is Pushing Self-Driving Cars Forward.](https://www.inverse.com/science/self-driving-cars-ai-autonomous-racing) | The gritty reality of racing without drivers teaches us a lot about the future of autonomous cars.|
 |[Does AI need a “body” to become truly intelligent? Meta researchers think so.](https://www.freethink.com/robots-ai/embodied-ai) | AIs that can generate videos, quickly translate languages, or write new computer code could be world changing, but can they ever be truly intelligent? Not according to the embodiment hypothesis, which argues that human-level intelligence can only emerge if an intelligence is able to sense and navigate a physical environment, the same way babies can. |
 |[Nobody Knows How to Safety-Test AI.](https://time.com/6958868/artificial-intelligence-safety-evaluations-risks/) | In line with government goals, Beth Barnes' NGO METR is working with prominent AI firms like OpenAI and Anthropic to create safety checks for sophisticated AI systems. The emphasis is on evaluating hazards, including AI autonomy and self-replication, with the understanding that safety assessments are still in their infancy and cannot ensure AI safety. Despite worries that the existing testing could not be sufficiently trustworthy to support the rapid progress of AI technologies, METR's work is viewed as pragmatic.|
-|[.]() | |
+|[Beyond RPA: How LLMs are ushering in a new era of intelligent process automation.](https://foundationcapital.com/beyond-rpa-how-llms-are-ushering-in-a-new-era-of-intelligent-process-automation/) | RPA failed to achieve the enterprise-wide deployments that were anticipated, notwithstanding a few early triumphs. Only 3% of businesses were able to successfully grow their RPA operations, according to a Deloitte report. Recent developments in AI have the potential to alter this. Because of its innovative features, LLMs are expected to drive at least a tenfold increase in market share for intelligent process automation over the next ten years.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
