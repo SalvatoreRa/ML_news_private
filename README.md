@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Robot, can you say ‘Cheese’?](https://www.engineering.columbia.edu/news/robot-can-you-say-cheese) |Columbia engineers build Emo, a silicon-clad robotic face that makes eye contact and uses two AI models to anticipate and replicate a person’s smile before the person actually smiles -- a major advance in robots predicting human facial expressions accurately, improving interactions, and building trust between humans and robots. |
 |[Billie Eilish, Nicki Minaj, Stevie Wonder and more musicians demand protection against AI.](https://www.theguardian.com/technology/2024/apr/02/musicians-demand-protection-against-ai) |Letter signed by more than 200 artists makes broad ask that tech firms pledge to not develop AI tools to replace human creatives |
 |[US and UK announce formal partnership on artificial intelligence safety.](https://www.theguardian.com/technology/2024/apr/02/us-uk-artificial-intelligence-partnership) | Countries sign memorandum to develop advanced AI model testing amid growing safety concerns|
-|[.]() | |
-|[.]() | |
+|[OpenAI deems its voice cloning tool too risky for general release.](https://www.theguardian.com/technology/2024/mar/31/openai-deems-its-voice-cloning-tool-too-risky-for-general-release) |Delaying the Voice Engine technology rollout minimises the potential for misinformation in an important global election year |
+|[DrugGPT: new AI tool could help doctors prescribe medicine in England.](https://www.theguardian.com/science/2024/mar/31/druggpt-new-ai-tool-could-help-doctors-prescribe-medicine-in-england) | New tool may offer prescription ‘safety net’ and reduce the 237m medication errors made each year in England|
 |[.]() | |
 |[.]() | |
 |[.]() | |
