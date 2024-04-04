@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New York City to test AI-enabled gun scanners in subway system.](https://www.theguardian.com/technology/2024/mar/29/new-york-city-subway-ai-gun-scanners) |Mayor Eric Adams announced pilot program as part of effort to deter violence, with plans to evaluate scanners at some stations |
 |[Twitter usage in US ‘fallen by a fifth’ since Elon Musk’s takeover.](https://www.theguardian.com/technology/2024/mar/26/twitter-usage-in-us-fallen-by-a-fifth-since-elon-musks-takeover) |App users for social media site, rebranded as X, down by 23% since November 2022 according to Sensor Tower |
 |[Scientists turn to AI to make beer taste even better.](https://www.theguardian.com/technology/2024/mar/26/ai-beer-taste-better-belgium-scientists) | Researchers in Belgium use artificial intelligence to improve taste, but say the skill of the brewer remains vital|
-|[.]() | |
+|[Google AI could soon use a person’s cough to diagnose disease.](https://www.nature.com/articles/d41586-024-00869-0) |Machine-learning system trained on millions of human audio clips shows promise for detecting COVID-19 and tuberculosis. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,8 +119,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How did a small developer of graphics cards for gamers suddenly become the third most valuable firm on the planet?](https://www.theguardian.com/commentisfree/2024/mar/30/nvidia-jensen-huang-ai-gold-rush-computer-chip-maker) |By turning his computer chip-making company Nvidia into a vital component in the AI arms race, Jensen Huang has placed himself at the forefront of the biggest gold rush in tech history |
 |[‘It’s very easy to steal someone’s voice’: how AI is affecting video game actors.](https://www.theguardian.com/technology/2024/mar/29/how-ai-is-affecting-video-game-actors) |The increased use of AI to replicate the voice and movements of actors has benefits but some are concerned over how and when it might be used and who might be left short-changed |
 |[AI in Africa: Basics Over Buzz.](https://www.science.org/doi/10.1126/science.ado8276) |AI’s transformative power is its utility for virtually every economic sector. But nearly half of the population in sub-Saharan Africa lacks access to electricity, and businesses struggle under the burden of an electricity supply that is among the most expensive and unreliable on earth. |
-|[.]() | |
-|[.]() | |
+|[How scientists are making the most of Reddit.](https://www.nature.com/articles/d41586-024-00906-y) |As X wanes, researchers are turning to Reddit for insights and data, and to better connect with the public. |
+|[Can lessons from infants solve the problems of data-greedy AI?](https://www.nature.com/articles/d41586-024-00713-5) | Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
