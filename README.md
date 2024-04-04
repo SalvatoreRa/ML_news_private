@@ -55,8 +55,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiJiang: Efficient Large Language Models through Compact Kernelization.](https://arxiv.org/abs/2403.19928v2) | Researchers have created a novel method called DiJiang that makes use of current Transformers to create faster, leaner models without requiring a significant amount of retraining.|
 |[WcDT: World-centric Diffusion Transformer for Traffic Scene Generation.](https://arxiv.org/abs/2404.02082v1) |This paper presents a novel approach to autonomous vehicle driving path generation that integrates transformers and diffusion models into a system dubbed the "World-Centric Diffusion Transformer" (WcDT). |
 |[SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects.](https://github.com/abhi1kumar/seabird) | In situations when conventional monocular detectors struggle to identify huge objects, a novel 3D detection technique called SeaBird succeeds.|
-|[Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models.](https://github.com/atsumiyai/upd) | |
-|[ASTRA - 3rd place solution for SoccerNet Action Spotting Challenge 2023.](https://github.com/arturxe2/astra) | |
+|[Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models.](https://github.com/atsumiyai/upd) |In order to evaluate if AI is capable of determining when an issue cannot be solved, this study presents the idea of Unsolvable issue Detection (UPD) in Vision Language Models. |
+|[ASTRA - 3rd place solution for SoccerNet Action Spotting Challenge 2023.](https://github.com/arturxe2/astra) |ASTRA is a Transformer-based model that may overcome issues like as action localization and data imbalance and recognize important periods in soccer matches. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
