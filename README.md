@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Stable Audio 2.0.](https://stability.ai/news/stable-audio-2-0) |Stable Audio 2.0 sets a new standard in AI-generated audio, producing high-quality, full tracks with coherent musical structure up to three minutes in length at 44.1kHz stereo. The new model introduces audio-to-audio generation by allowing users to upload and transform samples using natural language prompts. Stable Audio 2.0 was exclusively trained on a licensed dataset from the AudioSparx music library, honoring opt-out requests and ensuring fair compensation for creators.|
 |[Scientists create AI models that can talk to each other and pass on skills with limited human input.](https://www.livescience.com/technology/artificial-intelligence/scientists-create-ai-models-that-can-talk-to-each-other-and-pass-on-skills-with-limited-human-input) |Scientists modeled human-like communication skills and the transfer of knowledge between AIs — so they can teach each other to perform tasks without a huge amount of training data. |
 |[Worldcoin Foundation open sources core components of the Orb’s software.](https://worldcoin.org/blog/engineering/worldcoin-foundation-open-sources-core-components-orb-software) |For the Worldcoin Orb, Tools for Humanity has created a robust and safe computing environment that makes use of Arm Cortex M4 microcontrollers for real-time operations and NVIDIA Jetson for processing. The Orb does neural network inference using NVIDIA's TensorRT and runs Rust applications. It runs on Orb OS, a customized GNU/Linux distribution with an emphasis on security. For cryptography, the system incorporates a secure element, and for backend authentication, it provides trusted execution environments. |
-|[.]() | |
+|[Report: Google might make SGE a paid feature, not working on ad-free Search.](https://9to5google.com/2024/04/03/google-ad-free-search/) | As the Search Generative Experience (SGE) nears its one-year anniversary, Google is reportedly considering making it a paid feature, but is not considering an ad-free offering.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[chug.](https://github.com/huggingface/chug) |A library to help w/ efficient training for multi-modal data. Initially focused on image & document + text tasks. Minimal sharded dataset loaders, decoders, and utils for multi-modal document, image, and text datasets.|
 |[Cosmopedia: how to create large-scale synthetic data for pre-training.](https://huggingface.co/blog/cosmopedia) | The HuggingFace group demonstrates how to create synthetic data for language model pre-training by seeding, synthesizing, filtering, and scaling.|
 |[AutoQuant.](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4) | HuggingFace models can be exported from this notebook into the following five quantization formats: GGUF, GPTQ, EXL2, AWQ, and HQQ.|
-|[.]() | |
+|[AI Infrastructure Explained.](https://salesforceventures.com/perspectives/ai-infrastructure-explained/) |Innovative applications of AI have captured the public’s imagination over the past year and a half. What’s less appreciated or understood is the infrastructure powering these AI-enabled technologies. But as foundational models get more powerful, we’ll need a strong technology stack that balances performance, cost, and security to enable widespread AI adoption and innovation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
