@@ -78,6 +78,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Twitter usage in US ‘fallen by a fifth’ since Elon Musk’s takeover.](https://www.theguardian.com/technology/2024/mar/26/twitter-usage-in-us-fallen-by-a-fifth-since-elon-musks-takeover) |App users for social media site, rebranded as X, down by 23% since November 2022 according to Sensor Tower |
 |[Scientists turn to AI to make beer taste even better.](https://www.theguardian.com/technology/2024/mar/26/ai-beer-taste-better-belgium-scientists) | Researchers in Belgium use artificial intelligence to improve taste, but say the skill of the brewer remains vital|
 |[Google AI could soon use a person’s cough to diagnose disease.](https://www.nature.com/articles/d41586-024-00869-0) |Machine-learning system trained on millions of human audio clips shows promise for detecting COVID-19 and tuberculosis. |
+|[Microsoft is working on an Xbox AI chatbot.](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing) |Xbox employees have been testing a virtual chatbot that can help with support queries and game refunds. |
+|[Sam Altman gives up control of OpenAI Startup Fund, resolving unusual corporate venture structure.](https://techcrunch.com/2024/04/01/sam-altman-gives-up-control-of-openai-startup-fund-resolving-unusual-corporate-venture-structure/) | OpenAI CEO Sam Altman has transferred formal control of the eponymously firm’s named corporate venture fund to Ian Hathaway, OpenAI confirmed to TechCrunch. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI in Africa: Basics Over Buzz.](https://www.science.org/doi/10.1126/science.ado8276) |AI’s transformative power is its utility for virtually every economic sector. But nearly half of the population in sub-Saharan Africa lacks access to electricity, and businesses struggle under the burden of an electricity supply that is among the most expensive and unreliable on earth. |
 |[How scientists are making the most of Reddit.](https://www.nature.com/articles/d41586-024-00906-y) |As X wanes, researchers are turning to Reddit for insights and data, and to better connect with the public. |
 |[Can lessons from infants solve the problems of data-greedy AI?](https://www.nature.com/articles/d41586-024-00713-5) | Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.|
-|[.]() | |
+|[Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape.](https://mattturck.com/mad2024) |This is our tenth annual landscape and “state of the union” of the data, analytics, machine learning and AI ecosystem. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
