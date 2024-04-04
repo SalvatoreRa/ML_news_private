@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sam Altman gives up control of OpenAI Startup Fund, resolving unusual corporate venture structure.](https://techcrunch.com/2024/04/01/sam-altman-gives-up-control-of-openai-startup-fund-resolving-unusual-corporate-venture-structure/) | OpenAI CEO Sam Altman has transferred formal control of the eponymously firm’s named corporate venture fund to Ian Hathaway, OpenAI confirmed to TechCrunch. |
 |[You can now use ChatGPT without an account.](https://www.engadget.com/you-can-now-use-chatgpt-without-an-account-184417749.html) | On Monday, OpenAI began opening up ChatGPT to users without an account. It described the move as part of its mission to “make tools like ChatGPT broadly available so that people can experience the benefits of AI.” It also gives the company more training data (for those who don’t opt out) and perhaps nudges more users into creating accounts and subscribing for superior GPT-4 access instead of the older GPT-3.5 model free users get.|
 |[GENERATIVE SF: MARKETPLACES IN AI EDITION.](https://lsvp.com/stories/generative-sf-marketplaces-in-ai-edition/) |How Instacart and Faire use AI to boost productivity and better serve their customers. |
-|[.]() | |
-|[.]() | |
+|[Replit launches new product in race for AI coding assistants.](https://www.semafor.com/article/04/02/2024/replit-launches-new-product-in-race-for-ai-coding-assistants) |A Silicon Valley AI coding startup is launching a new tool that it hopes will change the way companies develop software. Replit, valued at over $1 billion and backed by venture firms like Andreessen Horowitz and Khosla Ventures, says its new product, called Replit Teams, will allow developers to collaborate in real-time on software projects while an AI agent automatically fixes coding errors.|
+|[Samsung might ‘redefine’ Bixby with Galaxy AI after all.](https://9to5google.com/2024/04/02/samsung-bixby-galaxy-ai-report/) | Samsung’s big Galaxy AI push this year skipped over its voice assistant, Bixby, but that might not be forever. Earlier this year when Galaxy AI made its debut, Samsung confirmed that Bixby wasn’t going away, but that it also didn’t really have plans for any new AI features within the voice assistant. Speaking to CNBC more recently, though, Samsung is looking at changing that.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SWE-agent.](https://github.com/princeton-nlp/SWE-agent) | SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.|
 |[chug.](https://github.com/huggingface/chug) |A library to help w/ efficient training for multi-modal data. Initially focused on image & document + text tasks. Minimal sharded dataset loaders, decoders, and utils for multi-modal document, image, and text datasets.|
 |[Cosmopedia: how to create large-scale synthetic data for pre-training.](https://huggingface.co/blog/cosmopedia) | The HuggingFace group demonstrates how to create synthetic data for language model pre-training by seeding, synthesizing, filtering, and scaling.|
-|[.]() | |
+|[AutoQuant.](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4) | HuggingFace models can be exported from this notebook into the following five quantization formats: GGUF, GPTQ, EXL2, AWQ, and HQQ.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
