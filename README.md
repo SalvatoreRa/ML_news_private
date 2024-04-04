@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GENERATIVE SF: MARKETPLACES IN AI EDITION.](https://lsvp.com/stories/generative-sf-marketplaces-in-ai-edition/) |How Instacart and Faire use AI to boost productivity and better serve their customers. |
 |[Replit launches new product in race for AI coding assistants.](https://www.semafor.com/article/04/02/2024/replit-launches-new-product-in-race-for-ai-coding-assistants) |A Silicon Valley AI coding startup is launching a new tool that it hopes will change the way companies develop software. Replit, valued at over $1 billion and backed by venture firms like Andreessen Horowitz and Khosla Ventures, says its new product, called Replit Teams, will allow developers to collaborate in real-time on software projects while an AI agent automatically fixes coding errors.|
 |[Samsung might ‘redefine’ Bixby with Galaxy AI after all.](https://9to5google.com/2024/04/02/samsung-bixby-galaxy-ai-report/) | Samsung’s big Galaxy AI push this year skipped over its voice assistant, Bixby, but that might not be forever. Earlier this year when Galaxy AI made its debut, Samsung confirmed that Bixby wasn’t going away, but that it also didn’t really have plans for any new AI features within the voice assistant. Speaking to CNBC more recently, though, Samsung is looking at changing that.|
-|[.]() | |
+|[George Carlin’s estate settles lawsuit over comedian’s AI doppelganger.](https://www.theguardian.com/technology/2024/apr/03/george-carlin-dudesy-podcast-ai-lawsuit) |Suit claimed Dudesy podcast violated Carlin’s copyright, calling it ‘a casual theft of a great American artist’s work’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can lessons from infants solve the problems of data-greedy AI?](https://www.nature.com/articles/d41586-024-00713-5) | Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.|
 |[Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape.](https://mattturck.com/mad2024) |This is our tenth annual landscape and “state of the union” of the data, analytics, machine learning and AI ecosystem. |
 |[Building AI Models is faster and cheaper than you probably think.](https://www.ycombinator.com/blog/building-ai-models) |By training or optimizing their own foundation models with YC's assistance, YC companies are dispelling the myth that creating AI models takes enormous resources. In just three months, they have accomplished amazing feats like creating original proteins and producing music of a high caliber. These 25 firms have produced creative AI solutions in a variety of industries by utilizing YC's finance and technical capabilities. They show that smaller teams can achieve major improvements in AI through creativity and strategic insights. |
-|[.]() | |
+|[Chinese mourners turn to AI to remember and ‘revive’ loved ones.](https://www.theguardian.com/technology/2024/apr/04/chinese-mourners-turn-to-ai-to-remember-and-revive-loved-ones) |Growing interest in services that create digital clones of the dead as millions visit graves this week for tomb-sweeping festival |
 |[.]() | |
 |[.]() | |
 |[.]() | |
