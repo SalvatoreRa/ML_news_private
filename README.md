@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft is working on an Xbox AI chatbot.](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing) |Xbox employees have been testing a virtual chatbot that can help with support queries and game refunds. |
 |[Sam Altman gives up control of OpenAI Startup Fund, resolving unusual corporate venture structure.](https://techcrunch.com/2024/04/01/sam-altman-gives-up-control-of-openai-startup-fund-resolving-unusual-corporate-venture-structure/) | OpenAI CEO Sam Altman has transferred formal control of the eponymously firm’s named corporate venture fund to Ian Hathaway, OpenAI confirmed to TechCrunch. |
 |[You can now use ChatGPT without an account.](https://www.engadget.com/you-can-now-use-chatgpt-without-an-account-184417749.html) | On Monday, OpenAI began opening up ChatGPT to users without an account. It described the move as part of its mission to “make tools like ChatGPT broadly available so that people can experience the benefits of AI.” It also gives the company more training data (for those who don’t opt out) and perhaps nudges more users into creating accounts and subscribing for superior GPT-4 access instead of the older GPT-3.5 model free users get.|
-|[.]() | |
+|[GENERATIVE SF: MARKETPLACES IN AI EDITION.](https://lsvp.com/stories/generative-sf-marketplaces-in-ai-edition/) |How Instacart and Faire use AI to boost productivity and better serve their customers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,6 +118,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Industry Documents Library (IDL).](https://huggingface.co/datasets/pixparse/idl-wds) | A huge dataset of 26m pages and 18B tokens of extremely high-quality OCR’d dataset of industrial PDF documents.|
 |[SWE-agent.](https://github.com/princeton-nlp/SWE-agent) | SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.|
 |[chug.](https://github.com/huggingface/chug) |A library to help w/ efficient training for multi-modal data. Initially focused on image & document + text tasks. Minimal sharded dataset loaders, decoders, and utils for multi-modal document, image, and text datasets.|
+|[Cosmopedia: how to create large-scale synthetic data for pre-training.](https://huggingface.co/blog/cosmopedia) | The HuggingFace group demonstrates how to create synthetic data for language model pre-training by seeding, synthesizing, filtering, and scaling.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
