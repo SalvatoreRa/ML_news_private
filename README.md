@@ -49,6 +49,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[You can now use ChatGPT without an account.](https://www.engadget.com/you-can-now-use-chatgpt-without-an-account-184417749.html) | On Monday, OpenAI began opening up ChatGPT to users without an account. It described the move as part of its mission to “make tools like ChatGPT broadly available so that people can experience the benefits of AI.” It also gives the company more training data (for those who don’t opt out) and perhaps nudges more users into creating accounts and subscribing for superior GPT-4 access instead of the older GPT-3.5 model free users get.|
 |[Mechanism for feature learning in neural networks and backpropagation-free machine learning models.](https://www.science.org/doi/10.1126/science.adi5639) |proposed the deep neural feature ansatz, which states that neural feature learning occurs by up-weighting the features that are most influential on model output, a process that was formulated mathematically in terms of the average gradient outer product and was supported by numerical experiments and theoretical results. The presented mechanism provides a backpropagation-free approach for feature learning in various machine learning models, including those that previously had no such capabilities. |
 |[Teaching robots the art of human social synchrony.](https://www.science.org/doi/10.1126/scirobotics.ado5755) | Humanoid robots can now learn the art of social synchrony using neural networks.|
+|[Many-shot jailbreaking.](https://www.anthropic.com/research/many-shot-jailbreaking) | Anthropic created a method for breaking into lengthy context models. It has put these discoveries into practice and disseminated them to other organizations. This post describes the method and a few countermeasures that were implemented.|
+|[R2-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding.](https://arxiv.org/abs/2404.00801) | R2-Tuning is a technique created by researchers to comprehend videos by verbally cueing the system to recognize particular times.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenUI.](https://github.com/wandb/openui) |Building UI components can be a slog. OpenUI aims to make the process fun, fast, and flexible. It's also a tool we're using at W&B to test and prototype our next generation tooling for building powerful applications on top of LLM's. |
 |[openchat-3.5-0106-gemma.](https://huggingface.co/openchat/openchat-3.5-0106-gemma) | The highest performing Gemma model in the world. Trained with OpenChat's C-RLFT on openchat-3.5-0106 data. Achieving similar performance to Mistral-based openchat, and much better than Gemma-7b and Gemma-7b-it.|
 |[Generative AI for Beginners (Version 2) - A Course.](https://github.com/microsoft/generative-ai-for-beginners) | Microsoft's well-liked course on low-code apps, prompting, vector databases, and LLMs is available on GitHub in version 2. There are eighteen lessons in it. Even though some of the material is aspirational, it's still a useful starting point for the industry.|
-|[.]() | |
-|[.]() | |
+|[Industry Documents Library (IDL).](https://huggingface.co/datasets/pixparse/idl-wds) | A huge dataset of 26m pages and 18B tokens of extremely high-quality OCR’d dataset of industrial PDF documents.|
+|[SWE-agent.](https://github.com/princeton-nlp/SWE-agent) | SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
