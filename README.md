@@ -51,10 +51,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Many-shot jailbreaking.](https://www.anthropic.com/research/many-shot-jailbreaking) | Anthropic created a method for breaking into lengthy context models. It has put these discoveries into practice and disseminated them to other organizations. This post describes the method and a few countermeasures that were implemented.|
 |[R2-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding.](https://arxiv.org/abs/2404.00801) | R2-Tuning is a technique created by researchers to comprehend videos by verbally cueing the system to recognize particular times.|
 |[Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want.](https://draw-and-understand.github.io/) |SPHINX-V, a multimodal big language model developed as part of the Draw-and-Understand project, aims to improve human-AI interaction through visual cues. |
-|[RealKIE: Five Novel Datasets for Enterprise Key Information Extraction.](https://arxiv.org/abs/2403.20101) | |
-|[DiJiang: Efficient Large Language Models through Compact Kernelization.](https://arxiv.org/abs/2403.19928v2) | |
-|[WcDT: World-centric Diffusion Transformer for Traffic Scene Generation.](https://arxiv.org/abs/2404.02082v1) | |
-|[SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects.](https://github.com/abhi1kumar/seabird) | |
+|[RealKIE: Five Novel Datasets for Enterprise Key Information Extraction.](https://arxiv.org/abs/2403.20101) | Enterprise AI solutions depend on the ability to extract information from datasets. It is possible to gauge general algorithmic performance for RAG applications using these five new benchmark datasets. |
+|[DiJiang: Efficient Large Language Models through Compact Kernelization.](https://arxiv.org/abs/2403.19928v2) | Researchers have created a novel method called DiJiang that makes use of current Transformers to create faster, leaner models without requiring a significant amount of retraining.|
+|[WcDT: World-centric Diffusion Transformer for Traffic Scene Generation.](https://arxiv.org/abs/2404.02082v1) |This paper presents a novel approach to autonomous vehicle driving path generation that integrates transformers and diffusion models into a system dubbed the "World-Centric Diffusion Transformer" (WcDT). |
+|[SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects.](https://github.com/abhi1kumar/seabird) | In situations when conventional monocular detectors struggle to identify huge objects, a novel 3D detection technique called SeaBird succeeds.|
 |[Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models.](https://github.com/atsumiyai/upd) | |
 |[ASTRA - 3rd place solution for SoccerNet Action Spotting Challenge 2023.](https://github.com/arturxe2/astra) | |
 |[.]() | |
