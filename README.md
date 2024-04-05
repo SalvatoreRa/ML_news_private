@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cosmopedia: how to create large-scale synthetic data for pre-training.](https://huggingface.co/blog/cosmopedia) | The HuggingFace group demonstrates how to create synthetic data for language model pre-training by seeding, synthesizing, filtering, and scaling.|
 |[AutoQuant.](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4) | HuggingFace models can be exported from this notebook into the following five quantization formats: GGUF, GPTQ, EXL2, AWQ, and HQQ.|
 |[AI Infrastructure Explained.](https://salesforceventures.com/perspectives/ai-infrastructure-explained/) |Innovative applications of AI have captured the public’s imagination over the past year and a half. What’s less appreciated or understood is the infrastructure powering these AI-enabled technologies. But as foundational models get more powerful, we’ll need a strong technology stack that balances performance, cost, and security to enable widespread AI adoption and innovation. |
-|[.]() | |
+|[Introducing world's largest synthetic open-source Text-to-SQL dataset.](https://gretel.ai/blog/synthetic-text-to-sql-dataset) | HuggingFace currently has 23 million text to SQL tokens ready for use. In order to assist in producing SQL queries based on tasks involving natural language, Gretel has gathered a sizable dataset. This can support the creation of synthetic data as well as RAG applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -171,7 +171,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chinese mourners turn to AI to remember and ‘revive’ loved ones.](https://www.theguardian.com/technology/2024/apr/04/chinese-mourners-turn-to-ai-to-remember-and-revive-loved-ones) |Growing interest in services that create digital clones of the dead as millions visit graves this week for tomb-sweeping festival |
 |[When Will the GenAI Bubble Burst?](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst) |That generative AI might not live up to expectations. The unprofitability of the technology, security flaws, and the innate issue of hallucinations in language models are all causes for concern. The excitement around generative AI may begin to fade unless a ground-breaking model such as GPT-5 is published by the end of 2024, addressing important difficulties and providing a game-changing application. |
 |[Inside the shadowy global battle to tame the world's most dangerous technology.](https://www.politico.eu/article/ai-control-kamala-harris-nick-clegg-meta-big-tech-social-media/) |This article explores the intricate global attempts to control artificial intelligence (AI), which is considered to be one of the most powerful and dangerous technologies of our day. |
-|[.]() | |
+|[How to win at Vertical AI.](https://platforms.substack.com/p/how-to-win-at-vertical-ai) | Vertical B2B applications, where AI agents and open APIs play a critical role in rebundling and generating new business value, are where artificial intelligence truly shines. Domain-specific models provide vertical AI with an advantage in the near term, but horizontal integration into larger ecosystems is necessary for long-term success. AI agents make it possible to rebundle workflows, which transforms management procedures and gives businesses new competitive advantages across a range of industries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
