@@ -105,6 +105,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scientists create AI models that can talk to each other and pass on skills with limited human input.](https://www.livescience.com/technology/artificial-intelligence/scientists-create-ai-models-that-can-talk-to-each-other-and-pass-on-skills-with-limited-human-input) |Scientists modeled human-like communication skills and the transfer of knowledge between AIs — so they can teach each other to perform tasks without a huge amount of training data. |
 |[Worldcoin Foundation open sources core components of the Orb’s software.](https://worldcoin.org/blog/engineering/worldcoin-foundation-open-sources-core-components-orb-software) |For the Worldcoin Orb, Tools for Humanity has created a robust and safe computing environment that makes use of Arm Cortex M4 microcontrollers for real-time operations and NVIDIA Jetson for processing. The Orb does neural network inference using NVIDIA's TensorRT and runs Rust applications. It runs on Orb OS, a customized GNU/Linux distribution with an emphasis on security. For cryptography, the system incorporates a secure element, and for backend authentication, it provides trusted execution environments. |
 |[Report: Google might make SGE a paid feature, not working on ad-free Search.](https://9to5google.com/2024/04/03/google-ad-free-search/) | As the Search Generative Experience (SGE) nears its one-year anniversary, Google is reportedly considering making it a paid feature, but is not considering an ad-free offering.|
+|[Lambda Announces $500M GPU-Backed Facility to Expand Cloud for AI.](https://www.businesswire.com/news/home/20240402148086/en/Lambda-Announces-500M-GPU-Backed-Facility-to-Expand-Cloud-for-AI) |Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, today announced that it has secured a special purpose GPU financing vehicle of up to $500 million to fund the expansion of its on-demand cloud offering. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
