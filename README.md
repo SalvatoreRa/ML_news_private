@@ -57,11 +57,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects.](https://github.com/abhi1kumar/seabird) | In situations when conventional monocular detectors struggle to identify huge objects, a novel 3D detection technique called SeaBird succeeds.|
 |[Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models.](https://github.com/atsumiyai/upd) |In order to evaluate if AI is capable of determining when an issue cannot be solved, this study presents the idea of Unsolvable issue Detection (UPD) in Vision Language Models. |
 |[ASTRA - 3rd place solution for SoccerNet Action Spotting Challenge 2023.](https://github.com/arturxe2/astra) |ASTRA is a Transformer-based model that may overcome issues like as action localization and data imbalance and recognize important periods in soccer matches. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Multi-Granularity Guided Fusion-in-Decoder.](https://arxiv.org/abs/2404.02581v1) | |
+|[Linear Attention Sequence Parallelism.](https://arxiv.org/abs/2404.02882v1) | |
+|[Mixture-of-Depths: Dynamically allocating compute in transformer-based language models.](https://arxiv.org/abs/2404.02258) | |
+|[InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation.](https://github.com/instantstyle/instantstyle) | |
+|[T-GATE: Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models.](https://github.com/haozheliu-st/t-gate) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
