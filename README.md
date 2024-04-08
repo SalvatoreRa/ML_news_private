@@ -41,7 +41,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Smartphone app could help detect early-onset dementia cause, study finds.](https://www.theguardian.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds) |App-based cognitive tests found to be proficient at detecting frontotemporal dementia in those most at risk. Scientists have demonstrated that cognitive tests done via a smartphone app are at least as sensitive at detecting early signs of frontotemporal dementia in people with a genetic predisposition to the condition as medical evaluations performed in clinics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Facebook and Instagram to label digitally altered content ‘made with AI’.](https://www.theguardian.com/technology/2024/apr/05/facebook-instagram-ai-label-digitally-altered-media) |Parent company Meta also to add ‘high-risk’ label to Al-altered content that deceives the public on ‘a matter of importance’ |
 |[Google considering charge for internet searches with AI, reports say.](https://www.theguardian.com/technology/2024/apr/04/google-set-to-charge-for-internet-searches-with-ai-reports-say) | Cost of artificial intelligence service could mean leaders in sector turning to subscription models|
-|[.]() | |
+|[Apple lays off 600 workers in California after shuttering self-driving car project.](https://www.theguardian.com/technology/2024/apr/05/apple-layoffs-california-self-driving-cars) |Tech company cuts employees from eight offices in Santa Clara in its first big wave of post-pandemic job cuts |
 |[.]() | |
 |[.]() | |
 |[.]() | |
