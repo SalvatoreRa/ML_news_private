@@ -63,7 +63,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Facebook and Instagram to label digitally altered content ‘made with AI’.](https://www.theguardian.com/technology/2024/apr/05/facebook-instagram-ai-label-digitally-altered-media) |Parent company Meta also to add ‘high-risk’ label to Al-altered content that deceives the public on ‘a matter of importance’ |
 |[Google considering charge for internet searches with AI, reports say.](https://www.theguardian.com/technology/2024/apr/04/google-set-to-charge-for-internet-searches-with-ai-reports-say) | Cost of artificial intelligence service could mean leaders in sector turning to subscription models|
 |[Apple lays off 600 workers in California after shuttering self-driving car project.](https://www.theguardian.com/technology/2024/apr/05/apple-layoffs-california-self-driving-cars) |Tech company cuts employees from eight offices in Santa Clara in its first big wave of post-pandemic job cuts |
-|[.]() | |
+|[AMD to open source Micro Engine Scheduler firmware for Radeon GPUs.](https://www.theregister.com/2024/04/05/amd_mes_open_source/) |AMD plans to document and open source its Micro Engine Scheduler (MES) firmware for GPUs, giving users more control over Radeon graphics cards. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
