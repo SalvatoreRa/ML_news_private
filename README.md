@@ -82,9 +82,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[swe agents.](https://swe-agent.com/) |SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories. |
+|[Schedule-Free Learning.](https://github.com/facebookresearch/schedule_free) |Faster training without schedules - no need to specify the stopping time/steps in advance! |
+|[State-of-the-art Representation Fine-Tuning (ReFT) methods.](https://github.com/stanfordnlp/pyreft) | ReFT is a novel approach to language model fine-tuning that is efficient with parameters. It achieves good performance at a significantly lower cost than even PeFT.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
