@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Investors in talks to help Elon Musk's xAI raise $3 billion: report.](https://economictimes.indiatimes.com/tech/technology/investors-in-talks-to-help-elon-musks-xai-raise-3-billion-report/articleshow/109079985.cms) | Investors close to Elon Musk are in talks to help his artificial-intelligence startup xAI raise $3 billion in a round that would value the company at $18 billion, the Wall Street Journal reported on Friday.|
 |[Introducing Command R+: A Scalable LLM Built for Business.](https://txt.cohere.com/command-r-plus-microsoft-azure/) | Command R+, a potent, scalable LLM with multilingual coverage in ten important languages and tool use capabilities, has been launched by Cohere. It is intended for use in enterprise use scenarios.|
 |[Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series.](https://qwenlm.github.io/blog/qwen1.5-32b/) |A growing consensus within the field now points to a model with approximately 30 billion parameters as the optimal “sweet spot” for achieving both strong performance and manageable resource requirements. In response to this trend, we are proud to unveil the latest additions to our Qwen1.5 language model series: Qwen1.5-32B and Qwen1.5-32B-Chat. |
-|[.]() | |
-|[.]() | |
+|[Nvidia Tops Llama 2, Stable Diffusion Speed Trials .](https://spectrum.ieee.org/ai-benchmark-mlperf-llama-stablediffusion) |Now that we’re firmly in the age of massive generative AI, it’s time to add two such behemoths, Llama 2 70B and Stable Diffusion XL, to MLPerf’s inferencing tests. Version 4.0 of the benchmark tests more than 8,500 results from 23 submitting organizations. As has been the case from the beginning, computers with Nvidia GPUs came out on top, particularly those with its H200 processor. But AI accelerators from Intel and Qualcomm were in the mix as well. |
+|[Rabbit partners with ElevenLabs to power voice commands on its device.](https://techcrunch.com/2024/03/27/rabbit-partners-with-elevenlabs-to-power-voice-commands-on-its-device/) | Hardware maker Rabbit has tapped a partnership with ElevenLabs to power voice commands on its devices. Rabbit is set to ship the first set of r1 devices next month after getting a ton of attention at the Consumer Electronics Show (CES) at the start of the year.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘Time is running out’: can a future of undetectable deepfakes be avoided?.](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided) |Tell-tale signs of generative AI images are disappearing as the technology improves, and experts are scrambling for new methods to counter disinformation |
-|[.]() | |
+|[Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html) | To make artificial intelligence systems more powerful, tech companies need online data to feed the technology. Here’s what to know.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
