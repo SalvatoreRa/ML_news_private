@@ -69,6 +69,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series.](https://qwenlm.github.io/blog/qwen1.5-32b/) |A growing consensus within the field now points to a model with approximately 30 billion parameters as the optimal “sweet spot” for achieving both strong performance and manageable resource requirements. In response to this trend, we are proud to unveil the latest additions to our Qwen1.5 language model series: Qwen1.5-32B and Qwen1.5-32B-Chat. |
 |[Nvidia Tops Llama 2, Stable Diffusion Speed Trials .](https://spectrum.ieee.org/ai-benchmark-mlperf-llama-stablediffusion) |Now that we’re firmly in the age of massive generative AI, it’s time to add two such behemoths, Llama 2 70B and Stable Diffusion XL, to MLPerf’s inferencing tests. Version 4.0 of the benchmark tests more than 8,500 results from 23 submitting organizations. As has been the case from the beginning, computers with Nvidia GPUs came out on top, particularly those with its H200 processor. But AI accelerators from Intel and Qualcomm were in the mix as well. |
 |[Rabbit partners with ElevenLabs to power voice commands on its device.](https://techcrunch.com/2024/03/27/rabbit-partners-with-elevenlabs-to-power-voice-commands-on-its-device/) | Hardware maker Rabbit has tapped a partnership with ElevenLabs to power voice commands on its devices. Rabbit is set to ship the first set of r1 devices next month after getting a ton of attention at the Consumer Electronics Show (CES) at the start of the year.|
+|[DALL-E now lets you edit images in ChatGPT.](https://www.theverge.com/2024/4/3/24120181/openai-dall-e-chat-gpt-image-edit) |Tweak your AI creations without leaving the chat. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[swe agents.](https://swe-agent.com/) |SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories. |
 |[Schedule-Free Learning.](https://github.com/facebookresearch/schedule_free) |Faster training without schedules - no need to specify the stopping time/steps in advance! |
 |[State-of-the-art Representation Fine-Tuning (ReFT) methods.](https://github.com/stanfordnlp/pyreft) | ReFT is a novel approach to language model fine-tuning that is efficient with parameters. It achieves good performance at a significantly lower cost than even PeFT.|
-|[.]() | |
-|[.]() | |
+|[The Top 100 AI for Work – April 2024.](https://www.flexos.work/learn/top-100-ai-for-work) |Following our AI Top 150, we spent the past few weeks analyzing data on the top AI platforms for work. This report shares key insights, including the AI tools you should consider adopting to work smarter, not harder. |
+|[LLocalSearch.](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
