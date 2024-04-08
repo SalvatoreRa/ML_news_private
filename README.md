@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Smartphone app could help detect early-onset dementia cause, study finds.](https://www.theguardian.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds) |App-based cognitive tests found to be proficient at detecting frontotemporal dementia in those most at risk. Scientists have demonstrated that cognitive tests done via a smartphone app are at least as sensitive at detecting early signs of frontotemporal dementia in people with a genetic predisposition to the condition as medical evaluations performed in clinics.|
-|[.]() | |
-|[.]() | |
+|[Unsegment Anything by Simulating Deformation.](https://arxiv.org/abs/2404.02585v1) |A novel strategy called "Anything Unsegmentable" aims to prevent digital photos from being divided into discrete categories by potent AI models, potentially resolving copyright and privacy concerns. |
+|[Evaluating LLMs at Detecting Errors in LLM Responses.](https://arxiv.org/abs/2404.03602v1) |A benchmark called ReaLMistake has been introduced by researchers with the goal of methodically identifying mistakes in lengthy language model answers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
