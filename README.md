@@ -60,8 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Facebook and Instagram to label digitally altered content ‘made with AI’.](https://www.theguardian.com/technology/2024/apr/05/facebook-instagram-ai-label-digitally-altered-media) |Parent company Meta also to add ‘high-risk’ label to Al-altered content that deceives the public on ‘a matter of importance’ |
+|[Google considering charge for internet searches with AI, reports say.](https://www.theguardian.com/technology/2024/apr/04/google-set-to-charge-for-internet-searches-with-ai-reports-say) | Cost of artificial intelligence service could mean leaders in sector turning to subscription models|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘Time is running out’: can a future of undetectable deepfakes be avoided?.](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided) |Tell-tale signs of generative AI images are disappearing as the technology improves, and experts are scrambling for new methods to counter disinformation |
 |[.]() | |
 |[.]() | |
 |[.]() | |
