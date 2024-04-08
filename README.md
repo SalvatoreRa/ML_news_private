@@ -64,9 +64,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google considering charge for internet searches with AI, reports say.](https://www.theguardian.com/technology/2024/apr/04/google-set-to-charge-for-internet-searches-with-ai-reports-say) | Cost of artificial intelligence service could mean leaders in sector turning to subscription models|
 |[Apple lays off 600 workers in California after shuttering self-driving car project.](https://www.theguardian.com/technology/2024/apr/05/apple-layoffs-california-self-driving-cars) |Tech company cuts employees from eight offices in Santa Clara in its first big wave of post-pandemic job cuts |
 |[AMD to open source Micro Engine Scheduler firmware for Radeon GPUs.](https://www.theregister.com/2024/04/05/amd_mes_open_source/) |AMD plans to document and open source its Micro Engine Scheduler (MES) firmware for GPUs, giving users more control over Radeon graphics cards. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Investors in talks to help Elon Musk's xAI raise $3 billion: report.](https://economictimes.indiatimes.com/tech/technology/investors-in-talks-to-help-elon-musks-xai-raise-3-billion-report/articleshow/109079985.cms) | Investors close to Elon Musk are in talks to help his artificial-intelligence startup xAI raise $3 billion in a round that would value the company at $18 billion, the Wall Street Journal reported on Friday.|
+|[Introducing Command R+: A Scalable LLM Built for Business.](https://txt.cohere.com/command-r-plus-microsoft-azure/) | Command R+, a potent, scalable LLM with multilingual coverage in ten important languages and tool use capabilities, has been launched by Cohere. It is intended for use in enterprise use scenarios.|
+|[Qwen1.5-32B: Fitting the Capstone of the Qwen1.5 Language Model Series.](https://qwenlm.github.io/blog/qwen1.5-32b/) |A growing consensus within the field now points to a model with approximately 30 billion parameters as the optimal “sweet spot” for achieving both strong performance and manageable resource requirements. In response to this trend, we are proud to unveil the latest additions to our Qwen1.5 language model series: Qwen1.5-32B and Qwen1.5-32B-Chat. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
