@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[llm.c.](https://github.com/karpathy/llm.c) | LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is ~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.|
 |[AIOS: LLM Agent Operating System.](https://github.com/agiresearch/AIOS) | AIOS, a Large Language Model (LLM) Agent operating system, embeds large language model into Operating Systems (OS) as the brain of the OS, enabling an operating system "with soul" -- an important step towards AGI. AIOS is designed to optimize resource allocation, facilitate context switch across agents, enable concurrent execution of agents, provide tool service for agents, maintain access control for agents, and provide a rich set of toolkits for LLM Agent developers.|
 |[Anthropic Tool use (function calling).](https://docs.anthropic.com/claude/docs/tool-use) | Claude AI may now communicate with customized client-side tools supplied in API requests thanks to the public beta that Anthropic has released. To utilize the feature, developers need to include the 'anthropic-beta: tools-2024-04-04' header. Provided that each tool has a comprehensive JSON structure, Claude's capability can be expanded.|
-|[.]() | |
+|[Flyflow.](https://github.com/flyflow-devs/flyflow) | Flyflow is API middleware to optimize LLM applications, same response quality, 5x lower latency, secure, and much higher token limits|
 |[.]() | |
 |[.]() | |
 |[.]() | |
