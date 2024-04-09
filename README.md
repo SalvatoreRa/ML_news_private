@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html) | To make artificial intelligence systems more powerful, tech companies need online data to feed the technology. Here’s what to know.|
 |[TechScape: Could AI-generated content be dangerous for our health?](https://www.theguardian.com/technology/2024/apr/09/techscape-deepfakes-cognitohazards-science-fiction) | From hyperrealistic deepfakes to videos that not only hijack our attention but also our emotions, tech seems increasingly full of ‘cognitohazards’|
 |[AI can help to tailor drugs for Africa — but Africans should lead the way.](https://www.nature.com/articles/d41586-024-01001-y) |Computational models that require very little data could transform biomedical and drug development research in Africa, as long as infrastructure, trained staff and secure databases are available. |
-|[.]() | |
-|[.]() | |
+|[Breaking news: Scaling will never get us to AGI.](https://garymarcus.substack.com/p/breaking-news-scaling-will-never) | In order to create artificial general intelligence, additional methods must be used because neural networks' poor capacity to generalize beyond their training data limits their reasoning and trustworthiness.|
+|[Americans’ use of ChatGPT is ticking up, but few trust its election information.](https://www.pewresearch.org/short-reads/2024/03/26/americans-use-of-chatgpt-is-ticking-up-but-few-trust-its-election-information/) |It’s been more than a year since ChatGPT’s public debut set the tech world abuzz. And Americans’ use of the chatbot is ticking up: 23% of U.S. adults say they have ever used it, according to a Pew Research Center survey conducted in February, up from 18% in July 2023. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
