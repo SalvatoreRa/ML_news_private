@@ -44,9 +44,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Smartphone app could help detect early-onset dementia cause, study finds.](https://www.theguardian.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds) |App-based cognitive tests found to be proficient at detecting frontotemporal dementia in those most at risk. Scientists have demonstrated that cognitive tests done via a smartphone app are at least as sensitive at detecting early signs of frontotemporal dementia in people with a genetic predisposition to the condition as medical evaluations performed in clinics.|
 |[Unsegment Anything by Simulating Deformation.](https://arxiv.org/abs/2404.02585v1) |A novel strategy called "Anything Unsegmentable" aims to prevent digital photos from being divided into discrete categories by potent AI models, potentially resolving copyright and privacy concerns. |
 |[Evaluating LLMs at Detecting Errors in LLM Responses.](https://arxiv.org/abs/2404.03602v1) |A benchmark called ReaLMistake has been introduced by researchers with the goal of methodically identifying mistakes in lengthy language model answers. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Dynamic Prompt Optimizing for Text-to-Image Generation.](https://arxiv.org/abs/2404.04095v1) | Researchers have created Prompt Auto-Editing (PAE), a technique that uses diffusion models such as Imagen and Stable Diffusion to advance text-to-image generation. With the use of online reinforcement learning, this novel method dynamically modifies the weights and injection timings of particular words to automatically improve text prompts. |
+|[No Time to Train: Empowering Non-Parametric Networks for Few-shot 3D Scene Segmentation.](https://arxiv.org/abs/2404.04050v1) |A system called Seg-NN simplifies the 3D segmentation procedure. These models don't have the usual domain gap problems and can quickly adapt to new, unseen classes because they don't require a lot of pre-training. |
+|[Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions.](https://arxiv.org/abs/2404.03264v1) | The potential of Healthcare Foundation Models (HFMs) to transform medical services is examined in this extensive survey. These models are well-suited to adapt to different healthcare activities since they have been pre-trained on a variety of data sets. This could lead to an improvement in intelligent healthcare services in a variety of scenarios.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
