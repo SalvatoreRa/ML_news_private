@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[‘Time is running out’: can a future of undetectable deepfakes be avoided?.](https://www.theguardian.com/technology/2024/apr/08/time-is-running-out-can-a-future-of-undetectable-deepfakes-be-avoided) |Tell-tale signs of generative AI images are disappearing as the technology improves, and experts are scrambling for new methods to counter disinformation |
 |[Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html) | To make artificial intelligence systems more powerful, tech companies need online data to feed the technology. Here’s what to know.|
-|[.]() | |
+|[TechScape: Could AI-generated content be dangerous for our health?](https://www.theguardian.com/technology/2024/apr/09/techscape-deepfakes-cognitohazards-science-fiction) | From hyperrealistic deepfakes to videos that not only hijack our attention but also our emotions, tech seems increasingly full of ‘cognitohazards’|
 |[.]() | |
 |[.]() | |
 |[.]() | |
