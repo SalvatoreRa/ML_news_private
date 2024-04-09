@@ -96,9 +96,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[State-of-the-art Representation Fine-Tuning (ReFT) methods.](https://github.com/stanfordnlp/pyreft) | ReFT is a novel approach to language model fine-tuning that is efficient with parameters. It achieves good performance at a significantly lower cost than even PeFT.|
 |[The Top 100 AI for Work – April 2024.](https://www.flexos.work/learn/top-100-ai-for-work) |Following our AI Top 150, we spent the past few weeks analyzing data on the top AI platforms for work. This report shares key insights, including the AI tools you should consider adopting to work smarter, not harder. |
 |[LLocalSearch.](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[llm.c.](https://github.com/karpathy/llm.c) | LLM training in simple, pure C/CUDA. There is no need for 245MB of PyTorch or 107MB of cPython. For example, training GPT-2 (CPU, fp32) is ~1,000 lines of clean code in a single file. It compiles and runs instantly, and exactly matches the PyTorch reference implementation.|
+|[AIOS: LLM Agent Operating System.](https://github.com/agiresearch/AIOS) | AIOS, a Large Language Model (LLM) Agent operating system, embeds large language model into Operating Systems (OS) as the brain of the OS, enabling an operating system "with soul" -- an important step towards AGI. AIOS is designed to optimize resource allocation, facilitate context switch across agents, enable concurrent execution of agents, provide tool service for agents, maintain access control for agents, and provide a rich set of toolkits for LLM Agent developers.|
+|[Anthropic Tool use (function calling).](https://docs.anthropic.com/claude/docs/tool-use) | Claude AI may now communicate with customized client-side tools supplied in API requests thanks to the public beta that Anthropic has released. To utilize the feature, developers need to include the 'anthropic-beta: tools-2024-04-04' header. Provided that each tool has a comprehensive JSON structure, Claude's capability can be expanded.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
