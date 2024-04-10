@@ -47,6 +47,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dynamic Prompt Optimizing for Text-to-Image Generation.](https://arxiv.org/abs/2404.04095v1) | Researchers have created Prompt Auto-Editing (PAE), a technique that uses diffusion models such as Imagen and Stable Diffusion to advance text-to-image generation. With the use of online reinforcement learning, this novel method dynamically modifies the weights and injection timings of particular words to automatically improve text prompts. |
 |[No Time to Train: Empowering Non-Parametric Networks for Few-shot 3D Scene Segmentation.](https://arxiv.org/abs/2404.04050v1) |A system called Seg-NN simplifies the 3D segmentation procedure. These models don't have the usual domain gap problems and can quickly adapt to new, unseen classes because they don't require a lot of pre-training. |
 |[Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions.](https://arxiv.org/abs/2404.03264v1) | The potential of Healthcare Foundation Models (HFMs) to transform medical services is examined in this extensive survey. These models are well-suited to adapt to different healthcare activities since they have been pre-trained on a variety of data sets. This could lead to an improvement in intelligent healthcare services in a variety of scenarios.|
+|[SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing.](https://swap-anything.github.io/) | |
+|[UniFL:Improve Stable Diffusion via Unified Feedback Learning.](https://uni-fl.github.io/) | |
+|[Object-Aware Domain Generalization for Object Detection.](https://arxiv.org/abs/2312.12133v1) | |
+|[VAR: a new visual generation method elevates GPT-style models beyond diffusion🚀 & Scaling laws observed.](https://github.com/FoundationVision/VAR) | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
