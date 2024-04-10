@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UniFL:Improve Stable Diffusion via Unified Feedback Learning.](https://uni-fl.github.io/) |UniFL is a technique that uses a pretty complex cascade of feedback steps to enhance the output quality of diffusion models. All of these help to raise the image generation models' aesthetics, preference alignment, and visual quality. The methods can be applied to enhance any image generating model, regardless of the underlying model. |
 |[Object-Aware Domain Generalization for Object Detection.](https://arxiv.org/abs/2312.12133v1) | In order to tackle the problem of object detection in single-domain generalization (S-DG), the novel OA-DG approach presents two new techniques: OA-Mix for data augmentation and OA-Loss for training.|
 |[VAR: a new visual generation method elevates GPT-style models beyond diffusion🚀 & Scaling laws observed.](https://github.com/FoundationVision/VAR) |Code for the latest "next-resolution prediction" project, which presents the process of creating images as a progressive prediction of progressively higher resolution. A demo notebook and inference scripts are included in the repository. Soon, the training code will be made available. |
-|[.]() | |
+|[SqueezeAttention: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget.](https://github.com/hetailang/squeezeattention) | SqueezeAttention is a newly developed technique that optimizes the Key-Value cache of big language models, resulting in a 30% to 70% reduction in memory usage and a doubling of throughput.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,9 +87,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk predicts superhuman AI will be smarter than people next year.](https://www.theguardian.com/technology/2024/apr/09/elon-musk-predicts-superhuman-ai-will-be-smarter-than-people-next-year) |His claims come with a caveat that shortages of training chips and growing demand for power could limit plans in the near term |
 |[Gemma Family Expands with Models Tailored for Developers and Researchers.](https://developers.googleblog.com/2024/04/gemma-family-expands.html) | Google announced the first round of additions to the Gemma family, expanding the possibilities for ML developers to innovate responsibly: CodeGemma for code completion and generation tasks as well as instruction following, and RecurrentGemma, an efficiency-optimized architecture for research experimentation.|
 |[Meta confirms that its Llama 3 open source LLM is coming in the next month.](https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/) |At an event in London on Tuesday, Meta confirmed that it plans an initial release of Llama 3 — the next generation of its large language model used to power generative AI assistants — within the next month. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Intel details Gaudi 3 at Vision 2024 — new AI accelerator sampling to partners now, volume production in Q3.](https://www.tomshardware.com/pc-components/cpus/intel-details-guadi-3-at-vision-2024-new-ai-accelerator-sampling-to-partners-now-volume-production-in-q3) |Intel made a slew of announcements during its Vision 2024 event today, including deep-dive details of its new Gaudi 3 AI processors, which it claims offer up to 1.7X the training performance, 50% better inference, and 40% better efficiency than Nvidia’s market-leading H100 processors, but for significantly less money. |
+|[Apple's new AI model could help Siri see how iOS apps work.](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work) |Apple's Ferret LLM could help allow Siri to understand the layout of apps in an iPhone display, potentially increasing the capabilities of Apple's digital assistant. Apple has been working on numerous machine learning and AI projects that it could tease at WWDC 2024. In a just-released paper, it now seems that some of that work has the potential for Siri to understand what apps and iOS itself looks like. |
+|[Aerospace AI Hackathon Projects.](http://gonavi.ai/hackathon-apr06.html) | Together, 200 AI and aerospace experts created an amazing array of tools, including AI flight planners, AI air traffic controllers, and Apple Vision Pro flight simulators, as a means of prototyping cutting-edge solutions for the aviation and space industries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,6 +120,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AIOS: LLM Agent Operating System.](https://github.com/agiresearch/AIOS) | AIOS, a Large Language Model (LLM) Agent operating system, embeds large language model into Operating Systems (OS) as the brain of the OS, enabling an operating system "with soul" -- an important step towards AGI. AIOS is designed to optimize resource allocation, facilitate context switch across agents, enable concurrent execution of agents, provide tool service for agents, maintain access control for agents, and provide a rich set of toolkits for LLM Agent developers.|
 |[Anthropic Tool use (function calling).](https://docs.anthropic.com/claude/docs/tool-use) | Claude AI may now communicate with customized client-side tools supplied in API requests thanks to the public beta that Anthropic has released. To utilize the feature, developers need to include the 'anthropic-beta: tools-2024-04-04' header. Provided that each tool has a comprehensive JSON structure, Claude's capability can be expanded.|
 |[Flyflow.](https://github.com/flyflow-devs/flyflow) | Flyflow is API middleware to optimize LLM applications, same response quality, 5x lower latency, secure, and much higher token limits|
+|[ChemBench.](https://github.com/lamalab-org/chem-bench) |LLMs gain importance across domains. To guide improvement, benchmarks have been developed. One of the most popular ones is BIG-bench which currently only included two chemistry-related task. The goal of this project is to add more chemistry benchmark tasks in a BIG-bench compatible way, and develop a pipeline to benchmark frontier and open models. |
+|[Longcontext Alpaca Training.](https://colab.research.google.com/drive/1JcWphd5oRxoRzY12s69NCsPEmoWWSCoN) | On an H100, train more than 200k context windows using a new gradient accumulation offloading technique.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI can help to tailor drugs for Africa — but Africans should lead the way.](https://www.nature.com/articles/d41586-024-01001-y) |Computational models that require very little data could transform biomedical and drug development research in Africa, as long as infrastructure, trained staff and secure databases are available. |
 |[Breaking news: Scaling will never get us to AGI.](https://garymarcus.substack.com/p/breaking-news-scaling-will-never) | In order to create artificial general intelligence, additional methods must be used because neural networks' poor capacity to generalize beyond their training data limits their reasoning and trustworthiness.|
 |[Americans’ use of ChatGPT is ticking up, but few trust its election information.](https://www.pewresearch.org/short-reads/2024/03/26/americans-use-of-chatgpt-is-ticking-up-but-few-trust-its-election-information/) |It’s been more than a year since ChatGPT’s public debut set the tech world abuzz. And Americans’ use of the chatbot is ticking up: 23% of U.S. adults say they have ever used it, according to a Pew Research Center survey conducted in February, up from 18% in July 2023. |
-|[.]() | |
+|[Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google) |Demis Hassabis, the founder of DeepMind, is currently in charge of Google's unified AI research division and hopes to keep the tech behemoth ahead of the competition in the field with innovations like AlphaGo and AlphaFold. Notwithstanding the achievements, obstacles nonetheless exist in incorporating AI into physical goods and rivalry from organizations like OpenAI's ChatGPT. Having made a substantial contribution to AI, Hassabis now has to work within Google's product strategy in order to take use of DeepMind's research breakthroughs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
