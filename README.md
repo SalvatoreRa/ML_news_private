@@ -91,9 +91,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple's new AI model could help Siri see how iOS apps work.](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work) |Apple's Ferret LLM could help allow Siri to understand the layout of apps in an iPhone display, potentially increasing the capabilities of Apple's digital assistant. Apple has been working on numerous machine learning and AI projects that it could tease at WWDC 2024. In a just-released paper, it now seems that some of that work has the potential for Siri to understand what apps and iOS itself looks like. |
 |[Aerospace AI Hackathon Projects.](http://gonavi.ai/hackathon-apr06.html) | Together, 200 AI and aerospace experts created an amazing array of tools, including AI flight planners, AI air traffic controllers, and Apple Vision Pro flight simulators, as a means of prototyping cutting-edge solutions for the aviation and space industries.|
 |[AI race heats up as OpenAI, Google and Mistral release new models.](https://www.theguardian.com/technology/2024/apr/10/ai-race-heats-up-as-openai-google-and-mistral-release-new-models) | Launches within 12 hours of one another, and more activity expected in industry over summer|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[next-generation Meta Training and Inference Accelerator.](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/) |The next iteration of Meta's AI accelerator chip has been revealed. Its development was centered on throughput (11 TFLOPs at int8) and chip memory (128GB at 5nm). |
+|[Google’s Gemini Pro 1.5 enters public preview on Vertex AI.](https://techcrunch.com/2024/04/09/googles-gemini-pro-1-5-enters-public-preview-on-vertex-ai/) |Gemini 1.5 Pro, Google’s most capable generative AI model, is now available in public preview on Vertex AI, Google’s enterprise-focused AI development platform. The company announced the news during its annual Cloud Next conference, which is taking place in Las Vegas this week. |
+|[Microsoft is working on sound recognition AI technologies capable of detecting natural disasters.](https://windowsreport.com/microsoft-is-working-on-sound-recognition-ai-technologies-capable-of-detecting-natural-disasters/) | However, the Redmond-based tech giant is working on performant sound recognition AI technologies that would see Copilot (and any other AI model, such as ChatGPT) capable of detecting upcoming natural disasters, such as earthquakes, and storms.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
