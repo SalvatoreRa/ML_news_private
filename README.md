@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SqueezeAttention: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget.](https://github.com/hetailang/squeezeattention) | SqueezeAttention is a newly developed technique that optimizes the Key-Value cache of big language models, resulting in a 30% to 70% reduction in memory usage and a doubling of throughput.|
 |[Measuring the Persuasiveness of Language Models.](https://www.anthropic.com/news/measuring-model-persuasiveness) |The Claude 3 Opus AI model was shown to closely resemble human persuasiveness in a study that looked at persuasiveness. Statistical tests and multiple comparison adjustments were used to ascertain this. Although not by a statistically significant amount, humans were marginally more convincing, highlighting a trend where larger, more complex models are becoming more credible. The most persuasive model was found to be Claude 3 Opus. The study's methodological reliability was validated by a control condition that demonstrated predictable low persuasiveness for undisputed facts. |
 |[DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation.](https://arxiv.org/abs/2404.06119v1) | DreamView presents a novel method for turning text descriptions into 3D objects that may be extensively customized from various angles while maintaining the object's overall consistency. |
-|[.]() | |
+|[Hash3D: Training-free Acceleration for 3D Generation.](https://adamdad.github.io/hash3D/) | By adopting a hashing algorithm that takes use of feature-map redundancy across similar camera positions and diffusion time-steps, Hash3D presents a revolutionary way to accelerate 3D generative modeling. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,9 +122,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Flyflow.](https://github.com/flyflow-devs/flyflow) | Flyflow is API middleware to optimize LLM applications, same response quality, 5x lower latency, secure, and much higher token limits|
 |[ChemBench.](https://github.com/lamalab-org/chem-bench) |LLMs gain importance across domains. To guide improvement, benchmarks have been developed. One of the most popular ones is BIG-bench which currently only included two chemistry-related task. The goal of this project is to add more chemistry benchmark tasks in a BIG-bench compatible way, and develop a pipeline to benchmark frontier and open models. |
 |[Longcontext Alpaca Training.](https://colab.research.google.com/drive/1JcWphd5oRxoRzY12s69NCsPEmoWWSCoN) | On an H100, train more than 200k context windows using a new gradient accumulation offloading technique.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[attorch.](https://github.com/BobMcDear/attorch) |attorch is a subset of PyTorch's nn module, written purely in Python using OpenAI's Triton. Its goal is to be an easily hackable, self-contained, and readable collection of neural network modules whilst maintaining or improving upon the efficiency of PyTorch. |
+|[Policy-Guided Diffusion.](https://github.com/emptyjackson/policy-guided-diffusion) |A novel approach to agent training in offline environments is provided by policy-guided diffusion, which generates synthetic trajectories that closely match target policies and behavior. By producing more realistic training data, this method greatly enhances the performance of offline reinforcement learning models. |
+|[Ada-LEval.](https://github.com/open-compass/ada-leval) | Ada-LEval is a pioneering benchmark to assess the long-context capabilities with length-adaptable questions. It comprises two challenging tasks: TSort, which involves arranging text segments into the correct order, and BestAnswer, which requires choosing the best answer of a question among multiple candidates.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
