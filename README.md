@@ -94,9 +94,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[next-generation Meta Training and Inference Accelerator.](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/) |The next iteration of Meta's AI accelerator chip has been revealed. Its development was centered on throughput (11 TFLOPs at int8) and chip memory (128GB at 5nm). |
 |[Google’s Gemini Pro 1.5 enters public preview on Vertex AI.](https://techcrunch.com/2024/04/09/googles-gemini-pro-1-5-enters-public-preview-on-vertex-ai/) |Gemini 1.5 Pro, Google’s most capable generative AI model, is now available in public preview on Vertex AI, Google’s enterprise-focused AI development platform. The company announced the news during its annual Cloud Next conference, which is taking place in Las Vegas this week. |
 |[Microsoft is working on sound recognition AI technologies capable of detecting natural disasters.](https://windowsreport.com/microsoft-is-working-on-sound-recognition-ai-technologies-capable-of-detecting-natural-disasters/) | However, the Redmond-based tech giant is working on performant sound recognition AI technologies that would see Copilot (and any other AI model, such as ChatGPT) capable of detecting upcoming natural disasters, such as earthquakes, and storms.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Amazon scrambles for its place in the AI race.](https://www.theverge.com/2024/3/29/24116056/amazon-ai-race-anthropic-olympus-claude) | With its multibillion-dollar bet on Anthropic and its forthcoming Olympus model, Amazon is pushing hard to be a leader in AI.|
+|[Elon Musk's updated Grok AI claims to be better at coding and math.](https://www.engadget.com/elon-musks-updated-grok-ai-claims-to-be-better-at-coding-and-math-120056776.html) |It'll be available to early testers 'in the coming days.' Elon Musk's answer to ChatGPT is getting an update to make it better at math, coding and more. Musk's xAI has launched Grok-1.5 to early testers with "improved capabilities and reasoning" and the ability to process longer contexts. The company claims it now stacks up against GPT-4, Gemini Pro 1.5 and Claude 3 Opus in several areas.|
+|[Anthropic's Haiku Beats GPT-4 Turbo in Tool Use - Sometimes.](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use) |Anthropic's beta tool use API is better than GPT-4 Turbo in 50% of cases on the Berkeley Function Calling benchmark. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
