@@ -149,8 +149,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Breaking news: Scaling will never get us to AGI.](https://garymarcus.substack.com/p/breaking-news-scaling-will-never) | In order to create artificial general intelligence, additional methods must be used because neural networks' poor capacity to generalize beyond their training data limits their reasoning and trustworthiness.|
 |[Americans’ use of ChatGPT is ticking up, but few trust its election information.](https://www.pewresearch.org/short-reads/2024/03/26/americans-use-of-chatgpt-is-ticking-up-but-few-trust-its-election-information/) |It’s been more than a year since ChatGPT’s public debut set the tech world abuzz. And Americans’ use of the chatbot is ticking up: 23% of U.S. adults say they have ever used it, according to a Pew Research Center survey conducted in February, up from 18% in July 2023. |
 |[Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google) |Demis Hassabis, the founder of DeepMind, is currently in charge of Google's unified AI research division and hopes to keep the tech behemoth ahead of the competition in the field with innovations like AlphaGo and AlphaFold. Notwithstanding the achievements, obstacles nonetheless exist in incorporating AI into physical goods and rivalry from organizations like OpenAI's ChatGPT. Having made a substantial contribution to AI, Hassabis now has to work within Google's product strategy in order to take use of DeepMind's research breakthroughs. |
-|[.]() | |
-|[.]() | |
+|[Is ChatGPT corrupting peer review? Telltale words hint at AI use.](https://www.nature.com/articles/d41586-024-01051-2) | A study of review reports identifies dozens of adjectives that could indicate text written with the help of chatbots.|
+|[AI-fuelled election campaigns are here — where are the rules?](https://www.nature.com/articles/d41586-024-00995-9) |Political candidates are increasingly using AI-generated ‘softfakes’ to boost their campaigns. This raises deep ethical concerns. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
