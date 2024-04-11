@@ -151,9 +151,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can Demis Hassabis Save Google?](https://www.bigtechnology.com/p/can-demis-hassabis-save-google) |Demis Hassabis, the founder of DeepMind, is currently in charge of Google's unified AI research division and hopes to keep the tech behemoth ahead of the competition in the field with innovations like AlphaGo and AlphaFold. Notwithstanding the achievements, obstacles nonetheless exist in incorporating AI into physical goods and rivalry from organizations like OpenAI's ChatGPT. Having made a substantial contribution to AI, Hassabis now has to work within Google's product strategy in order to take use of DeepMind's research breakthroughs. |
 |[Is ChatGPT corrupting peer review? Telltale words hint at AI use.](https://www.nature.com/articles/d41586-024-01051-2) | A study of review reports identifies dozens of adjectives that could indicate text written with the help of chatbots.|
 |[AI-fuelled election campaigns are here — where are the rules?](https://www.nature.com/articles/d41586-024-00995-9) |Political candidates are increasingly using AI-generated ‘softfakes’ to boost their campaigns. This raises deep ethical concerns. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[How to break big tech’s stranglehold on AI in academia.](https://www.nature.com/articles/d41586-024-01039-y) |Deep-learning artificial intelligence (AI) models have become an attractive tool for researchers in many areas of science and medicine. But the development of these models is prohibitively expensive, owing mainly to the energy consumed in training them. |
+|[Ready or not, AI is coming to science education — and students have opinions.](https://www.nature.com/articles/d41586-024-01002-x) |As educators debate whether it’s even possible to use AI safely in research and education, students are taking a role in shaping its responsible use. |
+|[‘Without these tools, I’d be lost’: how generative AI aids in accessibility.](https://www.nature.com/articles/d41586-024-01003-w) |A rush to place barriers around the use of artificial intelligence in academia could disproportionately affect those who stand to benefit most. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
