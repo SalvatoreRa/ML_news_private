@@ -100,9 +100,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK has real concerns about AI risks, says competition regulator.](https://www.theguardian.com/technology/2024/apr/11/uk-has-real-concerns-about-ai-risks-says-competition-regulator) |Concentration of power among just six big tech companies ‘could lead to winner takes all dynamics’ |
 |[New bill would force AI companies to reveal use of copyrighted art.](https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art) | Adam Schiff introduces bill amid growing legal battle over whether major AI companies have made illegal use of copyrighted works|
 |[Randomness in computation wins computer-science ‘Nobel’.](https://www.nature.com/articles/d41586-024-01055-y) |Computer scientist Avi Wigderson is known for clarifying the role of randomness in algorithms, and for studying their complexity. A leader in the field of computational theory is the latest winner of the A. M. Turing Award, sometimes described as the ‘Nobel Prize’ of computer science.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing Rerank 3: A New Foundation Model for Efficient Enterprise Search & Retrieval.](https://txt.cohere.com/rerank-3/) |Rerank 3, the newest foundation model from Cohere, was developed with enterprise search and Retrieval Augmented Generation (RAG) systems in mind. The model may be integrated into any legacy program with built-in search functionality and is compatible with any database or search index. With a single line of code, Rerank 3 can improve search speed or lower the cost of running RAG applications with minimal effect on latency. |
+|[Meta to broaden labeling of AI-made content.](https://www.axios.com/2024/04/05/meta-broader-ai-labeling) |  Meta admits its current labeling policies are "too narrow" and that a stronger system is needed to deal with today's wider range of AI-generated content and other manipulated content, such as a January video which appeared to show President Biden inappropriately touching his granddaughter.|
+|[Mistral's New Model.](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1/discussions/4) |The Mixtral-8x22B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
