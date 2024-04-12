@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic's Haiku Beats GPT-4 Turbo in Tool Use - Sometimes.](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use) |Anthropic's beta tool use API is better than GPT-4 Turbo in 50% of cases on the Berkeley Function Calling benchmark. |
 |[UK has real concerns about AI risks, says competition regulator.](https://www.theguardian.com/technology/2024/apr/11/uk-has-real-concerns-about-ai-risks-says-competition-regulator) |Concentration of power among just six big tech companies ‘could lead to winner takes all dynamics’ |
 |[New bill would force AI companies to reveal use of copyrighted art.](https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art) | Adam Schiff introduces bill amid growing legal battle over whether major AI companies have made illegal use of copyrighted works|
-|[.]() | |
+|[Randomness in computation wins computer-science ‘Nobel’.](https://www.nature.com/articles/d41586-024-01055-y) |Computer scientist Avi Wigderson is known for clarifying the role of randomness in algorithms, and for studying their complexity. A leader in the field of computational theory is the latest winner of the A. M. Turing Award, sometimes described as the ‘Nobel Prize’ of computer science.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
