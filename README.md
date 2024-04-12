@@ -55,12 +55,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Measuring the Persuasiveness of Language Models.](https://www.anthropic.com/news/measuring-model-persuasiveness) |The Claude 3 Opus AI model was shown to closely resemble human persuasiveness in a study that looked at persuasiveness. Statistical tests and multiple comparison adjustments were used to ascertain this. Although not by a statistically significant amount, humans were marginally more convincing, highlighting a trend where larger, more complex models are becoming more credible. The most persuasive model was found to be Claude 3 Opus. The study's methodological reliability was validated by a control condition that demonstrated predictable low persuasiveness for undisputed facts. |
 |[DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation.](https://arxiv.org/abs/2404.06119v1) | DreamView presents a novel method for turning text descriptions into 3D objects that may be extensively customized from various angles while maintaining the object's overall consistency. |
 |[Hash3D: Training-free Acceleration for 3D Generation.](https://adamdad.github.io/hash3D/) | By adopting a hashing algorithm that takes use of feature-map redundancy across similar camera positions and diffusion time-steps, Hash3D presents a revolutionary way to accelerate 3D generative modeling. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MoCha-Stereo: Motif Channel Attention Network for Stereo Matching.](https://arxiv.org/abs/2404.06842v1) | An innovative method that keeps geometric structures that are sometimes lost in conventional stereo matching techniques is the Motif Channel Attention Stereo Matching Network (MoCha-Stereo).|
+|[Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression.](https://arxiv.org/abs/2404.06936v1) |PoLoPCAC is a lossless point cloud attribute compression technique that combines excellent adaptability and great efficiency at different point cloud densities and scales. |
+|[Scaling Multi-Camera 3D Object Detection through Weak-to-Strong Eliciting.](https://arxiv.org/abs/2404.06700v1) | In order to boost surround refinement in Multi-Camera 3D Object Detection (MC3D-Det), a field enhanced by bird's-eye view technologies, this study introduces a weak-to-strong eliciting framework.|
+|[InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models.](https://github.com/tencentarc/instantmesh) | This project introduces InstantMesh, a framework with unparalleled quality and scalability that creates 3D meshes instantaneously from a single image.|
+|[Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://github.com/luckfort/cd) | A recent study examined the ways in which different layers within huge language models understand distinct concepts. It was discovered that while more complicated tasks demand deeper processing, simpler tasks are handled by earlier layers.|
+|[SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection.](https://arxiv.org/abs/2404.06832v1) | SplatPose is a revolutionary approach that uses 3D Gaussian splatting to address the problem of anomaly identification in 3D objects from different positions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
