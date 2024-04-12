@@ -103,6 +103,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Rerank 3: A New Foundation Model for Efficient Enterprise Search & Retrieval.](https://txt.cohere.com/rerank-3/) |Rerank 3, the newest foundation model from Cohere, was developed with enterprise search and Retrieval Augmented Generation (RAG) systems in mind. The model may be integrated into any legacy program with built-in search functionality and is compatible with any database or search index. With a single line of code, Rerank 3 can improve search speed or lower the cost of running RAG applications with minimal effect on latency. |
 |[Meta to broaden labeling of AI-made content.](https://www.axios.com/2024/04/05/meta-broader-ai-labeling) |  Meta admits its current labeling policies are "too narrow" and that a stronger system is needed to deal with today's wider range of AI-generated content and other manipulated content, such as a January video which appeared to show President Biden inappropriately touching his granddaughter.|
 |[Mistral's New Model.](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1/discussions/4) |The Mixtral-8x22B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts. |
+|[Waymo self-driving cars are delivering Uber Eats orders for first time.](https://www.cnbc.com/2024/04/03/waymo-self-driving-cars-are-delivering-uber-eats-orders-for-first-time.html) |Uber Eats customers may now receive orders delivered by one of Waymo’s self-driving cars for the first time in the Phoenix metropolitan area. It is part of a multiyear collaboration between the two companies unveiled last year.|
+|[JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars.](https://huggingface.co/jetmoe/jetmoe-8b) |This model of a mixture of experts was trained on a decent amount of CPU power using available datasets. It performs on par with the considerably larger and more costly Meta Llama 2 7B variant. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
