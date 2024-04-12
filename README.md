@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon scrambles for its place in the AI race.](https://www.theverge.com/2024/3/29/24116056/amazon-ai-race-anthropic-olympus-claude) | With its multibillion-dollar bet on Anthropic and its forthcoming Olympus model, Amazon is pushing hard to be a leader in AI.|
 |[Elon Musk's updated Grok AI claims to be better at coding and math.](https://www.engadget.com/elon-musks-updated-grok-ai-claims-to-be-better-at-coding-and-math-120056776.html) |It'll be available to early testers 'in the coming days.' Elon Musk's answer to ChatGPT is getting an update to make it better at math, coding and more. Musk's xAI has launched Grok-1.5 to early testers with "improved capabilities and reasoning" and the ability to process longer contexts. The company claims it now stacks up against GPT-4, Gemini Pro 1.5 and Claude 3 Opus in several areas.|
 |[Anthropic's Haiku Beats GPT-4 Turbo in Tool Use - Sometimes.](https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use) |Anthropic's beta tool use API is better than GPT-4 Turbo in 50% of cases on the Berkeley Function Calling benchmark. |
-|[.]() | |
-|[.]() | |
+|[UK has real concerns about AI risks, says competition regulator.](https://www.theguardian.com/technology/2024/apr/11/uk-has-real-concerns-about-ai-risks-says-competition-regulator) |Concentration of power among just six big tech companies ‘could lead to winner takes all dynamics’ |
+|[New bill would force AI companies to reveal use of copyrighted art.](https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art) | Adam Schiff introduces bill amid growing legal battle over whether major AI companies have made illegal use of copyrighted works|
 |[.]() | |
 |[.]() | |
 |[.]() | |
