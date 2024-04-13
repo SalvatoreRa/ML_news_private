@@ -105,9 +105,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral's New Model.](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1/discussions/4) |The Mixtral-8x22B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts. |
 |[Waymo self-driving cars are delivering Uber Eats orders for first time.](https://www.cnbc.com/2024/04/03/waymo-self-driving-cars-are-delivering-uber-eats-orders-for-first-time.html) |Uber Eats customers may now receive orders delivered by one of Waymo’s self-driving cars for the first time in the Phoenix metropolitan area. It is part of a multiyear collaboration between the two companies unveiled last year.|
 |[JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars.](https://huggingface.co/jetmoe/jetmoe-8b) |This model of a mixture of experts was trained on a decent amount of CPU power using available datasets. It performs on par with the considerably larger and more costly Meta Llama 2 7B variant. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Google blocking links to California news outlets from search results.](https://www.theguardian.com/technology/2024/apr/12/google-search-blocking-california-news) |Tech giant is protesting proposed law that would require large online platforms to pay ‘journalism usage fee’ |
+|[House votes to reapprove law allowing warrantless surveillance of US citizens.](https://www.theguardian.com/us-news/2024/apr/12/fisa-surveillance-act-reauthorized) | Fisa allows for monitoring of foreign communications, as well as collection of citizens’ messages and calls|
+|[Tesla settles lawsuit over 2018 fatal Autopilot crash of Apple engineer.](https://www.theguardian.com/technology/2024/apr/08/tesla-crash-lawsuit-apple-engineer) |Walter Huang was killed when his car steered in to a highway barrier and Tesla will avoid questions into its technology in a trial |
 |[.]() | |
 |[.]() | |
 |[.]() | |
