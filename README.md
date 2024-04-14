@@ -61,10 +61,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models.](https://github.com/tencentarc/instantmesh) | This project introduces InstantMesh, a framework with unparalleled quality and scalability that creates 3D meshes instantaneously from a single image.|
 |[Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://github.com/luckfort/cd) | A recent study examined the ways in which different layers within huge language models understand distinct concepts. It was discovered that while more complicated tasks demand deeper processing, simpler tasks are handled by earlier layers.|
 |[SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection.](https://arxiv.org/abs/2404.06832v1) | SplatPose is a revolutionary approach that uses 3D Gaussian splatting to address the problem of anomaly identification in 3D objects from different positions.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -107,12 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars.](https://huggingface.co/jetmoe/jetmoe-8b) |This model of a mixture of experts was trained on a decent amount of CPU power using available datasets. It performs on par with the considerably larger and more costly Meta Llama 2 7B variant. |
 |[Google blocking links to California news outlets from search results.](https://www.theguardian.com/technology/2024/apr/12/google-search-blocking-california-news) |Tech giant is protesting proposed law that would require large online platforms to pay ‘journalism usage fee’ |
 |[House votes to reapprove law allowing warrantless surveillance of US citizens.](https://www.theguardian.com/us-news/2024/apr/12/fisa-surveillance-act-reauthorized) | Fisa allows for monitoring of foreign communications, as well as collection of citizens’ messages and calls|
-|[Tesla settles lawsuit over 2018 fatal Autopilot crash of Apple engineer.](https://www.theguardian.com/technology/2024/apr/08/tesla-crash-lawsuit-apple-engineer) |Walter Huang was killed when his car steered in to a highway barrier and Tesla will avoid questions into its technology in a trial |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
+|[Tesla settles lawsuit over 2018 fatal Autopilot crash of Apple engineer.](https://www.theguardian.com/technology/2024/apr/08/tesla-crash-lawsuit-apple-engineer) |Walter Huang was killed when his car steered into a highway barrier and Tesla will avoid questions about its technology in a trial |
 
 ## Resources
 |Link|description|
@@ -131,19 +122,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[attorch.](https://github.com/BobMcDear/attorch) |attorch is a subset of PyTorch's nn module, written purely in Python using OpenAI's Triton. Its goal is to be an easily hackable, self-contained, and readable collection of neural network modules whilst maintaining or improving upon the efficiency of PyTorch. |
 |[Policy-Guided Diffusion.](https://github.com/emptyjackson/policy-guided-diffusion) |A novel approach to agent training in offline environments is provided by policy-guided diffusion, which generates synthetic trajectories that closely match target policies and behavior. By producing more realistic training data, this method greatly enhances the performance of offline reinforcement learning models. |
 |[Ada-LEval.](https://github.com/open-compass/ada-leval) | Ada-LEval is a pioneering benchmark to assess the long-context capabilities with length-adaptable questions. It comprises two challenging tasks: TSort, which involves arranging text segments into the correct order, and BestAnswer, which requires choosing the best answer of a question among multiple candidates.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -160,12 +138,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to break big tech’s stranglehold on AI in academia.](https://www.nature.com/articles/d41586-024-01039-y) |Deep-learning artificial intelligence (AI) models have become an attractive tool for researchers in many areas of science and medicine. But the development of these models is prohibitively expensive, owing mainly to the energy consumed in training them. |
 |[Ready or not, AI is coming to science education — and students have opinions.](https://www.nature.com/articles/d41586-024-01002-x) |As educators debate whether it’s even possible to use AI safely in research and education, students are taking a role in shaping its responsible use. |
 |[‘Without these tools, I’d be lost’: how generative AI aids in accessibility.](https://www.nature.com/articles/d41586-024-01003-w) |A rush to place barriers around the use of artificial intelligence in academia could disproportionately affect those who stand to benefit most. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 1 - 7 April
 
