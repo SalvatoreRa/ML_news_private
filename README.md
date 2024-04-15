@@ -66,8 +66,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Grok-1.5 Vision Preview.](https://x.ai/blog/grok-1.5v) | Introducing Grok-1.5V, our first-generation multimodal model. In addition to its strong text capabilities, Grok can now process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs. Grok-1.5V will be available soon to our early testers and existing Grok users.|
+|[Google’s new chips look to challenge Nvidia, Microsoft and Amazon.](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201) | Google’s new AI chip is a rival to Nvidia, and its Arm-based CPU will compete with Microsoft and Amazon|
+|[OpenAI Fires Researchers For Leaking Information.](https://futurism.com/the-byte/openai-fires-researchers-leaks) | After months of leaks, OpenAI has apparently fired two researchers who are said to be linked to company secrets going public.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,7 +89,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
