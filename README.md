@@ -41,9 +41,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DGMamba: Domain Generalization via Generalized State Space Model.](https://arxiv.org/abs/2404.07794v1) | |
+|[Manipulating Large Language Models to Increase Product Visibility.](https://arxiv.org/abs/2404.07981v1) | |
+|[MindBridge: A Cross-Subject Brain Decoding Framework.](https://littlepure2333.github.io/MindBridge/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
