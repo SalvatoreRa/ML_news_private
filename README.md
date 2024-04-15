@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DGMamba: Domain Generalization via Generalized State Space Model.](https://arxiv.org/abs/2404.07794v1) | DGMamba is a new framework that makes use of the novel state space model Mamba to address domain generalization problems.|
 |[Manipulating Large Language Models to Increase Product Visibility.](https://arxiv.org/abs/2404.07981v1) |Search engines' extensive language models can be manipulated by adding strategic text sequences to product descriptions to promote specific products. |
 |[MindBridge: A Cross-Subject Brain Decoding Framework.](https://littlepure2333.github.io/MindBridge/) | MindBridge is a single model that can interpret brain activity from several subjects. |
-|[.]() | |
+|[Taming Stable Diffusion for Text to 360° Panorama Image Generation.](https://chengzhag.github.io/publication/panfusion/) | With the help of text prompts, this project presents PanFusion, a dual-branch diffusion model that creates 360-degree panoramic images. In order to minimize visual distortion, the technique combines the Stable Diffusion approach with a customized panoramic branch, which is further improved by a special cross-attention mechanism. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -69,7 +69,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok-1.5 Vision Preview.](https://x.ai/blog/grok-1.5v) | Introducing Grok-1.5V, our first-generation multimodal model. In addition to its strong text capabilities, Grok can now process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs. Grok-1.5V will be available soon to our early testers and existing Grok users.|
 |[Google’s new chips look to challenge Nvidia, Microsoft and Amazon.](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201) | Google’s new AI chip is a rival to Nvidia, and its Arm-based CPU will compete with Microsoft and Amazon|
 |[OpenAI Fires Researchers For Leaking Information.](https://futurism.com/the-byte/openai-fires-researchers-leaks) | After months of leaks, OpenAI has apparently fired two researchers who are said to be linked to company secrets going public.|
-|[.]() | |
+|[BabyLM Challenge.](https://babylm.github.io/) | The goal of this shared task is to incentivize researchers with an interest in pretraining or cognitive modeling to focus their efforts on optimizing pretraining given data limitations inspired by human development. Additionally, we hope to democratize research on pretraining—which is typically thought to be practical only for large industry groups—by drawing attention to open problems that can be addressed on a university budget.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Does AI need a “body” to become truly intelligent? Meta researchers think so.](https://www.freethink.com/robots-ai/embodied-ai) |AIs that can generate videos, quickly translate languages, or write new computer code could be world changing, but can they ever be truly intelligent? Not according to the embodiment hypothesis, which argues that human-level intelligence can only emerge if an intelligence is able to sense and navigate a physical environment, the same way babies can.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
