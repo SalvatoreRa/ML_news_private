@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s new chips look to challenge Nvidia, Microsoft and Amazon.](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201) | Google’s new AI chip is a rival to Nvidia, and its Arm-based CPU will compete with Microsoft and Amazon|
 |[OpenAI Fires Researchers For Leaking Information.](https://futurism.com/the-byte/openai-fires-researchers-leaks) | After months of leaks, OpenAI has apparently fired two researchers who are said to be linked to company secrets going public.|
 |[BabyLM Challenge.](https://babylm.github.io/) | The goal of this shared task is to incentivize researchers with an interest in pretraining or cognitive modeling to focus their efforts on optimizing pretraining given data limitations inspired by human development. Additionally, we hope to democratize research on pretraining—which is typically thought to be practical only for large industry groups—by drawing attention to open problems that can be addressed on a university budget.|
-|[.]() | |
+|[Dr. Andrew Ng appointed to Amazon’s Board of Directors.](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors) | Dr. Andrew Ng is currently the Managing General Partner of AI Fund and is joining Amazon's Board of Directors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[LLM friendly HTML conversion.](https://github.com/jina-ai/reader/) | Reader converts any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/. Get improved output for your agent and RAG systems at no cost.|
 |[Minimal Implementation of a D3PM (Structured Denoising Diffusion Models in Discrete State-Spaces), in pytorch.](https://github.com/cloneofsimo/d3pm) |This is minimal (400 LOC), but fully faithful implementation of a D3PM Structured Denoising Diffusion Models in Discrete State-Spaces. in pytorch. |
-|[.]() | |
+|[Cerule - A Tiny Mighty Vision Model.](https://huggingface.co/Tensoic/Cerule-v0.1) |We train and release "Cerule", a tiny yet powerful Vision Lanuage Model based on the newly released Google's Gemma-2b and Google's SigLIP. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Does AI need a “body” to become truly intelligent? Meta researchers think so.](https://www.freethink.com/robots-ai/embodied-ai) |AIs that can generate videos, quickly translate languages, or write new computer code could be world changing, but can they ever be truly intelligent? Not according to the embodiment hypothesis, which argues that human-level intelligence can only emerge if an intelligence is able to sense and navigate a physical environment, the same way babies can.  |
-|[.]() | |
+|[Micromanaging AI.](https://tomtunguz.com/micromanaging-ai/) |Currently, AI is classified as micromanage, which requires people to establish tasks, assess work frequently, and lead development at each stage, akin to managing high school interns. Motivation is high but competence level is rather low. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
