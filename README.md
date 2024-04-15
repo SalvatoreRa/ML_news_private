@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[LLM friendly HTML conversion.](https://github.com/jina-ai/reader/) | Reader converts any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/. Get improved output for your agent and RAG systems at no cost.|
+|[Minimal Implementation of a D3PM (Structured Denoising Diffusion Models in Discrete State-Spaces), in pytorch.](https://github.com/cloneofsimo/d3pm) |This is minimal (400 LOC), but fully faithful implementation of a D3PM Structured Denoising Diffusion Models in Discrete State-Spaces. in pytorch. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
