@@ -71,8 +71,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Fires Researchers For Leaking Information.](https://futurism.com/the-byte/openai-fires-researchers-leaks) | After months of leaks, OpenAI has apparently fired two researchers who are said to be linked to company secrets going public.|
 |[BabyLM Challenge.](https://babylm.github.io/) | The goal of this shared task is to incentivize researchers with an interest in pretraining or cognitive modeling to focus their efforts on optimizing pretraining given data limitations inspired by human development. Additionally, we hope to democratize research on pretraining—which is typically thought to be practical only for large industry groups—by drawing attention to open problems that can be addressed on a university budget.|
 |[Dr. Andrew Ng appointed to Amazon’s Board of Directors.](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors) | Dr. Andrew Ng is currently the Managing General Partner of AI Fund and is joining Amazon's Board of Directors.|
-|[.]() | |
-|[.]() | |
+|[Creating sexually explicit deepfake images to be made offence in UK.](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk) | Offenders could face jail if image is widely shared under proposed amendment to criminal justice bill|
+|[Leisure centres scrap biometric systems to keep tabs on staff amid UK data watchdog clampdown.](https://www.theguardian.com/business/2024/apr/16/leisure-centres-scrap-biometric-systems-to-keep-tabs-on-staff-amid-uk-data-watchdog-clampdown) | Firms such as Serco and Virgin Active pull facial recognition and fingerprint scan systems used to monitor staff attendance|
 |[.]() | |
 |[.]() | |
 |[.]() | |
