@@ -76,9 +76,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing OpenAI Japan.](https://openai.com/blog/introducing-openai-japan) |We are excited to announce our first office in Asia and we’re releasing a GPT-4 custom model optimized for the Japanese language. |
 |[Adobe’s working on generative video, too.](https://techcrunch.com/2024/04/15/adobes-working-on-generative-video-too/) | Adobe says it’s building an AI model to generate video. But it’s not revealing when this model will launch, exactly — or much about it besides the fact that it exists.|
 |[OpenAI and Meta Reportedly Preparing New AI Models Capable of Reasoning.](https://futurism.com/the-byte/openai-meta-new-ai-models-capable-reasoning) | OpenAI and Meta are on the verge of releasing next versions of their AI models that will supposedly be capable of reasoning and planning, the Financial Times reports. But, as with any hype coming out of big tech, take it all with a grain of salt.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Humane’s Ai Pin Isn't Ready to Replace Your Phone, But One Day It Might.](https://www.inverse.com/tech/humane-ai-pin-in-depth-review) |AI-powered wearable Humane's Ai Pin has numerous technical problems, ranging from AI assistant glitches to music streaming concerns. Though future software updates are promised, the first-generation gadget lacks crucial functions and experiences performance gaps despite its intention to create an ambient computing experience. The Ai Pin is positioned as a companion device for a more present and less screen-focused lifestyle, yet it struggles to replace conventional smartphones despite its meticulous design. |
+|[TikTok may add AI avatars that can make ads.](https://www.theverge.com/2024/4/11/24127579/tiktok-ai-virtual-influencers-advertising) | he new feature will let advertisers and TikTok Shop sellers generate scripts for a virtual influencer to read.|
+|[Google launches Code Assist, its latest challenger to GitHub’s Copilot.](https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/) |At its Cloud Next conference, Google on Tuesday unveiled Gemini Code Assist, its enterprise-focused AI code completion and assistance tool. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Minimal Implementation of a D3PM (Structured Denoising Diffusion Models in Discrete State-Spaces), in pytorch.](https://github.com/cloneofsimo/d3pm) |This is minimal (400 LOC), but fully faithful implementation of a D3PM Structured Denoising Diffusion Models in Discrete State-Spaces. in pytorch. |
 |[Cerule - A Tiny Mighty Vision Model.](https://huggingface.co/Tensoic/Cerule-v0.1) |We train and release "Cerule", a tiny yet powerful Vision Lanuage Model based on the newly released Google's Gemma-2b and Google's SigLIP. |
 |[Diffusion Models for Video Generation.](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/) |This article looks at adapting image models, training diffusion models to produce video, and even producing video directly from an image model without further training. |
-|[.]() | |
+|[Pile-T5.](https://blog.eleuther.ai/pile-t5/) | The contemporary AI workhorse is called T5. Eleuther retrained it using a more recent tokenizer and a longer training period. As a consequence, the fundamental model for encoding tasks is significantly enhanced.|
+|[GitHub Repository to File Converter.](https://github.com/cognitivecomputations/github2file) |This Python script allows you to download and process files from a GitHub repository, making it easier to share code with chatbots that have large context capabilities but don't automatically download code from GitHub. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -125,8 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI now beats humans at basic tasks — new benchmarks are needed, says major report.](https://www.nature.com/articles/d41586-024-01087-4) | Stanford University’s 2024 AI Index charts the meteoric rise of artificial-intelligence tools. Artificial intelligence (AI) systems, such as the chatbot ChatGPT, have become so advanced that they now very nearly match or exceed human performance in tasks including reading comprehension, image classification and competition-level mathematics, according to a new report. |
 |[Lethal dust storms blanket Asia every spring — now AI could help predict them.](https://www.nature.com/articles/d41586-024-01076-7) | As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.|
 |[From boom to burst, the AI bubble is only heading in one direction.](https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction) |No one should be surprised that artificial intelligence is following a well-worn and entirely predictable financial arc |
-|[Pile-T5.](https://blog.eleuther.ai/pile-t5/) | The contemporary AI workhorse is called T5. Eleuther retrained it using a more recent tokenizer and a longer training period. As a consequence, the fundamental model for encoding tasks is significantly enhanced.|
-|[.]() | |
+|[You can't build a moat with AI.](https://generatingconversation.substack.com/p/you-cant-build-a-moat-with-ai) | Differentiating AI is difficult, but the secret is in the unique data that is supplied into these models—not in the AI models themselves, which are becoming commodity-like. Take LLMs, for example. The performance of AI is strongly impacted by effective data engineering, since applications need to integrate customer-specific data in order to respond accurately. Thus, rather than the AI technology itself, gaining a competitive edge in AI applications depends on creative data utilization. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
