@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Does AI need a “body” to become truly intelligent? Meta researchers think so.](https://www.freethink.com/robots-ai/embodied-ai) |AIs that can generate videos, quickly translate languages, or write new computer code could be world changing, but can they ever be truly intelligent? Not according to the embodiment hypothesis, which argues that human-level intelligence can only emerge if an intelligence is able to sense and navigate a physical environment, the same way babies can.  |
 |[Micromanaging AI.](https://tomtunguz.com/micromanaging-ai/) |Currently, AI is classified as micromanage, which requires people to establish tasks, assess work frequently, and lead development at each stage, akin to managing high school interns. Motivation is high but competence level is rather low. |
 |[‘Eat the future, pay with your face’: my dystopian trip to an AI burger joint.](https://www.theguardian.com/technology/2024/apr/15/ai-burger-joint-flippy-caliexpress) |If the experience of robot-served fast food dining is any indication, the future of sex robots is going to be very unpleasant |
-|[.]() | |
-|[.]() | |
+|[AI now beats humans at basic tasks — new benchmarks are needed, says major report.](https://www.nature.com/articles/d41586-024-01087-4) | Stanford University’s 2024 AI Index charts the meteoric rise of artificial-intelligence tools. Artificial intelligence (AI) systems, such as the chatbot ChatGPT, have become so advanced that they now very nearly match or exceed human performance in tasks including reading comprehension, image classification and competition-level mathematics, according to a new report. |
+|[Lethal dust storms blanket Asia every spring — now AI could help predict them.](https://www.nature.com/articles/d41586-024-01076-7) | As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
