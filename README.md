@@ -45,8 +45,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Manipulating Large Language Models to Increase Product Visibility.](https://arxiv.org/abs/2404.07981v1) |Search engines' extensive language models can be manipulated by adding strategic text sequences to product descriptions to promote specific products. |
 |[MindBridge: A Cross-Subject Brain Decoding Framework.](https://littlepure2333.github.io/MindBridge/) | MindBridge is a single model that can interpret brain activity from several subjects. |
 |[Taming Stable Diffusion for Text to 360° Panorama Image Generation.](https://chengzhag.github.io/publication/panfusion/) | With the help of text prompts, this project presents PanFusion, a dual-branch diffusion model that creates 360-degree panoramic images. In order to minimize visual distortion, the technique combines the Stable Diffusion approach with a customized panoramic branch, which is further improved by a special cross-attention mechanism. |
-|[.]() | |
-|[.]() | |
+|[The Physics of Language Models.](https://arxiv.org/abs/2404.05405) | Scaling laws describe the relationship between the size of language models and their capabilities. Unlike prior studies that evaluate a model's capability via loss or benchmarks, we estimate the number of knowledge bits a model stores. |
+|[The Influence Between NLP and Other Fields.](https://aclanthology.org/2023.emnlp-main.797/) | attempts to measure the level of influence that NLP has over 23 different fields of study; the cross-field engagement of NLP has decreased from 0.58 in 1980 to 0.31 in 2022; the study also reveals that CS dominates NLP citations, accounting for over 80% of citations with a focus on information retrieval, AI, and ML; in general, NLP is becoming more isolated, with a rise in intra-field citations and a fall in multidisciplinary works.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
