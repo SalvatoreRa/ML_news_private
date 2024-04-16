@@ -47,9 +47,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Taming Stable Diffusion for Text to 360° Panorama Image Generation.](https://chengzhag.github.io/publication/panfusion/) | With the help of text prompts, this project presents PanFusion, a dual-branch diffusion model that creates 360-degree panoramic images. In order to minimize visual distortion, the technique combines the Stable Diffusion approach with a customized panoramic branch, which is further improved by a special cross-attention mechanism. |
 |[The Physics of Language Models.](https://arxiv.org/abs/2404.05405) | Scaling laws describe the relationship between the size of language models and their capabilities. Unlike prior studies that evaluate a model's capability via loss or benchmarks, we estimate the number of knowledge bits a model stores. |
 |[The Influence Between NLP and Other Fields.](https://aclanthology.org/2023.emnlp-main.797/) | attempts to measure the level of influence that NLP has over 23 different fields of study; the cross-field engagement of NLP has decreased from 0.58 in 1980 to 0.31 in 2022; the study also reveals that CS dominates NLP citations, accounting for over 80% of citations with a focus on information retrieval, AI, and ML; in general, NLP is becoming more isolated, with a rise in intra-field citations and a fall in multidisciplinary works.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams.](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | |
+|[MPPE-DST: Mixture of Prefix Prompt Experts for LLM in Zero-Shot Dialogue State Tracking.](https://github.com/ttw1018/mope-dst) | |
+|[Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding.](https://github.com/ivan-tang-3d/any2point) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
