@@ -75,6 +75,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Leisure centres scrap biometric systems to keep tabs on staff amid UK data watchdog clampdown.](https://www.theguardian.com/business/2024/apr/16/leisure-centres-scrap-biometric-systems-to-keep-tabs-on-staff-amid-uk-data-watchdog-clampdown) | Firms such as Serco and Virgin Active pull facial recognition and fingerprint scan systems used to monitor staff attendance|
 |[Introducing OpenAI Japan.](https://openai.com/blog/introducing-openai-japan) |We are excited to announce our first office in Asia and we’re releasing a GPT-4 custom model optimized for the Japanese language. |
 |[Adobe’s working on generative video, too.](https://techcrunch.com/2024/04/15/adobes-working-on-generative-video-too/) | Adobe says it’s building an AI model to generate video. But it’s not revealing when this model will launch, exactly — or much about it besides the fact that it exists.|
+|[OpenAI and Meta Reportedly Preparing New AI Models Capable of Reasoning.](https://futurism.com/the-byte/openai-meta-new-ai-models-capable-reasoning) | OpenAI and Meta are on the verge of releasing next versions of their AI models that will supposedly be capable of reasoning and planning, the Financial Times reports. But, as with any hype coming out of big tech, take it all with a grain of salt.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM friendly HTML conversion.](https://github.com/jina-ai/reader/) | Reader converts any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/. Get improved output for your agent and RAG systems at no cost.|
 |[Minimal Implementation of a D3PM (Structured Denoising Diffusion Models in Discrete State-Spaces), in pytorch.](https://github.com/cloneofsimo/d3pm) |This is minimal (400 LOC), but fully faithful implementation of a D3PM Structured Denoising Diffusion Models in Discrete State-Spaces. in pytorch. |
 |[Cerule - A Tiny Mighty Vision Model.](https://huggingface.co/Tensoic/Cerule-v0.1) |We train and release "Cerule", a tiny yet powerful Vision Lanuage Model based on the newly released Google's Gemma-2b and Google's SigLIP. |
-|[.]() | |
+|[Diffusion Models for Video Generation.](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/) |This article looks at adapting image models, training diffusion models to produce video, and even producing video directly from an image model without further training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI now beats humans at basic tasks — new benchmarks are needed, says major report.](https://www.nature.com/articles/d41586-024-01087-4) | Stanford University’s 2024 AI Index charts the meteoric rise of artificial-intelligence tools. Artificial intelligence (AI) systems, such as the chatbot ChatGPT, have become so advanced that they now very nearly match or exceed human performance in tasks including reading comprehension, image classification and competition-level mathematics, according to a new report. |
 |[Lethal dust storms blanket Asia every spring — now AI could help predict them.](https://www.nature.com/articles/d41586-024-01076-7) | As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.|
 |[From boom to burst, the AI bubble is only heading in one direction.](https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction) |No one should be surprised that artificial intelligence is following a well-worn and entirely predictable financial arc |
-|[.]() | |
+|[Pile-T5.](https://blog.eleuther.ai/pile-t5/) | The contemporary AI workhorse is called T5. Eleuther retrained it using a more recent tokenizer and a longer training period. As a consequence, the fundamental model for encoding tasks is significantly enhanced.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
