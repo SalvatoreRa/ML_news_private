@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Eat the future, pay with your face’: my dystopian trip to an AI burger joint.](https://www.theguardian.com/technology/2024/apr/15/ai-burger-joint-flippy-caliexpress) |If the experience of robot-served fast food dining is any indication, the future of sex robots is going to be very unpleasant |
 |[AI now beats humans at basic tasks — new benchmarks are needed, says major report.](https://www.nature.com/articles/d41586-024-01087-4) | Stanford University’s 2024 AI Index charts the meteoric rise of artificial-intelligence tools. Artificial intelligence (AI) systems, such as the chatbot ChatGPT, have become so advanced that they now very nearly match or exceed human performance in tasks including reading comprehension, image classification and competition-level mathematics, according to a new report. |
 |[Lethal dust storms blanket Asia every spring — now AI could help predict them.](https://www.nature.com/articles/d41586-024-01076-7) | As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.|
-|[.]() | |
+|[From boom to burst, the AI bubble is only heading in one direction.](https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction) |No one should be surprised that artificial intelligence is following a well-worn and entirely predictable financial arc |
 |[.]() | |
 |[.]() | |
 |[.]() | |
