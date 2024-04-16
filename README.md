@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dr. Andrew Ng appointed to Amazon’s Board of Directors.](https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors) | Dr. Andrew Ng is currently the Managing General Partner of AI Fund and is joining Amazon's Board of Directors.|
 |[Creating sexually explicit deepfake images to be made offence in UK.](https://www.theguardian.com/technology/2024/apr/16/creating-sexually-explicit-deepfake-images-to-be-made-offence-in-uk) | Offenders could face jail if image is widely shared under proposed amendment to criminal justice bill|
 |[Leisure centres scrap biometric systems to keep tabs on staff amid UK data watchdog clampdown.](https://www.theguardian.com/business/2024/apr/16/leisure-centres-scrap-biometric-systems-to-keep-tabs-on-staff-amid-uk-data-watchdog-clampdown) | Firms such as Serco and Virgin Active pull facial recognition and fingerprint scan systems used to monitor staff attendance|
-|[.]() | |
-|[.]() | |
+|[Introducing OpenAI Japan.](https://openai.com/blog/introducing-openai-japan) |We are excited to announce our first office in Asia and we’re releasing a GPT-4 custom model optimized for the Japanese language. |
+|[Adobe’s working on generative video, too.](https://techcrunch.com/2024/04/15/adobes-working-on-generative-video-too/) | Adobe says it’s building an AI model to generate video. But it’s not revealing when this model will launch, exactly — or much about it besides the fact that it exists.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
