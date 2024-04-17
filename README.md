@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pile-T5.](https://blog.eleuther.ai/pile-t5/) | The contemporary AI workhorse is called T5. Eleuther retrained it using a more recent tokenizer and a longer training period. As a consequence, the fundamental model for encoding tasks is significantly enhanced.|
 |[GitHub Repository to File Converter.](https://github.com/cognitivecomputations/github2file) |This Python script allows you to download and process files from a GitHub repository, making it easier to share code with chatbots that have large context capabilities but don't automatically download code from GitHub. |
 |[AI Index Report.](https://hai.stanford.edu/research/ai-index-report) |The 2024 Index is our most comprehensive to date and arrives at an important moment when AI’s influence on society has never been more pronounced. This year, we have broadened our scope to more extensively cover essential trends such as technical advancements in AI, public perceptions of the technology, and the geopolitical dynamics surrounding its development. |
-|[.]() | |
+|[Accelerating AI: Harnessing Intel(R) Gaudi(R) 3 with Ray 2.10.](https://www.anyscale.com/blog/accelerating-ai-harnessing-intel-gaudi-3-with-ray-2-10) | Ray 2.10, the most recent version from Anyscale, now supports Intel Gaudi 3. In addition to provisioning Ray Core Task and Actors on a Gaudi fleet directly through Ray Core APIs, developers can now spin up and manage their own Ray Clusters. For an enhanced experience, they can also utilize Ray Serve on Gaudi via Ray Serve APIs and set up Intel Gaudi accelerator infrastructure for use at the Ray Train layer.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
