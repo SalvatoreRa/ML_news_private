@@ -51,6 +51,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MPPE-DST: Mixture of Prefix Prompt Experts for LLM in Zero-Shot Dialogue State Tracking.](https://github.com/ttw1018/mope-dst) | Mixture of Prefix Prompt Experts (MPPE) is a novel approach that has been created by researchers to improve zero-shot dialogue state tracking. This technique allows knowledge to be transferred to new domains without requiring additional dataset annotations. |
 |[Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding.](https://github.com/ivan-tang-3d/any2point) | A novel technique called Any2Point effectively transfers vision, language, and audio model capabilities into the 3D space while preserving spatial geometries. |
 |[Google’s new technique gives LLMs infinite context.](https://venturebeat.com/ai/googles-new-technique-gives-llms-infinite-context/) | A new paper by researchers at Google claims to give large language models (LLMs) the ability to work with text of infinite length. The paper introduces Infini-attention, a technique that configures language models in a way that extends their “context window” while keeping memory and compute requirements constant.|
+|[Compression Represents Intelligence Linearly.](https://arxiv.org/abs/2404.09937) | The concept of compressing a training dataset into a model is the foundation of most contemporary AI. The model gets better the better the compression. This research establishes a high correlation between scale benchmark scores and a model's capacity to condense novel material by thoroughly demonstrating that relationship. |
+|[TransformerFAM: Feedback attention is working memory.](https://arxiv.org/abs/2404.09173) | |
+|[Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length.](https://arxiv.org/abs/2404.08801) | |
+|[STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking.](https://github.com/stanford-oval/storm) | |
+|[Homography Guided Temporal Fusion for Road Line and Marking Segmentation.](https://arxiv.org/abs/2404.07626v1) | |
+|[LaSagnA: vLLM-based Segmentation Assistant for Complex Queries.](https://github.com/congvvc/lasagna) | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
