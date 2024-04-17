@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams.](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | Researchers present a unique technique utilizing a fisheye event camera to address the difficulties in monocular egocentric 3D human motion capture, particularly in challenging lighting conditions and with rapid motions. |
 |[MPPE-DST: Mixture of Prefix Prompt Experts for LLM in Zero-Shot Dialogue State Tracking.](https://github.com/ttw1018/mope-dst) | Mixture of Prefix Prompt Experts (MPPE) is a novel approach that has been created by researchers to improve zero-shot dialogue state tracking. This technique allows knowledge to be transferred to new domains without requiring additional dataset annotations. |
 |[Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding.](https://github.com/ivan-tang-3d/any2point) | A novel technique called Any2Point effectively transfers vision, language, and audio model capabilities into the 3D space while preserving spatial geometries. |
-|[.]() | |
+|[Google’s new technique gives LLMs infinite context.](https://venturebeat.com/ai/googles-new-technique-gives-llms-infinite-context/) | A new paper by researchers at Google claims to give large language models (LLMs) the ability to work with text of infinite length. The paper introduces Infini-attention, a technique that configures language models in a way that extends their “context window” while keeping memory and compute requirements constant.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TikTok may add AI avatars that can make ads.](https://www.theverge.com/2024/4/11/24127579/tiktok-ai-virtual-influencers-advertising) | he new feature will let advertisers and TikTok Shop sellers generate scripts for a virtual influencer to read.|
 |[Google launches Code Assist, its latest challenger to GitHub’s Copilot.](https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/) |At its Cloud Next conference, Google on Tuesday unveiled Gemini Code Assist, its enterprise-focused AI code completion and assistance tool. |
 |[AI traces mysterious metastatic cancers to their source.](https://www.nature.com/articles/d41586-024-01110-8) | lgorithm examines images of metastatic cells to identify the location of the primary tumour. Some stealthy cancers remain undetected until they have spread from their source to distant organs. Now scientists have developed an artificial intelligence (AI) tool that outperforms pathologists at identifying the origins of metastatic cancer cells that circulate in the body|
-|[.]() | |
+|[Apple's iOS 18 AI will be on-device preserving privacy, and not server-side.](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side) | Apple's AI push in iOS 18 is rumored to focus on privacy with processing done directly on the iPhone, that won't connect to cloud services.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion Models for Video Generation.](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/) |This article looks at adapting image models, training diffusion models to produce video, and even producing video directly from an image model without further training. |
 |[Pile-T5.](https://blog.eleuther.ai/pile-t5/) | The contemporary AI workhorse is called T5. Eleuther retrained it using a more recent tokenizer and a longer training period. As a consequence, the fundamental model for encoding tasks is significantly enhanced.|
 |[GitHub Repository to File Converter.](https://github.com/cognitivecomputations/github2file) |This Python script allows you to download and process files from a GitHub repository, making it easier to share code with chatbots that have large context capabilities but don't automatically download code from GitHub. |
-|[.]() | |
+|[AI Index Report.](https://hai.stanford.edu/research/ai-index-report) |The 2024 Index is our most comprehensive to date and arrives at an important moment when AI’s influence on society has never been more pronounced. This year, we have broadened our scope to more extensively cover essential trends such as technical advancements in AI, public perceptions of the technology, and the geopolitical dynamics surrounding its development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
