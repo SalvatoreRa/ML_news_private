@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google launches Code Assist, its latest challenger to GitHub’s Copilot.](https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/) |At its Cloud Next conference, Google on Tuesday unveiled Gemini Code Assist, its enterprise-focused AI code completion and assistance tool. |
 |[AI traces mysterious metastatic cancers to their source.](https://www.nature.com/articles/d41586-024-01110-8) | lgorithm examines images of metastatic cells to identify the location of the primary tumour. Some stealthy cancers remain undetected until they have spread from their source to distant organs. Now scientists have developed an artificial intelligence (AI) tool that outperforms pathologists at identifying the origins of metastatic cancer cells that circulate in the body|
 |[Apple's iOS 18 AI will be on-device preserving privacy, and not server-side.](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side) | Apple's AI push in iOS 18 is rumored to focus on privacy with processing done directly on the iPhone, that won't connect to cloud services.|
-|[.]() | |
+|[Introducing ALOHA Unleashed.](https://twitter.com/tonyzzhao/status/1780263497584230432) |Google DeepMind's ALOHA Unleashed is a program that pushes the boundaries of dexterity with low-cost robots and AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,6 +117,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GitHub Repository to File Converter.](https://github.com/cognitivecomputations/github2file) |This Python script allows you to download and process files from a GitHub repository, making it easier to share code with chatbots that have large context capabilities but don't automatically download code from GitHub. |
 |[AI Index Report.](https://hai.stanford.edu/research/ai-index-report) |The 2024 Index is our most comprehensive to date and arrives at an important moment when AI’s influence on society has never been more pronounced. This year, we have broadened our scope to more extensively cover essential trends such as technical advancements in AI, public perceptions of the technology, and the geopolitical dynamics surrounding its development. |
 |[Accelerating AI: Harnessing Intel(R) Gaudi(R) 3 with Ray 2.10.](https://www.anyscale.com/blog/accelerating-ai-harnessing-intel-gaudi-3-with-ray-2-10) | Ray 2.10, the most recent version from Anyscale, now supports Intel Gaudi 3. In addition to provisioning Ray Core Task and Actors on a Gaudi fleet directly through Ray Core APIs, developers can now spin up and manage their own Ray Clusters. For an enhanced experience, they can also utilize Ray Serve on Gaudi via Ray Serve APIs and set up Intel Gaudi accelerator infrastructure for use at the Ray Train layer.|
+|[Code with CodeQwen1.5.](https://qwenlm.github.io/blog/codeqwen1.5/) |Notwithstanding these advancements, dominant coding assistants like Github Copilot, built upon proprietary LLMs, pose notable challenges in terms of cost, privacy, security, and potential copyright infringement. Today, we are delighted to introduce a new member of the Qwen1.5 open-source family, the CodeQwen1.5-7B, a specialized codeLLM built upon the Qwen1.5 language model. CodeQwen1.5-7B has been pretrained with around 3 trillion tokens of code-related data. It supports an extensive repertoire of 92 programming languages, and it exhibits exceptional capacity in long-context understanding and generation with the ability to process information of 64K tokens. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lethal dust storms blanket Asia every spring — now AI could help predict them.](https://www.nature.com/articles/d41586-024-01076-7) | As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.|
 |[From boom to burst, the AI bubble is only heading in one direction.](https://www.theguardian.com/commentisfree/2024/apr/13/from-boom-to-burst-the-ai-bubble-is-only-heading-in-one-direction) |No one should be surprised that artificial intelligence is following a well-worn and entirely predictable financial arc |
 |[You can't build a moat with AI.](https://generatingconversation.substack.com/p/you-cant-build-a-moat-with-ai) | Differentiating AI is difficult, but the secret is in the unique data that is supplied into these models—not in the AI models themselves, which are becoming commodity-like. Take LLMs, for example. The performance of AI is strongly impacted by effective data engineering, since applications need to integrate customer-specific data in order to respond accurately. Thus, rather than the AI technology itself, gaining a competitive edge in AI applications depends on creative data utilization. |
-|[.]() | |
+|[Towards 1-bit Machine Learning Models.](https://mobiusml.github.io/1bit_blog/) |Recent works on extreme low-bit quantization such as BitNet and 1.58 bit have attracted a lot of attention in the machine learning community. The main idea is that matrix multiplication with quantized weights can be implemented without multiplications, which can potentially be a game-changer in terms of compute efficiency of large machine learning models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
