@@ -153,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A step along the path towards AlphaFold — 50 years ago.](https://www.nature.com/articles/d41586-024-01094-5) |Paring down the astronomical complexity of the protein-folding problem |
 |[The democratization of global AI governance and the role of tech companies.](https://www.nature.com/articles/s42256-024-00811-z) | Can non-state multinational tech companies counteract the potential democratic deficit in the emerging global governance of AI? We argue that although they may strengthen core values of democracy such as accountability and transparency, they currently lack the right kind of authority to democratize global AI governance.|
 |[The new NeuroAI.](https://www.nature.com/articles/s42256-024-00826-6) | After several decades of developments in AI, has the inspiration that can be drawn from neuroscience been exhausted? Recent initiatives make the case for taking a fresh look at the intersection between the two fields.|
-|[.]() | |
+|[Connecting molecular properties with plain language.](https://www.nature.com/articles/s42256-024-00812-y) |AI tools such as ChatGPT can provide responses to queries on any topic, but can such large language models accurately ‘write’ molecules as output to our specification? Results now show that models trained on general text can be tweaked with small amounts of chemical data to predict molecular properties, or to design molecules based on a target feature. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
