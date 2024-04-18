@@ -61,8 +61,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Challenges and opportunities in translating ethical AI principles into practice for children.](https://www.nature.com/articles/s42256-024-00805-x) |This Perspective first maps the current global landscape of existing ethics guidelines for AI and analyses their correlation with children. |
 |[Mistral 8x22B Report and Instruction Model.](https://mistral.ai/news/mixtral-8x22b/) |Mixtral 8x22B is our latest open model. It sets a new standard for performance and efficiency within the AI community. It is a sparse Mixture-of-Experts (SMoE) model that uses only 39B active parameters out of 141B, offering unparalleled cost efficiency for its size. |
 |[Long-form music generation with latent diffusion.](https://arxiv.org/abs/2404.10301) | Stability AI's diffusion transformer model for audio synthesis.|
-|[.]() | |
-|[.]() | |
+|[LaDiC: A Diffusion-based Image Captioning Model.](https://github.com/wangyuchi369/ladic) | The use of diffusion models for image-to-text generation is revisited in this work. It presents the LaDiC architecture, which improves the image captioning tasks performance of diffusion models.|
+|[LINGO-2: Driving with Natural Language.](https://wayve.ai/thinking/lingo-2-driving-with-language/) |This blog introduces LINGO-2, a driving model that links vision, language, and action to explain and determine driving behavior, opening up a new dimension of control and customization for an autonomous driving experience. LINGO-2 is the first closed-loop vision-language-action driving model (VLAM) tested on public roads. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -155,8 +155,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The new NeuroAI.](https://www.nature.com/articles/s42256-024-00826-6) | After several decades of developments in AI, has the inspiration that can be drawn from neuroscience been exhausted? Recent initiatives make the case for taking a fresh look at the intersection between the two fields.|
 |[Connecting molecular properties with plain language.](https://www.nature.com/articles/s42256-024-00812-y) |AI tools such as ChatGPT can provide responses to queries on any topic, but can such large language models accurately ‘write’ molecules as output to our specification? Results now show that models trained on general text can be tweaked with small amounts of chemical data to predict molecular properties, or to design molecules based on a target feature. |
 |[MLOps vs. Eng: Misaligned Incentives and Failure to Launch?](https://www.heavybit.com/library/article/machine-learning-engineering-ai-incentives) | An in-depth discussion on the difficulties and solutions associated with implementing AI models in production, as well as how MLOps varies from traditional engineering, with industry experts. They talk about how to focus as a company to truly launch and why so few ML ideas ever reach production.|
-|[.]() | |
-|[.]() | |
+|[Is Attention All You Need?](https://www.mackenziemorehead.com/is-attention-all-you-need/) |In order to overcome Transformers' shortcomings in long-context learning, generation, and inference speed, researchers are creating alternative designs that exhibit competitive quality at smaller scales but questionable scalability. Because of the quick development in this area, it is likely that the Pareto frontier will keep growing, opening up more opportunities for lengthier context modeling and higher throughput inference, which will ultimately lead to a bigger variety of AI use cases. |
+|[The Shifting Dynamics And Meta-Moats Of AI.](https://www.michaeldempsey.me/blog/2024/04/17/the-meta-moats-of-ai/) |Managing complex short-, mid-, and long-term dynamics while retaining elite speed and execution, owning more of the stack, obtaining unique data, and utilizing synthetic data production are all necessary for building a successful AI business. As the AI sector develops, businesses will need to adjust to changing labor dynamics, comprehend the machine they are creating, and recognize the competitive axes on which they are based in order to forge long-lasting moats and differentiate themselves from the crowd. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
