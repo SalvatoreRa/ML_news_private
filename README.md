@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A collective AI via lifelong learning and sharing at the edge.](https://www.nature.com/articles/s42256-024-00800-2) | Here we review recent machine learning advances converging towards creating a collective machine-learned intelligence. We propose that the convergence of such scientific and technological advances will lead to the emergence of new types of scalable, resilient and sustainable AI systems. |
 |[Challenges and opportunities in translating ethical AI principles into practice for children.](https://www.nature.com/articles/s42256-024-00805-x) |This Perspective first maps the current global landscape of existing ethics guidelines for AI and analyses their correlation with children. |
 |[Mistral 8x22B Report and Instruction Model.](https://mistral.ai/news/mixtral-8x22b/) |Mixtral 8x22B is our latest open model. It sets a new standard for performance and efficiency within the AI community. It is a sparse Mixture-of-Experts (SMoE) model that uses only 39B active parameters out of 141B, offering unparalleled cost efficiency for its size. |
-|[.]() | |
+|[Long-form music generation with latent diffusion.](https://arxiv.org/abs/2404.10301) | Stability AI's diffusion transformer model for audio synthesis.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
