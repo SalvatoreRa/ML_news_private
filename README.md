@@ -57,8 +57,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking.](https://github.com/stanford-oval/storm) | Retrieval guided language models are used by Stanford's innovative research system, Storm, to generate reports for particular subjects. |
 |[Homography Guided Temporal Fusion for Road Line and Marking Segmentation.](https://arxiv.org/abs/2404.07626v1) | Road lines and markings must be accurately segmented for autonomous driving, however this is difficult because of sunlight, shadows, and car occlusions. The Homography Guided Fusion (HomoFusion) module employs a pixel-by-pixel attention mechanism and a unique surface normal estimator to recognize and classify obscured road lines from video frames. |
 |[LaSagnA: vLLM-based Segmentation Assistant for Complex Queries.](https://github.com/congvvc/lasagna) | Vision Language Models (vLLMs) sometimes face difficulties in distinguishing absent objects and handling many queries per image. In order to address these problems, this work presents a novel question style and integrates semantic segmentation into the training procedure.|
-|[.]() | |
-|[.]() | |
+|[A collective AI via lifelong learning and sharing at the edge.](https://www.nature.com/articles/s42256-024-00800-2) | Here we review recent machine learning advances converging towards creating a collective machine-learned intelligence. We propose that the convergence of such scientific and technological advances will lead to the emergence of new types of scalable, resilient and sustainable AI systems. |
+|[Challenges and opportunities in translating ethical AI principles into practice for children.](https://www.nature.com/articles/s42256-024-00805-x) |This Perspective first maps the current global landscape of existing ethics guidelines for AI and analyses their correlation with children. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
