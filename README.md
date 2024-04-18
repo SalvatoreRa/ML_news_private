@@ -149,8 +149,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[You can't build a moat with AI.](https://generatingconversation.substack.com/p/you-cant-build-a-moat-with-ai) | Differentiating AI is difficult, but the secret is in the unique data that is supplied into these models—not in the AI models themselves, which are becoming commodity-like. Take LLMs, for example. The performance of AI is strongly impacted by effective data engineering, since applications need to integrate customer-specific data in order to respond accurately. Thus, rather than the AI technology itself, gaining a competitive edge in AI applications depends on creative data utilization. |
 |[Towards 1-bit Machine Learning Models.](https://mobiusml.github.io/1bit_blog/) |Recent works on extreme low-bit quantization such as BitNet and 1.58 bit have attracted a lot of attention in the machine learning community. The main idea is that matrix multiplication with quantized weights can be implemented without multiplications, which can potentially be a game-changer in terms of compute efficiency of large machine learning models. |
 |[From Idea to Integration: Four Steps for Founders Integrating AI.](https://foundationcapital.com/from-idea-to-integration-four-steps-for-founders-integrating-ai/) | There is currently a great deal of push to incorporate AI into current goods. This brief, step-by-step manual will assist you in making the initial move.|
-|[.]() | |
-|[.]() | |
+|[Use game theory for climate models that really help reach net zero goals.](https://www.nature.com/articles/d41586-024-01083-8) | Many countries and companies have committed to eliminating their greenhouse-gas emissions by the middle of the century. Yet most of these pledges lack a clear policy pathway.|
+|[A step along the path towards AlphaFold — 50 years ago.](https://www.nature.com/articles/d41586-024-01094-5) |Paring down the astronomical complexity of the protein-folding problem |
 |[.]() | |
 |[.]() | |
 |[.]() | |
