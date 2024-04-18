@@ -151,6 +151,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From Idea to Integration: Four Steps for Founders Integrating AI.](https://foundationcapital.com/from-idea-to-integration-four-steps-for-founders-integrating-ai/) | There is currently a great deal of push to incorporate AI into current goods. This brief, step-by-step manual will assist you in making the initial move.|
 |[Use game theory for climate models that really help reach net zero goals.](https://www.nature.com/articles/d41586-024-01083-8) | Many countries and companies have committed to eliminating their greenhouse-gas emissions by the middle of the century. Yet most of these pledges lack a clear policy pathway.|
 |[A step along the path towards AlphaFold — 50 years ago.](https://www.nature.com/articles/d41586-024-01094-5) |Paring down the astronomical complexity of the protein-folding problem |
+|[The democratization of global AI governance and the role of tech companies.](https://www.nature.com/articles/s42256-024-00811-z) | Can non-state multinational tech companies counteract the potential democratic deficit in the emerging global governance of AI? We argue that although they may strengthen core values of democracy such as accountability and transparency, they currently lack the right kind of authority to democratize global AI governance.|
+|[The new NeuroAI.](https://www.nature.com/articles/s42256-024-00826-6) | After several decades of developments in AI, has the inspiration that can be drawn from neuroscience been exhausted? Recent initiatives make the case for taking a fresh look at the intersection between the two fields.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
