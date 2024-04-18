@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI traces mysterious metastatic cancers to their source.](https://www.nature.com/articles/d41586-024-01110-8) | lgorithm examines images of metastatic cells to identify the location of the primary tumour. Some stealthy cancers remain undetected until they have spread from their source to distant organs. Now scientists have developed an artificial intelligence (AI) tool that outperforms pathologists at identifying the origins of metastatic cancer cells that circulate in the body|
 |[Apple's iOS 18 AI will be on-device preserving privacy, and not server-side.](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side) | Apple's AI push in iOS 18 is rumored to focus on privacy with processing done directly on the iPhone, that won't connect to cloud services.|
 |[Introducing ALOHA Unleashed.](https://twitter.com/tonyzzhao/status/1780263497584230432) |Google DeepMind's ALOHA Unleashed is a program that pushes the boundaries of dexterity with low-cost robots and AI. |
-|[.]() | |
-|[.]() | |
+|[France's Mistral AI seeks funding at $5 bln valuation, The Information reports.](https://www.reuters.com/technology/frances-mistral-ai-seeks-funding-5-bln-valuation-information-reports-2024-04-17/) |French tech startup Mistral AI has been speaking to investors about raising several hundred million dollars at a valuation of $5 billion, The Information reported on Tuesday. |
+|[Stability AI is giving more developers access to its next-gen text-to-image generator.](https://www.theverge.com/2024/4/17/24132927/stable-diffusion-3-api-availability-stability-ai) | Developers can now access the API for the latest version of Stability AI’s text-to-image model.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
