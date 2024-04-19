@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Meta Llama 3: The most capable openly available LLM to date.](https://ai.meta.com/blog/meta-llama-3/) |Today, we’re introducing Meta Llama 3, the next generation of our state-of-the-art open source large language model. Llama 3 models will soon be available on AWS, Databricks, Google Cloud, Hugging Face, Kaggle, IBM WatsonX, Microsoft Azure, NVIDIA NIM, and Snowflake, and with support from hardware platforms offered by AMD, AWS, Dell, Intel, NVIDIA, and Qualcomm.|
 |[Google’s Deep Mind AI can help engineers predict “catastrophic failure”.](https://www.freethink.com/robots-ai/googles-deep-mind-ai-catastrophic-failure) | AI and a popular card game can help engineers predict catastrophic failure by finding the absence of a pattern.|
 |[OpenAI winds down AI image generator that blew minds and forged friendships in 2022.](https://arstechnica.com/information-technology/2024/04/when-ai-images-were-mind-blowing-early-users-recall-the-first-days-of-dall-e-2/) |When OpenAI's DALL-E 2 debuted on April 6, 2022, the idea that a computer could create relatively photorealistic images on demand based on just text descriptions caught a lot of people off guard. The launch began an innovative and tumultuous period in AI history, marked by a sense of wonder and a polarizing ethical debate that reverberates in the AI space to this day. Last week, OpenAI turned off the ability for new customers to purchase generation credits for the web version of DALL-E 2, effectively killing it. |
-|[.]() | |
-|[.]() | |
+|[Stability AI lays off roughly 10 percent of its workforce.](https://www.theverge.com/2024/4/18/24133996/stability-ai-lay-off-emad-mostaque) | Stability AI laid off 20 employees just a day after announcing the expansion of access to its new flagship model. This comes after weeks of upheaval that saw its founding CEO leave the company.|
+|[The Humane AI Pin is lost in translation.](https://www.theverge.com/2024/4/18/24134180/humane-ai-pin-translation-wearables) |Though the Humane AI Pin has a lot of drawbacks, its translation feature might be the worst. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap.](https://arxiv.org/abs/2404.11335v1) | A new dataset called SoccerNet-GSR aims to improve game state reconstruction from football video footage captured by a single camera.|
 |[AI Gateway.](https://github.com/Portkey-AI/gateway) |Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency. |
 |[moondream.](https://github.com/vikhyat/moondream) | a tiny vision language model that kicks ass and runs anywhere|
-|[.]() | |
+|[Sentence Embeddings. Introduction to Sentence Embeddings.](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/) | This series aims to demystify embeddings and show you how to use them in your projects. This first blog post will teach you how to use and scale up open-source embedding models. We’ll look into the criteria for picking an existing model, current evaluation methods, and the state of the ecosystem. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -162,7 +162,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to support the transition to AI-powered healthcare.](https://www.nature.com/articles/s41591-024-02897-9) | To make health systems more sustainable in the long-term, incentivize artificial intelligence (AI) and digital technologies that are grounded on careful testing and real-world validation.|
 |[The increasing potential and challenges of digital twins.](https://www.nature.com/articles/s43588-024-00617-4) |This issue of Nature Computational Science includes a Focus that highlights recent advancements, challenges, and opportunities in the development and use of digital twins across different domains. |
 |[The Space Of Possible Minds.](https://www.noemamag.com/ai-could-be-a-bridge-toward-diverse-intelligence/) | Sophisticated AIs are stretching the boundaries of our understanding of what it is to be human and forcing us to consider how we embody agency and true understanding in a spectrum of intelligent beings. Creating mutually beneficial relationships between radically different entities, recognizing the similarities and differences among various forms of intelligence, and developing principled frameworks for scaling our moral concern to the essential qualities of being are all necessary to navigate this new terrain.|
-|[.]() | |
+|[CUDA is Still a Giant Moat for NVIDIA.](https://weightythoughts.com/p/cuda-is-still-a-giant-moat-for-nvidia) | NVIDIA's proprietary interconnects and CUDA software environment, in addition to its hardware, continue to solidify the company's leadership in the AI market. The ease of use and performance optimization of CUDA make it superior to alternatives like AMD's ROCM, guaranteeing that NVIDIA's GPUs continue to be the go-to option for AI tasks. NVIDIA's dominance in AI computing is strengthened by its investments in the CUDA ecosystem and community education.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
