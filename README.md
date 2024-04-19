@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Effort.](https://kolinko.github.io/effort/) | With the use of the Effort library, one can alter in real-time how many calculations are made when inferring an LLM model, which can significantly increase performance while maintaining a high level of quality. Initial findings indicate that the Effort library has the potential to greatly increase LLM inference speed while preserving quality, even with modest implementation overhead. In order to further enhance the library, the author invites others to test the 0.0.1B version and offer feedback.|
 |[luminal.](https://github.com/jafioti/luminal) |Luminal is a deep learning library that uses composable compilers to achieve high performance. |
 |[SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap.](https://arxiv.org/abs/2404.11335v1) | A new dataset called SoccerNet-GSR aims to improve game state reconstruction from football video footage captured by a single camera.|
-|[.]() | |
-|[.]() | |
+|[AI Gateway.](https://github.com/Portkey-AI/gateway) |Gateway streamlines requests to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency. |
+|[moondream.](https://github.com/vikhyat/moondream) | a tiny vision language model that kicks ass and runs anywhere|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[To do no harm — and the most good — with AI in health care.](https://www.nature.com/articles/s41591-024-02853-7) |Drawing from real-life scenarios and insights shared at the RAISE (Responsible AI for Social and Ethical Healthcare) conference, we highlight the critical need for AI in health care (AIH) to primarily benefit patients and address current shortcomings in health care systems such as medical errors and access disparities. |
 |[How to support the transition to AI-powered healthcare.](https://www.nature.com/articles/s41591-024-02897-9) | To make health systems more sustainable in the long-term, incentivize artificial intelligence (AI) and digital technologies that are grounded on careful testing and real-world validation.|
 |[The increasing potential and challenges of digital twins.](https://www.nature.com/articles/s43588-024-00617-4) |This issue of Nature Computational Science includes a Focus that highlights recent advancements, challenges, and opportunities in the development and use of digital twins across different domains. |
-|[.]() | |
+|[The Space Of Possible Minds.](https://www.noemamag.com/ai-could-be-a-bridge-toward-diverse-intelligence/) | Sophisticated AIs are stretching the boundaries of our understanding of what it is to be human and forcing us to consider how we embody agency and true understanding in a spectrum of intelligent beings. Creating mutually beneficial relationships between radically different entities, recognizing the similarities and differences among various forms of intelligence, and developing principled frameworks for scaling our moral concern to the essential qualities of being are all necessary to navigate this new terrain.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
