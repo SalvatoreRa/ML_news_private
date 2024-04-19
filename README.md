@@ -65,10 +65,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LINGO-2: Driving with Natural Language.](https://wayve.ai/thinking/lingo-2-driving-with-language/) |This blog introduces LINGO-2, a driving model that links vision, language, and action to explain and determine driving behavior, opening up a new dimension of control and customization for an autonomous driving experience. LINGO-2 is the first closed-loop vision-language-action driving model (VLAM) tested on public roads. |
 |[Towards a general-purpose foundation model for computational pathology.](https://www.nature.com/articles/s41591-024-02857-3) | We introduce UNI, a general-purpose self-supervised model for pathology, pretrained using more than 100 million images from over 100,000 diagnostic H&E-stained WSIs (>77 TB of data) across 20 major tissue types. |
 |[A visual-language foundation model for computational pathology.](https://www.nature.com/articles/s41591-024-02856-4) |We introduce CONtrastive learning from Captions for Histopathology (CONCH), a visual-language foundation model developed using diverse sources of histopathology images, biomedical text and, notably, over 1.17 million image–caption pairs through task-agnostic pretraining. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[FedPFT: Federated Proxy Fine-Tuning of Foundation Models.](https://arxiv.org/abs/2404.11536v1) | |
+|[In-Context Learning State Vector with Inner and Momentum Optimization.](https://arxiv.org/abs/2404.11225v1) | |
+|[SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap.](https://arxiv.org/abs/2404.11335v1) | |
+|[Decomposing and Editing Predictionsby Modeling Model Computation.](https://github.com/madrylab/modelcomponents) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
