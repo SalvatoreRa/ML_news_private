@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stability AI is giving more developers access to its next-gen text-to-image generator.](https://www.theverge.com/2024/4/17/24132927/stable-diffusion-3-api-availability-stability-ai) | Developers can now access the API for the latest version of Stability AI’s text-to-image model.|
 |[European car manufacturer will pilot Sanctuary AI’s humanoid robot.](https://techcrunch.com/2024/04/11/european-car-manufacturer-will-pilot-sanctuary-ais-humanoid-robot) | Sanctuary AI announced that it will be delivering its humanoid robot to a Magna manufacturing facility. Based in Canada, with auto manufacturing facilities in Austria, Magna manufactures and assembles cars for a number of Europe’s top automakers, including Mercedes, Jaguar and BMW. As is often the nature of these deals, the parties have not disclosed how many of Sanctuary AI’s robots will be deployed.|
 |[Google Maps will use AI to help you find out-of-the-way EV chargers .](https://www.theverge.com/2024/4/17/24132254/google-maps-ev-charging-directions-ai-summaries) |The company will use AI to summarize directions to EV chargers as well as reliability and wait times. |
-|[.]() | |
+|[Introducing Meta Llama 3: The most capable openly available LLM to date.](https://ai.meta.com/blog/meta-llama-3/) |Today, we’re introducing Meta Llama 3, the next generation of our state-of-the-art open source large language model. Llama 3 models will soon be available on AWS, Databricks, Google Cloud, Hugging Face, Kaggle, IBM WatsonX, Microsoft Azure, NVIDIA NIM, and Snowflake, and with support from hardware platforms offered by AMD, AWS, Dell, Intel, NVIDIA, and Qualcomm.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
