@@ -65,10 +65,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LINGO-2: Driving with Natural Language.](https://wayve.ai/thinking/lingo-2-driving-with-language/) |This blog introduces LINGO-2, a driving model that links vision, language, and action to explain and determine driving behavior, opening up a new dimension of control and customization for an autonomous driving experience. LINGO-2 is the first closed-loop vision-language-action driving model (VLAM) tested on public roads. |
 |[Towards a general-purpose foundation model for computational pathology.](https://www.nature.com/articles/s41591-024-02857-3) | We introduce UNI, a general-purpose self-supervised model for pathology, pretrained using more than 100 million images from over 100,000 diagnostic H&E-stained WSIs (>77 TB of data) across 20 major tissue types. |
 |[A visual-language foundation model for computational pathology.](https://www.nature.com/articles/s41591-024-02856-4) |We introduce CONtrastive learning from Captions for Histopathology (CONCH), a visual-language foundation model developed using diverse sources of histopathology images, biomedical text and, notably, over 1.17 million image–caption pairs through task-agnostic pretraining. |
-|[FedPFT: Federated Proxy Fine-Tuning of Foundation Models.](https://arxiv.org/abs/2404.11536v1) | |
-|[In-Context Learning State Vector with Inner and Momentum Optimization.](https://arxiv.org/abs/2404.11225v1) | |
-|[SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap.](https://arxiv.org/abs/2404.11335v1) | |
-|[Decomposing and Editing Predictionsby Modeling Model Computation.](https://github.com/madrylab/modelcomponents) | |
+|[FedPFT: Federated Proxy Fine-Tuning of Foundation Models.](https://arxiv.org/abs/2404.11536v1) | Federated Proxy Fine-Tuning (FedPFT), a novel technique created by researchers, enhances foundation models' ability to adjust for certain tasks while maintaining data privacy. |
+|[In-Context Learning State Vector with Inner and Momentum Optimization.](https://arxiv.org/abs/2404.11225v1) | In this research, a novel method for improving In-Context Learning (ICL) in big language models such as GPT-J and Llama-2 is presented. The authors introduce a novel optimization technique that enhances compressed representations of the model's knowledge, referred to as "state vectors." |
+|[Decomposing and Editing Predictionsby Modeling Model Computation.](https://github.com/madrylab/modelcomponents) | To determine each component's precise contribution to the final result, component modeling dissects a model's prediction process into its most fundamental parts, such as attention heads and convolution filters.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,6 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OLMo 1.7–7B: A 24 point improvement on MMLU.](https://blog.allenai.org/olmo-1-7-7b-a-24-point-improvement-on-mmlu-92b43f7d269d) |Today, we’ve released an updated version of our 7 billion parameter Open Language Model, OLMo 1.7–7B. This model scores 52 on MMLU, sitting above Llama 2–7B and approaching Llama 2–13B, and outperforms Llama 2–13B on GSM8K. |
 |[Effort.](https://kolinko.github.io/effort/) | With the use of the Effort library, one can alter in real-time how many calculations are made when inferring an LLM model, which can significantly increase performance while maintaining a high level of quality. Initial findings indicate that the Effort library has the potential to greatly increase LLM inference speed while preserving quality, even with modest implementation overhead. In order to further enhance the library, the author invites others to test the 0.0.1B version and offer feedback.|
 |[luminal.](https://github.com/jafioti/luminal) |Luminal is a deep learning library that uses composable compilers to achieve high performance. |
+|[SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap.](https://arxiv.org/abs/2404.11335v1) | A new dataset called SoccerNet-GSR aims to improve game state reconstruction from football video footage captured by a single camera.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
