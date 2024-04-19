@@ -63,8 +63,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Long-form music generation with latent diffusion.](https://arxiv.org/abs/2404.10301) | Stability AI's diffusion transformer model for audio synthesis.|
 |[LaDiC: A Diffusion-based Image Captioning Model.](https://github.com/wangyuchi369/ladic) | The use of diffusion models for image-to-text generation is revisited in this work. It presents the LaDiC architecture, which improves the image captioning tasks performance of diffusion models.|
 |[LINGO-2: Driving with Natural Language.](https://wayve.ai/thinking/lingo-2-driving-with-language/) |This blog introduces LINGO-2, a driving model that links vision, language, and action to explain and determine driving behavior, opening up a new dimension of control and customization for an autonomous driving experience. LINGO-2 is the first closed-loop vision-language-action driving model (VLAM) tested on public roads. |
-|[.]() | |
-|[.]() | |
+|[Towards a general-purpose foundation model for computational pathology.](https://www.nature.com/articles/s41591-024-02857-3) | We introduce UNI, a general-purpose self-supervised model for pathology, pretrained using more than 100 million images from over 100,000 diagnostic H&E-stained WSIs (>77 TB of data) across 20 major tissue types. |
+|[A visual-language foundation model for computational pathology.](https://www.nature.com/articles/s41591-024-02856-4) |We introduce CONtrastive learning from Captions for Histopathology (CONCH), a visual-language foundation model developed using diverse sources of histopathology images, biomedical text and, notably, over 1.17 million image–caption pairs through task-agnostic pretraining. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
