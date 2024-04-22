@@ -64,8 +64,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Updates from Google DeepMind Alignment research.](https://www.alignmentforum.org/posts/HpAr8k74mW4ivCvCu/progress-update-from-the-gdm-mech-interp-team-summary) | GDM has published some of the results of its alignment efforts after Anthropic. The use of sparse autoencoders on Gemini Ultra is the most insightful article in this article. This is a significant increase in the size of interpretation.|
+|[NVIDIA To Collaborate With Japan On Their Cutting-Edge ABCI-Q Quantum Supercomputer.](https://wccftech.com/nvidia-japan-abci-q-quantum-supercomputer/) | Japan To Rapidly Progressing In Quantum and AI Computing Segments Through Large-Scale Developments With The Help of NVIDIA's AI & HPC Infrastructure|
 |[.]() | |
 |[.]() | |
 |[.]() | |
