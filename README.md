@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Updates from Google DeepMind Alignment research.](https://www.alignmentforum.org/posts/HpAr8k74mW4ivCvCu/progress-update-from-the-gdm-mech-interp-team-summary) | GDM has published some of the results of its alignment efforts after Anthropic. The use of sparse autoencoders on Gemini Ultra is the most insightful article in this article. This is a significant increase in the size of interpretation.|
 |[NVIDIA To Collaborate With Japan On Their Cutting-Edge ABCI-Q Quantum Supercomputer.](https://wccftech.com/nvidia-japan-abci-q-quantum-supercomputer/) | Japan To Rapidly Progressing In Quantum and AI Computing Segments Through Large-Scale Developments With The Help of NVIDIA's AI & HPC Infrastructure|
 |[Brave Search is adopting AI to answer your queries.](https://techcrunch.com/2024/04/17/brave-search-is-adopting-ai-to-answer-your-queries/) | Privacy-focused search engine Brave announced Wednesday that it is revamping its answer engine to return AI-powered synthesized answers. The new feature is available to users across the globe.|
-|[.]() | |
-|[.]() | |
+|[Llama 3 is not very censored.](https://ollama.com/blog/llama-3-is-not-very-censored) | Llama 3 feels significantly less censored than its predecessor. The Llama 3 models have substantially lower false refusal rates, with less than 1⁄3 the amount of false refusals when compared to Llama 2, making it possible to discuss a wider range of interesting topics!|
+|[OpenAI's GPT-4 can exploit real vulnerabilities by reading security advisories.](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/) | Researchers have shown that OpenAI's GPT-4 model outperforms other models and tools like vulnerability scanners, with an 87% success rate in autonomously exploiting security vulnerabilities listed in CVE advisories.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,9 +93,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fine-tune Llama 3 with ORPO.](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html) | ORPO is a new exciting fine-tuning technique that combines the traditional supervised fine-tuning and preference alignment stages into a single process. This reduces the computational resources and time required for training. Moreover, empirical results demonstrate that ORPO outperforms other alignment methods on various model sizes and benchmarks.|
 |[Mistral Common.](https://github.com/mistralai/mistral-common) | mistral-common is a set of tools to help you work with Mistral models. Our first release contains tokenization. Our tokenizers go beyond the usual text <-> tokens, adding parsing of tools and structured conversation. We also release the validation and normalization code that is used in our API.|
 |[LongEmbed.](https://github.com/dwzhu-pku/LongEmbed) |This repository is the official implementation for the paper "LongEmbed: Extending Embedding Models for Long Context Retrieval" |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[FineWeb: 15T high quality web tokens.](https://huggingface.co/datasets/HuggingFaceFW/fineweb) |15T tokens were used to train the most recent Llama 3 models. This new dataset yields high-quality models and includes a large deduplicated corpus from common crawl. |
+|[A Visual Guide to Vision Transformers.](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html) | This is a visual guide to Vision Transformers (ViTs), a class of deep learning models that have achieved state-of-the-art performance on image classification tasks. This guide will walk you through the key components of Vision Transformers in a scroll story format, using visualizations and simple explanations to help you understand how these models work and how the flow of the data through the model looks like.|
+|[The Cauldron VLM data.](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) |50 language and vision datasets merged into a single format to enable better model training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Self-Reasoning Tokens, teaching models to think ahead.](https://reasoning-tokens.ghost.io/reasoning-tokens/) |This paper presents "reasoning tokens" for language models, which produce more tokens intended to forecast future tokens instead of the one that is immediately next, improving the model's anticipatory capacity. Experiments show notable increases in prediction accuracy, indicating that more sophisticated reasoning may be possible without the need for explicit step-by-step training. |
+|[Looking for AI use-cases.](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases) | This article explores the potential for transformation and the existing constraints of generative AI, such as ChatGPT. It points out that although ChatGPT performs well on simple tasks like coding and creating drafts, it has trouble with more complicated tasks that call for specialized programming. It emphasizes the necessity of a vision that links AI solutions with useful applications and stresses how difficult it is to find and incorporate these into regular workflows.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
