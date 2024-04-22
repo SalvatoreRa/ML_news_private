@@ -41,8 +41,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Moving Object Segmentation: All You Need Is SAM (and Flow).](https://www.robots.ox.ac.uk/~vgg/research/flowsam/) | |
+|[From r to Q∗: Your Language Model is Secretly a Q-Function.](https://arxiv.org/abs/2404.12358) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -66,7 +66,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Updates from Google DeepMind Alignment research.](https://www.alignmentforum.org/posts/HpAr8k74mW4ivCvCu/progress-update-from-the-gdm-mech-interp-team-summary) | GDM has published some of the results of its alignment efforts after Anthropic. The use of sparse autoencoders on Gemini Ultra is the most insightful article in this article. This is a significant increase in the size of interpretation.|
 |[NVIDIA To Collaborate With Japan On Their Cutting-Edge ABCI-Q Quantum Supercomputer.](https://wccftech.com/nvidia-japan-abci-q-quantum-supercomputer/) | Japan To Rapidly Progressing In Quantum and AI Computing Segments Through Large-Scale Developments With The Help of NVIDIA's AI & HPC Infrastructure|
-|[.]() | |
+|[Brave Search is adopting AI to answer your queries.](https://techcrunch.com/2024/04/17/brave-search-is-adopting-ai-to-answer-your-queries/) | Privacy-focused search engine Brave announced Wednesday that it is revamping its answer engine to return AI-powered synthesized answers. The new feature is available to users across the globe.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
