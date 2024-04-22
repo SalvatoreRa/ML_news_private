@@ -41,8 +41,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Moving Object Segmentation: All You Need Is SAM (and Flow).](https://www.robots.ox.ac.uk/~vgg/research/flowsam/) | |
-|[From r to Q∗: Your Language Model is Secretly a Q-Function.](https://arxiv.org/abs/2404.12358) | |
+|[Moving Object Segmentation: All You Need Is SAM (and Flow).](https://www.robots.ox.ac.uk/~vgg/research/flowsam/) |The temporal consistency of videos makes object segmentation difficult. This work presents the use of optical flow in conjunction with a potent image segmentation model to achieve compelling performance on this task. |
+|[From r to Q∗: Your Language Model is Secretly a Q-Function.](https://arxiv.org/abs/2404.12358) |A somewhat technical paper on reinforcement learning that demonstrates the theoretical foundation of language reward models and base models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,9 +90,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Fine-tune Llama 3 with ORPO.](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html) | ORPO is a new exciting fine-tuning technique that combines the traditional supervised fine-tuning and preference alignment stages into a single process. This reduces the computational resources and time required for training. Moreover, empirical results demonstrate that ORPO outperforms other alignment methods on various model sizes and benchmarks.|
+|[Mistral Common.](https://github.com/mistralai/mistral-common) | mistral-common is a set of tools to help you work with Mistral models. Our first release contains tokenization. Our tokenizers go beyond the usual text <-> tokens, adding parsing of tools and structured conversation. We also release the validation and normalization code that is used in our API.|
+|[LongEmbed.](https://github.com/dwzhu-pku/LongEmbed) |This repository is the official implementation for the paper "LongEmbed: Extending Embedding Models for Long Context Retrieval" |
 |[.]() | |
 |[.]() | |
 |[.]() | |
