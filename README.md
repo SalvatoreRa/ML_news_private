@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FineWeb: 15T high quality web tokens.](https://huggingface.co/datasets/HuggingFaceFW/fineweb) |15T tokens were used to train the most recent Llama 3 models. This new dataset yields high-quality models and includes a large deduplicated corpus from common crawl. |
 |[A Visual Guide to Vision Transformers.](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html) | This is a visual guide to Vision Transformers (ViTs), a class of deep learning models that have achieved state-of-the-art performance on image classification tasks. This guide will walk you through the key components of Vision Transformers in a scroll story format, using visualizations and simple explanations to help you understand how these models work and how the flow of the data through the model looks like.|
 |[The Cauldron VLM data.](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) |50 language and vision datasets merged into a single format to enable better model training. |
-|[.]() | |
-|[.]() | |
+|[MAexpA Generic Platform for RL-based Multi-Agent Exploration.](https://github.com/duangzhu/maexp) |MAexp, a generic high-efficiency platform designed for multi-agent exploration, encompassing a diverse range of scenarios and MARL algorithms.  |
+|[Practitioners Guide to Triton.](https://www.youtube.com/watch?v=DdTsX6DQk24&ab_channel=CUDAMODE) |A high-level language for creating low-level CUDA kernels is called Triton. It lets you write in a Python-style format and significantly improves the efficiency of your AI model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Self-Reasoning Tokens, teaching models to think ahead.](https://reasoning-tokens.ghost.io/reasoning-tokens/) |This paper presents "reasoning tokens" for language models, which produce more tokens intended to forecast future tokens instead of the one that is immediately next, improving the model's anticipatory capacity. Experiments show notable increases in prediction accuracy, indicating that more sophisticated reasoning may be possible without the need for explicit step-by-step training. |
 |[Looking for AI use-cases.](https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases) | This article explores the potential for transformation and the existing constraints of generative AI, such as ChatGPT. It points out that although ChatGPT performs well on simple tasks like coding and creating drafts, it has trouble with more complicated tasks that call for specialized programming. It emphasizes the necessity of a vision that links AI solutions with useful applications and stresses how difficult it is to find and incorporate these into regular workflows.|
-|[.]() | |
-|[.]() | |
+|[Building reliable systems out of unreliable agents.](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents) | Although AI agents aren't always dependable, they can be used to create dependable systems. A few strategies are to start with basic prompts and build an iterative improvement evaluation system; to deploy with observability; to use Retrieval Augmented Generation (RAG); to think about fine-tuning the model; and to use complementary agents to strengthen each other's weaknesses and increase the overall reliability of the system.|
+|[AI leads a service-as-software paradigm shift.](https://foundationcapital.com/ai-service-as-software/) | Many VCs are talking about AI taking a bite out of the services business. Foundation Capital believes there is $4.6 trillion worth of work to be automated, thanks to AI: both for in-house functions and outsourced services. We're entering the era of Service-as-Software.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
