@@ -43,11 +43,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Moving Object Segmentation: All You Need Is SAM (and Flow).](https://www.robots.ox.ac.uk/~vgg/research/flowsam/) |The temporal consistency of videos makes object segmentation difficult. This work presents the use of optical flow in conjunction with a potent image segmentation model to achieve compelling performance on this task. |
 |[From r to Q∗: Your Language Model is Secretly a Q-Function.](https://arxiv.org/abs/2404.12358) |A somewhat technical paper on reinforcement learning that demonstrates the theoretical foundation of language reward models and base models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[decoupleQ: Towards 2-bit Post-Training Uniform Quantization via decoupling Parameters into Integer and Floating Points.](https://arxiv.org/abs/2404.12759v1) | A quantization technique called DecoupleQ dramatically improves large model accuracy at ultra-low bit levels. By dividing the model parameters into integer and floating-point components, which are subsequently optimized using conventional techniques, this approach reorganizes the quantization process.|
+|[MoVA: Adapting Mixture of Vision Experts to Multimodal Context.](https://arxiv.org/abs/2404.13046v1) | |
+|[MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model.](https://arxiv.org/abs/2404.12794v1) | |
+|[Training-and-pormpt Free General Painterly Image Harmonization Using image-wise attention sharing.](https://github.com/bluedyee/tf-gph) | |
+|[FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data.](https://github.com/leiyu0210/finlangnet) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
