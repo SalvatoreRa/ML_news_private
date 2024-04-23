@@ -98,9 +98,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Cauldron VLM data.](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron) |50 language and vision datasets merged into a single format to enable better model training. |
 |[MAexpA Generic Platform for RL-based Multi-Agent Exploration.](https://github.com/duangzhu/maexp) |MAexp, a generic high-efficiency platform designed for multi-agent exploration, encompassing a diverse range of scenarios and MARL algorithms.  |
 |[Practitioners Guide to Triton.](https://www.youtube.com/watch?v=DdTsX6DQk24&ab_channel=CUDAMODE) |A high-level language for creating low-level CUDA kernels is called Triton. It lets you write in a Python-style format and significantly improves the efficiency of your AI model. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora.](https://www.philschmid.de/fsdp-qlora-llama3) |Great blog covering a quick and efficient fine-tuning method using PyTorch on the recent Llama 3 model. |
+|[Layer Pruning of Large Language Models.](https://github.com/arcee-ai/PruneMe/) | This repository hosts the unofficial implementation of a layer pruning strategy for Large Language Models (LLMs) based on the insights from the paper "The Unreasonable Ineffectiveness of the Deeper Layers" by Andrey Gromov et al. |
+|[A Trivial Jailbreak Against Llama 3.](https://github.com/haizelabs/llama3-jailbreak) | A trivial programmatic Llama 3 jailbreak. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
