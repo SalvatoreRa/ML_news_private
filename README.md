@@ -109,6 +109,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora.](https://www.philschmid.de/fsdp-qlora-llama3) |Great blog covering a quick and efficient fine-tuning method using PyTorch on the recent Llama 3 model. |
 |[Layer Pruning of Large Language Models.](https://github.com/arcee-ai/PruneMe/) | This repository hosts the unofficial implementation of a layer pruning strategy for Large Language Models (LLMs) based on the insights from the paper "The Unreasonable Ineffectiveness of the Deeper Layers" by Andrey Gromov et al. |
 |[A Trivial Jailbreak Against Llama 3.](https://github.com/haizelabs/llama3-jailbreak) | A trivial programmatic Llama 3 jailbreak. |
+|[LLaMA3-Quantization.](https://github.com/macaronlin/llama3-quantization) |Given the wide application of low-bit quantization for LLMs in resource-limited scenarios, we explore LLaMa3's capabilities when quantized to low bit-width. This exploration holds the potential to unveil new insights and challenges for low-bit quantization of LLaMa3 and other forthcoming LLMs, especially in addressing performance degradation problems that suffer in LLM compression.  |
+|[Instructor: Structured LLM Outputs.](https://github.com/jxnl/instructor) | Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses. Get ready to supercharge your LLM workflows!|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
