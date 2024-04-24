@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation.](https://arxiv.org/abs/2404.14396v1) |SEED-X addresses practical application issues to develop multimodal foundation models. It can generate images with different levels of detail and comprehend images of any size and aspect ratio. |
 |[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions.](https://arxiv.org/abs/2404.13208) | Stronger weighting for system prompts was discovered by OpenAI, and this significantly increases the model's resistance to adversarial attacks and jailbreaks.|
 |[MultiBooth: Towards Generating All Your Concepts in an Image from Text.](https://multibooth.github.io/) | In order to improve multi-concept image generation, MultiBooth presents a two-phase methodology that addresses the issues of idea integrity and high costs associated with alternative approaches.|
-|[.]() | |
+|[6Img-to-3D.](https://6img-to-3d.github.io/) |With just six input photographs, a unique technique called 6Img-to-3D employs transformers to produce 3D-consistent graphics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
