@@ -83,6 +83,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Ray-Ban Meta Smart Glasses have multimodal AI now.](https://www.theverge.com/2024/4/23/24138090/ray-ban-meta-smart-glasses-ai-wearables) | It can be handy, confidently wrong, and just plain finicky — but smart glasses are a much more comfortable form factor for this tech.|
 |[OpenAI shrugs off Meta’s Llama 3 ascent with new enterprise AI features.](https://venturebeat.com/ai/openai-shrugs-off-metas-llama-3-ascent-with-new-enterprise-ai-features/) | Even as Meta’s new Llama 3 has quickly rocketed up the charts of most-used and most customized large language models (LLMs), the rival company that ushered in the generative AI era, OpenAI, is shrugging off the competition by introducing new enterprise-grade features for building and programming atop its GPT-4 Turbo LLM and other models.|
 |[Gurman: Apple Working on On-Device LLM for Generative AI Features.](https://www.macrumors.com/2024/04/21/apple-working-on-on-device-llm/) |Writing in his "Power On" newsletter, Gurman said that Apple's LLM underpins upcoming generative AI features. "All indications" apparently suggests that it will run entirely on-device, rather than via the cloud like most existing AI services. |
+|[Los Angeles is using AI in a pilot program to try to predict homelessness and allocate aid.](https://www.cnbc.com/2024/04/19/los-angeles-is-using-an-ai-pilot-program-to-try-to-predict-homelessness.html) |In Los Angeles, the Homelessness Prevention Program uses predictive AI to identify individuals and families at risk of becoming homeless, offering aid to help them get stabilized and remain housed. |
+|[Startup Uses AI To Edit Human Data.](https://futurism.com/neoscope/startup-uses-ai-edit-human-dna) |A team of researchers at a Berkeley-based startup called Profluent say they've used generative AI technologies to edit human DNA. As the New York Times reports, the startup fed huge amounts of biological data into a large language model (LLM) to come up with new editors based on the groundbreaking gene-editing technique CRISPR, as detailed in a yet-to-be-peer-reviewed paper.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Trivial Jailbreak Against Llama 3.](https://github.com/haizelabs/llama3-jailbreak) | A trivial programmatic Llama 3 jailbreak. |
 |[LLaMA3-Quantization.](https://github.com/macaronlin/llama3-quantization) |Given the wide application of low-bit quantization for LLMs in resource-limited scenarios, we explore LLaMa3's capabilities when quantized to low bit-width. This exploration holds the potential to unveil new insights and challenges for low-bit quantization of LLaMa3 and other forthcoming LLMs, especially in addressing performance degradation problems that suffer in LLM compression.  |
 |[Instructor: Structured LLM Outputs.](https://github.com/jxnl/instructor) | Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses. Get ready to supercharge your LLM workflows!|
-|[.]() | |
+|[How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) | Sometimes the best explanations of how a technology solution works come from the software engineers who built it. To explain how ChatGPT (and other large language models) operate, I turned to the ChatGPT engineering team.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
