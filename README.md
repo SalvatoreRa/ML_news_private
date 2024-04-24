@@ -48,6 +48,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model.](https://arxiv.org/abs/2404.12794v1) |MambaMOS is a novel method that researchers have created for segmenting moving objects in LiDAR point clouds. |
 |[Training-and-pormpt Free General Painterly Image Harmonization Using image-wise attention sharing.](https://github.com/bluedyee/tf-gph) | TF-GPH is a novel Painterly Image Harmonization technique that uses a novel "share-attention module" to avoid the need for training data or prompts.|
 |[FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data.](https://github.com/leiyu0210/finlangnet) |A model called FinLangNet was created to improve risk prediction in the financial industry. FinLangNet is a unique model that resembles linguistic structures in that it uses natural language processing techniques to simulate credit loan trajectories. |
+|[Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone.](https://arxiv.org/abs/2404.14219) | |
+|[SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation.](https://arxiv.org/abs/2404.14396v1) | |
+|[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions.](https://arxiv.org/abs/2404.13208) | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
