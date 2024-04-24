@@ -48,10 +48,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model.](https://arxiv.org/abs/2404.12794v1) |MambaMOS is a novel method that researchers have created for segmenting moving objects in LiDAR point clouds. |
 |[Training-and-pormpt Free General Painterly Image Harmonization Using image-wise attention sharing.](https://github.com/bluedyee/tf-gph) | TF-GPH is a novel Painterly Image Harmonization technique that uses a novel "share-attention module" to avoid the need for training data or prompts.|
 |[FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data.](https://github.com/leiyu0210/finlangnet) |A model called FinLangNet was created to improve risk prediction in the financial industry. FinLangNet is a unique model that resembles linguistic structures in that it uses natural language processing techniques to simulate credit loan trajectories. |
-|[Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone.](https://arxiv.org/abs/2404.14219) | |
-|[SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation.](https://arxiv.org/abs/2404.14396v1) | |
-|[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions.](https://arxiv.org/abs/2404.13208) | |
-|[.]() | |
+|[Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone.](https://arxiv.org/abs/2404.14219) |Phi 3 is a family of models that ranges in size from 3B to 14B and does remarkably well on contemporary benchmarks. The original ChatGPT model is said to perform worse than the 3B model. The weights are no longer in place. A variation with a context length of 128k is offered. |
+|[SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation.](https://arxiv.org/abs/2404.14396v1) |SEED-X addresses practical application issues to develop multimodal foundation models. It can generate images with different levels of detail and comprehend images of any size and aspect ratio. |
+|[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions.](https://arxiv.org/abs/2404.13208) | Stronger weighting for system prompts was discovered by OpenAI, and this significantly increases the model's resistance to adversarial attacks and jailbreaks.|
+|[MultiBooth: Towards Generating All Your Concepts in an Image from Text.](https://multibooth.github.io/) | In order to improve multi-concept image generation, MultiBooth presents a two-phase methodology that addresses the issues of idea integrity and high costs associated with alternative approaches.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
