@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLaMA3-Quantization.](https://github.com/macaronlin/llama3-quantization) |Given the wide application of low-bit quantization for LLMs in resource-limited scenarios, we explore LLaMa3's capabilities when quantized to low bit-width. This exploration holds the potential to unveil new insights and challenges for low-bit quantization of LLaMa3 and other forthcoming LLMs, especially in addressing performance degradation problems that suffer in LLM compression.  |
 |[Instructor: Structured LLM Outputs.](https://github.com/jxnl/instructor) | Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses. Get ready to supercharge your LLM workflows!|
 |[How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) | Sometimes the best explanations of how a technology solution works come from the software engineers who built it. To explain how ChatGPT (and other large language models) operate, I turned to the ChatGPT engineering team.|
-|[.]() | |
-|[.]() | |
+|[How AI is improving climate forecasts.](https://www.nature.com/articles/d41586-024-00780-8) |Researchers are using various machine-learning strategies to speed up climate modelling, reduce its energy costs and hopefully improve accuracy. |
+|[Will AI accelerate or delay the race to net-zero emissions?](https://www.nature.com/articles/d41586-024-01137-x) |As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
