@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions.](https://arxiv.org/abs/2404.13208) | Stronger weighting for system prompts was discovered by OpenAI, and this significantly increases the model's resistance to adversarial attacks and jailbreaks.|
 |[MultiBooth: Towards Generating All Your Concepts in an Image from Text.](https://multibooth.github.io/) | In order to improve multi-concept image generation, MultiBooth presents a two-phase methodology that addresses the issues of idea integrity and high costs associated with alternative approaches.|
 |[6Img-to-3D.](https://6img-to-3d.github.io/) |With just six input photographs, a unique technique called 6Img-to-3D employs transformers to produce 3D-consistent graphics. |
-|[.]() | |
+|[Simple probes can catch sleeper agents.](https://www.anthropic.com/research/probes-catch-sleeper-agents) | Language models known as "sleeper agents" have been trained to carry out malevolent deeds in response to a predetermined set of wake words. The question "are you going to do something dangerous?" combined with simple linear heads in language models allows for the incredibly accurate identification of these previously undetected malevolent individuals.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,9 +85,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gurman: Apple Working on On-Device LLM for Generative AI Features.](https://www.macrumors.com/2024/04/21/apple-working-on-on-device-llm/) |Writing in his "Power On" newsletter, Gurman said that Apple's LLM underpins upcoming generative AI features. "All indications" apparently suggests that it will run entirely on-device, rather than via the cloud like most existing AI services. |
 |[Los Angeles is using AI in a pilot program to try to predict homelessness and allocate aid.](https://www.cnbc.com/2024/04/19/los-angeles-is-using-an-ai-pilot-program-to-try-to-predict-homelessness.html) |In Los Angeles, the Homelessness Prevention Program uses predictive AI to identify individuals and families at risk of becoming homeless, offering aid to help them get stabilized and remain housed. |
 |[Startup Uses AI To Edit Human Data.](https://futurism.com/neoscope/startup-uses-ai-edit-human-dna) |A team of researchers at a Berkeley-based startup called Profluent say they've used generative AI technologies to edit human DNA. As the New York Times reports, the startup fed huge amounts of biological data into a large language model (LLM) to come up with new editors based on the groundbreaking gene-editing technique CRISPR, as detailed in a yet-to-be-peer-reviewed paper.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Apple releases OpenELM: small, open source AI models designed to run on-device.](https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device/) |Just as Google, Samsung and Microsoft continue to push their efforts with generative AI on PCs and mobile devices, Apple is moving to join the party with OpenELM, a new family of open-source large language models (LLMs) that can run entirely on a single device rather than having to connect to cloud servers. |
+|[Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M.](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/) |In a recent StackOverflow poll, 44% of software engineers said that they use AI tools as part of their development processes now and 26% plan to soon. Gartner estimates that over half of organizations are currently piloting or have already deployed AI-driven coding assistants, and that 75% of developers will use coding assistants in some form by 2028. |
+|[Sakana releases Japanese image model.](https://sakana.ai/evosdxl-jp/) |a high-speed image generation model optimized for Japanese language prompts  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
