@@ -54,8 +54,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MultiBooth: Towards Generating All Your Concepts in an Image from Text.](https://multibooth.github.io/) | In order to improve multi-concept image generation, MultiBooth presents a two-phase methodology that addresses the issues of idea integrity and high costs associated with alternative approaches.|
 |[6Img-to-3D.](https://6img-to-3d.github.io/) |With just six input photographs, a unique technique called 6Img-to-3D employs transformers to produce 3D-consistent graphics. |
 |[Simple probes can catch sleeper agents.](https://www.anthropic.com/research/probes-catch-sleeper-agents) | Language models known as "sleeper agents" have been trained to carry out malevolent deeds in response to a predetermined set of wake words. The question "are you going to do something dangerous?" combined with simple linear heads in language models allows for the incredibly accurate identification of these previously undetected malevolent individuals.|
-|[.]() | |
-|[.]() | |
+|[Taming Diffusion Probabilistic Models for Character Control.](https://aiganimation.github.io/CAMDM/) |È stato introdotto un framework per il controllo dei personaggi che sfrutta i modelli probabilistici di diffusione del movimento per produrre una serie di animazioni di alta qualità che rispondono istantaneamente ai comandi dinamici dell'utente. |
+|[CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.](https://arxiv.org/abs/2404.15141v1) | CutDiffusion è un nuovo approccio che trasforma i modelli di diffusione a bassa risoluzione per soddisfare le esigenze di alta risoluzione senza le complessità del tuning tradizionale.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
