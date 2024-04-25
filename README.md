@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple releases OpenELM: small, open source AI models designed to run on-device.](https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device/) |Just as Google, Samsung and Microsoft continue to push their efforts with generative AI on PCs and mobile devices, Apple is moving to join the party with OpenELM, a new family of open-source large language models (LLMs) that can run entirely on a single device rather than having to connect to cloud servers. |
 |[Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M.](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/) |In a recent StackOverflow poll, 44% of software engineers said that they use AI tools as part of their development processes now and 26% plan to soon. Gartner estimates that over half of organizations are currently piloting or have already deployed AI-driven coding assistants, and that 75% of developers will use coding assistants in some form by 2028. |
 |[Sakana releases Japanese image model.](https://sakana.ai/evosdxl-jp/) |a high-speed image generation model optimized for Japanese language prompts  |
-|[.]() | |
+|[Generative A.I. Arrives in the Gene Editing World of CRISPR.](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html?unlocked_article_code=1.mk0.JQS0.P95fZ2M-SfYp) | Much as ChatGPT generates poetry, a new A.I. system devises blueprints for microscopic mechanisms that can edit your DNA.Generative A.I. technologies can write poetry and computer programs or create images of teddy bears and videos of cartoon characters that look like something from a Hollywood movie. Now, new A.I. technology is generating blueprints for microscopic biological mechanisms that can edit your DNA, pointing to a future when scientists can battle illness and diseases with even greater precision and speed than they can today.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How does ChatGPT work? As explained by the ChatGPT team.](https://blog.pragmaticengineer.com/how-does-chatgpt-work/) | Sometimes the best explanations of how a technology solution works come from the software engineers who built it. To explain how ChatGPT (and other large language models) operate, I turned to the ChatGPT engineering team.|
 |[BitBLAS.](https://github.com/microsoft/BitBLAS) | A collection of GPU-accelerated kernels for BitNet-style model training has been made available by Microsoft. These devices offer a significant reduction in memory usage without sacrificing much accuracy.|
 |[CoreNet: A library for training deep neural networks.](https://github.com/apple/corenet) |CoreNet is a deep neural network toolkit from Apple that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation. |
-|[.]() | |
+|[MaxText.](https://github.com/google/maxtext) | MaxText is a high performance, highly scalable, open-source LLM written in pure Python/Jax and targeting Google Cloud TPUs and GPUs for training and inference. MaxText achieves high MFUs and scales from single host to very large clusters while staying simple and "optimization-free" thanks to the power of Jax and the XLA compiler.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI leads a service-as-software paradigm shift.](https://foundationcapital.com/ai-service-as-software/) | Many VCs are talking about AI taking a bite out of the services business. Foundation Capital believes there is $4.6 trillion worth of work to be automated, thanks to AI: both for in-house functions and outsourced services. We're entering the era of Service-as-Software.|
 |[How AI is improving climate forecasts.](https://www.nature.com/articles/d41586-024-00780-8) |Researchers are using various machine-learning strategies to speed up climate modelling, reduce its energy costs and hopefully improve accuracy. |
 |[Will AI accelerate or delay the race to net-zero emissions?](https://www.nature.com/articles/d41586-024-01137-x) |As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate. |
-|[.]() | |
+|[The Biggest Open-Source Week in the History of AI.](https://www.ai-supremacy.com/p/the-biggest-open-source-week-in-the) |The last week of March, 2024 will go down as a unique moment for Open-source LLMs. China's open-source scene hits the ground running. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
