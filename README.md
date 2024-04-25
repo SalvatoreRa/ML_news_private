@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M.](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/) |In a recent StackOverflow poll, 44% of software engineers said that they use AI tools as part of their development processes now and 26% plan to soon. Gartner estimates that over half of organizations are currently piloting or have already deployed AI-driven coding assistants, and that 75% of developers will use coding assistants in some form by 2028. |
 |[Sakana releases Japanese image model.](https://sakana.ai/evosdxl-jp/) |a high-speed image generation model optimized for Japanese language prompts  |
 |[Generative A.I. Arrives in the Gene Editing World of CRISPR.](https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html?unlocked_article_code=1.mk0.JQS0.P95fZ2M-SfYp) | Much as ChatGPT generates poetry, a new A.I. system devises blueprints for microscopic mechanisms that can edit your DNA.Generative A.I. technologies can write poetry and computer programs or create images of teddy bears and videos of cartoon characters that look like something from a Hollywood movie. Now, new A.I. technology is generating blueprints for microscopic biological mechanisms that can edit your DNA, pointing to a future when scientists can battle illness and diseases with even greater precision and speed than they can today.|
-|[.]() | |
-|[.]() | |
+|[FlexAI Launches with $30 Million in Seed Funding to Deliver Universal AI Compute.](https://www.globenewswire.com/news-release/2024/04/24/2868408/0/en/FlexAI-Launches-with-30-Million-in-Seed-Funding-to-Deliver-Universal-AI-Compute.html) |Ex-Apple, Intel, NVIDIA, and Tesla veterans rearchitect compute infrastructure to accelerate AI innovation.  FlexAI, the universal AI compute company, today launched with $30 million (€28.5 million) in seed funding led by Alpha Intelligence Capital (AIC), Elaia Partners, and Heartcore Capital. |
+|[Report: Google will update Gemini Nano in time for Galaxy S25.](https://9to5google.com/2024/04/24/google-gemini-nano-2-report/) |Google’s Gemini AI models are constantly advancing, so it comes as no surprise that a new report claims Google will have a “version 2” of Gemini Nano available by the time the Galaxy S25 launches next year. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BitBLAS.](https://github.com/microsoft/BitBLAS) | A collection of GPU-accelerated kernels for BitNet-style model training has been made available by Microsoft. These devices offer a significant reduction in memory usage without sacrificing much accuracy.|
 |[CoreNet: A library for training deep neural networks.](https://github.com/apple/corenet) |CoreNet is a deep neural network toolkit from Apple that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation. |
 |[MaxText.](https://github.com/google/maxtext) | MaxText is a high performance, highly scalable, open-source LLM written in pure Python/Jax and targeting Google Cloud TPUs and GPUs for training and inference. MaxText achieves high MFUs and scales from single host to very large clusters while staying simple and "optimization-free" thanks to the power of Jax and the XLA compiler.|
-|[.]() | |
+|[Cohere Toolkit.](https://github.com/cohere-ai/cohere-toolkit/) | A chat interface with numerous useful capabilities for creating AI-powered chat apps has been made available by Cohere.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
