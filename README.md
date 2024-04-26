@@ -56,11 +56,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Simple probes can catch sleeper agents.](https://www.anthropic.com/research/probes-catch-sleeper-agents) | Language models known as "sleeper agents" have been trained to carry out malevolent deeds in response to a predetermined set of wake words. The question "are you going to do something dangerous?" combined with simple linear heads in language models allows for the incredibly accurate identification of these previously undetected malevolent individuals.|
 |[Taming Diffusion Probabilistic Models for Character Control.](https://aiganimation.github.io/CAMDM/) |È stato introdotto un framework per il controllo dei personaggi che sfrutta i modelli probabilistici di diffusione del movimento per produrre una serie di animazioni di alta qualità che rispondono istantaneamente ai comandi dinamici dell'utente. |
 |[CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method.](https://arxiv.org/abs/2404.15141v1) | CutDiffusion è un nuovo approccio che trasforma i modelli di diffusione a bassa risoluzione per soddisfare le esigenze di alta risoluzione senza le complessità del tuning tradizionale.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation.](https://arxiv.org/abs/2404.15687v1) |A new tool called CFExplainer enhances the ability of AI models—more especially, Graph Neural Networks—to comprehend and recognize security flaws in software. |
+|[Conformal Predictive Systems Under Covariate Shift.](https://arxiv.org/abs/2404.15018v1) |A kind of conformal predictive systems that responds to modifications in data settings, particularly covariate alterations, is called weighted CPS (WCPS). |
+|[Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning.](https://github.com/hustvl/mim4d) | MIM4D is a novel method that uses dual masked image modeling to extract temporal and spatial features from multi-view films, improving visual representation learning in autonomous driving.|
+|[FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search.](https://arxiv.org/abs/2404.15622v1) |A Graph Neural Network (GNN) predictor that improves the effectiveness of finding the best neural network configurations for particular tasks is introduced by creative work in Neural Architecture Search (NAS). |
+|[Raformer: Redundancy-Aware Transformer for Video Wire Inpainting.](https://github.com/Suyimu/WRV2) |A new dataset and technique for enhancing wire removal in videos—a frequent visual effect problem in movies and TV shows—have been presented by researchers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Snowflake Arctic - LLM for Enterprise AI.](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) |The enterprise-grade LLM known as Snowflake Arctic, developed by the Snowflake AI Research Team, outperforms competitors in instruction-following benchmarks, coding, and SQL creation at a quarter of the usual cost. Arctic makes sophisticated LLM capabilities available to a larger audience by utilizing an open-source methodology and a distinctive design. Hugging Face offers the model, which will also be incorporated into other platforms and services. |
 |[Nvidia acquires AI workload management startup Run:ai for $700M, sources say.](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai) |Nvidia is acquiring Run:ai, a Tel Aviv-based company that makes it easier for developers and operations teams to manage and optimize their AI hardware infrastructure. Terms of the deal aren’t being disclosed publicly, but two sources close to the matter tell TechCrunch that the price tag was $700 million |
 |[Apple has acquired the Paris-based artificial intelligence startup Datakalab amid its push to deliver on-device AI tools.](https://www.macrumors.com/2024/04/22/apple-acquires-french-ai-company/) | Apple has acquired the Paris-based artificial intelligence startup Datakalab amid its push to deliver on-device AI tools.|
-|[.]() | |
+|[Drake Uses AI Tupac and Snoop Dogg Vocals on ‘Taylor Made Freestyle,’ References Taylor Swift’s New Album ‘The Tortured Poets Department’.](https://variety.com/2024/music/news/drake-taylor-made-freestyle-tupac-shakur-taylor-swift-snoop-dogg-1235977178/) | On Friday night (April 19), the rapper released a song on his social media entitled “Taylor Made Freestyle,” which uses AI vocals from Tupac Shakur and Snoop Dogg on a stopgap between diss records as he awaits Kendrick Lamar’s reply to his freshly released “Push Ups.”|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MaxText.](https://github.com/google/maxtext) | MaxText is a high performance, highly scalable, open-source LLM written in pure Python/Jax and targeting Google Cloud TPUs and GPUs for training and inference. MaxText achieves high MFUs and scales from single host to very large clusters while staying simple and "optimization-free" thanks to the power of Jax and the XLA compiler.|
 |[Cohere Toolkit.](https://github.com/cohere-ai/cohere-toolkit/) | A chat interface with numerous useful capabilities for creating AI-powered chat apps has been made available by Cohere.|
 |[BAAI/Bunny-Llama-3-8B-V.](BAAI/Bunny-Llama-3-8B-V) |Bunny is a family of lightweight but powerful multimodal models. It offers multiple plug-and-play vision encoders, like EVA-CLIP, SigLIP and language backbones, including Llama-3-8B, Phi-1.5, StableLM-2 and Phi-2. To compensate for the decrease in model size, we construct more informative training data by curated selection from a broader data source. |
-|[.]() | |
+|[Finetune Llama 3 - 2x faster + 6x longer context + 68% less VRAM.](https://unsloth.ai/blog/llama3) |6x long context length with dramatically less VRAM usage than HF with flash attention. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,8 +157,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Will AI accelerate or delay the race to net-zero emissions?](https://www.nature.com/articles/d41586-024-01137-x) |As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate. |
 |[The Biggest Open-Source Week in the History of AI.](https://www.ai-supremacy.com/p/the-biggest-open-source-week-in-the) |The last week of March, 2024 will go down as a unique moment for Open-source LLMs. China's open-source scene hits the ground running. |
 |[‘Miss AI’ is billed as a leap forward – but feels like a monumental step backwards.](https://www.theguardian.com/commentisfree/2024/apr/23/miss-ai-artificial-intelligence-models-gendered-beauty-norms) |AI models take every toxic gendered beauty norm and bundle them up into completely unrealistic package |
-|[.]() | |
-|[.]() | |
+|[Why reliable AI requires a paradigm shift.](https://blog.apiad.net/p/reliable-ai-is-harder-than-you-think) | Hallucinations are the fundamental barrier for the widespread use of AI, and they won't be solved anytime soon.|
+|[Should Apple Kill Siri and Start Over?](https://www.macrumors.com/2024/04/18/should-apple-kill-siri/) |The vision was grand: A personal assistant in your pocket, capable of understanding and acting upon a wide array of voice commands with ease and accuracy. So what happened? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
