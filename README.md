@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How AI is improving climate forecasts.](https://www.nature.com/articles/d41586-024-00780-8) |Researchers are using various machine-learning strategies to speed up climate modelling, reduce its energy costs and hopefully improve accuracy. |
 |[Will AI accelerate or delay the race to net-zero emissions?](https://www.nature.com/articles/d41586-024-01137-x) |As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate. |
 |[The Biggest Open-Source Week in the History of AI.](https://www.ai-supremacy.com/p/the-biggest-open-source-week-in-the) |The last week of March, 2024 will go down as a unique moment for Open-source LLMs. China's open-source scene hits the ground running. |
-|[.]() | |
+|[‘Miss AI’ is billed as a leap forward – but feels like a monumental step backwards.](https://www.theguardian.com/commentisfree/2024/apr/23/miss-ai-artificial-intelligence-models-gendered-beauty-norms) |AI models take every toxic gendered beauty norm and bundle them up into completely unrealistic package |
 |[.]() | |
 |[.]() | |
 |[.]() | |
