@@ -94,6 +94,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft’s heavy bet on AI pays off as it beats expectations in latest quarter.](https://www.theguardian.com/technology/2024/apr/25/microsoft-earnings) |World’s largest public company reports $61.86bn revenue after investing billions into artificial intelligence |
 |[Alphabet hails ‘once-in-a-generation’ AI opportunity as revenue rises.](https://www.theguardian.com/technology/2024/apr/25/google-revenue-quarter-one) |Shares surge after tech giant issues first ever dividend and posts revenue of $80.5bn, up 15% since last year, despite staff turmoil |
 |[Meta value falls $190bn as investors react to plan to increase spending on AI.](https://www.theguardian.com/technology/2024/apr/25/meta-value-falls-190bn-as-investors-react-to-plan-to-increase-spending-on-ai) | Shares slumped 15% after Mark Zuckerberg said AI spending would have to grow before Meta could make much revenue from products|
+|[Snowflake Arctic - LLM for Enterprise AI.](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) |The enterprise-grade LLM known as Snowflake Arctic, developed by the Snowflake AI Research Team, outperforms competitors in instruction-following benchmarks, coding, and SQL creation at a quarter of the usual cost. Arctic makes sophisticated LLM capabilities available to a larger audience by utilizing an open-source methodology and a distinctive design. Hugging Face offers the model, which will also be incorporated into other platforms and services. |
+|[Nvidia acquires AI workload management startup Run:ai for $700M, sources say.](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai) |Nvidia is acquiring Run:ai, a Tel Aviv-based company that makes it easier for developers and operations teams to manage and optimize their AI hardware infrastructure. Terms of the deal aren’t being disclosed publicly, but two sources close to the matter tell TechCrunch that the price tag was $700 million |
+|[Apple has acquired the Paris-based artificial intelligence startup Datakalab amid its push to deliver on-device AI tools.](https://www.macrumors.com/2024/04/22/apple-acquires-french-ai-company/) | Apple has acquired the Paris-based artificial intelligence startup Datakalab amid its push to deliver on-device AI tools.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +105,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
@@ -125,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CoreNet: A library for training deep neural networks.](https://github.com/apple/corenet) |CoreNet is a deep neural network toolkit from Apple that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation. |
 |[MaxText.](https://github.com/google/maxtext) | MaxText is a high performance, highly scalable, open-source LLM written in pure Python/Jax and targeting Google Cloud TPUs and GPUs for training and inference. MaxText achieves high MFUs and scales from single host to very large clusters while staying simple and "optimization-free" thanks to the power of Jax and the XLA compiler.|
 |[Cohere Toolkit.](https://github.com/cohere-ai/cohere-toolkit/) | A chat interface with numerous useful capabilities for creating AI-powered chat apps has been made available by Cohere.|
-|[.]() | |
+|[BAAI/Bunny-Llama-3-8B-V.](BAAI/Bunny-Llama-3-8B-V) |Bunny is a family of lightweight but powerful multimodal models. It offers multiple plug-and-play vision encoders, like EVA-CLIP, SigLIP and language backbones, including Llama-3-8B, Phi-1.5, StableLM-2 and Phi-2. To compensate for the decrease in model size, we construct more informative training data by curated selection from a broader data source. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
