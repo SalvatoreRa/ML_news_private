@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[BBC presenter’s likeness used in advert after firm tricked by AI-generated voice.](https://www.theguardian.com/technology/2024/apr/28/bbc-presenters-likeness-used-in-advert-after-firm-tricked-by-ai-generated-voice) | Science presenter Liz Bonnin’s accent, as regular BBC viewers know, is Irish. But this voice message, ostensibly granting permission to use her likeness in an ad campaign, seemed to place her on the other side of the world.|
+|[Tesla Autopilot feature was involved in 13 fatal crashes, US regulator says.](https://www.theguardian.com/technology/2024/apr/26/tesla-autopilot-fatal-crash) |Federal transportation agency finds Tesla’s claims about feature don’t match their findings and opens second investigation |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[The demise of Twitter: how a ‘utopian vision’ for social media became a ‘toxic mess’.](https://www.theguardian.com/technology/2024/apr/28/the-demise-of-twitter-how-a-utopian-vision-for-social-media-became-a-toxic-mess) | In the early days it was seen as a place for ‘genuine public discourse’, but users have fled since Elon Musk took over. What went wrong?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
