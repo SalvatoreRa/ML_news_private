@@ -93,9 +93,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Cohere Launches Developer Toolkit to Accelerate Build Gen AI Apps.](https://cohere.com/blog/cohere-toolkit) |This toolkit is an open-source repository of production-ready applications that you can deploy across cloud providers.  |
 |[Video-Language models with PLLaVA.](https://pllava.github.io/) |A novel pooling technique has been developed by researchers to enable the adaptation of image-language AI models for video applications, making the new model known as PLLaVA stand out. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[luminal.](https://github.com/jafioti/luminal) | Luminal is a deep learning library that uses composable compilers to achieve high performance.|
+|[torchtitan.](https://github.com/pytorch/torchtitan) | torchtitan is a proof-of-concept for Large-scale LLM training using native PyTorch. It is (and will continue to be) a repo to showcase PyTorch's latest distributed training features in a clean, minimal codebase.|
+|[OpenLIT.](https://github.com/openlit/openlit) |OpenLIT is an OpenTelemetry-native GenAI and LLM Application Observability tool. It's designed to make the integration process of observability into GenAI projects as easy as pie – literally, with just a single line of code. Whether you're working with popular LLM Libraries such as OpenAI and HuggingFace or leveraging vector databases like ChromaDB, OpenLIT ensures your applications are monitored seamlessly, providing critical insights to improve performance and reliability. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
