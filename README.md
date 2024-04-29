@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.](https://arxiv.org/abs/2404.15758) |This paper demonstrates how '...' tokens can be used to obscure chain-of-thought (CoT) reasoning. This necessitates model training, but it illustrates how the model can conceal thought and make it difficult to comprehend the CoT phases. |
 |[Tracking with Human-Intent Reasoning.](https://arxiv.org/abs/2312.17448v1) |TrackGPT transforms object tracking by integrating the capabilities of Large Vision-Language Models. It can interpret implicit tracking instructions, simplifying the procedure and improving performance, as demonstrated by its outstanding performance on the new InsTrack benchmark and other hard datasets. |
-|[.]() | |
+|[AAPL: Adding Attributes to Prompt Learning for Vision-Language Models.](https://github.com/Gahyeonkim09/AAPL) |By employing adversarial token embedding, researchers have created a novel technique known as AAPL, which improves AI models' capacity to identify items that are not visible to the human eye. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla Autopilot feature was involved in 13 fatal crashes, US regulator says.](https://www.theguardian.com/technology/2024/apr/26/tesla-autopilot-fatal-crash) |Federal transportation agency finds Tesla’s claims about feature don’t match their findings and opens second investigation |
 |[Apple and OpenAI are reportedly in talks for iOS 18 integration.](https://mashable.com/article/apple-openai-partnership-ios-18) Apple has been talking to several big AI companies in pursuit of a potential partnership for on-device chatbot capabilities. According to Bloomberg, Apple and OpenAI discussed a potential deal earlier this year. Those talks have since reopened, according to people with knowledge of the matter. The possible agreement could be about OpenAI integrations into iOS 18.| |
 |[The little smart home platform that could.](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation) | This week, Home Assistant announced it is now part of the Open Home Foundation. The newly formed non-profit will own and govern all of Home Assistant and its related entities. Its creators and inaugural board members — Schoutsen, Guy Sie, Pascal Vizeli, and J. Nick Koston — all work on Home Assistant, and the foundation has no other members so far.|
-|[.]() | |
+|[Jensen Huang and Sam Altman among tech chiefs invited to federal AI Safety Board.](https://www.theregister.com/2024/04/26/jensen_huang_and_sam_altman/) |Leaders of the world's most prominent AI companies are being recruited for the Homeland Security Department's new advisory group. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
