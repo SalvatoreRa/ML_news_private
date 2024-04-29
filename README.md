@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.](https://arxiv.org/abs/2404.15758) | |
+|[Tracking with Human-Intent Reasoning.](https://arxiv.org/abs/2312.17448v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Cohere Launches Developer Toolkit to Accelerate Build Gen AI Apps.](https://cohere.com/blog/cohere-toolkit) |This toolkit is an open-source repository of production-ready applications that you can deploy across cloud providers.  |
-|[.]() | |
+|[Video-Language models with PLLaVA.](https://pllava.github.io/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
