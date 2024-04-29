@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.](https://arxiv.org/abs/2404.15758) | |
-|[Tracking with Human-Intent Reasoning.](https://arxiv.org/abs/2312.17448v1) | |
+|[Let's Think Dot by Dot: Hidden Computation in Transformer Language Models.](https://arxiv.org/abs/2404.15758) |This paper demonstrates how '...' tokens can be used to obscure chain-of-thought (CoT) reasoning. This necessitates model training, but it illustrates how the model can conceal thought and make it difficult to comprehend the CoT phases. |
+|[Tracking with Human-Intent Reasoning.](https://arxiv.org/abs/2312.17448v1) |TrackGPT transforms object tracking by integrating the capabilities of Large Vision-Language Models. It can interpret implicit tracking instructions, simplifying the procedure and improving performance, as demonstrated by its outstanding performance on the new InsTrack benchmark and other hard datasets. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Cohere Launches Developer Toolkit to Accelerate Build Gen AI Apps.](https://cohere.com/blog/cohere-toolkit) |This toolkit is an open-source repository of production-ready applications that you can deploy across cloud providers.  |
-|[Video-Language models with PLLaVA.](https://pllava.github.io/) | |
+|[Video-Language models with PLLaVA.](https://pllava.github.io/) |A novel pooling technique has been developed by researchers to enable the adaptation of image-language AI models for video applications, making the new model known as PLLaVA stand out. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
