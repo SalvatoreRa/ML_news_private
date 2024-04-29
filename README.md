@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[luminal.](https://github.com/jafioti/luminal) | Luminal is a deep learning library that uses composable compilers to achieve high performance.|
 |[torchtitan.](https://github.com/pytorch/torchtitan) | torchtitan is a proof-of-concept for Large-scale LLM training using native PyTorch. It is (and will continue to be) a repo to showcase PyTorch's latest distributed training features in a clean, minimal codebase.|
 |[OpenLIT.](https://github.com/openlit/openlit) |OpenLIT is an OpenTelemetry-native GenAI and LLM Application Observability tool. It's designed to make the integration process of observability into GenAI projects as easy as pie – literally, with just a single line of code. Whether you're working with popular LLM Libraries such as OpenAI and HuggingFace or leveraging vector databases like ChromaDB, OpenLIT ensures your applications are monitored seamlessly, providing critical insights to improve performance and reliability. |
-|[.]() | |
-|[.]() | |
+|[Llamafile’s progress, four months in.](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/) | Self-contained executables called Llamafiles allow models to run instantly on a variety of platforms. It promises significant portability advantages and a two-fold speed increase.|
+|[Implementing FrugalGPT: Reducing LLM Costs & Improving Performance.](https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs/) |There are steps you can take with FrugalGPT to significantly lower LLM API expenses. Prompt compression, caching, and other things are among them. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
