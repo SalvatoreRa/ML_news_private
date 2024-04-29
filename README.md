@@ -69,9 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[BBC presenter’s likeness used in advert after firm tricked by AI-generated voice.](https://www.theguardian.com/technology/2024/apr/28/bbc-presenters-likeness-used-in-advert-after-firm-tricked-by-ai-generated-voice) | Science presenter Liz Bonnin’s accent, as regular BBC viewers know, is Irish. But this voice message, ostensibly granting permission to use her likeness in an ad campaign, seemed to place her on the other side of the world.|
 |[Tesla Autopilot feature was involved in 13 fatal crashes, US regulator says.](https://www.theguardian.com/technology/2024/apr/26/tesla-autopilot-fatal-crash) |Federal transportation agency finds Tesla’s claims about feature don’t match their findings and opens second investigation |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Apple and OpenAI are reportedly in talks for iOS 18 integration.](https://mashable.com/article/apple-openai-partnership-ios-18) Apple has been talking to several big AI companies in pursuit of a potential partnership for on-device chatbot capabilities. According to Bloomberg, Apple and OpenAI discussed a potential deal earlier this year. Those talks have since reopened, according to people with knowledge of the matter. The possible agreement could be about OpenAI integrations into iOS 18.| |
+|[The little smart home platform that could.](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation) | This week, Home Assistant announced it is now part of the Open Home Foundation. The newly formed non-profit will own and govern all of Home Assistant and its related entities. Its creators and inaugural board members — Schoutsen, Guy Sie, Pascal Vizeli, and J. Nick Koston — all work on Home Assistant, and the foundation has no other members so far.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,6 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
+|[Cohere Launches Developer Toolkit to Accelerate Build Gen AI Apps.](https://cohere.com/blog/cohere-toolkit) |This toolkit is an open-source repository of production-ready applications that you can deploy across cloud providers.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
