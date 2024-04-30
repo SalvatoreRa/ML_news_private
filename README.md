@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey on Self-Evolution of Large Language Models.](https://arxiv.org/abs/2404.14387) | In this work, we present a comprehensive survey of self-evolution approaches in LLMs. We first propose a conceptual framework for self-evolution and outline the evolving process as iterative cycles composed of four phases: experience acquisition, experience refinement, updating, and evaluation. Second, we categorize the evolution objectives of LLMs and LLM-based agents |
 |[Effort. A possibly new algorithm for LLM Inference.](https://kolinko.github.io/effort/) | In order to strike a compromise between speed and quality, effort allows real-time tweaking of computations during LLM model inference on Apple Silicon CPUs. The technique loads fewer weights into the models, allowing them to run faster, although it involves precomputation and conversion, and does not require retraining. The implementation may be downloaded from GitHub; the creators are looking for help from Swift/Metal engineers to optimize it.|
 |[whisper.cpp-cli.](https://github.com/charliermarsh/whisper.cpp-cli) | A fully self-contained speech-to-text system built on top of Whisper|
-|[.]() | |
+|[memary: Open-Source Longterm Memory for Autonomous Agents.](https://github.com/kingjulio8238/memary) |Agents use LLMs that are currently constrained to finite context windows. memary overcomes this limitation by allowing your agents to store a large corpus of information in knowledge graphs, infer user knowledge through our memory modules, and only retrieve relevant information for meaningful responses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
