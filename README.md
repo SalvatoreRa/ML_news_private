@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple and OpenAI are reportedly in talks for iOS 18 integration.](https://mashable.com/article/apple-openai-partnership-ios-18) |Apple has been talking to several big AI companies in pursuit of a potential partnership for on-device chatbot capabilities. According to Bloomberg, Apple and OpenAI discussed a potential deal earlier this year. Those talks have since reopened, according to people with knowledge of the matter. The possible agreement could be about OpenAI integrations into iOS 18. |
 |[The little smart home platform that could.](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation) | This week, Home Assistant announced it is now part of the Open Home Foundation. The newly formed non-profit will own and govern all of Home Assistant and its related entities. Its creators and inaugural board members — Schoutsen, Guy Sie, Pascal Vizeli, and J. Nick Koston — all work on Home Assistant, and the foundation has no other members so far.|
 |[Jensen Huang and Sam Altman among tech chiefs invited to federal AI Safety Board.](https://www.theregister.com/2024/04/26/jensen_huang_and_sam_altman/) |Leaders of the world's most prominent AI companies are being recruited for the Homeland Security Department's new advisory group. |
-|[OpenAI to use FT journalism to train artificial intelligence systems.](https://www.theguardian.com/media/2024/apr/29/chatgpt-openai-ft-journalism-train-artificial-intelligence-systems) | Under deal, ChatGPT users will receive summaries and quotes from Financial Times content and links to articles|
+|[OpenAI to use Financial Times journalism to train artificial intelligence systems.](https://www.theguardian.com/media/2024/apr/29/chatgpt-openai-ft-journalism-train-artificial-intelligence-systems) | Under deal, ChatGPT users will receive summaries and quotes from Financial Times content and links to articles. The [deal](https://www.engadget.com/openai-will-train-its-ai-models-on-the-financial-times-journalism-173249177.html) is the ChatGPT maker's latest with a media company.|
 |[Japan to trial AI bear warning system after record number of attacks.](https://www.theguardian.com/world/2024/apr/30/japan-to-trial-ai-bear-warning-system-after-record-number-of-attacks) |Six people have been killed and more than 200 injured in attacks by bears over the past year |
 |[Copilot Workspace.](https://githubnext.com/projects/copilot-workspace/) | A new effort to let language models complete features and address faults in a semi-autonomous manner has been revealed on GitHub.|
 |[OpenAI introduces "Memory" feature for ChatGPT Plus users.](https://the-decoder.com/openai-introduces-memory-feature-for-chatgpt-plus-users/) |OpenAI has enabled the "Memory" feature for all ChatGPT Plus users, the company announced via X. Memory allows users to tell ChatGPT things they want it to remember across chats. The feature can be turned on and off in the settings. |
@@ -103,6 +103,20 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Effort. A possibly new algorithm for LLM Inference.](https://kolinko.github.io/effort/) | In order to strike a compromise between speed and quality, effort allows real-time tweaking of computations during LLM model inference on Apple Silicon CPUs. The technique loads fewer weights into the models, allowing them to run faster, although it involves precomputation and conversion, and does not require retraining. The implementation may be downloaded from GitHub; the creators are looking for help from Swift/Metal engineers to optimize it.|
 |[whisper.cpp-cli.](https://github.com/charliermarsh/whisper.cpp-cli) | A fully self-contained speech-to-text system built on top of Whisper|
 |[memary: Open-Source Longterm Memory for Autonomous Agents.](https://github.com/kingjulio8238/memary) |Agents use LLMs that are currently constrained to finite context windows. memary overcomes this limitation by allowing your agents to store a large corpus of information in knowledge graphs, infer user knowledge through our memory modules, and only retrieve relevant information for meaningful responses. |
+|[mistral.rs.](https://github.com/EricLBuehler/mistral.rs) | Mistral.rs is a fast LLM inference platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings.|
+|[Autodidax: JAX core from scratch.](https://jax.readthedocs.io/en/latest/autodidax.html) | Ever want to learn how JAX works, but the implementation seemed impenetrable? Well, you’re in luck! By reading this tutorial, you’ll learn every big idea in JAX’s core system. You’ll even get clued into our weird jargon!|
+|[cjpais/moondream2-llamafile.](https://huggingface.co/cjpais/moondream2-llamafile) |a completely standalone VLM executable with strong performance for its size that may be used on edge devices built on the Moondream 2 model. |
+|[The open-source language model computer.](https://github.com/OpenInterpreter/01) | The 01 Project is building an open-source ecosystem for AI devices.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,8 +132,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The demise of Twitter: how a ‘utopian vision’ for social media became a ‘toxic mess’.](https://www.theguardian.com/technology/2024/apr/28/the-demise-of-twitter-how-a-utopian-vision-for-social-media-became-a-toxic-mess) | In the early days it was seen as a place for ‘genuine public discourse’, but users have fled since Elon Musk took over. What went wrong?|
-|[.]() | |
-|[.]() | |
+|[AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/) |This article offers a critical analysis of artificial intelligence (AI) and machine learning, contending that although these technologies can be helpful for specific tasks, they frequently fall short of the lofty claims made by AI businesses.  |
+|[Binding Public Sector AI Diffusion.](https://digitalspirits.substack.com/p/binding-public-sector-ai-diffusion) | The public sector is the target of the OMB's new AI executive order policy, which could significantly hamper AI progress owing to bureaucratic roadblocks and strict safety regulations. The rules, which are being implemented in the face of declining IT funding, have the potential to stall initiatives that are essential to updating government services in addition to slowing the adoption of AI. Opponents fear that these limitations, in addition to funding reductions, may make it impossible for agencies to stay up with technology advancements in industries like healthcare.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
