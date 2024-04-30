@@ -74,8 +74,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Jensen Huang and Sam Altman among tech chiefs invited to federal AI Safety Board.](https://www.theregister.com/2024/04/26/jensen_huang_and_sam_altman/) |Leaders of the world's most prominent AI companies are being recruited for the Homeland Security Department's new advisory group. |
 |[OpenAI to use FT journalism to train artificial intelligence systems.](https://www.theguardian.com/media/2024/apr/29/chatgpt-openai-ft-journalism-train-artificial-intelligence-systems) | Under deal, ChatGPT users will receive summaries and quotes from Financial Times content and links to articles|
 |[Japan to trial AI bear warning system after record number of attacks.](https://www.theguardian.com/world/2024/apr/30/japan-to-trial-ai-bear-warning-system-after-record-number-of-attacks) |Six people have been killed and more than 200 injured in attacks by bears over the past year |
-|[.]() | |
-|[.]() | |
+|[Copilot Workspace.](https://githubnext.com/projects/copilot-workspace/) | A new effort to let language models complete features and address faults in a semi-autonomous manner has been revealed on GitHub.|
+|[OpenAI introduces "Memory" feature for ChatGPT Plus users.](https://the-decoder.com/openai-introduces-memory-feature-for-chatgpt-plus-users/) |OpenAI has enabled the "Memory" feature for all ChatGPT Plus users, the company announced via X. Memory allows users to tell ChatGPT things they want it to remember across chats. The feature can be turned on and off in the settings. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Implementing FrugalGPT: Reducing LLM Costs & Improving Performance.](https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs/) |There are steps you can take with FrugalGPT to significantly lower LLM API expenses. Prompt compression, caching, and other things are among them. |
 |[Graph Machine Learning in the Era of Large Language Models (LLMs).](https://arxiv.org/abs/2404.14928) |Therefore, in this survey, we first review the recent developments in Graph ML. We then explore how LLMs can be utilized to enhance the quality of graph features, alleviate the reliance on labeled data, and address challenges such as graph heterogeneity and out-of-distribution (OOD) generalization. Afterward, we delve into how graphs can enhance LLMs, highlighting their abilities to enhance LLM pre-training and inference. Furthermore, we investigate various applications and discuss the potential future directions in this promising field. |
 |[A Survey on Self-Evolution of Large Language Models.](https://arxiv.org/abs/2404.14387) | In this work, we present a comprehensive survey of self-evolution approaches in LLMs. We first propose a conceptual framework for self-evolution and outline the evolving process as iterative cycles composed of four phases: experience acquisition, experience refinement, updating, and evaluation. Second, we categorize the evolution objectives of LLMs and LLM-based agents |
-|[.]() | |
+|[Effort. A possibly new algorithm for LLM Inference.](https://kolinko.github.io/effort/) | In order to strike a compromise between speed and quality, effort allows real-time tweaking of computations during LLM model inference on Apple Silicon CPUs. The technique loads fewer weights into the models, allowing them to run faster, although it involves precomputation and conversion, and does not require retraining. The implementation may be downloaded from GitHub; the creators are looking for help from Swift/Metal engineers to optimize it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
