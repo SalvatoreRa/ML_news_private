@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple and OpenAI are reportedly in talks for iOS 18 integration.](https://mashable.com/article/apple-openai-partnership-ios-18) |Apple has been talking to several big AI companies in pursuit of a potential partnership for on-device chatbot capabilities. According to Bloomberg, Apple and OpenAI discussed a potential deal earlier this year. Those talks have since reopened, according to people with knowledge of the matter. The possible agreement could be about OpenAI integrations into iOS 18. |
 |[The little smart home platform that could.](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation) | This week, Home Assistant announced it is now part of the Open Home Foundation. The newly formed non-profit will own and govern all of Home Assistant and its related entities. Its creators and inaugural board members — Schoutsen, Guy Sie, Pascal Vizeli, and J. Nick Koston — all work on Home Assistant, and the foundation has no other members so far.|
 |[Jensen Huang and Sam Altman among tech chiefs invited to federal AI Safety Board.](https://www.theregister.com/2024/04/26/jensen_huang_and_sam_altman/) |Leaders of the world's most prominent AI companies are being recruited for the Homeland Security Department's new advisory group. |
-|[.]() | |
-|[.]() | |
+|[OpenAI to use FT journalism to train artificial intelligence systems.](https://www.theguardian.com/media/2024/apr/29/chatgpt-openai-ft-journalism-train-artificial-intelligence-systems) | Under deal, ChatGPT users will receive summaries and quotes from Financial Times content and links to articles|
+|[Japan to trial AI bear warning system after record number of attacks.](https://www.theguardian.com/world/2024/apr/30/japan-to-trial-ai-bear-warning-system-after-record-number-of-attacks) |Six people have been killed and more than 200 injured in attacks by bears over the past year |
 |[.]() | |
 |[.]() | |
 |[.]() | |
