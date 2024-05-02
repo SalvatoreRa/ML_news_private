@@ -125,8 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[phospho: Text Analytics Platform for LLM Apps.](https://github.com/phospho-app/phospho) | Phospho is the text analytics platform for LLM apps. Detect issues and extract insights from text messages of your users or your app. Gather user feedback and measure success. Iterate on your app to create the best conversational experience for your users.|
 |[FlowTestAI.](https://github.com/FlowTestAI/FlowTest) | The world's first open-source, GenAI-powered Integrated Development Environment (IDE) created especially for creating, visualizing, and overseeing API-first workflows is called FlowTestAI.|
 |[A transformer walk-through, with Gemma.](https://graphcore-research.github.io/posts/gemma/) |Understanding the Transformer is an endeavor that often takes several tries. This blog post walks through the Gemma architecture and explains everything in detail. It is clear and has code and figures. |
-|[.]() | |
-|[.]() | |
+|[Vibe-Eval: A new open and hard evaluation suite for measuring progress of multimodal language models.](https://www.reka.ai/news/vibe-eval) |Vibe-Eval is comprised of 269 ultra high quality image-text prompts and their ground truth responses. The quality of prompts and responses has been extensively checked multiple times by our team. Moreover, Vibe-Eval was designed to be difficult, challenging even to the current frontier models, and to induce greater separability among frontier-class models. |
+|[RALM_Survey.](https://github.com/2471023025/ralm_survey) | This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
