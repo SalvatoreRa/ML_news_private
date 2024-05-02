@@ -53,9 +53,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Learning Invariant Representations of Graph Neural Networks via Cluster Generalization.](https://arxiv.org/abs/2403.03599v1) |A novel technique called Cluster Information Transfer (CIT) mechanism is intended to improve Graph Neural Networks' (GNNs') ability to adapt to various and dynamic graph architectures. |
 |[Meta-Prompting.](https://github.com/suzgunmirac/meta-prompting) | Using a technique called meta-prompting, a single language model can become a multi-skilled team. By decomposing intricate activities into smaller components that are managed by specialized instances of the same model, this technique greatly enhances performance on a variety of tasks.|
 |[KAN: Kolmogorov-Arnold Networks.](https://arxiv.org/abs/2404.19756) |Today's AI makes extensive use of multi-layer perceptrons, notably in the Transformer that connects the attention levels. They do, nevertheless, employ set activation functions. This study proposes to use the Kolmogorov-Arnold representation to apply learnt activation functions on edges (functions can be represented by a superposition of smaller functions). Here, the researchers use splines in place of weights. Although the building is far more intricate, it has some intriguing characteristics that might help with interpretation. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Lightplane: Highly-Scalable Components for Neural 3D Fields.](https://lightplane.github.io/) | With a new technique, 2D-3D mappings can significantly minimize memory usage by using Lightplane Renderer and Splatter components. The Lightplane Splatter effectively projects these images into 3D Hash structures after the Lightplane Renderer expertly creates images from neural 3D fields.|
+|[CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation.](https://arxiv.org/abs/2404.19394v1) |The new Mamba model, trained using contrastive language-image pretraining (CLIP), shows impressive efficiency and performance in zero-shot image classification. |
+|[MicroDreamer.](https://github.com/ml-gsai/microdreamer) |Scientists have created a novel 3D creation method called MicroDreamer that greatly speeds up the procedure by lowering the quantity of function evaluations needed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[This AI startup backed by Nvidia is now worth $19 billion.](https://www.marketwatch.com/story/this-ai-startup-backed-by-nvidia-is-now-worth-19-billion-ac240ea0) | Nvidia Corp.-backed AI startup CoreWeave has nearly tripled in value to $19 billion following its latest round of funding. CoreWeave, which rents out chips housed in data centers across the U.S. that customers use to create and deploy AI systems, raised $642 million from investors in its prior funding round.|
 |[How Field AI Is Conquering Unstructured Autonomy .](https://spectrum.ieee.org/autonomy-unstructured-field-ai) | One of the biggest challenges for robotics right now is practical autonomous operation in unstructured environments. But over the past few years, this has started to change, thanks in large part to a couple of pivotal robotics challenges put on by DARPA. The DARPA Subterranean Challenge ran from 2018 to 2021, putting mobile robots through a series of unstructured underground environments.|
 |[Amazon Q, a generative AI-powered assistant for businesses and developers.](https://www.aboutamazon.com/news/aws/amazon-q-generative-ai-assistant-aws) |With the use of a company's internal data, AWS has introduced Amazon Q, a generative AI assistant designed to enhance software development and decision-making. With natural language interaction, Amazon Q provides data-driven help for business users and makes coding, testing, and app development easier for developers. Amazon Q Apps is another feature of the service that makes it possible to create unique AI apps without any coding experience. |
-|[.]() | |
-|[.]() | |
+|[GPT-2?](https://rentry.co/GPT2) |There have been rumors that the enigmatic gpt2-chatbot AI model, which resembles GPT-4.5 in some ways, is an unofficial OpenAI test for their upcoming version when it surfaced on lmsys.org. Important indicators including answer quality, features unique to OpenAI, and rate limits point to a high degree of sophistication and could be signs of an OpenAI-led covert benchmarking project. The AI community is still looking into and debating the origins and capabilities of the gpt2-chatbot. |
+|[OpenAI's GPT-4 can exploit real vulnerabilities by reading security advisories.](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/) | AI agents, which combine large language models with automation software, can successfully exploit real world security vulnerabilities by reading security advisories, academics have claimed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,8 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A transformer walk-through, with Gemma.](https://graphcore-research.github.io/posts/gemma/) |Understanding the Transformer is an endeavor that often takes several tries. This blog post walks through the Gemma architecture and explains everything in detail. It is clear and has code and figures. |
 |[Vibe-Eval: A new open and hard evaluation suite for measuring progress of multimodal language models.](https://www.reka.ai/news/vibe-eval) |Vibe-Eval is comprised of 269 ultra high quality image-text prompts and their ground truth responses. The quality of prompts and responses has been extensively checked multiple times by our team. Moreover, Vibe-Eval was designed to be difficult, challenging even to the current frontier models, and to induce greater separability among frontier-class models. |
 |[RALM_Survey.](https://github.com/2471023025/ralm_survey) | This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. |
-|[.]() | |
-|[.]() | |
+|[NousResearch/Hermes-2-Pro-Llama-3-8B.](https://huggingface.co/NousResearch/Hermes-2-Pro-Llama-3-8B) | The next iteration of Hermes, which was trained on a freshly cleaned dataset atop Llama 3, is now accessible. This model would be a valuable agent since it is very good at invoking functions.|
+|[databonsai.](https://github.com/databonsai/databonsai) |databonsai is a Python library that uses LLMs to perform data cleaning tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The demise of Twitter: how a ‘utopian vision’ for social media became a ‘toxic mess’.](https://www.theguardian.com/technology/2024/apr/28/the-demise-of-twitter-how-a-utopian-vision-for-social-media-became-a-toxic-mess) | In the early days it was seen as a place for ‘genuine public discourse’, but users have fled since Elon Musk took over. What went wrong?|
 |[AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/) |This article offers a critical analysis of artificial intelligence (AI) and machine learning, contending that although these technologies can be helpful for specific tasks, they frequently fall short of the lofty claims made by AI businesses.  |
 |[Binding Public Sector AI Diffusion.](https://digitalspirits.substack.com/p/binding-public-sector-ai-diffusion) | The public sector is the target of the OMB's new AI executive order policy, which could significantly hamper AI progress owing to bureaucratic roadblocks and strict safety regulations. The rules, which are being implemented in the face of declining IT funding, have the potential to stall initiatives that are essential to updating government services in addition to slowing the adoption of AI. Opponents fear that these limitations, in addition to funding reductions, may make it impossible for agencies to stay up with technology advancements in industries like healthcare.|
-|[.]() | |
+|[A.I. Start-Ups Face a Rough Financial Reality Check.](https://www.nytimes.com/2024/04/29/technology/ai-startups-financial-reality.html) | The table stakes for small companies to compete with the likes of Microsoft and Google are in the billions of dollars. And even that may not be enough.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
