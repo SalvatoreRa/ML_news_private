@@ -76,6 +76,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Japan to trial AI bear warning system after record number of attacks.](https://www.theguardian.com/world/2024/apr/30/japan-to-trial-ai-bear-warning-system-after-record-number-of-attacks) |Six people have been killed and more than 200 injured in attacks by bears over the past year |
 |[Copilot Workspace.](https://githubnext.com/projects/copilot-workspace/) | A new effort to let language models complete features and address faults in a semi-autonomous manner has been revealed on GitHub.|
 |[OpenAI introduces "Memory" feature for ChatGPT Plus users.](https://the-decoder.com/openai-introduces-memory-feature-for-chatgpt-plus-users/) |OpenAI has enabled the "Memory" feature for all ChatGPT Plus users, the company announced via X. Memory allows users to tell ChatGPT things they want it to remember across chats. The feature can be turned on and off in the settings. |
+|[Intel brings quantum-computing microchips a step closer.](https://www.nature.com/articles/d41586-024-01208-z) |By adapting methods for fabricating and testing conventional computer chips, researchers have brought silicon-based quantum computers closer to reality — and to accessing the immense benefits of a mature chipmaking industry. |
+|[NATO is boosting AI and climate research as scientific diplomacy remains on ice.](https://www.nature.com/articles/d41586-024-01052-1) |As the military alliance created to counter the Soviet Union expands, it is prioritizing studies on how climate change affects security, cyberattacks and election interference. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
