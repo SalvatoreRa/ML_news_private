@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey on Vision Mamba: Models, Applications and Challenges.](https://arxiv.org/abs/2404.18861v1) | Without the computational limitations of conventional Transformers, the Mamba model represents a cutting-edge method that performs exceptionally well when handling lengthy sequences.|
 |[The cuda-checkpoint Utility.](https://github.com/NVIDIA/cuda-checkpoint) | a brand-new Nvidia toolbox that enables CUDA state checkpointing for resuming and transferring. Distributed training of very big AI models can benefit from it.|
 |[Friends Don't Let Friends Make Bad Graphs.](https://github.com/cxli233/FriendsDontLetFriends) |In the field of AI research nowadays, visualizing model evaluation scores is essential. But a lot of charts do a poor job of communicating the desired data. This repository includes some excellent charts as well as dos and don'ts for result visualization. |
-|[.]() | |
-|[.]() | |
+|[phospho: Text Analytics Platform for LLM Apps.](https://github.com/phospho-app/phospho) | Phospho is the text analytics platform for LLM apps. Detect issues and extract insights from text messages of your users or your app. Gather user feedback and measure success. Iterate on your app to create the best conversational experience for your users.|
+|[FlowTestAI.](https://github.com/FlowTestAI/FlowTest) | The world's first open-source, GenAI-powered Integrated Development Environment (IDE) created especially for creating, visualizing, and overseeing API-first workflows is called FlowTestAI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
