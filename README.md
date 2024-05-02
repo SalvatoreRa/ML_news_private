@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NATO is boosting AI and climate research as scientific diplomacy remains on ice.](https://www.nature.com/articles/d41586-024-01052-1) |As the military alliance created to counter the Soviet Union expands, it is prioritizing studies on how climate change affects security, cyberattacks and election interference. |
 |[ChatGPT’s chatbot rival Claude to be introduced on iPhone.](https://www.theguardian.com/technology/2024/may/01/chatgpt-chatbot-rival-claude-to-be-introduced-on-iphone) | Challenger to market leader OpenAI says it wants to ‘meet users where they are’ and become part of users’ everyday life|
 |[Amazon sales soar with boost from artificial intelligence and advertising.](https://www.theguardian.com/technology/2024/apr/30/amazon-sales-report-ai) |Revenue at Amazon Web Services increases to $25bn as retail giant releases earnings report surpassing Wall Street expectations |
-|[.]() | |
+|[Eight US newspapers sue OpenAI and Microsoft for copyright infringement.](https://www.theguardian.com/technology/2024/apr/30/us-newspaper-openai-lawsuit) | The Chicago Tribune, Denver Post and others file suit saying the tech companies ‘purloin millions’ of articles without permission|
 |[.]() | |
 |[.]() | |
 |[.]() | |
