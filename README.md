@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT’s chatbot rival Claude to be introduced on iPhone.](https://www.theguardian.com/technology/2024/may/01/chatgpt-chatbot-rival-claude-to-be-introduced-on-iphone) | Challenger to market leader OpenAI says it wants to ‘meet users where they are’ and become part of users’ everyday life|
 |[Amazon sales soar with boost from artificial intelligence and advertising.](https://www.theguardian.com/technology/2024/apr/30/amazon-sales-report-ai) |Revenue at Amazon Web Services increases to $25bn as retail giant releases earnings report surpassing Wall Street expectations |
 |[Eight US newspapers sue OpenAI and Microsoft for copyright infringement.](https://www.theguardian.com/technology/2024/apr/30/us-newspaper-openai-lawsuit) | The Chicago Tribune, Denver Post and others file suit saying the tech companies ‘purloin millions’ of articles without permission|
-|[.]() | |
+|[Apple poaches AI experts from Google, creates secretive European AI lab.](https://arstechnica.com/ai/2024/04/apple-poaches-ai-experts-from-google-creates-secretive-european-ai-lab/) |Apple has poached dozens of artificial intelligence experts from Google and has created a secretive European laboratory in Zurich, as the tech giant builds a team to battle rivals in developing new AI models and products. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Autodidax: JAX core from scratch.](https://jax.readthedocs.io/en/latest/autodidax.html) | Ever want to learn how JAX works, but the implementation seemed impenetrable? Well, you’re in luck! By reading this tutorial, you’ll learn every big idea in JAX’s core system. You’ll even get clued into our weird jargon!|
 |[cjpais/moondream2-llamafile.](https://huggingface.co/cjpais/moondream2-llamafile) |a completely standalone VLM executable with strong performance for its size that may be used on edge devices built on the Moondream 2 model. |
 |[The open-source language model computer.](https://github.com/OpenInterpreter/01) | The 01 Project is building an open-source ecosystem for AI devices.|
-|[.]() | |
+|[Meta Releases ExecuTorch Framework for LLM on Edge Devices.](https://pytorch.org/blog/executorch-alpha/) | A post-training quantization toolset called Meta's ExecuTorch Framework makes it possible to run Llama models on a variety of iPhone and Galaxy devices. On mobile devices with 7B-sized language models, it can obtain up to 11 tokens per second.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
