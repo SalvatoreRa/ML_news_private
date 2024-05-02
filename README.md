@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI introduces "Memory" feature for ChatGPT Plus users.](https://the-decoder.com/openai-introduces-memory-feature-for-chatgpt-plus-users/) |OpenAI has enabled the "Memory" feature for all ChatGPT Plus users, the company announced via X. Memory allows users to tell ChatGPT things they want it to remember across chats. The feature can be turned on and off in the settings. |
 |[Intel brings quantum-computing microchips a step closer.](https://www.nature.com/articles/d41586-024-01208-z) |By adapting methods for fabricating and testing conventional computer chips, researchers have brought silicon-based quantum computers closer to reality — and to accessing the immense benefits of a mature chipmaking industry. |
 |[NATO is boosting AI and climate research as scientific diplomacy remains on ice.](https://www.nature.com/articles/d41586-024-01052-1) |As the military alliance created to counter the Soviet Union expands, it is prioritizing studies on how climate change affects security, cyberattacks and election interference. |
-|[.]() | |
-|[.]() | |
+|[ChatGPT’s chatbot rival Claude to be introduced on iPhone.](https://www.theguardian.com/technology/2024/may/01/chatgpt-chatbot-rival-claude-to-be-introduced-on-iphone) | Challenger to market leader OpenAI says it wants to ‘meet users where they are’ and become part of users’ everyday life|
+|[Amazon sales soar with boost from artificial intelligence and advertising.](https://www.theguardian.com/technology/2024/apr/30/amazon-sales-report-ai) |Revenue at Amazon Web Services increases to $25bn as retail giant releases earnings report surpassing Wall Street expectations |
 |[.]() | |
 |[.]() | |
 |[.]() | |
