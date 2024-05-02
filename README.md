@@ -49,10 +49,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open Gato Replication: JAT.](https://huggingface.co/blog/jat) | DeepMind's GATO was hailed as a generalist agent. JAT is a Jack-of-All-Trades model that has been trained and assessed by a team affiliated with Hugging Face. It has demonstrated reasonable performance across an extensive range of tasks.|
 |[FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design.](https://arxiv.org/abs/2401.14112) |Although it can be unstable, reducing floating point precision speeds up training. This work demonstrates that without common instabilities or slowdowns from naive approaches, full tensor core usage may be achieved in a new packing structure. |
 |[StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation.](https://huggingface.co/blog/sc2-instruct) | Both synthetic and human data are used to train this model. With a permissive license, it receives a humaneval score of 72.6. The creators provide excellent details on how to duplicate their data pipeline and apply the concepts to other issues where the use of synthetic data may be beneficial.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Efficient Inverted Indexes for Approximate Retrieval over Learned Sparse Representations.](https://arxiv.org/abs/2404.18812v1) | Using trained sparse embeddings, Seismic is a novel way to organize inverted indexes that greatly improves text retrieval speed and accuracy.|
+|[Learning Invariant Representations of Graph Neural Networks via Cluster Generalization.](https://arxiv.org/abs/2403.03599v1) |A novel technique called Cluster Information Transfer (CIT) mechanism is intended to improve Graph Neural Networks' (GNNs') ability to adapt to various and dynamic graph architectures. |
+|[Meta-Prompting.](https://github.com/suzgunmirac/meta-prompting) | Using a technique called meta-prompting, a single language model can become a multi-skilled team. By decomposing intricate activities into smaller components that are managed by specialized instances of the same model, this technique greatly enhances performance on a variety of tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,8 +118,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[cjpais/moondream2-llamafile.](https://huggingface.co/cjpais/moondream2-llamafile) |a completely standalone VLM executable with strong performance for its size that may be used on edge devices built on the Moondream 2 model. |
 |[The open-source language model computer.](https://github.com/OpenInterpreter/01) | The 01 Project is building an open-source ecosystem for AI devices.|
 |[Meta Releases ExecuTorch Framework for LLM on Edge Devices.](https://pytorch.org/blog/executorch-alpha/) | A post-training quantization toolset called Meta's ExecuTorch Framework makes it possible to run Llama models on a variety of iPhone and Galaxy devices. On mobile devices with 7B-sized language models, it can obtain up to 11 tokens per second.|
-|[.]() | |
-|[.]() | |
+|[A Survey on Vision Mamba: Models, Applications and Challenges.](https://arxiv.org/abs/2404.18861v1) | Without the computational limitations of conventional Transformers, the Mamba model represents a cutting-edge method that performs exceptionally well when handling lengthy sequences.|
+|[The cuda-checkpoint Utility.](https://github.com/NVIDIA/cuda-checkpoint) | a brand-new Nvidia toolbox that enables CUDA state checkpointing for resuming and transferring. Distributed training of very big AI models can benefit from it.|
+|[Friends Don't Let Friends Make Bad Graphs.](https://github.com/cxli233/FriendsDontLetFriends) |In the field of AI research nowadays, visualizing model evaluation scores is essential. But a lot of charts do a poor job of communicating the desired data. This repository includes some excellent charts as well as dos and don'ts for result visualization. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
