@@ -56,8 +56,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lightplane: Highly-Scalable Components for Neural 3D Fields.](https://lightplane.github.io/) | With a new technique, 2D-3D mappings can significantly minimize memory usage by using Lightplane Renderer and Splatter components. The Lightplane Splatter effectively projects these images into 3D Hash structures after the Lightplane Renderer expertly creates images from neural 3D fields.|
 |[CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation.](https://arxiv.org/abs/2404.19394v1) |The new Mamba model, trained using contrastive language-image pretraining (CLIP), shows impressive efficiency and performance in zero-shot image classification. |
 |[MicroDreamer.](https://github.com/ml-gsai/microdreamer) |Scientists have created a novel 3D creation method called MicroDreamer that greatly speeds up the procedure by lowering the quantity of function evaluations needed. |
-|[.]() | |
-|[.]() | |
+|[Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey.](https://arxiv.org/abs/2405.00314v1) | This paper explores how optimized hardware combined with algorithmic modifications can improve the performance of ViTs, especially via model quantization.|
+|[Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket.](https://arxiv.org/abs/2401.02020v1) |Spikformer V2 blends the biological efficacy of Spiking Neural Nets (SNNs) with the self-attention mechanism. This novel model improves its energy-efficient visual feature processing through the use of a Convolutional Stem and a Spiking Self-Attention mechanism. |
+|[Full-frequency dynamic convolution: a physical frequency-dependent convolution for sound event detection.](https://arxiv.org/abs/2401.04976v1) | A novel technique called Full-Frequency Dynamic Convolution (FFDConv) improves 2D convolution for sound event identification. FFDConv increases sound event detection accuracy by creating distinct frequency kernels for every band, particularly with regard to the frequency properties of the sounds.|
+|[Boosting Segment Anything Model with Adversarial Tuning.](https://asam2024.github.io/) | One well-known foundation model in computer vision, Meta AI's Segment Anything Model (SAM), performs well at image segmentation but poorly in other domains. This project introduces ASAM, a performance-enhancing adversarial tuning based reinforcement learning algorithm on top of SAM. |
+|[SUNDAE: Spectrally Pruned Gaussian Fields with Neural Compensation.](https://runyiyang.github.io/projects/SUNDAE/) |This work presents SUNDAE, a novel technique that uses neural compensation and spectral pruning to improve memory efficiency.|
+|[Long-Context Data Engineering.](https://github.com/franxyao/long-context-data-engineering) | The technique presented in this work allows language models to be greatly extended to context lengths of up to 128K, highlighting the significance of training data diversity and quantity.|
+|[StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.](https://github.com/ironjr/StreamMultiDiffusion) |StreamMultiDiffusion is a framework that enables real-time region-based text-to-image generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,11 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPT-2?](https://rentry.co/GPT2) |There have been rumors that the enigmatic gpt2-chatbot AI model, which resembles GPT-4.5 in some ways, is an unofficial OpenAI test for their upcoming version when it surfaced on lmsys.org. Important indicators including answer quality, features unique to OpenAI, and rate limits point to a high degree of sophistication and could be signs of an OpenAI-led covert benchmarking project. The AI community is still looking into and debating the origins and capabilities of the gpt2-chatbot. |
 |[OpenAI's GPT-4 can exploit real vulnerabilities by reading security advisories.](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/) | AI agents, which combine large language models with automation software, can successfully exploit real world security vulnerabilities by reading security advisories, academics have claimed.|
 |[Apple reports slumping iPhone sales as global demand weakens.](https://www.theguardian.com/technology/article/2024/may/02/apple-earnings-iphone-sales-decrease) | iPhone sales fell 10% compared with the same time period last year, but the company still beat Wall Street’s expectations|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Microsoft bans US police departments from using enterprise AI tool for facial recognition.](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-azure-openai-facial-recognition/) |Microsoft has reaffirmed its ban on U.S. police departments from using generative AI for facial recognition through Azure OpenAI Service, the company’s fully managed, enterprise-focused wrapper around OpenAI tech. |
+|[Meta plans to build $800 million, next-generation data center in Montgomery.](https://www.madeinalabama.com/2024/05/meta-plans-to-build-800-million-next-generation-data-center-in-montgomery/) | MONTGOMERY, Alabama — Governor Kay Ivey announced today that technology company Meta Platforms plans to open an $800 million data center in Alabama’s capital city that will support 100 operational jobs and build on the company’s previous investment in the state.|
 |[.]() | |
 |[.]() | |
 
@@ -128,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RALM_Survey.](https://github.com/2471023025/ralm_survey) | This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies according to according to our survey paper: RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing . In this repository, we will present the most central research approach of our thesis as well as keep up-to-date with work on RALM in the most accessible way possible. |
 |[NousResearch/Hermes-2-Pro-Llama-3-8B.](https://huggingface.co/NousResearch/Hermes-2-Pro-Llama-3-8B) | The next iteration of Hermes, which was trained on a freshly cleaned dataset atop Llama 3, is now accessible. This model would be a valuable agent since it is very good at invoking functions.|
 |[databonsai.](https://github.com/databonsai/databonsai) |databonsai is a Python library that uses LLMs to perform data cleaning tasks. |
-|[.]() | |
+|[InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions.](https://github.com/nttmdlab-nlp/instructdoc) | The InstructDr model is engineered to perform exceptionally well in a range of visual document interpretation tasks, including information extraction and question answering. Through the use of big language models combined with document images, InstructDr can outperform existing models and adapt to new tasks and datasets.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,8 +152,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Federated learning is not a cure-all for data ethics.](https://www.nature.com/articles/s42256-024-00813-x) |Although federated learning is often seen as a promising solution to allow AI innovation while addressing privacy concerns, we argue that this technology does not fix all underlying data ethics concerns. Benefiting from federated learning in digital health requires acknowledgement of its limitations. |
 |[How scholars armed with cutting-edge technology are unfurling secrets of ancient scrolls.](https://www.theguardian.com/books/article/2024/may/03/how-scholars-armed-with-cutting-edge-technology-are-unfurling-secrets-of-ancient-scrolls) |Researchers and Silicon Valley are using tools powered by AI to uncover lives of ancient philosophers |
 |[Friends From the Old Neighborhood Turn Rivals in Big Tech’s A.I. Race.](https://www.nytimes.com/2024/04/29/technology/ai-google-microsoft.html) | Demis Hassabis and Mustafa Suleyman, who both grew up in London, feared a corporate rush to build artificial intelligence. Now they’re driving that competition at Google and Microsoft.|
-|[.]() | |
-|[.]() | |
+|[The Great Talent Dividend and NYC's AI Opportunity.](https://www.luxcapital.com/news/the-great-talent-dividend-and-nycs-ai-opportunity) |NYC's leadership in AI is a testament to its rich talent pool and expanding stature as a hub for AI. Tech professionals and AI unicorns have been drawn to NYC's tech ecosystem. Resources such as top institutions and a $400 million fund from the AI Research Consortium power it. |
+|[How AI apps make money.](https://www.growthunhinged.com/p/how-ai-apps-make-money) |With an emphasis on per-user fees, most AI apps have embraced traditional subscription-based pricing models in recent years, reflecting their function as digital assistants rather than human worker replacements. Newer AI companies are starting to use creative pricing techniques, like outcome-based models, which charge only for good outcomes, potentially increasing client adoption and revenue.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
