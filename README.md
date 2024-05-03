@@ -62,7 +62,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -150,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The curious case of the test set AUROC.](https://www.nature.com/articles/s42256-024-00817-7) |The area under the receiver operating characteristic curve (AUROC) of the test set is used throughout machine learning (ML) for assessing a model’s performance. However, when concordance is not the only ambition, this gives only a partial insight into performance, masking distribution shifts of model outputs and model instability. |
 |[Federated learning is not a cure-all for data ethics.](https://www.nature.com/articles/s42256-024-00813-x) |Although federated learning is often seen as a promising solution to allow AI innovation while addressing privacy concerns, we argue that this technology does not fix all underlying data ethics concerns. Benefiting from federated learning in digital health requires acknowledgement of its limitations. |
 |[How scholars armed with cutting-edge technology are unfurling secrets of ancient scrolls.](https://www.theguardian.com/books/article/2024/may/03/how-scholars-armed-with-cutting-edge-technology-are-unfurling-secrets-of-ancient-scrolls) |Researchers and Silicon Valley are using tools powered by AI to uncover lives of ancient philosophers |
-|[.]() | |
+|[Friends From the Old Neighborhood Turn Rivals in Big Tech’s A.I. Race.](https://www.nytimes.com/2024/04/29/technology/ai-google-microsoft.html) | Demis Hassabis and Mustafa Suleyman, who both grew up in London, feared a corporate rush to build artificial intelligence. Now they’re driving that competition at Google and Microsoft.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
