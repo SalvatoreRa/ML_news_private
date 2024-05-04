@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Friends From the Old Neighborhood Turn Rivals in Big Tech’s A.I. Race.](https://www.nytimes.com/2024/04/29/technology/ai-google-microsoft.html) | Demis Hassabis and Mustafa Suleyman, who both grew up in London, feared a corporate rush to build artificial intelligence. Now they’re driving that competition at Google and Microsoft.|
 |[The Great Talent Dividend and NYC's AI Opportunity.](https://www.luxcapital.com/news/the-great-talent-dividend-and-nycs-ai-opportunity) |NYC's leadership in AI is a testament to its rich talent pool and expanding stature as a hub for AI. Tech professionals and AI unicorns have been drawn to NYC's tech ecosystem. Resources such as top institutions and a $400 million fund from the AI Research Consortium power it. |
 |[How AI apps make money.](https://www.growthunhinged.com/p/how-ai-apps-make-money) |With an emphasis on per-user fees, most AI apps have embraced traditional subscription-based pricing models in recent years, reflecting their function as digital assistants rather than human worker replacements. Newer AI companies are starting to use creative pricing techniques, like outcome-based models, which charge only for good outcomes, potentially increasing client adoption and revenue.|
-|[.]() | |
+|[Danger and opportunity for news industry as AI woos it for vital human-written copy.](https://www.theguardian.com/media/article/2024/may/04/danger-and-opportunity-for-news-industry-as-ai-woos-it-for-vital-human-written-copy) | With large language models needing quality data, some publishers are offering theirs at a price while others are blocking access|
 |[.]() | |
 |[.]() | |
 |[.]() | |
