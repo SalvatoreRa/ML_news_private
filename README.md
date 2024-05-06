@@ -45,7 +45,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mantis: Interleaved Multi-Image Instruction Tuning.](https://tiger-ai-lab.github.io/Mantis/) |A newly developed dataset and trained visual language model that allow for better instruction over a series of images. |
 |[FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials.](https://arxiv.org/abs/2405.01491v1) | A state-of-the-art library called FeNNol makes it easier to create and use hybrid neural network potentials in molecular simulations.|
 |[Spider: A Unified Framework for Context-dependent Concept Understanding.](https://arxiv.org/abs/2405.01002v1) |Spider is a revolutionary unified paradigm intended to improve comprehension of context-dependent (CD) concepts that rely largely on visual context, like medical lesions and items concealed in the environment. |
-|[.]() | |
+|[Frequency-mixed Single-source Domain Generalization for Medical Image Segmentation.](https://github.com/liamheng/non-iid_medical_image_segmentation) | A novel algorithm known as RaffeSDG has been created by researchers to enhance the precision of medical imaging models when evaluating data from various sources.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Prometheus-Eval.](https://github.com/prometheus-eval/prometheus-eval) |GPT-4 is a widely used performance benchmark for evaluating generation quality. Built upon Mistral, Prometheus is a model that excels at this particular purpose. |
-|[.]() | |
+|[Bonito.](https://github.com/BatsResearch/bonito) |Bonito is an open-source model for conditional task generation: the task of converting unannotated text into task-specific training datasets for instruction tuning. This repo is a lightweight library for Bonito to easily create synthetic datasets built on top of the Hugging Face transformers and vllm libraries. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[From Baby Talk to Baby A.I.](https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html) |Could a better understanding of how infants acquire language help us build smarter A.I. models? |
-|[.]() | |
+|[The AI Hardware Dilemma.](https://every.to/napkin-math/the-ai-hardware-dilemma) |Even while recent AI-powered hardware releases, such as the Humane Pin and Rabbit R1, have drawn criticism, the industry is still receiving a lot of venture capital investment, and well-known individuals like Sam Altman are considering making sizable investments. The appeal is in AI's ability to transform consumer hardware through innovative use of sensors, silicon, and interfaces. Though hardware startups find it difficult to compete with well-established tech giants, AI still needs to evolve, making it difficult to provide a compelling alternative to flexible smartphones. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
