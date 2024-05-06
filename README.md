@@ -42,9 +42,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mantis: Interleaved Multi-Image Instruction Tuning.](https://tiger-ai-lab.github.io/Mantis/) |A newly developed dataset and trained visual language model that allow for better instruction over a series of images. |
+|[FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials.](https://arxiv.org/abs/2405.01491v1) | A state-of-the-art library called FeNNol makes it easier to create and use hybrid neural network potentials in molecular simulations.|
+|[Spider: A Unified Framework for Context-dependent Concept Understanding.](https://arxiv.org/abs/2405.01002v1) |Spider is a revolutionary unified paradigm intended to improve comprehension of context-dependent (CD) concepts that rely largely on visual context, like medical lesions and items concealed in the environment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Prometheus-Eval.](https://github.com/prometheus-eval/prometheus-eval) |GPT-4 is a widely used performance benchmark for evaluating generation quality. Built upon Mistral, Prometheus is a model that excels at this particular purpose. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
