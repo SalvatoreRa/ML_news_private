@@ -61,8 +61,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Lamini Raises $25M For Enterprises To Develop Top LLMs In-House.](https://www.lamini.ai/blog/series-a) | Software teams within enterprises can now create new LLM capabilities that lessen hallucinations on proprietary data, run their LLMs securely from cloud VPCs to on-premise, and scale their infrastructure with model evaluations that put ROI and business outcomes ahead of hype thanks to Lamini, an Enterprise AI platform. Amplify Partners led a $25 million Series A financing round.|
+|[Microsoft-backed OpenAI may launch search, taking on Google's 'biggest product'.](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-backed-openai-may-launch-search-taking-on-googles-biggest-product/articleshow/109794140.cms) |Speculations in the tech world suggest that OpenAI is gearing up for a major announcement, possibly a new search engine. According to Jimmy Apples, who reports the claim as an insider, the company is planning an event this month (May), tentatively scheduled for May 9, 2024, at 10 am. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[From Baby Talk to Baby A.I.](https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html) |Could a better understanding of how infants acquire language help us build smarter A.I. models? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
