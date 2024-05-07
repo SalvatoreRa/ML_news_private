@@ -72,6 +72,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[An AI-controlled fighter jet took the Air Force leader for a historic ride. What that means for war.](https://apnews.com/article/artificial-intelligence-fighter-jets-air-force-6a1100c96a73ca9b7f41cbd6a2753fda) |AI marks one of the biggest advances in military aviation since the introduction of stealth in the early 1990s, and the Air Force has aggressively leaned in. Even though the technology is not fully developed, the service is planning for an AI-enabled fleet of more than 1,000 unmanned warplanes, the first of them operating by 2028. |
 |[Stack Overflow and OpenAI Partner to Strengthen the World’s Most Popular Large Language Models.](https://stackoverflow.co/company/press/archive/openai-partnership) |ack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technical content with the world’s most popular LLM models for AI development. |
 |[Elon Musk’s Plan For AI News.](https://www.bigtechnology.com/p/elon-musks-plan-for-ai-news) |Musk emails with details on AI-powered news inside X. An AI bot will summarize news and commentary, sometimes looking through tens of thousands of posts per story. |
+|[Microsoft says it did a lot for responsible AI in inaugural transparency report.](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario) |The report covers its responsible AI achievements in 2023 but doesn’t talk about Mario flying a plane to the Twin Towers. |
+|[Cohere’s Command R Model Family is Now Available In Amazon Bedrock.](https://cohere.com/blog/command-r-on-amazon-bedrock) | Command R model family is now available in Amazon Bedrock. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,6 +106,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Vibe-Eval.](https://github.com/reka-ai/reka-vibe-eval) | A benchmark for evaluating multimodal chat models, including especially challenging examples.|
 |[DeepSeek-V2-Chat.](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat) | DeepSeek-V2, a strong Mixture-of-Experts (MoE) language model characterized by economical training and efficient inference. It comprises 236B total parameters, of which 21B are activated for each token. Compared with DeepSeek 67B, DeepSeek-V2 achieves stronger performance, and meanwhile saves 42.5% of training costs, reduces the KV cache by 93.3%, and boosts the maximum generation throughput to 5.76 times.|
 |[Visual Reasoning Benchmark.](https://github.com/apple/ml-rpm-bench) | Language-Vision The ability of models to comprehend and interact with text and visuals is quickly developing, as demonstrated by GPT-4V. Their important limits in visual deductive thinking are revealed by a recent study. Using challenging visual puzzles similar to those in IQ testing, researchers assessed these models and found that they had trouble with multi-step reasoning and abstract pattern recognition.|
+|[AI Index: State of AI in 13 Charts.](https://hai.stanford.edu/news/ai-index-state-ai-13-chart) |In the new report, foundation models dominate, benchmarks fall, prices skyrocket, and on the global stage, the U.S. overshadows. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
