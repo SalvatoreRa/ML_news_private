@@ -48,8 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Frequency-mixed Single-source Domain Generalization for Medical Image Segmentation.](https://github.com/liamheng/non-iid_medical_image_segmentation) | A novel algorithm known as RaffeSDG has been created by researchers to enhance the precision of medical imaging models when evaluating data from various sources.|
 |[SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network.](https://arxiv.org/abs/2405.01927v1) |SlotGAT is a new approach that improves heterogeneous graph neural networks by addressing the semantic mixing issue in traditional message passing. |
 |[Frequency Masking for Universal Deepfake Detection.](https://arxiv.org/abs/2401.06506v1) |By concentrating on masked picture modeling, particularly in the frequency domain, this novel technique finds deepfakes. The strategy is different from conventional approaches and demonstrates a notable improvement in recognizing artificial images, even from recently developed AI generative techniques. |
-|[.]() | |
-|[.]() | |
+|[Auto-Encoding Morph-Tokens for Multimodal LLM.](https://github.com/dcdmllm/morphtokens) | Researchers have created "Morph-Tokens" to enhance AI's capacity for image creation and visual comprehension. These tokens take advantage of the sophisticated processing capabilities of the MLLM framework to convert abstract notions required for comprehension into intricate graphics for image creation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,9 +93,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Realtime Video Stream Analysis with Computer Vision.](https://blog.roboflow.com/video-stream-analysis/) |This in-depth article shows you how to create a system that generates reports on the density of vehicle traffic. It counts cars over time using state-of-the-art computer vision. |
 |[DOCCI - Descriptions of Connected and Contrasting Images.](https://google.github.io/docci/) | A great new dataset from Google that contains detailed and comprehensive labels.|
 |[Unsloth.ai: Easily finetune & train LLMs.](https://www.youtube.com/watch?v=MQwryfkydc0&t=46s&ab_channel=EdwardZ.Yang%27sPyTorchandPL) | An animation by Unsloth's founder demonstrating how the team builds kernels, designs API surfaces, and utilizes PyTorch. The framework and library of Unsloth are incredibly robust and user-friendly.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LeRobot.](https://github.com/huggingface/lerobot) | LeRobot aims to provide models, datasets, and tools for real-world robotics in PyTorch. The goal is to lower the barrier to entry to robotics so that everyone can contribute and benefit from sharing datasets and pretrained models. LeRobot contains state-of-the-art approaches that have been shown to transfer to the real-world with a focus on imitation learning and reinforcement learning.|
+|[Vibe-Eval.](https://github.com/reka-ai/reka-vibe-eval) | A benchmark for evaluating multimodal chat models, including especially challenging examples.|
+|[DeepSeek-V2-Chat.](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat) | DeepSeek-V2, a strong Mixture-of-Experts (MoE) language model characterized by economical training and efficient inference. It comprises 236B total parameters, of which 21B are activated for each token. Compared with DeepSeek 67B, DeepSeek-V2 achieves stronger performance, and meanwhile saves 42.5% of training costs, reduces the KV cache by 93.3%, and boosts the maximum generation throughput to 5.76 times.|
+|[Visual Reasoning Benchmark.](https://github.com/apple/ml-rpm-bench) | Language-Vision The ability of models to comprehend and interact with text and visuals is quickly developing, as demonstrated by GPT-4V. Their important limits in visual deductive thinking are revealed by a recent study. Using challenging visual puzzles similar to those in IQ testing, researchers assessed these models and found that they had trouble with multi-step reasoning and abstract pattern recognition.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[From Baby Talk to Baby A.I.](https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html) |Could a better understanding of how infants acquire language help us build smarter A.I. models? |
 |[The AI Hardware Dilemma.](https://every.to/napkin-math/the-ai-hardware-dilemma) |Even while recent AI-powered hardware releases, such as the Humane Pin and Rabbit R1, have drawn criticism, the industry is still receiving a lot of venture capital investment, and well-known individuals like Sam Altman are considering making sizable investments. The appeal is in AI's ability to transform consumer hardware through innovative use of sensors, silicon, and interfaces. Though hardware startups find it difficult to compete with well-established tech giants, AI still needs to evolve, making it difficult to provide a compelling alternative to flexible smartphones. |
-|[.]() | |
+|[AI Prompt Engineering Is Dead.](https://spectrum.ieee.org/prompt-engineering-is-dead) |Automating prompt optimization for AI models points to more effective, model-driven prompt generation techniques in the future, possibly rendering human prompt engineering unnecessary. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
