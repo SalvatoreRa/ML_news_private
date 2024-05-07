@@ -63,8 +63,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lamini Raises $25M For Enterprises To Develop Top LLMs In-House.](https://www.lamini.ai/blog/series-a) | Software teams within enterprises can now create new LLM capabilities that lessen hallucinations on proprietary data, run their LLMs securely from cloud VPCs to on-premise, and scale their infrastructure with model evaluations that put ROI and business outcomes ahead of hype thanks to Lamini, an Enterprise AI platform. Amplify Partners led a $25 million Series A financing round.|
 |[Microsoft-backed OpenAI may launch search, taking on Google's 'biggest product'.](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-backed-openai-may-launch-search-taking-on-googles-biggest-product/articleshow/109794140.cms) |Speculations in the tech world suggest that OpenAI is gearing up for a major announcement, possibly a new search engine. According to Jimmy Apples, who reports the claim as an insider, the company is planning an event this month (May), tentatively scheduled for May 9, 2024, at 10 am. |
 |[An AI-controlled fighter jet took the Air Force leader for a historic ride. What that means for war.](https://apnews.com/article/artificial-intelligence-fighter-jets-air-force-6a1100c96a73ca9b7f41cbd6a2753fda) |AI marks one of the biggest advances in military aviation since the introduction of stealth in the early 1990s, and the Air Force has aggressively leaned in. Even though the technology is not fully developed, the service is planning for an AI-enabled fleet of more than 1,000 unmanned warplanes, the first of them operating by 2028. |
-|[.]() | |
-|[.]() | |
+|[Stack Overflow and OpenAI Partner to Strengthen the World’s Most Popular Large Language Models.](https://stackoverflow.co/company/press/archive/openai-partnership) |ack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technical content with the world’s most popular LLM models for AI development. |
+|[Elon Musk’s Plan For AI News.](https://www.bigtechnology.com/p/elon-musks-plan-for-ai-news) |Musk emails with details on AI-powered news inside X. An AI bot will summarize news and commentary, sometimes looking through tens of thousands of posts per story. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Penzai.](https://github.com/google-deepmind/penzai) |Penzai is a JAX library that provides clear, useful Pytree structures for training and interpreting models. It comes with a wide range of tools for component analysis, debugging, and model visualization. Penzai is easy to install and use, and it offers comprehensive tutorials for learning how to create and interact with neural networks. |
 |[Realtime Video Stream Analysis with Computer Vision.](https://blog.roboflow.com/video-stream-analysis/) |This in-depth article shows you how to create a system that generates reports on the density of vehicle traffic. It counts cars over time using state-of-the-art computer vision. |
 |[DOCCI - Descriptions of Connected and Contrasting Images.](https://google.github.io/docci/) | A great new dataset from Google that contains detailed and comprehensive labels.|
-|[.]() | |
+|[Unsloth.ai: Easily finetune & train LLMs.](https://www.youtube.com/watch?v=MQwryfkydc0&t=46s&ab_channel=EdwardZ.Yang%27sPyTorchandPL) | An animation by Unsloth's founder demonstrating how the team builds kernels, designs API surfaces, and utilizes PyTorch. The framework and library of Unsloth are incredibly robust and user-friendly.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
