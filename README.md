@@ -46,6 +46,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials.](https://arxiv.org/abs/2405.01491v1) | A state-of-the-art library called FeNNol makes it easier to create and use hybrid neural network potentials in molecular simulations.|
 |[Spider: A Unified Framework for Context-dependent Concept Understanding.](https://arxiv.org/abs/2405.01002v1) |Spider is a revolutionary unified paradigm intended to improve comprehension of context-dependent (CD) concepts that rely largely on visual context, like medical lesions and items concealed in the environment. |
 |[Frequency-mixed Single-source Domain Generalization for Medical Image Segmentation.](https://github.com/liamheng/non-iid_medical_image_segmentation) | A novel algorithm known as RaffeSDG has been created by researchers to enhance the precision of medical imaging models when evaluating data from various sources.|
+|[SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network.](https://arxiv.org/abs/2405.01927v1) |SlotGAT is a new approach that improves heterogeneous graph neural networks by addressing the semantic mixing issue in traditional message passing. |
+|[Frequency Masking for Universal Deepfake Detection.](https://arxiv.org/abs/2401.06506v1) |By concentrating on masked picture modeling, particularly in the frequency domain, this novel technique finds deepfakes. The strategy is different from conventional approaches and demonstrates a notable improvement in recognizing artificial images, even from recently developed AI generative techniques. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
