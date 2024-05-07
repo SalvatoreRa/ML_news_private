@@ -56,14 +56,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
 |---|---|
 |[Lamini Raises $25M For Enterprises To Develop Top LLMs In-House.](https://www.lamini.ai/blog/series-a) | Software teams within enterprises can now create new LLM capabilities that lessen hallucinations on proprietary data, run their LLMs securely from cloud VPCs to on-premise, and scale their infrastructure with model evaluations that put ROI and business outcomes ahead of hype thanks to Lamini, an Enterprise AI platform. Amplify Partners led a $25 million Series A financing round.|
 |[Microsoft-backed OpenAI may launch search, taking on Google's 'biggest product'.](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-backed-openai-may-launch-search-taking-on-googles-biggest-product/articleshow/109794140.cms) |Speculations in the tech world suggest that OpenAI is gearing up for a major announcement, possibly a new search engine. According to Jimmy Apples, who reports the claim as an insider, the company is planning an event this month (May), tentatively scheduled for May 9, 2024, at 10 am. |
-|[.]() | |
+|[An AI-controlled fighter jet took the Air Force leader for a historic ride. What that means for war.](https://apnews.com/article/artificial-intelligence-fighter-jets-air-force-6a1100c96a73ca9b7f41cbd6a2753fda) |AI marks one of the biggest advances in military aviation since the introduction of stealth in the early 1990s, and the Air Force has aggressively leaned in. Even though the technology is not fully developed, the service is planning for an AI-enabled fleet of more than 1,000 unmanned warplanes, the first of them operating by 2028. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -83,8 +82,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Prometheus-Eval.](https://github.com/prometheus-eval/prometheus-eval) |GPT-4 is a widely used performance benchmark for evaluating generation quality. Built upon Mistral, Prometheus is a model that excels at this particular purpose. |
 |[Bonito.](https://github.com/BatsResearch/bonito) |Bonito is an open-source model for conditional task generation: the task of converting unannotated text into task-specific training datasets for instruction tuning. This repo is a lightweight library for Bonito to easily create synthetic datasets built on top of the Hugging Face transformers and vllm libraries. |
-|[.]() | |
-|[.]() | |
+|[Penzai.](https://github.com/google-deepmind/penzai) |Penzai is a JAX library that provides clear, useful Pytree structures for training and interpreting models. It comes with a wide range of tools for component analysis, debugging, and model visualization. Penzai is easy to install and use, and it offers comprehensive tutorials for learning how to create and interact with neural networks. |
+|[Realtime Video Stream Analysis with Computer Vision.](https://blog.roboflow.com/video-stream-analysis/) |This in-depth article shows you how to create a system that generates reports on the density of vehicle traffic. It counts cars over time using state-of-the-art computer vision. |
+|[DOCCI - Descriptions of Connected and Contrasting Images.](https://google.github.io/docci/) | A great new dataset from Google that contains detailed and comprehensive labels.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
