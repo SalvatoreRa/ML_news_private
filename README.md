@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft says it did a lot for responsible AI in inaugural transparency report.](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario) |The report covers its responsible AI achievements in 2023 but doesn’t talk about Mario flying a plane to the Twin Towers. |
 |[Cohere’s Command R Model Family is Now Available In Amazon Bedrock.](https://cohere.com/blog/command-r-on-amazon-bedrock) | Command R model family is now available in Amazon Bedrock. |
 |[Fake Monet and Renoir on eBay among 40 counterfeits identified using AI.](https://www.theguardian.com/artanddesign/article/2024/may/08/fake-monet-and-renoir-on-ebay-among-counterfeits-identified-using-ai) |Paintings identified as fake using cutting-edge technology are ‘tip of the iceberg’ specialist Dr Carina Popovici says |
-|[.]() | |
+|[‘A chilling prospect’: should we be scared of AI contestants on reality shows?](https://www.theguardian.com/tv-and-radio/article/2024/may/07/the-circle-max-ai-netflix) |Netflix’s hit show The Circle recently introduced an AI chatbot contestant, a potentially worrying sign of where we’re heading |
 |[.]() | |
 |[.]() | |
 |[.]() | |
