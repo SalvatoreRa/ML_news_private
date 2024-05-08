@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk’s Plan For AI News.](https://www.bigtechnology.com/p/elon-musks-plan-for-ai-news) |Musk emails with details on AI-powered news inside X. An AI bot will summarize news and commentary, sometimes looking through tens of thousands of posts per story. |
 |[Microsoft says it did a lot for responsible AI in inaugural transparency report.](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario) |The report covers its responsible AI achievements in 2023 but doesn’t talk about Mario flying a plane to the Twin Towers. |
 |[Cohere’s Command R Model Family is Now Available In Amazon Bedrock.](https://cohere.com/blog/command-r-on-amazon-bedrock) | Command R model family is now available in Amazon Bedrock. |
-|[.]() | |
+|[Fake Monet and Renoir on eBay among 40 counterfeits identified using AI.](https://www.theguardian.com/artanddesign/article/2024/may/08/fake-monet-and-renoir-on-ebay-among-counterfeits-identified-using-ai) |Paintings identified as fake using cutting-edge technology are ‘tip of the iceberg’ specialist Dr Carina Popovici says |
 |[.]() | |
 |[.]() | |
 |[.]() | |
