@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SlotGAT: Slot-based Message Passing for Heterogeneous Graph Neural Network.](https://arxiv.org/abs/2405.01927v1) |SlotGAT is a new approach that improves heterogeneous graph neural networks by addressing the semantic mixing issue in traditional message passing. |
 |[Frequency Masking for Universal Deepfake Detection.](https://arxiv.org/abs/2401.06506v1) |By concentrating on masked picture modeling, particularly in the frequency domain, this novel technique finds deepfakes. The strategy is different from conventional approaches and demonstrates a notable improvement in recognizing artificial images, even from recently developed AI generative techniques. |
 |[Auto-Encoding Morph-Tokens for Multimodal LLM.](https://github.com/dcdmllm/morphtokens) | Researchers have created "Morph-Tokens" to enhance AI's capacity for image creation and visual comprehension. These tokens take advantage of the sophisticated processing capabilities of the MLLM framework to convert abstract notions required for comprehension into intricate graphics for image creation.|
-|[.]() | |
+|[Introducing AlphaFold 3.](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) | In a paper published in Nature, we introduce AlphaFold 3, a revolutionary model that can predict the structure and interactions of all life’s molecules with unprecedented accuracy. For the interactions of proteins with other molecule types we see at least a 50% improvement compared with existing prediction methods, and for some important categories of interaction we have doubled prediction accuracy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fake Monet and Renoir on eBay among 40 counterfeits identified using AI.](https://www.theguardian.com/artanddesign/article/2024/may/08/fake-monet-and-renoir-on-ebay-among-counterfeits-identified-using-ai) |Paintings identified as fake using cutting-edge technology are ‘tip of the iceberg’ specialist Dr Carina Popovici says |
 |[‘A chilling prospect’: should we be scared of AI contestants on reality shows?](https://www.theguardian.com/tv-and-radio/article/2024/may/07/the-circle-max-ai-netflix) |Netflix’s hit show The Circle recently introduced an AI chatbot contestant, a potentially worrying sign of where we’re heading |
 |[‘ChatGPT for CRISPR’ creates new gene-editing tools.](https://www.nature.com/articles/d41586-024-01243-w) | In the never-ending quest to discover previously unknown CRISPR gene-editing systems, researchers have scoured microbes in everything from hot springs and peat bogs to poo and even yogurt. Now, thanks to advances in generative artificial intelligence (AI), they might be able to design these systems with the push of a button.|
-|[.]() | |
-|[.]() | |
+|[Microsoft Working on ‘Far Larger’ In-House AI Model.](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/) | Microsoft is reportedly working on a new, in-house artificial intelligence (AI) model that is “far larger” than the other open source models it has trained.|
+|[Apple unveils M4: Its first chip made for AI from the ground up.](https://9to5mac.com/2024/05/07/apple-unveils-m4-chip-ai/) | Apple on Tuesday unveiled M4, the next generation of its Apple Silicon chip. Built with the 3 nanometer chip architecture, M4 is the first Apple chip to be built for AI from the ground up. M4 is the chip that powers the new generation iPad Pro and will soon be inside Macs |
 |[.]() | |
 |[.]() | |
 |[.]() | |
