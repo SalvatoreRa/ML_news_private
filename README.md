@@ -50,11 +50,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Frequency Masking for Universal Deepfake Detection.](https://arxiv.org/abs/2401.06506v1) |By concentrating on masked picture modeling, particularly in the frequency domain, this novel technique finds deepfakes. The strategy is different from conventional approaches and demonstrates a notable improvement in recognizing artificial images, even from recently developed AI generative techniques. |
 |[Auto-Encoding Morph-Tokens for Multimodal LLM.](https://github.com/dcdmllm/morphtokens) | Researchers have created "Morph-Tokens" to enhance AI's capacity for image creation and visual comprehension. These tokens take advantage of the sophisticated processing capabilities of the MLLM framework to convert abstract notions required for comprehension into intricate graphics for image creation.|
 |[Introducing AlphaFold 3.](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) | In a paper published in Nature, we introduce AlphaFold 3, a revolutionary model that can predict the structure and interactions of all life’s molecules with unprecedented accuracy. For the interactions of proteins with other molecule types we see at least a 50% improvement compared with existing prediction methods, and for some important categories of interaction we have doubled prediction accuracy.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ImageInWords: Unlocking Hyper-Detailed Image Descriptions.](https://arxiv.org/abs/2405.02793) | |
+|[Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer.](https://arxiv.org/abs/2405.04312v1) | |
+|[DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks.](https://github.com/zzzhang-jx/docres) | |
+|[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving.](https://hanlab.mit.edu/projects/qserve) | |
+|[Navigating Chemical Space with Latent Flows.](https://arxiv.org/abs/2405.03987v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
