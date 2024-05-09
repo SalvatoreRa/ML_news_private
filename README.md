@@ -50,11 +50,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Frequency Masking for Universal Deepfake Detection.](https://arxiv.org/abs/2401.06506v1) |By concentrating on masked picture modeling, particularly in the frequency domain, this novel technique finds deepfakes. The strategy is different from conventional approaches and demonstrates a notable improvement in recognizing artificial images, even from recently developed AI generative techniques. |
 |[Auto-Encoding Morph-Tokens for Multimodal LLM.](https://github.com/dcdmllm/morphtokens) | Researchers have created "Morph-Tokens" to enhance AI's capacity for image creation and visual comprehension. These tokens take advantage of the sophisticated processing capabilities of the MLLM framework to convert abstract notions required for comprehension into intricate graphics for image creation.|
 |[Introducing AlphaFold 3.](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) | In a paper published in Nature, we introduce AlphaFold 3, a revolutionary model that can predict the structure and interactions of all life’s molecules with unprecedented accuracy. For the interactions of proteins with other molecule types we see at least a 50% improvement compared with existing prediction methods, and for some important categories of interaction we have doubled prediction accuracy.|
-|[ImageInWords: Unlocking Hyper-Detailed Image Descriptions.](https://arxiv.org/abs/2405.02793) | |
-|[Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer.](https://arxiv.org/abs/2405.04312v1) | |
-|[DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks.](https://github.com/zzzhang-jx/docres) | |
-|[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving.](https://hanlab.mit.edu/projects/qserve) | |
-|[Navigating Chemical Space with Latent Flows.](https://arxiv.org/abs/2405.03987v1) | |
+|[ImageInWords: Unlocking Hyper-Detailed Image Descriptions.](https://arxiv.org/abs/2405.02793) | An extraordinarily detailed coupling of images and text was produced via a novel labeling technique that made use of two passes of VLMs. Strong multimodal models can be trained with the help of the captions, which include significantly more detail than any previous dataset. |
+|[Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer.](https://arxiv.org/abs/2405.04312v1) | To get beyond memory constraints in the creation of ultra-high-resolution images, a novel diffusion model presents a unidirectional block attention mechanism.|
+|[DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks.](https://github.com/zzzhang-jx/docres) |A novel model called DocRes handles five tasks in one system: dewarping, deshadowing, appearance enhancement, deblurring, and binarization, making document image restoration easier. |
+|[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving.](https://hanlab.mit.edu/projects/qserve) |QoQ is a unique quantization approach that leverages 4-bit KV cache, 8-bit activations, and 4-bit weights to accelerate big language model inference. |
+|[Navigating Chemical Space with Latent Flows.](https://arxiv.org/abs/2405.03987v1) |ChemFlow is a new framework that uses deep generative models to rapidly navigate chemical space, improving molecular science. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,12 +79,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘ChatGPT for CRISPR’ creates new gene-editing tools.](https://www.nature.com/articles/d41586-024-01243-w) | In the never-ending quest to discover previously unknown CRISPR gene-editing systems, researchers have scoured microbes in everything from hot springs and peat bogs to poo and even yogurt. Now, thanks to advances in generative artificial intelligence (AI), they might be able to design these systems with the push of a button.|
 |[Microsoft Working on ‘Far Larger’ In-House AI Model.](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/) | Microsoft is reportedly working on a new, in-house artificial intelligence (AI) model that is “far larger” than the other open source models it has trained.|
 |[Apple unveils M4: Its first chip made for AI from the ground up.](https://9to5mac.com/2024/05/07/apple-unveils-m4-chip-ai/) | Apple on Tuesday unveiled M4, the next generation of its Apple Silicon chip. Built with the 3 nanometer chip architecture, M4 is the first Apple chip to be built for AI from the ground up. M4 is the chip that powers the new generation iPad Pro and will soon be inside Macs |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI Model Spec.](https://cdn.openai.com/spec/model-spec-2024-05-08.html) | This is the first draft of the Model Spec, a document that specifies desired behavior for our models in the OpenAI API and ChatGPT. It includes a set of core objectives, as well as guidance on how to deal with conflicting objectives or instructions.|
+|[AI engineers report burnout and rushed rollouts as ‘rat race’ to stay competitive hits tech industry.](https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html) | Artificial intelligence engineers at top tech companies told CNBC that the pressure to roll out AI tools at breakneck speed has come to define their jobs. They say that much of their work is assigned to appease investors rather than to solve problems for end users, and that they are often chasing OpenAI. Burnout is an increasingly common theme as AI workers say their employers are pursuing projects without regard for the technology’s effect on climate change, surveillance and other potential real-world harms.|
+|[The teens making friends with AI chatbots.](https://www.theverge.com/2024/5/4/24144763/ai-chatbot-friends-character-teens) |Teens are opening up to AI chatbots as a way to explore friendship. But sometimes, the AI’s advice can go too far. |
+|[GPT-2-Chatbot Confirmed As OpenAI.](https://simonwillison.net/2024/May/8/gpt2-chatbot-confirmed-as-openai/) |Recently, the gpt-2-chatbot has been seen in the LMSYS space; after discovering information from OpenAI's API through a 429 rate limit issue, it was verified that this was a new model from OpenAI. |
+|[OpenAI Is Readying a Search Product to Rival Google, Perplexity.](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity) | The feature would let ChatGPT users search the web and cite sources in its results.|
+|[DatologyAI raises $46M Series A.](https://www.datologyai.com/post/datologyai-raises-46m-series-a) |The data curation platform raises additional funds in its September $11 million seed round with the goal of growing its workforce and advancing corporate development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From Baby Talk to Baby A.I.](https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html) |Could a better understanding of how infants acquire language help us build smarter A.I. models? |
 |[The AI Hardware Dilemma.](https://every.to/napkin-math/the-ai-hardware-dilemma) |Even while recent AI-powered hardware releases, such as the Humane Pin and Rabbit R1, have drawn criticism, the industry is still receiving a lot of venture capital investment, and well-known individuals like Sam Altman are considering making sizable investments. The appeal is in AI's ability to transform consumer hardware through innovative use of sensors, silicon, and interfaces. Though hardware startups find it difficult to compete with well-established tech giants, AI still needs to evolve, making it difficult to provide a compelling alternative to flexible smartphones. |
 |[AI Prompt Engineering Is Dead.](https://spectrum.ieee.org/prompt-engineering-is-dead) |Automating prompt optimization for AI models points to more effective, model-driven prompt generation techniques in the future, possibly rendering human prompt engineering unnecessary. |
-|[.]() | |
+|[The Next Big Programming Language Is English.](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces) | GitHub Copilot Workspace is a robust programming tool that allows users to code in plain English via the browser, from planning to implementation. It is currently available in a limited technical preview. In contrast to ChatGPT, the AI easily integrates with codebases, suggesting block-by-block code execution and managing complex tasks with less active user interaction.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
