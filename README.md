@@ -57,10 +57,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Navigating Chemical Space with Latent Flows.](https://arxiv.org/abs/2405.03987v1) |ChemFlow is a new framework that uses deep generative models to rapidly navigate chemical space, improving molecular science. |
 |[Consistency Large Language Models: A Family of Efficient Parallel Decoders.](https://hao-ai-lab.github.io/blogs/cllm/) | One intriguing paradigm of ongoing research is the prediction of many tokens at once. If it works, generation times for many large language models would be significantly reduced. This post's method aims to accelerate generation by using a parallel decoding mechanism on fine-tuned LLMs, akin to consistency models from picture synthetics. Initial findings correspond with a 3x speculative decoding performance.|
 |[You Only Cache Once: Decoder-Decoder Architectures for Language Models.](https://arxiv.org/abs/2405.05254) | The decoder-decoder YOCO architecture maintains global attention capabilities while using less GPU RAM. It is made up of a cross-decoder and a self-decoder, which enable effective key-value pair caching and reuse. With notable gains in throughput, latency, and inference memory over standard Transformers, YOCO performs favorably and is appropriate for big language models and extended context lengths.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Optimal Group Fair Classifiers from Linear Post-Processing.](https://arxiv.org/abs/2405.04025v1) |This innovative post-processing approach ensures compliance with many group fairness criteria, including statistical parity, equal opportunity, and equalized odds, by recalibrating output scores after imposing a "fairness cost" to address model bias. |
+|[DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector.](https://arxiv.org/abs/2405.04788v1) |DiffMatch is a new semi-supervised change detection technique that generates pseudo labels for unlabeled data by using visual language models, hence offering extra supervision signals. |
+|[Gemma-10M Technical Overview.](https://medium.com/@akshgarg_36829/gemma-10m-technical-overview-900adc4fbeeb) |Language-Vision The ability of models to comprehend and interact with text and visuals is quickly developing, as demonstrated by GPT-4V. Their important limits in visual deductive thinking are revealed by a recent study. Using challenging visual puzzles similar to those in IQ testing, researchers assessed these models and found that they had trouble with multi-step reasoning and abstract pattern recognition. |
+|[Vision Mamba: A Comprehensive Survey and Taxonomy.](https://arxiv.org/abs/2405.04404v1) | a thorough examination of Mamba's uses in a range of visual tasks and its changing significance. Keep up with the latest discoveries and developments about the Mamba project.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek-V2-Chat.](https://huggingface.co/deepseek-ai/DeepSeek-V2-Chat) | DeepSeek-V2, a strong Mixture-of-Experts (MoE) language model characterized by economical training and efficient inference. It comprises 236B total parameters, of which 21B are activated for each token. Compared with DeepSeek 67B, DeepSeek-V2 achieves stronger performance, and meanwhile saves 42.5% of training costs, reduces the KV cache by 93.3%, and boosts the maximum generation throughput to 5.76 times.|
 |[Visual Reasoning Benchmark.](https://github.com/apple/ml-rpm-bench) | Language-Vision The ability of models to comprehend and interact with text and visuals is quickly developing, as demonstrated by GPT-4V. Their important limits in visual deductive thinking are revealed by a recent study. Using challenging visual puzzles similar to those in IQ testing, researchers assessed these models and found that they had trouble with multi-step reasoning and abstract pattern recognition.|
 |[AI Index: State of AI in 13 Charts.](https://hai.stanford.edu/news/ai-index-state-ai-13-chart) |In the new report, foundation models dominate, benchmarks fall, prices skyrocket, and on the global stage, the U.S. overshadows. |
-|[.]() | |
+|[Buzz Pretraining Dataset.](https://huggingface.co/datasets/H-D-T/Buzz) | Preference data is a new addition to the pretraining mix in Buzz. Multiple models that were trained on this data have also been made available by its researchers. They discovered that the models show good results on several tasks related to human preferences.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
