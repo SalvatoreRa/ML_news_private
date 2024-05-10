@@ -55,6 +55,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks.](https://github.com/zzzhang-jx/docres) |A novel model called DocRes handles five tasks in one system: dewarping, deshadowing, appearance enhancement, deblurring, and binarization, making document image restoration easier. |
 |[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving.](https://hanlab.mit.edu/projects/qserve) |QoQ is a unique quantization approach that leverages 4-bit KV cache, 8-bit activations, and 4-bit weights to accelerate big language model inference. |
 |[Navigating Chemical Space with Latent Flows.](https://arxiv.org/abs/2405.03987v1) |ChemFlow is a new framework that uses deep generative models to rapidly navigate chemical space, improving molecular science. |
+|[Consistency Large Language Models: A Family of Efficient Parallel Decoders.](https://hao-ai-lab.github.io/blogs/cllm/) | One intriguing paradigm of ongoing research is the prediction of many tokens at once. If it works, generation times for many large language models would be significantly reduced. This post's method aims to accelerate generation by using a parallel decoding mechanism on fine-tuned LLMs, akin to consistency models from picture synthetics. Initial findings correspond with a 3x speculative decoding performance.|
+|[You Only Cache Once: Decoder-Decoder Architectures for Language Models.](https://arxiv.org/abs/2405.05254) | The decoder-decoder YOCO architecture maintains global attention capabilities while using less GPU RAM. It is made up of a cross-decoder and a self-decoder, which enable effective key-value pair caching and reuse. With notable gains in throughput, latency, and inference memory over standard Transformers, YOCO performs favorably and is appropriate for big language models and extended context lengths.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,6 +93,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPT-2-Chatbot Confirmed As OpenAI.](https://simonwillison.net/2024/May/8/gpt2-chatbot-confirmed-as-openai/) |Recently, the gpt-2-chatbot has been seen in the LMSYS space; after discovering information from OpenAI's API through a 429 rate limit issue, it was verified that this was a new model from OpenAI. |
 |[OpenAI Is Readying a Search Product to Rival Google, Perplexity.](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity) | The feature would let ChatGPT users search the web and cite sources in its results.|
 |[DatologyAI raises $46M Series A.](https://www.datologyai.com/post/datologyai-raises-46m-series-a) |The data curation platform raises additional funds in its September $11 million seed round with the goal of growing its workforce and advancing corporate development. |
+|[Yellow raises $5M from A16z for Gen AI-powered 3D modeling tool.](https://venturebeat.com/games/yellow-raises-5m-from-a16z-for-gen-ai-powered-3d-modeling-tool/) | Yellow has raised $5 million in seed funding from A16z Games to fund further development of its Gen AI-powered 3D modeling tool. With its YellowSculpt tool, artists can generate clean, pre-rigged 3D character meshes based on a text prompt in under three minutes.|
+|[Stable Artisan: Media Generation and Editing on Discord.](https://stability.ai/news/stable-artisan) |Stable Artisan enables media generation on Discord powered by Stability AI’s cutting-edge image and video models, Stable Diffusion 3, Stable Video Diffusion, and Stable Image Core. In addition to media generation, Stable Artisan offers tools to edit your creations like Search and Replace, Remove Background, Creative Upscale and Outpainting.   |
+|[ElevenLabs previews music-generating AI model.](https://venturebeat.com/ai/elevenlabs-previews-music-generating-ai-model/) | Voice AI startup ElevenLabs is offering an early look at a new model that turns a prompt into song lyrics. To raise awareness, it’s following a similar playbook Sam Altman used when OpenAI introduced Sora, its video-generating AI, soliciting ideas on social media and turning them into lyrics.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
