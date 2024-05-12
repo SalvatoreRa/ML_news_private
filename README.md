@@ -61,16 +61,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector.](https://arxiv.org/abs/2405.04788v1) |DiffMatch is a new semi-supervised change detection technique that generates pseudo labels for unlabeled data by using visual language models, hence offering extra supervision signals. |
 |[Gemma-10M Technical Overview.](https://medium.com/@akshgarg_36829/gemma-10m-technical-overview-900adc4fbeeb) |Language-Vision The ability of models to comprehend and interact with text and visuals is quickly developing, as demonstrated by GPT-4V. Their important limits in visual deductive thinking are revealed by a recent study. Using challenging visual puzzles similar to those in IQ testing, researchers assessed these models and found that they had trouble with multi-step reasoning and abstract pattern recognition. |
 |[Vision Mamba: A Comprehensive Survey and Taxonomy.](https://arxiv.org/abs/2405.04404v1) | a thorough examination of Mamba's uses in a range of visual tasks and its changing significance. Keep up with the latest discoveries and developments about the Mamba project.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -100,15 +90,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships.](https://www.adweek.com/media/openai-preferred-publisher-program-deck/) |The generative artificial intelligence firm OpenAI has been pitching partnership opportunities to news publishers through an initiative called the Preferred Publishers Program, according to a deck obtained by ADWEEK and interviews with four industry executives. |
 |[TECH
 Alibaba rolls out latest version of its large language model to meet robust AI demand.](https://www.cnbc.com/2024/05/09/alibaba-rolls-out-latest-version-of-its-large-language-model.html) | Alibaba Cloud on Thursday said its large language model has seen more than 90,000 deployments in companies across industries. Alibaba Cloud said the latest version of its Tongyi Qianwen model, Qwen2.5, possesses “remarkable advancements in reasoning, code comprehension, and textual understanding compared to its predecessor Qwen2.0.”|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Resources
 |Link|description|
@@ -125,23 +106,7 @@ Alibaba rolls out latest version of its large language model to meet robust AI d
 |[Visual Reasoning Benchmark.](https://github.com/apple/ml-rpm-bench) | Language-Vision The ability of models to comprehend and interact with text and visuals is quickly developing, as demonstrated by GPT-4V. Their important limits in visual deductive thinking are revealed by a recent study. Using challenging visual puzzles similar to those in IQ testing, researchers assessed these models and found that they had trouble with multi-step reasoning and abstract pattern recognition.|
 |[AI Index: State of AI in 13 Charts.](https://hai.stanford.edu/news/ai-index-state-ai-13-chart) |In the new report, foundation models dominate, benchmarks fall, prices skyrocket, and on the global stage, the U.S. overshadows. |
 |[Buzz Pretraining Dataset.](https://huggingface.co/datasets/H-D-T/Buzz) | Preference data is a new addition to the pretraining mix in Buzz. Multiple models that were trained on this data have also been made available by its researchers. They discovered that the models show good results on several tasks related to human preferences.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -151,16 +116,6 @@ Alibaba rolls out latest version of its large language model to meet robust AI d
 |[AI Prompt Engineering Is Dead.](https://spectrum.ieee.org/prompt-engineering-is-dead) |Automating prompt optimization for AI models points to more effective, model-driven prompt generation techniques in the future, possibly rendering human prompt engineering unnecessary. |
 |[The Next Big Programming Language Is English.](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces) | GitHub Copilot Workspace is a robust programming tool that allows users to code in plain English via the browser, from planning to implementation. It is currently available in a limited technical preview. In contrast to ChatGPT, the AI easily integrates with codebases, suggesting block-by-block code execution and managing complex tasks with less active user interaction.|
 |[Is AI lying to me? Scientists warn of growing capacity for deception.](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception) |Researchers find instances of systems double-crossing opponents, bluffing, pretending to be human and modifying behaviour in tests |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 29 April - 5 May
 
