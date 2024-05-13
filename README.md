@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models.](https://arxiv.org/abs/2405.05417) |Separately trained tokenizers are necessary for language models. Tokens that are never encountered during language model training may be produced by these. Even the most potent contemporary language models have a lot. This study investigates this phenomena and offers solutions for locating and handling these tokens. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -64,9 +64,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI confirms May 13 event for ‘some ChatGPT and GPT-4 updates’.](https://9to5google.com/2024/05/10/openai-may-13-event-chatgpt/) |Following a report that the company plans to launch a Google Search competitor next week, OpenAI has just confirmed a May 13 event for new “ChatGPT and GPT-4” updates. |
+|[Bye-bye bots: Altera’s game-playing AI agents get backing from Eric Schmidt.](https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/) |Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents. |
+|[BLIP3.](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1) | Salesforce has trained and released the 3rd non-commercial version of the popular BLIP models, vision and language models mainly used for image understanding and captioning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[ThunderKittens CUDA DSL.](https://hazyresearch.stanford.edu/blog/2024-05-12-quick-tk) |Hazy research has unveiled a novel DSL for CUDA kernel development. Only 100 lines of code are needed to implement its 30% quicker written flash attention feature. |
+|[AnythingLLM.](https://github.com/Mintplex-Labs/anything-llm) |A full-stack application that enables you to turn any document, resource, or piece of content into context that any LLM can use as references during chatting. This application allows you to pick and choose which LLM or Vector Database you want to use as well as supporting multi-user management and permissions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
