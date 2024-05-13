@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[ChatGPT and the like could free up coders to new heights of creativity.](https://www.theguardian.com/commentisfree/article/2024/may/11/chatgpt-ai-will-co-pilot-coders-to-new-heights-of-creativity) | Far from making programmers an endangered species, AI will release them from the grunt work that stifles innovation|
 |[.]() | |
 |[.]() | |
 |[.]() | |
