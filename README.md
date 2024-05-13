@@ -43,8 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models.](https://arxiv.org/abs/2405.05417) |Separately trained tokenizers are necessary for language models. Tokens that are never encountered during language model training may be produced by these. Even the most potent contemporary language models have a lot. This study investigates this phenomena and offers solutions for locating and handling these tokens. |
-|[.]() | |
-|[.]() | |
+|[Unlearning in Recommender Systems.](https://github.com/justarter/e2urec) | With the use of a novel technique called E2URec, huge language model-based recommendation systems may now effectively and efficiently forget user data while maintaining privacy and speed.|
+|[Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers.](https://github.com/Alpha-VLLM/Lumina-T2X) |A project called Lumina seeks to provide a single text-to-X generation mechanism. Its training process involves interleaving text, video, audio, and pictures, which enhances downstream performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI confirms May 13 event for ‘some ChatGPT and GPT-4 updates’.](https://9to5google.com/2024/05/10/openai-may-13-event-chatgpt/) |Following a report that the company plans to launch a Google Search competitor next week, OpenAI has just confirmed a May 13 event for new “ChatGPT and GPT-4” updates. |
 |[Bye-bye bots: Altera’s game-playing AI agents get backing from Eric Schmidt.](https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/) |Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents. |
 |[BLIP3.](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1) | Salesforce has trained and released the 3rd non-commercial version of the popular BLIP models, vision and language models mainly used for image understanding and captioning.|
-|[.]() | |
-|[.]() | |
+|[Asterisk/Zvi on California's AI Bill.](https://www.astralcodexten.com/p/asteriskzvi-on-californias-ai-bill) |Regulations on AI models with processing capacity more than 10^26 FLOPs are proposed by the California SB1047 law. By demanding secure surroundings, quick deactivation capabilities, and thorough misuse possibility testing, it focuses on ensuring these models are used securely. The measure aims to address worries about the possible impact of AI on society by balancing innovation with safeguards against exploitation, and it only targets high-risk scenarios. |
+|[Bedrock Studio is Amazon’s attempt to simplify generative AI app development.](https://techcrunch.com/2024/05/07/bedrock-studio-is-amazons-attempt-to-simplify-generative-ai-app-development/) | Amazon is launching a new tool, Bedrock Studio, designed to let organizations experiment with generative AI models, collaborate on those models, and ultimately build generative AI-powered apps.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[ThunderKittens CUDA DSL.](https://hazyresearch.stanford.edu/blog/2024-05-12-quick-tk) |Hazy research has unveiled a novel DSL for CUDA kernel development. Only 100 lines of code are needed to implement its 30% quicker written flash attention feature. |
 |[AnythingLLM.](https://github.com/Mintplex-Labs/anything-llm) |A full-stack application that enables you to turn any document, resource, or piece of content into context that any LLM can use as references during chatting. This application allows you to pick and choose which LLM or Vector Database you want to use as well as supporting multi-user management and permissions. |
-|[.]() | |
-|[.]() | |
+|[Mirage: A Multi-level Superoptimizer for Tensor Algebra.](https://github.com/mirage-project/mirage) |Mirage is a tensor algebra superoptimizer that automatically discovers highly-optimized tensor programs for DNNs. Mirage automatically identifies and verifies sophisticated optimizations, many of which require joint optimization at the kernel, thread block, and thread levels of the GPU compute hierarchy. For an input DNN, Mirage searches the space of potential tensor programs that are functionally equivalent to the DNN to discover highly-optimized candidates. This approach allows Mirage to find new custom kernels that outperform existing expert-designed ones. |
+|[audio-diffusion-pytorch.](https://github.com/archinetai/audio-diffusion-pytorch) | A fully featured audio diffusion library, for PyTorch. Includes models for unconditional audio generation, text-conditional audio generation, diffusion autoencoding, upsampling, and vocoding. The provided models are waveform-based, however, the U-Net (built using a-unet), DiffusionModel, diffusion method, and diffusion samplers are both generic to any dimension and highly customizable to work on other formats.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[ChatGPT and the like could free up coders to new heights of creativity.](https://www.theguardian.com/commentisfree/article/2024/may/11/chatgpt-ai-will-co-pilot-coders-to-new-heights-of-creativity) | Far from making programmers an endangered species, AI will release them from the grunt work that stifles innovation|
-|[.]() | |
+|[Superhuman?](https://www.oneusefulthing.org/p/superhuman) |Top AI labs are focused on achieving artificial general intelligence (AGI), with estimates for its realization ranging from 2027 to 2047. Even though AI hasn't yet reached artificial general intelligence (AGI), certain systems exhibit superhuman abilities in particular tasks, indicating that AI's optimum use right now is as a co-intelligence that complements human efforts rather than replaces them. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
