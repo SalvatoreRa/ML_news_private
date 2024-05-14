@@ -70,9 +70,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Asterisk/Zvi on California's AI Bill.](https://www.astralcodexten.com/p/asteriskzvi-on-californias-ai-bill) |Regulations on AI models with processing capacity more than 10^26 FLOPs are proposed by the California SB1047 law. By demanding secure surroundings, quick deactivation capabilities, and thorough misuse possibility testing, it focuses on ensuring these models are used securely. The measure aims to address worries about the possible impact of AI on society by balancing innovation with safeguards against exploitation, and it only targets high-risk scenarios. |
 |[Bedrock Studio is Amazon’s attempt to simplify generative AI app development.](https://techcrunch.com/2024/05/07/bedrock-studio-is-amazons-attempt-to-simplify-generative-ai-app-development/) | Amazon is launching a new tool, Bedrock Studio, designed to let organizations experiment with generative AI models, collaborate on those models, and ultimately build generative AI-powered apps.|
 |[New GPT-4o AI model is faster and free for all users, OpenAI announces.](https://www.theguardian.com/technology/article/2024/may/13/openai-new-chatgpt-free) |Tech company reveals new flagship model that ‘is the future of interaction between ourselves and the machines’|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing GPT-4o and more tools to ChatGPT free users.](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/) |Today we are introducing our newest model, GPT-4o, and will be rolling out more intelligence and advanced tools to ChatGPT for free. |
+|[Open sourcing IBM’s Granite code models.](https://research.ibm.com/blog/granite-code-models-open-source) | In order to make coding across several platforms easier and more efficient, IBM is making its Granite code models—which span a range of programming activities and have between 3 and 34 billion parameters—available to the open-source community.|
+|[Bloomberg: Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18.](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/) | Apple is finalizing an agreement with OpenAI to bring some of its technology to the iPhone this year, according to a new report from Bloomberg. With this deal, the report explains that Apple will be able to offer “a popular chatbot” powered by ChatGPT as part of its AI-focused features in iOS 18.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
