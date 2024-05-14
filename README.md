@@ -69,7 +69,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BLIP3.](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1) | Salesforce has trained and released the 3rd non-commercial version of the popular BLIP models, vision and language models mainly used for image understanding and captioning.|
 |[Asterisk/Zvi on California's AI Bill.](https://www.astralcodexten.com/p/asteriskzvi-on-californias-ai-bill) |Regulations on AI models with processing capacity more than 10^26 FLOPs are proposed by the California SB1047 law. By demanding secure surroundings, quick deactivation capabilities, and thorough misuse possibility testing, it focuses on ensuring these models are used securely. The measure aims to address worries about the possible impact of AI on society by balancing innovation with safeguards against exploitation, and it only targets high-risk scenarios. |
 |[Bedrock Studio is Amazon’s attempt to simplify generative AI app development.](https://techcrunch.com/2024/05/07/bedrock-studio-is-amazons-attempt-to-simplify-generative-ai-app-development/) | Amazon is launching a new tool, Bedrock Studio, designed to let organizations experiment with generative AI models, collaborate on those models, and ultimately build generative AI-powered apps.|
-|[.]() | |
+|[New GPT-4o AI model is faster and free for all users, OpenAI announces.](https://www.theguardian.com/technology/article/2024/may/13/openai-new-chatgpt-free) |Tech company reveals new flagship model that ‘is the future of interaction between ourselves and the machines’|
 |[.]() | |
 |[.]() | |
 |[.]() | |
