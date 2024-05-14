@@ -45,9 +45,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models.](https://arxiv.org/abs/2405.05417) |Separately trained tokenizers are necessary for language models. Tokens that are never encountered during language model training may be produced by these. Even the most potent contemporary language models have a lot. This study investigates this phenomena and offers solutions for locating and handling these tokens. |
 |[Unlearning in Recommender Systems.](https://github.com/justarter/e2urec) | With the use of a novel technique called E2URec, huge language model-based recommendation systems may now effectively and efficiently forget user data while maintaining privacy and speed.|
 |[Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers.](https://github.com/Alpha-VLLM/Lumina-T2X) |A project called Lumina seeks to provide a single text-to-X generation mechanism. Its training process involves interleaving text, video, audio, and pictures, which enhances downstream performance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures.](https://arxiv.org/abs/2405.04967) | In AI, simulators can be very effective tools for gathering training data or facilitating interactions between models. A wide range of elemental atomic interactions can be modeled with this simulator.|
+|[SGTR+: End-to-end Scene Graph Generation with Transformer.](https://arxiv.org/abs/2401.12835v1) |A new, more effective technique for producing scene graphs has been discovered by researchers. Their transformer-based approach aims to enhance the model's comprehension and interconnection of many parts in a picture, resulting in enhanced performance on complex tasks. |
+|[InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model.](https://arxiv.org/abs/2401.16420v1) | A vision-language model called InternLM-XComposer2 is very good at producing and comprehending intricate text-image information. It surpasses current approaches in multimodal content production and interpretation by introducing a Partial LoRA technique for a balanced vision and text comprehension.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
