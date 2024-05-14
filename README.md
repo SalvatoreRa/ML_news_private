@@ -94,11 +94,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AnythingLLM.](https://github.com/Mintplex-Labs/anything-llm) |A full-stack application that enables you to turn any document, resource, or piece of content into context that any LLM can use as references during chatting. This application allows you to pick and choose which LLM or Vector Database you want to use as well as supporting multi-user management and permissions. |
 |[Mirage: A Multi-level Superoptimizer for Tensor Algebra.](https://github.com/mirage-project/mirage) |Mirage is a tensor algebra superoptimizer that automatically discovers highly-optimized tensor programs for DNNs. Mirage automatically identifies and verifies sophisticated optimizations, many of which require joint optimization at the kernel, thread block, and thread levels of the GPU compute hierarchy. For an input DNN, Mirage searches the space of potential tensor programs that are functionally equivalent to the DNN to discover highly-optimized candidates. This approach allows Mirage to find new custom kernels that outperform existing expert-designed ones. |
 |[audio-diffusion-pytorch.](https://github.com/archinetai/audio-diffusion-pytorch) | A fully featured audio diffusion library, for PyTorch. Includes models for unconditional audio generation, text-conditional audio generation, diffusion autoencoding, upsampling, and vocoding. The provided models are waveform-based, however, the U-Net (built using a-unet), DiffusionModel, diffusion method, and diffusion samplers are both generic to any dimension and highly customizable to work on other formats.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Pipecat.](https://github.com/pipecat-ai/pipecat) | pipecat is a framework for building voice (and multimodal) conversational agents. Things like personal coaches, meeting assistants, story-telling toys for kids, customer support bots, intake flows, and snarky social companions.|
+|[MRSegmentator: Robust Multi-Modality Segmentation of 40 Classes in MRI and CT Sequences.](https://github.com/hhaentze/mrsegmentator) | A novel tool called MRSegmentator has been developed to improve the segmentation of MRI scans. It can successfully detect 40 distinct organs and structures in the abdominal, pelvic, and thoracic areas.|
+|[Time-Evidence-Fusion-Network.](https://github.com/ztxtech/Time-Evidence-Fusion-Network) |A unique deep learning model called the Time-Evidence Fusion Network (TEFN) is intended to improve long-term time series forecasting. Information fusion and evidence theory are combined, and a specific module is used to increase prediction stability and accuracy. |
+|[moondream2-coyo-5M-captions.](https://huggingface.co/datasets/isidentical/moondream2-coyo-5M-captions) | 5M novel captions based on the alt-text and images of a portion of the COYO dataset.|
+|[WebLlama.](https://github.com/McGill-NLP/webllama) | We are thrilled to release Llama-3-8B-Web, the most capable agent built with 🦙 Llama 3 and finetuned for web navigation with dialogue.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
