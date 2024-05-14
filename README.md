@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[ChatGPT and the like could free up coders to new heights of creativity.](https://www.theguardian.com/commentisfree/article/2024/may/11/chatgpt-ai-will-co-pilot-coders-to-new-heights-of-creativity) | Far from making programmers an endangered species, AI will release them from the grunt work that stifles innovation|
 |[Superhuman?](https://www.oneusefulthing.org/p/superhuman) |Top AI labs are focused on achieving artificial general intelligence (AGI), with estimates for its realization ranging from 2027 to 2047. Even though AI hasn't yet reached artificial general intelligence (AGI), certain systems exhibit superhuman abilities in particular tasks, indicating that AI's optimum use right now is as a co-intelligence that complements human efforts rather than replaces them. |
-|[.]() | |
+|[Large language models (e.g., ChatGPT) as research assistants.](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants) |Artificial intelligence (AI) systems, such as GPT-4, are helping and even surpassing academics in tasks like producing research articles. According to Liang et al., AI is used in up to 18% of publications in some domains. This AI integration may result in a cycle where academic publications are produced and reviewed by software. The effect on scientific advancement is complex, though; while it may allow for more production, there is also a chance that more research will be done during an era in which knowledge will be less. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
