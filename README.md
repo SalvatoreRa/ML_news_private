@@ -48,9 +48,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures.](https://arxiv.org/abs/2405.04967) | In AI, simulators can be very effective tools for gathering training data or facilitating interactions between models. A wide range of elemental atomic interactions can be modeled with this simulator.|
 |[SGTR+: End-to-end Scene Graph Generation with Transformer.](https://arxiv.org/abs/2401.12835v1) |A new, more effective technique for producing scene graphs has been discovered by researchers. Their transformer-based approach aims to enhance the model's comprehension and interconnection of many parts in a picture, resulting in enhanced performance on complex tasks. |
 |[InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model.](https://arxiv.org/abs/2401.16420v1) | A vision-language model called InternLM-XComposer2 is very good at producing and comprehending intricate text-image information. It surpasses current approaches in multimodal content production and interpretation by introducing a Partial LoRA technique for a balanced vision and text comprehension.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MambaOut: Do We Really Need Mamba for Vision?](https://arxiv.org/abs/2405.07992v1) |While Mamba is not effective for image classification, it shows promise in detection and segmentation tasks that do. The Mamba architecture is often employed for tasks with long-sequence and autoregressive characteristics. Researchers looked into this design and its application in vision tasks. |
+|[State-Free Inference of State-Space Models: The Transfer Function Approach.](https://arxiv.org/abs/2405.06147v1) |For deep learning, a new state-space model with a dual transfer function representation has been created. A state-free sequence parallel inference approach is one of its features. |
+|[Learning A Spiking Neural Network for Efficient Image Deraining.](https://github.com/mingtian99/esdne) | A Spiking Neural Network (SNN) called ESDNet is intended for picture deraining applications. It increases spike signal strength by taking advantage of the special qualities of rain pixel values.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
