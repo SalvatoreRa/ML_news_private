@@ -51,10 +51,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MambaOut: Do We Really Need Mamba for Vision?](https://arxiv.org/abs/2405.07992v1) |While Mamba is not effective for image classification, it shows promise in detection and segmentation tasks that do. The Mamba architecture is often employed for tasks with long-sequence and autoregressive characteristics. Researchers looked into this design and its application in vision tasks. |
 |[State-Free Inference of State-Space Models: The Transfer Function Approach.](https://arxiv.org/abs/2405.06147v1) |For deep learning, a new state-space model with a dual transfer function representation has been created. A state-free sequence parallel inference approach is one of its features. |
 |[Learning A Spiking Neural Network for Efficient Image Deraining.](https://github.com/mingtian99/esdne) | A Spiking Neural Network (SNN) called ESDNet is intended for picture deraining applications. It increases spike signal strength by taking advantage of the special qualities of rain pixel values.|
-|[Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning.](https://zju3dv.github.io/coin3d/) | |
-|[Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.](https://arxiv.org/abs/2405.08748v1) | |
-|[Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance.](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/) | |
-|[SqueezeTime.](https://github.com/xinghaochen/squeezetime) | |
+|[Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning.](https://zju3dv.github.io/coin3d/) | Making 3D models is difficult. A coarse mesh can be entered initially, and then the generation process can be carried out, giving users more precise control and higher-quality model output.|
+|[Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.](https://arxiv.org/abs/2405.08748v1) | Particularly for Chinese and English, the recently created Hunyuan-DiT establishes a standard for text-to-image diffusion transformers. It has sophisticated data pipeline and transformer structures for ongoing model enhancement.|
+|[Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance.](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/) | An method to improve the quality of images produced by diffusion models without extra training or external modules is called Perturbed-Attention Guidance (PAG). PAG leads to a significant improvement in the structure and fidelity of both unconditional and conditional samples by innovative manipulation of the self-attention mechanisms within the model.|
+|[SqueezeTime.](https://github.com/xinghaochen/squeezetime) | SqueezeTime is a new lightweight network that enhances temporal analysis by condensing the time axis of movies into the channel dimension, specifically for mobile video understanding.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,6 +119,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Finetune PaliGemma.](https://colab.research.google.com/github/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/finetune_paligemma.ipynb) |This notebook shows how to finetune PaliGemma on a vision-language task. The training data consists of 90 pairs of images and long captions describing them. To make it runnable on a T4 colab runtime with 16GB HBM and 12GB RAM, we opt to only finetune the attention layers of the language model and freeze the other parameters. |
 |[Gemini Flash.](https://deepmind.google/technologies/gemini/flash/) |Google has released a new lightweight model called Gemini Flash, which has a lengthy context window of up to one million tokens and multimodal reasoning. |
 |[DeepMind Veo.](https://deepmind.google/technologies/veo) |Google Deepmind has released Veo, a new AI model for creating videos that can produce more than one minute in 1080p HD. |
+|[IC-Light.](https://github.com/lllyasviel/IC-Light) |IC-Light is a project to manipulate the illumination of images. |
+|[EfficientTrain++.](https://github.com/leaplabthu/efficienttrain) | With ImageNet databases, EfficientTrain++ presents a revolutionary curriculum learning technique that can drastically cut the training periods of popular visual models like ResNet and Swin by up to three times.|
+|[NousResearch/Hermes-2-Theta-Llama-3-8B.](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-8B) |Hermes-2 Θ is a merged and then further RLHF'ed version our excellent Hermes 2 Pro model and Meta's Llama-3 Instruct model to form a new model, Hermes-2 Θ, combining the best of both worlds of each model. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why mathematics is set to be revolutionized by AI.](https://www.nature.com/articles/d41586-024-01413-w) | Cheap data and the absence of coincidences make maths an ideal testing ground for AI-assisted discovery — but only humans will be able to tell good conjectures from bad ones.|
 |[Major AlphaFold upgrade offers boost for drug discovery.](https://www.nature.com/articles/d41586-024-01383-z) |Latest version of the AI models how proteins interact with other molecules — but DeepMind restricts access to the tool. |
 |[Lethal AI weapons are here: how can we control them?](https://www.nature.com/articles/d41586-024-01029-0) |Autonomous weapons guided by artificial intelligence are already in use. Researchers, legal experts and ethicists are struggling with what should be allowed on the battlefield. |
-|[.]() | |
+|[AI spending grew 293% last year. Here's how companies are using AI to stay ahead.](https://ramp.com/blog/q1-2024-spending-insights) |According to Ramp's Q1 data, its clients' expenditure on AI has increased by 293% year over year, surpassing the rise of all software investment. AI is also being widely used in non-tech businesses including financial services and healthcare, suggesting a wider integration of AI across a range of industries. Even though there is a general slowdown in new investments in AI, businesses who are already utilizing the technology are doubling down. The average amount spent on AI tools has climbed by 138% year over year, and businesses are still cautious when it comes to travel expenses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
