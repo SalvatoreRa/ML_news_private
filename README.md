@@ -51,6 +51,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MambaOut: Do We Really Need Mamba for Vision?](https://arxiv.org/abs/2405.07992v1) |While Mamba is not effective for image classification, it shows promise in detection and segmentation tasks that do. The Mamba architecture is often employed for tasks with long-sequence and autoregressive characteristics. Researchers looked into this design and its application in vision tasks. |
 |[State-Free Inference of State-Space Models: The Transfer Function Approach.](https://arxiv.org/abs/2405.06147v1) |For deep learning, a new state-space model with a dual transfer function representation has been created. A state-free sequence parallel inference approach is one of its features. |
 |[Learning A Spiking Neural Network for Efficient Image Deraining.](https://github.com/mingtian99/esdne) | A Spiking Neural Network (SNN) called ESDNet is intended for picture deraining applications. It increases spike signal strength by taking advantage of the special qualities of rain pixel values.|
+|[Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning.](https://zju3dv.github.io/coin3d/) | |
+|[Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.](https://arxiv.org/abs/2405.08748v1) | |
+|[Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance.](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/) | |
+|[SqueezeTime.](https://github.com/xinghaochen/squeezetime) | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk's xAI nears $10 bln deal to rent Oracle's AI servers, The Information reports.](https://www.reuters.com/technology/elon-musks-xai-nears-10-bln-deal-rent-oracles-ai-servers-information-reports-2024-05-14/) |  - Elon Musk's artificial intelligence startup xAI has been talking to Oracle (ORCL.N), opens new tab executives about spending $10 billion to rent cloud servers from the company over a period of years, The Information reported on Tuesday, citing a person involved in the talks.|
 |[OpenAI co-founder who had key role in attempted firing of Sam Altman departs.](https://www.theguardian.com/technology/article/2024/may/15/open-ai-cofounder-ilya-sutskever) |Ilya Sutskever helped orchestrate dramatic firing and rehiring of ChatGPT maker’s CEO last year |
 |[Google rolls out AI-generated, summarized search results in US.](https://www.theguardian.com/technology/article/2024/may/14/google-ai-search-results) |Tech giant also reveals AI assistant in progress, currently called Project Astra, and AI video generator Veo at annual I/O conference |
-|[.]() | |
-|[.]() | |
+|[OpenAI chief scientist Ilya Sutskever is officially leaving.](https://www.theverge.com/2024/5/14/24156920/openai-chief-scientist-ilya-sutskever-leaves) |Ilya Sutskever, OpenAI’s co-founder and chief scientist who helped lead the infamous failed coup against Sam Altman and then later changed his mind, is officially leaving the company. |
+|[Project IDX, Google’s next-gen IDE, is now in open beta.](https://techcrunch.com/2024/05/14/project-idx-googles-next-gen-ide-is-now-in-open-beta/) |At it’s annual Google I/O 2024 developer conference on Tuesday, Google announced that Project IDX, the company’s next-gen, AI-centric browser-based development environment, is now in open beta. The company first launched it as an invite-only service gated by a waitlist in August. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
