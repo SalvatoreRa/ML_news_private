@@ -122,8 +122,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[IC-Light.](https://github.com/lllyasviel/IC-Light) |IC-Light is a project to manipulate the illumination of images. |
 |[EfficientTrain++.](https://github.com/leaplabthu/efficienttrain) | With ImageNet databases, EfficientTrain++ presents a revolutionary curriculum learning technique that can drastically cut the training periods of popular visual models like ResNet and Swin by up to three times.|
 |[NousResearch/Hermes-2-Theta-Llama-3-8B.](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-8B) |Hermes-2 Θ is a merged and then further RLHF'ed version our excellent Hermes 2 Pro model and Meta's Llama-3 Instruct model to form a new model, Hermes-2 Θ, combining the best of both worlds of each model. |
-|[.]() | |
-|[.]() | |
+|[Energy-based Hopfield Boosting for Out-of-Distribution Detection.](https://github.com/ml-jku/hopfield-boosting) |A method called Hopfield Boosting makes use of contemporary Hopfield energy to improve machine learning models' ability to recognize out-of-distribution (OOD) data. |
+|[OpenAI’s custom GPT Store is now open to all for free.](https://www.theverge.com/2024/5/13/24155582/openai-custom-gpt-store-available-free-subscriber) | OpenAI is making a number of its previously subscription-only features available to free users of ChatGPT, with the biggest being the ability to browse its GPT Store and use custom bots, said CTO Mira Murati during the company’s Spring update livestream today. The company also published today’s updates in a blog on its website.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Major AlphaFold upgrade offers boost for drug discovery.](https://www.nature.com/articles/d41586-024-01383-z) |Latest version of the AI models how proteins interact with other molecules — but DeepMind restricts access to the tool. |
 |[Lethal AI weapons are here: how can we control them?](https://www.nature.com/articles/d41586-024-01029-0) |Autonomous weapons guided by artificial intelligence are already in use. Researchers, legal experts and ethicists are struggling with what should be allowed on the battlefield. |
 |[AI spending grew 293% last year. Here's how companies are using AI to stay ahead.](https://ramp.com/blog/q1-2024-spending-insights) |According to Ramp's Q1 data, its clients' expenditure on AI has increased by 293% year over year, surpassing the rise of all software investment. AI is also being widely used in non-tech businesses including financial services and healthcare, suggesting a wider integration of AI across a range of industries. Even though there is a general slowdown in new investments in AI, businesses who are already utilizing the technology are doubling down. The average amount spent on AI tools has climbed by 138% year over year, and businesses are still cautious when it comes to travel expenses. |
-|[.]() | |
+|[AI Copilots Are Changing How Coding Is Taught.](https://spectrum.ieee.org/ai-coding) | Professors are shifting away from syntax and emphasizing higher-level skills|
 |[.]() | |
 |[.]() | |
 |[.]() | |
