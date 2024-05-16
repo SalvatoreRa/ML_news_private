@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s new GPT-4o model offers promise of improved smartphone assistants.](https://www.theguardian.com/technology/article/2024/may/14/openai-gpt-4o-model-offers-promise-of-improved-smartphone-assistants) | System can operate directly in speech, speeding up responses and noticing voice quirks, but it still needs the power of Siri|
 |[Why mathematics is set to be revolutionized by AI.](https://www.nature.com/articles/d41586-024-01413-w) | Cheap data and the absence of coincidences make maths an ideal testing ground for AI-assisted discovery — but only humans will be able to tell good conjectures from bad ones.|
 |[Major AlphaFold upgrade offers boost for drug discovery.](https://www.nature.com/articles/d41586-024-01383-z) |Latest version of the AI models how proteins interact with other molecules — but DeepMind restricts access to the tool. |
-|[.]() | |
+|[Lethal AI weapons are here: how can we control them?](https://www.nature.com/articles/d41586-024-01029-0) |Autonomous weapons guided by artificial intelligence are already in use. Researchers, legal experts and ethicists are struggling with what should be allowed on the battlefield. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
