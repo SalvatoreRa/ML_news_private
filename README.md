@@ -128,8 +128,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large language models (e.g., ChatGPT) as research assistants.](https://lemire.me/blog/2024/04/27/large-language-models-e-g-chatgpt-as-research-assistants) |Artificial intelligence (AI) systems, such as GPT-4, are helping and even surpassing academics in tasks like producing research articles. According to Liang et al., AI is used in up to 18% of publications in some domains. This AI integration may result in a cycle where academic publications are produced and reviewed by software. The effect on scientific advancement is complex, though; while it may allow for more production, there is also a chance that more research will be done during an era in which knowledge will be less. |
 |[What OpenAI did.](https://www.oneusefulthing.org/p/what-openai-did) | The integration of voice and vision in GPT-4o's multimodal skills holds great potential for improving AI's ability to interact with the outside world and laying the groundwork for AI to become a more commonplace presence in day-to-day life.|
 |[OpenAI’s new GPT-4o model offers promise of improved smartphone assistants.](https://www.theguardian.com/technology/article/2024/may/14/openai-gpt-4o-model-offers-promise-of-improved-smartphone-assistants) | System can operate directly in speech, speeding up responses and noticing voice quirks, but it still needs the power of Siri|
-|[.]() | |
-|[.]() | |
+|[Why mathematics is set to be revolutionized by AI.](https://www.nature.com/articles/d41586-024-01413-w) | Cheap data and the absence of coincidences make maths an ideal testing ground for AI-assisted discovery — but only humans will be able to tell good conjectures from bad ones.|
+|[Major AlphaFold upgrade offers boost for drug discovery.](https://www.nature.com/articles/d41586-024-01383-z) |Latest version of the AI models how proteins interact with other molecules — but DeepMind restricts access to the tool. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
