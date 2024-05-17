@@ -93,9 +93,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Researchers build AI-driven sarcasm detector.](https://www.theguardian.com/technology/article/2024/may/16/researchers-build-ai-driven-sarcasm-detector) | Being able to detect lowest form of wit could help AI interact with people more naturally, say scientists|
 |[Hugging Face is sharing $10 million worth of compute to help beat the big AI companies.](https://www.theverge.com/2024/5/16/24156755/hugging-face-celement-delangue-free-shared-gpus-ai) |ZeroGPU gives everyone the chance to create AI apps without the burden of GPU costs. |
 |[OpenAI partners with Reddit to integrate unique user-generated content into ChatGPT.](https://venturebeat.com/ai/openai-partners-with-reddit-to-integrate-unique-user-generated-content-into-chatgpt/) |Reddit, the widely popular social news aggregation and discussion platform, and OpenAI, the renowned AI research laboratory, have announced a strategic partnership that promises to revolutionize the way users interact with online communities and experience AI-powered features. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Meta is reportedly working on camera-equipped AI earphones.](https://www.androidauthority.com/meta-ai-earphones-3442560/) | The company believes earphones are the future of AI-wearable technology.|
+|[Cursor's instant full file edits with speculative editing.](https://cursor.sh/blog/instant-apply) |Using a bespoke Llama 3 70B model with a speculative prior, the researchers were able to rewrite files almost instantly at a rate of 1,000 tokens per second. They achieved this with some creative output formatting and no diffs. |
+|[Improvements to data analysis in ChatGPT.](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/) |Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NousResearch/Hermes-2-Theta-Llama-3-8B.](https://huggingface.co/NousResearch/Hermes-2-Theta-Llama-3-8B) |Hermes-2 Θ is a merged and then further RLHF'ed version our excellent Hermes 2 Pro model and Meta's Llama-3 Instruct model to form a new model, Hermes-2 Θ, combining the best of both worlds of each model. |
 |[Energy-based Hopfield Boosting for Out-of-Distribution Detection.](https://github.com/ml-jku/hopfield-boosting) |A method called Hopfield Boosting makes use of contemporary Hopfield energy to improve machine learning models' ability to recognize out-of-distribution (OOD) data. |
 |[OpenAI’s custom GPT Store is now open to all for free.](https://www.theverge.com/2024/5/13/24155582/openai-custom-gpt-store-available-free-subscriber) | OpenAI is making a number of its previously subscription-only features available to free users of ChatGPT, with the biggest being the ability to browse its GPT Store and use custom bots, said CTO Mira Murati during the company’s Spring update livestream today. The company also published today’s updates in a blog on its website.|
-|[.]() | |
+|[llama3.np.](https://github.com/likejazz/llama3.np) |llama3.np is pure NumPy implementation for Llama 3 model. For an accurate implementation, I ran the stories15M model trained by Andrej Karpathy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -153,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lethal AI weapons are here: how can we control them?](https://www.nature.com/articles/d41586-024-01029-0) |Autonomous weapons guided by artificial intelligence are already in use. Researchers, legal experts and ethicists are struggling with what should be allowed on the battlefield. |
 |[AI spending grew 293% last year. Here's how companies are using AI to stay ahead.](https://ramp.com/blog/q1-2024-spending-insights) |According to Ramp's Q1 data, its clients' expenditure on AI has increased by 293% year over year, surpassing the rise of all software investment. AI is also being widely used in non-tech businesses including financial services and healthcare, suggesting a wider integration of AI across a range of industries. Even though there is a general slowdown in new investments in AI, businesses who are already utilizing the technology are doubling down. The average amount spent on AI tools has climbed by 138% year over year, and businesses are still cautious when it comes to travel expenses. |
 |[AI Copilots Are Changing How Coding Is Taught.](https://spectrum.ieee.org/ai-coding) | Professors are shifting away from syntax and emphasizing higher-level skills|
-|[.]() | |
+|[Test Driving ChatGPT-4o.](https://www.sabrina.dev/p/chatgpt4o-vs-math) | Inspired by ChatGPT vs Math (2023), let’s see how ChatGPT-4o performs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
