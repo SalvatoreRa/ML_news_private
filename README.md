@@ -91,8 +91,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI chief scientist Ilya Sutskever is officially leaving.](https://www.theverge.com/2024/5/14/24156920/openai-chief-scientist-ilya-sutskever-leaves) |Ilya Sutskever, OpenAI’s co-founder and chief scientist who helped lead the infamous failed coup against Sam Altman and then later changed his mind, is officially leaving the company. |
 |[Project IDX, Google’s next-gen IDE, is now in open beta.](https://techcrunch.com/2024/05/14/project-idx-googles-next-gen-ide-is-now-in-open-beta/) |At it’s annual Google I/O 2024 developer conference on Tuesday, Google announced that Project IDX, the company’s next-gen, AI-centric browser-based development environment, is now in open beta. The company first launched it as an invite-only service gated by a waitlist in August. |
 |[Researchers build AI-driven sarcasm detector.](https://www.theguardian.com/technology/article/2024/may/16/researchers-build-ai-driven-sarcasm-detector) | Being able to detect lowest form of wit could help AI interact with people more naturally, say scientists|
-|[.]() | |
-|[.]() | |
+|[Hugging Face is sharing $10 million worth of compute to help beat the big AI companies.](https://www.theverge.com/2024/5/16/24156755/hugging-face-celement-delangue-free-shared-gpus-ai) |ZeroGPU gives everyone the chance to create AI apps without the burden of GPU costs. |
+|[OpenAI partners with Reddit to integrate unique user-generated content into ChatGPT.](https://venturebeat.com/ai/openai-partners-with-reddit-to-integrate-unique-user-generated-content-into-chatgpt/) |Reddit, the widely popular social news aggregation and discussion platform, and OpenAI, the renowned AI research laboratory, have announced a strategic partnership that promises to revolutionize the way users interact with online communities and experience AI-powered features. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
