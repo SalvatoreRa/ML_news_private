@@ -55,19 +55,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding.](https://arxiv.org/abs/2405.08748v1) | Particularly for Chinese and English, the recently created Hunyuan-DiT establishes a standard for text-to-image diffusion transformers. It has sophisticated data pipeline and transformer structures for ongoing model enhancement.|
 |[Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance.](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/) | An method to improve the quality of images produced by diffusion models without extra training or external modules is called Perturbed-Attention Guidance (PAG). PAG leads to a significant improvement in the structure and fidelity of both unconditional and conditional samples by innovative manipulation of the self-attention mechanisms within the model.|
 |[SqueezeTime.](https://github.com/xinghaochen/squeezetime) | SqueezeTime is a new lightweight network that enhances temporal analysis by condensing the time axis of movies into the channel dimension, specifically for mobile video understanding.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -96,11 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta is reportedly working on camera-equipped AI earphones.](https://www.androidauthority.com/meta-ai-earphones-3442560/) | The company believes earphones are the future of AI-wearable technology.|
 |[Cursor's instant full file edits with speculative editing.](https://cursor.sh/blog/instant-apply) |Using a bespoke Llama 3 70B model with a speculative prior, the researchers were able to rewrite files almost instantly at a rate of 1,000 tokens per second. They achieved this with some creative output formatting and no diffs. |
 |[Improvements to data analysis in ChatGPT.](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/) |Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## Resources
@@ -125,20 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Energy-based Hopfield Boosting for Out-of-Distribution Detection.](https://github.com/ml-jku/hopfield-boosting) |A method called Hopfield Boosting makes use of contemporary Hopfield energy to improve machine learning models' ability to recognize out-of-distribution (OOD) data. |
 |[OpenAI’s custom GPT Store is now open to all for free.](https://www.theverge.com/2024/5/13/24155582/openai-custom-gpt-store-available-free-subscriber) | OpenAI is making a number of its previously subscription-only features available to free users of ChatGPT, with the biggest being the ability to browse its GPT Store and use custom bots, said CTO Mira Murati during the company’s Spring update livestream today. The company also published today’s updates in a blog on its website.|
 |[llama3.np.](https://github.com/likejazz/llama3.np) |llama3.np is pure NumPy implementation for Llama 3 model. For an accurate implementation, I ran the stories15M model trained by Andrej Karpathy. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -155,15 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Copilots Are Changing How Coding Is Taught.](https://spectrum.ieee.org/ai-coding) | Professors are shifting away from syntax and emphasizing higher-level skills|
 |[Test Driving ChatGPT-4o.](https://www.sabrina.dev/p/chatgpt4o-vs-math) | Inspired by ChatGPT vs Math (2023), let’s see how ChatGPT-4o performs.|
 |[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) |Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 6 - 12 May
 
