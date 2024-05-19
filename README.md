@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI spending grew 293% last year. Here's how companies are using AI to stay ahead.](https://ramp.com/blog/q1-2024-spending-insights) |According to Ramp's Q1 data, its clients' expenditure on AI has increased by 293% year over year, surpassing the rise of all software investment. AI is also being widely used in non-tech businesses including financial services and healthcare, suggesting a wider integration of AI across a range of industries. Even though there is a general slowdown in new investments in AI, businesses who are already utilizing the technology are doubling down. The average amount spent on AI tools has climbed by 138% year over year, and businesses are still cautious when it comes to travel expenses. |
 |[AI Copilots Are Changing How Coding Is Taught.](https://spectrum.ieee.org/ai-coding) | Professors are shifting away from syntax and emphasizing higher-level skills|
 |[Test Driving ChatGPT-4o.](https://www.sabrina.dev/p/chatgpt4o-vs-math) | Inspired by ChatGPT vs Math (2023), let’s see how ChatGPT-4o performs.|
-|[.]() | |
+|[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) |Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come |
 |[.]() | |
 |[.]() | |
 |[.]() | |
