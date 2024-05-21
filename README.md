@@ -45,10 +45,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LoRA Learns Less and Forgets Less.](https://arxiv.org/abs/2405.09673) | LoRA is a well-liked technique for enhancing models to add flair or expertise. The trade-off between forgetting and power while utilizing LoRAs is examined in this research. LoRAs are found to retain more of the initial "out of distribution" performance while learning less than full fine tuning.|
 |[Chameleon: Mixed-Modal Early-Fusion Foundation Models.](https://arxiv.org/abs/2405.09818) | Like GPT-4o, Meta has unveiled Chameleon, a natively multi-modal model that works with both text and graphics at the same time. It performs better than a lot of other models. Since then, the Meta team's work on internal models has greatly advanced.|
 |[Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context.](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) |The technical report for Google's most current model family has been updated. While there is a dearth of information regarding the models and data utilized, there is a wealth of information regarding the assessment and safety precautions implemented, providing an intriguing glimpse into large-scale alignment. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing the Frontier Safety Framework.](https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/) | |
+|[ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation.](https://arxiv.org/abs/2405.10508) | |
+|[Grounded 3D-LLM with Referent Tokens.](https://groundedscenellm.github.io/grounded_3d-llm.github.io) | |
+|[LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation.](https://arxiv.org/abs/2405.09789v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
