@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Multi AI Agent Systems using OpenAI's Assistants API (Experts.js).](https://github.com/metaskills/experts) | Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create a Panel of Experts system with expanded memory and attention to detail.|
 |[First-ever AI Code Interpreter for R.](https://caesarhq.notion.site/First-ever-AI-Code-Interpreter-for-R-7a596fe5ee8449469fe8f60ec2d3fa21) |Julius is the leading generative AI tool for data analysis. Designed to perform statistical analysis, data science, and computational tasks, it combines cutting-edge foundational models like GPT-4o, Claude 3, and Gemini 1.5 with robust coding capabilities in Python and R. |
 |[Moondream WebGPU.](https://huggingface.co/spaces/Xenova/experimental-moondream-webgpu) | 1.86 billion parameter VLM (Vision-Language Model) that is optimized for inference on the web. Once downloaded, the model (1.8 GB) will be cached and reused when you revisit the page. Everything runs directly in your browser using 🤗 Transformers.js and ONNX Runtime Web, meaning your conversations aren't sent to a server. You can even disconnect from the internet after the model has loaded!|
-|[.]() | |
+|[Devon: An open-source pair programmer.](https://github.com/entropy-research/Devon) |You can select different models for Multi-file editing, Codebase exploration, Config writing, Test writing, Bug fixing, and Architecture exploration |
 |[.]() | |
 |[.]() | |
 |[.]() | |
