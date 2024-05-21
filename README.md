@@ -76,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[$16k G1 humanoid rises up to smash nuts, twist and twirl.](https://newatlas.com/robotics/unitree-g1-humanoid-agent) |Humanoid development at Chinese robotics company Unitree continues apace. Following its entry into the melee just last year, its fast-walking H1 bot recently got its backflip groove on. Now the faceless and hand-less humanoid is being joined by an impressive all-rounder. |
 |[Google I/O 2024: Here’s everything Google just announced.](https://techcrunch.com/2024/05/15/google-i-o-2024-everything-announced-so-far/) | Google kicked off its developer conference each year with a rapid-fire stream of announcements, including many unveilings of recent things it’s been working on. Brian already kicked us off by sharing what we are expecting. |
 |[Gamma raised $12M in Series A funding to reimagine presentations, powered by AI.](https://gamma.app/docs/Weve-raised-12M-in-Series-A-funding-to-reimagine-presentations-po-1mmk923dzxyrn2t) |Gamma received $12 million from Accel to use AI to reinvent presentations. Over 18 million people have contributed over 60 million Gammas (AI-generated slides) to date. |
-|[.]() | |
-|[.]() | |
+|[ Inflection AI reveals new team and plan to embed emotional AI in business bots.](https://venturebeat.com/ai/exclusive-inflection-ai-reveals-new-team-and-plan-to-embed-emotional-ai-in-business-bots) |Inflection AI unveiled its new leadership team, composed of seasoned Silicon Valley veterans. |
+|[Scarlett Johansson says Altman insinuated that AI soundalike was intentional.](https://arstechnica.com/tech-policy/2024/05/openai-pauses-chatgpt-4o-voice-that-fans-said-ripped-off-scarlett-johansson/) | OpenAI has paused a voice mode option for ChatGPT-4o, Sky, after backlash accusing the AI company of intentionally ripping off Scarlett Johansson's critically acclaimed voice-acting performance in the 2013 sci-fi film Her.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
