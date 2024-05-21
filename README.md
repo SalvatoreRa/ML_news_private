@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The people charged with making sure AI doesn’t destroy humanity have left the building.](https://www.theguardian.com/technology/article/2024/may/21/techscape-openai-sam-altman-superalignment-scarlett-johansson) |If OpenAI can’t keep its own team together, what hope is there for the rest of the industry? Plus, AI-generated ‘slop’ is taking over the internet |
 |[Spam, junk … slop? The latest wave of AI behind the ‘zombie internet’.](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet) |Tech experts hope new term for carelessly automated AI webpages and images can illuminate its damaging impact |
-|[.]() | |
+|[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) | Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come|
 |[.]() | |
 |[.]() | |
 |[.]() | |
