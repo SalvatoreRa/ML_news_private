@@ -74,8 +74,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Productivity soars in sectors of global economy most exposed to AI, says report.](https://www.theguardian.com/technology/article/2024/may/21/productivity-soars-in-sectors-of-global-economy-most-exposed-to-ai-says-report) | Employers in UK, one of 15 countries studied, willing to pay 14% wage premium for jobs requiring AI skills|
 |[ChatGPT suspends Scarlett Johansson-like voice as actor speaks out against OpenAI.](https://www.theguardian.com/technology/article/2024/may/20/chatgpt-scarlett-johansson-voice) |OpenAI says ‘Sky’ is not an imitation of actor’s voice after users compare it to AI companion character in film Her |
 |[$16k G1 humanoid rises up to smash nuts, twist and twirl.](https://newatlas.com/robotics/unitree-g1-humanoid-agent) |Humanoid development at Chinese robotics company Unitree continues apace. Following its entry into the melee just last year, its fast-walking H1 bot recently got its backflip groove on. Now the faceless and hand-less humanoid is being joined by an impressive all-rounder. |
-|[.]() | |
-|[.]() | |
+|[Google I/O 2024: Here’s everything Google just announced.](https://techcrunch.com/2024/05/15/google-i-o-2024-everything-announced-so-far/) | Google kicked off its developer conference each year with a rapid-fire stream of announcements, including many unveilings of recent things it’s been working on. Brian already kicked us off by sharing what we are expecting. |
+|[Gamma raised $12M in Series A funding to reimagine presentations, powered by AI.](https://gamma.app/docs/Weve-raised-12M-in-Series-A-funding-to-reimagine-presentations-po-1mmk923dzxyrn2t) |Gamma received $12 million from Accel to use AI to reinvent presentations. Over 18 million people have contributed over 60 million Gammas (AI-generated slides) to date. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,9 +101,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[model-explorer.](https://github.com/google-ai-edge/model-explorer/wiki/4.-API-Guide) | A new model explorer from Google makes it simple to see the computation graph of your models. Performance engineering and debugging may find use for it.|
 |[real-time inference demo for paligemma.](https://github.com/sumo43/loopvlm) |You may run the latest recent Google VLM in real time by using GPT-Fast. Given how simple it is to fine-tune the model for particular jobs, this opens up a multitude of powerful downstream activities. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Multi AI Agent Systems using OpenAI's Assistants API (Experts.js).](https://github.com/metaskills/experts) | Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create a Panel of Experts system with expanded memory and attention to detail.|
+|[First-ever AI Code Interpreter for R.](https://caesarhq.notion.site/First-ever-AI-Code-Interpreter-for-R-7a596fe5ee8449469fe8f60ec2d3fa21) |Julius is the leading generative AI tool for data analysis. Designed to perform statistical analysis, data science, and computational tasks, it combines cutting-edge foundational models like GPT-4o, Claude 3, and Gemini 1.5 with robust coding capabilities in Python and R. |
+|[Moondream WebGPU.](https://huggingface.co/spaces/Xenova/experimental-moondream-webgpu) | 1.86 billion parameter VLM (Vision-Language Model) that is optimized for inference on the web. Once downloaded, the model (1.8 GB) will be cached and reused when you revisit the page. Everything runs directly in your browser using 🤗 Transformers.js and ONNX Runtime Web, meaning your conversations aren't sent to a server. You can even disconnect from the internet after the model has loaded!|
 |[.]() | |
 |[.]() | |
 |[.]() | |
