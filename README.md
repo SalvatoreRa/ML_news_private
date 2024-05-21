@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation.](https://arxiv.org/abs/2405.10508) |AI can be creatively and entertainingly used to generate artistic 2D visuals. This work uses text-guided Gaussian Splatting to bring that capacity to 3D. |
 |[Grounded 3D-LLM with Referent Tokens.](https://groundedscenellm.github.io/grounded_3d-llm.github.io) | It's difficult to figure out where items are in a 3D setting. You can identify semantic labels for things in 3D space by employing language-guided 3D understanding.|
 |[LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation.](https://arxiv.org/abs/2405.09789v1) | LeMeViT is a novel method that uses learnable meta tokens to lower the computational costs associated with Vision Transformers. By effectively capturing important data, these tokens accelerate inference.|
-|[.]() | |
+|[Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers.](https://arxiv.org/abs/2405.10612v1) |A fresh security risk has been identified for the well-known AI model Vision Transformers by researchers. The attack, known as SWARM, is extremely sneaky and harmful to consumers since it discreetly activates backdoor behavior in a model using a "switch token". |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gamma raised $12M in Series A funding to reimagine presentations, powered by AI.](https://gamma.app/docs/Weve-raised-12M-in-Series-A-funding-to-reimagine-presentations-po-1mmk923dzxyrn2t) |Gamma received $12 million from Accel to use AI to reinvent presentations. Over 18 million people have contributed over 60 million Gammas (AI-generated slides) to date. |
 |[ Inflection AI reveals new team and plan to embed emotional AI in business bots.](https://venturebeat.com/ai/exclusive-inflection-ai-reveals-new-team-and-plan-to-embed-emotional-ai-in-business-bots) |Inflection AI unveiled its new leadership team, composed of seasoned Silicon Valley veterans. |
 |[Scarlett Johansson says Altman insinuated that AI soundalike was intentional.](https://arstechnica.com/tech-policy/2024/05/openai-pauses-chatgpt-4o-voice-that-fans-said-ripped-off-scarlett-johansson/) | OpenAI has paused a voice mode option for ChatGPT-4o, Sky, after backlash accusing the AI company of intentionally ripping off Scarlett Johansson's critically acclaimed voice-acting performance in the 2013 sci-fi film Her.|
-|[.]() | |
-|[.]() | |
+|[Perplexity CEO Aravind Srinivas takes shots at Google.](https://www.axios.com/2024/05/14/perplexity-ceo-aravind-srinivas-ai-google) | Google's planned roll-out of AI-summarized search results doesn't faze Perplexity AI CEO and co-founder Aravind Srinivas — whose startup has offered a popular AI-driven search tool providing similar digests for nearly two years.|
+|[Google still hasn’t fixed Gemini’s biased image generator.](https://techcrunch.com/2024/05/15/google-still-hasnt-fixed-geminis-biased-image-generator/) | Back in February, Google paused its AI-powered chatbot Gemini’s ability to generate images of people after users complained of historical inaccuracies. Well, the problem’s likely more complex than Hassabis alluded to.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Spam, junk … slop? The latest wave of AI behind the ‘zombie internet’.](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet) |Tech experts hope new term for carelessly automated AI webpages and images can illuminate its damaging impact |
 |[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) | Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come|
 |[What happened to OpenAI’s long-term AI risk team?](https://arstechnica.com/ai/2024/05/what-happened-to-openais-long-term-ai-risk-team/) |Former team members have either resigned or been absorbed into other research groups. |
-|[.]() | |
+|[What’s up with Llama 3? Arena data analysis.](https://lmsys.org/blog/2024-05-08-llama3/) |When it comes to open-ended creative activities, Meta's Llama 3-70B language model outperforms competitors in the English Chatbot Arena, but it struggles with more technical suggestions. The results of the analysis show that Llama 3's victory rate drops as the instructions get harder, and that it excels at friendly, conversational responses. Even if Llama 3's approachability might have helped it succeed, more research is needed to determine its true competitive advantage. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
