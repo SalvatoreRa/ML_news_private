@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[First-ever AI Code Interpreter for R.](https://caesarhq.notion.site/First-ever-AI-Code-Interpreter-for-R-7a596fe5ee8449469fe8f60ec2d3fa21) |Julius is the leading generative AI tool for data analysis. Designed to perform statistical analysis, data science, and computational tasks, it combines cutting-edge foundational models like GPT-4o, Claude 3, and Gemini 1.5 with robust coding capabilities in Python and R. |
 |[Moondream WebGPU.](https://huggingface.co/spaces/Xenova/experimental-moondream-webgpu) | 1.86 billion parameter VLM (Vision-Language Model) that is optimized for inference on the web. Once downloaded, the model (1.8 GB) will be cached and reused when you revisit the page. Everything runs directly in your browser using 🤗 Transformers.js and ONNX Runtime Web, meaning your conversations aren't sent to a server. You can even disconnect from the internet after the model has loaded!|
 |[Devon: An open-source pair programmer.](https://github.com/entropy-research/Devon) |You can select different models for Multi-file editing, Codebase exploration, Config writing, Test writing, Bug fixing, and Architecture exploration |
-|[.]() | |
-|[.]() | |
+|[llama3 implemented from scratch.](https://github.com/naklecha/llama3-from-scratch) | in this file, i implemented llama3 from scratch, one tensor and matrix multiplication at a time. also, im going to load tensors directly from the model file that meta provided for llama3|
+|[PSG4D - 4D Panoptic Scene Graph Generation.](https://github.com/jingkang50/psg4d) | The PSG4D (4D Panoptic Scene Graph Generation) Task is a novel task that aims to bridge the gap between raw visual inputs in a dynamic 4D world and high-level visual understanding. It involves generating a comprehensive 4D scene graph from RGB-D video sequences or point cloud video sequences.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
