@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scarlett Johansson says Altman insinuated that AI soundalike was intentional.](https://arstechnica.com/tech-policy/2024/05/openai-pauses-chatgpt-4o-voice-that-fans-said-ripped-off-scarlett-johansson/) | OpenAI has paused a voice mode option for ChatGPT-4o, Sky, after backlash accusing the AI company of intentionally ripping off Scarlett Johansson's critically acclaimed voice-acting performance in the 2013 sci-fi film Her.|
 |[Perplexity CEO Aravind Srinivas takes shots at Google.](https://www.axios.com/2024/05/14/perplexity-ceo-aravind-srinivas-ai-google) | Google's planned roll-out of AI-summarized search results doesn't faze Perplexity AI CEO and co-founder Aravind Srinivas — whose startup has offered a popular AI-driven search tool providing similar digests for nearly two years.|
 |[Google still hasn’t fixed Gemini’s biased image generator.](https://techcrunch.com/2024/05/15/google-still-hasnt-fixed-geminis-biased-image-generator/) | Back in February, Google paused its AI-powered chatbot Gemini’s ability to generate images of people after users complained of historical inaccuracies. Well, the problem’s likely more complex than Hassabis alluded to.|
-|[.]() | |
-|[.]() | |
+|[SoundHound AI and Perplexity Partner to Bring Online LLMs to Next Gen Voice Assistants Across Cars and IoT Devices.](https://www.businesswire.com/news/home/20240509196718/en/SoundHound-AI-and-Perplexity-Partner-to-Bring-Online-LLMs-to-Next-Gen-Voice-Assistants-Across-Cars-and-IoT-Devices) | Perplexity’s capabilities added to SoundHound Chat AI will respond to questions conversationally with real-time knowledge from the web|
+|[Stability AI discusses sale amid cash crunch, The Information reports.](https://finance.yahoo.com/news/stability-ai-discusses-sale-amid-235921573.htm) |Artificial Intelligence startup Stability AI held discussions with at least one potential buyer in recent weeks about a sale as it faces a cash crunch, The Information reported on Wednesday, citing a person involved in the talks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
