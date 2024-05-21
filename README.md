@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[model-explorer.](https://github.com/google-ai-edge/model-explorer/wiki/4.-API-Guide) | A new model explorer from Google makes it simple to see the computation graph of your models. Performance engineering and debugging may find use for it.|
+|[real-time inference demo for paligemma.](https://github.com/sumo43/loopvlm) |You may run the latest recent Google VLM in real time by using GPT-Fast. Given how simple it is to fine-tune the model for particular jobs, this opens up a multitude of powerful downstream activities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
