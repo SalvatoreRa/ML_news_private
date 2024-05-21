@@ -69,9 +69,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[First companies sign up to AI safety standards on eve of Seoul summit.](https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit) | Rishi Sunak says 16 international firms have committed, but standards have been criticised for lacking teeth|
+|[World is ill-prepared for breakthroughs in AI, say experts.](https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts) | Governments have made insufficient regulatory progress, ‘godfathers’ of the technology say before summit|
+|[Productivity soars in sectors of global economy most exposed to AI, says report.](https://www.theguardian.com/technology/article/2024/may/21/productivity-soars-in-sectors-of-global-economy-most-exposed-to-ai-says-report) | Employers in UK, one of 15 countries studied, willing to pay 14% wage premium for jobs requiring AI skills|
 |[.]() | |
 |[.]() | |
 |[.]() | |
