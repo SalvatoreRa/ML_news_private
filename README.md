@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[First companies sign up to AI safety standards on eve of Seoul summit.](https://www.theguardian.com/technology/article/2024/may/21/first-companies-sign-up-ai-safety-standards-seoul-summit) | Rishi Sunak says 16 international firms have committed, but standards have been criticised for lacking teeth|
 |[World is ill-prepared for breakthroughs in AI, say experts.](https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts) | Governments have made insufficient regulatory progress, ‘godfathers’ of the technology say before summit|
 |[Productivity soars in sectors of global economy most exposed to AI, says report.](https://www.theguardian.com/technology/article/2024/may/21/productivity-soars-in-sectors-of-global-economy-most-exposed-to-ai-says-report) | Employers in UK, one of 15 countries studied, willing to pay 14% wage premium for jobs requiring AI skills|
-|[.]() | |
+|[ChatGPT suspends Scarlett Johansson-like voice as actor speaks out against OpenAI.](https://www.theguardian.com/technology/article/2024/may/20/chatgpt-scarlett-johansson-voice) |OpenAI says ‘Sky’ is not an imitation of actor’s voice after users compare it to AI companion character in film Her |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[The people charged with making sure AI doesn’t destroy humanity have left the building.](https://www.theguardian.com/technology/article/2024/may/21/techscape-openai-sam-altman-superalignment-scarlett-johansson) |If OpenAI can’t keep its own team together, what hope is there for the rest of the industry? Plus, AI-generated ‘slop’ is taking over the internet |
 |[.]() | |
 |[.]() | |
 |[.]() | |
