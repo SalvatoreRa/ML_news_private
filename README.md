@@ -42,9 +42,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LoRA Learns Less and Forgets Less.](https://arxiv.org/abs/2405.09673) | LoRA is a well-liked technique for enhancing models to add flair or expertise. The trade-off between forgetting and power while utilizing LoRAs is examined in this research. LoRAs are found to retain more of the initial "out of distribution" performance while learning less than full fine tuning.|
+|[Chameleon: Mixed-Modal Early-Fusion Foundation Models.](https://arxiv.org/abs/2405.09818) | Like GPT-4o, Meta has unveiled Chameleon, a natively multi-modal model that works with both text and graphics at the same time. It performs better than a lot of other models. Since then, the Meta team's work on internal models has greatly advanced.|
+|[Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context.](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) |The technical report for Google's most current model family has been updated. While there is a dearth of information regarding the models and data utilized, there is a wealth of information regarding the assessment and safety precautions implemented, providing an intriguing glimpse into large-scale alignment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[World is ill-prepared for breakthroughs in AI, say experts.](https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts) | Governments have made insufficient regulatory progress, ‘godfathers’ of the technology say before summit|
 |[Productivity soars in sectors of global economy most exposed to AI, says report.](https://www.theguardian.com/technology/article/2024/may/21/productivity-soars-in-sectors-of-global-economy-most-exposed-to-ai-says-report) | Employers in UK, one of 15 countries studied, willing to pay 14% wage premium for jobs requiring AI skills|
 |[ChatGPT suspends Scarlett Johansson-like voice as actor speaks out against OpenAI.](https://www.theguardian.com/technology/article/2024/may/20/chatgpt-scarlett-johansson-voice) |OpenAI says ‘Sky’ is not an imitation of actor’s voice after users compare it to AI companion character in film Her |
-|[.]() | |
+|[$16k G1 humanoid rises up to smash nuts, twist and twirl.](https://newatlas.com/robotics/unitree-g1-humanoid-agent) |Humanoid development at Chinese robotics company Unitree continues apace. Following its entry into the melee just last year, its fast-walking H1 bot recently got its backflip groove on. Now the faceless and hand-less humanoid is being joined by an impressive all-rounder. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The people charged with making sure AI doesn’t destroy humanity have left the building.](https://www.theguardian.com/technology/article/2024/may/21/techscape-openai-sam-altman-superalignment-scarlett-johansson) |If OpenAI can’t keep its own team together, what hope is there for the rest of the industry? Plus, AI-generated ‘slop’ is taking over the internet |
 |[Spam, junk … slop? The latest wave of AI behind the ‘zombie internet’.](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet) |Tech experts hope new term for carelessly automated AI webpages and images can illuminate its damaging impact |
 |[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) | Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come|
-|[.]() | |
+|[What happened to OpenAI’s long-term AI risk team?](https://arstechnica.com/ai/2024/05/what-happened-to-openais-long-term-ai-risk-team/) |Former team members have either resigned or been absorbed into other research groups. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
