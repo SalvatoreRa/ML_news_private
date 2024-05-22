@@ -51,8 +51,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation.](https://arxiv.org/abs/2405.09789v1) | LeMeViT is a novel method that uses learnable meta tokens to lower the computational costs associated with Vision Transformers. By effectively capturing important data, these tokens accelerate inference.|
 |[Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers.](https://arxiv.org/abs/2405.10612v1) |A fresh security risk has been identified for the well-known AI model Vision Transformers by researchers. The attack, known as SWARM, is extremely sneaky and harmful to consumers since it discreetly activates backdoor behavior in a model using a "switch token". |
 |[Mapping the Mind of a Large Language Model.](https://www.anthropic.com/research/mapping-mind-language-model) |Today we report a significant advance in understanding the inner workings of AI models. We have identified how millions of concepts are represented inside Claude Sonnet, one of our deployed large language models. This is the first ever detailed look inside a modern, production-grade large language model. This interpretability discovery could, in future, help us make AI models safer. |
-|[.]() | |
-|[.]() | |
+|[Smart Expert System: Large Language Models as Text Classifiers.](https://arxiv.org/abs/2405.10523v1) |Text classification is a fundamental task in Natural Language Processing (NLP), and the advent of Large Language Models (LLMs) has revolutionized the field. This paper introduces the Smart Expert System, a novel approach that leverages LLMs as text classifiers.  |
+|[CSTA: CNN-based Spatiotemporal Attention for Video Summarization.](https://github.com/thswodnjs3/) | In order to enhance video summarization, this project presents a novel CNN-based SpatioTemporal Attention (CSTA) technique. In contrast to conventional attention processes, CSTA uses a 2D CNN to efficiently extract the visual meaning of frames in order to comprehend relationships and important features in films.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,8 +119,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[llama3 implemented from scratch.](https://github.com/naklecha/llama3-from-scratch) | in this file, i implemented llama3 from scratch, one tensor and matrix multiplication at a time. also, im going to load tensors directly from the model file that meta provided for llama3|
 |[PSG4D - 4D Panoptic Scene Graph Generation.](https://github.com/jingkang50/psg4d) | The PSG4D (4D Panoptic Scene Graph Generation) Task is a novel task that aims to bridge the gap between raw visual inputs in a dynamic 4D world and high-level visual understanding. It involves generating a comprehensive 4D scene graph from RGB-D video sequences or point cloud video sequences.|
 |[microsoft/Phi-3-medium-128k-instruct.](https://huggingface.co/microsoft/Phi-3-medium-128k-instruct) | The Phi-3-Medium-128K-Instruct is a 14B parameters, lightweight, state-of-the-art open model trained with the Phi-3 datasets that includes both synthetic data and the filtered publicly available websites data with a focus on high-quality and reasoning dense properties.|
-|[.]() | |
-|[.]() | |
+|[Debiasing Large Visual Language Models .](https://github.com/yfzhang114/llava-align) | Post-Hoc debias method and Visual Debias Decoding strategy. These strategies not only prove beneficial in minimizing hallucinations but also contribute to the generation of more helpful and precise illustrations |
+|[ DeepSeek-VL.](https://github.com/deepseek-ai/deepseek-vl) |an open-source Vision-Language (VL) Model designed for real-world vision and language understanding applications. DeepSeek-VL possesses general multimodal understanding capabilities, capable of processing logical diagrams, web pages, formula recognition, scientific literature, natural images, and embodied intelligence in complex scenarios. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
