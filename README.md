@@ -82,6 +82,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google still hasn’t fixed Gemini’s biased image generator.](https://techcrunch.com/2024/05/15/google-still-hasnt-fixed-geminis-biased-image-generator/) | Back in February, Google paused its AI-powered chatbot Gemini’s ability to generate images of people after users complained of historical inaccuracies. Well, the problem’s likely more complex than Hassabis alluded to.|
 |[SoundHound AI and Perplexity Partner to Bring Online LLMs to Next Gen Voice Assistants Across Cars and IoT Devices.](https://www.businesswire.com/news/home/20240509196718/en/SoundHound-AI-and-Perplexity-Partner-to-Bring-Online-LLMs-to-Next-Gen-Voice-Assistants-Across-Cars-and-IoT-Devices) | Perplexity’s capabilities added to SoundHound Chat AI will respond to questions conversationally with real-time knowledge from the web|
 |[Stability AI discusses sale amid cash crunch, The Information reports.](https://finance.yahoo.com/news/stability-ai-discusses-sale-amid-235921573.htm) |Artificial Intelligence startup Stability AI held discussions with at least one potential buyer in recent weeks about a sale as it faces a cash crunch, The Information reported on Wednesday, citing a person involved in the talks. |
+|[Scale AI raises $1B.](https://scale.com/blog/scale-ai-series-f) |Accel and earlier investors provide the gigantic series F. There is a huge need for the services offered, and Scale is in a unique position to keep driving the current AI data surge. |
+|[Elon Musk’s xAI is working on making Grok multimodal.](https://www.theverge.com/2024/5/21/24161764/elon-musk-xai-grok-multimodal-ai) |Users may soon be able to input images into Grok for text-based answers. |
+|[Google CEO Sundar Pichai on AI-powered search and the future of the web.](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview) |The head of Google sat down with Decoder last week to talk about the biggest advancements in AI, the future of Google Search, and the fate of the web.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
