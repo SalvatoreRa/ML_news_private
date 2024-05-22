@@ -85,9 +85,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scale AI raises $1B.](https://scale.com/blog/scale-ai-series-f) |Accel and earlier investors provide the gigantic series F. There is a huge need for the services offered, and Scale is in a unique position to keep driving the current AI data surge. |
 |[Elon Musk’s xAI is working on making Grok multimodal.](https://www.theverge.com/2024/5/21/24161764/elon-musk-xai-grok-multimodal-ai) |Users may soon be able to input images into Grok for text-based answers. |
 |[Google CEO Sundar Pichai on AI-powered search and the future of the web.](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview) |The head of Google sat down with Decoder last week to talk about the biggest advancements in AI, the future of Google Search, and the fate of the web.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Apple announces new accessibility features, including Eye Tracking, Music Haptics, and Vocal Shortcuts.](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/) |  Apple today announced new accessibility features coming later this year, including Eye Tracking, a way for users with physical disabilities to control iPad or iPhone with their eyes. |
+|[Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth.](https://news.microsoft.com/2024/05/08/microsoft-announces-3-3-billion-investment-in-wisconsin-to-spur-artificial-intelligence-innovation-and-economic-growth/) |Microsoft today announced a broad investment package designed to strengthen the role of Southeast Wisconsin as a hub for AI-powered economic activity, innovation, and job creation. These investments include $3.3B in cloud computing and AI infrastructure, the creation of the country’s first manufacturing-focused AI co-innovation lab, and an AI skilling initiative to equip more than 100,000 of the state’s residents with essential AI skills. |
+|[ElevenLabs has launched a free iPhone app that speaks text on the screen — 11 voices and PDF capabilities available.](https://itc.ua/en/news/elevenlabs-has-launched-a-free-iphone-app-that-speaks-text-on-the-screen-11-voices-and-pdf-capabilities-available/) | The unicorn startup ElevenLabs, best known for its AI dubbing site, has launched its first public app.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[As the AI world gathers in Seoul, can an accelerating industry balance progress against safety?](https://www.theguardian.com/technology/article/2024/may/18/ai-seoul-global-summit-safety-openai-meta) | Companies such as OpenAI and Meta push ahead, but it is clear that biggest changes are yet to come|
 |[What happened to OpenAI’s long-term AI risk team?](https://arstechnica.com/ai/2024/05/what-happened-to-openais-long-term-ai-risk-team/) |Former team members have either resigned or been absorbed into other research groups. |
 |[What’s up with Llama 3? Arena data analysis.](https://lmsys.org/blog/2024-05-08-llama3/) |When it comes to open-ended creative activities, Meta's Llama 3-70B language model outperforms competitors in the English Chatbot Arena, but it struggles with more technical suggestions. The results of the analysis show that Llama 3's victory rate drops as the instructions get harder, and that it excels at friendly, conversational responses. Even if Llama 3's approachability might have helped it succeed, more research is needed to determine its true competitive advantage. |
-|[.]() | |
+|[ChatGPT can talk, but OpenAI employees sure can’t.](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release) | The stringent non-compete agreement (NDA) of OpenAI, which forbids former workers from criticizing the company for fear of forfeiting their invested ownership, has come to light with the exits of Ilya Sutskever and Jan Leike. In response to the article, CEO Sam Altman said there would be a correction.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
