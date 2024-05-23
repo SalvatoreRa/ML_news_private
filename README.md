@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[microsoft/Phi-3-medium-128k-instruct.](https://huggingface.co/microsoft/Phi-3-medium-128k-instruct) | The Phi-3-Medium-128K-Instruct is a 14B parameters, lightweight, state-of-the-art open model trained with the Phi-3 datasets that includes both synthetic data and the filtered publicly available websites data with a focus on high-quality and reasoning dense properties.|
 |[Debiasing Large Visual Language Models .](https://github.com/yfzhang114/llava-align) | Post-Hoc debias method and Visual Debias Decoding strategy. These strategies not only prove beneficial in minimizing hallucinations but also contribute to the generation of more helpful and precise illustrations |
 |[ DeepSeek-VL.](https://github.com/deepseek-ai/deepseek-vl) |an open-source Vision-Language (VL) Model designed for real-world vision and language understanding applications. DeepSeek-VL possesses general multimodal understanding capabilities, capable of processing logical diagrams, web pages, formula recognition, scientific literature, natural images, and embodied intelligence in complex scenarios. |
-|[.]() | |
-|[.]() | |
+|[MiniCPM-V.](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-V is a series of end-side multimodal LLMs (MLLMs) designed for vision-language understanding. Models take image and text as inputs and provide high-quality text outputs. Since February 2024, we have released 4 versions of the model, aiming to achieve strong performance and efficient deployment|
+|[OLAPH: Improving Factuality in Biomedical Long-form Question Answering.](https://github.com/dmis-lab/olaph) | A new benchmark dataset called MedLFQA was created with the goal of enhancing the factual accuracy of long-form replies from big language models in the medical domain. OLAPH is a framework that uses preference optimization and automatic evaluations to teach LLMs to reduce errors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
