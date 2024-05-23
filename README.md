@@ -91,8 +91,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The US Congress is taking on AI — this computer scientist is helping.](https://www.nature.com/articles/d41586-024-01354-4) |Kiri Wagstaff, who temporarily shelved her academic career to provide advice on federal AI legislation, talks about life inside the halls of power. |
 |[OpenAI Partners with News Corp.](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/) |News Corp, which publishes articles from WSJ, NYP, The Times, and other publications, and OpenAI have partnered to provide News Corp's news material on OpenAI's platform, which they say would improve generations' accuracy and usability. |
 |[Stanford HAI Releases Updated Foundation Model Transparency Index.](https://crfm.stanford.edu/2024/05/21/fmti-may-2024.html) |The most recent version of Stanford HAI's Foundation Model Transparency Index, which assesses the transparency of 14 significant AI developers, including Google and OpenAI, was released. These businesses showed a considerable improvement and readiness to engage in a dialogue about their models by disclosing fresh information that was not previously known to the public. The average transparency score was just 58 out of 100, indicating serious deficiencies in areas including downstream impact, data access, and model credibility despite these advancements. |
-|[.]() | |
-|[.]() | |
+|[The ChatGPT desktop app is more helpful than I expected - here's why and how to try it.](https://www.zdnet.com/article/the-chatgpt-desktop-app-is-more-helpful-than-i-expected-heres-why-and-how-to-try-it/) |Among OpenAI's many big updates this week was a new ChatGPT app for MacOS. Here's how to use it and when Windows users can get in on the fun. |
+|[Suno has raised $125 million to build a future where anyone can make music.](https://suno.com/blog/fundraising-announcement-may-2024) |A platform for creating music called Suno has raised $125 million to keep constructing a world in which anyone can compose music. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,8 +123,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ DeepSeek-VL.](https://github.com/deepseek-ai/deepseek-vl) |an open-source Vision-Language (VL) Model designed for real-world vision and language understanding applications. DeepSeek-VL possesses general multimodal understanding capabilities, capable of processing logical diagrams, web pages, formula recognition, scientific literature, natural images, and embodied intelligence in complex scenarios. |
 |[MiniCPM-V.](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-V is a series of end-side multimodal LLMs (MLLMs) designed for vision-language understanding. Models take image and text as inputs and provide high-quality text outputs. Since February 2024, we have released 4 versions of the model, aiming to achieve strong performance and efficient deployment|
 |[OLAPH: Improving Factuality in Biomedical Long-form Question Answering.](https://github.com/dmis-lab/olaph) | A new benchmark dataset called MedLFQA was created with the goal of enhancing the factual accuracy of long-form replies from big language models in the medical domain. OLAPH is a framework that uses preference optimization and automatic evaluations to teach LLMs to reduce errors.|
-|[.]() | |
-|[.]() | |
+|[Tarsier.](https://github.com/reworkd/tarsier) | Tarsier, a new tool from Reworkd, visually tags webpage items with brackets and IDs to improve LLMs for online interface jobs. Through OCR-generated text representations, Tarsier enables an LLM without vision to comprehend the structure of a webpage, beating vision-language models in benchmarks.|
+|[mistralai/Mistral-7B-Instruct-v0.3.](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | The Mistral-7B-Instruct-v0.3 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.3.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,8 +147,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT can talk, but OpenAI employees sure can’t.](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release) | The stringent non-compete agreement (NDA) of OpenAI, which forbids former workers from criticizing the company for fear of forfeiting their invested ownership, has come to light with the exits of Ilya Sutskever and Jan Leike. In response to the article, CEO Sam Altman said there would be a correction.|
 |[AlphaFold3 — why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0) | The latest iteration of the protein-structure-prediction algorithm AlphaFold has generated a great deal of interest since its release, accompanied by a paper in Nature, earlier this month. But its release has also prompted questions, and criticism, of both the AlphaFold team at Google DeepMind in London and Nature.|
 |[China’s ChatGPT: what a boom in Chinese chatbots means for AI.](https://www.nature.com/articles/d41586-024-01495-6) | ChatGLM is one of hundreds of AI language models being developed for the Chinese language. It comes close to ChatGPT on many measures, say its creators.|
-|[.]() | |
-|[.]() | |
+|[The Old-Fashioned Library at the Heart of the A.I. Boom.](https://www.nytimes.com/2024/05/15/technology/openai-library-office.html) |OpenAI's remodeled mayonnaise factory headquarters, with its library-themed interior design, is a symbol of the company's success with ChatGPT, which focuses on language. On the other hand, the office reminds people of the current legal disputes around the use of copyrighted content in AI training. The library is seen as a place for inspiration by OpenAI employees, despite these disagreements, which supports their conviction that AI-driven and human creativity can work together harmoniously. |
+|[Chaos and tension at OpenAI.](https://garymarcus.substack.com/p/chaos-and-tension-at-openai) |Concerns over OpenAI's dedication to AI safety have led to Ilya Sutskever's departure, which could be concerning given that three other important employees have also quit recently. Concerns are raised regarding how the company's marketing efforts may affect its nonprofit status and safety-focused purpose given these departures. These incidents might also have an impact on the legal and regulatory systems, drawing attention from Washington stakeholders. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
