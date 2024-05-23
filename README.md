@@ -54,9 +54,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Smart Expert System: Large Language Models as Text Classifiers.](https://arxiv.org/abs/2405.10523v1) |Text classification is a fundamental task in Natural Language Processing (NLP), and the advent of Large Language Models (LLMs) has revolutionized the field. This paper introduces the Smart Expert System, a novel approach that leverages LLMs as text classifiers.  |
 |[CSTA: CNN-based Spatiotemporal Attention for Video Summarization.](https://github.com/thswodnjs3/) | In order to enhance video summarization, this project presents a novel CNN-based SpatioTemporal Attention (CSTA) technique. In contrast to conventional attention processes, CSTA uses a 2D CNN to efficiently extract the visual meaning of frames in order to comprehend relationships and important features in films.|
 |[Microsoft introduces Phi-Silica, a 3.3B parameter model made for Copilot+ PC NPUs.](https://venturebeat.com/ai/microsoft-introduces-phi-silica-a-3-3b-parameter-model-made-for-copilot-pc-npus/) |Microsoft is making more investments in the development of small language models (SLMs). At its Build developer conference, the company announced the general availability of its Phi-3 models and previewed Phi-3-vision. However, on the heels of Microsoft’s Copilot+ PC news, it’s introducing an SLM built specifically for these device’s powerful Neural Processing Units (NPUs). |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Aurora: A Foundation Model of the Atmosphere.](https://www.microsoft.com/en-us/research/publication/aurora-a-foundation-model-of-the-atmosphere/) |By training a foundation model for atmospheric predictions, Microsoft has achieved a new state-of-the-art in global weather prediction tests lasting five and ten days. |
+|[MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark.](https://arxiv.org/abs/2405.12209v1) | A new benchmark called MathBench aims to give a comprehensive evaluation of the mathematical capabilities of large language models.|
+|[Wav-KAN: Wavelet Kolmogorov-Arnold Networks.](https://arxiv.org/abs/2405.12832v1) | Wav-KAN is a neural network framework that leverages wavelet functions to enhance performance and interpretability, according to research. Wav-KAN captures both high-frequency and low-frequency data components, which speeds up training and boosts robustness in contrast to standard models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
