@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Wav-KAN: Wavelet Kolmogorov-Arnold Networks.](https://arxiv.org/abs/2405.12832v1) | Wav-KAN is a neural network framework that leverages wavelet functions to enhance performance and interpretability, according to research. Wav-KAN captures both high-frequency and low-frequency data components, which speeds up training and boosts robustness in contrast to standard models.|
 |[https://cohere.com/research/aya.](https://arxiv.org/abs/2405.12710v1) |Global-Local Semantic Consistent Learning (GLSCL), a novel technique created by researchers, greatly lowers computational costs while improving text-video retrieval. |
 |[ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.](https://arxiv.org/abs/2405.12564v1) |ProtT3, a novel framework that combines conventional Language Models (LMs) with Protein Language Models (PLMs) to improve text-based protein understanding, is presented by researchers. Using a cross-modal projector known as Q-Former, ProtT3 combines a PLM for analyzing amino acid sequences with a language model to produce high-quality textual descriptions. |
-|[.]() | |
+|[Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images.](https://github.com/fay-y/diffusion-rscc) | In order to better explain how the environment changes over time, a new probabilistic diffusion model for Remote Sensing Image Change Captioning (RSICC) is presented in this study.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[French AI startup H raises $220M seed round.](https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/) |H, a startup based in Paris and previously known as Holistic AI, has announced a $220 million seed round just a few months after the company’s inception. |
 |[Reflections on our Responsible Scaling Policy.](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy) |With an emphasis on continuous improvement and cooperation with business and government, Anthropic's Responsible Scaling Policy attempts to prevent catastrophic AI safety failures by identifying high-risk capabilities, testing models often, and enforcing tight safety requirements. |
 |[Introducing Aya.](https://cohere.com/research/aya) | A global initiative led by Cohere For AI involving over 3,000 independent researchers across 119 countries. Aya is a state-of-art model and dataset, pushing the boundaries of multilingual AI for 101 languages through open science.|
-|[.]() | |
+|[PaliGemma: An Open Multimodal Model by Google.](https://blog.roboflow.com/paligemma-multimodal-vision/) |PaliGemma is a vision language model (VLM) developed and released by Google that has multimodal capabilities. Unlike other VLMs, such as OpenAI’s GPT-4o, Google Gemini, and Anthropic’s Claude 3 which have struggled with object detection and segmentation, PaliGemma has a wide range of abilities, paired with the ability to fine-tune for better performance on specific tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -125,8 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OLAPH: Improving Factuality in Biomedical Long-form Question Answering.](https://github.com/dmis-lab/olaph) | A new benchmark dataset called MedLFQA was created with the goal of enhancing the factual accuracy of long-form replies from big language models in the medical domain. OLAPH is a framework that uses preference optimization and automatic evaluations to teach LLMs to reduce errors.|
 |[Tarsier.](https://github.com/reworkd/tarsier) | Tarsier, a new tool from Reworkd, visually tags webpage items with brackets and IDs to improve LLMs for online interface jobs. Through OCR-generated text representations, Tarsier enables an LLM without vision to comprehend the structure of a webpage, beating vision-language models in benchmarks.|
 |[mistralai/Mistral-7B-Instruct-v0.3.](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | The Mistral-7B-Instruct-v0.3 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.3.|
-|[.]() | |
-|[.]() | |
+|[Distributed inference on Llama cpp.](https://github.com/ggerganov/llama.cpp/tree/master/examples/rpc) |Distributed inference across several machines is now supported by Llama Cpp. Although it is now restricted to FP16, this is a significant step toward the deployment of open source. |
+|[Enhancing Long-Term Memory for Language Models.](https://github.com/zoeyyao27/sirllm) |A novel method called Streaming Infinite Retentive LLM (SirLLM) aids large language models in retaining lengthier memory over the course of lengthy conversations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
