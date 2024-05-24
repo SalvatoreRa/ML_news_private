@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reflections on our Responsible Scaling Policy.](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy) |With an emphasis on continuous improvement and cooperation with business and government, Anthropic's Responsible Scaling Policy attempts to prevent catastrophic AI safety failures by identifying high-risk capabilities, testing models often, and enforcing tight safety requirements. |
 |[Introducing Aya.](https://cohere.com/research/aya) | A global initiative led by Cohere For AI involving over 3,000 independent researchers across 119 countries. Aya is a state-of-art model and dataset, pushing the boundaries of multilingual AI for 101 languages through open science.|
 |[PaliGemma: An Open Multimodal Model by Google.](https://blog.roboflow.com/paligemma-multimodal-vision/) |PaliGemma is a vision language model (VLM) developed and released by Google that has multimodal capabilities. Unlike other VLMs, such as OpenAI’s GPT-4o, Google Gemini, and Anthropic’s Claude 3 which have struggled with object detection and segmentation, PaliGemma has a wide range of abilities, paired with the ability to fine-tune for better performance on specific tasks. |
-|[.]() | |
+|[Casper Labs Announces AI Governance Solution, Prove AI .](https://casperlabs.io/) |In an effort to improve enterprise AI applications' auditability and transparency, Casper Labs has launched Prove AI, a joint venture with IBM. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[mistralai/Mistral-7B-Instruct-v0.3.](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | The Mistral-7B-Instruct-v0.3 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.3.|
 |[Distributed inference on Llama cpp.](https://github.com/ggerganov/llama.cpp/tree/master/examples/rpc) |Distributed inference across several machines is now supported by Llama Cpp. Although it is now restricted to FP16, this is a significant step toward the deployment of open source. |
 |[Enhancing Long-Term Memory for Language Models.](https://github.com/zoeyyao27/sirllm) |A novel method called Streaming Infinite Retentive LLM (SirLLM) aids large language models in retaining lengthier memory over the course of lengthy conversations. |
-|[.]() | |
+|[Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering.](https://glyph-byt5.github.io/) | Visual text rendering poses a fundamental challenge for contemporary text-to-image generation models, with the core problem lying in text encoder deficiencies. To achieve accurate text rendering, we identify two crucial requirements for text encoders: character awareness and alignment with glyphs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
