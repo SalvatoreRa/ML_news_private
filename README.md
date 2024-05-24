@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stanford HAI Releases Updated Foundation Model Transparency Index.](https://crfm.stanford.edu/2024/05/21/fmti-may-2024.html) |The most recent version of Stanford HAI's Foundation Model Transparency Index, which assesses the transparency of 14 significant AI developers, including Google and OpenAI, was released. These businesses showed a considerable improvement and readiness to engage in a dialogue about their models by disclosing fresh information that was not previously known to the public. The average transparency score was just 58 out of 100, indicating serious deficiencies in areas including downstream impact, data access, and model credibility despite these advancements. |
 |[The ChatGPT desktop app is more helpful than I expected - here's why and how to try it.](https://www.zdnet.com/article/the-chatgpt-desktop-app-is-more-helpful-than-i-expected-heres-why-and-how-to-try-it/) |Among OpenAI's many big updates this week was a new ChatGPT app for MacOS. Here's how to use it and when Windows users can get in on the fun. |
 |[Suno has raised $125 million to build a future where anyone can make music.](https://suno.com/blog/fundraising-announcement-may-2024) |A platform for creating music called Suno has raised $125 million to keep constructing a world in which anyone can compose music. |
-|[.]() | |
+|[Nvidia reports stratospheric growth as AI boom shows no sign of stopping.](https://www.theguardian.com/technology/article/2024/may/22/nvidia-quarterly-earnings) |Chipmaker reports strong demand and higher-than-expected revenue even as other companies spend to develop their own chips |
 |[.]() | |
 |[.]() | |
 |[.]() | |
