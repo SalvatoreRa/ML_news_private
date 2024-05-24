@@ -94,10 +94,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The ChatGPT desktop app is more helpful than I expected - here's why and how to try it.](https://www.zdnet.com/article/the-chatgpt-desktop-app-is-more-helpful-than-i-expected-heres-why-and-how-to-try-it/) |Among OpenAI's many big updates this week was a new ChatGPT app for MacOS. Here's how to use it and when Windows users can get in on the fun. |
 |[Suno has raised $125 million to build a future where anyone can make music.](https://suno.com/blog/fundraising-announcement-may-2024) |A platform for creating music called Suno has raised $125 million to keep constructing a world in which anyone can compose music. |
 |[Nvidia reports stratospheric growth as AI boom shows no sign of stopping.](https://www.theguardian.com/technology/article/2024/may/22/nvidia-quarterly-earnings) |Chipmaker reports strong demand and higher-than-expected revenue even as other companies spend to develop their own chips |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mistral AI and Harvey Partnership.](https://www.harvey.ai/blog/mistral-announcement) | Mistral and Harvey, a legal company, have teamed. Although there aren't many specifics in the statement, it's likely that they will collaborate to create a unique legal paradigm.|
+|[French AI startup H raises $220M seed round.](https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/) |H, a startup based in Paris and previously known as Holistic AI, has announced a $220 million seed round just a few months after the company’s inception. |
+|[Reflections on our Responsible Scaling Policy.](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy) |With an emphasis on continuous improvement and cooperation with business and government, Anthropic's Responsible Scaling Policy attempts to prevent catastrophic AI safety failures by identifying high-risk capabilities, testing models often, and enforcing tight safety requirements. |
+|[Introducing Aya.](https://cohere.com/research/aya) | A global initiative led by Cohere For AI involving over 3,000 independent researchers across 119 countries. Aya is a state-of-art model and dataset, pushing the boundaries of multilingual AI for 101 languages through open science.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
