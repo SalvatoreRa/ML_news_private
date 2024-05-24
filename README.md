@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Aya.](https://cohere.com/research/aya) | A global initiative led by Cohere For AI involving over 3,000 independent researchers across 119 countries. Aya is a state-of-art model and dataset, pushing the boundaries of multilingual AI for 101 languages through open science.|
 |[PaliGemma: An Open Multimodal Model by Google.](https://blog.roboflow.com/paligemma-multimodal-vision/) |PaliGemma is a vision language model (VLM) developed and released by Google that has multimodal capabilities. Unlike other VLMs, such as OpenAI’s GPT-4o, Google Gemini, and Anthropic’s Claude 3 which have struggled with object detection and segmentation, PaliGemma has a wide range of abilities, paired with the ability to fine-tune for better performance on specific tasks. |
 |[Casper Labs Announces AI Governance Solution, Prove AI .](https://casperlabs.io/) |In an effort to improve enterprise AI applications' auditability and transparency, Casper Labs has launched Prove AI, a joint venture with IBM. |
-|[.]() | |
+|[Google AI search tool reportedly tells users to jump off a bridge and eat rocks.](https://www.theguardian.com/technology/article/2024/may/24/google-ai-overviews-search-tool-reportedly-tells-users-to-jump-off-bridge-eat-rocks) |Firm’s AI overviews feature has been rolled out to users in US, but many have reported strange responses |
 |[.]() | |
 |[.]() | |
 |[.]() | |
