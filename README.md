@@ -43,10 +43,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Golden Gate Claude.](https://www.anthropic.com/news/golden-gate-claude) | we released a major new research paper on interpreting large language models, in which we began to map out the inner workings of our AI model, Claude 3 Sonnet. In the “mind” of Claude, we found millions of concepts that activate when the model reads relevant text or sees relevant images, which we call “features”.|
-|[A Better Match for Drivers and Riders: Reinforcement Learning at Lyft.](https://arxiv.org/abs/2310.13810) | |
-|[Lessons from the Trenches on Reproducible Evaluation of Language Models.](https://arxiv.org/abs/2405.14782) | |
-|[RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance.](https://arxiv.org/abs/2405.14677v1) | |
-|[LoRA-Ensemble: Efficient Uncertainty Modelling for Self-attention Networks.](https://github.com/prs-eth/lora-ensemble?utm_source=tldrai) | |
+|[A Better Match for Drivers and Riders: Reinforcement Learning at Lyft.](https://arxiv.org/abs/2310.13810) |The Lyft team matched drivers and riders using online reinforcement learning, which is rewarded by future profits for the drivers. They made an extra $30 million a year for riders and were able to significantly improve in real time. |
+|[Lessons from the Trenches on Reproducible Evaluation of Language Models.](https://arxiv.org/abs/2405.14782) | Language model evaluation is a challenging task, and information on the process is scarce outside of the biggest companies. This work presents a robust and repeatable set of assessment criteria. In the appendix, there is a useful discussion of perplexity evaluation.|
+|[RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance.](https://arxiv.org/abs/2405.14677v1) | A novel method for tailoring diffusion models to produce identity-preserving images from user-supplied references is presented by researchers. This strategy steers diffusion models without further training by using classifier guidance, in contrast to classic methods that need considerable domain-specific training.|
+|[LoRA-Ensemble: Efficient Uncertainty Modelling for Self-attention Networks.](https://github.com/prs-eth/lora-ensemble?utm_source=tldrai) | A parameter-efficient deep ensemble technique for self-attention networks is called LoRA-Ensemble. This method provides accurate and well-calibrated predictions without the significant computational cost associated with typical ensemble methods. It does this by extending Low-Rank Adaptation (LoRA) for implicit ensembling.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
