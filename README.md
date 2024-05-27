@@ -60,11 +60,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[https://cohere.com/research/aya.](https://arxiv.org/abs/2405.12710v1) |Global-Local Semantic Consistent Learning (GLSCL), a novel technique created by researchers, greatly lowers computational costs while improving text-video retrieval. |
 |[ProtT3: Protein-to-Text Generation for Text-based Protein Understanding.](https://arxiv.org/abs/2405.12564v1) |ProtT3, a novel framework that combines conventional Language Models (LMs) with Protein Language Models (PLMs) to improve text-based protein understanding, is presented by researchers. Using a cross-modal projector known as Q-Former, ProtT3 combines a PLM for analyzing amino acid sequences with a language model to produce high-quality textual descriptions. |
 |[Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images.](https://github.com/fay-y/diffusion-rscc) | In order to better explain how the environment changes over time, a new probabilistic diffusion model for Remote Sensing Image Change Captioning (RSICC) is presented in this study.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -101,11 +96,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PaliGemma: An Open Multimodal Model by Google.](https://blog.roboflow.com/paligemma-multimodal-vision/) |PaliGemma is a vision language model (VLM) developed and released by Google that has multimodal capabilities. Unlike other VLMs, such as OpenAI’s GPT-4o, Google Gemini, and Anthropic’s Claude 3 which have struggled with object detection and segmentation, PaliGemma has a wide range of abilities, paired with the ability to fine-tune for better performance on specific tasks. |
 |[Casper Labs Announces AI Governance Solution, Prove AI .](https://casperlabs.io/) |In an effort to improve enterprise AI applications' auditability and transparency, Casper Labs has launched Prove AI, a joint venture with IBM. |
 |[Google AI search tool reportedly tells users to jump off a bridge and eat rocks.](https://www.theguardian.com/technology/article/2024/may/24/google-ai-overviews-search-tool-reportedly-tells-users-to-jump-off-bridge-eat-rocks) |Firm’s AI overviews feature has been rolled out to users in US, but many have reported strange responses |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Resources
 |Link|description|
@@ -128,13 +118,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Distributed inference on Llama cpp.](https://github.com/ggerganov/llama.cpp/tree/master/examples/rpc) |Distributed inference across several machines is now supported by Llama Cpp. Although it is now restricted to FP16, this is a significant step toward the deployment of open source. |
 |[Enhancing Long-Term Memory for Language Models.](https://github.com/zoeyyao27/sirllm) |A novel method called Streaming Infinite Retentive LLM (SirLLM) aids large language models in retaining lengthier memory over the course of lengthy conversations. |
 |[Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering.](https://glyph-byt5.github.io/) | Visual text rendering poses a fundamental challenge for contemporary text-to-image generation models, with the core problem lying in text encoder deficiencies. To achieve accurate text rendering, we identify two crucial requirements for text encoders: character awareness and alignment with glyphs.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -151,19 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chaos and tension at OpenAI.](https://garymarcus.substack.com/p/chaos-and-tension-at-openai) |Concerns over OpenAI's dedication to AI safety have led to Ilya Sutskever's departure, which could be concerning given that three other important employees have also quit recently. Concerns are raised regarding how the company's marketing efforts may affect its nonprofit status and safety-focused purpose given these departures. These incidents might also have an impact on the legal and regulatory systems, drawing attention from Washington stakeholders. |
 |[AI is the reason interviews are harder now.](https://www.softwaredesign.ing/blog/ai-is-the-reason-interviews-are-harder-now) | This essay addresses how technical interview questions are becoming more complicated and how employers are expecting candidates to answer harder challenges faster. It emphasizes how non-technical users can benefit from using AI technologies like Ultracode to help them pass these kinds of interviews. The article recommends in-person interviews as a way to make sure applicants genuinely have the programming abilities required for the position.|
 |[What I've Learned Building Interactive Embedding Visualizations.](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/) | An enthusiast for interactive embedding visualizations describes their well-honed process for producing these kinds of visuals, which illustrate the complex relationships between items depicted as points in three-dimensional areas. Data gathering, co-occurrence matrix construction, sparsification, PyMDE embedding, and 2D projection are the steps in the process that provide a clear visual representation. The author advocates for the accessibility and GPU-accelerated rendering capabilities of web apps by using them for the user interface.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 13 - 19 May
 
