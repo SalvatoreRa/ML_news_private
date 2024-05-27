@@ -103,9 +103,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Mistral-finetune.](https://github.com/mistralai/mistral-finetune) |mistral-finetune is a light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models. It is based on LoRA, a training paradigm where most weights are frozen and only 1-2% additional weights in the form of low-rank matrix perturbations are trained. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Modula.](https://github.com/jxbz/modula) |A novel technique called modular norm allows neural networks to scale training effectively over a range of network sizes by normalizing weight updates. |
+|[MobileNet-V4.](https://huggingface.co/blog/rwightman/mobilenetv4) | Extremely fast and performant computer vision model is called MobileNet. Devices on the edge can run it. This blog article describes the new model and some contemporary modifications that were made to it.|
+|[Multi-Dimensional Features.](https://github.com/joshengels/multidimensionalfeatures) |This project challenges the linear representation hypothesis by examining if language models compute using multi-dimensional characteristics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
