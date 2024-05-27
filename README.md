@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI's Communication Revolution: We're All Talking to Computers Now.](https://www.digitalnative.tech/p/ais-communication-revolution-were) | The most recent AI model from OpenAI, GPT-4o, allows for real-time communication between people and machines by adding vision and audio to its text-based capabilities. The AI revolution brings with it a new wave of interactions between humans and AI, and eventually AI itself. These interactions will probably have an impact on our social habits and business structures. The impact of this technology on human communication will develop as it advances, possibly spurring the development of creative businesses and software.|
 |[I Don’t Want To Spend My One Wild And Precious Life Dealing With Google’s AI Search.](https://aftermath.site/google-ai-search-god-no-why) |The unwelcome three-second delay that Google's AI search tool adds to search results is driving users crazy by interfering with their experience and displaying irrelevant content. |
-|[.]() | |
+|[LLMs are not suitable for (advanced) brainstorming.](https://piaoyang0.wordpress.com/2024/05/15/llms-are-not-suitable-for-brainstorming/) |When it comes to truly creative brainstorming, large language models frequently end up producing consensus-based ideas rather than original notions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
