@@ -108,10 +108,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Multi-Dimensional Features.](https://github.com/joshengels/multidimensionalfeatures) |This project challenges the linear representation hypothesis by examining if language models compute using multi-dimensional characteristics. |
 |[llamafile 0.8.6 CPU benchmark.](https://github.com/Mozilla-Ocho/llamafile/discussions/450) | It is now possible to run inference for the flagship model from Mistral at 20 tokens per second on a commodity CPU, thanks to recent developments from Mozilla's Llamafile project.|
 |[Risks and Opportunities of Open-Source Generative AI.](https://arxiv.org/abs/2405.08597) | examines the potential and hazards associated with open-source generative AI models and makes the case that these models' overall advantages exceed their drawbacks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[How Far Are We From AGI.](https://arxiv.org/abs/2405.10313v1) | offers a summary of the tactics required to attain artificial general intelligence (AGI), including a thorough survey, discussion, and unique viewpoints. It also addresses significant questions regarding the near future of AGI.|
+|[Efficient Multimodal LLMs.](https://arxiv.org/abs/2405.10739v1) | offers a thorough and methodical analysis of the state of efficient multimodal big language models at the moment; it covers applications, constraints, possible future directions, and efficient structures and techniques.|
+|[Scientific Applications of LLMs.](https://arxiv.org/abs/2405.10725) |introduces INDUS, a full suite of LLMs that comprises small distilled models, an encoder model, and embedding models for Earth science, biology, physics, and planetary sciences, among other subjects. |
+|[Guide for Evaluating LLMs.](https://arxiv.org/abs/2405.14782) | offers advice and lessons for assessing large language models (LLMs); it also covers best practices and potential problems, and it introduces an open-source framework for LLM evaluation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
