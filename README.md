@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Modula.](https://github.com/jxbz/modula) |A novel technique called modular norm allows neural networks to scale training effectively over a range of network sizes by normalizing weight updates. |
 |[MobileNet-V4.](https://huggingface.co/blog/rwightman/mobilenetv4) | Extremely fast and performant computer vision model is called MobileNet. Devices on the edge can run it. This blog article describes the new model and some contemporary modifications that were made to it.|
 |[Multi-Dimensional Features.](https://github.com/joshengels/multidimensionalfeatures) |This project challenges the linear representation hypothesis by examining if language models compute using multi-dimensional characteristics. |
-|[.]() | |
+|[llamafile 0.8.6 CPU benchmark.](https://github.com/Mozilla-Ocho/llamafile/discussions/450) | It is now possible to run inference for the flagship model from Mistral at 20 tokens per second on a commodity CPU, thanks to recent developments from Mozilla's Llamafile project.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,8 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[AI's Communication Revolution: We're All Talking to Computers Now.](https://www.digitalnative.tech/p/ais-communication-revolution-were) | The most recent AI model from OpenAI, GPT-4o, allows for real-time communication between people and machines by adding vision and audio to its text-based capabilities. The AI revolution brings with it a new wave of interactions between humans and AI, and eventually AI itself. These interactions will probably have an impact on our social habits and business structures. The impact of this technology on human communication will develop as it advances, possibly spurring the development of creative businesses and software.|
+|[I Don’t Want To Spend My One Wild And Precious Life Dealing With Google’s AI Search.](https://aftermath.site/google-ai-search-god-no-why) |The unwelcome three-second delay that Google's AI search tool adds to search results is driving users crazy by interfering with their experience and displaying irrelevant content. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
