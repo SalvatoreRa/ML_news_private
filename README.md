@@ -42,11 +42,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Golden Gate Claude.](https://www.anthropic.com/news/golden-gate-claude) | we released a major new research paper on interpreting large language models, in which we began to map out the inner workings of our AI model, Claude 3 Sonnet. In the “mind” of Claude, we found millions of concepts that activate when the model reads relevant text or sees relevant images, which we call “features”.|
+|[A Better Match for Drivers and Riders: Reinforcement Learning at Lyft.](https://arxiv.org/abs/2310.13810) | |
+|[Lessons from the Trenches on Reproducible Evaluation of Language Models.](https://arxiv.org/abs/2405.14782) | |
+|[RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance.](https://arxiv.org/abs/2405.14677v1) | |
+|[LoRA-Ensemble: Efficient Uncertainty Modelling for Self-attention Networks.](https://github.com/prs-eth/lora-ensemble?utm_source=tldrai) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
