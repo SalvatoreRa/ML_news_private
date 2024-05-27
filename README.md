@@ -70,8 +70,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Meta and Elon Musk’s xAI fight to partner with chatbot group Character.ai .](https://www.ft.com/content/5cf24fdd-30ed-44ec-afe3-aefa6f4ad90e) |AI pioneer Noam Shazeer launched Character.ai, a rapidly expanding role-playing startup, and Silicon Valley companies are vying for a partnership. This occurs at a time when numerous big businesses are investing heavily in startups. |
+|[Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway.](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action) | penAI has denied that its ChatGPT voice is based on Johansson, but it certainly sounds a lot like her.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
