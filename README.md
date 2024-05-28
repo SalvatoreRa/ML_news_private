@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway.](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action) | penAI has denied that its ChatGPT voice is based on Johansson, but it certainly sounds a lot like her.|
 |[xAI Series B funding round.](https://x.ai/blog/series-b) |xAI is pleased to announce our series B funding round of $6 billion.|
 |[iPhone to get a better Siri, AI emoji creator, smart recaps, and more with iOS 18.](https://timesofindia.indiatimes.com/technology/tech-news/iphone-to-get-a-better-siri-ai-emoji-creator-smart-recaps-and-more-with-ios-18/articleshow/110452936.cms) |in June 2024,  the Cupertino giant will finally unveil its approach to AI |
-|[.]() | |
+|[New startup builds digital pets for Apple's Vision Pro.](https://www.axios.com/2024/05/23/apple-vision-pro-digital-dog-bootloader-ai) |A new startup is coming out of stealth with a plan to offer digital pets for the Apple Vision Pro that use AI to read and respond to human emotion. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Multimodal LLMs.](https://arxiv.org/abs/2405.10739v1) | offers a thorough and methodical analysis of the state of efficient multimodal big language models at the moment; it covers applications, constraints, possible future directions, and efficient structures and techniques.|
 |[Scientific Applications of LLMs.](https://arxiv.org/abs/2405.10725) |introduces INDUS, a full suite of LLMs that comprises small distilled models, an encoder model, and embedding models for Earth science, biology, physics, and planetary sciences, among other subjects. |
 |[Guide for Evaluating LLMs.](https://arxiv.org/abs/2405.14782) | offers advice and lessons for assessing large language models (LLMs); it also covers best practices and potential problems, and it introduces an open-source framework for LLM evaluation.|
-|[.]() | |
+|[Information Retrieval Measures.](https://ir-measur.es/en/latest/) |It is necessary to understand how effectively the retrieval part is operating in order to build a RAG system. This toolbox provides an extensive range of effective performance metrics for information retrieval. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,8 +141,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TechScape: What we learned from the global AI summit in South Korea.](https://www.theguardian.com/technology/article/2024/may/28/techscape-ai-global-summit) |One day and six (very long) agreements later, can we call the meeting to hammer out the future of AI regulation a success? |
 |[Scarlett Johansson’s OpenAI clash is just the start of legal wrangles over artificial intelligence.](https://www.theguardian.com/technology/article/2024/may/27/scarlett-johansson-openai-legal-artificial-intelligence-chatgpt) |Hollywood star’s claim ChatGPT update used an imitation of her voice highlights tensions over rapidly accelerating technology |
 |[Trying to tame AI: Seoul summit flags hurdles to regulation.](https://www.theguardian.com/technology/article/2024/may/27/trying-to-tame-ai-seoul-summit-flags-hurdles-to-regulation) |UK touts ‘Bletchley effect’ of safety institutes, but division remains over whether to limit AI abilities |
-|[.]() | |
-|[.]() | |
+|[How to Build a Category-Defining AI Startup.](https://playbooks.hypergrowthpartners.com/p/how-to-build-a-category-defining) | AI companies need to adopt a marketing-led strategy in order to stand out from the competition and establish themselves as category leaders as the AI field changes quickly. AI startups may accelerate market acceptance, reshape the industry narrative, and position themselves as visionary leaders in their field by adopting a marketing-led strategy.|
+|[Ways to think about AGI.](https://www.ben-evans.com/benedictevans/2024/5/4/ways-to-think-about-agi) | The consensus is unclear because there isn't a well-developed theoretical model of general intelligence or a clear explanation for why or how LLMs work so well, despite the fact that some experts think AGI may be achievable. The conversation highlights the enormous amount of unanswered questions surrounding AGI, recognizing both its possible advantages and disadvantages while drawing comparisons between theology and the empirical methodology of the Apollo Program.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
