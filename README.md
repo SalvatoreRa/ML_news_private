@@ -138,9 +138,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs are not suitable for (advanced) brainstorming.](https://piaoyang0.wordpress.com/2024/05/15/llms-are-not-suitable-for-brainstorming/) |When it comes to truly creative brainstorming, large language models frequently end up producing consensus-based ideas rather than original notions. |
 |[Could AI help cure ‘downward spiral’ of human loneliness?.](https://www.theguardian.com/technology/article/2024/may/27/could-ai-help-cure-downward-spiral-of-human-loneliness) |One computer scientist says we should embrace human-machine relationships, but other experts are more cautious |
 |[Scarlett Johansson’s OpenAI clash is just the start of legal wrangles over artificial intelligence.](https://www.theguardian.com/technology/article/2024/may/27/scarlett-johansson-openai-legal-artificial-intelligence-chatgpt) |Hollywood star’s claim ChatGPT update used an imitation of her voice highlights tensions over rapidly accelerating technology |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[TechScape: What we learned from the global AI summit in South Korea.](https://www.theguardian.com/technology/article/2024/may/28/techscape-ai-global-summit) |One day and six (very long) agreements later, can we call the meeting to hammer out the future of AI regulation a success? |
+|[Scarlett Johansson’s OpenAI clash is just the start of legal wrangles over artificial intelligence.](https://www.theguardian.com/technology/article/2024/may/27/scarlett-johansson-openai-legal-artificial-intelligence-chatgpt) |Hollywood star’s claim ChatGPT update used an imitation of her voice highlights tensions over rapidly accelerating technology |
+|[Trying to tame AI: Seoul summit flags hurdles to regulation.](https://www.theguardian.com/technology/article/2024/may/27/trying-to-tame-ai-seoul-summit-flags-hurdles-to-regulation) |UK touts ‘Bletchley effect’ of safety institutes, but division remains over whether to limit AI abilities |
 |[.]() | |
 |[.]() | |
 |[.]() | |
