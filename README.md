@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Meta and Elon Musk’s xAI fight to partner with chatbot group Character.ai .](https://www.ft.com/content/5cf24fdd-30ed-44ec-afe3-aefa6f4ad90e) |AI pioneer Noam Shazeer launched Character.ai, a rapidly expanding role-playing startup, and Silicon Valley companies are vying for a partnership. This occurs at a time when numerous big businesses are investing heavily in startups. |
 |[Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway.](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action) | penAI has denied that its ChatGPT voice is based on Johansson, but it certainly sounds a lot like her.|
-|[.]() | |
-|[.]() | |
+|[xAI Series B funding round.](https://x.ai/blog/series-b) |xAI is pleased to announce our series B funding round of $6 billion.|
+|[iPhone to get a better Siri, AI emoji creator, smart recaps, and more with iOS 18.](https://timesofindia.indiatimes.com/technology/tech-news/iphone-to-get-a-better-siri-ai-emoji-creator-smart-recaps-and-more-with-ios-18/articleshow/110452936.cms) |in June 2024,  the Cupertino giant will finally unveil its approach to AI |
 |[.]() | |
 |[.]() | |
 |[.]() | |
