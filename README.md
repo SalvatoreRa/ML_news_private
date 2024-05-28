@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[xAI Series B funding round.](https://x.ai/blog/series-b) |xAI is pleased to announce our series B funding round of $6 billion.|
 |[iPhone to get a better Siri, AI emoji creator, smart recaps, and more with iOS 18.](https://timesofindia.indiatimes.com/technology/tech-news/iphone-to-get-a-better-siri-ai-emoji-creator-smart-recaps-and-more-with-ios-18/articleshow/110452936.cms) |in June 2024,  the Cupertino giant will finally unveil its approach to AI |
 |[New startup builds digital pets for Apple's Vision Pro.](https://www.axios.com/2024/05/23/apple-vision-pro-digital-dog-bootloader-ai) |A new startup is coming out of stealth with a plan to offer digital pets for the Apple Vision Pro that use AI to read and respond to human emotion. |
-|[.]() | |
+|[Humane is looking for a buyer after the AI Pin’s underwhelming debut.](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin) |he startup apparently thinks it’s worth between $750 million and $1 billion despite the deep software flaws and hardware issues of its first product. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scientific Applications of LLMs.](https://arxiv.org/abs/2405.10725) |introduces INDUS, a full suite of LLMs that comprises small distilled models, an encoder model, and embedding models for Earth science, biology, physics, and planetary sciences, among other subjects. |
 |[Guide for Evaluating LLMs.](https://arxiv.org/abs/2405.14782) | offers advice and lessons for assessing large language models (LLMs); it also covers best practices and potential problems, and it introduces an open-source framework for LLM evaluation.|
 |[Information Retrieval Measures.](https://ir-measur.es/en/latest/) |It is necessary to understand how effectively the retrieval part is operating in order to build a RAG system. This toolbox provides an extensive range of effective performance metrics for information retrieval. |
-|[.]() | |
-|[.]() | |
+|[A Guide to Creating Neural Circuit Diagrams.](https://github.com/vtabbott/Neural-Circuit-Diagrams/blob/main/Guide/Guide.ipynb) |This is a guide to drawing Neural Circuit Diagrams by Vincent Abbott from the paper Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures. It allows for deep learning algorithms to be comprehensively expressed using a novel diagrammatic scheme. |
+|[InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation.](https://wangyuchi369.github.io/InstructAvatar/) | A novel model called InstructAvatar uses text direction to generate 2D avatars that are emotionally expressive.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
