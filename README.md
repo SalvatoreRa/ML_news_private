@@ -56,9 +56,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Semantic and Spatial Adaptive Pixel-level Classifier for Semantic Segmentation.](https://arxiv.org/abs/2405.06525v1) | The constraints of semantic segmentation have been addressed with the introduction of a new Semantic and Spatial Adaptive (SSA) classifier. This novel method makes use of coarse masks to direct prototype adjustment, improving fine-grained recognition and delineating mask boundaries.|
 |[RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model.](https://github.com/meize0729/rsbuilding) |By integrating building extraction and change detection into a single model, RSBuilding presents a novel method for deciphering buildings from remote sensing photos. |
 |[Meteor: Mamba-based traversal of rationale for Large Language and Vision Models.](https://github.com/byungkwanlee/meteor) | This research presents Meteor, a novel massive language and vision model that is efficient and employs several justifications to enhance comprehension and response times.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[gzip Predicts Data-dependent Scaling Laws.](https://arxiv.org/abs/2405.16684) |Scaling rules are a means of forecasting the performance of models at specific sizes with a given quantity of data. Getting them is costly. In order to forecast a data-dependent scaling law, this research investigates the use of the gzip compression ratio as a powerful signal. |
+|[The Road Less Scheduled.](https://arxiv.org/abs/2405.15682) |A few weeks prior, a brand-new Meta optimizer was circulating as a possible replacement for Adam. The method, including the part about online updates, is described in more depth in this paper. Overall, this appears like a good outcome, particularly in cases when the complete number of planned training steps is not known at the start of the training process. |
+|[Transformers Can Do Arithmetic with the Right Embeddings.](https://arxiv.org/abs/2405.17399v1) |Researchers have added embeddings that encode the position of each digit with respect to the start of the number, which has improved transformer performance on arithmetic tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
