@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New agent capabilities in Microsoft Copilot.](https://www.microsoft.com/en-us/microsoft-365/blog/2024/05/21/new-agent-capabilities-in-microsoft-copilot-unlock-business-value/) |At Build 2024, Microsoft introduced new Copilot capabilities, like as Copilot Extensions and Connectors for simple customization, Team Copilot for team communication, and bespoke AI Agents to automate operations. The goal of these improvements is to increase efficiency in company processes and productivity. The improvements are anticipated to be widely available later in 2024; they are presently in limited private preview. |
 |[“I lost trust”: Why the OpenAI team in charge of safeguarding humanity imploded.](https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence) | Company insiders explain why safety-conscious employees are leaving.|
 |[OpenAI sends internal memo releasing former employees from controversial exit agreements.](https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html) |OpenAI on Thursday backtracked on a controversial decision to, in effect, make former employees choose between signing a non-disparagement agreement that would never expire, or keeping their vested equity in the company. |
-|[.]() | |
+|[Opera adds Google’s Gemini to its browsers.](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai) |Users can access Gemini through the Aria AI assistant on Opera browsers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
