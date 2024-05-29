@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New startup builds digital pets for Apple's Vision Pro.](https://www.axios.com/2024/05/23/apple-vision-pro-digital-dog-bootloader-ai) |A new startup is coming out of stealth with a plan to offer digital pets for the Apple Vision Pro that use AI to read and respond to human emotion. |
 |[Humane is looking for a buyer after the AI Pin’s underwhelming debut.](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin) |he startup apparently thinks it’s worth between $750 million and $1 billion despite the deep software flaws and hardware issues of its first product. |
 |[OpenAI Board Forms Safety and Security Committee.](https://openai.com/index/openai-board-forms-safety-and-security-committee/) | OpenAI declared that its new foundation model will be trained, and it established a Safety and Security Committee. As model capabilities advance, this committee will be responsible with recommending to the board what steps should be taken.|
-|[.]() | |
-|[.]() | |
+|[Anthropic hires former OpenAI safety lead to head up new team.](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/) |Jan Leike, a leading AI researcher who earlier this month resigned from OpenAI before publicly criticizing the company’s approach to AI safety, has joined OpenAI rival Anthropic to lead a new “superalignment” team. |
+|[New agent capabilities in Microsoft Copilot.](https://www.microsoft.com/en-us/microsoft-365/blog/2024/05/21/new-agent-capabilities-in-microsoft-copilot-unlock-business-value/) |At Build 2024, Microsoft introduced new Copilot capabilities, like as Copilot Extensions and Connectors for simple customization, Team Copilot for team communication, and bespoke AI Agents to automate operations. The goal of these improvements is to increase efficiency in company processes and productivity. The improvements are anticipated to be widely available later in 2024; they are presently in limited private preview. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
