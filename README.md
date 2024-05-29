@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trying to tame AI: Seoul summit flags hurdles to regulation.](https://www.theguardian.com/technology/article/2024/may/27/trying-to-tame-ai-seoul-summit-flags-hurdles-to-regulation) |UK touts ‘Bletchley effect’ of safety institutes, but division remains over whether to limit AI abilities |
 |[How to Build a Category-Defining AI Startup.](https://playbooks.hypergrowthpartners.com/p/how-to-build-a-category-defining) | AI companies need to adopt a marketing-led strategy in order to stand out from the competition and establish themselves as category leaders as the AI field changes quickly. AI startups may accelerate market acceptance, reshape the industry narrative, and position themselves as visionary leaders in their field by adopting a marketing-led strategy.|
 |[Ways to think about AGI.](https://www.ben-evans.com/benedictevans/2024/5/4/ways-to-think-about-agi) | The consensus is unclear because there isn't a well-developed theoretical model of general intelligence or a clear explanation for why or how LLMs work so well, despite the fact that some experts think AGI may be achievable. The conversation highlights the enormous amount of unanswered questions surrounding AGI, recognizing both its possible advantages and disadvantages while drawing comparisons between theology and the empirical methodology of the Apollo Program.|
-|[.]() | |
+|[The AI revolution is coming to robots: how will it change them?.](https://www.nature.com/articles/d41586-024-01442-5) |The melding of artificial intelligence and robotics could catapult both to new heights. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
