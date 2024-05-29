@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Board Forms Safety and Security Committee.](https://openai.com/index/openai-board-forms-safety-and-security-committee/) | OpenAI declared that its new foundation model will be trained, and it established a Safety and Security Committee. As model capabilities advance, this committee will be responsible with recommending to the board what steps should be taken.|
 |[Anthropic hires former OpenAI safety lead to head up new team.](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/) |Jan Leike, a leading AI researcher who earlier this month resigned from OpenAI before publicly criticizing the company’s approach to AI safety, has joined OpenAI rival Anthropic to lead a new “superalignment” team. |
 |[New agent capabilities in Microsoft Copilot.](https://www.microsoft.com/en-us/microsoft-365/blog/2024/05/21/new-agent-capabilities-in-microsoft-copilot-unlock-business-value/) |At Build 2024, Microsoft introduced new Copilot capabilities, like as Copilot Extensions and Connectors for simple customization, Team Copilot for team communication, and bespoke AI Agents to automate operations. The goal of these improvements is to increase efficiency in company processes and productivity. The improvements are anticipated to be widely available later in 2024; they are presently in limited private preview. |
-|[.]() | |
+|[“I lost trust”: Why the OpenAI team in charge of safeguarding humanity imploded.](https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence) | Company insiders explain why safety-conscious employees are leaving.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,9 +115,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Information Retrieval Measures.](https://ir-measur.es/en/latest/) |It is necessary to understand how effectively the retrieval part is operating in order to build a RAG system. This toolbox provides an extensive range of effective performance metrics for information retrieval. |
 |[A Guide to Creating Neural Circuit Diagrams.](https://github.com/vtabbott/Neural-Circuit-Diagrams/blob/main/Guide/Guide.ipynb) |This is a guide to drawing Neural Circuit Diagrams by Vincent Abbott from the paper Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures. It allows for deep learning algorithms to be comprehensively expressed using a novel diagrammatic scheme. |
 |[InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation.](https://wangyuchi369.github.io/InstructAvatar/) | A novel model called InstructAvatar uses text direction to generate 2D avatars that are emotionally expressive.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Marigold Pipelines for Computer Vision Tasks.](https://huggingface.co/docs/diffusers/main/en/using-diffusers/marigold_usage) |Diffusers can now use one of the best depth models as a pipeline. This tutorial goes over how to utilize the model, what you can do with it, and how to condition on the latents of the first frame to make it work with videos effortlessly. |
+|[Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20.](https://github.com/karpathy/llm.c/discussions/481) |A version of LLM C, a solitary self-contained GPT-2 implementation designed to replicate the 2019 model suite, has been made available by Andrej Karpathy. The library can train the simplest of these models in about 90 minutes with this latest release. It has few dependencies and executes from start to finish. |
+|[Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth.](https://github.com/snowfallingplum/csd-mt) |A innovative technique for improving makeup transfer tasks without depending on genuine target images is Content-Style Decoupled Makeup Transfer (CSD-MT). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
