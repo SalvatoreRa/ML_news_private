@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[iPhone to get a better Siri, AI emoji creator, smart recaps, and more with iOS 18.](https://timesofindia.indiatimes.com/technology/tech-news/iphone-to-get-a-better-siri-ai-emoji-creator-smart-recaps-and-more-with-ios-18/articleshow/110452936.cms) |in June 2024,  the Cupertino giant will finally unveil its approach to AI |
 |[New startup builds digital pets for Apple's Vision Pro.](https://www.axios.com/2024/05/23/apple-vision-pro-digital-dog-bootloader-ai) |A new startup is coming out of stealth with a plan to offer digital pets for the Apple Vision Pro that use AI to read and respond to human emotion. |
 |[Humane is looking for a buyer after the AI Pin’s underwhelming debut.](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin) |he startup apparently thinks it’s worth between $750 million and $1 billion despite the deep software flaws and hardware issues of its first product. |
-|[.]() | |
+|[OpenAI Board Forms Safety and Security Committee.](https://openai.com/index/openai-board-forms-safety-and-security-committee/) | OpenAI declared that its new foundation model will be trained, and it established a Safety and Security Committee. As model capabilities advance, this committee will be responsible with recommending to the board what steps should be taken.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
