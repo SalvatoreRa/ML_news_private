@@ -94,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sonic: A Low-Latency Voice Model for Lifelike Speech.](https://cartesia.ai/blog/sonic) |The makers of Mamba, sub quadratic Transformer versions, and SSMs have released a new model. Crucially, their recently founded business, Cartesia, has developed a realistic-sounding, lightning-fast speech generating technology. This suggests that they want to take up residence in the helpers' area. |
 |[Vox Media and The Atlantic sign content deals with OpenAI.](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic) |OpenAI continues to establish media partnerships as it looks to lock down training data — and avoid lawsuits.|
 |[Mistral's Code Model.](https://mistral.ai/news/codestral/) |We introduce Codestral, our first-ever code model. Codestral is an open-weight generative AI model explicitly designed for code generation tasks. |
-|[.]() | |
-|[.]() | |
+|[OpenAI signs 100K PwC workers to ChatGPT’s enterprise tier as PwC becomes its first resale partner.](https://techcrunch.com/2024/05/29/openai-signs-on-100k-pwc-workers-to-its-chatgpt-enterprise-tier-as-the-consultant-becomes-its-first-resale-partner/) | OpenAI, on Wednesday announced that it has signed a major enterprise customer that it hopes will indicate how a similar effect could play out in the world of work. PwC, the management consulting giant, will become OpenAI’s biggest customer to date, covering 100,000 users.|
+|[Apple's AI plans involves 'black box' for cloud data.](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data) |  Apple intends to process data from AI applications inside a virtual black box. The concept, known as "Apple Chips in Data Centers" (ACDC) internally, would involve only Apple's hardware being used to perform AI processing in the cloud. The idea is that it will control both the hardware and software on its servers, enabling it to design more secure systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth.](https://github.com/snowfallingplum/csd-mt) |A innovative technique for improving makeup transfer tasks without depending on genuine target images is Content-Style Decoupled Makeup Transfer (CSD-MT). |
 |[LaVague.](https://github.com/lavague-ai/LaVague) |LaVague is an open-source Large Action Model framework to develop AI Web Agents. Our web agents take an objective, such as "Print installation steps for Hugging Face's Diffusers library" and performs the required actions to achieve this goal by leveraging our two core components. |
 |[PRISM: A foundation model for life’s chemistry.](https://www.enveda.com/posts/prism-a-foundation-model-for-lifes-chemistry) |Enveda’s PRISM (Pretrained Representations Informed by Spectral Masking) model was trained on 1.2 billion small molecule mass spectra, the largest training set of small molecule mass spectra ever assembled. |
-|[.]() | |
+|[Scale Private Leaderboard.](https://scale.com/leaderboard) |Scale has created a private language model evaluation leaderboard. Although the ordering isn't all that surprising, it's worth noting that the Llama 3 70B frequently outperforms Claude Opus in terms of instruction following. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
