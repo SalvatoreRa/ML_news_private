@@ -59,6 +59,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[gzip Predicts Data-dependent Scaling Laws.](https://arxiv.org/abs/2405.16684) |Scaling rules are a means of forecasting the performance of models at specific sizes with a given quantity of data. Getting them is costly. In order to forecast a data-dependent scaling law, this research investigates the use of the gzip compression ratio as a powerful signal. |
 |[The Road Less Scheduled.](https://arxiv.org/abs/2405.15682) |A few weeks prior, a brand-new Meta optimizer was circulating as a possible replacement for Adam. The method, including the part about online updates, is described in more depth in this paper. Overall, this appears like a good outcome, particularly in cases when the complete number of planned training steps is not known at the start of the training process. |
 |[Transformers Can Do Arithmetic with the Right Embeddings.](https://arxiv.org/abs/2405.17399v1) |Researchers have added embeddings that encode the position of each digit with respect to the start of the number, which has improved transformer performance on arithmetic tasks. |
+|[DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models.](https://arxiv.org/abs/2405.16749v1) |DMPlug is a new plug-in technique that solves inverse problems (IPs) by using pretrained diffusion models (DMs). DMPlug efficiently addresses both manifold feasibility and measurement feasibility by treating the reverse diffusion process as a function, in contrast to other interleaving techniques. |
+|[PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution.](https://arxiv.org/abs/2405.17158v1) | PatchScaler is a diffusion-based technique that greatly improves inference efficiency for single image super-resolution (SR).|
+|[Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model.](https://kuanchihhuang.github.io/project/reason3d/) | A revolutionary multimodal big language model called Reason3D was created for a thorough comprehension of 3D environments.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
