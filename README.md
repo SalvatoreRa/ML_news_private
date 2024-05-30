@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The AI revolution is coming to robots: how will it change them?.](https://www.nature.com/articles/d41586-024-01442-5) |The melding of artificial intelligence and robotics could catapult both to new heights. |
 |[What GPT-4o illustrates about AI Regulation.](https://www.hyperdimensional.co/p/what-gpt-4o-illustrates-about-ai) |This article compares and contrasts model-level, use-level, and conduct-level frameworks in order to analyze several approaches to AI regulation. It contends that use-level regulation, which can lead to unneeded complexity and unworkable constraints for the deployment of AI, is inferior to conduct-level regulation, which applies current laws to new technologies with minimal precision. One example of the drawbacks of a use-level approach is the limitations placed on AI's capacity to infer emotions by the recent EU AI Act. |
 |[How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models.](https://www.nature.com/articles/d41586-024-01314-y) | Researchers are striving to reverse-engineer artificial intelligence and scan the ‘brains’ of LLMs to see what they are doing, how and why.|
-|[.]() | |
+|[Anglo-American bias could make generative AI an invisible intellectual cage.](https://www.nature.com/articles/d41586-024-01573-9) |Studies show that applications in generative artificial intelligence (AI) such as ChatGPT and other large language models perform remarkably well in English, but are not as proficient in other languages. This masks a more insidious problem.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
