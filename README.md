@@ -83,10 +83,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI sends internal memo releasing former employees from controversial exit agreements.](https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html) |OpenAI on Thursday backtracked on a controversial decision to, in effect, make former employees choose between signing a non-disparagement agreement that would never expire, or keeping their vested equity in the company. |
 |[Opera adds Google’s Gemini to its browsers.](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai) |Users can access Gemini through the Aria AI assistant on Opera browsers. |
 |[Two receptors are better than one for AI-designed obesity drugs.](https://www.nature.com/articles/d41586-024-01399-5) |Compounds predicted by machine learning attach to two receptors involved in appetite and weight. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mistral's New AI Non-Production License .](https://mistral.ai/news/mistral-ai-non-production-license-mnpl/) | Mistral is attempting to strike a balance between corporate success and transparency. It has a new license designed to achieve that equilibrium. It will keep releasing further projects under the new MNPL license in addition to Apache 2.0.|
+|[Sonic: A Low-Latency Voice Model for Lifelike Speech.](https://cartesia.ai/blog/sonic) |The makers of Mamba, sub quadratic Transformer versions, and SSMs have released a new model. Crucially, their recently founded business, Cartesia, has developed a realistic-sounding, lightning-fast speech generating technology. This suggests that they want to take up residence in the helpers' area. |
+|[Vox Media and The Atlantic sign content deals with OpenAI.](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic) |OpenAI continues to establish media partnerships as it looks to lock down training data — and avoid lawsuits.|
+|[Mistral's Code Model.](https://mistral.ai/news/codestral/) |We introduce Codestral, our first-ever code model. Codestral is an open-weight generative AI model explicitly designed for code generation tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
