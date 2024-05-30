@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20.](https://github.com/karpathy/llm.c/discussions/481) |A version of LLM C, a solitary self-contained GPT-2 implementation designed to replicate the 2019 model suite, has been made available by Andrej Karpathy. The library can train the simplest of these models in about 90 minutes with this latest release. It has few dependencies and executes from start to finish. |
 |[Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth.](https://github.com/snowfallingplum/csd-mt) |A innovative technique for improving makeup transfer tasks without depending on genuine target images is Content-Style Decoupled Makeup Transfer (CSD-MT). |
 |[LaVague.](https://github.com/lavague-ai/LaVague) |LaVague is an open-source Large Action Model framework to develop AI Web Agents. Our web agents take an objective, such as "Print installation steps for Hugging Face's Diffusers library" and performs the required actions to achieve this goal by leveraging our two core components. |
-|[.]() | |
+|[PRISM: A foundation model for life’s chemistry.](https://www.enveda.com/posts/prism-a-foundation-model-for-lifes-chemistry) |Enveda’s PRISM (Pretrained Representations Informed by Spectral Masking) model was trained on 1.2 billion small molecule mass spectra, the largest training set of small molecule mass spectra ever assembled. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
