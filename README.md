@@ -105,9 +105,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Perplexity Pages.](https://www.perplexity.ai/hub/blog/perplexity-pages) | A new AI-created product for producing shareable, long-lasting research artifacts has been announced by the Perplexity search engine.|
 |[Autodesk acquires AI-powered VFX startup Wonder Dynamics.](https://techcrunch.com/2024/05/21/autodesk-acquires-ai-powered-vfx-startup-wonder-dynamics/) |Autodesk — the 3D tools behemoth — has acquired Wonder Dynamics, a startup that lets creators quickly and easily make complex characters and visual effects using AI-powered image analysis.  |
 |[Anthropic’s AI now lets you create bots to work for you.](https://www.theverge.com/2024/5/30/24167231/anthropic-claude-ai-assistant-automate-tasks) | Anthropic is releasing a new feature for its AI chatbot Claude that will let anyone create an email assistant, a bot to purchase shoes, or other personalized solutions. It’s called “tool use” (or the nerdier “function calling”), and it hooks up to any external API of your choosing.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Patronus AI Raises $17 million To Detect LLM Mistakes at Scale.](https://finance.yahoo.com/news/patronus-ai-raises-17-million-140000573.html) | Series A financing led by Glenn Solomon at Notable Capital underscores urgent need for companies to deploy large language models with confidence|
+|[Neuralink rival sets brain-chip record with 4,096 electrodes on human brain.](https://arstechnica.com/science/2024/05/neuralink-rival-sets-brain-chip-record-with-4096-electrodes-on-human-brain/) | Brain-computer interface company Precision Neuroscience says that it has set a new world record for the number of neuron-tapping electrodes placed on a living human's brain—4,096, surpassing the previous record of 2,048 set last year, according to an announcement from the company on Tuesday.|
+|[Google adds AI-powered features to Chromebook.](https://techcrunch.com/2024/05/28/google-adds-ai-powered-features-to-chromebook/) |Google announced new AI-powered features today for its Chromebook Plus line of devices, such as a writing assistant, a wallpaper creator and easy access to Google’s Gemini chatbot. |
 |[.]() | |
 |[.]() | |
 
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LaVague.](https://github.com/lavague-ai/LaVague) |LaVague is an open-source Large Action Model framework to develop AI Web Agents. Our web agents take an objective, such as "Print installation steps for Hugging Face's Diffusers library" and performs the required actions to achieve this goal by leveraging our two core components. |
 |[PRISM: A foundation model for life’s chemistry.](https://www.enveda.com/posts/prism-a-foundation-model-for-lifes-chemistry) |Enveda’s PRISM (Pretrained Representations Informed by Spectral Masking) model was trained on 1.2 billion small molecule mass spectra, the largest training set of small molecule mass spectra ever assembled. |
 |[Scale Private Leaderboard.](https://scale.com/leaderboard) |Scale has created a private language model evaluation leaderboard. Although the ordering isn't all that surprising, it's worth noting that the Llama 3 70B frequently outperforms Claude Opus in terms of instruction following. |
-|[.]() | |
+|[controlnet-scribble-sdxl-1.0.](https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0) | Drawing random lines can be used as conditioning data for image creation using Scribble ControlNet. It has strong performance and was trained on a significantly larger number of post-training photos than other ControlNets.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What GPT-4o illustrates about AI Regulation.](https://www.hyperdimensional.co/p/what-gpt-4o-illustrates-about-ai) |This article compares and contrasts model-level, use-level, and conduct-level frameworks in order to analyze several approaches to AI regulation. It contends that use-level regulation, which can lead to unneeded complexity and unworkable constraints for the deployment of AI, is inferior to conduct-level regulation, which applies current laws to new technologies with minimal precision. One example of the drawbacks of a use-level approach is the limitations placed on AI's capacity to infer emotions by the recent EU AI Act. |
 |[How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models.](https://www.nature.com/articles/d41586-024-01314-y) | Researchers are striving to reverse-engineer artificial intelligence and scan the ‘brains’ of LLMs to see what they are doing, how and why.|
 |[Anglo-American bias could make generative AI an invisible intellectual cage.](https://www.nature.com/articles/d41586-024-01573-9) |Studies show that applications in generative artificial intelligence (AI) such as ChatGPT and other large language models perform remarkably well in English, but are not as proficient in other languages. This masks a more insidious problem.  |
-|[.]() | |
+|[AI won’t eat your job, but it will eat your salary.](https://medium.com/@sanguit/ai-wont-eat-your-job-but-it-will-eat-your-salary-a810121d89e4) |AI poses a danger to the skill premium associated with tasks as well as the existence of jobs themselves, which could result in lower compensation for skilled workers. AI has the potential to reorganize job duties and reduce obstacles to task completion, which would result in commoditization and a reduction in the ability to demand a premium wage. Managerial advantages may likewise disappear as AI develops, particularly through AI agents, which would put the human-in-the-loop advantage to the test and further erode skill premiums. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
