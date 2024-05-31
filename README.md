@@ -96,6 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral's Code Model.](https://mistral.ai/news/codestral/) |We introduce Codestral, our first-ever code model. Codestral is an open-weight generative AI model explicitly designed for code generation tasks. |
 |[OpenAI signs 100K PwC workers to ChatGPT’s enterprise tier as PwC becomes its first resale partner.](https://techcrunch.com/2024/05/29/openai-signs-on-100k-pwc-workers-to-its-chatgpt-enterprise-tier-as-the-consultant-becomes-its-first-resale-partner/) | OpenAI, on Wednesday announced that it has signed a major enterprise customer that it hopes will indicate how a similar effect could play out in the world of work. PwC, the management consulting giant, will become OpenAI’s biggest customer to date, covering 100,000 users.|
 |[Apple's AI plans involves 'black box' for cloud data.](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data) |  Apple intends to process data from AI applications inside a virtual black box. The concept, known as "Apple Chips in Data Centers" (ACDC) internally, would involve only Apple's hardware being used to perform AI processing in the cloud. The idea is that it will control both the hardware and software on its servers, enabling it to design more secure systems.|
+|[Introducing Perplexity Pages.](https://www.perplexity.ai/hub/blog/perplexity-pages) | A new AI-created product for producing shareable, long-lasting research artifacts has been announced by the Perplexity search engine.|
+|[Autodesk acquires AI-powered VFX startup Wonder Dynamics.](https://techcrunch.com/2024/05/21/autodesk-acquires-ai-powered-vfx-startup-wonder-dynamics/) |Autodesk — the 3D tools behemoth — has acquired Wonder Dynamics, a startup that lets creators quickly and easily make complex characters and visual effects using AI-powered image analysis.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,6 +106,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 
 ## Resources
