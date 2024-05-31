@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple's AI plans involves 'black box' for cloud data.](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data) |  Apple intends to process data from AI applications inside a virtual black box. The concept, known as "Apple Chips in Data Centers" (ACDC) internally, would involve only Apple's hardware being used to perform AI processing in the cloud. The idea is that it will control both the hardware and software on its servers, enabling it to design more secure systems.|
 |[Introducing Perplexity Pages.](https://www.perplexity.ai/hub/blog/perplexity-pages) | A new AI-created product for producing shareable, long-lasting research artifacts has been announced by the Perplexity search engine.|
 |[Autodesk acquires AI-powered VFX startup Wonder Dynamics.](https://techcrunch.com/2024/05/21/autodesk-acquires-ai-powered-vfx-startup-wonder-dynamics/) |Autodesk — the 3D tools behemoth — has acquired Wonder Dynamics, a startup that lets creators quickly and easily make complex characters and visual effects using AI-powered image analysis.  |
-|[.]() | |
+|[Anthropic’s AI now lets you create bots to work for you.](https://www.theverge.com/2024/5/30/24167231/anthropic-claude-ai-assistant-automate-tasks) | Anthropic is releasing a new feature for its AI chatbot Claude that will let anyone create an email assistant, a bot to purchase shoes, or other personalized solutions. It’s called “tool use” (or the nerdier “function calling”), and it hooks up to any external API of your choosing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
