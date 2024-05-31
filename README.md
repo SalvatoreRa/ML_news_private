@@ -99,12 +99,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Perplexity Pages.](https://www.perplexity.ai/hub/blog/perplexity-pages) | A new AI-created product for producing shareable, long-lasting research artifacts has been announced by the Perplexity search engine.|
 |[Autodesk acquires AI-powered VFX startup Wonder Dynamics.](https://techcrunch.com/2024/05/21/autodesk-acquires-ai-powered-vfx-startup-wonder-dynamics/) |Autodesk — the 3D tools behemoth — has acquired Wonder Dynamics, a startup that lets creators quickly and easily make complex characters and visual effects using AI-powered image analysis.  |
 |[Anthropic’s AI now lets you create bots to work for you.](https://www.theverge.com/2024/5/30/24167231/anthropic-claude-ai-assistant-automate-tasks) | Anthropic is releasing a new feature for its AI chatbot Claude that will let anyone create an email assistant, a bot to purchase shoes, or other personalized solutions. It’s called “tool use” (or the nerdier “function calling”), and it hooks up to any external API of your choosing.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Yuan 2.0-M32: Mixture of Experts with Attention Router.](https://arxiv.org/abs/2405.17976) |A Mixture of Experts model with 40B parameters and 3.7B active at all times is Yuan 2.0-M32. Even though it only uses 1/19th of the compute, it performs similarly to Llama 3 70B. It appears remarkably powerful considering its size, having been trained on 2T tokens. |
+|[Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations.](https://arxiv.org/abs/2405.18392) |The Cosine learning rate schedule employed in the original scaling laws publications prevents optimal loss if the Cosine period is not in line with the total number of training steps. Because of this, training enough models to produce useful scaling laws is difficult. In order to minimize GPU costs for scaling law development, this study presents the concept of a constant learning rate with a cool down. |
+|[Towards Ultra-High-Definition Image Deraining: A Benchmark and An Efficient Method.](https://arxiv.org/abs/2405.17074v1) |To address the problem of deraining ultra-high-definition (UHD) photographs, researchers have released a new dataset dubbed 4K-Rain13k, which consists of 13,000 pairs of 4K resolution images. |
+|[EasyAnimate An End-to-End Solution for High-Resolution and Long Video Generation.](https://github.com/aigc-apps/easyanimate) | Transformers are used in the EasyAnimate method to modify the DiT architecture for advanced 3D video production. In order to capture temporal dynamics and guarantee seamless motion transitions and consistent frames, this project integrates a motion module block.|
+|[Self-Exploring Language Models (SELM).](https://github.com/shenao-zhang/selm) | |
+|[T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback.](https://t2v-turbo.github.io/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
