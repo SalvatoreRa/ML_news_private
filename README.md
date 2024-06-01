@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Neuralink rival sets brain-chip record with 4,096 electrodes on human brain.](https://arstechnica.com/science/2024/05/neuralink-rival-sets-brain-chip-record-with-4096-electrodes-on-human-brain/) | Brain-computer interface company Precision Neuroscience says that it has set a new world record for the number of neuron-tapping electrodes placed on a living human's brain—4,096, surpassing the previous record of 2,048 set last year, according to an announcement from the company on Tuesday.|
 |[Google adds AI-powered features to Chromebook.](https://techcrunch.com/2024/05/28/google-adds-ai-powered-features-to-chromebook/) |Google announced new AI-powered features today for its Chromebook Plus line of devices, such as a writing assistant, a wallpaper creator and easy access to Google’s Gemini chatbot. |
 |[What is science? Tech heavyweights brawl over definition.](https://www.nature.com/articles/d41586-024-01626-z) |AI pioneer Yann LeCun and Elon Musk went head-to-head in a debate about modern research that drew thousands of comments. |
-|[.]() | |
-|[.]() | |
+|[Google to refine AI-generated search summaries in response to bizarre results.](https://www.theguardian.com/technology/article/2024/may/31/google-ai-summaries-sge-changes) |After new feature tells people to eat rocks or add glue to pizza sauce, company to restrict which searches return summaries |
+|[A new AI service allows viewers to create TV shows. Are we doomed?](https://www.theguardian.com/tv-and-radio/article/2024/may/31/fable-showrunner-ai-tv) |Showrunner will let users generate episodes with prompts, which could be an alarming next step or a fleeting novelty |
 |[.]() | |
 |[.]() | |
 
