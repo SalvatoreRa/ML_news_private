@@ -164,17 +164,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anglo-American bias could make generative AI an invisible intellectual cage.](https://www.nature.com/articles/d41586-024-01573-9) |Studies show that applications in generative artificial intelligence (AI) such as ChatGPT and other large language models perform remarkably well in English, but are not as proficient in other languages. This masks a more insidious problem.  |
 |[AI won’t eat your job, but it will eat your salary.](https://medium.com/@sanguit/ai-wont-eat-your-job-but-it-will-eat-your-salary-a810121d89e4) |AI poses a danger to the skill premium associated with tasks as well as the existence of jobs themselves, which could result in lower compensation for skilled workers. AI has the potential to reorganize job duties and reduce obstacles to task completion, which would result in commoditization and a reduction in the ability to demand a premium wage. Managerial advantages may likewise disappear as AI develops, particularly through AI agents, which would put the human-in-the-loop advantage to the test and further erode skill premiums. |
 |[‘All eyes on Rafah’: how AI-generated image swept across social media.](https://www.theguardian.com/world/article/2024/may/30/all-eyes-on-rafah-how-ai-generated-image-spread-across-social-media) |Celebrity posts of graphic following IDF strike help make it among most-shared content of Israel-Gaza war |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: 20-26 May
 
