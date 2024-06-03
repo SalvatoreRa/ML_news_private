@@ -70,8 +70,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[OpenAI Is Restarting Its Robotics Research Group.](https://www.therobotreport.com/openai-is-restarting-its-robotics-research-group/) |The San Francisco-based company has been a pioneer in generative artificial intelligence and is returning to robotics after a three-year break. |
+|[AI Overviews: About last week.](https://blog.google/products/search/ai-overviews-update-may-2024/) |In order to improve search results and give users more precise and pertinent information, particularly for complex inquiries, Google created AI Overviews. While there were certain problems, such incorrect results and misread content, Google has fixed these difficulties with over a dozen technical updates, like improving the identification of absurd questions and reducing the amount of user-generated content in AI Overviews. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
