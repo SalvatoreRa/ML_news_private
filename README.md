@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Overviews: About last week.](https://blog.google/products/search/ai-overviews-update-may-2024/) |In order to improve search results and give users more precise and pertinent information, particularly for complex inquiries, Google created AI Overviews. While there were certain problems, such incorrect results and misread content, Google has fixed these difficulties with over a dozen technical updates, like improving the identification of absurd questions and reducing the amount of user-generated content in AI Overviews. |
 |[Nvidia said to be prepping AI PC chip with Arm and Blackwell cores.](https://www.theregister.com/2024/05/28/nvidia_ai_pc_arm_blackwell_core) | Competition could be heating up in the Windows on Arm space amid talk in the industry that Nvidia is readying a chip pairing next-gen Arm cores with its Blackwell GPU architecture.|
 |[Ex-OpenAI board member reveals what led to Sam Altman's brief ousting.](https://www.msn.com/en-ae/money/companies/ex-openai-board-member-reveals-what-led-to-sam-altman-s-brief-ousting/ar-BB1ndnZE) |In a recent interview, former OpenAI board member Helen Toner provided fresh information into the circumstances surrounding CEO Sam Altman's November dismissal. It appears that the board was informed via Twitter about the release of ChatGPT. According to Toner, Altman had repeatedly lied to the board. It has been alleged that Altman had been lying about events within the organization for years and hiding facts. The board found it difficult to make decisions as a result of his lies, and they concluded that he wasn't the best person to take the firm to AGI. |
-|[.]() | |
+|[AI hardware firm Nvidia unveils next-gen products at Taiwan tech expo.](https://www.theguardian.com/technology/article/2024/jun/02/ai-hardware-firm-nvidia-unveils-next-gen-products-at-taiwan-tech-expo) |CEO Jensen Huang tells packed stadium in Taipei ‘next Industrial Revolution has begun’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Beyond the Cloud: Distributed AI and On-Device Intelligence.](https://sidstage.substack.com/p/beyond-the-cloud-distributed-ai-and) | Transition of AI workflows from cloud to the edge with specialized chip infrastructure & models, multi-modality and ambience across devices|
-|[.]() | |
+|[Sure, Google’s AI overviews could be useful – if you like eating rocks.](https://www.theguardian.com/commentisfree/article/2024/jun/01/sure-googles-ai-overviews-could-be-useful-if-you-like-eating-rocks) |The company that shaped the development of search engines is banking on chatbot-style summaries. But so far, its suggestions are pretty wild |
 |[.]() | |
 |[.]() | |
 |[.]() | |
