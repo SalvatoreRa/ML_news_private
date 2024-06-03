@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[An Introduction to Vision-Language Modeling.](https://arxiv.org/abs/2405.17247) |  we present this introduction to VLMs which we hope will help anyone who would like to enter the field. First, we introduce what VLMs are, how they work, and how to train them.|
 |[Aya 23: Open Weight Releases to Further Multilingual Progress.](https://arxiv.org/abs/2405.15032) |a family of multilingual language models with up to 23 languages supported; it demonstrates that it can perform better on those particular languages than other large-scale multimodal models by purposefully concentrating on fewer languages and allocating greater capacity to them. |
 |[Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) |claims that by analyzing trends and financial ratios, LLMs can produce insightful insights; demonstrates that GPT-4 outperforms more specialized models; and develops a profitable trading strategy based on GPT's predictions. |
-|[.]() | |
+|[SimPO: Simple Preference Optimization with a Reference-Free Reward.](https://arxiv.org/abs/2405.14734) | SimPO demonstrates how it outperforms other methods like DPO and claims to generate the strongest 8B open-source model. It is a more straightforward and efficient method for preference optimization with a reference-free reward; it uses the average log probability of a sequence as an implicit reward (i.e., no reference model required), which makes it more compute and memory efficient.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
