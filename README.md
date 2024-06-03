@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Aya 23: Open Weight Releases to Further Multilingual Progress.](https://arxiv.org/abs/2405.15032) |a family of multilingual language models with up to 23 languages supported; it demonstrates that it can perform better on those particular languages than other large-scale multimodal models by purposefully concentrating on fewer languages and allocating greater capacity to them. |
 |[Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) |claims that by analyzing trends and financial ratios, LLMs can produce insightful insights; demonstrates that GPT-4 outperforms more specialized models; and develops a profitable trading strategy based on GPT's predictions. |
 |[SimPO: Simple Preference Optimization with a Reference-Free Reward.](https://arxiv.org/abs/2405.14734) | SimPO demonstrates how it outperforms other methods like DPO and claims to generate the strongest 8B open-source model. It is a more straightforward and efficient method for preference optimization with a reference-free reward; it uses the average log probability of a sequence as an implicit reward (i.e., no reference model required), which makes it more compute and memory efficient.|
-|[.]() | |
-|[.]() | |
+|[Experimenting with local alt text generation.](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/) |A model that runs in the browser and can provide alt text for web photos automatically has been trained by Mozilla. |
+|[Mora: More like Sora for Generalist Video Generation.](https://github.com/lichao-sun/mora) |Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
