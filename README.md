@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Are Long-LLMs A Necessity For Long-Context Tasks? ](https://arxiv.org/abs/2405.15318) |suggests a reasoning framework to allow short-LLMs to handle long-context tasks by adaptively accessing and utilizing the context based on the tasks presented; it breaks down the long context into short contexts and processes them using a decision-making process. The argument makes the claim that long-LLMs are not necessary to solve long-context tasks. |
 |[Sparse maximal update parameterization: A holistic approach to sparse training dynamics.](https://arxiv.org/abs/2405.15743) |All frontier model labs use muP, a potent tool, to transfer hyper parameters fine-tuned on tiny models to bigger, more costly training runs. This study investigates how to achieve that for sparse models, resulting in significantly better training results and lower computation expenses. |
 |[Exploring Color Invariance through Image-Level Ensemble Learning.](https://arxiv.org/abs/2401.10512v1) | To address color bias in computer vision, researchers have created a novel learning technique called Random Color Erasing. By selectively excluding color information from training data, this technique strikes a balance between the significance of color and other parameters, producing models that perform better in challenging situations like industrial and wide-area surveillance.|
-|[.]() | |
+|[Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models.](https://github.com/coniferlm/conifer) |Conifer enhances LLMs' comprehension of intricate instructions by utilizing a progressive learning methodology and a customized dataset. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Is Restarting Its Robotics Research Group.](https://www.therobotreport.com/openai-is-restarting-its-robotics-research-group/) |The San Francisco-based company has been a pioneer in generative artificial intelligence and is returning to robotics after a three-year break. |
 |[AI Overviews: About last week.](https://blog.google/products/search/ai-overviews-update-may-2024/) |In order to improve search results and give users more precise and pertinent information, particularly for complex inquiries, Google created AI Overviews. While there were certain problems, such incorrect results and misread content, Google has fixed these difficulties with over a dozen technical updates, like improving the identification of absurd questions and reducing the amount of user-generated content in AI Overviews. |
 |[Nvidia said to be prepping AI PC chip with Arm and Blackwell cores.](https://www.theregister.com/2024/05/28/nvidia_ai_pc_arm_blackwell_core) | Competition could be heating up in the Windows on Arm space amid talk in the industry that Nvidia is readying a chip pairing next-gen Arm cores with its Blackwell GPU architecture.|
-|[.]() | |
+|[Ex-OpenAI board member reveals what led to Sam Altman's brief ousting.](https://www.msn.com/en-ae/money/companies/ex-openai-board-member-reveals-what-led-to-sam-altman-s-brief-ousting/ar-BB1ndnZE) |In a recent interview, former OpenAI board member Helen Toner provided fresh information into the circumstances surrounding CEO Sam Altman's November dismissal. It appears that the board was informed via Twitter about the release of ChatGPT. According to Toner, Altman had repeatedly lied to the board. It has been alleged that Altman had been lying about events within the organization for years and hiding facts. The board found it difficult to make decisions as a result of his lies, and they concluded that he wasn't the best person to take the firm to AGI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SimPO: Simple Preference Optimization with a Reference-Free Reward.](https://arxiv.org/abs/2405.14734) | SimPO demonstrates how it outperforms other methods like DPO and claims to generate the strongest 8B open-source model. It is a more straightforward and efficient method for preference optimization with a reference-free reward; it uses the average log probability of a sequence as an implicit reward (i.e., no reference model required), which makes it more compute and memory efficient.|
 |[Experimenting with local alt text generation.](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/) |A model that runs in the browser and can provide alt text for web photos automatically has been trained by Mozilla. |
 |[Mora: More like Sora for Generalist Video Generation.](https://github.com/lichao-sun/mora) |Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.|
-|[.]() | |
-|[.]() | |
+|[FABRIC: Personalizing Diffusion Models with Iterative Feedback.](https://github.com/sd-fabric/fabric) |FABRIC (Feedback via Attention-Based Reference Image Conditioning) is a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion. |
+|[KL is All You Need.](https://blog.alexalemi.com/kl-is-all-you-need.html) |KL divergence is a quick, affordable, and effective method of measuring a certain type of distance between objects. In both conventional and contemporary AI, it is widely employed. This piece examines the potent idea both mathematically and graphically. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Beyond the Cloud: Distributed AI and On-Device Intelligence.](https://sidstage.substack.com/p/beyond-the-cloud-distributed-ai-and) | Transition of AI workflows from cloud to the edge with specialized chip infrastructure & models, multi-modality and ambience across devices|
 |[.]() | |
 |[.]() | |
 |[.]() | |
