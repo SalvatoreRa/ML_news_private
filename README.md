@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Transformers Can Do Arithmetic with the Right Embeddings.](https://arxiv.org/abs/2405.17399) | The main problem this work addresses is the inability of transformers to track the exact position of digits; they do this by adding an embedding to each digit that encodes its position relative to the start of the number; these gains also transfer to multi-step reasoning tasks that include sorting and multiplication. achieves 99% accuracy on 100-digit addition problems by training on only 20-digit numbers with a single GPU.|
 |[GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning.](https://arxiv.org/abs/2405.20139) | blends the reasoning powers of GNNs with the language understanding skills of LLMs in a RAG fashion; the GNN extracts relevant and useful graph information, and the LLM uses the information to answer questions over knowledge graphs (KGQA); GNN-RAG outperforms or matches GPT-4 performance with a 7B tuned LLM, and improves vanilla LLMs on KGQA.|
 |[Attention as an RNN.](https://arxiv.org/abs/2405.13956) |is based on the parallel prefix scan algorithm, which enables efficient computation of attention's many-to-many RNN output. It achieves comparable performance to Transformers on 38 datasets while being more time and memory-efficient. presents a new attention mechanism that can be trained in parallel (like Transformers) and updated with new tokens requiring constant memory usage for inferences (like RNNs). |
-|[.]() | |
+|[Are Long-LLMs A Necessity For Long-Context Tasks? ](https://arxiv.org/abs/2405.15318) |suggests a reasoning framework to allow short-LLMs to handle long-context tasks by adaptively accessing and utilizing the context based on the tasks presented; it breaks down the long context into short contexts and processes them using a decision-making process. The argument makes the claim that long-LLMs are not necessary to solve long-context tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[An Introduction to Vision-Language Modeling.](https://arxiv.org/abs/2405.17247) |  we present this introduction to VLMs which we hope will help anyone who would like to enter the field. First, we introduce what VLMs are, how they work, and how to train them.|
 |[Aya 23: Open Weight Releases to Further Multilingual Progress.](https://arxiv.org/abs/2405.15032) |a family of multilingual language models with up to 23 languages supported; it demonstrates that it can perform better on those particular languages than other large-scale multimodal models by purposefully concentrating on fewer languages and allocating greater capacity to them. |
-|[.]() | |
+|[Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) |claims that by analyzing trends and financial ratios, LLMs can produce insightful insights; demonstrates that GPT-4 outperforms more specialized models; and develops a profitable trading strategy based on GPT's predictions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
