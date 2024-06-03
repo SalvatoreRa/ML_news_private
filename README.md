@@ -42,10 +42,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Contextual Position Encoding: Learning to Count What's Important.](https://arxiv.org/abs/2405.18719) | |
+|[Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357) | |
+|[Transformers Can Do Arithmetic with the Right Embeddings.](https://arxiv.org/abs/2405.17399) | |
+|[GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning.](https://arxiv.org/abs/2405.20139) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
