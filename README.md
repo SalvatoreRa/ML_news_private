@@ -42,10 +42,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Contextual Position Encoding: Learning to Count What's Important.](https://arxiv.org/abs/2405.18719) | |
-|[Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357) | |
-|[Transformers Can Do Arithmetic with the Right Embeddings.](https://arxiv.org/abs/2405.17399) | |
-|[GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning.](https://arxiv.org/abs/2405.20139) | |
+|[Contextual Position Encoding: Learning to Count What's Important.](https://arxiv.org/abs/2405.18719) |The general position encoding method can attend to the i-th particular word, noun, or sentence; it improves perplexity on language modeling and coding tasks; it is context-dependent and can represent different levels of position abstraction; it suggests a new position encoding method, CoPE, to enable the position to be conditioned on context by incrementing position only on certain tokens. |
+|[Faithful Logical Reasoning via Symbolic Chain-of-Thought.](https://arxiv.org/abs/2405.18357) |suggests a way to enhance LLMs' capacity for logical thinking by combining logical rules and symbolic expressions with chain-of-thought (CoT) prompting; this prompting method is known as Symbolic Chain-of-Thought and it is a fully LLM-based framework that consists of the following important steps: converts the context of natural language to symbolic format, 2) creates a step-by-step solution plan based on symbolic logical rules, and 3) employs a verifier to validate the translation and reasoning chain. |
+|[Transformers Can Do Arithmetic with the Right Embeddings.](https://arxiv.org/abs/2405.17399) | The main problem this work addresses is the inability of transformers to track the exact position of digits; they do this by adding an embedding to each digit that encodes its position relative to the start of the number; these gains also transfer to multi-step reasoning tasks that include sorting and multiplication. achieves 99% accuracy on 100-digit addition problems by training on only 20-digit numbers with a single GPU.|
+|[GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning.](https://arxiv.org/abs/2405.20139) | blends the reasoning powers of GNNs with the language understanding skills of LLMs in a RAG fashion; the GNN extracts relevant and useful graph information, and the LLM uses the information to answer questions over knowledge graphs (KGQA); GNN-RAG outperforms or matches GPT-4 performance with a 7B tuned LLM, and improves vanilla LLMs on KGQA.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
