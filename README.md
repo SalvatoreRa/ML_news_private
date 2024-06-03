@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[An Introduction to Vision-Language Modeling.](https://arxiv.org/abs/2405.17247) |  we present this introduction to VLMs which we hope will help anyone who would like to enter the field. First, we introduce what VLMs are, how they work, and how to train them.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
