@@ -57,6 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TAIA: Large Language Models are Out-of-Distribution Data Learners.](https://arxiv.org/abs/2405.20192v1) |A technique called TrainAllInfAttn improves the performance of big language models in niche markets with little data. |
 |[MegActor: Harness the Power of Raw Video for Vivid Portrait Animation](https://megvii-research.github.io/MegFaceAnimate/) |A new model called MegActor uses unprocessed driving videos to create more lifelike portrait animation. It addresses identity leaking and background interference and produces remarkable results with unique data creation framework and background encoding approaches. |
 |[MeshXL: Neural Coordinate Field for Generative 3D Foundation Models.](https://arxiv.org/abs/2405.20853) | MeshXL is a new model that generates high-quality 3D meshes.|
+|[Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays.](https://github.com/sunzc-sunny/ppad) |Position-guided Prompt learning method for Anomaly Detection in chest X-rays (PPAD). PPAD leverages learnable text prompt and image prompt to minimize the gap between pre-training data and task-specific data. Through the position-guided prompts, the model can focus on various regions, simulating the diagnostic process of experts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +111,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[7 Ways AI-Native Companies Can Improve User Retention.](https://a16z.com/7-ways-ai-native-companies-can-improve-retention/) |a manual with examples of how businesses like Perplexity, Civit, Lapse, Omnivore, and others are using them to increase retention for founders and product executives. |
 |[FineWeb: decanting the web for the finest text data at scale.](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) | The performance of a large language model (LLM) depends heavily on the quality and size of its pretraining dataset. Recently, we released 🍷 FineWeb, a new, large-scale (15-trillion tokens, 44TB disk space) dataset for LLM pretraining. FineWeb is derived from 96 CommonCrawl snapshots and produces better-performing LLMs than other open pretraining datasets.|
 |[An entirely open-source AI code assistant inside your editor.](https://ollama.com/blog/continue-code-assistant) | Continue enables you to easily create your own coding assistant directly inside Visual Studio Code and JetBrains with open-source LLMs. All this can run entirely on your own laptop or have Ollama deployed on a server to remotely power code completion and chat experiences based on your needs.|
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
