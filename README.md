@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic’s Claude 3 Opus and tool use are generally available on Vertex AI.](https://cloud.google.com/blog/products/ai-machine-learning/anthropics-claude-3-opus-and-tool-use-are-generally-available-on-vertex-ai) | Google Cloud now offers Claude 3 Opus with tool use along with the smaller models as part of its Vertex AI offering.|
 |[State Space Duality (Mamba-2).](https://goombalab.github.io/blog/2024/mamba2-part1-model/) |Mambda is an effective model of state space. A lengthy and comprehensive explanation of the model and its enhancements is included in the second version that its team has issued. |
 |[No physics? No problem. AI weather forecasting is already making huge strides.](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/) | With AI models like WindBorne's WeatherMesh, which leverages the extensive ERA5 dataset to outperform conventional models while using much less processing power, the weather forecasting industry is undergoing a transformation.|
-|[.]() | |
+|[Amazon’s Project PI AI looks for product defects before they ship.](https://www.theverge.com/2024/6/3/24170567/amazons-project-pi-product-defect-return-ai-computer-vision) |  Project PI combines computer vision and generative AI to catch damaged items and prevent returns.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Beyond the Cloud: Distributed AI and On-Device Intelligence.](https://sidstage.substack.com/p/beyond-the-cloud-distributed-ai-and) | Transition of AI workflows from cloud to the edge with specialized chip infrastructure & models, multi-modality and ambience across devices|
 |[Sure, Google’s AI overviews could be useful – if you like eating rocks.](https://www.theguardian.com/commentisfree/article/2024/jun/01/sure-googles-ai-overviews-could-be-useful-if-you-like-eating-rocks) |The company that shaped the development of search engines is banking on chatbot-style summaries. But so far, its suggestions are pretty wild |
-|[.]() | |
+|[AI's Communication Revolution: We're All Talking to Computers Now.](https://www.digitalnative.tech/p/ais-communication-revolution-were) | With its real-time integration of text, vision, and audio, OpenAI's GPT-4o is driving a revolution in communication through AI. As a result, human-to-AI communication becomes a fundamental form of digital connection and has the potential to bring about substantial societal changes as well as the emergence of new companies focused on AI-centric communication. This transition makes it possible for more natural interactions with AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
