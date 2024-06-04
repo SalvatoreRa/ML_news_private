@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AMD unveils new AI chips to compete with Nvidia.](https://www.fastcompany.com/91134766/amd-unveils-new-ai-chips-to-compete-with-nvidia) | AMD has been vying to compete against Nvidia, which currently dominates the lucrative market for AI semiconductors and commands about 80% of its share.|
 |[Anthropic’s Claude 3 Opus and tool use are generally available on Vertex AI.](https://cloud.google.com/blog/products/ai-machine-learning/anthropics-claude-3-opus-and-tool-use-are-generally-available-on-vertex-ai) | Google Cloud now offers Claude 3 Opus with tool use along with the smaller models as part of its Vertex AI offering.|
 |[State Space Duality (Mamba-2).](https://goombalab.github.io/blog/2024/mamba2-part1-model/) |Mambda is an effective model of state space. A lengthy and comprehensive explanation of the model and its enhancements is included in the second version that its team has issued. |
-|[.]() | |
+|[No physics? No problem. AI weather forecasting is already making huge strides.](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/) | With AI models like WindBorne's WeatherMesh, which leverages the extensive ERA5 dataset to outperform conventional models while using much less processing power, the weather forecasting industry is undergoing a transformation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
