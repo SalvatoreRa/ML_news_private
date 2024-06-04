@@ -75,9 +75,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia said to be prepping AI PC chip with Arm and Blackwell cores.](https://www.theregister.com/2024/05/28/nvidia_ai_pc_arm_blackwell_core) | Competition could be heating up in the Windows on Arm space amid talk in the industry that Nvidia is readying a chip pairing next-gen Arm cores with its Blackwell GPU architecture.|
 |[Ex-OpenAI board member reveals what led to Sam Altman's brief ousting.](https://www.msn.com/en-ae/money/companies/ex-openai-board-member-reveals-what-led-to-sam-altman-s-brief-ousting/ar-BB1ndnZE) |In a recent interview, former OpenAI board member Helen Toner provided fresh information into the circumstances surrounding CEO Sam Altman's November dismissal. It appears that the board was informed via Twitter about the release of ChatGPT. According to Toner, Altman had repeatedly lied to the board. It has been alleged that Altman had been lying about events within the organization for years and hiding facts. The board found it difficult to make decisions as a result of his lies, and they concluded that he wasn't the best person to take the firm to AGI. |
 |[AI hardware firm Nvidia unveils next-gen products at Taiwan tech expo.](https://www.theguardian.com/technology/article/2024/jun/02/ai-hardware-firm-nvidia-unveils-next-gen-products-at-taiwan-tech-expo) |CEO Jensen Huang tells packed stadium in Taipei ‘next Industrial Revolution has begun’ |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AMD unveils new AI chips to compete with Nvidia.](https://www.fastcompany.com/91134766/amd-unveils-new-ai-chips-to-compete-with-nvidia) | AMD has been vying to compete against Nvidia, which currently dominates the lucrative market for AI semiconductors and commands about 80% of its share.|
+|[Anthropic’s Claude 3 Opus and tool use are generally available on Vertex AI.](https://cloud.google.com/blog/products/ai-machine-learning/anthropics-claude-3-opus-and-tool-use-are-generally-available-on-vertex-ai) | Google Cloud now offers Claude 3 Opus with tool use along with the smaller models as part of its Vertex AI offering.|
+|[State Space Duality (Mamba-2).](https://goombalab.github.io/blog/2024/mamba2-part1-model/) |Mambda is an effective model of state space. A lengthy and comprehensive explanation of the model and its enhancements is included in the second version that its team has issued. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FABRIC: Personalizing Diffusion Models with Iterative Feedback.](https://github.com/sd-fabric/fabric) |FABRIC (Feedback via Attention-Based Reference Image Conditioning) is a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion. |
 |[KL is All You Need.](https://blog.alexalemi.com/kl-is-all-you-need.html) |KL divergence is a quick, affordable, and effective method of measuring a certain type of distance between objects. In both conventional and contemporary AI, it is widely employed. This piece examines the potent idea both mathematically and graphically. |
 |[7 Ways AI-Native Companies Can Improve User Retention.](https://a16z.com/7-ways-ai-native-companies-can-improve-retention/) |a manual with examples of how businesses like Perplexity, Civit, Lapse, Omnivore, and others are using them to increase retention for founders and product executives. |
-|[.]() | |
+|[FineWeb: decanting the web for the finest text data at scale.](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) | The performance of a large language model (LLM) depends heavily on the quality and size of its pretraining dataset. Recently, we released 🍷 FineWeb, a new, large-scale (15-trillion tokens, 44TB disk space) dataset for LLM pretraining. FineWeb is derived from 96 CommonCrawl snapshots and produces better-performing LLMs than other open pretraining datasets.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
