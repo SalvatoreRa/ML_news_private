@@ -58,8 +58,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MegActor: Harness the Power of Raw Video for Vivid Portrait Animation](https://megvii-research.github.io/MegFaceAnimate/) |A new model called MegActor uses unprocessed driving videos to create more lifelike portrait animation. It addresses identity leaking and background interference and produces remarkable results with unique data creation framework and background encoding approaches. |
 |[MeshXL: Neural Coordinate Field for Generative 3D Foundation Models.](https://arxiv.org/abs/2405.20853) | MeshXL is a new model that generates high-quality 3D meshes.|
 |[Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays.](https://github.com/sunzc-sunny/ppad) |Position-guided Prompt learning method for Anomaly Detection in chest X-rays (PPAD). PPAD leverages learnable text prompt and image prompt to minimize the gap between pre-training data and task-specific data. Through the position-guided prompts, the model can focus on various regions, simulating the diagnostic process of experts. |
-|[.]() | |
-|[.]() | |
+|[Tree Diffusion: Diffusion Models For Code.](https://tree-diffusion.github.io/) | |
+|[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models.](https://arxiv.org/abs/2405.21018v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
