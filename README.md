@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[No physics? No problem. AI weather forecasting is already making huge strides.](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/) | With AI models like WindBorne's WeatherMesh, which leverages the extensive ERA5 dataset to outperform conventional models while using much less processing power, the weather forecasting industry is undergoing a transformation.|
 |[Amazon’s Project PI AI looks for product defects before they ship.](https://www.theverge.com/2024/6/3/24170567/amazons-project-pi-product-defect-return-ai-computer-vision) |  Project PI combines computer vision and generative AI to catch damaged items and prevent returns.|
 |[The Opaque Investment Empire Making OpenAI’s Sam Altman Rich.](https://wallstreetsights.com/business/openais-sam-altman-get-rich/4975/) |One of Silicon Valley's most active and successful individual investors is Sam Altman. At the beginning of this year, his stakes in his investment empire were valued at least $2.8 billion. A large portion of the portfolio is unknown. Readers are guided through Altman's investment knowledge in this article. |
-|[.]() | |
-|[.]() | |
+|[Even the Raspberry Pi is getting in on AI.](https://www.theverge.com/2024/6/4/24170818/raspberry-pi-ai-chip-hailo-devices) |Raspberry Pi partnered with Hailo to provide an optional AI add-on to its microcomputers. |
+|[Using AI to decode dog vocalizations.](https://news.umich.edu/using-ai-to-decode-dog-vocalizations) |Leveraging a human speech model to identify different types of barks.  University of Michigan researchers are exploring the possibilities of AI, developing tools that can identify whether a dog’s bark conveys playfulness or aggression. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
