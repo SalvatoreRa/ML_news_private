@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[State Space Duality (Mamba-2).](https://goombalab.github.io/blog/2024/mamba2-part1-model/) |Mambda is an effective model of state space. A lengthy and comprehensive explanation of the model and its enhancements is included in the second version that its team has issued. |
 |[No physics? No problem. AI weather forecasting is already making huge strides.](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/) | With AI models like WindBorne's WeatherMesh, which leverages the extensive ERA5 dataset to outperform conventional models while using much less processing power, the weather forecasting industry is undergoing a transformation.|
 |[Amazon’s Project PI AI looks for product defects before they ship.](https://www.theverge.com/2024/6/3/24170567/amazons-project-pi-product-defect-return-ai-computer-vision) |  Project PI combines computer vision and generative AI to catch damaged items and prevent returns.|
-|[.]() | |
+|[The Opaque Investment Empire Making OpenAI’s Sam Altman Rich.](https://wallstreetsights.com/business/openais-sam-altman-get-rich/4975/) |One of Silicon Valley's most active and successful individual investors is Sam Altman. At the beginning of this year, his stakes in his investment empire were valued at least $2.8 billion. A large portion of the portfolio is unknown. Readers are guided through Altman's investment knowledge in this article. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[7 Ways AI-Native Companies Can Improve User Retention.](https://a16z.com/7-ways-ai-native-companies-can-improve-retention/) |a manual with examples of how businesses like Perplexity, Civit, Lapse, Omnivore, and others are using them to increase retention for founders and product executives. |
 |[FineWeb: decanting the web for the finest text data at scale.](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) | The performance of a large language model (LLM) depends heavily on the quality and size of its pretraining dataset. Recently, we released 🍷 FineWeb, a new, large-scale (15-trillion tokens, 44TB disk space) dataset for LLM pretraining. FineWeb is derived from 96 CommonCrawl snapshots and produces better-performing LLMs than other open pretraining datasets.|
 |[An entirely open-source AI code assistant inside your editor.](https://ollama.com/blog/continue-code-assistant) | Continue enables you to easily create your own coding assistant directly inside Visual Studio Code and JetBrains with open-source LLMs. All this can run entirely on your own laptop or have Ollama deployed on a server to remotely power code completion and chat experiences based on your needs.|
-|[.]() | |
+|[MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark.](https://arxiv.org/abs/2406.01574) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
