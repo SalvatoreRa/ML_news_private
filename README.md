@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays.](https://github.com/sunzc-sunny/ppad) |Position-guided Prompt learning method for Anomaly Detection in chest X-rays (PPAD). PPAD leverages learnable text prompt and image prompt to minimize the gap between pre-training data and task-specific data. Through the position-guided prompts, the model can focus on various regions, simulating the diagnostic process of experts. |
 |[Tree Diffusion: Diffusion Models For Code.](https://tree-diffusion.github.io/) |Wonderful diffusion paper that diffuses picture code. As part of the diffusion process, it has the ability to directly edit. Although it is sluggish, it can be simply used with search to significantly increase one's capacity for reasoning. |
 |[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models.](https://arxiv.org/abs/2405.21018v1) | Expanding upon the Greedy Coordinate Gradient (GCG) approach, researchers have enhanced methods for optimization-based jailbreaking of huge language models.|
-|[.]() | |
+|[ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation.](https://ssyang2020.github.io/zerosmooth.github.io/) |A training-free video interpolation technique for generative video diffusion models has been developed by researchers. This novel method improves frame rates without requiring a lot of training or big datasets and works with different models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,9 +112,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FineWeb: decanting the web for the finest text data at scale.](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) | The performance of a large language model (LLM) depends heavily on the quality and size of its pretraining dataset. Recently, we released 🍷 FineWeb, a new, large-scale (15-trillion tokens, 44TB disk space) dataset for LLM pretraining. FineWeb is derived from 96 CommonCrawl snapshots and produces better-performing LLMs than other open pretraining datasets.|
 |[An entirely open-source AI code assistant inside your editor.](https://ollama.com/blog/continue-code-assistant) | Continue enables you to easily create your own coding assistant directly inside Visual Studio Code and JetBrains with open-source LLMs. All this can run entirely on your own laptop or have Ollama deployed on a server to remotely power code completion and chat experiences based on your needs.|
 |[MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark.](https://arxiv.org/abs/2406.01574) | A popular benchmark for reasoning tasks is MMLU. It is frequently seen as the gold standard and as something that models overfit. A new, more rigorous, and refined benchmark called MMLU Pro is used to gauge language model reasoning.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Omost.](https://github.com/lllyasviel/Omost) |Omost gives you control over how your images are generated. It comes from the same designer as ControlNet. First, it rewrites the prompts into a collection of illustrative code. After that, it renders the finished image using that. Crucially, you can modify the code either prior to or following generation in order to subtly alter the model's output. |
+|[Control-GIC.](https://github.com/lianqi1008/Control-GIC) |A novel generative image compression framework called Control-GIC enables fine-grained bitrate modification while preserving high-quality output. |
+|[LLM inference speed of light.](https://zeux.io/2024/03/15/llm-inference-sol/) |Using theoretical speed of light modeling as grounding is extremely significant for problems where the amount of computation and memory access is known a priori as it helps assess the quality of implementations and predict the impact of architectural modifications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
