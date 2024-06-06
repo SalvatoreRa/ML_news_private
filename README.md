@@ -129,6 +129,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Omost.](https://github.com/lllyasviel/Omost) |Omost gives you control over how your images are generated. It comes from the same designer as ControlNet. First, it rewrites the prompts into a collection of illustrative code. After that, it renders the finished image using that. Crucially, you can modify the code either prior to or following generation in order to subtly alter the model's output. |
 |[Control-GIC.](https://github.com/lianqi1008/Control-GIC) |A novel generative image compression framework called Control-GIC enables fine-grained bitrate modification while preserving high-quality output. |
 |[LLM inference speed of light.](https://zeux.io/2024/03/15/llm-inference-sol/) |Using theoretical speed of light modeling as grounding is extremely significant for problems where the amount of computation and memory access is known a priori as it helps assess the quality of implementations and predict the impact of architectural modifications. |
+|[Neural Surface Reconstruction.](https://github.com/prstrive/gens) | Without the need for 3D supervision, GenS is an end-to-end generalizable neural surface reconstruction model that performs exceptionally well at reconstructing surfaces from multi-view images.|
+|[MatMul-Free LM.](https://github.com/ridgerchu/matmulfreellm) |Even at the billion-parameter scale, researchers have managed to remove matrix multiplication (MatMul) from huge language models without sacrificing speed. |
+|[stable-audio-open-1.0 .](https://huggingface.co/stabilityai/stable-audio-open-1.0) | The weights for Stable Audio, which was trained to produce sound effects on audio samples with permissive licenses, have been released by Stability AI.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
