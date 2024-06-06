@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral launches fine-tuning API.](https://mistral.ai/news/customization/) |Mistral has launched customization for its models via its platform and API. |
 |[If you aren't seeing AI Overviews in your search results, it's probably thanks to Google.](https://www.androidpolice.com/google-ai-overviews-scaled-back-rocky-launch/) |After receiving heavy criticism since their mid-May public launch, AI Overviews in Google Search have dropped in visibility across search results. Since I/O, the average percentage of queries where AI Overviews appear has dropped from 27 percent to just 11 percent. Despite the reduction, healthcare-related queries a large percentage of AI results, raising concerns about both accuracy and reliability across Google.|
 |[Google optimizes shipping routes.](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/) |The mathematical optimization for cargo shipping routes was enhanced by Google's operations research group. They discovered a 13% drop in gasoline expenses and consumption. |
-|[.]() | |
+|[BrightEdge Releases Post Google I/O Data on The Impact of AI Overviews.](https://www.globenewswire.com/news-release/2024/06/04/2893289/0/en/BrightEdge-Releases-Post-Google-I-O-Data-on-The-Impact-of-AI-Overviews.html) | The main businesses affected by AI Overviews, what generates results, and where Google automatically anticipates and responds to search inquiries are all revealed by new research from BrightEdge Generative Parser.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -159,8 +159,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta AI system is a boost to endangered languages — as long as humans aren’t forgotten.](https://www.nature.com/articles/d41586-024-01619-y) |Automated approaches to translation could provide a lifeline to under-resourced languages, but only if companies engage with the people who speak them. |
 |[Misinformation poses a bigger threat to democracy than you might think.](https://www.nature.com/articles/d41586-024-01587-3) |In today’s polarized political climate, researchers who combat mistruths have come under attack and been labelled as unelected arbiters of truth. But the fight against misinformation is valid, warranted and urgently required. |
 |[Is AI misinformation influencing elections in India?](https://www.nature.com/articles/d41586-024-01588-2) |A sample of roughly two million WhatsApp messages highlights urgent concerns about the spread and prevalence of AI-generated political content. |
-|[.]() | |
-|[.]() | |
+|[I'm Bearish OpenAI.](https://stovetop.substack.com/p/im-bearish-openai) |A shift toward products and a research brain drain should ring your alarm bells |
+|[The future of foundation models is closed-source.](https://blog.johnluttig.com/p/the-future-of-foundation-models-is) |if the centralizing forces of data and compute hold, open and closed-source AI cannot both dominate long-term |
 |[.]() | |
 |[.]() | |
 |[.]() | |
