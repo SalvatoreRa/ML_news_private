@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI researchers build ‘future self’ chatbot to inspire wise life choices.](https://www.theguardian.com/technology/article/2024/jun/05/ai-researchers-build-future-self-chatbot-to-inspire-wise-life-choices) |Scientists at MIT hope talking to 60-year-old self will shift thinking on health, money and work |
 |[Cartwheel generates 3D animations from scratch to power up creators.](https://techcrunch.com/2024/06/05/cartwheel-generates-3d-animations-from-scratch-to-power-up-creators/) |Animating a 3D character from scratch is generally both laborious and expensive, requiring the use of complex software and motion capture tools. |
 |[Mistral launches fine-tuning API.](https://mistral.ai/news/customization/) |Mistral has launched customization for its models via its platform and API. |
-|[.]() | |
+|[If you aren't seeing AI Overviews in your search results, it's probably thanks to Google.](https://www.androidpolice.com/google-ai-overviews-scaled-back-rocky-launch/) |After receiving heavy criticism since their mid-May public launch, AI Overviews in Google Search have dropped in visibility across search results. Since I/O, the average percentage of queries where AI Overviews appear has dropped from 27 percent to just 11 percent. Despite the reduction, healthcare-related queries a large percentage of AI results, raising concerns about both accuracy and reliability across Google.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
