@@ -62,9 +62,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Improved Techniques for Optimization-Based Jailbreaking on Large Language Models.](https://arxiv.org/abs/2405.21018v1) | Expanding upon the Greedy Coordinate Gradient (GCG) approach, researchers have enhanced methods for optimization-based jailbreaking of huge language models.|
 |[ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation.](https://ssyang2020.github.io/zerosmooth.github.io/) |A training-free video interpolation technique for generative video diffusion models has been developed by researchers. This novel method improves frame rates without requiring a lot of training or big datasets and works with different models. |
 |[A whole-slide foundation model for digital pathology from real-world data.](https://www.nature.com/articles/s41586-024-07441-w) | Prov-GigaPath, a whole-slide pathology foundation model pretrained on 1.3 billion 256 × 256 pathology image tiles in 171,189 whole slides. To pretrain Prov-GigaPath, we propose GigaPath, a novel vision transformer architecture for pretraining gigapixel pathology slides. We further demonstrate the potential of Prov-GigaPath on vision–language pretraining for pathology by incorporating the pathology reports. In sum, Prov-GigaPath is an open-weight foundation model that achieves state-of-the-art performance on various digital pathology tasks, demonstrating the importance of real-world data and whole-slide modelling.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models.](https://zzzyuqing.github.io/dreammat.github.io/) |Using Dream Mat to enhance 3D object texture production is a brilliant idea. Given a 3D model, it employs several traditional graphic methods including Metallic, Roughness, and Albedo to generate a very appealing result. |
+|[LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing.](https://arxiv.org/abs/2406.02350v1) | To solve classification problems in large language models (LLMs), researchers have developed LlamaCare, a refined LLM for medical information, in conjunction with Extended Classification Integration (ECI).|
+|[XRec: Large Language Models for Explainable Recommendation.](https://github.com/hkuds/xrec) | XRec is a framework independent of models that improves explainable recommender systems by utilizing the language capabilities of huge language models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cartwheel generates 3D animations from scratch to power up creators.](https://techcrunch.com/2024/06/05/cartwheel-generates-3d-animations-from-scratch-to-power-up-creators/) |Animating a 3D character from scratch is generally both laborious and expensive, requiring the use of complex software and motion capture tools. |
 |[Mistral launches fine-tuning API.](https://mistral.ai/news/customization/) |Mistral has launched customization for its models via its platform and API. |
 |[If you aren't seeing AI Overviews in your search results, it's probably thanks to Google.](https://www.androidpolice.com/google-ai-overviews-scaled-back-rocky-launch/) |After receiving heavy criticism since their mid-May public launch, AI Overviews in Google Search have dropped in visibility across search results. Since I/O, the average percentage of queries where AI Overviews appear has dropped from 27 percent to just 11 percent. Despite the reduction, healthcare-related queries a large percentage of AI results, raising concerns about both accuracy and reliability across Google.|
-|[.]() | |
+|[Google optimizes shipping routes.](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/) |The mathematical optimization for cargo shipping routes was enhanced by Google's operations research group. They discovered a 13% drop in gasoline expenses and consumption. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
