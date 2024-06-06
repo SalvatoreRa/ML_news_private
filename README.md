@@ -67,6 +67,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -86,6 +91,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Using AI to decode dog vocalizations.](https://news.umich.edu/using-ai-to-decode-dog-vocalizations) |Leveraging a human speech model to identify different types of barks.  University of Michigan researchers are exploring the possibilities of AI, developing tools that can identify whether a dog’s bark conveys playfulness or aggression. |
 |[The future is … sending AI avatars to meetings for us, says Zoom boss.](https://www.theguardian.com/technology/article/2024/jun/05/the-future-is-sending-ai-avatars-to-meetings-for-us-says-zoom-boss) | Eric Yuan suggests technology is five or six years away and will free up time to spend with family|
 |[AI researchers build ‘future self’ chatbot to inspire wise life choices.](https://www.theguardian.com/technology/article/2024/jun/05/ai-researchers-build-future-self-chatbot-to-inspire-wise-life-choices) |Scientists at MIT hope talking to 60-year-old self will shift thinking on health, money and work |
+|[Cartwheel generates 3D animations from scratch to power up creators.](https://techcrunch.com/2024/06/05/cartwheel-generates-3d-animations-from-scratch-to-power-up-creators/) |Animating a 3D character from scratch is generally both laborious and expensive, requiring the use of complex software and motion capture tools. |
+|[Mistral launches fine-tuning API.](https://mistral.ai/news/customization/) |Mistral has launched customization for its models via its platform and API. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
