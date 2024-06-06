@@ -84,8 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Opaque Investment Empire Making OpenAI’s Sam Altman Rich.](https://wallstreetsights.com/business/openais-sam-altman-get-rich/4975/) |One of Silicon Valley's most active and successful individual investors is Sam Altman. At the beginning of this year, his stakes in his investment empire were valued at least $2.8 billion. A large portion of the portfolio is unknown. Readers are guided through Altman's investment knowledge in this article. |
 |[Even the Raspberry Pi is getting in on AI.](https://www.theverge.com/2024/6/4/24170818/raspberry-pi-ai-chip-hailo-devices) |Raspberry Pi partnered with Hailo to provide an optional AI add-on to its microcomputers. |
 |[Using AI to decode dog vocalizations.](https://news.umich.edu/using-ai-to-decode-dog-vocalizations) |Leveraging a human speech model to identify different types of barks.  University of Michigan researchers are exploring the possibilities of AI, developing tools that can identify whether a dog’s bark conveys playfulness or aggression. |
-|[.]() | |
-|[.]() | |
+|[The future is … sending AI avatars to meetings for us, says Zoom boss.](https://www.theguardian.com/technology/article/2024/jun/05/the-future-is-sending-ai-avatars-to-meetings-for-us-says-zoom-boss) | Eric Yuan suggests technology is five or six years away and will free up time to spend with family|
+|[AI researchers build ‘future self’ chatbot to inspire wise life choices.](https://www.theguardian.com/technology/article/2024/jun/05/ai-researchers-build-future-self-chatbot-to-inspire-wise-life-choices) |Scientists at MIT hope talking to 60-year-old self will shift thinking on health, money and work |
 |[.]() | |
 |[.]() | |
 |[.]() | |
