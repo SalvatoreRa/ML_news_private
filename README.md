@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What I learned from looking at 900 most popular open source AI tools.](https://huyenchip.com/2024/03/14/ai-oss.html) |The goal of this study of open source AI repositories is to provide readers with a broad overview of the intimidating AI ecosystem. |
 |[Meta AI system is a boost to endangered languages — as long as humans aren’t forgotten.](https://www.nature.com/articles/d41586-024-01619-y) |Automated approaches to translation could provide a lifeline to under-resourced languages, but only if companies engage with the people who speak them. |
 |[Misinformation poses a bigger threat to democracy than you might think.](https://www.nature.com/articles/d41586-024-01587-3) |In today’s polarized political climate, researchers who combat mistruths have come under attack and been labelled as unelected arbiters of truth. But the fight against misinformation is valid, warranted and urgently required. |
-|[.]() | |
+|[Is AI misinformation influencing elections in India?](https://www.nature.com/articles/d41586-024-01588-2) |A sample of roughly two million WhatsApp messages highlights urgent concerns about the spread and prevalence of AI-generated political content. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
