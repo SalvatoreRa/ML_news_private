@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google optimizes shipping routes.](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/) |The mathematical optimization for cargo shipping routes was enhanced by Google's operations research group. They discovered a 13% drop in gasoline expenses and consumption. |
 |[BrightEdge Releases Post Google I/O Data on The Impact of AI Overviews.](https://www.globenewswire.com/news-release/2024/06/04/2893289/0/en/BrightEdge-Releases-Post-Google-I-O-Data-on-The-Impact-of-AI-Overviews.html) | The main businesses affected by AI Overviews, what generates results, and where Google automatically anticipates and responds to search inquiries are all revealed by new research from BrightEdge Generative Parser.|
 |[Nvidia emails: Elon Musk diverting Tesla GPUs to his other companies.](https://arstechnica.com/cars/2024/06/elon-musk-is-diverting-teslas-gpus-to-x-xai-nvidia-emails-say/) | The Tesla CEO is accused of diverting resources from the company again. Elon Musk is yet again being accused of diverting Tesla resources to his other companies. This time, it's high-end H100 GPU clusters from Nvidia. |
-|[.]() | |
-|[.]() | |
+|[Securing Research Infrastructure for Advanced AI.](https://openai.com/index/securing-research-infrastructure-for-advanced-ai) |In its description of the security architecture of its AI training supercomputers, OpenAI highlights the use of Azure-based infrastructure and Kubernetes for orchestration to safeguard critical model weights and other assets. |
+|[Extracting Concepts from GPT-4.](https://openai.com/index/extracting-concepts-from-gpt-4) |The team at OpenAI has discovered 16 million interpretable features in GPT-4 including price increases, algebraic rings, and who/what correspondence. This is a great step forward for SAE interpretability at scale. They shared the code in a companion GitHub repository. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
