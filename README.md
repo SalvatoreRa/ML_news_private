@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia emails: Elon Musk diverting Tesla GPUs to his other companies.](https://arstechnica.com/cars/2024/06/elon-musk-is-diverting-teslas-gpus-to-x-xai-nvidia-emails-say/) | The Tesla CEO is accused of diverting resources from the company again. Elon Musk is yet again being accused of diverting Tesla resources to his other companies. This time, it's high-end H100 GPU clusters from Nvidia. |
 |[Securing Research Infrastructure for Advanced AI.](https://openai.com/index/securing-research-infrastructure-for-advanced-ai) |In its description of the security architecture of its AI training supercomputers, OpenAI highlights the use of Azure-based infrastructure and Kubernetes for orchestration to safeguard critical model weights and other assets. |
 |[Extracting Concepts from GPT-4.](https://openai.com/index/extracting-concepts-from-gpt-4) |The team at OpenAI has discovered 16 million interpretable features in GPT-4 including price increases, algebraic rings, and who/what correspondence. This is a great step forward for SAE interpretability at scale. They shared the code in a companion GitHub repository. |
-|[.]() | |
+|[Mesop: Gradio Competition.](https://google.github.io/mesop/) |A rival to the well-liked AI prototyping framework Gradio has been made available by Google. Gradio is more mature than Mesop, which is pure Python and slightly more composable. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -168,8 +168,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Is AI misinformation influencing elections in India?](https://www.nature.com/articles/d41586-024-01588-2) |A sample of roughly two million WhatsApp messages highlights urgent concerns about the spread and prevalence of AI-generated political content. |
 |[I'm Bearish OpenAI.](https://stovetop.substack.com/p/im-bearish-openai) |A shift toward products and a research brain drain should ring your alarm bells |
 |[The future of foundation models is closed-source.](https://blog.johnluttig.com/p/the-future-of-foundation-models-is) |if the centralizing forces of data and compute hold, open and closed-source AI cannot both dominate long-term |
-|[.]() | |
-|[.]() | |
+|[A Grand Unified Theory of the AI Hype Cycle.](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html) | Over the years, the AI sector has experienced multiple hype cycles, each of which produced really useful technology and outlasted the previous one. Instead of following an exponential process, every cycle adheres to a sigmoid one. There is an inevitable limit to any technology development strategy, and it is not too difficult to find. Although this AI hype cycle is unlike any other that has come before it, it will probably go in the same direction.|
+|[Hi, AI: Our Thesis on AI Voice Agents.](https://a16z.com/ai-voice-agents/) |The current state of AI speech agents is described in a blog post and deck created by Andreessen Horowitz, along with potential areas for advancement and investment. It outlines the present state of the B2B and B2C application layer landscape and covers the top infrastructure stack. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
