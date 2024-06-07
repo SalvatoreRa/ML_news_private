@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MatMul-Free LM.](https://github.com/ridgerchu/matmulfreellm) |Even at the billion-parameter scale, researchers have managed to remove matrix multiplication (MatMul) from huge language models without sacrificing speed. |
 |[stable-audio-open-1.0 .](https://huggingface.co/stabilityai/stable-audio-open-1.0) | The weights for Stable Audio, which was trained to produce sound effects on audio samples with permissive licenses, have been released by Stability AI.|
 |[CV-VAE: A Compatible Video VAE for Latent Generative Video Models.](https://ailab-cvc.github.io/cvvae/index.html) |With its spatio-temporally compressed latent spaces, CV-VAE is a video VAE that works with current image and video models to efficiently train new ones utilizing pre-trained ones. |
-|[.]() | |
+|[Qwen2.](https://qwenlm.github.io/blog/qwen2/) | Pretrained and instruction-tuned models of 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B.Having been trained on data in 27 additional languages besides English and Chinese. Having been trained on data in 27 additional languages besides English and Chinese. State-of-the-art performance in a large number of benchmark evaluations|
 |[.]() | |
 |[.]() | |
 |[.]() | |
