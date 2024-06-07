@@ -65,6 +65,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models.](https://zzzyuqing.github.io/dreammat.github.io/) |Using Dream Mat to enhance 3D object texture production is a brilliant idea. Given a 3D model, it employs several traditional graphic methods including Metallic, Roughness, and Albedo to generate a very appealing result. |
 |[LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing.](https://arxiv.org/abs/2406.02350v1) | To solve classification problems in large language models (LLMs), researchers have developed LlamaCare, a refined LLM for medical information, in conjunction with Extended Classification Integration (ECI).|
 |[XRec: Large Language Models for Explainable Recommendation.](https://github.com/hkuds/xrec) | XRec is a framework independent of models that improves explainable recommender systems by utilizing the language capabilities of huge language models.|
+|[MetaMixer Is All You Need.](https://arxiv.org/abs/2406.02021v1) |Using simply convolutions, researchers have created a novel method called FFNification that preserves the query-key-value structure while converting self-attention processes into more effective token mixers. |
+|[GrootVL: Tree Topology is All You Need in State Space Model.](https://github.com/easonxiao-888/grootvl) | By dynamically constructing a tree topology based on spatial correlations and input information, GrootVL is a network that enhances state space models.|
+|[ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization.](https://arxiv.org/abs/2406.01906v1) | In order to increase Visual Geo-localization (VG) and boost its performance in applications such as SLAM, augmented reality, and autonomous driving, researchers have created a new two-stage training process.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
