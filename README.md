@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[stable-audio-open-1.0 .](https://huggingface.co/stabilityai/stable-audio-open-1.0) | The weights for Stable Audio, which was trained to produce sound effects on audio samples with permissive licenses, have been released by Stability AI.|
 |[CV-VAE: A Compatible Video VAE for Latent Generative Video Models.](https://ailab-cvc.github.io/cvvae/index.html) |With its spatio-temporally compressed latent spaces, CV-VAE is a video VAE that works with current image and video models to efficiently train new ones utilizing pre-trained ones. |
 |[Qwen2.](https://qwenlm.github.io/blog/qwen2/) | Pretrained and instruction-tuned models of 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B.Having been trained on data in 27 additional languages besides English and Chinese. Having been trained on data in 27 additional languages besides English and Chinese. State-of-the-art performance in a large number of benchmark evaluations|
-|[.]() | |
+|[Dragonfly: A large vision-language model with multi-resolution zoom.](https://www.together.ai/blog/dragonfly-v1) | We are also launching two new open-source models  Llama-3-8b-Dragonfly-v1 a general-domain model trained on 5.5 million image-instruction pairs and Llama-3-8b-Dragonfly-Med-v1 finetuned on additional 1.4 biomedical image-instruction data. Dragonfly demonstrates promising performance on vision-language benchmarks like commonsense visual QA and image captioning. Dragonfly-Med outperforms prior models, including Med-Gemini on multiple medical imaging tasks, showcasing its capabilities for high-resolution medical data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
