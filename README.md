@@ -69,16 +69,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GrootVL: Tree Topology is All You Need in State Space Model.](https://github.com/easonxiao-888/grootvl) | By dynamically constructing a tree topology based on spatial correlations and input information, GrootVL is a network that enhances state space models.|
 |[ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization.](https://arxiv.org/abs/2406.01906v1) | In order to increase Visual Geo-localization (VG) and boost its performance in applications such as SLAM, augmented reality, and autonomous driving, researchers have created a new two-stage training process.|
 |[ReLUs Are Sufficient for Learning Implicit Neural Representations.](https://arxiv.org/abs/2406.02529v1) | A review of the application of ReLU activation functions to implicit neural representations (INRs) learning has been conducted. They countered spectrum bias by introducing basic limitations to ReLU neurons, which were inspired by second-order B-spline wavelets.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -108,15 +98,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Extracting Concepts from GPT-4.](https://openai.com/index/extracting-concepts-from-gpt-4) |The team at OpenAI has discovered 16 million interpretable features in GPT-4 including price increases, algebraic rings, and who/what correspondence. This is a great step forward for SAE interpretability at scale. They shared the code in a companion GitHub repository. |
 |[Mesop: Gradio Competition.](https://google.github.io/mesop/) |A rival to the well-liked AI prototyping framework Gradio has been made available by Google. Gradio is more mature than Mesop, which is pure Python and slightly more composable. |
 |[Nvidia is now more valuable than Apple at $3.01 trillion.](https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai) | The AI boom has pushed Nvidia’s market cap high enough to make it the second most valuable company in the world.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Resources
 |Link|description|
@@ -143,15 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen2.](https://qwenlm.github.io/blog/qwen2/) | Pretrained and instruction-tuned models of 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B.Having been trained on data in 27 additional languages besides English and Chinese. Having been trained on data in 27 additional languages besides English and Chinese. State-of-the-art performance in a large number of benchmark evaluations|
 |[Dragonfly: A large vision-language model with multi-resolution zoom.](https://www.together.ai/blog/dragonfly-v1) | We are also launching two new open-source models  Llama-3-8b-Dragonfly-v1 a general-domain model trained on 5.5 million image-instruction pairs and Llama-3-8b-Dragonfly-Med-v1 finetuned on additional 1.4 biomedical image-instruction data. Dragonfly demonstrates promising performance on vision-language benchmarks like commonsense visual QA and image captioning. Dragonfly-Med outperforms prior models, including Med-Gemini on multiple medical imaging tasks, showcasing its capabilities for high-resolution medical data.|
 |[MMLU Pro.](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro) |The industry standard for assessing knowledge and reasoning in language models is MMLU. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -170,19 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The future of foundation models is closed-source.](https://blog.johnluttig.com/p/the-future-of-foundation-models-is) |if the centralizing forces of data and compute hold, open and closed-source AI cannot both dominate long-term |
 |[A Grand Unified Theory of the AI Hype Cycle.](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html) | Over the years, the AI sector has experienced multiple hype cycles, each of which produced really useful technology and outlasted the previous one. Instead of following an exponential process, every cycle adheres to a sigmoid one. There is an inevitable limit to any technology development strategy, and it is not too difficult to find. Although this AI hype cycle is unlike any other that has come before it, it will probably go in the same direction.|
 |[Hi, AI: Our Thesis on AI Voice Agents.](https://a16z.com/ai-voice-agents/) |The current state of AI speech agents is described in a blog post and deck created by Andreessen Horowitz, along with potential areas for advancement and investment. It outlines the present state of the B2B and B2C application layer landscape and covers the top infrastructure stack. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 27 May - 2 June
 
