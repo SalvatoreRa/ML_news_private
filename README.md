@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[First NHS physiotherapy clinic run by AI to start this year.](https://www.theguardian.com/society/article/2024/jun/09/first-nhs-physiotherapy-clinic-run-by-ai-to-start-this-year) |New platform to provide same-day appointments with digital physiotherapist in effort to cut waiting times|
 |[.]() | |
 |[.]() | |
 |[.]() | |
