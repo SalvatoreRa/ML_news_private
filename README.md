@@ -71,7 +71,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -115,6 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Spreadsheet Is All You Need.](https://github.com/dabochen/spreadsheet-is-all-you-need) |Complete GPT-2 style transformer model with all weights, parameters, and connections included in a spreadsheet. It is a tiny model that runs entirely within the rows and columns of a spreadsheet and is based on NanoGPT. |
 |[Inspectus.](https://github.com/labmlai/inspectus) | Inspectus is a versatile visualization tool for large language models. It runs smoothly in Jupyter notebooks via an easy-to-use Python API. Inspectus provides multiple views, offering diverse insights into language model behaviors.|
+|[SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model.](https://www.anjiecheng.me/SpatialRGPT) | SpatialRGPT is a powerful vision-language model adept at understanding both 2D and 3D spatial arrangements. It can process any region proposal, such as boxes or masks, and provide answers to complex spatial reasoning questions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,7 +150,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Building AI products.](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products) |Though they can't give exact answers to questions, large language models (LLMs) like ChatGPT are excellent at producing responses that seem correct. In order to improve user experience and enhance functionality while reducing errors, AI in the future will integrate LLMs into specialized tools or embed them into already-existing applications. This will contextualize AI outputs within controllable, specified areas. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
