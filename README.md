@@ -50,9 +50,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Show, Don't Tell: Aligning Language Models with Demonstrated Feedback.](https://arxiv.org/abs/2406.00888) |suggests a technique that uses a very small number of demonstrations as feedback to align LLMs to a particular setting; it outperforms few-shot prompting, SFT, and self-play methods on the tested benchmarks and aligns LLM outputs to a user's demonstrated behaviors. Additionally, it can learn fine-grained style and task alignment across domains. |
 |[Towards Scalable Automated Alignment of LLMs.](https://arxiv.org/abs/2406.01252) | gives a summary of the techniques used to align LLMs and examines the four orientations listed below: 1) Inductive bias alignment; 2) Behavior imitation alignment; 3) Model feedback alignment; and 4) Environment feedback alignment|
 |[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments.](https://arxiv.org/abs/2406.04151) | a novel framework with multiple tasks and contexts for wide-ranging, concurrent, and real-time agent exploration; constructs a generally competent LLM-based agent with the ability to self-evolve and investigates its potential beyond data that hasn't been seen before across tasks and environments.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment.](https://arxiv.org/abs/2406.04295) | |
+|[ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization.](https://arxiv.org/abs/2406.04312v1) | |
+|[YOLO-World: Real-Time Open-Vocabulary Object Detection.](https://arxiv.org/abs/2401.17270v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
