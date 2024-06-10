@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment.](https://arxiv.org/abs/2406.04295) |A Synthetic-Domain Alignment (SDA) framework has been developed by researchers to improve test-time adaptation (TTA) techniques. By fine-tuning pretrained models with synthetic data produced by a conditional diffusion model, SDA efficiently aligns source and synthetic domains. |
 |[ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization.](https://arxiv.org/abs/2406.04312v1) | Reward-based Noise Optimization (ReNO) is a novel technique to improve Text-to-Image (T2I) models during inference by employing signals from reward models with human preferences to optimize the baseline noise.|
 |[YOLO-World: Real-Time Open-Vocabulary Object Detection.](https://arxiv.org/abs/2401.17270v1) | With YOLO-World, researchers have improved the widely used YOLO object detectors and included open-vocabulary detection. This method, which combines large-scale dataset training with vision-language modeling, enables it to swiftly and accurately detect a wide range of objects, even in situations for which it was not designed.|
-|[.]() | |
+|[Improved Scene Landmark Detection for Camera Localization.](https://arxiv.org/abs/2401.18083v1) | Using distinctive scene landmarks, researchers have developed a novel, privacy-friendly technique for camera localization. This method, which does not rely on real 3D point clouds for localization, is very accurate and storage-efficient since it makes use of 3D scene landmarks and a CNN-based heatmap.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
