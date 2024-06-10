@@ -77,9 +77,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[First NHS physiotherapy clinic run by AI to start this year.](https://www.theguardian.com/society/article/2024/jun/09/first-nhs-physiotherapy-clinic-run-by-ai-to-start-this-year) |New platform to provide same-day appointments with digital physiotherapist in effort to cut waiting times|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Apple to launch iOS 18 AI features marketed as ‘Apple Intelligence’.](https://9to5mac.com/2024/06/07/report-apple-to-launch-ios-18-ai-features-marketed-as-apple-intelligence/) |Bloomberg’s Mark Gurman today reports that Apple will launch its upcoming AI initiatives in iOS 18 and other operating systems under the brand name ‘Apple Intelligence’, which is obviously a convenient twist on the ‘AI’ acronym. |
+|[Claude’s Character.](https://www.anthropic.com/research/claude-character) |Claude is not simply your average, sycophantic AI that nods in agreement with the user. A character version of Constitutional AI has been specifically used to create Claude's personality and character. This essay goes into great detail on how Claude uses post-training to control the kind of output that he typically produces in order to portray this desired character. |
+|[Databricks + Tabular.](https://www.databricks.com/blog/databricks-tabular) |With the acquisition of Tabular, Databricks has brought together major players from Apache Iceberg and Delta Lake to concentrate on data format interoperability for its lakehouse architecture. With Delta Lake UniForm's compatibility solution at the forefront, the objective is to establish a single, open standard for data interoperability in order to prevent data silos. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
