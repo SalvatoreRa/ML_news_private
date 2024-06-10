@@ -44,8 +44,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Scaling neural machine translation to 200 languages.](https://www.nature.com/articles/s41586-024-07335-x) |based on a sparsely Gated Mixture of Experts architecture and trained on data using a method designed for low-resource languages, presents a massive multilingual model that uses transfer learning across 200 languages. It evaluates on 40K translations and achieves an average 44% improvement in translation quality. |
 |[MatMul-free LLMs.](https://arxiv.org/abs/2406.02528) | claims that memory consumption can be reduced by more than 10x by using an optimized kernel during inference; suggests an implementation that removes matrix multiplication operations from LLMs while maintaining performance at billion-parameter scales; the performance gap between full precision Transformers and the MatMul-free models narrows as the model size increases.|
-|[.]() | |
-|[.]() | |
+|[Buffer of Thoughts .](https://arxiv.org/abs/2406.04271) |utilizes a meta-buffer containing high-level thoughts (thought templates) extracted from problem-solving processes to present a thought-augmented reasoning approach that improves the accuracy, efficiency, and robustness of LLM-based reasoning. The relevant thought template is then retrieved and instantiated with task-specific reasoning structures for the thought-augmented reasoning process. It shows SOTA performance on 10 difficult tasks at 12% of the cost of multi-query prompting methods such as Tree-of-Thoughts. |
+|[SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales.](https://arxiv.org/abs/2405.20974) | supervised finetuning on a dataset containing summaries of the differences between multiple reasoning chains is performed by the training framework to teach LLMs to express more accurate fine-grained confidence estimates and self-reflective rationales. Reinforcement learning is then applied to calibrate confidence estimates, encouraging the LLM to produce accurate, high-confidence predictions and penalizing overconfidence in erroneous outputs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
