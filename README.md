@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Spreadsheet Is All You Need.](https://github.com/dabochen/spreadsheet-is-all-you-need) |Complete GPT-2 style transformer model with all weights, parameters, and connections included in a spreadsheet. It is a tiny model that runs entirely within the rows and columns of a spreadsheet and is based on NanoGPT. |
+|[Inspectus.](https://github.com/labmlai/inspectus) | Inspectus is a versatile visualization tool for large language models. It runs smoothly in Jupyter notebooks via an easy-to-use Python API. Inspectus provides multiple views, offering diverse insights into language model behaviors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
