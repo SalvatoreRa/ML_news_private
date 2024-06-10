@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Scaling neural machine translation to 200 languages.](https://www.nature.com/articles/s41586-024-07335-x) |based on a sparsely Gated Mixture of Experts architecture and trained on data using a method designed for low-resource languages, presents a massive multilingual model that uses transfer learning across 200 languages. It evaluates on 40K translations and achieves an average 44% improvement in translation quality. |
+|[MatMul-free LLMs.](https://arxiv.org/abs/2406.02528) | claims that memory consumption can be reduced by more than 10x by using an optimized kernel during inference; suggests an implementation that removes matrix multiplication operations from LLMs while maintaining performance at billion-parameter scales; the performance gap between full precision Transformers and the MatMul-free models narrows as the model size increases.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
