@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude’s Character.](https://www.anthropic.com/research/claude-character) |Claude is not simply your average, sycophantic AI that nods in agreement with the user. A character version of Constitutional AI has been specifically used to create Claude's personality and character. This essay goes into great detail on how Claude uses post-training to control the kind of output that he typically produces in order to portray this desired character. |
 |[Databricks + Tabular.](https://www.databricks.com/blog/databricks-tabular) |With the acquisition of Tabular, Databricks has brought together major players from Apache Iceberg and Delta Lake to concentrate on data format interoperability for its lakehouse architecture. With Delta Lake UniForm's compatibility solution at the forefront, the objective is to establish a single, open standard for data interoperability in order to prevent data silos. |
 |[How the voices for ChatGPT were chosen.](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/) |We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices. |
-|[.]() | |
+|[OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.](https://openai.com/index/openai-and-apple-announce-partnership/) |Apple is integrating ChatGPT into experiences within iOS, iPadOS, and macOS, allowing users to access ChatGPT’s capabilities—including image and document understanding—without needing to jump between tools.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
