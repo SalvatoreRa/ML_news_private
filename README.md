@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How the voices for ChatGPT were chosen.](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/) |We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices. |
 |[OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.](https://openai.com/index/openai-and-apple-announce-partnership/) |Apple is integrating ChatGPT into experiences within iOS, iPadOS, and macOS, allowing users to access ChatGPT’s capabilities—including image and document understanding—without needing to jump between tools.  |
 |[Apple Intelligence: every new AI feature coming to the iPhone and Mac.](https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac?utm_source=tldrai) |pple announced “Apple Intelligence” at WWDC 2024, its name for a new suite of AI features for the iPhone, Mac, and more. Starting later this year, Apple is rolling out what it says is a more conversational Siri, custom, AI-generated “Genmoji,” and GPT-4o access that lets Siri turn to OpenAI’s chatbot when it can’t handle what you ask it for. |
-|[.]() | |
+|[Asana says its new AI teammates are ready to manage your projects.](https://www.fastcompany.com/91134681/asana-ai-teammates-dustin-moskovitz-interview) |With the goal of enhancing productivity and output quality, Asana has introduced "AI teammates" to take care of duties like proactive project detail organization and request triaging. This innovative feature is integrated into the workflow and functions like a human team member while yet being supervised by humans. It was showcased at Asana's Work Innovation Summit. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Thread.](https://github.com/squaredtechnologies/thread) | Thread is a Jupyter Notebook that combines the experience of OpenAI's code interpreter with the familiar development environment of a Python notebook. With Thread, you can use natural language to generate cells, edit code, ask questions or fix errors all while being able to edit or re-run code as you would in a regular Jupyter Notebook.|
 |[How AI Image Models Work.](https://every.to/p/how-ai-image-models-work) | Since 2022, AI image production has advanced beyond producing images with text explanations. This article illustrates the quick progress and promise of AI in visual creation by explaining how these models hone chaotic inputs to create precise and detailed visuals using a kid's game comparison.|
 |[Active Stereo Without Pattern Projector.](https://vppstereo.github.io/) | Without the need for a hardware pattern projector, researchers have presented a new framework that incorporates active stereo concepts into passive cameras that are commonly used.|
-|[.]() | |
-|[.]() | |
+|[GLM-4-9B-Chat.](https://huggingface.co/THUDM/glm-4-9b-chat) |Excellent model with support for 26 languages, trained on 10T tokens by the Tsinghua KEM group. |
+|[DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data.](https://direct-3d.github.io/) | DIRECT-3D is a new text-to-3D generative model that directly generates 3D contents in a single forward pass without optimization.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
