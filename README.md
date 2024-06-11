@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inspectus.](https://github.com/labmlai/inspectus) | Inspectus is a versatile visualization tool for large language models. It runs smoothly in Jupyter notebooks via an easy-to-use Python API. Inspectus provides multiple views, offering diverse insights into language model behaviors.|
 |[SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model.](https://www.anjiecheng.me/SpatialRGPT) | SpatialRGPT is a powerful vision-language model adept at understanding both 2D and 3D spatial arrangements. It can process any region proposal, such as boxes or masks, and provide answers to complex spatial reasoning questions.|
 |[Thread.](https://github.com/squaredtechnologies/thread) | Thread is a Jupyter Notebook that combines the experience of OpenAI's code interpreter with the familiar development environment of a Python notebook. With Thread, you can use natural language to generate cells, edit code, ask questions or fix errors all while being able to edit or re-run code as you would in a regular Jupyter Notebook.|
-|[.]() | |
-|[.]() | |
+|[How AI Image Models Work.](https://every.to/p/how-ai-image-models-work) | Since 2022, AI image production has advanced beyond producing images with text explanations. This article illustrates the quick progress and promise of AI in visual creation by explaining how these models hone chaotic inputs to create precise and detailed visuals using a kid's game comparison.|
+|[Active Stereo Without Pattern Projector.](https://vppstereo.github.io/) | Without the need for a hardware pattern projector, researchers have presented a new framework that incorporates active stereo concepts into passive cameras that are commonly used.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
