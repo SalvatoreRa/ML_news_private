@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Spreadsheet Is All You Need.](https://github.com/dabochen/spreadsheet-is-all-you-need) |Complete GPT-2 style transformer model with all weights, parameters, and connections included in a spreadsheet. It is a tiny model that runs entirely within the rows and columns of a spreadsheet and is based on NanoGPT. |
 |[Inspectus.](https://github.com/labmlai/inspectus) | Inspectus is a versatile visualization tool for large language models. It runs smoothly in Jupyter notebooks via an easy-to-use Python API. Inspectus provides multiple views, offering diverse insights into language model behaviors.|
 |[SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model.](https://www.anjiecheng.me/SpatialRGPT) | SpatialRGPT is a powerful vision-language model adept at understanding both 2D and 3D spatial arrangements. It can process any region proposal, such as boxes or masks, and provide answers to complex spatial reasoning questions.|
-|[.]() | |
+|[Thread.](https://github.com/squaredtechnologies/thread) | Thread is a Jupyter Notebook that combines the experience of OpenAI's code interpreter with the familiar development environment of a Python notebook. With Thread, you can use natural language to generate cells, edit code, ask questions or fix errors all while being able to edit or re-run code as you would in a regular Jupyter Notebook.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
