@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Databricks + Tabular.](https://www.databricks.com/blog/databricks-tabular) |With the acquisition of Tabular, Databricks has brought together major players from Apache Iceberg and Delta Lake to concentrate on data format interoperability for its lakehouse architecture. With Delta Lake UniForm's compatibility solution at the forefront, the objective is to establish a single, open standard for data interoperability in order to prevent data silos. |
 |[How the voices for ChatGPT were chosen.](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/) |We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices. |
 |[OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.](https://openai.com/index/openai-and-apple-announce-partnership/) |Apple is integrating ChatGPT into experiences within iOS, iPadOS, and macOS, allowing users to access ChatGPT’s capabilities—including image and document understanding—without needing to jump between tools.  |
-|[.]() | |
+|[Apple Intelligence: every new AI feature coming to the iPhone and Mac.](https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac?utm_source=tldrai) |pple announced “Apple Intelligence” at WWDC 2024, its name for a new suite of AI features for the iPhone, Mac, and more. Starting later this year, Apple is rolling out what it says is a more conversational Siri, custom, AI-generated “Genmoji,” and GPT-4o access that lets Siri turn to OpenAI’s chatbot when it can’t handle what you ask it for. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
