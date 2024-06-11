@@ -54,11 +54,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization.](https://arxiv.org/abs/2406.04312v1) | Reward-based Noise Optimization (ReNO) is a novel technique to improve Text-to-Image (T2I) models during inference by employing signals from reward models with human preferences to optimize the baseline noise.|
 |[YOLO-World: Real-Time Open-Vocabulary Object Detection.](https://arxiv.org/abs/2401.17270v1) | With YOLO-World, researchers have improved the widely used YOLO object detectors and included open-vocabulary detection. This method, which combines large-scale dataset training with vision-language modeling, enables it to swiftly and accurately detect a wide range of objects, even in situations for which it was not designed.|
 |[Improved Scene Landmark Detection for Camera Localization.](https://arxiv.org/abs/2401.18083v1) | Using distinctive scene landmarks, researchers have developed a novel, privacy-friendly technique for camera localization. This method, which does not rely on real 3D point clouds for localization, is very accurate and storage-efficient since it makes use of 3D scene landmarks and a CNN-based heatmap.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Proofread: Fixes All Errors with One Tap.](https://arxiv.org/abs/2406.04523) | |
+|[BitsFusion: 1.99 bits Weight Quantization of Diffusion Model.](https://snap-research.github.io/BitsFusion/) | |
+|[Introducing Apple’s On-Device and Server Foundation Models.](https://machinelearning.apple.com/research/introducing-apple-foundation-models) | |
+|[OVMR: Open-Vocabulary Recognition with Multi-Modal References.](https://arxiv.org/abs/2406.04675v1) | |
+|[Predictive Dynamic Fusion.](https://arxiv.org/abs/2406.04802v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
