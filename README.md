@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Active Stereo Without Pattern Projector.](https://vppstereo.github.io/) | Without the need for a hardware pattern projector, researchers have presented a new framework that incorporates active stereo concepts into passive cameras that are commonly used.|
 |[GLM-4-9B-Chat.](https://huggingface.co/THUDM/glm-4-9b-chat) |Excellent model with support for 26 languages, trained on 10T tokens by the Tsinghua KEM group. |
 |[DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data.](https://direct-3d.github.io/) | DIRECT-3D is a new text-to-3D generative model that directly generates 3D contents in a single forward pass without optimization.|
-|[.]() | |
+|[Together MoA.](https://www.together.ai/blog/together-moa) |Together has presented Mixture of Agents (MoA), a cutting-edge technique that mixes many LLMs for optimal performance, outperforming GPT-4o with an AlpacaEval 2.0 score of 65.1%. MoA employs a tiered architecture in which aggregators in later levels improve the initial answers from different models, improving output quality through cooperation. Even with improved precision, MoA still struggles with latency. Reducing latency and improving model design are two potential future possibilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
