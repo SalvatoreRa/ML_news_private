@@ -59,9 +59,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Apple’s On-Device and Server Foundation Models.](https://machinelearning.apple.com/research/introducing-apple-foundation-models) | During WWDC 2024, Apple debuted "Apple Intelligence". Apple Intelligence is an AI system that is built into macOS Sequoia, iOS 18, and iPadOS 18. It has sophisticated generative models for a variety of commonplace activities, like text refinement, picture generation, and notification summary. With an emphasis on user privacy and responsible AI development, this system integrates cloud and on-device capabilities to improve the user experience across all Apple products.|
 |[OVMR: Open-Vocabulary Recognition with Multi-Modal References.](https://arxiv.org/abs/2406.04675v1) | OVMR is a novel approach that combines textual descriptions with sample photos to improve open-vocabulary recognition.|
 |[Predictive Dynamic Fusion.](https://arxiv.org/abs/2406.04802v1) |The Predictive Dynamic Fusion (PDF) architecture solves stability and reliability problems to improve multimodal learning. |
-|[Compute Better Spent: Replacing Dense Layers with Structured Matrices.](https://arxiv.org/abs/2406.06248) | |
-|[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models.](https://arxiv.org/abs/2406.06007v1) | |
-|[Learning to Route Among Specialized Experts for Zero-Shot Generalization.](https://arxiv.org/abs/2402.05859v1) | |
+|[Compute Better Spent: Replacing Dense Layers with Structured Matrices.](https://arxiv.org/abs/2406.06248) |The Linear layers are where Transformer computation is primarily done. This approach creates a structured representation with better scaling laws than naive dense layers, using less CPU than muP and Monarch matrices. |
+|[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models.](https://arxiv.org/abs/2406.06007v1) |A thorough methodology called CARES is used to assess the reliability of Medical Large Vision Language Models (Med-LVLMs). |
+|[Learning to Route Among Specialized Experts for Zero-Shot Generalization.](https://arxiv.org/abs/2402.05859v1) | PHATGOOSE is an approach that dramatically increases an AI's capacity to generalize and learn new tasks without prior exposure by efficiently routing between different specialized language models for each portion of a task.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
