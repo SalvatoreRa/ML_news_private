@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Compute Better Spent: Replacing Dense Layers with Structured Matrices.](https://arxiv.org/abs/2406.06248) |The Linear layers are where Transformer computation is primarily done. This approach creates a structured representation with better scaling laws than naive dense layers, using less CPU than muP and Monarch matrices. |
 |[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models.](https://arxiv.org/abs/2406.06007v1) |A thorough methodology called CARES is used to assess the reliability of Medical Large Vision Language Models (Med-LVLMs). |
 |[Learning to Route Among Specialized Experts for Zero-Shot Generalization.](https://arxiv.org/abs/2402.05859v1) | PHATGOOSE is an approach that dramatically increases an AI's capacity to generalize and learn new tasks without prior exposure by efficiently routing between different specialized language models for each portion of a task.|
-|[.]() | |
+|[Diabetic Retinopathy Detection.](https://arxiv.org/abs/2406.06384v1) |A unique framework that enhances the grading of diabetic retinopathy (DR), a condition that can result in visual impairment, has been developed by researchers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Together MoA.](https://www.together.ai/blog/together-moa) |Together has presented Mixture of Agents (MoA), a cutting-edge technique that mixes many LLMs for optimal performance, outperforming GPT-4o with an AlpacaEval 2.0 score of 65.1%. MoA employs a tiered architecture in which aggregators in later levels improve the initial answers from different models, improving output quality through cooperation. Even with improved precision, MoA still struggles with latency. Reducing latency and improving model design are two potential future possibilities. |
 |[Mistral.rs.](https://github.com/EricLBuehler/mistral.rs) |Mistral.rs is a fast LLM inference (Rust-based inference framework) platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. |
 |[Generalizable Human Gaussians from Single-View Image.](https://jinnan-chen.github.io/projects/HGM/) |A diffusion-guided framework for building 3D human models from a single image is the Human Gaussian Model (HGM). |
-|[.]() | |
+|[Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis.](https://srameo.github.io/projects/le3d/) |Real-time HDR view synthesis from RAW pictures can be achieved with the LE3D approach. It works especially well for situations set at night. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
