@@ -86,9 +86,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple stock reaches record high after announcement of new AI features.](https://www.theguardian.com/technology/article/2024/jun/11/apple-stock-reaches-record-high) |Tech giant’s shares climb 7% a day after reveal of artificial intelligence features meant to increase appeal of the iPhone |
 |[Elon Musk abruptly withdraws lawsuit against Sam Altman and OpenAI.](https://www.theguardian.com/technology/article/2024/jun/11/elon-musk-withdraws-lawsuit-against-sam-altman-openai) |Tesla CEO had accused company of abandoning mission of creating artificial intelligence for greater good of humanity |
 |[Mistral raises €600m series B.](https://threadreaderapp.com/thread/1800558395872731379.html) | Mistral announced €600M in Series B funding for thier first anniversary|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mozilla Builders.](https://future.mozilla.org/builders/blog/announcing-mozilla-builders/) | Local AI, which enhances accessibility and privacy by bringing AI models and applications directly onto personal devices, is being embraced by the first Mozilla Builders Accelerator. Tools for developer productivity, locally based AI agents, dynamic user interfaces, fine-tuning adaption, retrieval-augmented creation, and enhanced function calling are some of the key areas of advancement. The initiative's goal is for participants to create an open-source, decentralized AI ecosystem with a focus on user empowerment.|
+|[CaseMark Raises $1.7M to Empower Attorneys with AI.](https://www.casemark.ai/post/fueling-the-future-casemark-raises-1-7m-to-empower-attorneys-with-ai) |In order to increase the scope of its AI solutions for the legal sector, Gradient Ventures led pre-seed investment in CaseMark, an AI firm that is transforming legal operations. |
+|[OpenAI ex-employees worry about company’s control over their millions of dollars in shares.](https://www.cnbc.com/2024/06/11/openai-insider-stock-sales-are-raising-concern-among-ex-employees-.html) | With OpenAI’s valuation soaring and an IPO nowhere in sight, the company is giving employees the chance to sell some equity in secondary transactions. Ex-employees sitting on millions of dollars worth of stock worry about OpenAI’s ability to force them to give up their shares, according to sources and internal messages. OpenAI recently circulated a document indicating that ex-employees who work at competitors are not included in the tender offers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Building AI products.](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products) |Though they can't give exact answers to questions, large language models (LLMs) like ChatGPT are excellent at producing responses that seem correct. In order to improve user experience and enhance functionality while reducing errors, AI in the future will integrate LLMs into specialized tools or embed them into already-existing applications. This will contextualize AI outputs within controllable, specified areas. |
 |[Why passwords still matter in the age of AI.](https://www.theguardian.com/technology/article/2024/jun/11/apple-password-app-tech-age-of-ai) |As Apple’s new Passwords app tries to solve our identity crisis, why are we still proving who we are via strings of random characters? |
-|[.]() | |
+|[Examining LLM performance on public benchmarks.](https://threadreaderapp.com/thread/1785888203943161970.html) | Popular LLMs on public benchmarks: how overfit are they? Mistral and Phi are overfitting benchmarks, but GPT, Claude, Gemini, and Llama are not, according to new research from Scale AI SEAL. The scientists assessed public LLMs for overfitting on GSM8k and created a new eval GSM1k.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
