@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GLM-4-9B-Chat.](https://huggingface.co/THUDM/glm-4-9b-chat) |Excellent model with support for 26 languages, trained on 10T tokens by the Tsinghua KEM group. |
 |[DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data.](https://direct-3d.github.io/) | DIRECT-3D is a new text-to-3D generative model that directly generates 3D contents in a single forward pass without optimization.|
 |[Together MoA.](https://www.together.ai/blog/together-moa) |Together has presented Mixture of Agents (MoA), a cutting-edge technique that mixes many LLMs for optimal performance, outperforming GPT-4o with an AlpacaEval 2.0 score of 65.1%. MoA employs a tiered architecture in which aggregators in later levels improve the initial answers from different models, improving output quality through cooperation. Even with improved precision, MoA still struggles with latency. Reducing latency and improving model design are two potential future possibilities. |
-|[.]() | |
-|[.]() | |
+|[Mistral.rs.](https://github.com/EricLBuehler/mistral.rs) |Mistral.rs is a fast LLM inference (Rust-based inference framework) platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. |
+|[Generalizable Human Gaussians from Single-View Image.](https://jinnan-chen.github.io/projects/HGM/) |A diffusion-guided framework for building 3D human models from a single image is the Human Gaussian Model (HGM). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
