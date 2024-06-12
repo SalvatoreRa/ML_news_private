@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Asana says its new AI teammates are ready to manage your projects.](https://www.fastcompany.com/91134681/asana-ai-teammates-dustin-moskovitz-interview) |With the goal of enhancing productivity and output quality, Asana has introduced "AI teammates" to take care of duties like proactive project detail organization and request triaging. This innovative feature is integrated into the workflow and functions like a human team member while yet being supervised by humans. It was showcased at Asana's Work Innovation Summit. |
 |[Apple stock reaches record high after announcement of new AI features.](https://www.theguardian.com/technology/article/2024/jun/11/apple-stock-reaches-record-high) |Tech giant’s shares climb 7% a day after reveal of artificial intelligence features meant to increase appeal of the iPhone |
 |[Elon Musk abruptly withdraws lawsuit against Sam Altman and OpenAI.](https://www.theguardian.com/technology/article/2024/jun/11/elon-musk-withdraws-lawsuit-against-sam-altman-openai) |Tesla CEO had accused company of abandoning mission of creating artificial intelligence for greater good of humanity |
-|[.]() | |
+|[Mistral raises €600m series B.](https://threadreaderapp.com/thread/1800558395872731379.html) | Mistral announced €600M in Series B funding for thier first anniversary|
 |[.]() | |
 |[.]() | |
 |[.]() | |
