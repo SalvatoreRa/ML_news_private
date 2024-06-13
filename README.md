@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Announcing the Open Release of Stable Diffusion 3 Medium.](https://stability.ai/news/stable-diffusion-3-medium) |Stable Diffusion 3 Medium is Stability AI’s most advanced text-to-image open model yet. The small size of this model makes it perfect for running on consumer PCs and laptops as well as enterprise-tier GPUs.|
 |[Shutterstock ImageAI, Powered by Databricks.](https://www.databricks.com/company/newsroom/press-releases/introducing-shutterstock-imageai-powered-databricks-image) |  Databricks and Shutterstock announced a text-to-image Generative AI model optimized for enterprise use|
 |[OpenAI Annualized Revenue Doubles.](https://seekingalpha.com/news/4115380-openai-annualized-revenue-doubles-to-hit-34b-report) | OpenAI has more than doubled its annualized revenue to hit $3.4B.|
-|[.]() | |
+|[Perplexity was planning revenue-sharing deals with publishers when it came under media fire.](https://www.semafor.com/article/06/12/2024/perplexity-was-planning-revenue-sharing-deals-with-publishers) | Perplexity, the AI search startup that recently came under fire from Forbes for allegedly misusing its content, was already working on revenue-sharing deals with high-quality publishers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
