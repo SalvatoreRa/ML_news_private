@@ -132,8 +132,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral.rs.](https://github.com/EricLBuehler/mistral.rs) |Mistral.rs is a fast LLM inference (Rust-based inference framework) platform supporting inference on a variety of devices, quantization, and easy-to-use application with an Open-AI API compatible HTTP server and Python bindings. |
 |[Generalizable Human Gaussians from Single-View Image.](https://jinnan-chen.github.io/projects/HGM/) |A diffusion-guided framework for building 3D human models from a single image is the Human Gaussian Model (HGM). |
 |[Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis.](https://srameo.github.io/projects/le3d/) |Real-time HDR view synthesis from RAW pictures can be achieved with the LE3D approach. It works especially well for situations set at night. |
-|[.]() | |
-|[.]() | |
+|[TORAX.](https://github.com/google-deepmind/torax) | The Python-Jax differentiable fusion tokamak simulator developed by DeepMind at Google is now publicly available. The simulator supports several very powerful PDEs and has good auto-diff capabilities.|
+|[AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising.](https://czg1225.github.io/asyncdiff_page/) | A novel acceleration approach called AsyncDiff makes it possible to perform parallel processing in diffusion models. By splitting the noise prediction model into several parts and executing them on different devices, it drastically cuts latency without sacrificing quality.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
