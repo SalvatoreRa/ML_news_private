@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CaseMark Raises $1.7M to Empower Attorneys with AI.](https://www.casemark.ai/post/fueling-the-future-casemark-raises-1-7m-to-empower-attorneys-with-ai) |In order to increase the scope of its AI solutions for the legal sector, Gradient Ventures led pre-seed investment in CaseMark, an AI firm that is transforming legal operations. |
 |[OpenAI ex-employees worry about company’s control over their millions of dollars in shares.](https://www.cnbc.com/2024/06/11/openai-insider-stock-sales-are-raising-concern-among-ex-employees-.html) | With OpenAI’s valuation soaring and an IPO nowhere in sight, the company is giving employees the chance to sell some equity in secondary transactions. Ex-employees sitting on millions of dollars worth of stock worry about OpenAI’s ability to force them to give up their shares, according to sources and internal messages. OpenAI recently circulated a document indicating that ex-employees who work at competitors are not included in the tender offers.|
 |[Announcing the Open Release of Stable Diffusion 3 Medium.](https://stability.ai/news/stable-diffusion-3-medium) |Stable Diffusion 3 Medium is Stability AI’s most advanced text-to-image open model yet. The small size of this model makes it perfect for running on consumer PCs and laptops as well as enterprise-tier GPUs.|
-|[.]() | |
-|[.]() | |
+|[Shutterstock ImageAI, Powered by Databricks.](https://www.databricks.com/company/newsroom/press-releases/introducing-shutterstock-imageai-powered-databricks-image) |  Databricks and Shutterstock announced a text-to-image Generative AI model optimized for enterprise use|
+|[OpenAI Annualized Revenue Doubles.](https://seekingalpha.com/news/4115380-openai-annualized-revenue-doubles-to-hit-34b-report) | OpenAI has more than doubled its annualized revenue to hit $3.4B.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
