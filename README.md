@@ -134,8 +134,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis.](https://srameo.github.io/projects/le3d/) |Real-time HDR view synthesis from RAW pictures can be achieved with the LE3D approach. It works especially well for situations set at night. |
 |[TORAX.](https://github.com/google-deepmind/torax) | The Python-Jax differentiable fusion tokamak simulator developed by DeepMind at Google is now publicly available. The simulator supports several very powerful PDEs and has good auto-diff capabilities.|
 |[AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising.](https://czg1225.github.io/asyncdiff_page/) | A novel acceleration approach called AsyncDiff makes it possible to perform parallel processing in diffusion models. By splitting the noise prediction model into several parts and executing them on different devices, it drastically cuts latency without sacrificing quality.|
-|[.]() | |
-|[.]() | |
+|[PowerInfer-2: Fast Large Language Model Inference on a Smartphone.](https://powerinfer.ai/v2/) |Fast inference on the phone for the special Mistral 47B MoE model. |
+|[The AXLearn Library for Deep Learning.](https://github.com/apple/axlearn) |AXLearn is a library built on top of JAX and XLA to support the development of large-scale deep learning models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
