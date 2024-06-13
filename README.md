@@ -67,7 +67,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TextGrad: Automatic "Differentiation" via Text.](https://arxiv.org/abs/2406.07496) | The concept of treating a language model that is capable of updating text as a backpropagation system is investigated in this study. The benchmark performance, not computationally matched against baseline models, shows significant increases, according to the researchers.|
 |[Improve Mathematical Reasoning in Language Models by Automated Process Supervision.](https://arxiv.org/abs/2406.06592) |DeepMind found a great way to extend the labor-intensive process of process oversight that requires human intervention. With robust base models, it was able to automate a significant portion of the procedure, which resulted in significant mathematical reasoning performance on Gemini Pro tuned models. |
 |[Autoregressive Model Beats Diffusion: 🦙 Llama for Scalable Image Generation.](https://github.com/FoundationVision/LlamaGen) | For image generation, Llama Gen is an autoregressive model that scales better than diffusion alternatives. By using ImageNet to train a class-conditioned model, its researchers were able to raise the bar for FID.|
-|[.]() | |
+|[When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models.](https://arxiv.org/abs/2406.07368v1) |In order to address the efficiency concerns in autoregressive big language models, researchers have looked into combining speculative decoding with linear attention techniques. In order to improve training and performance, this work presents an augmentation strategy for linear attention that is consistent with speculative decoding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
