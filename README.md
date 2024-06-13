@@ -63,6 +63,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models.](https://arxiv.org/abs/2406.06007v1) |A thorough methodology called CARES is used to assess the reliability of Medical Large Vision Language Models (Med-LVLMs). |
 |[Learning to Route Among Specialized Experts for Zero-Shot Generalization.](https://arxiv.org/abs/2402.05859v1) | PHATGOOSE is an approach that dramatically increases an AI's capacity to generalize and learn new tasks without prior exposure by efficiently routing between different specialized language models for each portion of a task.|
 |[Diabetic Retinopathy Detection.](https://arxiv.org/abs/2406.06384v1) |A unique framework that enhances the grading of diabetic retinopathy (DR), a condition that can result in visual impairment, has been developed by researchers. |
+|[BERTs are Generative In-Context Learners.](https://arxiv.org/abs/2406.04823) | |
+|[TextGrad: Automatic "Differentiation" via Text.](https://arxiv.org/abs/2406.07496) | |
+|[Improve Mathematical Reasoning in Language Models by Automated Process Supervision.](https://arxiv.org/abs/2406.06592) | |
+|[Autoregressive Model Beats Diffusion: 🦙 Llama for Scalable Image Generation.](https://github.com/FoundationVision/LlamaGen) | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
