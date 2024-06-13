@@ -153,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building AI products.](https://www.ben-evans.com/benedictevans/2024/6/8/building-ai-products) |Though they can't give exact answers to questions, large language models (LLMs) like ChatGPT are excellent at producing responses that seem correct. In order to improve user experience and enhance functionality while reducing errors, AI in the future will integrate LLMs into specialized tools or embed them into already-existing applications. This will contextualize AI outputs within controllable, specified areas. |
 |[Why passwords still matter in the age of AI.](https://www.theguardian.com/technology/article/2024/jun/11/apple-password-app-tech-age-of-ai) |As Apple’s new Passwords app tries to solve our identity crisis, why are we still proving who we are via strings of random characters? |
 |[Examining LLM performance on public benchmarks.](https://threadreaderapp.com/thread/1785888203943161970.html) | Popular LLMs on public benchmarks: how overfit are they? Mistral and Phi are overfitting benchmarks, but GPT, Claude, Gemini, and Llama are not, according to new research from Scale AI SEAL. The scientists assessed public LLMs for overfitting on GSM8k and created a new eval GSM1k.|
-|[.]() | |
+|[How to track the economic impact of public investments in AI.](https://www.nature.com/articles/d41586-024-01721-1) | National statistics systems should recognize the researchers whose ideas drive artificial-intelligence applications, not just machines and factory outputs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
