@@ -138,8 +138,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The AXLearn Library for Deep Learning.](https://github.com/apple/axlearn) |AXLearn is a library built on top of JAX and XLA to support the development of large-scale deep learning models. |
 |[Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling.](https://github.com/microsoft/Samba) |Samba is a simple yet powerful hybrid model with an unlimited context length. Its architecture is frustratingly simple: Samba = Mamba + MLP + Sliding Window Attention + MLP stacking at the layer level. |
 |[DiffusionKit.](https://github.com/argmaxinc/DiffusionKit) | Framework and tooling for running diffusion models on Apple's MLX framework.|
-|[.]() | |
-|[.]() | |
+|[Splash Attention.](https://github.com/google/jax/blob/main/jax/experimental/pallas/ops/tpu/splash_attention/splash_attention_kernel.py) |new DeepMind kernel in Jax for Sparse Flash Attention |
+|[Hugging Face acquires Agrilla.](https://huggingface.co/posts/dvilasuero/203008804842390) |Argilla a company specialized on data for preference optimization has been acquired. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
