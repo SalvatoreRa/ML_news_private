@@ -68,9 +68,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Improve Mathematical Reasoning in Language Models by Automated Process Supervision.](https://arxiv.org/abs/2406.06592) |DeepMind found a great way to extend the labor-intensive process of process oversight that requires human intervention. With robust base models, it was able to automate a significant portion of the procedure, which resulted in significant mathematical reasoning performance on Gemini Pro tuned models. |
 |[Autoregressive Model Beats Diffusion: 🦙 Llama for Scalable Image Generation.](https://github.com/FoundationVision/LlamaGen) | For image generation, Llama Gen is an autoregressive model that scales better than diffusion alternatives. By using ImageNet to train a class-conditioned model, its researchers were able to raise the bar for FID.|
 |[When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models.](https://arxiv.org/abs/2406.07368v1) |In order to address the efficiency concerns in autoregressive big language models, researchers have looked into combining speculative decoding with linear attention techniques. In order to improve training and performance, this work presents an augmentation strategy for linear attention that is consistent with speculative decoding. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478) |Using a vision model to caption online scraped photos significantly enhances downstream model performance. This is particularly valid for models like CLIP. |
+|[Hearing Anything Anywhere.](https://masonlwang.com/hearinganythinganywhere/) |This research presents DiffRIR, a new framework that uses a planar scene reconstruction with a limited number of room impulse response (RIR) recordings to recreate the spatial acoustic properties of environments. |
+|[Simple and Effective Masked Diffusion Language Models.](https://github.com/kuleshov-group/mdlm) | By using an efficient training recipe and incorporating a simpler Rao-Blackwellized objective, researchers have shown that masked discrete diffusion models can compete with autoregressive approaches in language modeling.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
