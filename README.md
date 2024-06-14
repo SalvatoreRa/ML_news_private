@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Shutterstock ImageAI, Powered by Databricks.](https://www.databricks.com/company/newsroom/press-releases/introducing-shutterstock-imageai-powered-databricks-image) |  Databricks and Shutterstock announced a text-to-image Generative AI model optimized for enterprise use|
 |[OpenAI Annualized Revenue Doubles.](https://seekingalpha.com/news/4115380-openai-annualized-revenue-doubles-to-hit-34b-report) | OpenAI has more than doubled its annualized revenue to hit $3.4B.|
 |[Perplexity was planning revenue-sharing deals with publishers when it came under media fire.](https://www.semafor.com/article/06/12/2024/perplexity-was-planning-revenue-sharing-deals-with-publishers) | Perplexity, the AI search startup that recently came under fire from Forbes for allegedly misusing its content, was already working on revenue-sharing deals with high-quality publishers.|
-|[.]() | |
-|[.]() | |
+|[Microsoft’s Nadella Is Building an AI Empire. OpenAI Was Just the First Step.](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a?st=8kan7s8rxto660t) |After landing the deal that launched his company to the front of the artificial-intelligence race, the tech chief is spreading his bets. Will it be enough? |
+|[OpenAI adds former NSA chief to its board.](https://www.axios.com/2024/06/13/open-ai-security-nakasone-nsa) |OpenAI said on Thursday that it is adding former NSA head and retired Gen. Paul Nakasone to its board of directors as well as its newly formed Safety and Security Committee. Why it matters: OpenAI is looking to convince skeptics that it is taking sufficient steps to ensure its models are safe as it works toward its goal of super intelligence. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
