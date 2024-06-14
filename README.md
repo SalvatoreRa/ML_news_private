@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI adds former NSA chief to its board.](https://www.axios.com/2024/06/13/open-ai-security-nakasone-nsa) |OpenAI said on Thursday that it is adding former NSA head and retired Gen. Paul Nakasone to its board of directors as well as its newly formed Safety and Security Committee. Why it matters: OpenAI is looking to convince skeptics that it is taking sufficient steps to ensure its models are safe as it works toward its goal of super intelligence. |
 |[Apple Made Once-Unlikely Deal With Sam Altman to Catch Up in AI.](https://www.bloomberg.com/news/articles/2024-06-05/why-is-apple-aapl-teaming-up-with-openai-both-companies-need-each-other) |An OpenAI agreement is due to be announced at the Apple’s developer conference next week. |
 |[LLM-Squared .](https://sakana.ai/llm-squared/) | Sakana AI has found a preference optimization scheme that works better than DPO by using an evolutionary approach. It trained models based on code that was suggested by a language model. It has a few suggested variations with very high performance after about 100 generations.|
-|[.]() | |
+|[Gemini 1.5 Pro and 1.5 Flash GA, 1.5 Flash tuning support, higher rate limits, and more API updates.](https://developers.googleblog.com/en/gemini-15-pro-and-15-flash-now-available/) |Updates to the Gemini API and Google AI Studio have been released by Google AI. These include support for model tuning, the stable release of Gemini 1.5, increased API rate limitations, additional JSON schema features, and mobile compatibility. The changes boost the alternatives available to developers more efficiently and more customized large-scale building. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,8 +136,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising.](https://czg1225.github.io/asyncdiff_page/) | A novel acceleration approach called AsyncDiff makes it possible to perform parallel processing in diffusion models. By splitting the noise prediction model into several parts and executing them on different devices, it drastically cuts latency without sacrificing quality.|
 |[PowerInfer-2: Fast Large Language Model Inference on a Smartphone.](https://powerinfer.ai/v2/) |Fast inference on the phone for the special Mistral 47B MoE model. |
 |[The AXLearn Library for Deep Learning.](https://github.com/apple/axlearn) |AXLearn is a library built on top of JAX and XLA to support the development of large-scale deep learning models. |
-|[.]() | |
-|[.]() | |
+|[Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling.](https://github.com/microsoft/Samba) |Samba is a simple yet powerful hybrid model with an unlimited context length. Its architecture is frustratingly simple: Samba = Mamba + MLP + Sliding Window Attention + MLP stacking at the layer level. |
+|[DiffusionKit.](https://github.com/argmaxinc/DiffusionKit) | Framework and tooling for running diffusion models on Apple's MLX framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
