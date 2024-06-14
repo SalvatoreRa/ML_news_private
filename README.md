@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft’s Nadella Is Building an AI Empire. OpenAI Was Just the First Step.](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a?st=8kan7s8rxto660t) |After landing the deal that launched his company to the front of the artificial-intelligence race, the tech chief is spreading his bets. Will it be enough? |
 |[OpenAI adds former NSA chief to its board.](https://www.axios.com/2024/06/13/open-ai-security-nakasone-nsa) |OpenAI said on Thursday that it is adding former NSA head and retired Gen. Paul Nakasone to its board of directors as well as its newly formed Safety and Security Committee. Why it matters: OpenAI is looking to convince skeptics that it is taking sufficient steps to ensure its models are safe as it works toward its goal of super intelligence. |
 |[Apple Made Once-Unlikely Deal With Sam Altman to Catch Up in AI.](https://www.bloomberg.com/news/articles/2024-06-05/why-is-apple-aapl-teaming-up-with-openai-both-companies-need-each-other) |An OpenAI agreement is due to be announced at the Apple’s developer conference next week. |
-|[.]() | |
+|[LLM-Squared .](https://sakana.ai/llm-squared/) | Sakana AI has found a preference optimization scheme that works better than DPO by using an evolutionary approach. It trained models based on code that was suggested by a language model. It has a few suggested variations with very high performance after about 100 generations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
