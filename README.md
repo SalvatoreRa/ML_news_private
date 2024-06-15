@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI generated sound effects are here.](https://elevenlabs.io/blog/sound-effects-are-here/) | A new AI audio model from ElevenLabs can generate a variety of voices, tunes, and sound effects based on text cues. By utilizing Shutterstock's audio library, our partnership helps media professionals create better content by facilitating the quick and scalable production of high-quality audio. ElevenLabs' platform makes it simple for users to create sounds, which streamlines the audio design process.|
 |[OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO).](https://openai.com/index/openai-welcomes-cfo-cpo/) |With the appointment of Kevin Weil as CPO and Sarah Friar as CFO, OpenAI has strengthened its leadership team to further its goal of developing AI products and doing research that are useful to developers, businesses, and consumers. |
 |[Why the pope has the ears of G7 leaders on the ethics of AI.](https://www.theguardian.com/world/article/2024/jun/14/why-the-pope-has-the-ears-of-g7-leaders-on-the-ethics-of-ai) |Pope Francis is leaning on thinking of Paolo Benanti, a friar adept at explaining how technology can change world |
-|[.]() | |
+|[AI used to predict potential new antibiotics in groundbreaking study.](https://www.theguardian.com/society/article/2024/jun/05/ai-antibiotic-resistance) |Scientists used an algorithm to mine ‘the entirety of the microbial diversity’ on Earth, speeding up antibiotic resistance research |
 |[.]() | |
 |[.]() | |
 |[.]() | |
