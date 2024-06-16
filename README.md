@@ -71,14 +71,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478) |Using a vision model to caption online scraped photos significantly enhances downstream model performance. This is particularly valid for models like CLIP. |
 |[Hearing Anything Anywhere.](https://masonlwang.com/hearinganythinganywhere/) |This research presents DiffRIR, a new framework that uses a planar scene reconstruction with a limited number of room impulse response (RIR) recordings to recreate the spatial acoustic properties of environments. |
 |[Simple and Effective Masked Diffusion Language Models.](https://github.com/kuleshov-group/mdlm) | By using an efficient training recipe and incorporating a simpler Rao-Blackwellized objective, researchers have shown that masked discrete diffusion models can compete with autoregressive approaches in language modeling.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -110,12 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO).](https://openai.com/index/openai-welcomes-cfo-cpo/) |With the appointment of Kevin Weil as CPO and Sarah Friar as CFO, OpenAI has strengthened its leadership team to further its goal of developing AI products and doing research that are useful to developers, businesses, and consumers. |
 |[Why the pope has the ears of G7 leaders on the ethics of AI.](https://www.theguardian.com/world/article/2024/jun/14/why-the-pope-has-the-ears-of-g7-leaders-on-the-ethics-of-ai) |Pope Francis is leaning on thinking of Paolo Benanti, a friar adept at explaining how technology can change world |
 |[AI used to predict potential new antibiotics in groundbreaking study.](https://www.theguardian.com/society/article/2024/jun/05/ai-antibiotic-resistance) |Scientists used an algorithm to mine ‘the entirety of the microbial diversity’ on Earth, speeding up antibiotic resistance research |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -140,20 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiffusionKit.](https://github.com/argmaxinc/DiffusionKit) | Framework and tooling for running diffusion models on Apple's MLX framework.|
 |[Splash Attention.](https://github.com/google/jax/blob/main/jax/experimental/pallas/ops/tpu/splash_attention/splash_attention_kernel.py) |new DeepMind kernel in Jax for Sparse Flash Attention |
 |[Hugging Face acquires Agrilla.](https://huggingface.co/posts/dvilasuero/203008804842390) |Argilla a company specialized on data for preference optimization has been acquired. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -163,35 +137,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Examining LLM performance on public benchmarks.](https://threadreaderapp.com/thread/1785888203943161970.html) | Popular LLMs on public benchmarks: how overfit are they? Mistral and Phi are overfitting benchmarks, but GPT, Claude, Gemini, and Llama are not, according to new research from Scale AI SEAL. The scientists assessed public LLMs for overfitting on GSM8k and created a new eval GSM1k.|
 |[How to track the economic impact of public investments in AI.](https://www.nature.com/articles/d41586-024-01721-1) | National statistics systems should recognize the researchers whose ideas drive artificial-intelligence applications, not just machines and factory outputs.|
 |[Maintaining Large-Scale AI Capacity At Meta.](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/) |To meet AI demands, Meta is modernizing its data centers throughout the world. For AI training tasks, it intends to scale to 600,000 GPUs. In order to assure minimal disruptions and constant performance while enabling quick infrastructure scalability, this calls for creative maintenance tactics and tools like OpsPlanner. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 # ML news: Week 3 - 9 June
 
