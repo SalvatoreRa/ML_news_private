@@ -104,11 +104,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[ Nemotron-4 340B.](https://research.nvidia.com/publication/2024-06_nemotron-4-340b) |offers a reward model to filter data based on many qualities and an instruct model to generate high-quality data; exhibits impressive results on widely-used benchmarks such as MMLU and GSM8K; It competes with GPT-4 in a number of activities, such as scoring highly in multi-turn chat; Together with the base model, a preference data is also made available. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Nemotron-4 340B.](https://research.nvidia.com/publication/2024-06_nemotron-4-340b) |offers a reward model to filter data based on many qualities and an instruct model to generate high-quality data; exhibits impressive results on widely-used benchmarks such as MMLU and GSM8K; It competes with GPT-4 in a number of activities, such as scoring highly in multi-turn chat; Together with the base model, a preference data is also made available. |
+|[Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs.](https://arxiv.org/abs/2406.09324v1) |Determining ways to incorporate search into language model creation is now the Holy Grail of study. This work is quite encouraging as it demonstrates that on math performance, tiny models with search can match considerably more powerful models. |
+|[MCTSr: Mathematic as a Blackbox for LLM.](https://github.com/trotsky1997/MathBlackBox) | |
+|[VideoGPT.](https://github.com/mbzuai-oryx/videogpt-plus) | To improve video understanding, a model called VideoGPT+ combines image and video encoders. While video encoders offer temporal context, image encoders capture finely detailed spatial information.|
+|[Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach.](https://linlin-dev.github.io/project/RSG.html) | In order to enhance Scene Graph Generation (SGG) for very-high-resolution satellite imaging (VHR SAI), this research introduces a new dataset and methodology.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
