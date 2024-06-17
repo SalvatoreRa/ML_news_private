@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Apple to ‘Pay’ OpenAI for ChatGPT Through Distribution, Not Cash.](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash) | The collaboration between Apple and OpenAI isn't anticipated to bring in a significant amount of money for either company, at least not right away. Apple is not paying OpenAI as part of the agreement because it feels that integrating OpenAI's technology and brand into its products is as valuable as or more valuable than financial compensation. The agreement isn't exclusive; Apple is already talking about providing additional chatbot choices. In the long run, Apple intends to profit from AI by entering into revenue-sharing contracts with AI partners.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
