@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MCTSr: Mathematic as a Blackbox for LLM.](https://github.com/trotsky1997/MathBlackBox) | |
 |[VideoGPT.](https://github.com/mbzuai-oryx/videogpt-plus) | To improve video understanding, a model called VideoGPT+ combines image and video encoders. While video encoders offer temporal context, image encoders capture finely detailed spatial information.|
 |[Scene Graph Generation in Large-Size VHR Satellite Imagery: A Large-Scale Dataset and A Context-Aware Approach.](https://linlin-dev.github.io/project/RSG.html) | In order to enhance Scene Graph Generation (SGG) for very-high-resolution satellite imaging (VHR SAI), this research introduces a new dataset and methodology.|
-|[.]() | |
+|[LLM.Mojo.](https://github.com/dorjeduck/llm.mojo) |This project is a port of Andrej Karpathy's llm.c to Mojo, currently in beta and subject to changes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
