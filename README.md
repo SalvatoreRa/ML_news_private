@@ -51,8 +51,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mixture of Memory Experts.](https://github.com/lamini-ai/Lamini-Memory-Tuning/blob/main/research-paper.pdf) |claims to enable scaling to a high number of parameters while keeping the inference cost fixed. It suggests a method to significantly reduce hallucination (10x) by tuning millions of expert adapters (e.g., LoRAs) to learn exact facts and retrieve them from an index at inference time. The memory experts are specialized to ensure faithful and factual accuracy on the data it was tuned on. |
 |[Multimodal Table Understanding.](https://arxiv.org/abs/2406.08100) | presents Table-LLaVa 7B, a multimodal LLM for multimodal table understanding; it produces a large-scale dataset MMTab, comprising table images, instructions, and tasks; it is comparable with GPT-4V and greatly outperforms existing MLLMs on numerous benchmarks. |
 |[Never Miss A Beat: An Efficient Recipe for Context Window Extension of Large Language Models with Consistent "Middle" Enhancement.](https://arxiv.org/abs/2406.07138) |suggests a training-efficient way to extend LLMs to longer context lengths (e.g., 4K -> 256K); it uses a truncated Gaussian to encourage sampling from the middle part of the context during fine-tuning; the approach helps to alleviate the so-called "Lost-in-the-Middle" problem in long-context LLMs. suggests a method to tune an LLM to effectively utilize information from the middle part of the context. |
-|[.]() | |
-|[.]() | |
+|[Simple and Effective Masked Diffusion Language Models.](https://s-sahoo.com/mdlm/) | Easy diffusion model to model language. It functions fairly well and generates out of order.|
+|[MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding.](https://arxiv.org/abs/2406.09297v1) |A novel technique that dramatically lowers memory consumption during auto-regressive inference in transformers is called Multi-Layer Key-Value (MLKV) sharing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
