@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Discovering Preference Optimization Algorithms with and for Large Language Models.](https://arxiv.org/abs/2406.08414) |suggests an algorithm that adaptively combined logistic and exponential losses; this approach eliminates the need for human intervention by prompting an LLM to suggest and implement preference optimization loss functions based on previously assessed performance metrics. It also suggests an LLM-driven objective discovery of state-of-the-art preference optimization.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[ Nemotron-4 340B.](https://research.nvidia.com/publication/2024-06_nemotron-4-340b) |offers a reward model to filter data based on many qualities and an instruct model to generate high-quality data; exhibits impressive results on widely-used benchmarks such as MMLU and GSM8K; It competes with GPT-4 in a number of activities, such as scoring highly in multi-turn chat; Together with the base model, a preference data is also made available. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
