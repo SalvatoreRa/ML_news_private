@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Computer says yes: how AI is changing our romantic lives.](https://www.theguardian.com/technology/article/2024/jun/16/computer-says-yes-how-ai-is-changing-our-romantic-lives) | Artificial intelligence is creating companions who can be our confidants, friends, therapists and even lovers. But are they an answer to loneliness or merely another way for big tech to make money?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
