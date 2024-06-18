@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Differentiable rasterization.](https://srush.github.io/DiffRast) | Given a program that produces a vector representation of an image (think SVG), rasterization turns it into a pixel representation (think PNG). Everything ought to be adjustable. This article explains how to write SVG light that is differentiable.|
 |[LARS - The LLM & Advanced Referencing Solution.](https://github.com/abgulati/LARS) |LARS is an application that enables you to run LLM's (Large Language Models) locally on your device, upload your own documents and engage in conversations wherein the LLM grounds its responses with your uploaded content. |
 |[Beyond the Basics of Retrieval for Augmenting Generation.](https://parlance-labs.com/education/rag/ben.html) |The RAGatouille creator delivered a great discussion about COLBERT, some of the open issues, and how to significantly increase RAG performance. |
-|[.]() | |
-|[.]() | |
+|[TokenCost.](https://github.com/AgentOps-AI/tokencost) |Tokencost helps calculate the USD cost of using major Large Language Model (LLMs) APIs by calculating the estimated cost of prompts and completions. |
+|[GaiaNet node.](https://github.com/GaiaNet-AI/gaianet-node) | Install and run your own AI agent service.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
