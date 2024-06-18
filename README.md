@@ -81,8 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon says it’ll spend $230 million on generative AI startups.](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/) |Amazon says that it will commit up to $230 million to startups building generative AI-powered applications. |
 |[McDonald’s ends AI drive-thru trial as fast-food industry tests automation.](https://www.theguardian.com/business/article/2024/jun/17/mcdonalds-ends-ai-drive-thru) |Companies have touted AI as future of the industry, but technology has also resulted in viral videos of wrong orders |
 |[Balance effects of AI with profits tax and green levy, says IMF.](https://www.theguardian.com/business/article/2024/jun/17/ai-profits-tax-green-levy-imf-carbon-emissions) | Governments faced with economic upheaval caused by artificial intelligence should consider fiscal policies including taxes on excess profits and a green levy to atone for AI-related carbon emissions, according to the International Monetary Fund.|
-|[.]() | |
-|[.]() | |
+|[Introducing Gen-3 Alpha.](https://runwayml.com/blog/introducing-gen-3-alpha/) | Runway has developed a brand-new, incredibly potent video generation model. Many of the current functions on its platform will be powered by it. You can find examples at the given URL.|
+|[DeepMind’s new AI generates soundtracks and dialogue for videos.](https://techcrunch.com/2024/06/17/deepminds-new-ai-generates-soundtracks-and-dialog-for-videos) | V2A is an AI system that DeepMind is developing to create synchronized soundtracks for videos. It generates music, sound effects, and dialogue using diffusion models trained on audio, dialogue transcripts, and video clips.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
