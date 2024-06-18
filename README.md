@@ -53,8 +53,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Never Miss A Beat: An Efficient Recipe for Context Window Extension of Large Language Models with Consistent "Middle" Enhancement.](https://arxiv.org/abs/2406.07138) |suggests a training-efficient way to extend LLMs to longer context lengths (e.g., 4K -> 256K); it uses a truncated Gaussian to encourage sampling from the middle part of the context during fine-tuning; the approach helps to alleviate the so-called "Lost-in-the-Middle" problem in long-context LLMs. suggests a method to tune an LLM to effectively utilize information from the middle part of the context. |
 |[Simple and Effective Masked Diffusion Language Models.](https://s-sahoo.com/mdlm/) | Easy diffusion model to model language. It functions fairly well and generates out of order.|
 |[MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding.](https://arxiv.org/abs/2406.09297v1) |A novel technique that dramatically lowers memory consumption during auto-regressive inference in transformers is called Multi-Layer Key-Value (MLKV) sharing. |
-|[.]() | |
-|[.]() | |
+|[Understanding Hallucinations in Diffusion Models through Mode Interpolation.](https://arxiv.org/abs/2406.09358v1) | This study looks into the reasons behind "hallucinations"—images that never were in the training set—that are produced by diffusion-based picture generation models.|
+|[Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs.](https://arxiv.org/abs/2406.09136v1) |A technique called Chain of Preference Optimization (CPO) helps large language models (LLMs) become more adept at logical reasoning. CPO matches the reasoning steps of Chain-of-Thought (CoT) decoding with the optimal routes of ToT by fine-tuning LLMs using search trees from the Tree-of-Thought (ToT) technique. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
