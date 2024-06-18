@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HelpSteer2: Open-source dataset for training top-performing reward models.](https://arxiv.org/abs/2406.08673) |Along with an excellent paper about training reward models to match model output to human preferences, Nvidia has made available a dataset and procedure. |
 |[Differentiable rasterization.](https://srush.github.io/DiffRast) | Given a program that produces a vector representation of an image (think SVG), rasterization turns it into a pixel representation (think PNG). Everything ought to be adjustable. This article explains how to write SVG light that is differentiable.|
 |[LARS - The LLM & Advanced Referencing Solution.](https://github.com/abgulati/LARS) |LARS is an application that enables you to run LLM's (Large Language Models) locally on your device, upload your own documents and engage in conversations wherein the LLM grounds its responses with your uploaded content. |
-|[.]() | |
+|[Beyond the Basics of Retrieval for Augmenting Generation.](https://parlance-labs.com/education/rag/ben.html) |The RAGatouille creator delivered a great discussion about COLBERT, some of the open issues, and how to significantly increase RAG performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Computer says yes: how AI is changing our romantic lives.](https://www.theguardian.com/technology/article/2024/jun/16/computer-says-yes-how-ai-is-changing-our-romantic-lives) | Artificial intelligence is creating companions who can be our confidants, friends, therapists and even lovers. But are they an answer to loneliness or merely another way for big tech to make money?|
 |[Nvidia’s New Sales Booster: The Global Push for National AI Champions.](https://www.wsj.com/tech/ai/nvidias-new-sales-booster-the-global-push-for-domestic-ai-champions-6d005ab7) |Governments everywhere are increasing their spending to entice corporations and multinationals to construct new data centers and renovate existing ones so that AI can be developed locally and massive language models can be trained in the original languages using data from their own inhabitants. According to Nvidia, these independent AI initiatives should generate over $10 billion in revenue this year. The potential economic effects of generative AI are a source of concern for several governments. For their sensitive data and AI infrastructure, they want sovereign clouds, and US IT companies are happy to construct them for them. |
-|[.]() | |
+|[General Intelligence (2024).](https://nonint.com/2024/06/03/general-intelligence-2024/) | What is lacking and what would it take to create a generally intelligent agent? This essay suggests that we will be here in a few years and examines the three concepts required to create an agent. The writer is an OpenAI researcher.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
