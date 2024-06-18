@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Depth Anything V2.](https://arxiv.org/abs/2406.09414) | With the use of artificial data, the new Depth Anything model was trained, and its performance on intricate scenes has significantly increased.|
 |[DeepSeek-Coder-V2.](https://github.com/deepseek-ai/DeepSeek-Coder-V2) |Robust DeepSeek Coder achieves scores of 90+ on HumanEval and matches GPT-4 Turbo on numerous other difficult benchmarks. It is free for business usage and accessible via an API. |
 |[HelpSteer2: Open-source dataset for training top-performing reward models.](https://arxiv.org/abs/2406.08673) |Along with an excellent paper about training reward models to match model output to human preferences, Nvidia has made available a dataset and procedure. |
-|[.]() | |
+|[Differentiable rasterization.](https://srush.github.io/DiffRast) | Given a program that produces a vector representation of an image (think SVG), rasterization turns it into a pixel representation (think PNG). Everything ought to be adjustable. This article explains how to write SVG light that is differentiable.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
