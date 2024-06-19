@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The ‘Godfather of AI’ quit Google a year ago. Now he’s emerged out of stealth to back a startup promising to use AI for carbon capture.](https://fortune.com/europe/2024/06/18/godfather-ai-geoffrey-hinton-quit-google-year-ago-emerged-stealth-back-startup-cuspai-ai-carbon-capture/) |Renowned AI researchers Geoff Hinton and Max Welling have gathered a talented team to develop AI systems aimed at advancing material science for carbon capture. |
 |[Nvidia Conquers Latest AI Tests​.](https://spectrum.ieee.org/mlperf-nvidia-conquers) |Nvidia's Hopper architecture-based systems excelled in two recent MLPerf AI benchmark tests, which assess the fine-tuning of large language models and the training of graph neural networks. |
 |[Perplexity AI searches for users in Japan, via SoftBank deal.](https://techcrunch.com/2024/06/17/softbank-ties-up-with-perplexity/) |Perplexity is capitalizing on its strategic partnership with SoftBank to broaden its presence in Japan. As part of this initiative, it is providing a free year of its premium AI-powered search engine, Perplexity Pro. SoftBank's goal is to draw users by offering AI services without creating internal solutions. With a valuation of $1 billion, Perplexity is expanding its funding and investor base, which features prominent tech leaders and venture firms. |
-|[.]() | |
-|[.]() | |
+|[Introducing Local III.](https://changes.openinterpreter.com/log/local-iii) | The open-source local agent, Open Interpreter, has recently received a significant upgrade. It now has the capability to control the computer seamlessly and operates entirely offline and locally.|
+|[Introducing the Property Graph Index: A Powerful New Way to Build Knowledge Graphs with LLMs.](https://www.llamaindex.ai/blog/introducing-the-property-graph-index-a-powerful-new-way-to-build-knowledge-graphs-with-llms) | LlamaIndex has launched the Property Graph Index, significantly improving knowledge graph capabilities with enhanced modeling, storage, and querying features. This new index enables flexible graph construction and supports schema-guided, implicit, and free-form entity extraction. It also integrates with vector databases for hybrid searches and offers querying options through keyword expansion, vector similarity, Cypher queries, and custom traversal.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,9 +118,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Beyond the Basics of Retrieval for Augmenting Generation.](https://parlance-labs.com/education/rag/ben.html) |The RAGatouille creator delivered a great discussion about COLBERT, some of the open issues, and how to significantly increase RAG performance. |
 |[TokenCost.](https://github.com/AgentOps-AI/tokencost) |Tokencost helps calculate the USD cost of using major Large Language Model (LLMs) APIs by calculating the estimated cost of prompts and completions. |
 |[GaiaNet node.](https://github.com/GaiaNet-AI/gaianet-node) | Install and run your own AI agent service.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Meta Chameleon.](https://github.com/facebookresearch/chameleon) |Chameleon is an early fusion model that processes images and text tokens concurrently. The team published the paper a few weeks ago and has now released model checkpoints along with inference code. |
+|[OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations.](https://github.com/princeton-vl/ogni-dc) | OGNI-DC is a new framework for depth completion that employs "Optimization-Guided Neural Iterations" (OGNI). This method refines a depth gradient field and incorporates the depth gradients into a depth map.|
+|[Subobject-level Image Tokenization.](https://arxiv.org/abs/2402.14327v2) |Subobject tokenization is a novel approach for vision models to interpret images. Rather than dividing images into fixed square patches, this method allows models to analyze images by identifying meaningful segments, such as parts of objects. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
