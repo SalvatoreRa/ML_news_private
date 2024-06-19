@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta Chameleon.](https://github.com/facebookresearch/chameleon) |Chameleon is an early fusion model that processes images and text tokens concurrently. The team published the paper a few weeks ago and has now released model checkpoints along with inference code. |
 |[OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations.](https://github.com/princeton-vl/ogni-dc) | OGNI-DC is a new framework for depth completion that employs "Optimization-Guided Neural Iterations" (OGNI). This method refines a depth gradient field and incorporates the depth gradients into a depth map.|
 |[Subobject-level Image Tokenization.](https://arxiv.org/abs/2402.14327v2) |Subobject tokenization is a novel approach for vision models to interpret images. Rather than dividing images into fixed square patches, this method allows models to analyze images by identifying meaningful segments, such as parts of objects. |
-|[.]() | |
+|[Introduction to Granite Code Models.](https://github.com/ibm-granite/granite-code-models/tree/main) |We introduce the Granite series of decoder-only code models for code generative tasks (e.g., fixing bugs, explaining code, documenting code), trained with code written in 116 programming languages. A comprehensive evaluation of the Granite Code model family on diverse tasks demonstrates that our models consistently reach state-of-the-art performance among available open source code LLMs.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
