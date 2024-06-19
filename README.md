@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia becomes world’s most valuable company amid AI boom.](https://www.theguardian.com/technology/article/2024/jun/18/nvidia-valuation-most-valuable) | Chipmaker dethrones Microsoft and Apple as stock market surge boosts valuation above $3.34tn|
 |[The ‘Godfather of AI’ quit Google a year ago. Now he’s emerged out of stealth to back a startup promising to use AI for carbon capture.](https://fortune.com/europe/2024/06/18/godfather-ai-geoffrey-hinton-quit-google-year-ago-emerged-stealth-back-startup-cuspai-ai-carbon-capture/) |Renowned AI researchers Geoff Hinton and Max Welling have gathered a talented team to develop AI systems aimed at advancing material science for carbon capture. |
 |[Nvidia Conquers Latest AI Tests​.](https://spectrum.ieee.org/mlperf-nvidia-conquers) |Nvidia's Hopper architecture-based systems excelled in two recent MLPerf AI benchmark tests, which assess the fine-tuning of large language models and the training of graph neural networks. |
-|[.]() | |
+|[Perplexity AI searches for users in Japan, via SoftBank deal.](https://techcrunch.com/2024/06/17/softbank-ties-up-with-perplexity/) |Perplexity is capitalizing on its strategic partnership with SoftBank to broaden its presence in Japan. As part of this initiative, it is providing a free year of its premium AI-powered search engine, Perplexity Pro. SoftBank's goal is to draw users by offering AI services without creating internal solutions. With a valuation of $1 billion, Perplexity is expanding its funding and investor base, which features prominent tech leaders and venture firms. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
