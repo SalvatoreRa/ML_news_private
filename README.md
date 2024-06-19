@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Perplexity AI searches for users in Japan, via SoftBank deal.](https://techcrunch.com/2024/06/17/softbank-ties-up-with-perplexity/) |Perplexity is capitalizing on its strategic partnership with SoftBank to broaden its presence in Japan. As part of this initiative, it is providing a free year of its premium AI-powered search engine, Perplexity Pro. SoftBank's goal is to draw users by offering AI services without creating internal solutions. With a valuation of $1 billion, Perplexity is expanding its funding and investor base, which features prominent tech leaders and venture firms. |
 |[Introducing Local III.](https://changes.openinterpreter.com/log/local-iii) | The open-source local agent, Open Interpreter, has recently received a significant upgrade. It now has the capability to control the computer seamlessly and operates entirely offline and locally.|
 |[Introducing the Property Graph Index: A Powerful New Way to Build Knowledge Graphs with LLMs.](https://www.llamaindex.ai/blog/introducing-the-property-graph-index-a-powerful-new-way-to-build-knowledge-graphs-with-llms) | LlamaIndex has launched the Property Graph Index, significantly improving knowledge graph capabilities with enhanced modeling, storage, and querying features. This new index enables flexible graph construction and supports schema-guided, implicit, and free-form entity extraction. It also integrates with vector databases for hybrid searches and offers querying options through keyword expansion, vector similarity, Cypher queries, and custom traversal.|
-|[.]() | |
+|[Decagon launches with $35m raised from Accel and a16z.](https://decagon.ai/blog/series-a) |Decagon is developing human-like AI agents for customer support and has recently secured $30 million in Series A funding from Accel, along with $5 million in seed funding from a16z. Decagon's product manages global support for companies such as Eventbrite, Rippling, Webflow, BILT, and Substack. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations.](https://github.com/princeton-vl/ogni-dc) | OGNI-DC is a new framework for depth completion that employs "Optimization-Guided Neural Iterations" (OGNI). This method refines a depth gradient field and incorporates the depth gradients into a depth map.|
 |[Subobject-level Image Tokenization.](https://arxiv.org/abs/2402.14327v2) |Subobject tokenization is a novel approach for vision models to interpret images. Rather than dividing images into fixed square patches, this method allows models to analyze images by identifying meaningful segments, such as parts of objects. |
 |[Introduction to Granite Code Models.](https://github.com/ibm-granite/granite-code-models/tree/main) |We introduce the Granite series of decoder-only code models for code generative tasks (e.g., fixing bugs, explaining code, documenting code), trained with code written in 116 programming languages. A comprehensive evaluation of the Granite Code model family on diverse tasks demonstrates that our models consistently reach state-of-the-art performance among available open source code LLMs.  |
-|[.]() | |
+|[FireFunction V2: Fireworks Function Calling Model.](https://huggingface.co/fireworks-ai/firefunction-v2) |Open model that matches GPT4-o on function calling benchmarks trained on top of Llama 3 70B. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
