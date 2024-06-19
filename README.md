@@ -55,9 +55,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding.](https://arxiv.org/abs/2406.09297v1) |A novel technique that dramatically lowers memory consumption during auto-regressive inference in transformers is called Multi-Layer Key-Value (MLKV) sharing. |
 |[Understanding Hallucinations in Diffusion Models through Mode Interpolation.](https://arxiv.org/abs/2406.09358v1) | This study looks into the reasons behind "hallucinations"—images that never were in the training set—that are produced by diffusion-based picture generation models.|
 |[Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs.](https://arxiv.org/abs/2406.09136v1) |A technique called Chain of Preference Optimization (CPO) helps large language models (LLMs) become more adept at logical reasoning. CPO matches the reasoning steps of Chain-of-Thought (CoT) decoding with the optimal routes of ToT by fine-tuning LLMs using search trees from the Tree-of-Thought (ToT) technique. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Language Modeling with Editable External Knowledge.](https://arxiv.org/abs/2406.11830v1) | |
+|[Duoduo CLIP: Efficient 3D Understanding with Multi-View Images.](https://3dlg-hcvc.github.io/DuoduoCLIP) | |
+|[CAMixerSR: Only Details Need More "Attention".](https://arxiv.org/abs/2402.19289v2) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
