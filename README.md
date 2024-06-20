@@ -59,6 +59,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Duoduo CLIP: Efficient 3D Understanding with Multi-View Images.](https://3dlg-hcvc.github.io/DuoduoCLIP) |Duoduo CLIP is a 3D representation learning model that utilizes multi-view images rather than point-clouds for its training and analysis. |
 |[CAMixerSR: Only Details Need More "Attention".](https://arxiv.org/abs/2402.19289v2) |CAMixerSR enhances image resolution by intelligently applying convolution to simpler areas and using deformable window-attention for intricate textures. |
 |[‘Fighting fire with fire’ — using LLMs to combat LLM hallucinations.](https://www.nature.com/articles/d41586-024-01641-0) | The number of errors produced by an LLM can be reduced by grouping its outputs into semantically similar clusters. Remarkably, this task can be performed by a second LLM, and the method’s efficacy can be evaluated by a third. Associate article is [here](https://www.nature.com/articles/s41586-024-07421-0)|
+|[Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks.](https://huggingface.co/microsoft/Florence-2-large-ft) | |
+|[Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability.](https://neuralblog.github.io/logit-prisms/) | |
+|[PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers.](https://arxiv.org/abs/2406.12430v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -69,6 +72,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## News
 |Link|description|
