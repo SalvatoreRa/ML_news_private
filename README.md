@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing the Property Graph Index: A Powerful New Way to Build Knowledge Graphs with LLMs.](https://www.llamaindex.ai/blog/introducing-the-property-graph-index-a-powerful-new-way-to-build-knowledge-graphs-with-llms) | LlamaIndex has launched the Property Graph Index, significantly improving knowledge graph capabilities with enhanced modeling, storage, and querying features. This new index enables flexible graph construction and supports schema-guided, implicit, and free-form entity extraction. It also integrates with vector databases for hybrid searches and offers querying options through keyword expansion, vector similarity, Cypher queries, and custom traversal.|
 |[Decagon launches with $35m raised from Accel and a16z.](https://decagon.ai/blog/series-a) |Decagon is developing human-like AI agents for customer support and has recently secured $30 million in Series A funding from Accel, along with $5 million in seed funding from a16z. Decagon's product manages global support for companies such as Eventbrite, Rippling, Webflow, BILT, and Substack. |
 |[London premiere of movie with AI-generated script cancelled after backlash.](https://www.theguardian.com/film/article/2024/jun/20/premiere-movie-ai-generated-script-cancelled-backlash-the-last-screenwriter-prince-charles-cinema) | Plans to show The Last Screenwriter, whose script is credited to ‘ChatGPT 4.0’, prompted complaints although the film-makers insist the feature is ‘a contribution to the cause’|
-|[.]() | |
+|[OpenAI’s former chief scientist is starting a new AI company.](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence) |Ilya Sutskever is launching Safe Superintelligence Inc., an AI startup that will prioritize safety over ‘commercial pressures.’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Human neuroscience is entering a new era — it mustn’t forget its human dimension.](https://www.nature.com/articles/d41586-024-02022-3) | The field is taking a leap forward thanks to innovative technologies, such as artificial intelligence. Researchers must improve consent procedures and public involvement.|
 |[AI and Euro 2024: VAR is shaking up football — and it’s not going away.](https://www.nature.com/articles/d41586-024-01764-4) |Sports physicist Eric Goff explains how updates to the technology can help referees to make the toughest calls. |
 |[How cutting-edge computer chips are speeding up the AI revolution.](https://www.nature.com/articles/d41586-024-01544-0) |Engineers are harnessing the powers of graphics processing units (GPUs) and more, with a bevy of tricks to meet the computational demands of artificial intelligence. |
-|[.]() | |
+|[Apple’s Intelligent Strategy.](https://sdw.space/apples-intelligent-strategy/) | Apple showed off an incredible strategic edge in the AI arms race - but some might have missed that the company hints at using its biggest weakness as a formidable weapon against competitors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
