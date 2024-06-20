@@ -134,6 +134,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Subobject-level Image Tokenization.](https://arxiv.org/abs/2402.14327v2) |Subobject tokenization is a novel approach for vision models to interpret images. Rather than dividing images into fixed square patches, this method allows models to analyze images by identifying meaningful segments, such as parts of objects. |
 |[Introduction to Granite Code Models.](https://github.com/ibm-granite/granite-code-models/tree/main) |We introduce the Granite series of decoder-only code models for code generative tasks (e.g., fixing bugs, explaining code, documenting code), trained with code written in 116 programming languages. A comprehensive evaluation of the Granite Code model family on diverse tasks demonstrates that our models consistently reach state-of-the-art performance among available open source code LLMs.  |
 |[FireFunction V2: Fireworks Function Calling Model.](https://huggingface.co/fireworks-ai/firefunction-v2) |Open model that matches GPT4-o on function calling benchmarks trained on top of Llama 3 70B. |
+|[Argilla.](https://github.com/argilla-io/argilla) |For AI developers and subject matter experts who need complete data ownership, high-quality outputs, and overall efficiency, Argilla offers a platform for cooperation. |
+|[TroL: Traversal of Layers for Large Language and Vision Models.](https://github.com/byungkwanlee/trol) |Large language and vision models (LLVMs) with sizes of 1.8B, 3.8B, and 7B parameters are part of the new TroL family of efficient LLVMs. |
+|[Dot.](https://github.com/alexpinel/Dot) |A stand-alone open-source program designed to be simple to use for local LLMs, and specifically RAG, to interact with files and documents in a manner similar to Nvidia's Chat with RTX. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
