@@ -161,10 +161,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI and Euro 2024: VAR is shaking up football — and it’s not going away.](https://www.nature.com/articles/d41586-024-01764-4) |Sports physicist Eric Goff explains how updates to the technology can help referees to make the toughest calls. |
 |[How cutting-edge computer chips are speeding up the AI revolution.](https://www.nature.com/articles/d41586-024-01544-0) |Engineers are harnessing the powers of graphics processing units (GPUs) and more, with a bevy of tricks to meet the computational demands of artificial intelligence. |
 |[Apple’s Intelligent Strategy.](https://sdw.space/apples-intelligent-strategy/) | Apple showed off an incredible strategic edge in the AI arms race - but some might have missed that the company hints at using its biggest weakness as a formidable weapon against competitors.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[How to Fix “AI’s Original Sin”.](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/) |The copyright issues raised by AI models trained on protected content without authorization are discussed in this article. It advises AI developers to adhere to copyright signals, put in place safeguards to stop producing content that violates intellectual property rights, and design business plans that guarantee just compensation for content creators. These strategies include retrieval-augmented generation (RAG) and the development of collaborative AI content ecosystems. |
+|[Takeaways from OpenAI and Google's May announcements.](https://www.tanayj.com/p/takeaways-from-openai-and-googles) |With the introduction of sophisticated AI models by OpenAI and Google, real-time multimodal understanding and answers are now possible, and enhanced AI assistants and advancements in speech agents are promised. Google's Gemini 1.5 Flash offers a notable reduction in latency and cost, while OpenAI's GPT-4o promises double the speed and half the cost of its predecessor. Both digital behemoths are incorporating AI into their ecosystems, with OpenAI focusing on consumer markets with partnerships and products that could potentially reach up to a billion consumers. |
+|[Collection of AI Side Business Money-Making Information.](https://github.com/bleedline/aimoneyhunter/blob/main/README_en.md) | There are some respectable AI projects on this list that even beginners can work on.|
+|[paramount.](https://github.com/ask-fini/paramount) |Paramount lets your expert agents evaluate AI chats |
 |[.]() | |
 |[.]() | |
 |[.]() | |
