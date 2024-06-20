@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Language Modeling with Editable External Knowledge.](https://arxiv.org/abs/2406.11830v1) |ERASE is a novel approach to updating language models. Unlike conventional methods that emphasize enhancing retrieval during prediction, ERASE incrementally deletes or rewrites entries in the knowledge base as new documents are incorporated. |
 |[Duoduo CLIP: Efficient 3D Understanding with Multi-View Images.](https://3dlg-hcvc.github.io/DuoduoCLIP) |Duoduo CLIP is a 3D representation learning model that utilizes multi-view images rather than point-clouds for its training and analysis. |
 |[CAMixerSR: Only Details Need More "Attention".](https://arxiv.org/abs/2402.19289v2) |CAMixerSR enhances image resolution by intelligently applying convolution to simpler areas and using deformable window-attention for intricate textures. |
-|[.]() | |
+|[‘Fighting fire with fire’ — using LLMs to combat LLM hallucinations.](https://www.nature.com/articles/d41586-024-01641-0) | The number of errors produced by an LLM can be reduced by grouping its outputs into semantically similar clusters. Remarkably, this task can be performed by a second LLM, and the method’s efficacy can be evaluated by a third. Associate article is [here](https://www.nature.com/articles/s41586-024-07421-0)|
 |[.]() | |
 |[.]() | |
 |[.]() | |
