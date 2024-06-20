@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[General Intelligence (2024).](https://nonint.com/2024/06/03/general-intelligence-2024/) | What is lacking and what would it take to create a generally intelligent agent? This essay suggests that we will be here in a few years and examines the three concepts required to create an agent. The writer is an OpenAI researcher.|
 |[Human neuroscience is entering a new era — it mustn’t forget its human dimension.](https://www.nature.com/articles/d41586-024-02022-3) | The field is taking a leap forward thanks to innovative technologies, such as artificial intelligence. Researchers must improve consent procedures and public involvement.|
 |[AI and Euro 2024: VAR is shaking up football — and it’s not going away.](https://www.nature.com/articles/d41586-024-01764-4) |Sports physicist Eric Goff explains how updates to the technology can help referees to make the toughest calls. |
-|[.]() | |
+|[How cutting-edge computer chips are speeding up the AI revolution.](https://www.nature.com/articles/d41586-024-01544-0) |Engineers are harnessing the powers of graphics processing units (GPUs) and more, with a bevy of tricks to meet the computational demands of artificial intelligence. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
