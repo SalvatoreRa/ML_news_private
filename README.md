@@ -62,9 +62,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks.](https://huggingface.co/microsoft/Florence-2-large-ft) | Microsoft has published a collection of tiny VLMs under an MIT license that perform noticeably better in captioning, bounding, and classification than much larger models.|
 |[Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability.](https://neuralblog.github.io/logit-prisms/) |The logit lens approach has been improved by decomposing logit outputs into contributions from different model components. This aids in comprehending the decision-making process of transformer models. This method, which employs "prisms" for residual streams, attention layers, and MLP layers, demonstrates how these components affect predictions and offers insights into the tasks that the gemma-2b model does, such as factual retrieval and arithmetic. |
 |[PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers.](https://arxiv.org/abs/2406.12430v1) |Using sophisticated data analysis, decision QA is a new role for LLMs that identifies the optimal decisions. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ChangeViT: Unleashing Plain Vision Transformers for Change Detection.](https://arxiv.org/abs/2406.12847v1) | A methodology called ChangeViT makes use of vision transformers (ViTs) to identify significant environmental changes in remote sensing photos.|
+|[LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging.](https://arxiv.org/abs/2406.12837v1) |LayerMerge is a novel technique that simultaneously prunes activation functions and convolution layers to increase neural network efficiency. |
+|[Adversarial Attacks on Multimodal Agents.](https://chenwu.io/attack-agent/) |Vision-enabled language models (VLMs) such as Gemini and GPT-4o enable autonomous agents to perform activities like code editing and buying. This investigation demonstrates how susceptible these agents are to malevolent attacks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
