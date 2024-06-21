@@ -147,9 +147,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dot.](https://github.com/alexpinel/Dot) |A stand-alone open-source program designed to be simple to use for local LLMs, and specifically RAG, to interact with files and documents in a manner similar to Nvidia's Chat with RTX. |
 |[WebCanvas: Benchmarking Web Agents in Online Environments.](https://github.com/imeanai/webcanvas) |WebCanvas is a pioneering online evaluation framework designed to address the dynamic nature of web interactions. It provides a realistic assessment of autonomous web agents by utilizing live web environments and emphasizing task completion through the identification of key nodes. |
 |[CIFAR-10 Airbench.](https://github.com/KellerJordan/cifar10-airbench) |A benchmark for image classification is CIFAR-10. In a remarkably short amount of time, this algorithm offers a training setting that yields good performance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Cost Of Self Hosting Llama-3 8B-Instruct.](https://blog.lytix.co/posts/self-hosting-llama-3) |Compared to using ChatGPT, self-hosting an LLM such as Llama-3 8B-Instruct can be much more expensive, costing approximately $17 per million tokens, while ChatGPT just costs $1 per million tokens. It is possible to lower the cost of self-hosted hardware to less than $0.01 per million tokens, but it would take about 5.5 years for the initial investment to pay for itself. |
+|[GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models.](https://yongtaoge.github.io/projects/geobench/) |Modern surface normal estimate and depth models are assessed using a new benchmark. |
+|[An Empirical Study of Mamba-based Language Models.](https://huggingface.co/nvidia/mamba2-hybrid-8b-3t-4k) |The Nvidia research that previously showcased the hybrid basic Mamba model is now available. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
