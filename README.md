@@ -145,8 +145,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Argilla.](https://github.com/argilla-io/argilla) |For AI developers and subject matter experts who need complete data ownership, high-quality outputs, and overall efficiency, Argilla offers a platform for cooperation. |
 |[TroL: Traversal of Layers for Large Language and Vision Models.](https://github.com/byungkwanlee/trol) |Large language and vision models (LLVMs) with sizes of 1.8B, 3.8B, and 7B parameters are part of the new TroL family of efficient LLVMs. |
 |[Dot.](https://github.com/alexpinel/Dot) |A stand-alone open-source program designed to be simple to use for local LLMs, and specifically RAG, to interact with files and documents in a manner similar to Nvidia's Chat with RTX. |
-|[.]() | |
-|[.]() | |
+|[WebCanvas: Benchmarking Web Agents in Online Environments.](https://github.com/imeanai/webcanvas) |WebCanvas is a pioneering online evaluation framework designed to address the dynamic nature of web interactions. It provides a realistic assessment of autonomous web agents by utilizing live web environments and emphasizing task completion through the identification of key nodes. |
+|[CIFAR-10 Airbench.](https://github.com/KellerJordan/cifar10-airbench) |A benchmark for image classification is CIFAR-10. In a remarkably short amount of time, this algorithm offers a training setting that yields good performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
