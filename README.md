@@ -65,7 +65,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChangeViT: Unleashing Plain Vision Transformers for Change Detection.](https://arxiv.org/abs/2406.12847v1) | A methodology called ChangeViT makes use of vision transformers (ViTs) to identify significant environmental changes in remote sensing photos.|
 |[LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging.](https://arxiv.org/abs/2406.12837v1) |LayerMerge is a novel technique that simultaneously prunes activation functions and convolution layers to increase neural network efficiency. |
 |[Adversarial Attacks on Multimodal Agents.](https://chenwu.io/attack-agent/) |Vision-enabled language models (VLMs) such as Gemini and GPT-4o enable autonomous agents to perform activities like code editing and buying. This investigation demonstrates how susceptible these agents are to malevolent attacks. |
-|[.]() | |
+|[TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks.](https://arxiv.org/abs/2406.05036v1) | A novel model called TimeSieve was created to address typical problems in time series forecasting.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
