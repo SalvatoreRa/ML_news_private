@@ -106,6 +106,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s former chief scientist is starting a new AI company.](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence) |Ilya Sutskever is launching Safe Superintelligence Inc., an AI startup that will prioritize safety over ‘commercial pressures.’ |
 |[Claude 3.5 Sonnet.](https://www.anthropic.com/news/claude-3-5-sonnet) |At a fifth of the cost, Claude 3.5 Sonnet outperforms Opus in performance. Plus, it's the greatest vision model out there right now. This demonstrates how much the frontier models have progressed. |
 |[Apple researchers add 20 more open-source models to improve text and image AI.](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai) |With 20 Core Machine Learning models that Apple has added to the Hugging Face open-source AI repository, the repository now includes a wider selection of public models with improved image classification and depth segmentation. These donations come after Apple earlier in the year released the four OpenELMs to Hugging Face and the Ferret big language model. The action shows Apple's dedication to developing AI capabilities and its growing involvement with the AI research community. |
+|[Factory Raises $15M Series A from Sequoia.](https://www.factory.ai/news/series-a-announcement) |Led by Sequoia Capital, Factory has raised $15 million in Series A funding to grow its workforce and improve its Droids software development toolset, which leverages artificial intelligence. Its products are rapidly expanding its customer base and setting new benchmarks on the SWE-bench AI coding benchmark. With Factory, software engineering will be increasingly automated, cutting down on laborious processes and speeding up development cycles. |
+|[Optimizing AI Inference at Character.AI.](https://research.character.ai/optimizing-inference/) |Twenty percent of Google's search volume, or 20,000 questions per second, are answered by Character AI. It operates this effectively thanks to several advancements. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
