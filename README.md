@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: 16 - 23  June
 
 ## Research
 |Link|description|
@@ -66,20 +66,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging.](https://arxiv.org/abs/2406.12837v1) |LayerMerge is a novel technique that simultaneously prunes activation functions and convolution layers to increase neural network efficiency. |
 |[Adversarial Attacks on Multimodal Agents.](https://chenwu.io/attack-agent/) |Vision-enabled language models (VLMs) such as Gemini and GPT-4o enable autonomous agents to perform activities like code editing and buying. This investigation demonstrates how susceptible these agents are to malevolent attacks. |
 |[TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks.](https://arxiv.org/abs/2406.05036v1) | A novel model called TimeSieve was created to address typical problems in time series forecasting.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## News
 |Link|description|
@@ -109,16 +95,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Factory Raises $15M Series A from Sequoia.](https://www.factory.ai/news/series-a-announcement) |Led by Sequoia Capital, Factory has raised $15 million in Series A funding to grow its workforce and improve its Droids software development toolset, which leverages artificial intelligence. Its products are rapidly expanding its customer base and setting new benchmarks on the SWE-bench AI coding benchmark. With Factory, software engineering will be increasingly automated, cutting down on laborious processes and speeding up development cycles. |
 |[Optimizing AI Inference at Character.AI.](https://research.character.ai/optimizing-inference/) |Twenty percent of Google's search volume, or 20,000 questions per second, are answered by Character AI. It operates this effectively thanks to several advancements. |
 |[Apple delays launch of AI-powered features in Europe, blaming EU rules.](https://www.theguardian.com/technology/article/2024/jun/21/apple-ai-europe-regulation) | Apple says competition rules that require functionality with rival products would compromise privacy and security|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -150,14 +126,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cost Of Self Hosting Llama-3 8B-Instruct.](https://blog.lytix.co/posts/self-hosting-llama-3) |Compared to using ChatGPT, self-hosting an LLM such as Llama-3 8B-Instruct can be much more expensive, costing approximately $17 per million tokens, while ChatGPT just costs $1 per million tokens. It is possible to lower the cost of self-hosted hardware to less than $0.01 per million tokens, but it would take about 5.5 years for the initial investment to pay for itself. |
 |[GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models.](https://yongtaoge.github.io/projects/geobench/) |Modern surface normal estimate and depth models are assessed using a new benchmark. |
 |[An Empirical Study of Mamba-based Language Models.](https://huggingface.co/nvidia/mamba2-hybrid-8b-3t-4k) |The Nvidia research that previously showcased the hybrid basic Mamba model is now available. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -173,22 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Takeaways from OpenAI and Google's May announcements.](https://www.tanayj.com/p/takeaways-from-openai-and-googles) |With the introduction of sophisticated AI models by OpenAI and Google, real-time multimodal understanding and answers are now possible, and enhanced AI assistants and advancements in speech agents are promised. Google's Gemini 1.5 Flash offers a notable reduction in latency and cost, while OpenAI's GPT-4o promises double the speed and half the cost of its predecessor. Both digital behemoths are incorporating AI into their ecosystems, with OpenAI focusing on consumer markets with partnerships and products that could potentially reach up to a billion consumers. |
 |[Collection of AI Side Business Money-Making Information.](https://github.com/bleedline/aimoneyhunter/blob/main/README_en.md) | There are some respectable AI projects on this list that even beginners can work on.|
 |[paramount.](https://github.com/ask-fini/paramount) |Paramount lets your expert agents evaluate AI chats |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: 10-16 June
 
