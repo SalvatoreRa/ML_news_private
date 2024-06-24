@@ -74,8 +74,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI acquires Rockset.](https://openai.com/index/openai-acquires-rockset) |Rockset is a robust database that supports both indexing and querying. The startup was acquired by OpenAI in order to enhance its infrastructure for retrieval. |
 |[Snapchat AI turns prompts into new lens.](https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens) | Snapchat’s upcoming on-device AI model could transform your background — and your clothing — in real time.|
 |[HeyGen Raises $60M Series A to Scale Visual Storytelling for Businesses.](https://www.heygen.com/article/announcing-our-series-a) |HeyGen, an AI video generating platform, has raised $60 million in Series A funding to improve its studio-quality video creation and localization capabilities quickly and affordably. HeyGen, which just generated $35 million in ARR, strives to democratize visual storytelling for companies of all sizes. |
-|[.]() | |
-|[.]() | |
+|[AI candidate running for Parliament in the U.K. says AI can humanize politics.](https://www.nbcnews.com/tech/tech-news/ai-candidate-running-parliament-uk-says-ai-can-humanize-politics-rcna156991) |Voters can talk to AI Steve, whose name will be on the ballot for the U.K.'s general election next month, to ask policy questions or raise concerns. |
+|[Anthropic has a fast new AI model — and a clever new way to interact with chatbots .](https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch) |Claude 3.5 Sonnet is apparently Anthropic’s smartest, fastest, and most personable model yet. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
