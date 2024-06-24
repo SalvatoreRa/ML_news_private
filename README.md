@@ -49,11 +49,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries.](https://arxiv.org/abs/2406.12824) |aims to better understand how LLMs use external knowledge in place of parametric information when responding to factual queries. It finds that in a RAG pipeline, LLMs take a "shortcut" and exhibit a strong bias toward using only the context information and their parametric memory to answer the question. |
 |[Tree Search for Language Model Agents.](https://jykoh.com/search-agents/paper.pdf) | reveals that performance scales with increased test-time computing. It is tested on interactive online environments and applied to GPT-4o to dramatically enhance performance. It suggests an inference-time tree search technique for LM agents to do exploration and enable multi-step reasoning.|
 |[Apple found in breach of EU competition rules.](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act) | European Commission finds iPhone maker broke new laws designed to protect smaller competitors against big tech platforms|
-|[Evidence of a log scaling law for political persuasion with large language models.](https://arxiv.org/abs/2406.14508) | |
-|[MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading.](https://arxiv.org/abs/2406.14537v1) | |
-|[Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization.](https://arxiv.org/abs/2406.13930v1) | |
-|[eaL: Efficient RLHF Training for LLMs
-with Parameter Reallocation.](https://github.com/openpsi-project/realhf) | |
+|[Evidence of a log scaling law for political persuasion with large language models.](https://arxiv.org/abs/2406.14508) |Super persuasion is the worry that models may become noticeably more persuasive as they get bigger. The idea that larger models aren't significantly more compelling than smaller models isn't supported by strong data. They might, nevertheless, be able to be adjusted to be more convincing. |
+|[MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading.](https://arxiv.org/abs/2406.14537v1) |Reinforcement learning is used in MacroHFT, a novel method of high-frequency trading (HFT) in cryptocurrency markets, to enhance profitability and decision-making. |
+|[Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization.](https://arxiv.org/abs/2406.13930v1) |Researchers have included a local Q-value learning method within a maximum entropy framework to enhance QMIX, a well-liked multi-agent reinforcement learning technique. |
+|[eaL: Efficient RLHF Training for LLMs with Parameter Reallocation.](https://github.com/openpsi-project/realhf) |ReaLHF is a unique method that optimizes parallelization during training and dynamically redistribute parameters to improve reinforcement learning from human input (RLHF). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
