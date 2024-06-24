@@ -42,8 +42,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More?](https://arxiv.org/abs/2406.13121) |reports that long-context LLMs can compete with state-of-the-art retrieval and RAG systems without explicit training on the tasks; suggests that compositional reasoning (needed in SQL-like tasks) is still challenging for these LLMs; and encourages further research on advanced prompting strategies. performs a thorough performance analysis of long-context LLMs on in-context retrieval and reasoning. first presents a benchmark with real-world tasks requiring 1M token context. |
+|[PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers.](https://arxiv.org/abs/2406.12430) | improves decision-making using the iterative plan-then-RAG (PlanRAG) technique, which consists of two steps: The last phase determines whether a new plan for additional analysis is required and repeats earlier steps or makes a decision based on the data. 1) An LM creates the plan for decision making by reviewing the questions and data schema, and 2) the retriever creates the queries for data analysis; It is discovered that PlanRAG performs better than iterative RAG on the suggested Decision QA tasks. 
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
