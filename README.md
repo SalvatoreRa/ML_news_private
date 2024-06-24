@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Geologists raise concerns over possible censorship and bias in Chinese chatbot.](https://www.theguardian.com/technology/article/2024/jun/24/geologists-censorship-bias-chinese-chatbot-geogpt) | GeoGPT developed as part of Chinese-funded earth sciences programme aimed at researchers in global south|
 |[.]() | |
 |[.]() | |
 |[.]() | |
