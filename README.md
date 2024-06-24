@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers.](https://arxiv.org/abs/2406.12430) | improves decision-making using the iterative plan-then-RAG (PlanRAG) technique, which consists of two steps: The last phase determines whether a new plan for additional analysis is required and repeats earlier steps or makes a decision based on the data. 1) An LM creates the plan for decision making by reviewing the questions and data schema, and 2) the retriever creates the queries for data analysis; It is discovered that PlanRAG performs better than iterative RAG on the suggested Decision QA tasks. |
 |[Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs.](https://arxiv.org/abs/2406.10209) | demonstrates how the goldfish loss resists memorization and keeps the model useful, but it may need to train for longer to more effectively learn from the training data. It is a modification of the next-token prediction objective called goldfish loss, which helps mitigate the verbatim generation of memorized training data. It uses a simple technique that excludes a pseudorandom subset of training tokens at training time.|
 |[Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B.](https://arxiv.org/abs/2406.07394v2) | report having used an approach that combines LLMs with Monte Carlo Tree Search to achieve a mathematical Olympiad solution at the GPT-4 level. This approach aims to improve the system's performance in mathematical reasoning by enabling features like systematic exploration, self-refinement, and self-evaluation.|
-|[.]() | |
+|[From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries.](https://arxiv.org/abs/2406.12824) |aims to better understand how LLMs use external knowledge in place of parametric information when responding to factual queries. It finds that in a RAG pipeline, LLMs take a "shortcut" and exhibit a strong bias toward using only the context information and their parametric memory to answer the question. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Open-Sora 1.2 Report.](https://github.com/hpcaitech/Open-Sora/blob/main/docs/report_03.md) |a 1.1B parameter model trained on over 30 million data points, this open-source video generation model can produce 16-second 720p videos. It also features an improved diffusion model and video compression network for both temporal and spatial compression, which lowers training costs and improves controllability of the generations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
