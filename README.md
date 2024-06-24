@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Open-Sora 1.2 Report.](https://github.com/hpcaitech/Open-Sora/blob/main/docs/report_03.md) |a 1.1B parameter model trained on over 30 million data points, this open-source video generation model can produce 16-second 720p videos. It also features an improved diffusion model and video compression network for both temporal and spatial compression, which lowers training costs and improves controllability of the generations. |
-|[.]() | |
+|[LLM101n: Let's build a Storyteller.](https://github.com/karpathy/LLM101n) |An outline for a new course that Andrej Karpathy is working on can be found in a new repository. It entails creating a narrative-capable aligned language model. Code, video lectures, and other learning resources are included in the course. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
