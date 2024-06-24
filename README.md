@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Geologists raise concerns over possible censorship and bias in Chinese chatbot.](https://www.theguardian.com/technology/article/2024/jun/24/geologists-censorship-bias-chinese-chatbot-geogpt) | GeoGPT developed as part of Chinese-funded earth sciences programme aimed at researchers in global south|
 |[OpenAI acquires Rockset.](https://openai.com/index/openai-acquires-rockset) |Rockset is a robust database that supports both indexing and querying. The startup was acquired by OpenAI in order to enhance its infrastructure for retrieval. |
 |[Snapchat AI turns prompts into new lens.](https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens) | Snapchat’s upcoming on-device AI model could transform your background — and your clothing — in real time.|
-|[.]() | |
+|[HeyGen Raises $60M Series A to Scale Visual Storytelling for Businesses.](https://www.heygen.com/article/announcing-our-series-a) |HeyGen, an AI video generating platform, has raised $60 million in Series A funding to improve its studio-quality video creation and localization capabilities quickly and affordably. HeyGen, which just generated $35 million in ARR, strives to democratize visual storytelling for companies of all sizes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
