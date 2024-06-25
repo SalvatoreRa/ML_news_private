@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AIs are coming for social networks.](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media) | An app called Butterflies puts a new spin on how we interact with AI. With Meta and others making similar moves, social media is about to get a lot weirder.|
 |[OpenAI walks back controversial stock sale policies, will treat current and former employees the same.](https://www.cnbc.com/2024/06/24/openai-changes-secondary-stock-sale-rules-treats-ex-staffers-equally.html) |OpenAI has changed its policies toward secondary share sales to allow current and former employees to participate equally in its annual tender offers, CNBC has learned. All current and former staffers “will have the same sales limit” and be able to participate at the same time, OpenAI said in documents shared with stakeholders.|
 |[Report: Amazon developing AI chatbot that would compete with ChatGPT and others.](https://www.geekwire.com/2024/report-amazon-developing-ai-chatbot-that-would-compete-with-chatgpt-and-others/) |Amazon is developing its own consumer-focused AI chatbot that would compete with OpenAI’s ChatGPT and could be revealed later this year, according to a report from Business Insider. |
-|[.]() | |
+|[Multi is joining OpenAI.](https://multi.app/blog/multi-is-joining-openai) |OpenAI continues its purchase binge by purchasing additional desktop-related infrastructure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
