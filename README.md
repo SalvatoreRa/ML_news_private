@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading.](https://arxiv.org/abs/2406.14537v1) |Reinforcement learning is used in MacroHFT, a novel method of high-frequency trading (HFT) in cryptocurrency markets, to enhance profitability and decision-making. |
 |[Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization.](https://arxiv.org/abs/2406.13930v1) |Researchers have included a local Q-value learning method within a maximum entropy framework to enhance QMIX, a well-liked multi-agent reinforcement learning technique. |
 |[eaL: Efficient RLHF Training for LLMs with Parameter Reallocation.](https://github.com/openpsi-project/realhf) |ReaLHF is a unique method that optimizes parallelization during training and dynamically redistribute parameters to improve reinforcement learning from human input (RLHF). |
-|[.]() | |
+|[AlphaFold2 structures guide prospective ligand discovery.](https://www.science.org/doi/10.1126/science.adn6354) | AlphaFold2 (AF2) models have had wide impact but mixed success in retrospective ligand recognition. We prospectively docked large libraries against unrefined AF2 models of the σ2 and serotonin 2A (5-HT2A) receptors, testing hundreds of new molecules and ...|
 |[.]() | |
 |[.]() | |
 |[.]() | |
