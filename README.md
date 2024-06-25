@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AutoCodeRover: Autonomous Program Improvement.](https://github.com/nus-apr/auto-code-rover) | AutoCodeRover is a new technology that combines sophisticated code search methods with big language models to automate software enhancements, such as feature additions and problem fixes.|
 |[NLUX.](https://github.com/nlkitai/nlux) | NLUX is React and JavaScript open-source library for building conversational AI interfaces. It makes it super simple to build web applications powered by Large Language Models (LLMs) and AI. With just a few lines of code, you can add conversational AI capabilities and interact with your favourite AI models.|
 |[Claudette.](https://claudette.answer.ai/) |Claudette is a higher-level and easier-to-use way to interact with Claude. |
-|[.]() | |
-|[.]() | |
+|[top CVPR 2024 papers.](https://github.com/SkalskiP/top-cvpr-2024-papers) |Computer Vision and Pattern Recognition is a massive conference. In 2024 alone, 11,532 papers were submitted, and 2,719 were accepted. I created this repository to help you search for crème de la crème of CVPR publications. |
+|[TTS in 7000 Languages.](https://github.com/DigitalPhonetics/IMS-Toucan/releases/tag/v3.0) |Recently, Toucan published a collection of new text-to-speech models that are now compatible with all ISO-639-3 standard languages. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
