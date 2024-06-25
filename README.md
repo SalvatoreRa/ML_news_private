@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[eaL: Efficient RLHF Training for LLMs with Parameter Reallocation.](https://github.com/openpsi-project/realhf) |ReaLHF is a unique method that optimizes parallelization during training and dynamically redistribute parameters to improve reinforcement learning from human input (RLHF). |
 |[AlphaFold2 structures guide prospective ligand discovery.](https://www.science.org/doi/10.1126/science.adn6354) | AlphaFold2 (AF2) models have had wide impact but mixed success in retrospective ligand recognition. We prospectively docked large libraries against unrefined AF2 models of the σ2 and serotonin 2A (5-HT2A) receptors, testing hundreds of new molecules and ...|
 |[GPTs are GPTs: Labor market impact potential of LLMs.](https://www.science.org/doi/10.1126/science.adj0998) |OWe propose a framework for evaluating the potential impacts of large-language models (LLMs) and associated technologies on work by considering their relevance to the tasks workers perform in their jobs. When accounting for current and likely future software developments that complement LLM capabilities, this share jumps to just over 46% of jobs. |
-|[.]() | |
+|[Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models.](https://arxiv.org/abs/2406.14848v1) | PE-Rank is a novel passage ranking method that leverages context compression through single passage embeddings to increase performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claudette.](https://claudette.answer.ai/) |Claudette is a higher-level and easier-to-use way to interact with Claude. |
 |[top CVPR 2024 papers.](https://github.com/SkalskiP/top-cvpr-2024-papers) |Computer Vision and Pattern Recognition is a massive conference. In 2024 alone, 11,532 papers were submitted, and 2,719 were accepted. I created this repository to help you search for crème de la crème of CVPR publications. |
 |[TTS in 7000 Languages.](https://github.com/DigitalPhonetics/IMS-Toucan/releases/tag/v3.0) |Recently, Toucan published a collection of new text-to-speech models that are now compatible with all ISO-639-3 standard languages. |
-|[.]() | |
+|[ParaLLM: 1300+ tok/s on a MacBook.](https://willcb.com/blog/parallm/) |When batch parallel KV cache is implemented in MLX, inference times for the creation of synthetic data and model completions are significantly sped up. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
