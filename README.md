@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[top CVPR 2024 papers.](https://github.com/SkalskiP/top-cvpr-2024-papers) |Computer Vision and Pattern Recognition is a massive conference. In 2024 alone, 11,532 papers were submitted, and 2,719 were accepted. I created this repository to help you search for crème de la crème of CVPR publications. |
 |[TTS in 7000 Languages.](https://github.com/DigitalPhonetics/IMS-Toucan/releases/tag/v3.0) |Recently, Toucan published a collection of new text-to-speech models that are now compatible with all ISO-639-3 standard languages. |
 |[ParaLLM: 1300+ tok/s on a MacBook.](https://willcb.com/blog/parallm/) |When batch parallel KV cache is implemented in MLX, inference times for the creation of synthetic data and model completions are significantly sped up. |
-|[.]() | |
+|[Train vision models in TRL .](https://github.com/huggingface/trl/blob/main/examples/scripts/vsft_llava.py) | Transformers can be trained using reinforcement learning with the help of TRL, a Hugging Face library. You may apply the same procedure for vision-based language models, such as LLaVA, using this example.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The Long View on AI.](https://www.maximum-progress.com/p/the-long-view-on-ai) | AI has the potential to cause tremendous growth rates and technological improvements, according to historical statistics. Society will probably be able to adjust to these rapid changes just as it has in the past.|
-|[.]() | |
+|[AI’s Hidden Opportunities: Shawn "swyx" Wang on New Use Cases and Career.](https://www.heavybit.com/library/article/ai-hidden-opportunities-for-software-developers-swyx) |Well-known developer Shawn "swyx" Wang discusses untapped potential for conventional software professionals wishing to go into artificial intelligence. In particular, examining how to enhance existing tools, use AI to summarization, and more. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
