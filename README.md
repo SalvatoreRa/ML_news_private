@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI candidate running for Parliament in the U.K. says AI can humanize politics.](https://www.nbcnews.com/tech/tech-news/ai-candidate-running-parliament-uk-says-ai-can-humanize-politics-rcna156991) |Voters can talk to AI Steve, whose name will be on the ballot for the U.K.'s general election next month, to ask policy questions or raise concerns. |
 |[Anthropic has a fast new AI model — and a clever new way to interact with chatbots .](https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch) |Claude 3.5 Sonnet is apparently Anthropic’s smartest, fastest, and most personable model yet. |
 |[AIs are coming for social networks.](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media) | An app called Butterflies puts a new spin on how we interact with AI. With Meta and others making similar moves, social media is about to get a lot weirder.|
-|[.]() | |
-|[.]() | |
+|[OpenAI walks back controversial stock sale policies, will treat current and former employees the same.](https://www.cnbc.com/2024/06/24/openai-changes-secondary-stock-sale-rules-treats-ex-staffers-equally.html) |OpenAI has changed its policies toward secondary share sales to allow current and former employees to participate equally in its annual tender offers, CNBC has learned. All current and former staffers “will have the same sales limit” and be able to participate at the same time, OpenAI said in documents shared with stakeholders.|
+|[Report: Amazon developing AI chatbot that would compete with ChatGPT and others.](https://www.geekwire.com/2024/report-amazon-developing-ai-chatbot-that-would-compete-with-chatgpt-and-others/) |Amazon is developing its own consumer-focused AI chatbot that would compete with OpenAI’s ChatGPT and could be revealed later this year, according to a report from Business Insider. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
