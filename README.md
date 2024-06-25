@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization.](https://arxiv.org/abs/2406.13930v1) |Researchers have included a local Q-value learning method within a maximum entropy framework to enhance QMIX, a well-liked multi-agent reinforcement learning technique. |
 |[eaL: Efficient RLHF Training for LLMs with Parameter Reallocation.](https://github.com/openpsi-project/realhf) |ReaLHF is a unique method that optimizes parallelization during training and dynamically redistribute parameters to improve reinforcement learning from human input (RLHF). |
 |[AlphaFold2 structures guide prospective ligand discovery.](https://www.science.org/doi/10.1126/science.adn6354) | AlphaFold2 (AF2) models have had wide impact but mixed success in retrospective ligand recognition. We prospectively docked large libraries against unrefined AF2 models of the σ2 and serotonin 2A (5-HT2A) receptors, testing hundreds of new molecules and ...|
-|[.]() | |
+|[GPTs are GPTs: Labor market impact potential of LLMs.](https://www.science.org/doi/10.1126/science.adj0998) |OWe propose a framework for evaluating the potential impacts of large-language models (LLMs) and associated technologies on work by considering their relevance to the tasks workers perform in their jobs. When accounting for current and likely future software developments that complement LLM capabilities, this share jumps to just over 46% of jobs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
