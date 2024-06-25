@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI walks back controversial stock sale policies, will treat current and former employees the same.](https://www.cnbc.com/2024/06/24/openai-changes-secondary-stock-sale-rules-treats-ex-staffers-equally.html) |OpenAI has changed its policies toward secondary share sales to allow current and former employees to participate equally in its annual tender offers, CNBC has learned. All current and former staffers “will have the same sales limit” and be able to participate at the same time, OpenAI said in documents shared with stakeholders.|
 |[Report: Amazon developing AI chatbot that would compete with ChatGPT and others.](https://www.geekwire.com/2024/report-amazon-developing-ai-chatbot-that-would-compete-with-chatgpt-and-others/) |Amazon is developing its own consumer-focused AI chatbot that would compete with OpenAI’s ChatGPT and could be revealed later this year, according to a report from Business Insider. |
 |[Multi is joining OpenAI.](https://multi.app/blog/multi-is-joining-openai) |OpenAI continues its purchase binge by purchasing additional desktop-related infrastructure. |
-|[.]() | |
+|[Artificial Marketing Intelligence at your fingertips: MarTech startup Ability AI secures $1.1M pre-seed round funding to automate the process.](https://www.linkedin.com/pulse/artificial-marketing-intelligence-your-fingertips-martech-startup-avnye/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,9 +107,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TTS in 7000 Languages.](https://github.com/DigitalPhonetics/IMS-Toucan/releases/tag/v3.0) |Recently, Toucan published a collection of new text-to-speech models that are now compatible with all ISO-639-3 standard languages. |
 |[ParaLLM: 1300+ tok/s on a MacBook.](https://willcb.com/blog/parallm/) |When batch parallel KV cache is implemented in MLX, inference times for the creation of synthetic data and model completions are significantly sped up. |
 |[Train vision models in TRL .](https://github.com/huggingface/trl/blob/main/examples/scripts/vsft_llava.py) | Transformers can be trained using reinforcement learning with the help of TRL, a Hugging Face library. You may apply the same procedure for vision-based language models, such as LLaVA, using this example.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Rethinking Remote Sensing Change Detection With A Mask View.](https://arxiv.org/abs/2406.15320v1) | Two new models for remote sensing change detection—CDMask and CDMaskFormer—are presented in this study.|
+|[llama.ttf.](https://fuglede.github.io/llama.ttf/) | This article explains how to use a font file to run a little Llama language model.|
+|[june.](https://github.com/mezbaul-h/june) |june is a local voice chatbot that combines the power of Ollama (for language model capabilities), Hugging Face Transformers (for speech recognition), and the Coqui TTS Toolkit (for text-to-speech synthesis). It provides a flexible, privacy-focused solution for voice-assisted interactions on your local machine, ensuring that no data is sent to external servers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The Long View on AI.](https://www.maximum-progress.com/p/the-long-view-on-ai) | AI has the potential to cause tremendous growth rates and technological improvements, according to historical statistics. Society will probably be able to adjust to these rapid changes just as it has in the past.|
 |[AI’s Hidden Opportunities: Shawn "swyx" Wang on New Use Cases and Career.](https://www.heavybit.com/library/article/ai-hidden-opportunities-for-software-developers-swyx) |Well-known developer Shawn "swyx" Wang discusses untapped potential for conventional software professionals wishing to go into artificial intelligence. In particular, examining how to enhance existing tools, use AI to summarization, and more. |
-|[.]() | |
+|[Apple Intelligence.](https://daringfireball.net/2024/06/wwdc24_apple_intelligence) | Rather than developing stand-alone AI products, Apple has incorporated generative AI into its core apps, improving services like Mail classification, Safari summaries, and Siri's functioning. This demonstrates the company's focus on user control and privacy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
