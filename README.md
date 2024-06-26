@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Etched is building an AI chip that only runs one type of model.](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/) |Etched is among the many, many alternative chip companies vying for a seat at the table — but it’s also among the most intriguing.  |
 |[Stability AI Secures Significant New Investment.](https://stability.ai/news/stability-ai-secures-significant-new-investment) |Stability AI was able to obtain a "significant infusion of capital" from both new and existing investors in addition to hiring a new CEO. |
 |[Training a 70B model from scratch: open-source tools, evaluation datasets, and learnings.](https://imbue.com/research/70b-intro/) | Earlier this year, we pre-trained and fine-tuned a 70B-parameter model that outperforms GPT-4o zero-shot on a range of reasoning and coding-related benchmarks and datasets. Our fine-tuned model, pre-trained on 2T tokens, roughly matches a fine-tuned Llama 3 70B, which was pre-trained on more than seven times as much data.|
-|[.]() | |
+|[OpenAI Pushes Back Voice Mode.](https://threadreaderapp.com/thread/1805716393524183136.html) | The sophisticated Voice Mode that OpenAI showcased in its Spring Update will go live in alpha form in late July for a limited group of ChatGPT Plus subscribers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,6 +115,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models.](https://huggingface.co/blog/finetune-florence2) | Florence-2, released by Microsoft in June 2024, is a foundation vision-language model. This model is very attractive because of its small size (0.2B and 0.7B) and strong performance on a variety of computer vision and vision-language tasks. Florence supports many tasks out of the box: captioning, object detection, OCR, and more.|
 |[Accelerating Neural Network Training with Semi-Structured (2:4) Sparsity.](https://pytorch.org/blog/accelerating-neural-network-training/) |Specifically designed kernels have been created by the PyTorch team to utilize sparse cores, which are typically exclusively used for inference. |
 |[FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models.](http://haonanqiu.com/projects/FreeTraj.html) |Diffusion models are used in FreeTraj, a tuning-free technique for controlling motion trajectories in video creation. To direct the generated content, it adjusts the attention mechanisms and noise sampling. |
+|[OpenGlass - Open Source Smart Glasses.](https://github.com/BasedHardware/OpenGlass) | Turn any glasses into hackable smart glasses with less than $25 of off-the-shelf components. Record your life, remember people you meet, identify objects, translate text, and more.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -130,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI’s Hidden Opportunities: Shawn "swyx" Wang on New Use Cases and Career.](https://www.heavybit.com/library/article/ai-hidden-opportunities-for-software-developers-swyx) |Well-known developer Shawn "swyx" Wang discusses untapped potential for conventional software professionals wishing to go into artificial intelligence. In particular, examining how to enhance existing tools, use AI to summarization, and more. |
 |[Apple Intelligence.](https://daringfireball.net/2024/06/wwdc24_apple_intelligence) | Rather than developing stand-alone AI products, Apple has incorporated generative AI into its core apps, improving services like Mail classification, Safari summaries, and Siri's functioning. This demonstrates the company's focus on user control and privacy.|
 |[Apple intelligence and AI maximalism.](https://www.ben-evans.com/benedictevans/2024/06/20/apple-intelligence) |Apple has showed a bunch of cool ideas for generative AI, but much more, it is pointing to most of the big questions and proposing a different answer - that LLMs are commodity infrastructure, not platforms or products. |
-|[.]() | |
+|[How To Solve LLM Hallucinations.](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations) | Lamini has created Memory Tuning, which effectively embeds particular facts into models without sacrificing general knowledge and reduces hallucinations by 95%.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
