@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple found in breach of EU competition rules.](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act) | European Commission finds iPhone maker broke new laws designed to protect smaller competitors against big tech platforms|
 |[Etched is building an AI chip that only runs one type of model.](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/) |Etched is among the many, many alternative chip companies vying for a seat at the table — but it’s also among the most intriguing.  |
 |[Stability AI Secures Significant New Investment.](https://stability.ai/news/stability-ai-secures-significant-new-investment) |Stability AI was able to obtain a "significant infusion of capital" from both new and existing investors in addition to hiring a new CEO. |
-|[.]() | |
+|[Training a 70B model from scratch: open-source tools, evaluation datasets, and learnings.](https://imbue.com/research/70b-intro/) | Earlier this year, we pre-trained and fine-tuned a 70B-parameter model that outperforms GPT-4o zero-shot on a range of reasoning and coding-related benchmarks and datasets. Our fine-tuned model, pre-trained on 2T tokens, roughly matches a fine-tuned Llama 3 70B, which was pre-trained on more than seven times as much data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Rethinking Remote Sensing Change Detection With A Mask View.](https://arxiv.org/abs/2406.15320v1) | Two new models for remote sensing change detection—CDMask and CDMaskFormer—are presented in this study.|
 |[llama.ttf.](https://fuglede.github.io/llama.ttf/) | This article explains how to use a font file to run a little Llama language model.|
 |[june.](https://github.com/mezbaul-h/june) |june is a local voice chatbot that combines the power of Ollama (for language model capabilities), Hugging Face Transformers (for speech recognition), and the Coqui TTS Toolkit (for text-to-speech synthesis). It provides a flexible, privacy-focused solution for voice-assisted interactions on your local machine, ensuring that no data is sent to external servers. |
-|[.]() | |
+|[Building a personalized code assistant with open-source LLMs using RAG Fine-tuning.](https://www.together.ai/blog/rag-fine-tuning) | AI and Morph Labs collaborated to create an excellent blog post about optimizing models for retrieval enhanced generation. They also demonstrate a few applications of generated data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
