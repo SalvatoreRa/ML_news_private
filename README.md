@@ -56,8 +56,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPTs are GPTs: Labor market impact potential of LLMs.](https://www.science.org/doi/10.1126/science.adj0998) |OWe propose a framework for evaluating the potential impacts of large-language models (LLMs) and associated technologies on work by considering their relevance to the tasks workers perform in their jobs. When accounting for current and likely future software developments that complement LLM capabilities, this share jumps to just over 46% of jobs. |
 |[Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models.](https://arxiv.org/abs/2406.14848v1) | PE-Rank is a novel passage ranking method that leverages context compression through single passage embeddings to increase performance.|
 |[MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression.](https://github.com/thu-nics/moa) |By customizing sparse attention configurations for each head and layer, the Mixture of Attention (MoA) method maximizes sparse attention in large language models. |
-|[.]() | |
-|[.]() | |
+|[GeoMFormer: A General Architecture for Geometric Molecular Representation Learning.](https://arxiv.org/abs/2406.16853v1) | A new Transformer-based model called GeoMFormer learns both equivariant and invariant properties to enhance molecular modeling.|
+|[Making my local LLM voice assistant faster and more scalable with RAG.](https://johnthenerd.com/blog/faster-local-llm-assistant/) | Researchers classified data, precomputed embeddings, and dynamically generated examples to improve the efficiency and scalability of an LLM voice assistant.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
