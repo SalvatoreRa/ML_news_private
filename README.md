@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building a personalized code assistant with open-source LLMs using RAG Fine-tuning.](https://www.together.ai/blog/rag-fine-tuning) | AI and Morph Labs collaborated to create an excellent blog post about optimizing models for retrieval enhanced generation. They also demonstrate a few applications of generated data.|
 |[EvalAlign: Evaluating Text-to-Image Models through Precision Alignment of Multimodal Large Models with Supervised Fine-Tuning to Human Annotations.](https://arxiv.org/abs/2406.16562v1) |A novel metric called EvalAlign was created to enhance the assessment of generative models that convert text to images. EvalAlign provides fine-grained accuracy and stability in contrast to current measures. It emphasizes text-image alignment and image faithfulness. |
 |[Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models.](https://huggingface.co/blog/finetune-florence2) | Florence-2, released by Microsoft in June 2024, is a foundation vision-language model. This model is very attractive because of its small size (0.2B and 0.7B) and strong performance on a variety of computer vision and vision-language tasks. Florence supports many tasks out of the box: captioning, object detection, OCR, and more.|
-|[.]() | |
-|[.]() | |
+|[Accelerating Neural Network Training with Semi-Structured (2:4) Sparsity.](https://pytorch.org/blog/accelerating-neural-network-training/) |Specifically designed kernels have been created by the PyTorch team to utilize sparse cores, which are typically exclusively used for inference. |
+|[FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models.](http://haonanqiu.com/projects/FreeTraj.html) |Diffusion models are used in FreeTraj, a tuning-free technique for controlling motion trajectories in video creation. To direct the generated content, it adjusts the attention mechanisms and noise sampling. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
