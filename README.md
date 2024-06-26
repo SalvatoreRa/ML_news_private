@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Report: Amazon developing AI chatbot that would compete with ChatGPT and others.](https://www.geekwire.com/2024/report-amazon-developing-ai-chatbot-that-would-compete-with-chatgpt-and-others/) |Amazon is developing its own consumer-focused AI chatbot that would compete with OpenAI’s ChatGPT and could be revealed later this year, according to a report from Business Insider. |
 |[Multi is joining OpenAI.](https://multi.app/blog/multi-is-joining-openai) |OpenAI continues its purchase binge by purchasing additional desktop-related infrastructure. |
 |[Artificial Marketing Intelligence at your fingertips: MarTech startup Ability AI secures $1.1M pre-seed round funding to automate the process.](https://www.linkedin.com/pulse/artificial-marketing-intelligence-your-fingertips-martech-startup-avnye/) | |
-|[.]() | |
+|[Claude 3.5 suggests AI’s looming ubiquity could be a good thing.](https://www.theguardian.com/technology/article/2024/jun/25/anthropic-claude-ai-chatbot) |If you don’t like chatbots popping up everywhere, get ready to be peeved. But the latest version of Anthropic’s shows AI is becoming more useful – and, crucially, affordable |
 |[.]() | |
 |[.]() | |
 |[.]() | |
