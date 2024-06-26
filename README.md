@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Long View on AI.](https://www.maximum-progress.com/p/the-long-view-on-ai) | AI has the potential to cause tremendous growth rates and technological improvements, according to historical statistics. Society will probably be able to adjust to these rapid changes just as it has in the past.|
 |[AI’s Hidden Opportunities: Shawn "swyx" Wang on New Use Cases and Career.](https://www.heavybit.com/library/article/ai-hidden-opportunities-for-software-developers-swyx) |Well-known developer Shawn "swyx" Wang discusses untapped potential for conventional software professionals wishing to go into artificial intelligence. In particular, examining how to enhance existing tools, use AI to summarization, and more. |
 |[Apple Intelligence.](https://daringfireball.net/2024/06/wwdc24_apple_intelligence) | Rather than developing stand-alone AI products, Apple has incorporated generative AI into its core apps, improving services like Mail classification, Safari summaries, and Siri's functioning. This demonstrates the company's focus on user control and privacy.|
-|[.]() | |
+|[Apple intelligence and AI maximalism.](https://www.ben-evans.com/benedictevans/2024/06/20/apple-intelligence) |Apple has showed a bunch of cool ideas for generative AI, but much more, it is pointing to most of the big questions and proposing a different answer - that LLMs are commodity infrastructure, not platforms or products. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
