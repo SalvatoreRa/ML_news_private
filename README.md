@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artificial Marketing Intelligence at your fingertips: MarTech startup Ability AI secures $1.1M pre-seed round funding to automate the process.](https://www.linkedin.com/pulse/artificial-marketing-intelligence-your-fingertips-martech-startup-avnye/) | |
 |[Claude 3.5 suggests AI’s looming ubiquity could be a good thing.](https://www.theguardian.com/technology/article/2024/jun/25/anthropic-claude-ai-chatbot) |If you don’t like chatbots popping up everywhere, get ready to be peeved. But the latest version of Anthropic’s shows AI is becoming more useful – and, crucially, affordable |
 |[Apple found in breach of EU competition rules.](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act) | European Commission finds iPhone maker broke new laws designed to protect smaller competitors against big tech platforms|
-|[.]() | |
-|[.]() | |
+|[Etched is building an AI chip that only runs one type of model.](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/) |Etched is among the many, many alternative chip companies vying for a seat at the table — but it’s also among the most intriguing.  |
+|[Stability AI Secures Significant New Investment.](https://stability.ai/news/stability-ai-secures-significant-new-investment) |Stability AI was able to obtain a "significant infusion of capital" from both new and existing investors in addition to hiring a new CEO. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
