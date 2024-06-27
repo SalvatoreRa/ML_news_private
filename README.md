@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Evolutionary Scale Raises $142m series A.](https://www.evolutionaryscale.ai/blog/esm3-release) | A biology startup called Evolutionary Scale has came out of stealth with significant funding. Additionally, it declared the release of ESM 3, its foundation model, a 98B parameter model trained for 10^24 Flops on 771B biological tokens. Using the model, it found a new luminous green protein that is not found in nature.|
 |[Waymo One is now open to everyone in San Francisco.](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/) |With its driverless cars, Waymo One now makes it possible for anybody in San Francisco to request a ride. After providing tens of thousands of trips per week, the company is expanding. Its all-electric fleet helps it achieve its sustainability goals and boosts the local economy. Waymo claims that its cars are much less likely to be involved in collisions than those driven by humans, citing increased safety. |
 |[ChatGPT on your desktop.](https://openai.com/chatgpt/mac/) |Users can now download the ChatGPT desktop software for macOS. |
-|[.]() | |
+|[https://www.theguardian.com/technology/article/2024/jun/27/ai-bill-gates-climate-targets-datacentres-energy.](https://www.theguardian.com/technology/article/2024/jun/27/ai-bill-gates-climate-targets-datacentres-energy) | Microsoft co-founder says efficiencies for technology and electricity grids will outweigh energy use by data centres|
 |[.]() | |
 |[.]() | |
 |[.]() | |
