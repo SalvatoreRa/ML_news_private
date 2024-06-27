@@ -142,7 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenGlass - Open Source Smart Glasses.](https://github.com/BasedHardware/OpenGlass) | Turn any glasses into hackable smart glasses with less than $25 of off-the-shelf components. Record your life, remember people you meet, identify objects, translate text, and more.|
 |[An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability.](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) |The Golden Gate Claude served as a potent illustration of how to influence and evaluate models using SAEs. This work includes some sample code for training these models and an easy-to-understand explanation of how it operates. |
 |[RES-Q.](https://github.com/qurrent-ai/res-q) | A new benchmark called RES-Q is designed to evaluate how well huge language models can modify code repositories using instructions in natural language.|
-|[.]() | |
+|[Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack.](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/) |Using a hybrid method, Slack developers used AI Large Language Models with Abstract Syntax Tree transformations to automate the translation of more than 15,000 unit tests from Enzyme to React Testing Library. The team utilized Anthropic's Claude 2.1 AI model in conjunction with DOM tree capture for React components to achieve an 80% success rate in automatic conversions. This ground-breaking project demonstrates Slack's dedication to using AI to improve developer productivity and experience. It's a part of the continuous attempts to remain ahead of the always changing frontend scene. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -164,7 +164,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI machine translation tools must be taught cultural differences too.](https://www.nature.com/articles/d41586-024-02091-4) |But to successfully preserve or revitalize minority languages, the scope of large-language-model (LLM) training needs to be broadened. |
 |[Misinformation might sway elections — but not in the way that you think.](https://www.nature.com/articles/d41586-024-01696-z) | Rampant deepfakes and false news are often blamed for swaying votes. Research suggests it’s hard to change people’s political opinions, but easier to nudge their behaviour.|
 |[How I’m using AI tools to help universities maximize research impacts.](https://www.nature.com/articles/d41586-024-02081-6) |Artificial-intelligence algorithms could identify scientists who need support with translating their work into real-world applications and more. Leaders must step up. |
-|[.]() | |
+|[The Future of LLM-Based Agents: Making the Boxes Bigger.](https://www.arcus.co/blog/ai-agents-pt-2) |Long-term planning and system-level resilience are two essential strategies that assist move Agents from the playground into the real world, and they are discussed in this post. These introduce the ability to create plans of a higher level for the Agents, allowing for adaptability in the middle of an episode. They also introduce systems techniques to intelligently orchestrate the models, resulting in increased performance and accuracy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
