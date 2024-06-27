@@ -140,8 +140,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Accelerating Neural Network Training with Semi-Structured (2:4) Sparsity.](https://pytorch.org/blog/accelerating-neural-network-training/) |Specifically designed kernels have been created by the PyTorch team to utilize sparse cores, which are typically exclusively used for inference. |
 |[FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models.](http://haonanqiu.com/projects/FreeTraj.html) |Diffusion models are used in FreeTraj, a tuning-free technique for controlling motion trajectories in video creation. To direct the generated content, it adjusts the attention mechanisms and noise sampling. |
 |[OpenGlass - Open Source Smart Glasses.](https://github.com/BasedHardware/OpenGlass) | Turn any glasses into hackable smart glasses with less than $25 of off-the-shelf components. Record your life, remember people you meet, identify objects, translate text, and more.|
-|[.]() | |
-|[.]() | |
+|[An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability.](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) |The Golden Gate Claude served as a potent illustration of how to influence and evaluate models using SAEs. This work includes some sample code for training these models and an easy-to-understand explanation of how it operates. |
+|[RES-Q.](https://github.com/qurrent-ai/res-q) | A new benchmark called RES-Q is designed to evaluate how well huge language models can modify code repositories using instructions in natural language.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
