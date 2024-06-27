@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YouTube tries convincing record labels to license music for AI song generator.](https://arstechnica.com/ai/2024/06/youtube-tries-convincing-record-labels-to-license-music-for-ai-song-generator/) | Video site needs labels’ content to legally train AI song generators.|
 |[Evolutionary Scale Raises $142m series A.](https://www.evolutionaryscale.ai/blog/esm3-release) | A biology startup called Evolutionary Scale has came out of stealth with significant funding. Additionally, it declared the release of ESM 3, its foundation model, a 98B parameter model trained for 10^24 Flops on 771B biological tokens. Using the model, it found a new luminous green protein that is not found in nature.|
 |[Waymo One is now open to everyone in San Francisco.](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/) |With its driverless cars, Waymo One now makes it possible for anybody in San Francisco to request a ride. After providing tens of thousands of trips per week, the company is expanding. Its all-electric fleet helps it achieve its sustainability goals and boosts the local economy. Waymo claims that its cars are much less likely to be involved in collisions than those driven by humans, citing increased safety. |
-|[.]() | |
+|[ChatGPT on your desktop.](https://openai.com/chatgpt/mac/) |Users can now download the ChatGPT desktop software for macOS. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RES-Q.](https://github.com/qurrent-ai/res-q) | A new benchmark called RES-Q is designed to evaluate how well huge language models can modify code repositories using instructions in natural language.|
 |[Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack.](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/) |Using a hybrid method, Slack developers used AI Large Language Models with Abstract Syntax Tree transformations to automate the translation of more than 15,000 unit tests from Enzyme to React Testing Library. The team utilized Anthropic's Claude 2.1 AI model in conjunction with DOM tree capture for React components to achieve an 80% success rate in automatic conversions. This ground-breaking project demonstrates Slack's dedication to using AI to improve developer productivity and experience. It's a part of the continuous attempts to remain ahead of the always changing frontend scene. |
 |[R2R.](https://github.com/SciPhi-AI/R2R) | R2R was designed to bridge the gap between local LLM experimentation and scalable, production-ready Retrieval-Augmented Generation (RAG). R2R provides a comprehensive and SOTA RAG system for developers, built around a RESTful API for ease of use.|
-|[.]() | |
+|[Internist.ai 7b.](https://huggingface.co/internistai/base-7b-v0.2) |Internist.ai 7b is a medical domain large language model trained by medical doctors to demonstrate the benefits of a physician-in-the-loop approach. The training data was carefully curated by medical doctors to ensure clinical relevance and required quality for clinical practice. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
