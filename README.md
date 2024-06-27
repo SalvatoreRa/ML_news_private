@@ -88,6 +88,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Pushes Back Voice Mode.](https://threadreaderapp.com/thread/1805716393524183136.html) | The sophisticated Voice Mode that OpenAI showcased in its Spring Update will go live in alpha form in late July for a limited group of ChatGPT Plus subscribers.|
 |[Meta’s AI translation model embraces overlooked languages.](https://www.nature.com/articles/d41586-024-00964-2) |More than 7,000 languages are in use throughout the world, but popular translation tools cannot deal with most of them. A translation model that was tested on under-represented languages takes a key step towards a solution. |
 |[Researchers fool university markers with AI-generated exam papers.](https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers) |University of Reading project poses questions for integrity of coursework and take-home student assignments |
+|[YouTube tries convincing record labels to license music for AI song generator.](https://arstechnica.com/ai/2024/06/youtube-tries-convincing-record-labels-to-license-music-for-ai-song-generator/) | Video site needs labels’ content to legally train AI song generators.|
+|[Evolutionary Scale Raises $142m series A.](https://www.evolutionaryscale.ai/blog/esm3-release) | A biology startup called Evolutionary Scale has came out of stealth with significant funding. Additionally, it declared the release of ESM 3, its foundation model, a 98B parameter model trained for 10^24 Flops on 771B biological tokens. Using the model, it found a new luminous green protein that is not found in nature.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
