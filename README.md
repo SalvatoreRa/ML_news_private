@@ -58,6 +58,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression.](https://github.com/thu-nics/moa) |By customizing sparse attention configurations for each head and layer, the Mixture of Attention (MoA) method maximizes sparse attention in large language models. |
 |[GeoMFormer: A General Architecture for Geometric Molecular Representation Learning.](https://arxiv.org/abs/2406.16853v1) | A new Transformer-based model called GeoMFormer learns both equivariant and invariant properties to enhance molecular modeling.|
 |[Making my local LLM voice assistant faster and more scalable with RAG.](https://johnthenerd.com/blog/faster-local-llm-assistant/) | Researchers classified data, precomputed embeddings, and dynamically generated examples to improve the efficiency and scalability of an LLM voice assistant.|
+|[Retrieval Augmented Instruction Tuning for Open NER with Large Language Models.](https://arxiv.org/abs/2406.17305v1) | |
+|[Data curation via joint example selection further accelerates multimodal learning.](https://arxiv.org/abs/2406.17711) | |
+|[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text.](https://imlixinyang.github.io/director3d-page/) | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
