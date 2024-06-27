@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Training a 70B model from scratch: open-source tools, evaluation datasets, and learnings.](https://imbue.com/research/70b-intro/) | Earlier this year, we pre-trained and fine-tuned a 70B-parameter model that outperforms GPT-4o zero-shot on a range of reasoning and coding-related benchmarks and datasets. Our fine-tuned model, pre-trained on 2T tokens, roughly matches a fine-tuned Llama 3 70B, which was pre-trained on more than seven times as much data.|
 |[OpenAI Pushes Back Voice Mode.](https://threadreaderapp.com/thread/1805716393524183136.html) | The sophisticated Voice Mode that OpenAI showcased in its Spring Update will go live in alpha form in late July for a limited group of ChatGPT Plus subscribers.|
 |[Meta’s AI translation model embraces overlooked languages.](https://www.nature.com/articles/d41586-024-00964-2) |More than 7,000 languages are in use throughout the world, but popular translation tools cannot deal with most of them. A translation model that was tested on under-represented languages takes a key step towards a solution. |
-|[.]() | |
+|[Researchers fool university markers with AI-generated exam papers.](https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers) |University of Reading project poses questions for integrity of coursework and take-home student assignments |
 |[.]() | |
 |[.]() | |
 |[.]() | |
