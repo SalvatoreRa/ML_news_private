@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Retrieval Augmented Instruction Tuning for Open NER with Large Language Models.](https://arxiv.org/abs/2406.17305v1) | Using big language models, Retrieval Augmented Instruction Tuning (RA-IT) enhances information extraction.|
 |[Data curation via joint example selection further accelerates multimodal learning.](https://arxiv.org/abs/2406.17711) |In pre-training, actively choosing the next best batch is a difficult and open problem. This research from DeepMind investigates how to match SOTA for a variety of tasks while using only 10% of FLOPs and hard mining negative samples. |
 |[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text.](https://imlixinyang.github.io/director3d-page/) | A system called Director3D was created to improve camera trajectory modeling and 3D scene production in the real world. Director3D creates lifelike 3D scenes from text descriptions by using a Multi-view Latent Diffusion Model and a Trajectory Diffusion Transformer.|
-|[.]() | |
+|[Prompt Engineering Tool.](https://github.com/teknium1/Prompt-Engineering-Toolkit) |An excellent prompting toolset that helps evaluate the effectiveness of various prompts, nearly completely composed of Sonnet 3.5. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
