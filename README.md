@@ -58,9 +58,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression.](https://github.com/thu-nics/moa) |By customizing sparse attention configurations for each head and layer, the Mixture of Attention (MoA) method maximizes sparse attention in large language models. |
 |[GeoMFormer: A General Architecture for Geometric Molecular Representation Learning.](https://arxiv.org/abs/2406.16853v1) | A new Transformer-based model called GeoMFormer learns both equivariant and invariant properties to enhance molecular modeling.|
 |[Making my local LLM voice assistant faster and more scalable with RAG.](https://johnthenerd.com/blog/faster-local-llm-assistant/) | Researchers classified data, precomputed embeddings, and dynamically generated examples to improve the efficiency and scalability of an LLM voice assistant.|
-|[Retrieval Augmented Instruction Tuning for Open NER with Large Language Models.](https://arxiv.org/abs/2406.17305v1) | |
-|[Data curation via joint example selection further accelerates multimodal learning.](https://arxiv.org/abs/2406.17711) | |
-|[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text.](https://imlixinyang.github.io/director3d-page/) | |
+|[Retrieval Augmented Instruction Tuning for Open NER with Large Language Models.](https://arxiv.org/abs/2406.17305v1) | Using big language models, Retrieval Augmented Instruction Tuning (RA-IT) enhances information extraction.|
+|[Data curation via joint example selection further accelerates multimodal learning.](https://arxiv.org/abs/2406.17711) |In pre-training, actively choosing the next best batch is a difficult and open problem. This research from DeepMind investigates how to match SOTA for a variety of tasks while using only 10% of FLOPs and hard mining negative samples. |
+|[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text.](https://imlixinyang.github.io/director3d-page/) | A system called Director3D was created to improve camera trajectory modeling and 3D scene production in the real world. Director3D creates lifelike 3D scenes from text descriptions by using a Multi-view Latent Diffusion Model and a Trajectory Diffusion Transformer.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
