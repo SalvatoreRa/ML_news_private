@@ -137,9 +137,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple Intelligence.](https://daringfireball.net/2024/06/wwdc24_apple_intelligence) | Rather than developing stand-alone AI products, Apple has incorporated generative AI into its core apps, improving services like Mail classification, Safari summaries, and Siri's functioning. This demonstrates the company's focus on user control and privacy.|
 |[Apple intelligence and AI maximalism.](https://www.ben-evans.com/benedictevans/2024/06/20/apple-intelligence) |Apple has showed a bunch of cool ideas for generative AI, but much more, it is pointing to most of the big questions and proposing a different answer - that LLMs are commodity infrastructure, not platforms or products. |
 |[How To Solve LLM Hallucinations.](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations) | Lamini has created Memory Tuning, which effectively embeds particular facts into models without sacrificing general knowledge and reduces hallucinations by 95%.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI machine translation tools must be taught cultural differences too.](https://www.nature.com/articles/d41586-024-02091-4) |But to successfully preserve or revitalize minority languages, the scope of large-language-model (LLM) training needs to be broadened. |
+|[Misinformation might sway elections — but not in the way that you think.](https://www.nature.com/articles/d41586-024-01696-z) | Rampant deepfakes and false news are often blamed for swaying votes. Research suggests it’s hard to change people’s political opinions, but easier to nudge their behaviour.|
+|[How I’m using AI tools to help universities maximize research impacts.](https://www.nature.com/articles/d41586-024-02081-6) |Artificial-intelligence algorithms could identify scientists who need support with translating their work into real-world applications and more. Leaders must step up. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
