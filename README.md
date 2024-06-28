@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Waymo One is now open to everyone in San Francisco.](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/) |With its driverless cars, Waymo One now makes it possible for anybody in San Francisco to request a ride. After providing tens of thousands of trips per week, the company is expanding. Its all-electric fleet helps it achieve its sustainability goals and boosts the local economy. Waymo claims that its cars are much less likely to be involved in collisions than those driven by humans, citing increased safety. |
 |[ChatGPT on your desktop.](https://openai.com/chatgpt/mac/) |Users can now download the ChatGPT desktop software for macOS. |
 |[https://www.theguardian.com/technology/article/2024/jun/27/ai-bill-gates-climate-targets-datacentres-energy.](https://www.theguardian.com/technology/article/2024/jun/27/ai-bill-gates-climate-targets-datacentres-energy) | Microsoft co-founder says efficiencies for technology and electricity grids will outweigh energy use by data centres|
-|[.]() | |
-|[.]() | |
+|[Snap Lense Studio 5.0.](https://ar.snap.com/blog/genai-suite-lens-studio-5.0) | The GenAI suite, which Snap introduced with Lens Studio 5.0, is a fantastic development and a huge help for creating augmented reality apps.|
+|[Instagram Launching An AI Studio.](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot) |Instagram's "AI Studio" enables developers to create self-aware AI chatbots. In the US, an early test of it is presently underway. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
