@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[https://www.theguardian.com/technology/article/2024/jun/27/ai-bill-gates-climate-targets-datacentres-energy.](https://www.theguardian.com/technology/article/2024/jun/27/ai-bill-gates-climate-targets-datacentres-energy) | Microsoft co-founder says efficiencies for technology and electricity grids will outweigh energy use by data centres|
 |[Snap Lense Studio 5.0.](https://ar.snap.com/blog/genai-suite-lens-studio-5.0) | The GenAI suite, which Snap introduced with Lens Studio 5.0, is a fantastic development and a huge help for creating augmented reality apps.|
 |[Instagram Launching An AI Studio.](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot) |Instagram's "AI Studio" enables developers to create self-aware AI chatbots. In the US, an early test of it is presently underway. |
-|[.]() | |
-|[.]() | |
+|[Dust raises $16m series A.](https://blog.dust.tt/dust-seriesa-sequoia-leading-ai-platform/) |Dust, one of the first modern-day chaining and agency companies, raised more money after surpassing $1 million in annual revenue. |
+|[ElevenLabs launches iOS app that turns ‘any’ text into audio narration with AI.](https://venturebeat.com/ai/elevenlabs-launches-ios-app-that-turns-any-text-into-audio-narration-with-ai/) |"ElevenLabs Reader: AI Audio," the company's debut iOS app, enables users to listen on the go by turning text files or web links into audio narration. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
