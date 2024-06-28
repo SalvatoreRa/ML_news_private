@@ -148,7 +148,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Finding GPT-4’s mistakes with GPT-4.](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/) |CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF |
 |[ALPBench: A Benchmark for Active Learning Pipelines on Tabular Data.](https://arxiv.org/abs/2406.17322v1) |A program called ALPBench was created to standardize active learning query benchmarks. |
 |[Introducing AuraSR - An open reproduction of the GigaGAN Upscaler.](https://blog.fal.ai/introducing-aurasr-an-open-reproduction-of-the-gigagan-upscaler-2/) |FAL recently made AuraSR, a high resolution picture upscaler, open-sourced. Even with repeated applications, it may upscale by 4x with just one forward pass. AuraSR performs admirably with created photos. |
-|[.]() | |
+|[Point-SAM: Promptable 3D Segmentation Model for Point Clouds.](https://point-sam.github.io/) |Point-SAM, a transformer-based 3D segmentation model, has been introduced by researchers in response to the increasing demand for comprehensive 3D data. |
+|[GenIR-Survey.](https://github.com/ruc-nlpir/genir-survey) | This survey explores generative information retrieval (GenIR), a novel approach to information retrieval that shifts from conventional search techniques to ones that generate results dynamically.|
+|[Gemma 2.](https://www.kaggle.com/models/google/gemma-2) | Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models.|
+|[MatText: Do Language Models Need More than Text & Scale for Materials Modeling?](https://arxiv.org/abs/2406.17295v1) |MatText is a collection of benchmarking tools and datasets intended to assess the effectiveness of language models in the field of materials science. |
+|[mamba2.](https://github.com/okarthikb/state-space-models/blob/main/models/mamba2.py) |A quick implementation of Mamba 2 |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +170,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How I’m using AI tools to help universities maximize research impacts.](https://www.nature.com/articles/d41586-024-02081-6) |Artificial-intelligence algorithms could identify scientists who need support with translating their work into real-world applications and more. Leaders must step up. |
 |[The Future of LLM-Based Agents: Making the Boxes Bigger.](https://www.arcus.co/blog/ai-agents-pt-2) |Long-term planning and system-level resilience are two essential strategies that assist move Agents from the playground into the real world, and they are discussed in this post. These introduce the ability to create plans of a higher level for the Agents, allowing for adaptability in the middle of an episode. They also introduce systems techniques to intelligently orchestrate the models, resulting in increased performance and accuracy. |
 |[Apple, Microsoft Shrink AI Models to Improve Them.](https://spectrum.ieee.org/small-language-models-apple-microsoft) | Large language models are becoming less popular as IT companies shift their focus to more efficient small language models (SLMs). Apple and Microsoft have introduced models with far fewer parameters that nonetheless perform comparably or even better in benchmarks. According to the CEO of OpenAI, we're past the LLM era since SLMs have benefits including greater accessibility for smaller entities, local device operation, and potential insights into human language acquisition. Even though SLMs are narrower in scope, their performance is enhanced by training them on high-quality, or "textbook-quality" data.|
-|[.]() | |
+|[Are Tech-Enabled Vertical Roll-Ups the Future or the Past?.](https://www.tidemarkcap.com/post/are-tech-enabled-vertical-roll-ups-the-future-or-the-past) | The ability to generate excess cash flows through operational efficiencies is a prerequisite for roll-up methods. It's possible that the development of AI offers a new lever that fully unlocks the rollup strategy. Are rollups for SMBs and verticals the future? Two different perspectives on this issue are presented in this post.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
