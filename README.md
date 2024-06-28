@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Data curation via joint example selection further accelerates multimodal learning.](https://arxiv.org/abs/2406.17711) |In pre-training, actively choosing the next best batch is a difficult and open problem. This research from DeepMind investigates how to match SOTA for a variety of tasks while using only 10% of FLOPs and hard mining negative samples. |
 |[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text.](https://imlixinyang.github.io/director3d-page/) | A system called Director3D was created to improve camera trajectory modeling and 3D scene production in the real world. Director3D creates lifelike 3D scenes from text descriptions by using a Multi-view Latent Diffusion Model and a Trajectory Diffusion Transformer.|
 |[Prompt Engineering Tool.](https://github.com/teknium1/Prompt-Engineering-Toolkit) |An excellent prompting toolset that helps evaluate the effectiveness of various prompts, nearly completely composed of Sonnet 3.5. |
-|[.]() | |
+|[Meta Large Language Model Compiler: Foundation Models of Compiler Optimization.](https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization/) | Two language models that can decompile to LLVM IR and compile code to assembly have been made available by Meta. They received additional training after being trained on 546 billion tokens of superior quality data. They can accomplish 45% round trip disassembly performance and 77% optimized assembling performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,9 +145,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack.](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/) |Using a hybrid method, Slack developers used AI Large Language Models with Abstract Syntax Tree transformations to automate the translation of more than 15,000 unit tests from Enzyme to React Testing Library. The team utilized Anthropic's Claude 2.1 AI model in conjunction with DOM tree capture for React components to achieve an 80% success rate in automatic conversions. This ground-breaking project demonstrates Slack's dedication to using AI to improve developer productivity and experience. It's a part of the continuous attempts to remain ahead of the always changing frontend scene. |
 |[R2R.](https://github.com/SciPhi-AI/R2R) | R2R was designed to bridge the gap between local LLM experimentation and scalable, production-ready Retrieval-Augmented Generation (RAG). R2R provides a comprehensive and SOTA RAG system for developers, built around a RESTful API for ease of use.|
 |[Internist.ai 7b.](https://huggingface.co/internistai/base-7b-v0.2) |Internist.ai 7b is a medical domain large language model trained by medical doctors to demonstrate the benefits of a physician-in-the-loop approach. The training data was carefully curated by medical doctors to ensure clinical relevance and required quality for clinical practice. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Finding GPT-4’s mistakes with GPT-4.](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/) |CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF |
+|[ALPBench: A Benchmark for Active Learning Pipelines on Tabular Data.](https://arxiv.org/abs/2406.17322v1) |A program called ALPBench was created to standardize active learning query benchmarks. |
+|[Introducing AuraSR - An open reproduction of the GigaGAN Upscaler.](https://blog.fal.ai/introducing-aurasr-an-open-reproduction-of-the-gigagan-upscaler-2/) |FAL recently made AuraSR, a high resolution picture upscaler, open-sourced. Even with repeated applications, it may upscale by 4x with just one forward pass. AuraSR performs admirably with created photos. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
