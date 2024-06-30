@@ -37,6 +37,37 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
+# ML news: 
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 # ML news: Week 24 - 30 June
 
 ## Research
@@ -63,20 +94,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text.](https://imlixinyang.github.io/director3d-page/) | A system called Director3D was created to improve camera trajectory modeling and 3D scene production in the real world. Director3D creates lifelike 3D scenes from text descriptions by using a Multi-view Latent Diffusion Model and a Trajectory Diffusion Transformer.|
 |[Prompt Engineering Tool.](https://github.com/teknium1/Prompt-Engineering-Toolkit) |An excellent prompting toolset that helps evaluate the effectiveness of various prompts, nearly completely composed of Sonnet 3.5. |
 |[Meta Large Language Model Compiler: Foundation Models of Compiler Optimization.](https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization/) | Two language models that can decompile to LLVM IR and compile code to assembly have been made available by Meta. They received additional training after being trained on 546 billion tokens of superior quality data. They can accomplish 45% round trip disassembly performance and 77% optimized assembling performance.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -109,15 +126,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Instagram Launching An AI Studio.](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot) |Instagram's "AI Studio" enables developers to create self-aware AI chatbots. In the US, an early test of it is presently underway. |
 |[Dust raises $16m series A.](https://blog.dust.tt/dust-seriesa-sequoia-leading-ai-platform/) |Dust, one of the first modern-day chaining and agency companies, raised more money after surpassing $1 million in annual revenue. |
 |[ElevenLabs launches iOS app that turns ‘any’ text into audio narration with AI.](https://venturebeat.com/ai/elevenlabs-launches-ios-app-that-turns-any-text-into-audio-narration-with-ai/) |"ElevenLabs Reader: AI Audio," the company's debut iOS app, enables users to listen on the go by turning text files or web links into audio narration. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -153,9 +161,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemma 2.](https://www.kaggle.com/models/google/gemma-2) | Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models.|
 |[MatText: Do Language Models Need More than Text & Scale for Materials Modeling?](https://arxiv.org/abs/2406.17295v1) |MatText is a collection of benchmarking tools and datasets intended to assess the effectiveness of language models in the field of materials science. |
 |[mamba2.](https://github.com/okarthikb/state-space-models/blob/main/models/mamba2.py) |A quick implementation of Mamba 2 |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -171,19 +176,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Future of LLM-Based Agents: Making the Boxes Bigger.](https://www.arcus.co/blog/ai-agents-pt-2) |Long-term planning and system-level resilience are two essential strategies that assist move Agents from the playground into the real world, and they are discussed in this post. These introduce the ability to create plans of a higher level for the Agents, allowing for adaptability in the middle of an episode. They also introduce systems techniques to intelligently orchestrate the models, resulting in increased performance and accuracy. |
 |[Apple, Microsoft Shrink AI Models to Improve Them.](https://spectrum.ieee.org/small-language-models-apple-microsoft) | Large language models are becoming less popular as IT companies shift their focus to more efficient small language models (SLMs). Apple and Microsoft have introduced models with far fewer parameters that nonetheless perform comparably or even better in benchmarks. According to the CEO of OpenAI, we're past the LLM era since SLMs have benefits including greater accessibility for smaller entities, local device operation, and potential insights into human language acquisition. Even though SLMs are narrower in scope, their performance is enhanced by training them on high-quality, or "textbook-quality" data.|
 |[Are Tech-Enabled Vertical Roll-Ups the Future or the Past?.](https://www.tidemarkcap.com/post/are-tech-enabled-vertical-roll-ups-the-future-or-the-past) | The ability to generate excess cash flows through operational efficiencies is a prerequisite for roll-up methods. It's possible that the development of AI offers a new lever that fully unlocks the rollup strategy. Are rollups for SMBs and verticals the future? Two different perspectives on this issue are presented in this post.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: 16 - 23  June
 
