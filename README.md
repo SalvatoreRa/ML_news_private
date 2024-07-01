@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Smudgy chins, weird hands, dodgy numbers: seven signs you’re watching a deepfake.](https://www.theguardian.com/technology/article/2024/jul/01/seven-signs-deepfake-artificial-intelligence-videos-photographs) | Look out for surplus fingers, compare mannerisms with real recordings and apply good old-fashioned common sense and scepticism, experts advise|
 |[.]() | |
 |[.]() | |
 |[.]() | |
