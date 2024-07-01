@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[llama-agents.](https://github.com/run-llama/llama-agents) |llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more! |
 |[Suri: Multi-constraint Instruction Following for Long-form Text Generation.](https://chtmp223.github.io/suri/) |A collection of 20,000 lengthy documents and intricate instructions is called Suri. Its goal is to enhance AI's capacity to adhere to intricate writing requirements. The Suri development team has presented Instructional ORPO (I-ORPO), an alignment technique that provides feedback through artificially damaged instructions. |
 |[Cambrian-1.](https://cambrian-mllm.github.io/) | High-performing, fully open vision model from NYU with significant improvements over text encoders and data mixtures.|
-|[.]() | |
-|[.]() | |
+|[DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability.](https://arxiv.org/abs/2406.19135v1) |A novel expressive text-to-speech (TTS) model called DEX-TTS makes use of reference speech to enhance style representation and model generalization. |
+|[Debugging in PyTorch.](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html) |PyTorch is an excellent modeling tool. Nonetheless, a few prevalent issues have the ability to significantly lower model performance. Examining this list will aid you when debugging your model code. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
