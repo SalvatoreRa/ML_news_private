@@ -45,8 +45,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs.](https://arxiv.org/abs/2406.15319) | claims to achieve 64.3% on HotpotQA (full-wiki), which is on par with the state-of-the-art model. proposes LongRAG, which combines RAG with long-context LLMs to enhance performance; uses a long retriever to significantly reduce the number of extracted units by operating on longer retrieval units; the long reader takes in the long retrieval units and leverages the zero-shot answer extraction capability of long-context LLMs to improve performance of the overall system. |
 |[From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data.](https://arxiv.org/abs/2406.19292) |suggests a fine-tuning strategy to increase the precision of information retrieval in LLMs while preserving reasoning abilities over long-context inputs; the fine-tuning dataset consists of 350 sample numerical dictionary key-value retrieval tasks; results show that this strategy reduces the "lost-in-the-middle" effect and enhances performance on both long-context reasoning and information retrieval. |
 |[GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models.](https://arxiv.org/abs/2406.14550v1) |enhances the long-context capabilities of LLMs by proposing a graph-based agent system that organizes long text into a graph and uses an agent to explore the graph (using predefined functions guided by a step-by-step rational plan) to efficiently generate answers to questions; consistently outperforms GPT-4-128k across context lengths ranging from 16k to 256k. |
-|[.]() | |
-|[.]() | |
+|[Following Length Constraints in Instructions.](https://arxiv.org/abs/2406.17744) |explains a method for addressing length bias and training language models that adhere to length constraints more closely; it refines a model using DPO using a dataset that has been augmented with length instructions and demonstrates fewer length constraint violations while maintaining a high response quality. |
+|[Adam-mini: Use Fewer Learning Rates To Gain More.](https://arxiv.org/abs/2406.16793) | a new optimizer that carefully divides parameters into blocks and assigns a single high-quality learning that outperforms Adam; it achieves consistent results on language models sized from 125M -7B for pre-training, SFT, and RLHF. It uses fewer learning rates, which results in a 45%–50% reduction in memory footprint while still performing on par or even better than AdamW.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees.](https://arxiv.org/abs/2406.16858) |improves the long-context capabilities of LLMs by putting forth a graph-based agent system that efficiently generates answers to questions by organizing long text into a graph and employing an agent to explore the graph (using predefined functions guided by a step-by-step reasonable plan); surpasses GPT-4-128k with consistency in context lengths between 16k and 256k. |
-|[.]() | |
+|[On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey.](https://arxiv.org/abs/2406.15126) |survey on LLM-based synthetic data generation, curation, and evaluation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
