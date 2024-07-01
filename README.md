@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[An Update to Adept.](https://www.adept.ai/blog/adept-update) |The founders of Adept are heading to Amazon to license some of their technology. |
+|[Time strikes a deal to funnel 101 years of journalism into OpenAI's gaping maw.](https://www.engadget.com/time-strikes-a-deal-to-funnel-101-years-of-journalism-into-openais-gaping-maw-144058426.html) | Time has joined a growing number of publications to sign a licensing deal with OpenAI. The ChatGPT creator will legally be able to train its large language models on 101 years worth of the storied publication's journalism, as Axios first reported.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
