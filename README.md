@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees.](https://arxiv.org/abs/2406.16858) |improves the long-context capabilities of LLMs by putting forth a graph-based agent system that efficiently generates answers to questions by organizing long text into a graph and employing an agent to explore the graph (using predefined functions guided by a step-by-step reasonable plan); surpasses GPT-4-128k with consistency in context lengths between 16k and 256k. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
