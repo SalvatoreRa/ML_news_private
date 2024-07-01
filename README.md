@@ -95,10 +95,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees.](https://arxiv.org/abs/2406.16858) |improves the long-context capabilities of LLMs by putting forth a graph-based agent system that efficiently generates answers to questions by organizing long text into a graph and employing an agent to explore the graph (using predefined functions guided by a step-by-step reasonable plan); surpasses GPT-4-128k with consistency in context lengths between 16k and 256k. |
 |[On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey.](https://arxiv.org/abs/2406.15126) |survey on LLM-based synthetic data generation, curation, and evaluation. |
 |[Text2Bricks: Fine-tuning Open-Sora in 1,000 GPU Hours.](https://wandb.ai/lambdalabs/lego/reports/Text2Bricks-Fine-tuning-Open-Sora-in-1-000-GPU-Hours--Vmlldzo4MDE3MTky) | Lambda Labs trained the Open Sora video model on its 1-click cluster to create Lego movies.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Laplace Neural Operator.](https://github.com/qianyingcao/Laplace-Neural-Operator) |One architecture for approximating PDEs that is based on neural networks is the Laplace operator. |
+|[llama-agents.](https://github.com/run-llama/llama-agents) |llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more! |
+|[Suri: Multi-constraint Instruction Following for Long-form Text Generation.](https://chtmp223.github.io/suri/) |A collection of 20,000 lengthy documents and intricate instructions is called Suri. Its goal is to enhance AI's capacity to adhere to intricate writing requirements. The Suri development team has presented Instructional ORPO (I-ORPO), an alignment technique that provides feedback through artificially damaged instructions. |
+|[Cambrian-1.](https://cambrian-mllm.github.io/) | High-performing, fully open vision model from NYU with significant improvements over text encoders and data mixtures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
