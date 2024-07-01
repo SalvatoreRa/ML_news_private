@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models.](https://arxiv.org/abs/2406.14550v1) |enhances the long-context capabilities of LLMs by proposing a graph-based agent system that organizes long text into a graph and uses an agent to explore the graph (using predefined functions guided by a step-by-step rational plan) to efficiently generate answers to questions; consistently outperforms GPT-4-128k across context lengths ranging from 16k to 256k. |
 |[Following Length Constraints in Instructions.](https://arxiv.org/abs/2406.17744) |explains a method for addressing length bias and training language models that adhere to length constraints more closely; it refines a model using DPO using a dataset that has been augmented with length instructions and demonstrates fewer length constraint violations while maintaining a high response quality. |
 |[Adam-mini: Use Fewer Learning Rates To Gain More.](https://arxiv.org/abs/2406.16793) | a new optimizer that carefully divides parameters into blocks and assigns a single high-quality learning that outperforms Adam; it achieves consistent results on language models sized from 125M -7B for pre-training, SFT, and RLHF. It uses fewer learning rates, which results in a 45%–50% reduction in memory footprint while still performing on par or even better than AdamW.|
-|[.]() | |
+|[MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data.](https://arxiv.org/abs/2406.18790) |generative image model with better performance than pure text conditioned models due to its ability to interleave text and images. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
