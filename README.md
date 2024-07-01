@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cambrian-1.](https://cambrian-mllm.github.io/) | High-performing, fully open vision model from NYU with significant improvements over text encoders and data mixtures.|
 |[DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability.](https://arxiv.org/abs/2406.19135v1) |A novel expressive text-to-speech (TTS) model called DEX-TTS makes use of reference speech to enhance style representation and model generalization. |
 |[Debugging in PyTorch.](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html) |PyTorch is an excellent modeling tool. Nonetheless, a few prevalent issues have the ability to significantly lower model performance. Examining this list will aid you when debugging your model code. |
-|[.]() | |
+|[vision-agent.](https://github.com/landing-ai/vision-agent) | Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
