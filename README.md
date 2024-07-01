@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees.](https://arxiv.org/abs/2406.16858) |improves the long-context capabilities of LLMs by putting forth a graph-based agent system that efficiently generates answers to questions by organizing long text into a graph and employing an agent to explore the graph (using predefined functions guided by a step-by-step reasonable plan); surpasses GPT-4-128k with consistency in context lengths between 16k and 256k. |
 |[On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey.](https://arxiv.org/abs/2406.15126) |survey on LLM-based synthetic data generation, curation, and evaluation. |
-|[.]() | |
+|[Text2Bricks: Fine-tuning Open-Sora in 1,000 GPU Hours.](https://wandb.ai/lambdalabs/lego/reports/Text2Bricks-Fine-tuning-Open-Sora-in-1-000-GPU-Hours--Vmlldzo4MDE3MTky) | Lambda Labs trained the Open Sora video model on its 1-click cluster to create Lego movies.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Smudgy chins, weird hands, dodgy numbers: seven signs you’re watching a deepfake.](https://www.theguardian.com/technology/article/2024/jul/01/seven-signs-deepfake-artificial-intelligence-videos-photographs) | Look out for surplus fingers, compare mannerisms with real recordings and apply good old-fashioned common sense and scepticism, experts advise|
-|[.]() | |
+|[Training MoEs at Scale with PyTorch.](https://pytorch.org/blog/training-moes/) |In order to write about scaling their MoE models to thousands of GPUs, the Mosaic team has teamed up with PyTorch. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
