@@ -69,7 +69,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[An Update to Adept.](https://www.adept.ai/blog/adept-update) |The founders of Adept are heading to Amazon to license some of their technology. |
 |[Time strikes a deal to funnel 101 years of journalism into OpenAI's gaping maw.](https://www.engadget.com/time-strikes-a-deal-to-funnel-101-years-of-journalism-into-openais-gaping-maw-144058426.html) | Time has joined a growing number of publications to sign a licensing deal with OpenAI. The ChatGPT creator will legally be able to train its large language models on 101 years worth of the storied publication's journalism, as Axios first reported.|
-|[.]() | |
+|[Amazon Investigates Perplexity AI Over Potential Data-Scraping Violations.](https://www.pcmag.com/news/amazon-investigates-perplexity-ai-over-potential-data-scraping-violations) | Amazon Web Services is looking into whether Perplexity is breaking its rules after Wired said the AI startup is swiping its web archives without consent. Perplexity, however, says it's following the rules.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
