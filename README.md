@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Smudgy chins, weird hands, dodgy numbers: seven signs you’re watching a deepfake.](https://www.theguardian.com/technology/article/2024/jul/01/seven-signs-deepfake-artificial-intelligence-videos-photographs) | Look out for surplus fingers, compare mannerisms with real recordings and apply good old-fashioned common sense and scepticism, experts advise|
 |[Training MoEs at Scale with PyTorch.](https://pytorch.org/blog/training-moes/) |In order to write about scaling their MoE models to thousands of GPUs, the Mosaic team has teamed up with PyTorch. |
-|[.]() | |
+|[Investing in the Age of Generative AI.](https://eastwind.substack.com/p/investing-in-the-age-of-generative) |Though there is currently a "euphoria" surrounding investment, the generative AI business is already showing signs of fragility. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
