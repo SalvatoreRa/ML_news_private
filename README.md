@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Following Length Constraints in Instructions.](https://arxiv.org/abs/2406.17744) |explains a method for addressing length bias and training language models that adhere to length constraints more closely; it refines a model using DPO using a dataset that has been augmented with length instructions and demonstrates fewer length constraint violations while maintaining a high response quality. |
 |[Adam-mini: Use Fewer Learning Rates To Gain More.](https://arxiv.org/abs/2406.16793) | a new optimizer that carefully divides parameters into blocks and assigns a single high-quality learning that outperforms Adam; it achieves consistent results on language models sized from 125M -7B for pre-training, SFT, and RLHF. It uses fewer learning rates, which results in a 45%–50% reduction in memory footprint while still performing on par or even better than AdamW.|
 |[MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data.](https://arxiv.org/abs/2406.18790) |generative image model with better performance than pure text conditioned models due to its ability to interleave text and images. |
-|[.]() | |
+|[Scaling Synthetic Data Creation with 1,000,000,000 Personas.](https://arxiv.org/abs/2406.20094) |By treating web text as originating from a persona, this approach can significantly enhance job performance downstream by conditioning on that persona. The researchers find a jump of 20% points on MATH. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta accused of breaking EU digital law by charging for ad-free social networks.](https://www.theguardian.com/technology/article/2024/jul/01/meta-facebook-instagram-eu-digital-markets-act) |European Commission objects to ‘pay or consent’ model for users of Facebook and Instagram |
 |[Microsoft’s Mustafa Suleyman says he loves Sam Altman, believes he’s sincere about AI safety.](https://techcrunch.com/2024/06/25/microsofts-mustafa-suleyman-says-he-loves-sam-altman-believes-hes-sincere-about-ai-safety/) |In an interview at the Aspen Ideas Festival on Tuesday, Mustafa Suleyman, CEO of Microsoft AI, made it very clear that he admires OpenAI CEO Sam Altman. |
 |[When the Terms of Service Change to Make Way for A.I. Training.](https://www.nytimes.com/2024/06/26/technology/terms-service-ai-training.html) | As they negotiate a complicated web of privacy regulations and user consent, tech giants like Google and Meta are revising their privacy rules to allow the use of public and potentially private user data to train AI systems. There have been backlash since consumers and content creators are afraid that their work will be used to train AI that may eventually replace them. The conflicts draw attention to new issues in data privacy, AI development, and striking a balance between innovation and morality in the IT sector.|
-|[.]() | |
+|[Meet Figma AI.](https://www.figma.com/blog/introducing-figma-ai) |Designers may get assistance with tasks like visual search, asset search, text editing, image editing, prototyping, layer renaming, and design generation with Figma AI, a new suite of AI-powered capabilities for Figma. During the beta phase, these features—which are driven by AI models from third parties—are free to use. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
