@@ -104,9 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[vision-agent.](https://github.com/landing-ai/vision-agent) | Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task.|
 |[What to do to scale up?](https://cloneofsimo.notion.site/What-to-do-to-scale-up-09e469d7c3444d6a90305397c38a46f5) | An amazing and surprisingly understandable post about fine-tuning hyperparameters as model and dataset sizes increase.|
 |[Web2Code.](https://mbzuai-llm.github.io/webpage2code/) | A novel procedure that researchers have created will enhance Web2Code instruction tweaking. It entails generating new text question-answer pairs, generating new webpage image-code pairs, improving webpage understanding data, and developing new webpage code generation pairs.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Block Transformer: Global-to-Local Language Modeling for Fast Inference.](https://github.com/itsnamgyu/block-transformer) | This repository presents a brand-new Transformer type with a significantly smaller KV cache size. Although it hasn't been tested in large quantities, it should be able to perform on par with typical Transformers.|
+|[Composio.](https://github.com/ComposioHQ/composio) | Equip your agent with high-quality tools & integrations without worrying about authentication, accuracy, and reliability in a single line of code!|
+|[Segment Anything without Supervision.](https://github.com/frank-xwang/unsam) |Unsupervised SAM (UnSAM) is a 'segment anything' model for promptable and automatic whole-image segmentation which does not require human annotations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
