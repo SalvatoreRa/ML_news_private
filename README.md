@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adam-mini: Use Fewer Learning Rates To Gain More.](https://arxiv.org/abs/2406.16793) | a new optimizer that carefully divides parameters into blocks and assigns a single high-quality learning that outperforms Adam; it achieves consistent results on language models sized from 125M -7B for pre-training, SFT, and RLHF. It uses fewer learning rates, which results in a 45%–50% reduction in memory footprint while still performing on par or even better than AdamW.|
 |[MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data.](https://arxiv.org/abs/2406.18790) |generative image model with better performance than pure text conditioned models due to its ability to interleave text and images. |
 |[Scaling Synthetic Data Creation with 1,000,000,000 Personas.](https://arxiv.org/abs/2406.20094) |By treating web text as originating from a persona, this approach can significantly enhance job performance downstream by conditioning on that persona. The researchers find a jump of 20% points on MATH. |
-|[.]() | |
+|[Odd-One-Out: Anomaly Detection by Comparing with Neighbors.](https://arxiv.org/abs/2406.20099v1) | A novel anomaly detection challenge has been presented by researchers that focuses on things that appear unusual in comparison to other objects in the scene. In contrast to conventional techniques, anomalies in this case are distinctive to the scene and can be determined from several angles.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,6 +107,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Block Transformer: Global-to-Local Language Modeling for Fast Inference.](https://github.com/itsnamgyu/block-transformer) | This repository presents a brand-new Transformer type with a significantly smaller KV cache size. Although it hasn't been tested in large quantities, it should be able to perform on par with typical Transformers.|
 |[Composio.](https://github.com/ComposioHQ/composio) | Equip your agent with high-quality tools & integrations without worrying about authentication, accuracy, and reliability in a single line of code!|
 |[Segment Anything without Supervision.](https://github.com/frank-xwang/unsam) |Unsupervised SAM (UnSAM) is a 'segment anything' model for promptable and automatic whole-image segmentation which does not require human annotations. |
+|[Following Length Constraints in Instructions.](https://github.com/facebookresearch/RAM/tree/main/projects/length_instruct) | Most models don't adhere to length specifications (less than 40 words, for example). This piece demonstrates how to tune them to do that.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,8 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Investing in the Age of Generative AI.](https://eastwind.substack.com/p/investing-in-the-age-of-generative) |Though there is currently a "euphoria" surrounding investment, the generative AI business is already showing signs of fragility. |
 |[Can AI boom drive Nvidia to a $4tn valuation despite investor doubt?](https://www.theguardian.com/technology/article/2024/jul/02/can-ai-boom-drive-nvidia-to-a-4tn-valuation-despite-investor-doubt) |Powerful new chips are on the way but there are questions over whether tech firm’s growth can be sustained |
 |[AI scaling myths.](https://www.aisnakeoil.com/p/ai-scaling-myths) |It is improbable that LLMs will ever be able to achieve AGI through scaling on its own. Although scaling has been found to improve model capabilities, it largely improves confusion instead of emergent skills. Getting hold of high-quality training data is getting harder and harder. |
-|[.]() | |
-|[.]() | |
+|[A discussion of discussions on AI bias.](https://danluu.com/ai-bias/) | The nature of AI bias has come under more scrutiny, with detractors claiming that biases in machine learning are demonstrated by the way models like as Playground AI occasionally change a user's ethnicity in photos. Some users refute this as a flaw or pertinent prejudice, pointing to instances in which Asian traits are overrepresented. The discussion touches on the wider ramifications of AI bias in many businesses. There is no easy answer to this complicated problem.|
+|[The shape of information.](https://kucharski.substack.com/p/the-shape-of-information) |This article describes how to use binary logic to maximize scarce resources. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
