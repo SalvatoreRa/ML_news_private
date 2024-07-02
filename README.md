@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Time strikes a deal to funnel 101 years of journalism into OpenAI's gaping maw.](https://www.engadget.com/time-strikes-a-deal-to-funnel-101-years-of-journalism-into-openais-gaping-maw-144058426.html) | Time has joined a growing number of publications to sign a licensing deal with OpenAI. The ChatGPT creator will legally be able to train its large language models on 101 years worth of the storied publication's journalism, as Axios first reported.|
 |[Amazon Investigates Perplexity AI Over Potential Data-Scraping Violations.](https://www.pcmag.com/news/amazon-investigates-perplexity-ai-over-potential-data-scraping-violations) | Amazon Web Services is looking into whether Perplexity is breaking its rules after Wired said the AI startup is swiping its web archives without consent. Perplexity, however, says it's following the rules.|
 |[Apple could announce a Google Gemini deal this fall .](https://www.theverge.com/2024/6/30/24189262/apple-intelligence-google-gemini-deal-iphone-mac-ipad-openai-chatgpt) | If you’re disappointed that the only AI model that will integrate with Apple devices so far will be ChatGPT, it sounds like you won’t have to wait long for that to change. Apple will announce “at least” one other deal — to add Google Gemini, too — this fall.|
-|[.]() | |
+|[Meta accused of breaking EU digital law by charging for ad-free social networks.](https://www.theguardian.com/technology/article/2024/jul/01/meta-facebook-instagram-eu-digital-markets-act) |European Commission objects to ‘pay or consent’ model for users of Facebook and Instagram |
 |[.]() | |
 |[.]() | |
 |[.]() | |
