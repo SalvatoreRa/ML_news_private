@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s emissions climb nearly 50% in five years due to AI energy demand.](https://www.theguardian.com/technology/article/2024/jul/02/google-ai-emissions) |Tech giant’s goal of reducing climate footprint at risk as it grows increasingly reliant on energy-hungry data centres |
 |[Amazon beefs up AI development, hiring execs from startup Adept and licensing its technology.](https://www.cnbc.com/2024/06/28/amazon-hires-execs-from-ai-startup-adept-and-licenses-its-technology.html) |Amazon has hired top executives from AI agent startup Adept, the company confirmed. As part of the deal, Amazon will license technology from Adept, including some of its AI models and datasets. Amazon has been trying to keep pace with competitors in AI by developing services and through its investment in OpenAI competitor Anthropic.|
 |[YouTube now lets you request removal of AI-generated content that simulates your face or voice.](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/) |YouTube also quietly rolled out a policy change in June that will allow people to request the takedown of AI-generated or other synthetic content that simulates their face or voice. The change allows people to request the removal of this type of AI content under YouTube’s privacy request process.  |
-|[.]() | |
+|[Phil Schiller to join OpenAI board in ‘observer’ role following Apple’s ChatGPT deal.](https://9to5mac.com/2024/07/02/apple-phil-schiller-openai-board-observer/) | At WWDC last month, Apple announced its partnership with OpenAI to integrate ChatGPT into iOS 18. While no money is changing hands between Apple and OpenAI, a new report today reveals that Apple will get an “observer role” on OpenAI’s board of directors as part of the arrangement.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLaRA: Large Language and Robotics Assistant.](https://github.com/lostxine/llara) |LLaRA is a framework that leverages conversation-style instruction-response pairings and Large Language Models (LLMs) to enhance robot action policy. These Vision Language Models (VLMs) use visual inputs to evaluate state data and produce the best possible policy choices. |
 |[MM-Instruct.](https://github.com/jihaonew/mm-instruct) |MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment |
 |[Parable of the Parser.](https://drive.google.com/file/d/1VodGljuEhBKwZIXQwN-ApH6g2wBAVAdK/view) |Great keynote talk from CVPR. |
-|[.]() | |
+|[InstantStyle-Plus : Style Transfer with Content-Preserving in Text-to-Image Generation.](https://instantstyle-plus.github.io/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
