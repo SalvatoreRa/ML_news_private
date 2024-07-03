@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLaRA: Large Language and Robotics Assistant.](https://github.com/lostxine/llara) |LLaRA is a framework that leverages conversation-style instruction-response pairings and Large Language Models (LLMs) to enhance robot action policy. These Vision Language Models (VLMs) use visual inputs to evaluate state data and produce the best possible policy choices. |
 |[MM-Instruct.](https://github.com/jihaonew/mm-instruct) |MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment |
 |[Parable of the Parser.](https://drive.google.com/file/d/1VodGljuEhBKwZIXQwN-ApH6g2wBAVAdK/view) |Great keynote talk from CVPR. |
-|[InstantStyle-Plus : Style Transfer with Content-Preserving in Text-to-Image Generation.](https://instantstyle-plus.github.io/) | |
-|[.]() | |
+|[InstantStyle-Plus : Style Transfer with Content-Preserving in Text-to-Image Generation.](https://instantstyle-plus.github.io/) | Style transfer with modern diffusion models and content embedders.|
+|[RSCaMa: Remote Sensing Image Change Captioning with State Space Model.](https://arxiv.org/abs/2404.18895v1) |A novel technique called RSCaMa has been presented by researchers to use natural language to describe changes in remote sensing photographs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
