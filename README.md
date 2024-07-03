@@ -110,6 +110,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Following Length Constraints in Instructions.](https://github.com/facebookresearch/RAM/tree/main/projects/length_instruct) | Most models don't adhere to length specifications (less than 40 words, for example). This piece demonstrates how to tune them to do that.|
 |[AI Overviews Research: Comparing pre and post-rollout results on 100K keywords.](https://seranking.com/blog/google-ai-overviews-research/) |The prevalence of Google's AI Overviews (AIO) feature, which typically links to the top 10 organic results, has significantly decreased from 64% pre-rollout to just 8.71% of SERPs for 100K keywords. Following the implementation, both the length of AIO material and the quantity of links have grown, demonstrating Google's focus on thorough responses and reliable sources. In this dynamic search environment, where user searches with longer inquiries, lower search volumes, and lower CPC are more likely to result in AI-generated results, SEO techniques must change to stay relevant. |
 |[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen) | Meta has trained both a PBR texture creation system and an advanced 3D object generation model. It generates synthetic data by using the proprietary 2D picture generating model of the company.|
+|[Mutahunter.](https://github.com/codeintegrity-ai/mutahunter) |An open-source, LLM-based mutation testing tool for automated software testing that is independent of language. |
+|[LLaRA: Large Language and Robotics Assistant.](https://github.com/lostxine/llara) |LLaRA is a framework that leverages conversation-style instruction-response pairings and Large Language Models (LLMs) to enhance robot action policy. These Vision Language Models (VLMs) use visual inputs to evaluate state data and produce the best possible policy choices. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
