@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Composio.](https://github.com/ComposioHQ/composio) | Equip your agent with high-quality tools & integrations without worrying about authentication, accuracy, and reliability in a single line of code!|
 |[Segment Anything without Supervision.](https://github.com/frank-xwang/unsam) |Unsupervised SAM (UnSAM) is a 'segment anything' model for promptable and automatic whole-image segmentation which does not require human annotations. |
 |[Following Length Constraints in Instructions.](https://github.com/facebookresearch/RAM/tree/main/projects/length_instruct) | Most models don't adhere to length specifications (less than 40 words, for example). This piece demonstrates how to tune them to do that.|
-|[.]() | |
-|[.]() | |
+|[AI Overviews Research: Comparing pre and post-rollout results on 100K keywords.](https://seranking.com/blog/google-ai-overviews-research/) |The prevalence of Google's AI Overviews (AIO) feature, which typically links to the top 10 organic results, has significantly decreased from 64% pre-rollout to just 8.71% of SERPs for 100K keywords. Following the implementation, both the length of AIO material and the quantity of links have grown, demonstrating Google's focus on thorough responses and reliable sources. In this dynamic search environment, where user searches with longer inquiries, lower search volumes, and lower CPC are more likely to result in AI-generated results, SEO techniques must change to stay relevant. |
+|[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen) | Meta has trained both a PBR texture creation system and an advanced 3D object generation model. It generates synthetic data by using the proprietary 2D picture generating model of the company.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
