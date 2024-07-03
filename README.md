@@ -50,8 +50,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data.](https://arxiv.org/abs/2406.18790) |generative image model with better performance than pure text conditioned models due to its ability to interleave text and images. |
 |[Scaling Synthetic Data Creation with 1,000,000,000 Personas.](https://arxiv.org/abs/2406.20094) |By treating web text as originating from a persona, this approach can significantly enhance job performance downstream by conditioning on that persona. The researchers find a jump of 20% points on MATH. |
 |[Odd-One-Out: Anomaly Detection by Comparing with Neighbors.](https://arxiv.org/abs/2406.20099v1) | A novel anomaly detection challenge has been presented by researchers that focuses on things that appear unusual in comparison to other objects in the scene. In contrast to conventional techniques, anomalies in this case are distinctive to the scene and can be determined from several angles.|
-|[.]() | |
-|[.]() | |
+|[Adaptable Logical Control for Large Language Models.](https://arxiv.org/abs/2406.13892) | This approach enables the control of model generation at inference time, as well as interactive text editing. It achieves strong performance with tiny models and permits logical limitations in the generating process.|
+|[Pairwise Difference Learning for Classification.](https://arxiv.org/abs/2406.20031v1) | Scholars have expanded Pairwise Difference Learning (PDL), which was first developed as a regression method, to include classification tasks. PDL makes predictions about the differences between pairs of instances rather than the outcomes themselves.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
