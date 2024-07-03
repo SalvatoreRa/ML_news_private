@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen) | Meta has trained both a PBR texture creation system and an advanced 3D object generation model. It generates synthetic data by using the proprietary 2D picture generating model of the company.|
 |[Mutahunter.](https://github.com/codeintegrity-ai/mutahunter) |An open-source, LLM-based mutation testing tool for automated software testing that is independent of language. |
 |[LLaRA: Large Language and Robotics Assistant.](https://github.com/lostxine/llara) |LLaRA is a framework that leverages conversation-style instruction-response pairings and Large Language Models (LLMs) to enhance robot action policy. These Vision Language Models (VLMs) use visual inputs to evaluate state data and produce the best possible policy choices. |
-|[.]() | |
-|[.]() | |
+|[MM-Instruct.](https://github.com/jihaonew/mm-instruct) |MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment |
+|[Parable of the Parser.](https://drive.google.com/file/d/1VodGljuEhBKwZIXQwN-ApH6g2wBAVAdK/view) |Great keynote talk from CVPR. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
