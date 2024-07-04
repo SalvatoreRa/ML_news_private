@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Odd-One-Out: Anomaly Detection by Comparing with Neighbors.](https://arxiv.org/abs/2406.20099v1) | A novel anomaly detection challenge has been presented by researchers that focuses on things that appear unusual in comparison to other objects in the scene. In contrast to conventional techniques, anomalies in this case are distinctive to the scene and can be determined from several angles.|
 |[Adaptable Logical Control for Large Language Models.](https://arxiv.org/abs/2406.13892) | This approach enables the control of model generation at inference time, as well as interactive text editing. It achieves strong performance with tiny models and permits logical limitations in the generating process.|
 |[Pairwise Difference Learning for Classification.](https://arxiv.org/abs/2406.20031v1) | Scholars have expanded Pairwise Difference Learning (PDL), which was first developed as a regression method, to include classification tasks. PDL makes predictions about the differences between pairs of instances rather than the outcomes themselves.|
-|[.]() | |
+|[AXIAL.](https://github.com/GabrieleLozupone/AXIAL) |This research improves the explainability of model decisions by putting forth a novel technique for identifying Alzheimer's disease using 3D MRI scans. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,8 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[3D Reconstruction from Blurry Images.](https://arxiv.org/abs/2407.02174v1) |Researchers have created a technique that uses neural radiance fields (NeRF) and event streams to recreate three-dimensional sceneries from a single fuzzy image. This novel method eliminates the requirement for pre-computed camera poses by modeling camera motion and synthesizing brightness changes to produce high-quality, view-consistent images from hazy inputs. |
 |[Agentless.](https://github.com/OpenAutoCoder/Agentless) |Agentless is an agentless approach to automatically solve software development problems. To solve each issue, Agentless follows a simple two phase process: localization and repair. |
 |[MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.](https://hqjiang.com/minference.html) | A novel technique called inference speeds up the processing of lengthy cues in big language models. To get around the considerable delays brought on by conventional approaches, it makes use of sparse computation techniques.|
-|[.]() | |
-|[.]() | |
+|[torch.compile, the missing manual.](https://docs.google.com/document/d/1y5CRfMLdwEoF1nTk9q8qEu1mgMUuUtvhklPKJ2emLU8/edit#heading=h.ivdr7fmrbeab) | Manual for resolving torch.compile errors to make your code run faster.|
+|[facebook/multi-token-prediction.](https://huggingface.co/facebook/multi-token-prediction) |Models for Meta's multi-token prediction model were provided, and they performed incredibly well. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,8 +150,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The shape of information.](https://kucharski.substack.com/p/the-shape-of-information) |This article describes how to use binary logic to maximize scarce resources. |
 |[why we no longer use LangChain for building our AI agents.](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents) |Octomind's codebase and team productivity increased after it eschewed the LangChain framework for AI test automation in favor of more straightforward, modular building parts. It found that the high-level abstractions of LangChain were rigid, making development and maintenance more difficult. Octomind now benefits from a leaner architecture and faster iteration for its AI agent duties as a result of changing strategy. |
 |[The Five Stages Of AI Grief.](https://www.noemamag.com/the-five-stages-of-ai-grief) | Benjamin Bratton, a professor at the University of California, San Diego and director of the Antikythera program at the Berggruen Institute, refers to the global response to artificial intelligence as a "Copernican Trauma," comparing it to historical changes that have reshaped humanity's understanding of itself. Bratton offers the following five stages of "AI grief" to describe how society would react to AI's evolution: from skepticism to integration into our conception of intelligence: denial, rage, bargaining, depression, and acceptance. He contends that rather than being a uniquely human story, the integration of AI represents a larger biological and technological evolutionary process.|
-|[.]() | |
-|[.]() | |
+|[How to win at Enterprise AI — A playbook.](https://medium.com/@sanguit/how-to-win-at-enterprise-ai-a-playbook-4bdd714cf47e) |This AI-focused playbook describes AI adoption methods for enterprises, emphasizing the move from human-performed services to software-driven workflows known as "Service-as-a-software." It explores how these changes may affect business models, including performance-based pricing, and stresses how crucial workflow capture and AI accuracy are to the implementation process's success. The handbook also covers threats such as lateral attacks and emphasizes that in enterprise contexts, AI must show real performance, not simply potential. |
+|[AI is disrupting Customer Support. Salesforce is feeling the pinch[.]()](https://amritaroy.substack.com/p/ai-is-disrupting-customer-support) | Customer support software providers like Salesforce and Zendesk are facing challenges as enterprises redirect their IT spending toward AI proof-of-concept projects. For traditional software suppliers, the increasing integration of solutions such as ChatGPT in customer assistance has resulted in longer payback periods due to higher customer acquisition expenses. The creativity of these businesses and the overall macroeconomic climate will determine how much money is invested in customer support software in the future.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
