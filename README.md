@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia CEO Jensen Huang addresses rising competition at shareholder meeting after historic stock surge.](https://www.cnbc.com/2024/06/26/nvidia-ceo-jensen-huang-speaks-at-first-shareholder-meeting-since-stock-surge.html) |Nvidia CEO Jensen Huang answered questions at the company’s annual shareholder meeting after a more than 200% surge in the stock over the past year. The company passed a $3 trillion valuation and was briefly the most valuable public company. Without naming competitors, Huang laid out the company’s overall strategy to maintain its position.|
 |[Persona’s founders are certain the world can use another humanoid robot.](https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/) |MIT research scientist Jerry Pratt is back at it. In 2022, he left Boardwalk Robotics, a humanoid startup he founded and led, and joined the well-funded ranks of the Bay Area-based robotics firm Figure as its CTO months before it exited stealth. But he and Figure quietly parted ways last month. |
 |[Kyutai unveils today the very first voice-enabled AI openly accessible to all.](https://kyutai.org/cp_moshi.pdf) | A pure audio LLM with low latency has been trained by Kyutai, an open research lab in France. In the upcoming months, the very amazing demo that it has managed to produce will be made available for public use.|
-|[.]() | |
+|[Face screening tool detects stroke in seconds.](https://www.rmit.edu.au/news/all-news/2024/june/stroke-face-screening) |A new smartphone face-screening tool could help paramedics to identify stroke in seconds – much sooner and more accurately than is possible with current technologies. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.](https://hqjiang.com/minference.html) | A novel technique called inference speeds up the processing of lengthy cues in big language models. To get around the considerable delays brought on by conventional approaches, it makes use of sparse computation techniques.|
 |[torch.compile, the missing manual.](https://docs.google.com/document/d/1y5CRfMLdwEoF1nTk9q8qEu1mgMUuUtvhklPKJ2emLU8/edit#heading=h.ivdr7fmrbeab) | Manual for resolving torch.compile errors to make your code run faster.|
 |[facebook/multi-token-prediction.](https://huggingface.co/facebook/multi-token-prediction) |Models for Meta's multi-token prediction model were provided, and they performed incredibly well. |
-|[.]() | |
+|[Maestro - A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents.](https://github.com/Doriandarko/maestro) |This Python script demonstrates an AI-assisted task breakdown and execution workflow using the Anthropic API. It utilizes two AI models, Opus and Haiku, to break down an objective into sub-tasks, execute each sub-task, and refine the results into a cohesive final output.
+
+New: |
 |[.]() | |
 |[.]() | |
 |[.]() | |
