@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Japan introduces enormous humanoid robot to maintain train lines.](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines) | The 12-metre high machine has coke bottle eyes and a crude Wall-E-like head, as well as large arms that can be fitted with blades or paint brushes|
 |[Elon Musk: Grok 2 AI Arrives in August.](https://www.pcmag.com/news/elon-musk-grok-2-ai-arrives-in-august) |Musk says Grok 2 'should exceed current AI on all metrics,' though Grok 3 is waiting in the wings. |
 |[Nvidia CEO Jensen Huang addresses rising competition at shareholder meeting after historic stock surge.](https://www.cnbc.com/2024/06/26/nvidia-ceo-jensen-huang-speaks-at-first-shareholder-meeting-since-stock-surge.html) |Nvidia CEO Jensen Huang answered questions at the company’s annual shareholder meeting after a more than 200% surge in the stock over the past year. The company passed a $3 trillion valuation and was briefly the most valuable public company. Without naming competitors, Huang laid out the company’s overall strategy to maintain its position.|
-|[.]() | |
+|[Persona’s founders are certain the world can use another humanoid robot.](https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/) |MIT research scientist Jerry Pratt is back at it. In 2022, he left Boardwalk Robotics, a humanoid startup he founded and led, and joined the well-funded ranks of the Bay Area-based robotics firm Figure as its CTO months before it exited stealth. But he and Figure quietly parted ways last month. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
