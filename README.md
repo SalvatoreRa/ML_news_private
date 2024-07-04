@@ -80,6 +80,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YouTube now lets you request removal of AI-generated content that simulates your face or voice.](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/) |YouTube also quietly rolled out a policy change in June that will allow people to request the takedown of AI-generated or other synthetic content that simulates their face or voice. The change allows people to request the removal of this type of AI content under YouTube’s privacy request process.  |
 |[Phil Schiller to join OpenAI board in ‘observer’ role following Apple’s ChatGPT deal.](https://9to5mac.com/2024/07/02/apple-phil-schiller-openai-board-observer/) | At WWDC last month, Apple announced its partnership with OpenAI to integrate ChatGPT into iOS 18. While no money is changing hands between Apple and OpenAI, a new report today reveals that Apple will get an “observer role” on OpenAI’s board of directors as part of the arrangement.|
 |[Japan introduces enormous humanoid robot to maintain train lines.](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines) | The 12-metre high machine has coke bottle eyes and a crude Wall-E-like head, as well as large arms that can be fitted with blades or paint brushes|
+|[Elon Musk: Grok 2 AI Arrives in August.](https://www.pcmag.com/news/elon-musk-grok-2-ai-arrives-in-august) |Musk says Grok 2 'should exceed current AI on all metrics,' though Grok 3 is waiting in the wings. |
+|[Nvidia CEO Jensen Huang addresses rising competition at shareholder meeting after historic stock surge.](https://www.cnbc.com/2024/06/26/nvidia-ceo-jensen-huang-speaks-at-first-shareholder-meeting-since-stock-surge.html) |Nvidia CEO Jensen Huang answered questions at the company’s annual shareholder meeting after a more than 200% surge in the stock over the past year. The company passed a $3 trillion valuation and was briefly the most valuable public company. Without naming competitors, Huang laid out the company’s overall strategy to maintain its position.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
