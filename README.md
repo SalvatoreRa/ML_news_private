@@ -125,6 +125,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RSCaMa: Remote Sensing Image Change Captioning with State Space Model.](https://arxiv.org/abs/2404.18895v1) |A novel technique called RSCaMa has been presented by researchers to use natural language to describe changes in remote sensing photographs. |
 |[Simple Diffusion Language Models.](https://www.youtube.com/watch?v=WjAUX23vgfg&ab_channel=SashaRush%F0%9F%A4%97) |Excellent talk about utilizing diffusion as a target for language modeling by Hugging Face researcher and Cornell Tech professor Sasha Rush. |
 |[3D Reconstruction from Blurry Images.](https://arxiv.org/abs/2407.02174v1) |Researchers have created a technique that uses neural radiance fields (NeRF) and event streams to recreate three-dimensional sceneries from a single fuzzy image. This novel method eliminates the requirement for pre-computed camera poses by modeling camera motion and synthesizing brightness changes to produce high-quality, view-consistent images from hazy inputs. |
+|[Agentless.](https://github.com/OpenAutoCoder/Agentless) |Agentless is an agentless approach to automatically solve software development problems. To solve each issue, Agentless follows a simple two phase process: localization and repair. |
+|[MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.](https://hqjiang.com/minference.html) | A novel technique called inference speeds up the processing of lengthy cues in big language models. To get around the considerable delays brought on by conventional approaches, it makes use of sparse computation techniques.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
