@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk: Grok 2 AI Arrives in August.](https://www.pcmag.com/news/elon-musk-grok-2-ai-arrives-in-august) |Musk says Grok 2 'should exceed current AI on all metrics,' though Grok 3 is waiting in the wings. |
 |[Nvidia CEO Jensen Huang addresses rising competition at shareholder meeting after historic stock surge.](https://www.cnbc.com/2024/06/26/nvidia-ceo-jensen-huang-speaks-at-first-shareholder-meeting-since-stock-surge.html) |Nvidia CEO Jensen Huang answered questions at the company’s annual shareholder meeting after a more than 200% surge in the stock over the past year. The company passed a $3 trillion valuation and was briefly the most valuable public company. Without naming competitors, Huang laid out the company’s overall strategy to maintain its position.|
 |[Persona’s founders are certain the world can use another humanoid robot.](https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/) |MIT research scientist Jerry Pratt is back at it. In 2022, he left Boardwalk Robotics, a humanoid startup he founded and led, and joined the well-funded ranks of the Bay Area-based robotics firm Figure as its CTO months before it exited stealth. But he and Figure quietly parted ways last month. |
-|[.]() | |
+|[Kyutai unveils today the very first voice-enabled AI openly accessible to all.](https://kyutai.org/cp_moshi.pdf) | A pure audio LLM with low latency has been trained by Kyutai, an open research lab in France. In the upcoming months, the very amazing demo that it has managed to produce will be made available for public use.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Parable of the Parser.](https://drive.google.com/file/d/1VodGljuEhBKwZIXQwN-ApH6g2wBAVAdK/view) |Great keynote talk from CVPR. |
 |[InstantStyle-Plus : Style Transfer with Content-Preserving in Text-to-Image Generation.](https://instantstyle-plus.github.io/) | Style transfer with modern diffusion models and content embedders.|
 |[RSCaMa: Remote Sensing Image Change Captioning with State Space Model.](https://arxiv.org/abs/2404.18895v1) |A novel technique called RSCaMa has been presented by researchers to use natural language to describe changes in remote sensing photographs. |
-|[.]() | |
+|[Simple Diffusion Language Models.](https://www.youtube.com/watch?v=WjAUX23vgfg&ab_channel=SashaRush%F0%9F%A4%97) |Excellent talk about utilizing diffusion as a target for language modeling by Hugging Face researcher and Cornell Tech professor Sasha Rush. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
