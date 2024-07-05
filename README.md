@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Face screening tool detects stroke in seconds.](https://www.rmit.edu.au/news/all-news/2024/june/stroke-face-screening) |A new smartphone face-screening tool could help paramedics to identify stroke in seconds – much sooner and more accurately than is possible with current technologies. |
 |[This is Big Tech’s playbook for swallowing the AI industry.](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection) |With Amazon’s hiring of the team behind a buzzy AI startup, a pattern is emerging: the reverse acquihire. |
 |[Intel shows off first fully integrated optical compute interconnect, designed to scale up AI workloads.](https://siliconangle.com/2024/06/26/intel-shows-off-first-fully-integrated-optical-compute-interconnect-designed-scale-ai-workloads/) |Intel Corp. said today it has achieved another key milestone as it strives to make integrated photonics technology for high-speed data transfers a reality. |
-|[.]() | |
+|[OpenAI’s ChatGPT Mac app was storing conversations in plain text.](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text?utm_source=tldrai) | After the security flaw was spotted, OpenAI updated its desktop ChatGPT app to encrypt the locally stored records.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
