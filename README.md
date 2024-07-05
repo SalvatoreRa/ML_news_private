@@ -135,9 +135,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CELLO: Causal Evaluation of Large Vision-Language Models.](https://arxiv.org/abs/2406.19131v1) | With 14,094 causal questions, CELLO is a new dataset designed to help AI understand causality beyond common sense thinking.|
 |[OpenStreetView-5M.](https://github.com/gastruc/osv5m) | With more than 5 million geotagged street photos from 225 countries, OpenStreetView-5M is a sizable open-access dataset aimed at evaluating computer vision techniques for picture localization.|
 |[PTQ4SAM: Post-Training Quantization for Segment Anything .](https://github.com/chengtao-lv/ptq4sam) | A new framework called PTQ4SAM was created to lessen the memory and processing requirements of the large-scale Segment Anything Model (SAM).|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Boosting Smartphone Camera Clarity.](https://github.com/cszhilu1998/selfdzsr_plusplus) |In this study, a self-supervised learning model that enhances reference-based super-resolution (RefSR) is used to present a technique for improving smartphone image resolution. |
+|[An Investigation of Incorporating Mamba for Speech Enhancement.](https://arxiv.org/abs/2405.06573v1) | SEMamba is a novel speech enhancement system that enhances voice signal clarity by utilizing the Mamba state-space model.|
+|[Florence 2 on WebGPU.](https://github.com/xenova/transformers.js/tree/v3/examples/florence2-webgpu) | The tiny vision model is fully functional within the onnx and WebGPU-based browser.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
