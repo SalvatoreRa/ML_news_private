@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boosting Smartphone Camera Clarity.](https://github.com/cszhilu1998/selfdzsr_plusplus) |In this study, a self-supervised learning model that enhances reference-based super-resolution (RefSR) is used to present a technique for improving smartphone image resolution. |
 |[An Investigation of Incorporating Mamba for Speech Enhancement.](https://arxiv.org/abs/2405.06573v1) | SEMamba is a novel speech enhancement system that enhances voice signal clarity by utilizing the Mamba state-space model.|
 |[Florence 2 on WebGPU.](https://github.com/xenova/transformers.js/tree/v3/examples/florence2-webgpu) | The tiny vision model is fully functional within the onnx and WebGPU-based browser.|
-|[.]() | |
+|[FlexiFilm: Long Video Generation with Flexible Conditions.](https://y-ichen.github.io/FlexiFilm-Page/) |A diffusion model called FlexiFilm was created expressly to produce long videos—more than 30 seconds—with excellent quality and consistency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
