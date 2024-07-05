@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[This is Big Tech’s playbook for swallowing the AI industry.](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection) |With Amazon’s hiring of the team behind a buzzy AI startup, a pattern is emerging: the reverse acquihire. |
 |[Intel shows off first fully integrated optical compute interconnect, designed to scale up AI workloads.](https://siliconangle.com/2024/06/26/intel-shows-off-first-fully-integrated-optical-compute-interconnect-designed-scale-ai-workloads/) |Intel Corp. said today it has achieved another key milestone as it strives to make integrated photonics technology for high-speed data transfers a reality. |
 |[OpenAI’s ChatGPT Mac app was storing conversations in plain text.](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text?utm_source=tldrai) | After the security flaw was spotted, OpenAI updated its desktop ChatGPT app to encrypt the locally stored records.|
-|[.]() | |
+|[Jeff Bezos to sell $5bn of Amazon shares after stock hits record high.](https://www.theguardian.com/technology/article/2024/jul/03/jeff-bezos-sell-amazon-shares) | Proposed sale of 25m shares disclosed in notice on Tuesday after stock hit all-time high of $200.43 during session|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -162,7 +162,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inside the maths that drives AI.](https://www.nature.com/articles/d41586-024-02185-z) | Loss functions measure algorithmic errors in artificial-intelligence models, but there’s more than one way to do that. Here’s why the right function is so important.|
 |[‘The disruption is already happening!’ Is AI about to ruin your favourite TV show?](https://www.theguardian.com/tv-and-radio/article/2024/jul/05/the-disruption-is-already-happening-is-ai-about-to-ruin-your-favourite-tv-show) |It won’t be long till everything from Drag Race to Keeping Up With the Kardashians could be written without humans – and you might be able to write yourself as the hero of a new show. But will robot TV ever be up to snuff? |
 |[Can the climate survive the insatiable energy demands of the AI arms race?](https://www.theguardian.com/business/article/2024/jul/04/can-the-climate-survive-the-insatiable-energy-demands-of-the-ai-arms-race) |New computing infrastructure means big tech is likely to miss emissions targets but they can’t afford to get left behind in a winner takes all market |
-|[.]() | |
+|[Our attitudes towards AI reveal how we really feel about human intelligence.](https://www.theguardian.com/technology/article/2024/jul/03/ai-human-intelligence) |We’re in the untenable position of regarding the AI as alien because we’re already in the position of alienating each other |
 |[.]() | |
 |[.]() | |
 |[.]() | |
