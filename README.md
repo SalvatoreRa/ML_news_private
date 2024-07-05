@@ -85,8 +85,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Persona’s founders are certain the world can use another humanoid robot.](https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/) |MIT research scientist Jerry Pratt is back at it. In 2022, he left Boardwalk Robotics, a humanoid startup he founded and led, and joined the well-funded ranks of the Bay Area-based robotics firm Figure as its CTO months before it exited stealth. But he and Figure quietly parted ways last month. |
 |[Kyutai unveils today the very first voice-enabled AI openly accessible to all.](https://kyutai.org/cp_moshi.pdf) | A pure audio LLM with low latency has been trained by Kyutai, an open research lab in France. In the upcoming months, the very amazing demo that it has managed to produce will be made available for public use.|
 |[Face screening tool detects stroke in seconds.](https://www.rmit.edu.au/news/all-news/2024/june/stroke-face-screening) |A new smartphone face-screening tool could help paramedics to identify stroke in seconds – much sooner and more accurately than is possible with current technologies. |
-|[.]() | |
-|[.]() | |
+|[This is Big Tech’s playbook for swallowing the AI industry.](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection) |With Amazon’s hiring of the team behind a buzzy AI startup, a pattern is emerging: the reverse acquihire. |
+|[Intel shows off first fully integrated optical compute interconnect, designed to scale up AI workloads.](https://siliconangle.com/2024/06/26/intel-shows-off-first-fully-integrated-optical-compute-interconnect-designed-scale-ai-workloads/) |Intel Corp. said today it has achieved another key milestone as it strives to make integrated photonics technology for high-speed data transfers a reality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
