@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adaptable Logical Control for Large Language Models.](https://arxiv.org/abs/2406.13892) | This approach enables the control of model generation at inference time, as well as interactive text editing. It achieves strong performance with tiny models and permits logical limitations in the generating process.|
 |[Pairwise Difference Learning for Classification.](https://arxiv.org/abs/2406.20031v1) | Scholars have expanded Pairwise Difference Learning (PDL), which was first developed as a regression method, to include classification tasks. PDL makes predictions about the differences between pairs of instances rather than the outcomes themselves.|
 |[AXIAL.](https://github.com/GabrieleLozupone/AXIAL) |This research improves the explainability of model decisions by putting forth a novel technique for identifying Alzheimer's disease using 3D MRI scans. |
-|[.]() | |
+|[Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization.](https://arxiv.org/abs/2404.15263v1) |A novel technique called Multi-Session SLAM creatively records camera movements throughout multiple disconnected video sequences using a single global frame of reference. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,6 +133,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Magic Insert: Style-Aware Drag-and-Drop.](https://magicinsert.github.io/) |Method from Google to introduce meaningful items into photos with diffusion. Demo and dataset are accessible. |
 |[Discrete Semantic Tokenization for Deep CTR Prediction.](https://arxiv.org/abs/2403.08206v1) | UIST is a unique method that transforms dense embeddings into discrete, compact tokens for user and item representations, therefore significantly improving click-through rate estimates.|
 |[CELLO: Causal Evaluation of Large Vision-Language Models.](https://arxiv.org/abs/2406.19131v1) | With 14,094 causal questions, CELLO is a new dataset designed to help AI understand causality beyond common sense thinking.|
+|[OpenStreetView-5M.](https://github.com/gastruc/osv5m) | With more than 5 million geotagged street photos from 225 countries, OpenStreetView-5M is a sizable open-access dataset aimed at evaluating computer vision techniques for picture localization.|
+|[PTQ4SAM: Post-Training Quantization for Segment Anything .](https://github.com/chengtao-lv/ptq4sam) | A new framework called PTQ4SAM was created to lessen the memory and processing requirements of the large-scale Segment Anything Model (SAM).|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +158,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Five Stages Of AI Grief.](https://www.noemamag.com/the-five-stages-of-ai-grief) | Benjamin Bratton, a professor at the University of California, San Diego and director of the Antikythera program at the Berggruen Institute, refers to the global response to artificial intelligence as a "Copernican Trauma," comparing it to historical changes that have reshaped humanity's understanding of itself. Bratton offers the following five stages of "AI grief" to describe how society would react to AI's evolution: from skepticism to integration into our conception of intelligence: denial, rage, bargaining, depression, and acceptance. He contends that rather than being a uniquely human story, the integration of AI represents a larger biological and technological evolutionary process.|
 |[How to win at Enterprise AI — A playbook.](https://medium.com/@sanguit/how-to-win-at-enterprise-ai-a-playbook-4bdd714cf47e) |This AI-focused playbook describes AI adoption methods for enterprises, emphasizing the move from human-performed services to software-driven workflows known as "Service-as-a-software." It explores how these changes may affect business models, including performance-based pricing, and stresses how crucial workflow capture and AI accuracy are to the implementation process's success. The handbook also covers threats such as lateral attacks and emphasizes that in enterprise contexts, AI must show real performance, not simply potential. |
 |[AI is disrupting Customer Support. Salesforce is feeling the pinch[.]()](https://amritaroy.substack.com/p/ai-is-disrupting-customer-support) | Customer support software providers like Salesforce and Zendesk are facing challenges as enterprises redirect their IT spending toward AI proof-of-concept projects. For traditional software suppliers, the increasing integration of solutions such as ChatGPT in customer assistance has resulted in longer payback periods due to higher customer acquisition expenses. The creativity of these businesses and the overall macroeconomic climate will determine how much money is invested in customer support software in the future.|
-|[.]() | |
+|[Contra Acemoglu on AI.](https://www.maximum-progress.com/p/contra-acemoglu-on-ai) | In contrast to more positive projections, economist Daron Acemoglu's working paper on AI proposes a modest 0.06% annual rise in TFP growth. He identifies four distinct ways that AI affects productivity, but he ignores the development of new labor-intensive goods and the further automation of existing processes, perhaps underestimating the whole economic potential of AI. His method is criticized for being unduly restrictive and for perhaps distorting the wider socioeconomic effects of AI developments.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
