@@ -131,8 +131,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[facebook/multi-token-prediction.](https://huggingface.co/facebook/multi-token-prediction) |Models for Meta's multi-token prediction model were provided, and they performed incredibly well. |
 |[Maestro - A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents.](https://github.com/Doriandarko/maestro) |This Python script demonstrates an AI-assisted task breakdown and execution workflow using the Anthropic API. It utilizes two AI models, Opus and Haiku, to break down an objective into sub-tasks, execute each sub-task, and refine the results into a cohesive final output. |
 |[Magic Insert: Style-Aware Drag-and-Drop.](https://magicinsert.github.io/) |Method from Google to introduce meaningful items into photos with diffusion. Demo and dataset are accessible. |
-|[.]() | |
-|[.]() | |
+|[Discrete Semantic Tokenization for Deep CTR Prediction.](https://arxiv.org/abs/2403.08206v1) | UIST is a unique method that transforms dense embeddings into discrete, compact tokens for user and item representations, therefore significantly improving click-through rate estimates.|
+|[CELLO: Causal Evaluation of Large Vision-Language Models.](https://arxiv.org/abs/2406.19131v1) | With 14,094 causal questions, CELLO is a new dataset designed to help AI understand causality beyond common sense thinking.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
