@@ -129,10 +129,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention.](https://hqjiang.com/minference.html) | A novel technique called inference speeds up the processing of lengthy cues in big language models. To get around the considerable delays brought on by conventional approaches, it makes use of sparse computation techniques.|
 |[torch.compile, the missing manual.](https://docs.google.com/document/d/1y5CRfMLdwEoF1nTk9q8qEu1mgMUuUtvhklPKJ2emLU8/edit#heading=h.ivdr7fmrbeab) | Manual for resolving torch.compile errors to make your code run faster.|
 |[facebook/multi-token-prediction.](https://huggingface.co/facebook/multi-token-prediction) |Models for Meta's multi-token prediction model were provided, and they performed incredibly well. |
-|[Maestro - A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents.](https://github.com/Doriandarko/maestro) |This Python script demonstrates an AI-assisted task breakdown and execution workflow using the Anthropic API. It utilizes two AI models, Opus and Haiku, to break down an objective into sub-tasks, execute each sub-task, and refine the results into a cohesive final output.
-
-New: |
-|[.]() | |
+|[Maestro - A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents.](https://github.com/Doriandarko/maestro) |This Python script demonstrates an AI-assisted task breakdown and execution workflow using the Anthropic API. It utilizes two AI models, Opus and Haiku, to break down an objective into sub-tasks, execute each sub-task, and refine the results into a cohesive final output. |
+|[Magic Insert: Style-Aware Drag-and-Drop.](https://magicinsert.github.io/) |Method from Google to introduce meaningful items into photos with diffusion. Demo and dataset are accessible. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
