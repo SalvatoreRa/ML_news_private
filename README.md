@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Intel shows off first fully integrated optical compute interconnect, designed to scale up AI workloads.](https://siliconangle.com/2024/06/26/intel-shows-off-first-fully-integrated-optical-compute-interconnect-designed-scale-ai-workloads/) |Intel Corp. said today it has achieved another key milestone as it strives to make integrated photonics technology for high-speed data transfers a reality. |
 |[OpenAI’s ChatGPT Mac app was storing conversations in plain text.](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text?utm_source=tldrai) | After the security flaw was spotted, OpenAI updated its desktop ChatGPT app to encrypt the locally stored records.|
 |[Jeff Bezos to sell $5bn of Amazon shares after stock hits record high.](https://www.theguardian.com/technology/article/2024/jul/03/jeff-bezos-sell-amazon-shares) | Proposed sale of 25m shares disclosed in notice on Tuesday after stock hit all-time high of $200.43 during session|
-|[.]() | |
+|[Wimbledon employs AI to protect players from online abuse.](https://www.theguardian.com/sport/article/2024/jul/05/wimbledon-tennis-ai-artificial-intelligence-players-online-abuse) |Threat Matrix service monitors social media profiles and flags up death threats, racism and sexist comments |
 |[.]() | |
 |[.]() | |
 |[.]() | |
