@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: Week 1 - 7 July
 
 ## Research
 |Link|description|
@@ -54,16 +54,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pairwise Difference Learning for Classification.](https://arxiv.org/abs/2406.20031v1) | Scholars have expanded Pairwise Difference Learning (PDL), which was first developed as a regression method, to include classification tasks. PDL makes predictions about the differences between pairs of instances rather than the outcomes themselves.|
 |[AXIAL.](https://github.com/GabrieleLozupone/AXIAL) |This research improves the explainability of model decisions by putting forth a novel technique for identifying Alzheimer's disease using 3D MRI scans. |
 |[Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization.](https://arxiv.org/abs/2404.15263v1) |A novel technique called Multi-Session SLAM creatively records camera movements throughout multiple disconnected video sequences using a single global frame of reference. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## News
 |Link|description|
@@ -91,11 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s ChatGPT Mac app was storing conversations in plain text.](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text?utm_source=tldrai) | After the security flaw was spotted, OpenAI updated its desktop ChatGPT app to encrypt the locally stored records.|
 |[Jeff Bezos to sell $5bn of Amazon shares after stock hits record high.](https://www.theguardian.com/technology/article/2024/jul/03/jeff-bezos-sell-amazon-shares) | Proposed sale of 25m shares disclosed in notice on Tuesday after stock hit all-time high of $200.43 during session|
 |[Wimbledon employs AI to protect players from online abuse.](https://www.theguardian.com/sport/article/2024/jul/05/wimbledon-tennis-ai-artificial-intelligence-players-online-abuse) |Threat Matrix service monitors social media profiles and flags up death threats, racism and sexist comments |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -140,10 +126,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[An Investigation of Incorporating Mamba for Speech Enhancement.](https://arxiv.org/abs/2405.06573v1) | SEMamba is a novel speech enhancement system that enhances voice signal clarity by utilizing the Mamba state-space model.|
 |[Florence 2 on WebGPU.](https://github.com/xenova/transformers.js/tree/v3/examples/florence2-webgpu) | The tiny vision model is fully functional within the onnx and WebGPU-based browser.|
 |[FlexiFilm: Long Video Generation with Flexible Conditions.](https://y-ichen.github.io/FlexiFilm-Page/) |A diffusion model called FlexiFilm was created expressly to produce long videos—more than 30 seconds—with excellent quality and consistency. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -164,11 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘The disruption is already happening!’ Is AI about to ruin your favourite TV show?](https://www.theguardian.com/tv-and-radio/article/2024/jul/05/the-disruption-is-already-happening-is-ai-about-to-ruin-your-favourite-tv-show) |It won’t be long till everything from Drag Race to Keeping Up With the Kardashians could be written without humans – and you might be able to write yourself as the hero of a new show. But will robot TV ever be up to snuff? |
 |[Can the climate survive the insatiable energy demands of the AI arms race?](https://www.theguardian.com/business/article/2024/jul/04/can-the-climate-survive-the-insatiable-energy-demands-of-the-ai-arms-race) |New computing infrastructure means big tech is likely to miss emissions targets but they can’t afford to get left behind in a winner takes all market |
 |[Our attitudes towards AI reveal how we really feel about human intelligence.](https://www.theguardian.com/technology/article/2024/jul/03/ai-human-intelligence) |We’re in the untenable position of regarding the AI as alien because we’re already in the position of alienating each other |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 24 - 30 June
 
