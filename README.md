@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction.](https://arxiv.org/abs/2407.02918v1) | A new approach to 3D reconstruction of surgical scenes that does not require SfM has been presented. It overcomes the drawbacks of earlier methods that had trouble with inconsistent photometry and sparse textures.|
 |[FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs.](https://fun-audio-llm.github.io/) |Extremely powerful models for audio understanding and generation were provided by the Tongyi speech team. |
 |[APIGen: Automated Pipeline for Generating Verifiable and Diverse Function-Calling Datasets.](https://arxiv.org/abs/2406.18518) |A dataset with 60K entries is also released to aid in research on function-calling enabled agents. APIGen - presents an automated data generation pipeline to synthesize high-quality datasets for function-calling applications; demonstrates that 7B models trained on curated datasets outperform GPT-4 models and other state-of-the-art models on the Berkeley Function-Calling Benchmark.  |
-|[.]() | |
+|[Searching for Best Practices in Retrieval-Augmented Generation.](https://arxiv.org/abs/2407.01219) |Looking for Best Practices in RAG outlines best practices for creating efficient RAG workflows and suggests performance- and efficiency-focused tactics, such as newly developed multimodal retrieval tools. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
