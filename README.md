@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[A Hacker Stole OpenAI Secrets, Raising Fears That China Could, Too.](https://www.nytimes.com/2024/07/04/technology/openai-hack.html?unlocked_article_code=1.4k0.8GOs.WFzxVAjkpQLt&smid=url-share) |A security breach at the maker of ChatGPT last year revealed internal discussions among researchers and other employees, but not the code behind OpenAI’s systems. |
+|[Figma pulls AI tool after criticism that it ripped off Apple’s design.](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy?utm_source=tldrai) |Figma says it didn’t train the generative AI models it used and blames a ‘bespoke design system.’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
