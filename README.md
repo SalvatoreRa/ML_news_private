@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Hacker Stole OpenAI Secrets, Raising Fears That China Could, Too.](https://www.nytimes.com/2024/07/04/technology/openai-hack.html?unlocked_article_code=1.4k0.8GOs.WFzxVAjkpQLt&smid=url-share) |A security breach at the maker of ChatGPT last year revealed internal discussions among researchers and other employees, but not the code behind OpenAI’s systems. |
 |[Figma pulls AI tool after criticism that it ripped off Apple’s design.](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy) |Figma says it didn’t train the generative AI models it used and blames a ‘bespoke design system.’ |
 |[Hollywood stars’ estates agree to the use of their voices with AI.](https://edition.cnn.com/2024/07/03/tech/elevenlabs-ai-celebrity-voices) | Earlier this week, AI company ElevenLabs said it is bringing digitally produced celebrity voice-overs of deceased actors, including Garland, James Dean and Burt Reynolds, to its newly launched Reader app. The company said the app takes articles, PDF, ePub, newsletters, e-books or any other text on your phone and turns it into voice-overs.|
-|[.]() | |
+|[Smart Paste for context-aware adjustments to pasted code.](https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/) | We present Smart Paste, an internal tool that streamlines the code authoring workflow by automating adjustments to pasted code. We describe key insights from our UX and model preparation efforts, which have led to high performance and successful adoption among Google developers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Real criminals, fake victims: how chatbots are being deployed in the global fight against phone scammers.](https://www.theguardian.com/technology/article/2024/jul/07/ai-chatbots-phone-scams) |New scambaiting AI technology Apate aims to keep scammers on the line while collecting data that could help disrupt their business model |
 |[James Muldoon, Mark Graham and Callum Cant: ‘AI feeds off the work of human beings’.](https://www.theguardian.com/technology/article/2024/jul/06/james-muldoon-mark-graham-callum-cant-ai-artificial-intelligence-human-work-exploitation-fairwork-feeding-machine) | The Fairwork trio talk about their new book on the ‘extraction machine’, exposing the repetitive labour, often in terrible conditions, that big tech is using to create artificial intelligence|
-|[.]() | |
+|[Superintelligence—10 years later.](https://www.humanityredefined.com/p/superintelligence10-years-later) |Ten years after the publication of Nick Bostrom's seminal book "Superintelligence," advances in AI have raised awareness of the potential for AGI and its associated concerns. With 2024 being a turning point toward guaranteeing control and alignment with human values, the AI research community is now giving AI safety serious attention. With AI technologies advancing so quickly, the sector faces concerns related to safety and ethics that were previously thought to be theoretical. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
