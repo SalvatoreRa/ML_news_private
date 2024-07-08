@@ -44,8 +44,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases.](https://arxiv.org/abs/2402.14905) |Comprehensive and fascinating work by Meta that demonstrates how to train tiny models to maximize performance. |
 |[Non-Adversarial Learning: Vector-Quantized Common Latent Space for Multi-Sequence MRI.](https://arxiv.org/abs/2407.02911v1) | Without the need for paired samples, researchers have created a new generative model to enhance MRI image translation between various sequences.|
-|[.]() | |
-|[.]() | |
+|[Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction.](https://arxiv.org/abs/2407.02918v1) | A new approach to 3D reconstruction of surgical scenes that does not require SfM has been presented. It overcomes the drawbacks of earlier methods that had trouble with inconsistent photometry and sparse textures.|
+|[FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs.](https://fun-audio-llm.github.io/) |Extremely powerful models for audio understanding and generation were provided by the Tongyi speech team. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
