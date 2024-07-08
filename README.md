@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hollywood stars’ estates agree to the use of their voices with AI.](https://edition.cnn.com/2024/07/03/tech/elevenlabs-ai-celebrity-voices) | Earlier this week, AI company ElevenLabs said it is bringing digitally produced celebrity voice-overs of deceased actors, including Garland, James Dean and Burt Reynolds, to its newly launched Reader app. The company said the app takes articles, PDF, ePub, newsletters, e-books or any other text on your phone and turns it into voice-overs.|
 |[Smart Paste for context-aware adjustments to pasted code.](https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/) | We present Smart Paste, an internal tool that streamlines the code authoring workflow by automating adjustments to pasted code. We describe key insights from our UX and model preparation efforts, which have led to high performance and successful adoption among Google developers.|
 |[Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers.](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/) | Apple will reportedly use a more advanced SoIC packaging technology for its M5 chips, as part of a two-pronged strategy to meet its growing need for silicon that can power consumer Macs and enhance the performance of its data centers and future AI tools that rely on the cloud.|
-|[.]() | |
+|[Apple Intelligence and a better Siri may be coming to iPhones this spring.](https://www.theverge.com/2024/7/7/24193619/apple-intelligence-better-siri-ios-18-4-spring-public-launch) | Expect Apple’s AI system in iOS 18.4, says a new Bloomberg rumor.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
