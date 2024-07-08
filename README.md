@@ -68,8 +68,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Hacker Stole OpenAI Secrets, Raising Fears That China Could, Too.](https://www.nytimes.com/2024/07/04/technology/openai-hack.html?unlocked_article_code=1.4k0.8GOs.WFzxVAjkpQLt&smid=url-share) |A security breach at the maker of ChatGPT last year revealed internal discussions among researchers and other employees, but not the code behind OpenAI’s systems. |
-|[Figma pulls AI tool after criticism that it ripped off Apple’s design.](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy?utm_source=tldrai) |Figma says it didn’t train the generative AI models it used and blames a ‘bespoke design system.’ |
-|[.]() | |
+|[Figma pulls AI tool after criticism that it ripped off Apple’s design.](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy) |Figma says it didn’t train the generative AI models it used and blames a ‘bespoke design system.’ |
+|[Hollywood stars’ estates agree to the use of their voices with AI.](https://edition.cnn.com/2024/07/03/tech/elevenlabs-ai-celebrity-voices) | Earlier this week, AI company ElevenLabs said it is bringing digitally produced celebrity voice-overs of deceased actors, including Garland, James Dean and Burt Reynolds, to its newly launched Reader app. The company said the app takes articles, PDF, ePub, newsletters, e-books or any other text on your phone and turns it into voice-overs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
