@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[CapPa: Training vision models as captioners.](https://wandb.ai/craiyon/cappa-jax/reports/CapPa-Training-vision-models-as-captioners--Vmlldzo4NDUyNDUz) |Craiyon's trained CapPa vision model achieves state-of-the-art results on several difficult vision benchmarks. |
 |[Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.](https://huggingface.co/Kwai-Kolors/Kolors) |Trained on billions of text-image pairs, Kolors exhibits significant advantages over both open-source and proprietary models in visual quality, complex semantic accuracy, and text rendering for both Chinese and English characters.  |
-|[.]() | |
+|[EGIInet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion.](https://github.com/whu-usi3dv/egiinet) | By means of geometric task guiding, EGIInet successfully combines two modalities to present a novel way to point cloud completion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
