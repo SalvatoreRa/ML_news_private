@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.](https://huggingface.co/Kwai-Kolors/Kolors) |Trained on billions of text-image pairs, Kolors exhibits significant advantages over both open-source and proprietary models in visual quality, complex semantic accuracy, and text rendering for both Chinese and English characters.  |
 |[EGIInet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion.](https://github.com/whu-usi3dv/egiinet) | By means of geometric task guiding, EGIInet successfully combines two modalities to present a novel way to point cloud completion.|
 |[Quality Prompts.](https://github.com/sarthakrastogi/quality-prompts) |QualityPrompts implements 58 prompting techniques explained in this survey from OpenAI, Microsoft, et al. |
-|[.]() | |
-|[.]() | |
+|[Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems.](https://arxiv.org/abs/2407.01370) |Describes a new job, SummHay, to evaluate a model's capacity to process a Haystack and produce a summary that highlights the key insights and references the original documents; finds that RAG components are found to improve performance on the benchmark, making it a feasible choice for holistic RAG evaluation. Long-context LLMs score 20% on the benchmark, which lags the human performance estimate of 56%. |
+|[AI Agents That Matter.](https://arxiv.org/abs/2407.01502) |AI Agents That Matter examines existing agent evaluation procedures and identifies flaws that could prevent practical deployment; it also suggests a framework to prevent overfitting agents and an implementation that simultaneously maximizes accuracy and cost. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
