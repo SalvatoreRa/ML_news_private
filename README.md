@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases.](https://arxiv.org/abs/2402.14905) |Comprehensive and fascinating work by Meta that demonstrates how to train tiny models to maximize performance. |
+|[Non-Adversarial Learning: Vector-Quantized Common Latent Space for Multi-Sequence MRI.](https://arxiv.org/abs/2407.02911v1) | Without the need for paired samples, researchers have created a new generative model to enhance MRI image translation between various sequences.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
