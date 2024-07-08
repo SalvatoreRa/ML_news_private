@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Real criminals, fake victims: how chatbots are being deployed in the global fight against phone scammers.](https://www.theguardian.com/technology/article/2024/jul/07/ai-chatbots-phone-scams) |New scambaiting AI technology Apate aims to keep scammers on the line while collecting data that could help disrupt their business model |
+|[James Muldoon, Mark Graham and Callum Cant: ‘AI feeds off the work of human beings’.](https://www.theguardian.com/technology/article/2024/jul/06/james-muldoon-mark-graham-callum-cant-ai-artificial-intelligence-human-work-exploitation-fairwork-feeding-machine) | The Fairwork trio talk about their new book on the ‘extraction machine’, exposing the repetitive labour, often in terrible conditions, that big tech is using to create artificial intelligence|
 |[.]() | |
 |[.]() | |
 |[.]() | |
