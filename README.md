@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Figma pulls AI tool after criticism that it ripped off Apple’s design.](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy) |Figma says it didn’t train the generative AI models it used and blames a ‘bespoke design system.’ |
 |[Hollywood stars’ estates agree to the use of their voices with AI.](https://edition.cnn.com/2024/07/03/tech/elevenlabs-ai-celebrity-voices) | Earlier this week, AI company ElevenLabs said it is bringing digitally produced celebrity voice-overs of deceased actors, including Garland, James Dean and Burt Reynolds, to its newly launched Reader app. The company said the app takes articles, PDF, ePub, newsletters, e-books or any other text on your phone and turns it into voice-overs.|
 |[Smart Paste for context-aware adjustments to pasted code.](https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/) | We present Smart Paste, an internal tool that streamlines the code authoring workflow by automating adjustments to pasted code. We describe key insights from our UX and model preparation efforts, which have led to high performance and successful adoption among Google developers.|
-|[.]() | |
+|[Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers.](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/) | Apple will reportedly use a more advanced SoIC packaging technology for its M5 chips, as part of a two-pronged strategy to meet its growing need for silicon that can power consumer Macs and enhance the performance of its data centers and future AI tools that rely on the cloud.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CapPa: Training vision models as captioners.](https://wandb.ai/craiyon/cappa-jax/reports/CapPa-Training-vision-models-as-captioners--Vmlldzo4NDUyNDUz) |Craiyon's trained CapPa vision model achieves state-of-the-art results on several difficult vision benchmarks. |
 |[Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis.](https://huggingface.co/Kwai-Kolors/Kolors) |Trained on billions of text-image pairs, Kolors exhibits significant advantages over both open-source and proprietary models in visual quality, complex semantic accuracy, and text rendering for both Chinese and English characters.  |
 |[EGIInet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion.](https://github.com/whu-usi3dv/egiinet) | By means of geometric task guiding, EGIInet successfully combines two modalities to present a novel way to point cloud completion.|
-|[.]() | |
+|[Quality Prompts.](https://github.com/sarthakrastogi/quality-prompts) |QualityPrompts implements 58 prompting techniques explained in this survey from OpenAI, Microsoft, et al. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
