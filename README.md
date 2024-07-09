@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adaptable Logical Control for Large Language Models.](https://arxiv.org/abs/2406.13892) |The Ctrl-G framework, which combines LLMs and Hidden Markow Models to enable following logical constraints (represented as deterministic finite automata), is presented in Adaptable Logical Control for LLMs. Ctrl-G achieves over 30% higher satisfaction rate in human evaluation compared to GPT4. |
 |[LLM See, LLM Do: Guiding Data Generation to Target Non-Differentiable Objectives.](https://arxiv.org/abs/2407.01490) | In LLM See, LLM Do, the effectiveness and effects of synthetic data are examined in detail, along with how they affect a model's internal biases, calibration, attributes, and preferences. It is discovered that LLMs are sensitive to certain attributes even when the prompts from the synthetic data seem neutral, indicating that it is possible to influence the generation profiles of models to reflect desirable attributes.|
 |[Chinese developers scramble as OpenAI blocks access in China.](https://www.theguardian.com/world/article/2024/jul/09/chinese-developers-openai-blocks-access-in-china-artificial-intelligence) | US firm’s move, amid Beijing-Washington tensions, sparks rush to lure users to homegrown models|
-|[.]() | |
-|[.]() | |
+|[PartCraft: Crafting Creative Objects by Parts.](https://arxiv.org/abs/2407.04604v1) |PartCraft is a novel approach in generative visual AI that goes beyond conventional text- or sketch-based methods by enabling users to choose visual concepts by parts. |
+|[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents.](https://arxiv.org/abs/2407.04363v1) |AriGraph is a new technique that assists AI agents in creating a memory graph that incorporates episodic and semantic memories. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
