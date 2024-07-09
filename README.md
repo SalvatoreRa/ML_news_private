@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chinese developers scramble as OpenAI blocks access in China.](https://www.theguardian.com/world/article/2024/jul/09/chinese-developers-openai-blocks-access-in-china-artificial-intelligence) | US firm’s move, amid Beijing-Washington tensions, sparks rush to lure users to homegrown models|
 |[PartCraft: Crafting Creative Objects by Parts.](https://arxiv.org/abs/2407.04604v1) |PartCraft is a novel approach in generative visual AI that goes beyond conventional text- or sketch-based methods by enabling users to choose visual concepts by parts. |
 |[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents.](https://arxiv.org/abs/2407.04363v1) |AriGraph is a new technique that assists AI agents in creating a memory graph that incorporates episodic and semantic memories. |
-|[.]() | |
+|[Researchers leverage shadows to model 3D scenes, including objects blocked from view.](https://news.mit.edu/2024/researchers-leverage-shadows-model-3d-scenes-blocked-objects-0618) | Researchers at MIT and Meta developed PlatoNeRF, an AI method that builds 3D representations of scenes, including blocked areas, using single-photon lidar and shadows. This technique could improve AR/VR experiences and increase the safety of autonomous vehicles. With lower-resolution sensors, PlatoNeRF performs better than conventional techniques and shows promise for real-world applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,6 +104,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[micro-agent.](https://github.com/BuilderIO/micro-agent) | An AI agent that writes and fixes code for you.|
 |[AnySR.](https://github.com/crispyfeso4/anysr) | A novel method for improving efficiency and scalability in single-image super-resolution (SISR) is called AnySR. The 'Any-Scale, Any-Resource' implementation is supported by AnySR, in contrast to previous techniques, which reduces resource requirements at smaller scales without the need for extra parameters.|
 |[Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos.](https://arxiv.org/abs/2407.04384v1) | Without human supervision, researchers have created a novel method for estimating category-level 3D poses from informal, object-centric films.|
+|[SenseVoice .](https://github.com/FunAudioLLM/SenseVoice) |a speech foundation model that possesses a variety of speech understanding functions, such as auditory event detection, spoken language identification, automatic speech recognition, and speech emotion recognition. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,13 +122,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 
+
 ## Perspectives
 |Link|description|
 |---|---|
 |[Real criminals, fake victims: how chatbots are being deployed in the global fight against phone scammers.](https://www.theguardian.com/technology/article/2024/jul/07/ai-chatbots-phone-scams) |New scambaiting AI technology Apate aims to keep scammers on the line while collecting data that could help disrupt their business model |
 |[James Muldoon, Mark Graham and Callum Cant: ‘AI feeds off the work of human beings’.](https://www.theguardian.com/technology/article/2024/jul/06/james-muldoon-mark-graham-callum-cant-ai-artificial-intelligence-human-work-exploitation-fairwork-feeding-machine) | The Fairwork trio talk about their new book on the ‘extraction machine’, exposing the repetitive labour, often in terrible conditions, that big tech is using to create artificial intelligence|
 |[Superintelligence—10 years later.](https://www.humanityredefined.com/p/superintelligence10-years-later) |Ten years after the publication of Nick Bostrom's seminal book "Superintelligence," advances in AI have raised awareness of the potential for AGI and its associated concerns. With 2024 being a turning point toward guaranteeing control and alignment with human values, the AI research community is now giving AI safety serious attention. With AI technologies advancing so quickly, the sector faces concerns related to safety and ethics that were previously thought to be theoretical. |
-|[.]() | |
+|[How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding) |Depending on the task difficulty and programming language, OpenAI's ChatGPT may generate code with success rates anywhere from less than 1% to 89%. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
