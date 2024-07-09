@@ -101,9 +101,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2.](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1 |A post by Neel Nanda, a Research Engineer at Google DeepMind, about his favorite papers to read in Mechanistic Interpretability. |
 |[SAE.](https://github.com/EleutherAI/sae) |This library trains k-sparse autoencoders (SAEs) on the residual stream activations of HuggingFace language models, roughly following the recipe detailed in Scaling and evaluating sparse autoencoders (Gao et al. 2024) |
 |[MInference.](https://github.com/microsoft/MInference) | To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[micro-agent.](https://github.com/BuilderIO/micro-agent) | An AI agent that writes and fixes code for you.|
+|[AnySR.](https://github.com/crispyfeso4/anysr) | A novel method for improving efficiency and scalability in single-image super-resolution (SISR) is called AnySR. The 'Any-Scale, Any-Resource' implementation is supported by AnySR, in contrast to previous techniques, which reduces resource requirements at smaller scales without the need for extra parameters.|
+|[Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos.](https://arxiv.org/abs/2407.04384v1) | Without human supervision, researchers have created a novel method for estimating category-level 3D poses from informal, object-centric films.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
