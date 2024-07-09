@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quality Prompts.](https://github.com/sarthakrastogi/quality-prompts) |QualityPrompts implements 58 prompting techniques explained in this survey from OpenAI, Microsoft, et al. |
 |[Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems.](https://arxiv.org/abs/2407.01370) |Describes a new job, SummHay, to evaluate a model's capacity to process a Haystack and produce a summary that highlights the key insights and references the original documents; finds that RAG components are found to improve performance on the benchmark, making it a feasible choice for holistic RAG evaluation. Long-context LLMs score 20% on the benchmark, which lags the human performance estimate of 56%. |
 |[AI Agents That Matter.](https://arxiv.org/abs/2407.01502) |AI Agents That Matter examines existing agent evaluation procedures and identifies flaws that could prevent practical deployment; it also suggests a framework to prevent overfitting agents and an implementation that simultaneously maximizes accuracy and cost. |
-|[.]() | |
+|[An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2.](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1 |A post by Neel Nanda, a Research Engineer at Google DeepMind, about his favorite papers to read in Mechanistic Interpretability. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
