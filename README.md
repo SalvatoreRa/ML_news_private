@@ -120,9 +120,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AnySR.](https://github.com/crispyfeso4/anysr) | A novel method for improving efficiency and scalability in single-image super-resolution (SISR) is called AnySR. The 'Any-Scale, Any-Resource' implementation is supported by AnySR, in contrast to previous techniques, which reduces resource requirements at smaller scales without the need for extra parameters.|
 |[Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos.](https://arxiv.org/abs/2407.04384v1) | Without human supervision, researchers have created a novel method for estimating category-level 3D poses from informal, object-centric films.|
 |[SenseVoice .](https://github.com/FunAudioLLM/SenseVoice) |a speech foundation model that possesses a variety of speech understanding functions, such as auditory event detection, spoken language identification, automatic speech recognition, and speech emotion recognition. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Boosting Large Vision Language Models with Self-Training.](https://github.com/orrzohar/Video-STaR) | A novel method called Video Self-Training with Augmented Reasoning (Video-STaR) aims to enhance Large Vision Language Models (LVLMs).|
+|[GraphRAG.](https://github.com/microsoft/graphrag) |With GraphRAG, you may use language models to analyze unstructured text. The quick start is simple to spin up because it operates on Azure. |
+|[iLLM-TSC.](https://github.com/traffic-alpha/illm-tsc) |To enhance traffic signal control systems, researchers have created a novel framework that blends reinforcement learning with a sizable language model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
