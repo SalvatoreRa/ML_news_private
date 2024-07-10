@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[James Muldoon, Mark Graham and Callum Cant: ‘AI feeds off the work of human beings’.](https://www.theguardian.com/technology/article/2024/jul/06/james-muldoon-mark-graham-callum-cant-ai-artificial-intelligence-human-work-exploitation-fairwork-feeding-machine) | The Fairwork trio talk about their new book on the ‘extraction machine’, exposing the repetitive labour, often in terrible conditions, that big tech is using to create artificial intelligence|
 |[Superintelligence—10 years later.](https://www.humanityredefined.com/p/superintelligence10-years-later) |Ten years after the publication of Nick Bostrom's seminal book "Superintelligence," advances in AI have raised awareness of the potential for AGI and its associated concerns. With 2024 being a turning point toward guaranteeing control and alignment with human values, the AI research community is now giving AI safety serious attention. With AI technologies advancing so quickly, the sector faces concerns related to safety and ethics that were previously thought to be theoretical. |
 |[How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding) |Depending on the task difficulty and programming language, OpenAI's ChatGPT may generate code with success rates anywhere from less than 1% to 89%. |
-|[.]() | |
+|[TechScape: Can AI really help fix a healthcare system in crisis?](https://www.theguardian.com/technology/article/2024/jul/09/techscape-ai-nhs-healthcare-artificial-intelligence-cancer-care) | Artificial intelligence is heralded as helping the NHS fight cancer. But some warn it’s a distraction from more urgent challenges|
 |[.]() | |
 |[.]() | |
 |[.]() | |
