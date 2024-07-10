@@ -78,6 +78,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google DeepMind’s AI Rat Brains Could Make Robots Scurry Like the Real Thing.](https://singularityhub.com/2024/07/03/google-deepminds-ai-rat-brains-could-make-robots-scurry-like-the-real-thing/) |In order to investigate the brain circuits underlying complicated motor skills, DeepMind and Harvard University created a virtual rat using artificial intelligence (AI) neural networks trained on real rat motions and neural patterns. With its ability to transfer acquired movement skills to other settings, this bio-inspired AI could advance robotics and provide new insights into brain function. The study shows that brain activity associated with various behaviors may be accurately mimicked and decoded by digital simulations. |
 |[Microsoft drops observer seat on OpenAI board amid regulator scrutiny.](https://www.theguardian.com/technology/article/2024/jul/10/microsoft-drops-observer-seat-on-openai-board-amid-regulator-scrutiny) |Startup’s new approach means Apple will no longer be able to appoint executive to similar role |
 |[xAI ends deal with Oracle, builds own AI datacente.](https://threadreaderapp.com/thread/1810723880937607564.html) |Oracle has terminated xAI's agreement. After Grok 2 training is completed, it will construct its own datacenter. Originally, the corporation had a deal with Oracle for 24k H100s. |
+|[a16z is trying to keep AI alive with Oxygen initiative.](https://www.theverge.com/2024/7/9/24195082/a16z-trying-to-keep-ai-alive-with-oxygen-intiative) | |
+|[Quora’s Poe now lets users create and share web apps.](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/) | Poe, Quora’s subscription-based, cross-platform aggregator for AI-powered chatbots like Anthropic’s Claude and OpenAI’s GPT-4o, has launched a feature called Previews that lets people create interactive apps directly in chats with chatbots.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
