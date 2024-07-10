@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boosting Large Vision Language Models with Self-Training.](https://github.com/orrzohar/Video-STaR) | A novel method called Video Self-Training with Augmented Reasoning (Video-STaR) aims to enhance Large Vision Language Models (LVLMs).|
 |[GraphRAG.](https://github.com/microsoft/graphrag) |With GraphRAG, you may use language models to analyze unstructured text. The quick start is simple to spin up because it operates on Azure. |
 |[iLLM-TSC.](https://github.com/traffic-alpha/illm-tsc) |To enhance traffic signal control systems, researchers have created a novel framework that blends reinforcement learning with a sizable language model. |
-|[.]() | |
+|[Tutorials on Tinygrad.](https://mesozoic-egg.github.io/tinygrad-notes/) | A set of tools called Tinygrad is used to train deep learning models. An in-depth look at Tinygrad internals is made possible by this set of notes, which serves as an excellent introduction for AI compilers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
