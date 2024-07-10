@@ -55,6 +55,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PartCraft: Crafting Creative Objects by Parts.](https://arxiv.org/abs/2407.04604v1) |PartCraft is a novel approach in generative visual AI that goes beyond conventional text- or sketch-based methods by enabling users to choose visual concepts by parts. |
 |[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents.](https://arxiv.org/abs/2407.04363v1) |AriGraph is a new technique that assists AI agents in creating a memory graph that incorporates episodic and semantic memories. |
 |[Researchers leverage shadows to model 3D scenes, including objects blocked from view.](https://news.mit.edu/2024/researchers-leverage-shadows-model-3d-scenes-blocked-objects-0618) | Researchers at MIT and Meta developed PlatoNeRF, an AI method that builds 3D representations of scenes, including blocked areas, using single-photon lidar and shadows. This technique could improve AR/VR experiences and increase the safety of autonomous vehicles. With lower-resolution sensors, PlatoNeRF performs better than conventional techniques and shows promise for real-world applications.|
+|[Distilling System 2 into System 1.](https://arxiv.org/abs/2407.06023) | Models classified as System 2 employ techniques similar to Chain of Thought in order to increase test time, compute, and enhance thinking. It turns out that this behavior can be reduced to a speedier, similarly accurate System 1 model.|
+|[Learning to (Learn at Test Time): RNNs with Expressive Hidden States.](https://arxiv.org/abs/2407.04620) | a recently developed RNN variation that beats Mamba in several tasks. Significantly, extended contexts and in-context learning are made possible by the update function, which is an ML model in and of itself.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
