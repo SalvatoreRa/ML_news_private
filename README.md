@@ -124,8 +124,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GraphRAG.](https://github.com/microsoft/graphrag) |With GraphRAG, you may use language models to analyze unstructured text. The quick start is simple to spin up because it operates on Azure. |
 |[iLLM-TSC.](https://github.com/traffic-alpha/illm-tsc) |To enhance traffic signal control systems, researchers have created a novel framework that blends reinforcement learning with a sizable language model. |
 |[Tutorials on Tinygrad.](https://mesozoic-egg.github.io/tinygrad-notes/) | A set of tools called Tinygrad is used to train deep learning models. An in-depth look at Tinygrad internals is made possible by this set of notes, which serves as an excellent introduction for AI compilers.|
-|[.]() | |
-|[.]() | |
+|[OccSora: 4D Occupancy Generation Models as
+World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D occupancy generation model based on diffusion called OccSora is intended to enhance long-term temporal evolutions. |
+|[Awesome AGI Survey.](https://github.com/ulab-uiuc/agi-survey) | The goal of Artificial General Intelligence (AGI) is to execute a variety of real-world jobs with human-like efficiency. This project explores the path towards AGI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
