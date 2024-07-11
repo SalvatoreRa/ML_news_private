@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Researchers leverage shadows to model 3D scenes, including objects blocked from view.](https://news.mit.edu/2024/researchers-leverage-shadows-model-3d-scenes-blocked-objects-0618) | Researchers at MIT and Meta developed PlatoNeRF, an AI method that builds 3D representations of scenes, including blocked areas, using single-photon lidar and shadows. This technique could improve AR/VR experiences and increase the safety of autonomous vehicles. With lower-resolution sensors, PlatoNeRF performs better than conventional techniques and shows promise for real-world applications.|
 |[Distilling System 2 into System 1.](https://arxiv.org/abs/2407.06023) | Models classified as System 2 employ techniques similar to Chain of Thought in order to increase test time, compute, and enhance thinking. It turns out that this behavior can be reduced to a speedier, similarly accurate System 1 model.|
 |[Learning to (Learn at Test Time): RNNs with Expressive Hidden States.](https://arxiv.org/abs/2407.04620) | a recently developed RNN variation that beats Mamba in several tasks. Significantly, extended contexts and in-context learning are made possible by the update function, which is an ML model in and of itself.|
-|[.]() | |
+|[NuminaMath 7B TIR: Open Math Olympiad Model Released.](https://huggingface.co/AI-MO/NuminaMath-7B-TIR) |NuminaMath is a series of language models that are trained to solve math problems using tool-integrated reasoning (TIR). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[a16z is trying to keep AI alive with Oxygen initiative.](https://www.theverge.com/2024/7/9/24195082/a16z-trying-to-keep-ai-alive-with-oxygen-intiative) | |
 |[Quora’s Poe now lets users create and share web apps.](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/) | Poe, Quora’s subscription-based, cross-platform aggregator for AI-powered chatbots like Anthropic’s Claude and OpenAI’s GPT-4o, has launched a feature called Previews that lets people create interactive apps directly in chats with chatbots.|
 |[Ex-Meta scientists debut gigantic AI protein design model.](https://www.nature.com/articles/d41586-024-02214-x) | EvolutionaryScale’s protein language model — among the largest AI models in biology — has created new fluorescent proteins and won big investment.|
-|[.]() | |
+|[Anthropic’s Claude adds a prompt playground to quickly improve your AI apps.](https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/) | Prompt engineering became a hot job last year in the AI industry, but it seems Anthropic is now developing tools to at least partially automate it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
