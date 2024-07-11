@@ -131,8 +131,8 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning.](https://arxiv.org/abs/2407.06642v1) | A novel reinforcement learning framework is presented by researchers to enhance customized text-to-image generation.|
 |[PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models.](https://arxiv.org/abs/2407.06109v1) |PerlDiff is a technique that incorporates 3D geometric information to increase the accuracy of street view image production. |
 |[Paints-Undo.](https://github.com/lllyasviel/Paints-UNDO) |Paints UNDO is a system where a model generates strokes that are used to reconstruct an image. It comes from the same creators as ControlNet, IC-Light, and many other image production systems. Remarkably, in contrast to earlier stroke systems, this model is able to cancel strokes and frequently completely reevaluates its strategy halfway through—quite like a human artist would. |
-|[.]() | |
-|[.]() | |
+|[minRF.](https://github.com/cloneofsimo/minRF) |For Stable Diffusion 3, scalable rectified flow transformers are partially utilized. This repository contains sweeps of the muP hyperparameters along with a rudimentary implementation of them. |
+|[RouteLLM.](https://github.com/lm-sys/RouteLLM) | RouteLLM is a framework for serving and evaluating LLM routers|
 |[.]() | |
 |[.]() | |
 |[.]() | |
