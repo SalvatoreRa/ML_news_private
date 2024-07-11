@@ -127,10 +127,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OccSora: 4D Occupancy Generation Models as
 World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D occupancy generation model based on diffusion called OccSora is intended to enhance long-term temporal evolutions. |
 |[Awesome AGI Survey.](https://github.com/ulab-uiuc/agi-survey) | The goal of Artificial General Intelligence (AGI) is to execute a variety of real-world jobs with human-like efficiency. This project explores the path towards AGI.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation.](https://arxiv.org/abs/2407.06135) | |
+|[Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning.](https://arxiv.org/abs/2407.06642v1) | |
+|[PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models.](https://arxiv.org/abs/2407.06109v1) | |
+|[Paints-Undo.](https://github.com/lllyasviel/Paints-UNDO) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
