@@ -127,10 +127,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OccSora: 4D Occupancy Generation Models as
 World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D occupancy generation model based on diffusion called OccSora is intended to enhance long-term temporal evolutions. |
 |[Awesome AGI Survey.](https://github.com/ulab-uiuc/agi-survey) | The goal of Artificial General Intelligence (AGI) is to execute a variety of real-world jobs with human-like efficiency. This project explores the path towards AGI.|
-|[ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation.](https://arxiv.org/abs/2407.06135) | |
-|[Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning.](https://arxiv.org/abs/2407.06642v1) | |
-|[PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models.](https://arxiv.org/abs/2407.06109v1) | |
-|[Paints-Undo.](https://github.com/lllyasviel/Paints-UNDO) | |
+|[ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation.](https://arxiv.org/abs/2407.06135) | Developed from Meta's Chameleon model, Anole is an open autoregressive multimodal model. With focused fine-tuning, this effort restores the model's ability to generate images.|
+|[Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning.](https://arxiv.org/abs/2407.06642v1) | A novel reinforcement learning framework is presented by researchers to enhance customized text-to-image generation.|
+|[PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models.](https://arxiv.org/abs/2407.06109v1) |PerlDiff is a technique that incorporates 3D geometric information to increase the accuracy of street view image production. |
+|[Paints-Undo.](https://github.com/lllyasviel/Paints-UNDO) |Paints UNDO is a system where a model generates strokes that are used to reconstruct an image. It comes from the same creators as ControlNet, IC-Light, and many other image production systems. Remarkably, in contrast to earlier stroke systems, this model is able to cancel strokes and frequently completely reevaluates its strategy halfway through—quite like a human artist would. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
