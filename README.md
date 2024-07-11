@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quora’s Poe now lets users create and share web apps.](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/) | Poe, Quora’s subscription-based, cross-platform aggregator for AI-powered chatbots like Anthropic’s Claude and OpenAI’s GPT-4o, has launched a feature called Previews that lets people create interactive apps directly in chats with chatbots.|
 |[Ex-Meta scientists debut gigantic AI protein design model.](https://www.nature.com/articles/d41586-024-02214-x) | EvolutionaryScale’s protein language model — among the largest AI models in biology — has created new fluorescent proteins and won big investment.|
 |[Anthropic’s Claude adds a prompt playground to quickly improve your AI apps.](https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/) | Prompt engineering became a hot job last year in the AI industry, but it seems Anthropic is now developing tools to at least partially automate it.|
-|[.]() | |
+|[OpenAI and Los Alamos National Laboratory announce bioscience research partnership.](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/) |OpenAI and Los Alamos National Laboratory are developing evaluations to understand how multimodal AI models can be used safely by scientists in laboratory settings. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[Paints-Undo.](https://github.com/lllyasviel/Paints-UNDO) |Paints UNDO is a system where a model generates strokes that are used to reconstruct an image. It comes from the same creators as ControlNet, IC-Light, and many other image production systems. Remarkably, in contrast to earlier stroke systems, this model is able to cancel strokes and frequently completely reevaluates its strategy halfway through—quite like a human artist would. |
 |[minRF.](https://github.com/cloneofsimo/minRF) |For Stable Diffusion 3, scalable rectified flow transformers are partially utilized. This repository contains sweeps of the muP hyperparameters along with a rudimentary implementation of them. |
 |[RouteLLM.](https://github.com/lm-sys/RouteLLM) | RouteLLM is a framework for serving and evaluating LLM routers|
-|[.]() | |
+|[30x speedup in model init for HF Transformers.](https://github.com/huggingface/transformers/pull/31771) | If you move some lazy loading to the model on the first pass, you can significantly reduce the amount of tokens lost every second during model initialization.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
