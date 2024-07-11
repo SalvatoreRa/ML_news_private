@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Distilling System 2 into System 1.](https://arxiv.org/abs/2407.06023) | Models classified as System 2 employ techniques similar to Chain of Thought in order to increase test time, compute, and enhance thinking. It turns out that this behavior can be reduced to a speedier, similarly accurate System 1 model.|
 |[Learning to (Learn at Test Time): RNNs with Expressive Hidden States.](https://arxiv.org/abs/2407.04620) | a recently developed RNN variation that beats Mamba in several tasks. Significantly, extended contexts and in-context learning are made possible by the update function, which is an ML model in and of itself.|
 |[NuminaMath 7B TIR: Open Math Olympiad Model Released.](https://huggingface.co/AI-MO/NuminaMath-7B-TIR) |NuminaMath is a series of language models that are trained to solve math problems using tool-integrated reasoning (TIR). |
-|[.]() | |
+|[4D Contrastive Superflows are Dense 3D Representation Learners.](https://arxiv.org/abs/2407.06190v1) | SuperFlow is a novel system that uses successive LiDAR-camera pairs for spatiotemporal pretraining to improve 3D vision in autonomous driving.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
