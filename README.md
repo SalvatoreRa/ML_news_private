@@ -60,8 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NuminaMath 7B TIR: Open Math Olympiad Model Released.](https://huggingface.co/AI-MO/NuminaMath-7B-TIR) |NuminaMath is a series of language models that are trained to solve math problems using tool-integrated reasoning (TIR). |
 |[4D Contrastive Superflows are Dense 3D Representation Learners.](https://arxiv.org/abs/2407.06190v1) | SuperFlow is a novel system that uses successive LiDAR-camera pairs for spatiotemporal pretraining to improve 3D vision in autonomous driving.|
 |[PaliGemma: A versatile 3B VLM for transfer.](https://arxiv.org/abs/2407.07726) | Based on Gemma 2B and SigLIP, PaliGemma is a powerful vision language model. Many of the choices taken in terms of architecture and data collecting are displayed in this technical paper.|
-|[.]() | |
-|[.]() | |
+|[ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction.](https://haoosz.github.io/ConceptExpress/) |A novel job called Unsupervised Concept Extraction (UCE) collects and reconstructs many concepts from a single image without the need for human annotations. |
+|[Lookback Lens.](https://github.com/voidism/lookback-lens) | A simple model called Lookback Lens can be used to identify contextual hallucinations in large language models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[30x speedup in model init for HF Transformers.](https://github.com/huggingface/transformers/pull/31771) | If you move some lazy loading to the model on the first pass, you can significantly reduce the amount of tokens lost every second during model initialization.|
 |[FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.](https://tridao.me/blog/2024/flash3/) | The basis for contemporary fast language models is FlashAttention. Up from 35% previously, this new variant takes 75% of the H100 capacity. This capability gain is the result of several significant system enhancements.|
 |[OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion.](OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion) |A novel approach to open-vocabulary detection called OV-DINO addresses the difficulties of combining various data sources and making use of language-aware capabilities. |
-|[.]() | |
+|[Open-Vocabulary Video Instance Segmentation.](https://github.com/fanghaook/ovformer) |A innovative approach to Open-Vocabulary Video Instance Segmentation (VIS), OVFormer tackles important problems in the field. It uses video-based training to increase temporal consistency and align embeddings better. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
