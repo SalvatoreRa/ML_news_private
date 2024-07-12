@@ -137,8 +137,8 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.](https://tridao.me/blog/2024/flash3/) | The basis for contemporary fast language models is FlashAttention. Up from 35% previously, this new variant takes 75% of the H100 capacity. This capability gain is the result of several significant system enhancements.|
 |[OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion.](OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion) |A novel approach to open-vocabulary detection called OV-DINO addresses the difficulties of combining various data sources and making use of language-aware capabilities. |
 |[Open-Vocabulary Video Instance Segmentation.](https://github.com/fanghaook/ovformer) |A innovative approach to Open-Vocabulary Video Instance Segmentation (VIS), OVFormer tackles important problems in the field. It uses video-based training to increase temporal consistency and align embeddings better. |
-|[.]() | |
-|[.]() | |
+|[Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift.](https://imagine.enpc.fr/~elliot.vincent/sitsscd) |This work integrates semantic segmentation and change detection to address semantic change detection using satellite image time series (SITS-SCD). |
+|[PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer.](https://arxiv.org/abs/2407.07764v1) |The PosFormer model overcomes the drawbacks of sequence-based methods to greatly enhance Handwritten Mathematical Expression Recognition (HMER). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
