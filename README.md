@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Learning to (Learn at Test Time): RNNs with Expressive Hidden States.](https://arxiv.org/abs/2407.04620) | a recently developed RNN variation that beats Mamba in several tasks. Significantly, extended contexts and in-context learning are made possible by the update function, which is an ML model in and of itself.|
 |[NuminaMath 7B TIR: Open Math Olympiad Model Released.](https://huggingface.co/AI-MO/NuminaMath-7B-TIR) |NuminaMath is a series of language models that are trained to solve math problems using tool-integrated reasoning (TIR). |
 |[4D Contrastive Superflows are Dense 3D Representation Learners.](https://arxiv.org/abs/2407.06190v1) | SuperFlow is a novel system that uses successive LiDAR-camera pairs for spatiotemporal pretraining to improve 3D vision in autonomous driving.|
-|[.]() | |
+|[PaliGemma: A versatile 3B VLM for transfer.](https://arxiv.org/abs/2407.07726) | Based on Gemma 2B and SigLIP, PaliGemma is a powerful vision language model. Many of the choices taken in terms of architecture and data collecting are displayed in this technical paper.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
