@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ex-Meta scientists debut gigantic AI protein design model.](https://www.nature.com/articles/d41586-024-02214-x) | EvolutionaryScale’s protein language model — among the largest AI models in biology — has created new fluorescent proteins and won big investment.|
 |[Anthropic’s Claude adds a prompt playground to quickly improve your AI apps.](https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/) | Prompt engineering became a hot job last year in the AI industry, but it seems Anthropic is now developing tools to at least partially automate it.|
 |[OpenAI and Los Alamos National Laboratory announce bioscience research partnership.](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/) |OpenAI and Los Alamos National Laboratory are developing evaluations to understand how multimodal AI models can be used safely by scientists in laboratory settings. |
-|[.]() | |
+|[‘I am happy to see how my baby is bouncing’: the AI transforming pregnancy scans in Africa.](https://www.theguardian.com/global-development/article/2024/jul/12/i-am-happy-to-see-how-my-baby-is-bouncing-the-ai-transforming-pregnancy-scans-in-africa) |While ultrasound services are normal practice in many countries, software being tested in Uganda will allow a scan without the need for specialists, providing an incentive for pregnant women to visit health services early on |
 |[.]() | |
 |[.]() | |
 |[.]() | |
