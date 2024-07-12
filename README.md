@@ -91,8 +91,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic’s Claude adds a prompt playground to quickly improve your AI apps.](https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/) | Prompt engineering became a hot job last year in the AI industry, but it seems Anthropic is now developing tools to at least partially automate it.|
 |[OpenAI and Los Alamos National Laboratory announce bioscience research partnership.](https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/) |OpenAI and Los Alamos National Laboratory are developing evaluations to understand how multimodal AI models can be used safely by scientists in laboratory settings. |
 |[‘I am happy to see how my baby is bouncing’: the AI transforming pregnancy scans in Africa.](https://www.theguardian.com/global-development/article/2024/jul/12/i-am-happy-to-see-how-my-baby-is-bouncing-the-ai-transforming-pregnancy-scans-in-africa) |While ultrasound services are normal practice in many countries, software being tested in Uganda will allow a scan without the need for specialists, providing an incentive for pregnant women to visit health services early on |
-|[.]() | |
-|[.]() | |
+|[Samsung to launch upgraded voice assistant Bixby this year with its own AI.](https://www.cnbc.com/2024/07/11/samsung-to-launch-upgraded-bixby-this-year-with-its-own-ai.html) |Samsung will launch an upgraded version of its voice assistant Bixby this year based on its own artificial intelligence models, mobile chief TM Roh told CNBC. |
+|[Google says Gemini AI is making its robots smarter.](https://www.theverge.com/2024/7/11/24196402/google-deepmind-gemini-1-5-pro-robot-navigation) | DeepMind is using video tours and Gemini 1.5 Pro to train robots to navigate and complete tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
