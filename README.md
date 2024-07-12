@@ -134,8 +134,8 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[minRF.](https://github.com/cloneofsimo/minRF) |For Stable Diffusion 3, scalable rectified flow transformers are partially utilized. This repository contains sweeps of the muP hyperparameters along with a rudimentary implementation of them. |
 |[RouteLLM.](https://github.com/lm-sys/RouteLLM) | RouteLLM is a framework for serving and evaluating LLM routers|
 |[30x speedup in model init for HF Transformers.](https://github.com/huggingface/transformers/pull/31771) | If you move some lazy loading to the model on the first pass, you can significantly reduce the amount of tokens lost every second during model initialization.|
-|[.]() | |
-|[.]() | |
+|[FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision.](https://tridao.me/blog/2024/flash3/) | The basis for contemporary fast language models is FlashAttention. Up from 35% previously, this new variant takes 75% of the H100 capacity. This capability gain is the result of several significant system enhancements.|
+|[OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion.](OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion) |A novel approach to open-vocabulary detection called OV-DINO addresses the difficulties of combining various data sources and making use of language-aware capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
