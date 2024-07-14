@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: 8 - 14  July
 
 ## Research
 |Link|description|
@@ -62,14 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PaliGemma: A versatile 3B VLM for transfer.](https://arxiv.org/abs/2407.07726) | Based on Gemma 2B and SigLIP, PaliGemma is a powerful vision language model. Many of the choices taken in terms of architecture and data collecting are displayed in this technical paper.|
 |[ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction.](https://haoosz.github.io/ConceptExpress/) |A novel job called Unsupervised Concept Extraction (UCE) collects and reconstructs many concepts from a single image without the need for human annotations. |
 |[Lookback Lens.](https://github.com/voidism/lookback-lens) | A simple model called Lookback Lens can be used to identify contextual hallucinations in large language models.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -96,13 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD.](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple) |The Snapdragon X Elite and X Plus chips from Qualcomm are making Windows on Arm a competitive platform, roughly matching the performance and battery life of AMD Ryzen, Apple's M3 chip, and Intel Core Ultra. The Snapdragon chips are excellent in multi-core scores and power economy, even though they don't lead in GPU performance. The latest generation of laptops with Snapdragon processors is a more affordable option than MacBooks and conventional Intel or AMD-based devices. |
 |[China's Laws of Robotics: Shanghai publishes first humanoid robot guidelines.](https://finance.yahoo.com/news/chinas-laws-robotics-shanghai-publishes-093000734.html) | Shanghai has published China's first governance guidelines for humanoid robots, calling for risk controls and international collaboration, as tech giants like Tesla showed off their own automatons at the country's largest artificial intelligence (AI) conference.|
 |[Crowdsourced Decentralized AI Market Map.](https://threadreaderapp.com/thread/1810703553901563923.html) | Open sourcing a community-led market map of Decentralized AI|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -139,10 +126,7 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[Open-Vocabulary Video Instance Segmentation.](https://github.com/fanghaook/ovformer) |A innovative approach to Open-Vocabulary Video Instance Segmentation (VIS), OVFormer tackles important problems in the field. It uses video-based training to increase temporal consistency and align embeddings better. |
 |[Satellite Image Time Series Semantic Change Detection: Novel Architecture and Analysis of Domain Shift.](https://imagine.enpc.fr/~elliot.vincent/sitsscd) |This work integrates semantic segmentation and change detection to address semantic change detection using satellite image time series (SITS-SCD). |
 |[PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer.](https://arxiv.org/abs/2407.07764v1) |The PosFormer model overcomes the drawbacks of sequence-based methods to greatly enhance Handwritten Mathematical Expression Recognition (HMER). |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## Perspectives
@@ -158,17 +142,7 @@ World Simulators for Autonomous Driving.](https://wzzheng.net/OccSora/) |A 4D oc
 |[A Deep Dive on AI Inference Startups.](https://eastwind.substack.com/p/a-deep-dive-on-ai-inference-startups) |The development of AI's "picks and shovels," such as model fine-tuning, observability, and inference, is a well-liked field for venture capital investment. VCs are placing bets that when businesses integrate AI into their products, they won't want to develop things themselves. For AI inference, the TAM is highly limited. For VCs' investments to be profitable, they must have faith in significant TAM expansion. Although platforms for AI inference benefit startups in the short run, over the long run, they hurt them. |
 |[Cyclists can't decide whether to fear or love self-driving cars.](https://www.yahoo.com/news/cyclists-t-decide-whether-fear-220824589.html) | San Francisco cyclists have reported near misses and safety concerns with self-driving cars from Waymo and Cruise. Almost 200 complaints about these self-driving cars' unpredictable behavior and near-misses have been filed with the California DMV. Despite the manufacturers' claims that their cars had improved safety features, the events cast doubt on the vehicles' suitability for widespread use in the face of heightened regulatory scrutiny.|
 |[Augmenting Intelligence.](https://www.polymathicbeing.com/p/augmenting-intelligence) |This essay promotes a practical approach to employing AI as an enhancement to human intelligence and explores bridging the divide between techno-optimists and pessimists on the subject. It discusses AI's role in education, its effects on creativity and the arts, and its ethical application. The paper highlights that artificial intelligence (AI) is a tool that augments human capabilities rather than posing a threat, suggesting that the term "augmented intelligence" is a more realistic description.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 1 - 7 July
 
