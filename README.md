@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AI’s ‘Oppenheimer moment’: autonomous weapons enter the battlefield.](https://www.theguardian.com/technology/article/2024/jul/14/ais-oppenheimer-moment-autonomous-weapons-enter-the-battlefield) |The military use of AI-enabled weapons is growing, and the industry that provides them is booming |
-|[.]() | |
+|[Will generative AI transform robotics?](https://www.nature.com/articles/s42256-024-00862-2) |In the current wave of excitement about applying large vision–language models and generative AI to robotics, expectations are running high, but conquering real-world complexities remains challenging for robots. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
