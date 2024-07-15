@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs.](https://arxiv.org/abs/2407.02485v1) |demonstrates how a Llama3-RankRAG significantly outperforms Llama3-ChatQA-1.5 and GPT-4 models on nine knowledge-intensive benchmarks. It also introduces a new instruction fine-tuning framework to perform effective context ranking and answering generation to enhance an LLM's RAG capabilities. This framework makes use of a small ranking dataset to outperform existing expert ranking models. |
+|[Mixture of A Million Experts.](https://arxiv.org/abs/2407.04153) |aims to decouple computational cost from parameter count by efficiently routing to a large number of tiny experts through a learned index structure used for routing. It shows superior efficiency compared to dense FFW, coarse-grained MoEs, and Product Key Memory (PKM) layers. introduces a parameter-efficient expert retrieval mechanism that uses the product key technique for sparse retrieval from a million tiny experts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
