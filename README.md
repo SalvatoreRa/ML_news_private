@@ -68,7 +68,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Elon Musk promises ‘battle in court’ over EU’s crackdown on X’s blue checks.](https://www.theguardian.com/technology/article/2024/jul/12/eu-regulators-warns-x-may-face-fines-for-deceptive-blue-tick-system) | Regulators’ findings suggest social network breached Digital Services Act and could be fined 6% of global turnover|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[AI’s ‘Oppenheimer moment’: autonomous weapons enter the battlefield.](https://www.theguardian.com/technology/article/2024/jul/14/ais-oppenheimer-moment-autonomous-weapons-enter-the-battlefield) |The military use of AI-enabled weapons is growing, and the industry that provides them is booming |
 |[.]() | |
 |[.]() | |
 |[.]() | |
