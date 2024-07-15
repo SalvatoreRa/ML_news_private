@@ -73,9 +73,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI is reportedly working on more advanced AI models capable of reasoning and ‘deep research’.](https://www.engadget.com/openai-is-reportedly-working-on-more-advanced-ai-models-capable-of-reasoning-and-deep-research-202419228.html) |The secret project is code-named ‘Strawberry,’ according to a Reuters report. |
 |[Meet the AI Agent Engineer.](https://sierra.ai/blog/meet-the-ai-agent-engineer) |At his company, Sierra, Bret Taylor, the Chairman of the Board of OpenAI, has created a new position called Agent Engineer. One of the first people in the role recently wrote a blog post describing the Sierra team's view of agent engineering as a new field inside AI engineering. |
 |[OpenAI Revenue.](https://futuresearch.ai/openai-revenue-report) |An estimated $3.4 billion in revenue for OpenAI comes from its ChatGPT services. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Taming the tail utilization of ads inference at Meta scale.](https://engineering.fb.com/2024/07/10/production-engineering/tail-utilization-ads-inference-meta) |Meta's machine learning inference services saw a two-thirds decrease in failure rates, a 35% increase in compute efficiency, and a halving of p99 latency because to changes made in the tail utilization. With these improvements, Meta's ad delivery systems are guaranteed to be able to manage growing workloads without requiring more resources and to uphold service level agreements. Predictive scaling and managing the machine learning model lifetime with Meta's unified platform, IPnext, are examples of continuous improvement techniques. |
+|[Meta to reportedly launch largest Llama 3 model on July 23.](https://breakingthenews.net/Article/Meta-to-reportedly-launch-largest-Llama-3-model-on-July-23/62364570) |Meta Platforms will release its largest Llama 3 model on July 23, The Information reported on Friday, citing an employee of the company. The new model, boasting 405 billion parameters, will be multimodal and capable of understanding and generating both images and text. |
+|[Quora’s Poe now lets users create and share web apps.](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/) |Poe, Quora’s subscription-based, cross-platform aggregator for AI-powered chatbots like Anthropic’s Claude and OpenAI’s GPT-4o, has launched a feature called Previews that lets people create interactive apps directly in chats with chatbots.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
