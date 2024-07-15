@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Survey on Mixture of Experts.](https://arxiv.org/abs/2407.06204) | a survey study on the Mixture of Experts (MoE), covering its technical specifications, open-source implementations, assessment methods, and practical uses. |
-|[Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence.](https://arxiv.org/abs/2407.07061v2) | |
-|[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen/) | |
+|[Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence.](https://arxiv.org/abs/2407.07061v2) |a new framework to address several limitations in multi-agent frameworks such as integrating diverse third-party agents and adaptability to dynamic task requirements; introduces an agent integration protocol, instant messaging architecture design, and dynamic mechanisms for effective collaboration among heterogeneous agents. |
+|[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen/) | a new pipeline that can generate 3D assets from text in less than a minute, from start to finish. It incorporates cutting-edge parts like TextureGen and AssetGen to represent objects in three dimensions: view space, volumetric space, and UV space. It also achieves a 68% win rate compared to the single-stage model.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
