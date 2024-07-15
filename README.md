@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Survey on Mixture of Experts.](https://arxiv.org/abs/2407.06204) | a survey study on the Mixture of Experts (MoE), covering its technical specifications, open-source implementations, assessment methods, and practical uses. |
-|[.]() | |
-|[.]() | |
+|[Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence.](https://arxiv.org/abs/2407.07061v2) | |
+|[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
