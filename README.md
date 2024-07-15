@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mixture of A Million Experts.](https://arxiv.org/abs/2407.04153) |aims to decouple computational cost from parameter count by efficiently routing to a large number of tiny experts through a learned index structure used for routing. It shows superior efficiency compared to dense FFW, coarse-grained MoEs, and Product Key Memory (PKM) layers. introduces a parameter-efficient expert retrieval mechanism that uses the product key technique for sparse retrieval from a million tiny experts. |
 |[Reasoning in Large Language Models: A Geometric Perspective.](https://arxiv.org/abs/2407.02678) | establishes a relationship between the expressive power of LLMs and the density of their self-attention graphs; their analysis shows that the density of these graphs defines the intrinsic dimension of the inputs to the MLP blocks. investigates the reasoning of LLMs from a geometrical perspective; reports that a higher intrinsic dimension implies greater expressive capacity of the LLM.|
 |[Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps.](https://arxiv.org/abs/2407.07071) |Contextual Hallucinations Mitigation in LLMs: This paper presents a novel approach that both detects and reduces contextual hallucinations in LLMs (e.g., reduces by 10% in the XSum summarization task). It does this by building a hallucination detection model based on input features provided by the ratio of attention weights on the context vs. newly generated tokens (for each attention head). The theory behind this approach is that contextual hallucinations are related to the degree to which an LLM attends to the contextual information provided. Additionally, they suggest a decoding strategy that mitigates contextual hallucinations based on their detection method, and this can be applied to other models without requiring retraining. |
-|[RouteLLM.]() | |
+|[RouteLLM.](https://arxiv.org/abs/2406.18665v2) |uses human preference data and data augmentation techniques in its training framework to improve performance and reduce costs by over two times in some cases, all while maintaining response quality. It suggests effective router models to dynamically choose between stronger and weaker LLMs during inference to achieve a balance between cost and performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[A Survey on Mixture of Experts.](https://arxiv.org/abs/2407.06204) | a survey study on the Mixture of Experts (MoE), covering its technical specifications, open-source implementations, assessment methods, and practical uses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
