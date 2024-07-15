@@ -44,9 +44,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs.](https://arxiv.org/abs/2407.02485v1) |demonstrates how a Llama3-RankRAG significantly outperforms Llama3-ChatQA-1.5 and GPT-4 models on nine knowledge-intensive benchmarks. It also introduces a new instruction fine-tuning framework to perform effective context ranking and answering generation to enhance an LLM's RAG capabilities. This framework makes use of a small ranking dataset to outperform existing expert ranking models. |
 |[Mixture of A Million Experts.](https://arxiv.org/abs/2407.04153) |aims to decouple computational cost from parameter count by efficiently routing to a large number of tiny experts through a learned index structure used for routing. It shows superior efficiency compared to dense FFW, coarse-grained MoEs, and Product Key Memory (PKM) layers. introduces a parameter-efficient expert retrieval mechanism that uses the product key technique for sparse retrieval from a million tiny experts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Reasoning in Large Language Models: A Geometric Perspective.](https://arxiv.org/abs/2407.02678) | establishes a relationship between the expressive power of LLMs and the density of their self-attention graphs; their analysis shows that the density of these graphs defines the intrinsic dimension of the inputs to the MLP blocks. investigates the reasoning of LLMs from a geometrical perspective; reports that a higher intrinsic dimension implies greater expressive capacity of the LLM.|
+|[Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps.](https://arxiv.org/abs/2407.07071) |Contextual Hallucinations Mitigation in LLMs: This paper presents a novel approach that both detects and reduces contextual hallucinations in LLMs (e.g., reduces by 10% in the XSum summarization task). It does this by building a hallucination detection model based on input features provided by the ratio of attention weights on the context vs. newly generated tokens (for each attention head). The theory behind this approach is that contextual hallucinations are related to the degree to which an LLM attends to the contextual information provided. Additionally, they suggest a decoding strategy that mitigates contextual hallucinations based on their detection method, and this can be applied to other models without requiring retraining. |
+|[RouteLLM.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
