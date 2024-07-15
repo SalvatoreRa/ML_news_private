@@ -88,7 +88,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -99,7 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta 3D Gen.](https://ai.meta.com/research/publications/meta-3d-gen/) | a new pipeline that can generate 3D assets from text in less than a minute, from start to finish. It incorporates cutting-edge parts like TextureGen and AssetGen to represent objects in three dimensions: view space, volumetric space, and UV space. It also achieves a 68% win rate compared to the single-stage model.|
 |[Challenges, evaluation and opportunities for open-world learning.](https://www.nature.com/articles/s42256-024-00852-4) | Here we argue that designing machine intelligence that can operate in open worlds, including detecting, characterizing and adapting to structurally unexpected environmental changes, is a critical goal on the path to building systems that can solve complex and relatively under-determined problems.  |
 |[Machine learning-aided generative molecular design.](https://www.nature.com/articles/s42256-024-00843-5) |Data-driven generative methods have the potential to greatly facilitate molecular design tasks for drug design. |
-|[.]() | |
+|[Introducing AuraFlow v0.1, an Open Exploration of Large Rectified Flow Models.](https://blog.fal.ai/auraflow/) | Fal trained a new open model called AuraFlow. The model has 5.8B parameters and was trained with muP.|
+|[Lynx: State-of-the-Art Open Source Hallucination Detection Model.](https://www.patronus.ai/blog/lynx-state-of-the-art-open-source-hallucination-detection-model) |a model for identifying language model hallucinations that performs noticeably better than the state of the art in its generations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
