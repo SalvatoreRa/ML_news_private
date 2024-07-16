@@ -118,7 +118,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph.](https://arxiv.org/abs/2403.09236v1) | Hyper-3DG enhances text-to-3D model creation by emphasizing the intricate connections between texture and geometry.|
 |[LightenDiffusion.](https://github.com/jianghaiscu/lightendiffusion) |By utilizing diffusion models and Retinex theory, LightenDiffusion enhances low-light photos. |
 |[ProDepth.](https://sungmin-woo.github.io/prodepth/) |A novel framework for monocular depth estimation called ProDepth addresses problems brought on by moving objects in dynamic situations. It finds and fixes discrepancies in depth estimate using a probabilistic method. |
-|[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | |
+|[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | A high-resolution (1.5 m) publicly available dataset called pen-Canopy is used to estimate canopy height over France.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
