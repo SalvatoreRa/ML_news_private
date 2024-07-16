@@ -55,8 +55,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[gpu.cpp.](https://github.com/AnswerDotAI/gpu.cpp) | A new lightweight and portable library for WebGPU-based low-level GPU computations has been launched by Answer AI. Writing cross-GPU kernels is possible with it, and portable instructions are provided.|
 |[ViTime: A Visual Intelligence-based Foundation Model for Time Series Forecasting.](https://github.com/ikeyang/vitime) |Rather than using conventional numerical data fitting, the foundation model for time series forecasting (TSF) called ViTime makes use of visual intelligence. |
 |[Gradient Boosting Reinforcement Learning.](https://arxiv.org/abs/2407.08250v1) |The benefits of Gradient Boosting Trees (GBT) are applied to reinforcement learning using Gradient-Boosting RL (GBRL). |
-|[.]() | |
-|[.]() | |
+|[SpreadsheetLLM: Encoding Spreadsheets for Large Language Models.](https://arxiv.org/abs/2407.09025) | An excellent study explaining how to convert a spreadsheet into a suitable representation for a contemporary LLM. Q/A, formatting, and other data operations can be done using this.|
+|[LAPT: Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models.](https://arxiv.org/abs/2407.08966v1) |Label-focused A novel technique for out-of-distribution (OOD) detection in Vision-Language Models such as CLIP is Automated Prompt Tuning (LAPT). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
