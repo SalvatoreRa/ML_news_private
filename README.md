@@ -115,9 +115,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Machine learning-aided generative molecular design.](https://www.nature.com/articles/s42256-024-00843-5) |Data-driven generative methods have the potential to greatly facilitate molecular design tasks for drug design. |
 |[Introducing AuraFlow v0.1, an Open Exploration of Large Rectified Flow Models.](https://blog.fal.ai/auraflow/) | Fal trained a new open model called AuraFlow. The model has 5.8B parameters and was trained with muP.|
 |[Lynx: State-of-the-Art Open Source Hallucination Detection Model.](https://www.patronus.ai/blog/lynx-state-of-the-art-open-source-hallucination-detection-model) |a model for identifying language model hallucinations that performs noticeably better than the state of the art in its generations. |
-|[Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph.](https://arxiv.org/abs/2403.09236v1) | |
-|[LightenDiffusion.](https://github.com/jianghaiscu/lightendiffusion) | |
-|[ProDepth.](https://sungmin-woo.github.io/prodepth/) | |
+|[Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph.](https://arxiv.org/abs/2403.09236v1) | Hyper-3DG enhances text-to-3D model creation by emphasizing the intricate connections between texture and geometry.|
+|[LightenDiffusion.](https://github.com/jianghaiscu/lightendiffusion) |By utilizing diffusion models and Retinex theory, LightenDiffusion enhances low-light photos. |
+|[ProDepth.](https://sungmin-woo.github.io/prodepth/) |A novel framework for monocular depth estimation called ProDepth addresses problems brought on by moving objects in dynamic situations. It finds and fixes discrepancies in depth estimate using a probabilistic method. |
 |[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | |
 |[.]() | |
 |[.]() | |
