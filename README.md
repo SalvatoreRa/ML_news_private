@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph.](https://arxiv.org/abs/2403.09236v1) | Hyper-3DG enhances text-to-3D model creation by emphasizing the intricate connections between texture and geometry.|
 |[LightenDiffusion.](https://github.com/jianghaiscu/lightendiffusion) |By utilizing diffusion models and Retinex theory, LightenDiffusion enhances low-light photos. |
 |[ProDepth.](https://sungmin-woo.github.io/prodepth/) |A novel framework for monocular depth estimation called ProDepth addresses problems brought on by moving objects in dynamic situations. It finds and fixes discrepancies in depth estimate using a probabilistic method. |
-|[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | A high-resolution (1.5 m) publicly available dataset called pen-Canopy is used to estimate canopy height over France.|
+|[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | A high-resolution (1.5 m) publicly available dataset called Open-Canopy is used to estimate canopy height over France.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI’s ‘Oppenheimer moment’: autonomous weapons enter the battlefield.](https://www.theguardian.com/technology/article/2024/jul/14/ais-oppenheimer-moment-autonomous-weapons-enter-the-battlefield) |The military use of AI-enabled weapons is growing, and the industry that provides them is booming |
 |[Will generative AI transform robotics?](https://www.nature.com/articles/s42256-024-00862-2) |In the current wave of excitement about applying large vision–language models and generative AI to robotics, expectations are running high, but conquering real-world complexities remains challenging for robots. |
-|[.]() | |
+|[Introducing: The Managed-Service-as-Software (M-SaS) Startup.](https://dannguyenhuu.substack.com/p/introducing-the-managed-service-as) |AI-driven, service-oriented firms are creating Managed-Service-as-Software (M-SaS) enterprises, which follow a new business model blueprint in building their businesses. Startups need to adopt a fundamentally different attitude in order to use AI instead of selling it. These firms start off labor-intensive with low gross margins and then use automation and artificial intelligence (AI) to progressively move to greater SaaS-like gross margins. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
