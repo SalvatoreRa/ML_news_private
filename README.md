@@ -63,6 +63,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 
 ## News
@@ -76,6 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Taming the tail utilization of ads inference at Meta scale.](https://engineering.fb.com/2024/07/10/production-engineering/tail-utilization-ads-inference-meta) |Meta's machine learning inference services saw a two-thirds decrease in failure rates, a 35% increase in compute efficiency, and a halving of p99 latency because to changes made in the tail utilization. With these improvements, Meta's ad delivery systems are guaranteed to be able to manage growing workloads without requiring more resources and to uphold service level agreements. Predictive scaling and managing the machine learning model lifetime with Meta's unified platform, IPnext, are examples of continuous improvement techniques. |
 |[Meta to reportedly launch largest Llama 3 model on July 23.](https://breakingthenews.net/Article/Meta-to-reportedly-launch-largest-Llama-3-model-on-July-23/62364570) |Meta Platforms will release its largest Llama 3 model on July 23, The Information reported on Friday, citing an employee of the company. The new model, boasting 405 billion parameters, will be multimodal and capable of understanding and generating both images and text. |
 |[Quora’s Poe now lets users create and share web apps.](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/) |Poe, Quora’s subscription-based, cross-platform aggregator for AI-powered chatbots like Anthropic’s Claude and OpenAI’s GPT-4o, has launched a feature called Previews that lets people create interactive apps directly in chats with chatbots.|
+|[Microsoft CTO Kevin Scott thinks LLM “scaling laws” will hold despite criticism.](https://arstechnica.com/information-technology/2024/07/microsoft-cto-defies-critics-ai-progress-not-slowing-down-its-just-warming-up/) |Will LLMs keep improving if we throw more compute at them? OpenAI dealmaker thinks so. |
+|[OpenAI says there are 5 'levels' for AI to reach human intelligence — it's already almost at level 2.](https://qz.com/openai-five-level-system-human-intelligence-ai-1851588122) |The company shared a five-level system it developed to track its artificial general intelligence, or AGI, progress with employees this week, an OpenAI spokesperson told Bloomberg. The levels go from the currently available conversational AI to AI that can perform the same amount of work as an organization.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,7 +98,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
