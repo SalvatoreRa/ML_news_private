@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft CTO Kevin Scott thinks LLM “scaling laws” will hold despite criticism.](https://arstechnica.com/information-technology/2024/07/microsoft-cto-defies-critics-ai-progress-not-slowing-down-its-just-warming-up/) |Will LLMs keep improving if we throw more compute at them? OpenAI dealmaker thinks so. |
 |[OpenAI says there are 5 'levels' for AI to reach human intelligence — it's already almost at level 2.](https://qz.com/openai-five-level-system-human-intelligence-ai-1851588122) |The company shared a five-level system it developed to track its artificial general intelligence, or AGI, progress with employees this week, an OpenAI spokesperson told Bloomberg. The levels go from the currently available conversational AI to AI that can perform the same amount of work as an organization.|
 |[AI startup Hebbia raised $130M at a $700M valuation on $13 million of profitable revenue.](https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue) | Hebbia, a startup that uses generative AI to search large documents and respond to large questions, has raised a $130 million Series B at a roughly $700 million valuation led by Andreessen Horowitz, with participation from Index Ventures, Google Ventures and Peter Thiel.|
-|[.]() | |
-|[.]() | |
+|[Pixel 9 Pro might come with 1-year of Gemini Advanced.](https://9to5google.com/2024/07/15/pixel-9-pro-might-gemini-advanced/) |With less than a month until Made by Google 2024, the latest leak suggests that the Pixel 9 Pro will come with 1-year of Gemini Advanced. |
+|[Company Abandons Plans to Give AI Workers "Rights" and Add Them to Org Chart After Outcry From Human Employees.](https://futurism.com/startup-ai-rights-org-chart) |Following its announcement that it would give AI algorithms "rights" and integrate them as "digital workers" with managers and performance evaluations in its product, the HR software provider Lattice encountered criticism. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LightenDiffusion.](https://github.com/jianghaiscu/lightendiffusion) |By utilizing diffusion models and Retinex theory, LightenDiffusion enhances low-light photos. |
 |[ProDepth.](https://sungmin-woo.github.io/prodepth/) |A novel framework for monocular depth estimation called ProDepth addresses problems brought on by moving objects in dynamic situations. It finds and fixes discrepancies in depth estimate using a probabilistic method. |
 |[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | A high-resolution (1.5 m) publicly available dataset called Open-Canopy is used to estimate canopy height over France.|
-|[.]() | |
+|[crawlee-python.](https://github.com/apify/crawlee-python) | Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI’s ‘Oppenheimer moment’: autonomous weapons enter the battlefield.](https://www.theguardian.com/technology/article/2024/jul/14/ais-oppenheimer-moment-autonomous-weapons-enter-the-battlefield) |The military use of AI-enabled weapons is growing, and the industry that provides them is booming |
 |[Will generative AI transform robotics?](https://www.nature.com/articles/s42256-024-00862-2) |In the current wave of excitement about applying large vision–language models and generative AI to robotics, expectations are running high, but conquering real-world complexities remains challenging for robots. |
 |[Introducing: The Managed-Service-as-Software (M-SaS) Startup.](https://dannguyenhuu.substack.com/p/introducing-the-managed-service-as) |AI-driven, service-oriented firms are creating Managed-Service-as-Software (M-SaS) enterprises, which follow a new business model blueprint in building their businesses. Startups need to adopt a fundamentally different attitude in order to use AI instead of selling it. These firms start off labor-intensive with low gross margins and then use automation and artificial intelligence (AI) to progressively move to greater SaaS-like gross margins. |
-|[.]() | |
+|[Could AIs become conscious? Right now, we have no way to tell.](https://arstechnica.com/science/2024/07/could-ais-become-conscious-right-now-we-have-no-way-to-tell/) |With divergent opinions on whether developments in machine learning and neuromorphic computing can result in sentient computers, the discussion over artificial intelligence potentially gaining awareness is becoming more heated. The theory of Integrated Information holds that the current hardware limits make AI consciousness implausible, while computational functionalist theories such as Global Neuronal Workspace Theory and Attention Schema Theory believe that AI awareness is inevitable. Neuroscience is trying to come up with a single theory of consciousness in order to better understand how it might show up in AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
