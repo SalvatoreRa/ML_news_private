@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI startup Hebbia raised $130M at a $700M valuation on $13 million of profitable revenue.](https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue) | Hebbia, a startup that uses generative AI to search large documents and respond to large questions, has raised a $130 million Series B at a roughly $700 million valuation led by Andreessen Horowitz, with participation from Index Ventures, Google Ventures and Peter Thiel.|
 |[Pixel 9 Pro might come with 1-year of Gemini Advanced.](https://9to5google.com/2024/07/15/pixel-9-pro-might-gemini-advanced/) |With less than a month until Made by Google 2024, the latest leak suggests that the Pixel 9 Pro will come with 1-year of Gemini Advanced. |
 |[Company Abandons Plans to Give AI Workers "Rights" and Add Them to Org Chart After Outcry From Human Employees.](https://futurism.com/startup-ai-rights-org-chart) |Following its announcement that it would give AI algorithms "rights" and integrate them as "digital workers" with managers and performance evaluations in its product, the HR software provider Lattice encountered criticism. |
-|[.]() | |
+|[Want to know how AI will affect government and politics? The bots have the answers.](https://www.theguardian.com/technology/article/2024/jul/16/want-to-know-how-ai-will-affect-government-and-politics-the-bots-have-the-answers) |Tony Blair’s powerful thinktank asked ChatGPT how AI might affect public sector jobs. Critics say the results were … wonky |
 |[.]() | |
 |[.]() | |
 |[.]() | |
