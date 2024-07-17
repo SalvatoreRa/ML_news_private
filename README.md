@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Andrej Karpathy's new company.](https://eurekalabs.ai/) |A new AI startup with an emphasis on education, Eureka Labs aims to transform the way we acquire new knowledge. |
 |[Whistleblowers accuse OpenAI of ‘illegally restrictive’ NDAs.](https://techcrunch.com/2024/07/13/whistleblowers-accuse-openai-of-illegally-restrictive-ndas/) | Whistleblowers have accused OpenAI of placing illegal restrictions on how employees can communicate with government regulators, according to a letter obtained by The Washington Post.|
 |[Apple, Nvidia, Anthropic Used Thousands of Swiped YouTube Videos to Train AI.](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/) | AI companies are generally secretive about their sources of training data, but an investigation by Proof News found some of the wealthiest AI companies in the world have used material from  thousands of  YouTube videos to train AI. Companies did so despite YouTube’s rules against harvesting materials from the platform without permission.|
-|[.]() | |
+|[SciCode: A Research Coding Benchmark Curated by Scientists.](https://scicode-bench.github.io/) |The objective of coding models has always been HumanEval. It is essentially solved now. This benchmark is the next step forward in solving difficult science programming puzzles. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
