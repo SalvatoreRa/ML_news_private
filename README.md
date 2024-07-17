@@ -94,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Whistleblowers accuse OpenAI of ‘illegally restrictive’ NDAs.](https://techcrunch.com/2024/07/13/whistleblowers-accuse-openai-of-illegally-restrictive-ndas/) | Whistleblowers have accused OpenAI of placing illegal restrictions on how employees can communicate with government regulators, according to a letter obtained by The Washington Post.|
 |[Apple, Nvidia, Anthropic Used Thousands of Swiped YouTube Videos to Train AI.](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/) | AI companies are generally secretive about their sources of training data, but an investigation by Proof News found some of the wealthiest AI companies in the world have used material from  thousands of  YouTube videos to train AI. Companies did so despite YouTube’s rules against harvesting materials from the platform without permission.|
 |[SciCode: A Research Coding Benchmark Curated by Scientists.](https://scicode-bench.github.io/) |The objective of coding models has always been HumanEval. It is essentially solved now. This benchmark is the next step forward in solving difficult science programming puzzles. |
-|[.]() | |
-|[.]() | |
+|[SmolLM - blazingly fast and remarkably powerful.](https://huggingface.co/blog/smollm) |This blog post introduces SmolLM, a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset. It covers data curation, model evaluation, and usage. |
+|[Benchmarking results for vector databases.](https://redis.io/blog/benchmarking-results-for-vector-databases/) |Redis has released updated information on the best vector databases, measuring throughput and latency with the help of the industry-recognized Qdrant framework. Key findings include Redis achieving much higher queries per second and lower latency than Qdrant, Milvus, and Weaviate, and outperforming competitors by 62% for low complexity datasets and by 21% for high-dimensional datasets. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[exo.](https://github.com/exo-explore/exo) |Run your own AI cluster at home on everyday devices. |
 |[Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training.](https://github.com/robustnlp/derta) |Through addressing refusal position bias, a novel method called Decoupled Refusal Training (DeRTa) enhances safety tuning in large language models. |
 |[PID: Physics-Informed Diffusion Model for Infrared Image Generation.](https://github.com/fangyuanmao/pid) | By integrating physical laws into the conversion process, researchers have created a Physics-Informed Diffusion (PID) model that enhances the translation of RGB images to infrared images.|
-|[.]() | |
+|[What happened to BERT & T5? On Transformer Encoders, PrefixLM and Denoising Objectives.](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising) |Excellent post on encoders, prefixlm, denoising aims, and other contemporary language modeling techniques by Yi Tay of Reka and Google. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
