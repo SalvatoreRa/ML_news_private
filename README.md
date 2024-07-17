@@ -120,9 +120,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[crawlee-python.](https://github.com/apify/crawlee-python) | Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.|
 |[Mathstral.](https://mistral.ai/news/mathstral/) | Mistral's newest math model performs well on various benchmarks|
 |[Codestral Mamba.](https://mistral.ai/news/codestral-mamba/) | Codestral Mamba, a Mamba2 language model specialised in code generation, available under an Apache 2.0 license.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[exo.](https://github.com/exo-explore/exo) |Run your own AI cluster at home on everyday devices. |
+|[Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training.](https://github.com/robustnlp/derta) |Through addressing refusal position bias, a novel method called Decoupled Refusal Training (DeRTa) enhances safety tuning in large language models. |
+|[PID: Physics-Informed Diffusion Model for Infrared Image Generation.](https://github.com/fangyuanmao/pid) | By integrating physical laws into the conversion process, researchers have created a Physics-Informed Diffusion (PID) model that enhances the translation of RGB images to infrared images.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
