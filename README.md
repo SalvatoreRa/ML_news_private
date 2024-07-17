@@ -102,8 +102,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -120,6 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ProDepth.](https://sungmin-woo.github.io/prodepth/) |A novel framework for monocular depth estimation called ProDepth addresses problems brought on by moving objects in dynamic situations. It finds and fixes discrepancies in depth estimate using a probabilistic method. |
 |[Open-Canopy.](https://arxiv.org/abs/2407.09392v1) | A high-resolution (1.5 m) publicly available dataset called Open-Canopy is used to estimate canopy height over France.|
 |[crawlee-python.](https://github.com/apify/crawlee-python) | Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.|
+|[Mathstral.](https://mistral.ai/news/mathstral/) | Mistral's newest math model performs well on various benchmarks|
+|[Codestral Mamba.](https://mistral.ai/news/codestral-mamba/) | Codestral Mamba, a Mamba2 language model specialised in code generation, available under an Apache 2.0 license.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
