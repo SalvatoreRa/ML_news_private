@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pixel 9 Pro might come with 1-year of Gemini Advanced.](https://9to5google.com/2024/07/15/pixel-9-pro-might-gemini-advanced/) |With less than a month until Made by Google 2024, the latest leak suggests that the Pixel 9 Pro will come with 1-year of Gemini Advanced. |
 |[Company Abandons Plans to Give AI Workers "Rights" and Add Them to Org Chart After Outcry From Human Employees.](https://futurism.com/startup-ai-rights-org-chart) |Following its announcement that it would give AI algorithms "rights" and integrate them as "digital workers" with managers and performance evaluations in its product, the HR software provider Lattice encountered criticism. |
 |[Want to know how AI will affect government and politics? The bots have the answers.](https://www.theguardian.com/technology/article/2024/jul/16/want-to-know-how-ai-will-affect-government-and-politics-the-bots-have-the-answers) |Tony Blair’s powerful thinktank asked ChatGPT how AI might affect public sector jobs. Critics say the results were … wonky |
-|[.]() | |
+|[Andrej Karpathy's new company.](https://eurekalabs.ai/) |A new AI startup with an emphasis on education, Eureka Labs aims to transform the way we acquire new knowledge. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
