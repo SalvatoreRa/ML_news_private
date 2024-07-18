@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Announcing the launch of Gray Swan.](https://www.grayswan.ai/news/gray-swan-launch) |A company specializing in creating tools to assist businesses in evaluating the risks associated with their AI systems and protecting their AI installations from inappropriate use is called Gray Swan AI. |
 |[Anthropic releases Claude app for Android.](https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android/) |Anthropic launched its Claude Android app on Tuesday to bring its AI chatbot to more users. This is Anthropic’s latest effort to convince users to ditch ChatGPT by making Claude available in more places. |
 |[AI tool can pinpoint dementia’s cause — from stroke to Alzheimer’s.](https://www.nature.com/articles/d41586-024-02202-1) |Algorithm that distinguishes among a host of underlying causes of dementia could be used for diagnosis in hospitals and clinics. |
-|[.]() | |
+|[Portal needed for victims to report AI deepfakes, federal police union says.](https://www.theguardian.com/technology/article/2024/jul/18/ai-deepfakes-revenge-porn-reporting-portal-australia-laws) |Parliamentary inquiry told police forced to ‘cobble together’ laws to prosecute man who allegedly spread deepfake images of women |
 |[.]() | |
 |[.]() | |
 |[.]() | |
