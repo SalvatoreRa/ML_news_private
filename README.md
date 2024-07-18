@@ -102,9 +102,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Portal needed for victims to report AI deepfakes, federal police union says.](https://www.theguardian.com/technology/article/2024/jul/18/ai-deepfakes-revenge-porn-reporting-portal-australia-laws) |Parliamentary inquiry told police forced to ‘cobble together’ laws to prosecute man who allegedly spread deepfake images of women |
 |[Meta Won't Offer Future Multimodal AI Models In The EU.](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu) |Due to legislative uncertainties, Meta will not be able to provide future multimodal AI models to consumers in the EU; however, Llama 3 will still be offered in text only. |
 |[Anthropic teams up with venture capital firm to kickstart $100M AI startup fund.](https://www.theregister.com/2024/07/17/anthropic_teams_up_with_vc/) |Recipients of six-digit investments aren’t required to use Claude |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anthropic doubles output token limit.](https://threadreaderapp.com/thread/1812921642143900036.html) | Anthropic has doubled the max output token limit for Claude 3.5 Sonnet from 4096 to 8192 in the Anthropic API.|
+|[AI-powered video creation for work.](https://workspace.google.com/products/vids/) |An AI-powered video creation tool for the workplace, Google Vids is tightly integrated with the Workspace suite. |
+|[aiXplain Secures $6.5M pre-Series A to Universalize AI Agent Development.](https://www.einnews.com/pr_news/728139645/aixplain-secures-6-5m-pre-series-a-to-universalize-ai-agent-development) | Saudi Aramco's venture arm, Wa'ed Ventures, has announced a $6.5 million pre-series A fundraising round for aiXplain (a global top 10 firm by market cap).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
