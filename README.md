@@ -100,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic releases Claude app for Android.](https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android/) |Anthropic launched its Claude Android app on Tuesday to bring its AI chatbot to more users. This is Anthropic’s latest effort to convince users to ditch ChatGPT by making Claude available in more places. |
 |[AI tool can pinpoint dementia’s cause — from stroke to Alzheimer’s.](https://www.nature.com/articles/d41586-024-02202-1) |Algorithm that distinguishes among a host of underlying causes of dementia could be used for diagnosis in hospitals and clinics. |
 |[Portal needed for victims to report AI deepfakes, federal police union says.](https://www.theguardian.com/technology/article/2024/jul/18/ai-deepfakes-revenge-porn-reporting-portal-australia-laws) |Parliamentary inquiry told police forced to ‘cobble together’ laws to prosecute man who allegedly spread deepfake images of women |
-|[.]() | |
-|[.]() | |
+|[Meta Won't Offer Future Multimodal AI Models In The EU.](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu) |Due to legislative uncertainties, Meta will not be able to provide future multimodal AI models to consumers in the EU; however, Llama 3 will still be offered in text only. |
+|[Anthropic teams up with venture capital firm to kickstart $100M AI startup fund.](https://www.theregister.com/2024/07/17/anthropic_teams_up_with_vc/) |Recipients of six-digit investments aren’t required to use Claude |
 |[.]() | |
 |[.]() | |
 |[.]() | |
