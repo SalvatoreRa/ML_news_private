@@ -57,8 +57,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gradient Boosting Reinforcement Learning.](https://arxiv.org/abs/2407.08250v1) |The benefits of Gradient Boosting Trees (GBT) are applied to reinforcement learning using Gradient-Boosting RL (GBRL). |
 |[SpreadsheetLLM: Encoding Spreadsheets for Large Language Models.](https://arxiv.org/abs/2407.09025) | An excellent study explaining how to convert a spreadsheet into a suitable representation for a contemporary LLM. Q/A, formatting, and other data operations can be done using this.|
 |[LAPT: Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models.](https://arxiv.org/abs/2407.08966v1) |Label-focused A novel technique for out-of-distribution (OOD) detection in Vision-Language Models such as CLIP is Automated Prompt Tuning (LAPT). |
-|[.]() | |
-|[.]() | |
+|[Prover-Verifier Games improve legibility of language model outputs.](https://openai.com/index/prover-verifier-games-improve-legibility/) |In order to enable a weak model to grade content reliably, OpenAI trained a strong model to produce more legible text. The company discovered that this improved overall readability generally. |
+|[Temporally Consistent Stereo Matching.](https://arxiv.org/abs/2407.11950v1) | By guaranteeing temporal consistency, researchers present a novel technique for video stereo matching that improves depth estimation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training.](https://github.com/robustnlp/derta) |Through addressing refusal position bias, a novel method called Decoupled Refusal Training (DeRTa) enhances safety tuning in large language models. |
 |[PID: Physics-Informed Diffusion Model for Infrared Image Generation.](https://github.com/fangyuanmao/pid) | By integrating physical laws into the conversion process, researchers have created a Physics-Informed Diffusion (PID) model that enhances the translation of RGB images to infrared images.|
 |[What happened to BERT & T5? On Transformer Encoders, PrefixLM and Denoising Objectives.](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising) |Excellent post on encoders, prefixlm, denoising aims, and other contemporary language modeling techniques by Yi Tay of Reka and Google. |
-|[.]() | |
+|[LiDAR Semantic Segmentation.](https://arxiv.org/abs/2407.11569v1) |A novel technique called SFPNet is intended to be universal across various LiDAR technology types. Instead of employing window-attention as in the past, SFPNet uses sparse focus point modulation to extract and dynamically collect multi-level contexts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
