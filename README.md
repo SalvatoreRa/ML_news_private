@@ -96,6 +96,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SciCode: A Research Coding Benchmark Curated by Scientists.](https://scicode-bench.github.io/) |The objective of coding models has always been HumanEval. It is essentially solved now. This benchmark is the next step forward in solving difficult science programming puzzles. |
 |[SmolLM - blazingly fast and remarkably powerful.](https://huggingface.co/blog/smollm) |This blog post introduces SmolLM, a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset. It covers data curation, model evaluation, and usage. |
 |[Benchmarking results for vector databases.](https://redis.io/blog/benchmarking-results-for-vector-databases/) |Redis has released updated information on the best vector databases, measuring throughput and latency with the help of the industry-recognized Qdrant framework. Key findings include Redis achieving much higher queries per second and lower latency than Qdrant, Milvus, and Weaviate, and outperforming competitors by 62% for low complexity datasets and by 21% for high-dimensional datasets. |
+|[Announcing the launch of Gray Swan.](https://www.grayswan.ai/news/gray-swan-launch) |A company specializing in creating tools to assist businesses in evaluating the risks associated with their AI systems and protecting their AI installations from inappropriate use is called Gray Swan AI. |
+|[Anthropic releases Claude app for Android.](https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android/) |Anthropic launched its Claude Android app on Tuesday to bring its AI chatbot to more users. This is Anthropic’s latest effort to convince users to ditch ChatGPT by making Claude available in more places. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
