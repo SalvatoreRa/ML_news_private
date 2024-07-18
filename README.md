@@ -135,9 +135,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PID: Physics-Informed Diffusion Model for Infrared Image Generation.](https://github.com/fangyuanmao/pid) | By integrating physical laws into the conversion process, researchers have created a Physics-Informed Diffusion (PID) model that enhances the translation of RGB images to infrared images.|
 |[What happened to BERT & T5? On Transformer Encoders, PrefixLM and Denoising Objectives.](https://www.yitay.net/blog/model-architecture-blogpost-encoders-prefixlm-denoising) |Excellent post on encoders, prefixlm, denoising aims, and other contemporary language modeling techniques by Yi Tay of Reka and Google. |
 |[LiDAR Semantic Segmentation.](https://arxiv.org/abs/2407.11569v1) |A novel technique called SFPNet is intended to be universal across various LiDAR technology types. Instead of employing window-attention as in the past, SFPNet uses sparse focus point modulation to extract and dynamically collect multi-level contexts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Praison AI.](https://github.com/MervinPraison/PraisonAI) |Using prior agent frameworks as a springboard, Praison AI is a low-code, centralized framework with customizable features and human-agent interaction that makes it easier to create and manage multi-agent systems for a range of LLM applications. |
+|[Video Object Segmentation with World Knowledge.](https://github.com/cilinyan/VISA) | Reasoning Video Object Segmentation (ReasonVOS) is a new task that uses implicit text queries to generate segmentation masks. It requires complex reasoning and world knowledge.|
+|[Enhancing Class Learning Without Forgetting.](https://github.com/roadonep/eccv2024_mbs) |In order to enhance Class-Incremental Semantic Segmentation (CISS), this project presents a background-class separation framework. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
