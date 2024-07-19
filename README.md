@@ -105,6 +105,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic doubles output token limit.](https://threadreaderapp.com/thread/1812921642143900036.html) | Anthropic has doubled the max output token limit for Claude 3.5 Sonnet from 4096 to 8192 in the Anthropic API.|
 |[AI-powered video creation for work.](https://workspace.google.com/products/vids/) |An AI-powered video creation tool for the workplace, Google Vids is tightly integrated with the Workspace suite. |
 |[aiXplain Secures $6.5M pre-Series A to Universalize AI Agent Development.](https://www.einnews.com/pr_news/728139645/aixplain-secures-6-5m-pre-series-a-to-universalize-ai-agent-development) | Saudi Aramco's venture arm, Wa'ed Ventures, has announced a $6.5 million pre-series A fundraising round for aiXplain (a global top 10 firm by market cap).|
+|[Meta pulls plug on release of advanced AI model in EU.](https://www.theguardian.com/technology/article/2024/jul/18/meta-release-advanced-ai-multimodal-llama-model-eu-facebook-owner) |‘Unpredictable’ privacy regulations prompt Facebook owner to scrap regional plans for multimodal Llama |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
