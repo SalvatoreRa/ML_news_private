@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral NeMo.](https://mistral.ai/news/mistral-nemo/) | A novel tokenizer was used to train the multilingual Mistral Nemo 12B model, which exhibits strong multilingual and English performance. Also supported are 128k contexts.|
 |[OpenAI is releasing a cheaper, smarter model.](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini) |OpenAI is releasing a lighter, cheaper model for developers to tinker with called GPT-4o Mini. It costs significantly less than full-sized models and is said to be more capable than GPT-3.5. |
 |[Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services.](https://cohere.com/blog/fujitsu-partnership) |Cohere and Fujitsu have partnered strategically to create and offer enterprise AI services that have the best Japanese language capabilities in the market. These services, which will provide private cloud deployments to businesses in highly regulated sectors including financial institutions, the public sector, and research and development units, will be developed with security and data privacy as their primary goals. |
-|[.]() | |
-|[.]() | |
+|[OpenAI And Broadcom Held Discussions About Producing An AI Chip.](https://seekingalpha.com/news/4125638-broadcom-held-discussions-with-openai-about-producing-ai-chip-report) | OpenAI and Broadcom have discussed developing a new artificial intelligence server processor.|
+|[Flow Studio.](https://www.producthunt.com/posts/flow-studio) |Flow Studio creates 3-minute films that are completely produced, with a believable story, dependable characters, and automatically synced sound effects and background music. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,9 +149,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM2sh.](https://github.com/randombk/llm2sh) |A command-line tool called LLM2sh uses LLMs to convert requests written in plain English into shell instructions. |
 |[GraphMuse.](https://github.com/manoskary/graphmuse) |GraphMuse is a Python Library for Graph Deep Learning on Symbolic Music. This library intents to address Graph Deep Learning techniques and models applied specifically to Music Scores. |
 |[E5-V: Universal Embeddings with Multimodal Large Language Models.](https://github.com/kongds/e5-v) | A novel framework called E5-V modifies Multimodal Large Language Models (MLLMs) to provide multimodal embeddings that are universal. With prompts, it bridges the gap between various input formats and achieves remarkable results in multimodal activities without the need for fine-tuning.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Strategizing Your Preparation for Machine Learning Interviews.](https://mlengineerinsights.substack.com/p/strategizing-your-preparation-for) | Interviews for machine learning might be difficult. You may greatly increase your chances by being aware of the range of machine learning positions and adjusting your preparation to fit particular job duties and specializations. To approach interviews with confidence, concentrate on learning the fundamentals, investigating technology unique to the organization, and regularly monitoring your progress.|
+|[Uncensor Any LLM With Abliteration.](https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/) | For safety, llama models are heavily restricted, which reduces their versatility. Through the identification and elimination of the rejection mechanism, the "abliteration" technique uncensors them, enabling models to respond to all stimuli without requiring retraining.|
+|[SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers.](https://arxiv.org/abs/2407.09413v1) |SPIQA is a quality assurance dataset created to assist users in rapidly locating solutions within scientific research publications by deciphering intricate figures and tables. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -171,7 +171,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-Driven Behavior Change Could Transform Health Care.](https://time.com/6994739/ai-behavior-change-health-care/) |Thrive AI Health is being funded by OpenAI and Thrive Global to create a customized AI health coach that addresses everyday health-related behaviors like nutrition and sleep. AI's hyper-personalization powers the mobile app and corporate solution by fusing individual data with peer-reviewed science. The project intends to manage chronic diseases, democratize healthy behavior modification, and show how effectively AI can be integrated into healthcare while maintaining robust privacy protections. |
 |[GraphRAG Analysis, Part 1: How Indexing Elevates Knowledge Graph Performance in RAG.](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing) | Analysis of Microsoft's GraphRAG research suggests that knowledge graphs like Neo4j may not significantly beat FAISS in context retrieval for RAG applications. While Neo4j without its indexing can reach a better answer relevancy, the minor advantages may not justify the cost given ROI limits. Neo4j's indexing, on the other hand, significantly improves answer faithfulness, lowering the possibility of false information.|
 |[How Taiwan secured semiconductor supremacy – and why it won’t give it up.](https://www.theguardian.com/world/article/2024/jul/19/taiwan-semiconductor-industry-booming) | Trump has accused Taiwan of ‘taking’ the US chip sector, but Taipei has been at the forefront of the industry for decades, and its future could depend on it|
-|[.]() | |
+|[Overcoming The Limits Of Current LLMs.](https://seanpedersen.github.io/posts/overcoming-llm-limits) | Large language models (LLM) have been all the rage for quite some time now. Looking beyond the hype though, they have severe limitations: hallucinations, lack of confidence estimates and lack of citations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
