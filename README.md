@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta pulls plug on release of advanced AI model in EU.](https://www.theguardian.com/technology/article/2024/jul/18/meta-release-advanced-ai-multimodal-llama-model-eu-facebook-owner) |‘Unpredictable’ privacy regulations prompt Facebook owner to scrap regional plans for multimodal Llama |
 |[Mistral NeMo.](https://mistral.ai/news/mistral-nemo/) | A novel tokenizer was used to train the multilingual Mistral Nemo 12B model, which exhibits strong multilingual and English performance. Also supported are 128k contexts.|
 |[OpenAI is releasing a cheaper, smarter model.](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini) |OpenAI is releasing a lighter, cheaper model for developers to tinker with called GPT-4o Mini. It costs significantly less than full-sized models and is said to be more capable than GPT-3.5. |
-|[.]() | |
+|[Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services.](https://cohere.com/blog/fujitsu-partnership) |Cohere and Fujitsu have partnered strategically to create and offer enterprise AI services that have the best Japanese language capabilities in the market. These services, which will provide private cloud deployments to businesses in highly regulated sectors including financial institutions, the public sector, and research and development units, will be developed with security and data privacy as their primary goals. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
