@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LAPT: Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models.](https://arxiv.org/abs/2407.08966v1) |Label-focused A novel technique for out-of-distribution (OOD) detection in Vision-Language Models such as CLIP is Automated Prompt Tuning (LAPT). |
 |[Prover-Verifier Games improve legibility of language model outputs.](https://openai.com/index/prover-verifier-games-improve-legibility/) |In order to enable a weak model to grade content reliably, OpenAI trained a strong model to produce more legible text. The company discovered that this improved overall readability generally. |
 |[Temporally Consistent Stereo Matching.](https://arxiv.org/abs/2407.11950v1) | By guaranteeing temporal consistency, researchers present a novel technique for video stereo matching that improves depth estimation.|
-|[.]() | |
+|[Patch-Level Training for Large Language Models.](https://arxiv.org/abs/2407.12665v1) |To increase training efficiency for big language models, researchers suggest patch-level training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,10 +145,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Video Object Segmentation with World Knowledge.](https://github.com/cilinyan/VISA) | Reasoning Video Object Segmentation (ReasonVOS) is a new task that uses implicit text queries to generate segmentation masks. It requires complex reasoning and world knowledge.|
 |[Enhancing Class Learning Without Forgetting.](https://github.com/roadonep/eccv2024_mbs) |In order to enhance Class-Incremental Semantic Segmentation (CISS), this project presents a background-class separation framework. |
 |[Leapfrogging traditional vector-based RAG with language maps.](https://x.com/mutableai/status/1813815706783490055) |When developing a chat application over data, retrieval plays a major role. But frequently, systems are delicate to the format of the data being accessed. Chat-based performance is greatly enhanced by creating a language map (e.g., Wikipedia style entry) of the material and using that for retrieval. This is how code base question answering is handled by mutable AI. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Removing Inappropriate Content from Diffusion Models.](https://arxiv.org/abs/2407.12383v1) | Using a revolutionary technique called Reliable and Efficient Concept Erasure (RECE), improper content may be removed from diffusion models in only three seconds without requiring additional fine-tuning.|
+|[LLM2sh.](https://github.com/randombk/llm2sh) |A command-line tool called LLM2sh uses LLMs to convert requests written in plain English into shell instructions. |
+|[GraphMuse.](https://github.com/manoskary/graphmuse) |GraphMuse is a Python Library for Graph Deep Learning on Symbolic Music. This library intents to address Graph Deep Learning techniques and models applied specifically to Music Scores. |
+|[E5-V: Universal Embeddings with Multimodal Large Language Models.](https://github.com/kongds/e5-v) | A novel framework called E5-V modifies Multimodal Large Language Models (MLLMs) to provide multimodal embeddings that are universal. With prompts, it bridges the gap between various input formats and achieves remarkable results in multimodal activities without the need for fine-tuning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
