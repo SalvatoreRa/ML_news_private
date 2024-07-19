@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-powered video creation for work.](https://workspace.google.com/products/vids/) |An AI-powered video creation tool for the workplace, Google Vids is tightly integrated with the Workspace suite. |
 |[aiXplain Secures $6.5M pre-Series A to Universalize AI Agent Development.](https://www.einnews.com/pr_news/728139645/aixplain-secures-6-5m-pre-series-a-to-universalize-ai-agent-development) | Saudi Aramco's venture arm, Wa'ed Ventures, has announced a $6.5 million pre-series A fundraising round for aiXplain (a global top 10 firm by market cap).|
 |[Meta pulls plug on release of advanced AI model in EU.](https://www.theguardian.com/technology/article/2024/jul/18/meta-release-advanced-ai-multimodal-llama-model-eu-facebook-owner) |‘Unpredictable’ privacy regulations prompt Facebook owner to scrap regional plans for multimodal Llama |
-|[.]() | |
-|[.]() | |
+|[Mistral NeMo.](https://mistral.ai/news/mistral-nemo/) | A novel tokenizer was used to train the multilingual Mistral Nemo 12B model, which exhibits strong multilingual and English performance. Also supported are 128k contexts.|
+|[OpenAI is releasing a cheaper, smarter model.](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini) |OpenAI is releasing a lighter, cheaper model for developers to tinker with called GPT-4o Mini. It costs significantly less than full-sized models and is said to be more capable than GPT-3.5. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
