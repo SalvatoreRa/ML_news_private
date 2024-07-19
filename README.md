@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Praison AI.](https://github.com/MervinPraison/PraisonAI) |Using prior agent frameworks as a springboard, Praison AI is a low-code, centralized framework with customizable features and human-agent interaction that makes it easier to create and manage multi-agent systems for a range of LLM applications. |
 |[Video Object Segmentation with World Knowledge.](https://github.com/cilinyan/VISA) | Reasoning Video Object Segmentation (ReasonVOS) is a new task that uses implicit text queries to generate segmentation masks. It requires complex reasoning and world knowledge.|
 |[Enhancing Class Learning Without Forgetting.](https://github.com/roadonep/eccv2024_mbs) |In order to enhance Class-Incremental Semantic Segmentation (CISS), this project presents a background-class separation framework. |
-|[.]() | |
+|[Leapfrogging traditional vector-based RAG with language maps.](https://x.com/mutableai/status/1813815706783490055) |When developing a chat application over data, retrieval plays a major role. But frequently, systems are delicate to the format of the data being accessed. Chat-based performance is greatly enhanced by creating a language map (e.g., Wikipedia style entry) of the material and using that for retrieval. This is how code base question answering is handled by mutable AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
