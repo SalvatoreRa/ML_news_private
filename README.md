@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services.](https://cohere.com/blog/fujitsu-partnership) |Cohere and Fujitsu have partnered strategically to create and offer enterprise AI services that have the best Japanese language capabilities in the market. These services, which will provide private cloud deployments to businesses in highly regulated sectors including financial institutions, the public sector, and research and development units, will be developed with security and data privacy as their primary goals. |
 |[OpenAI And Broadcom Held Discussions About Producing An AI Chip.](https://seekingalpha.com/news/4125638-broadcom-held-discussions-with-openai-about-producing-ai-chip-report) | OpenAI and Broadcom have discussed developing a new artificial intelligence server processor.|
 |[Flow Studio.](https://www.producthunt.com/posts/flow-studio) |Flow Studio creates 3-minute films that are completely produced, with a believable story, dependable characters, and automatically synced sound effects and background music. |
-|[.]() | |
+|[Slow recovery from IT outage begins as experts warn of future risks.](https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death) |Fault in CrowdStrike caused airports, businesses and healthcare services to languish in ‘largest outage in history’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
