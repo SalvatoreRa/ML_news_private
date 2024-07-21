@@ -60,17 +60,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Prover-Verifier Games improve legibility of language model outputs.](https://openai.com/index/prover-verifier-games-improve-legibility/) |In order to enable a weak model to grade content reliably, OpenAI trained a strong model to produce more legible text. The company discovered that this improved overall readability generally. |
 |[Temporally Consistent Stereo Matching.](https://arxiv.org/abs/2407.11950v1) | By guaranteeing temporal consistency, researchers present a novel technique for video stereo matching that improves depth estimation.|
 |[Patch-Level Training for Large Language Models.](https://arxiv.org/abs/2407.12665v1) |To increase training efficiency for big language models, researchers suggest patch-level training. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## News
@@ -112,12 +101,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI And Broadcom Held Discussions About Producing An AI Chip.](https://seekingalpha.com/news/4125638-broadcom-held-discussions-with-openai-about-producing-ai-chip-report) | OpenAI and Broadcom have discussed developing a new artificial intelligence server processor.|
 |[Flow Studio.](https://www.producthunt.com/posts/flow-studio) |Flow Studio creates 3-minute films that are completely produced, with a believable story, dependable characters, and automatically synced sound effects and background music. |
 |[Slow recovery from IT outage begins as experts warn of future risks.](https://www.theguardian.com/australia-news/article/2024/jul/19/microsoft-windows-pcs-outage-blue-screen-of-death) |Fault in CrowdStrike caused airports, businesses and healthcare services to languish in ‘largest outage in history’ |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -152,11 +135,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Strategizing Your Preparation for Machine Learning Interviews.](https://mlengineerinsights.substack.com/p/strategizing-your-preparation-for) | Interviews for machine learning might be difficult. You may greatly increase your chances by being aware of the range of machine learning positions and adjusting your preparation to fit particular job duties and specializations. To approach interviews with confidence, concentrate on learning the fundamentals, investigating technology unique to the organization, and regularly monitoring your progress.|
 |[Uncensor Any LLM With Abliteration.](https://research.google/blog/smart-paste-for-context-aware-adjustments-to-pasted-code/) | For safety, llama models are heavily restricted, which reduces their versatility. Through the identification and elimination of the rejection mechanism, the "abliteration" technique uncensors them, enabling models to respond to all stimuli without requiring retraining.|
 |[SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers.](https://arxiv.org/abs/2407.09413v1) |SPIQA is a quality assurance dataset created to assist users in rapidly locating solutions within scientific research publications by deciphering intricate figures and tables. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -172,18 +150,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GraphRAG Analysis, Part 1: How Indexing Elevates Knowledge Graph Performance in RAG.](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing) | Analysis of Microsoft's GraphRAG research suggests that knowledge graphs like Neo4j may not significantly beat FAISS in context retrieval for RAG applications. While Neo4j without its indexing can reach a better answer relevancy, the minor advantages may not justify the cost given ROI limits. Neo4j's indexing, on the other hand, significantly improves answer faithfulness, lowering the possibility of false information.|
 |[How Taiwan secured semiconductor supremacy – and why it won’t give it up.](https://www.theguardian.com/world/article/2024/jul/19/taiwan-semiconductor-industry-booming) | Trump has accused Taiwan of ‘taking’ the US chip sector, but Taipei has been at the forefront of the industry for decades, and its future could depend on it|
 |[Overcoming The Limits Of Current LLMs.](https://seanpedersen.github.io/posts/overcoming-llm-limits) | Large language models (LLM) have been all the rage for quite some time now. Looking beyond the hype though, they have severe limitations: hallucinations, lack of confidence estimates and lack of citations.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 # ML news: 8 - 14  July
 
