@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SpreadsheetLLM: Encoding Spreadsheets for Large Language Models.](https://arxiv.org/abs/2407.09025) |outlines a method for efficiently encoding spreadsheets to maximize an LLM's comprehension and reasoning skills; creates a sheet compressor that efficiently compresses and encodes spreadsheets using inverse index translation, structural anchor-based compression, and data-format-aware aggregation modules; in GPT-4's in-context learning, it improves performance in spreadsheet table detection by 25.6%. |
 |[Context Embeddings for Efficient Answer Generation in RAG.](https://arxiv.org/abs/2407.09252) |presents a useful context compression technique that shortens long contexts and accelerates generation times in RAG systems. Long contexts are condensed into a limited number of context embeddings, allowing for varying compression rates that balance generation quality against decoding time. This technique maintains high performance while reducing inference times by up to 5.69 x and GFLOPs by up to 22x. |
 |[Weak-to-Strong Reasoning.](https://arxiv.org/abs/2407.13647) | reports that strong models can automatically refine their training data without explicitly being trained to do so; shows how to use weak supervision to elicit strong reasoning capabilities in LLMs without relying on human annotations or advanced models; permits extending a model's learning scope and scaling performance on reasoning. |
-|[.]() | |
+|[Does Refusal Training in LLMs Generalize to the Past Tense?](https://arxiv.org/abs/2407.11969) | concludes that many state-of-the-art LLMs can be jailbroken by simply rephrasing an LLM request into the past tense. For instance, "How to make a Molotov cocktail?" can be rephrased as "How did people make a Molotov cocktail?" The success rate of such requests can increase from 1% to 88% when using direct requests on GPT-4o.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks.](https://arxiv.org/abs/2407.12994) | a set of quick engineering techniques for various NLP applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
