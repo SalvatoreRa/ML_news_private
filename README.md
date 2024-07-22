@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DCLM-Baseline-7B.](https://huggingface.co/apple/DCLM-7B) |DCLM-Baseline-7B is a 7 billion parameter language model trained on the DCLM-Baseline dataset, which was curated as part of the DataComp for Language Models (DCLM) benchmark. This model is designed to showcase the effectiveness of systematic data curation techniques for improving language model performance. |
 |[Endia.](https://github.com/endia-org/Endia) |Endia is a Mojo programming library that uses arrays to help with a variety of machine learning and scientific applications. |
 |[Txtai.](https://neuml.github.io/txtai/) |Txtai is a single-source embeddings database for language model workflows, semantic search, and LLM orchestration. |
-|[.]() | |
+|[OpenOCR.](https://github.com/topdu/openocr) | OpenOCR aims to establish a unified training and evaluation benchmark for scene text detection and recognition algorithms|
 |[.]() | |
 |[.]() | |
 |[.]() | |
