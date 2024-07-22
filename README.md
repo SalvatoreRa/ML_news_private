@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks.](https://arxiv.org/abs/2407.12994) | a set of quick engineering techniques for various NLP applications.|
 |[Exploring Advanced Large Language Models with LLMsuite.](https://arxiv.org/abs/2407.12036) |provides helpful advice for using and assessing LLMs in development; approaches discussed include parameter-efficient techniques, RAG, and ReAct. |
-|[.]() | |
+|[Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures.](https://www.arxiv.org/abs/2407.09468) |offers a graphical taxonomy and detailed tour to the most recent developments in non-Euclidean machine learning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
