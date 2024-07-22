@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Prover-Verifier Games improve legibility of LLM outputs.](https://arxiv.org/abs/2407.13692) | Iteratively trains helpful provers to produce correct solutions accepted by the verifier, sneaky provers to produce incorrect solutions that trick the verifier, and small verifiers to predict the correctness of solutions; this process helps train models that can produce text that is clear and accurate for both AI and human readers, which results in more reliable systems.|
+|[SpreadsheetLLM: Encoding Spreadsheets for Large Language Models.](https://arxiv.org/abs/2407.09025) |outlines a method for efficiently encoding spreadsheets to maximize an LLM's comprehension and reasoning skills; creates a sheet compressor that efficiently compresses and encodes spreadsheets using inverse index translation, structural anchor-based compression, and data-format-aware aggregation modules; in GPT-4's in-context learning, it improves performance in spreadsheet table detection by 25.6%. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
