@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[GPs use AI to boost cancer detection rates in England by 8%.](https://www.theguardian.com/society/article/2024/jul/21/gps-use-ai-to-boost-cancer-detection-rates-in-england-by-8) |‘C the Signs’ artificial intelligence program scans medical records to increase likelihood of spotting cancers |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘Google says I’m a dead physicist’: is the world’s biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken) |For decades now, anyone who’s wanted to know everything about anything has asked Google. But is the platform losing its edge – and can we still trust it to tell us the truth? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
