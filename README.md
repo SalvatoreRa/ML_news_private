@@ -47,8 +47,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Context Embeddings for Efficient Answer Generation in RAG.](https://arxiv.org/abs/2407.09252) |presents a useful context compression technique that shortens long contexts and accelerates generation times in RAG systems. Long contexts are condensed into a limited number of context embeddings, allowing for varying compression rates that balance generation quality against decoding time. This technique maintains high performance while reducing inference times by up to 5.69 x and GFLOPs by up to 22x. |
 |[Weak-to-Strong Reasoning.](https://arxiv.org/abs/2407.13647) | reports that strong models can automatically refine their training data without explicitly being trained to do so; shows how to use weak supervision to elicit strong reasoning capabilities in LLMs without relying on human annotations or advanced models; permits extending a model's learning scope and scaling performance on reasoning. |
 |[Does Refusal Training in LLMs Generalize to the Past Tense?](https://arxiv.org/abs/2407.11969) | concludes that many state-of-the-art LLMs can be jailbroken by simply rephrasing an LLM request into the past tense. For instance, "How to make a Molotov cocktail?" can be rephrased as "How did people make a Molotov cocktail?" The success rate of such requests can increase from 1% to 88% when using direct requests on GPT-4o.|
-|[.]() | |
-|[.]() | |
+|[NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/abs/2407.11963) |presents the Ancestral Trace Challenge, which raises the bar for complex logical reasoning and is typical of real-world long-context tasks. Their findings imply that current LLMs struggle to handle reasoning tasks with complex logical relationships, even with texts shorter than 2K tokens. They also propose a framework (NeedleBench) of progressively challenging tasks to assess the long-context retrieval and reasoning capabilities of LLMs. |
+|[Distilling System 2 into System 1.](https://arxiv.org/abs/2407.06023v2) | explores self-supervised ways for extracting high-quality outputs from System 2 methods and then refines System 1 to fit the System 2 method's predictions without creating intermediate steps; extracting reasoning from System 1 reduces the cost of inference.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks.](https://arxiv.org/abs/2407.12994) | a set of quick engineering techniques for various NLP applications.|
-|[.]() | |
+|[Exploring Advanced Large Language Models with LLMsuite.](https://arxiv.org/abs/2407.12036) |provides helpful advice for using and assessing LLMs in development; approaches discussed include parameter-efficient techniques, RAG, and ReAct. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
