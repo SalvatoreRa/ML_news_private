@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Exploring Advanced Large Language Models with LLMsuite.](https://arxiv.org/abs/2407.12036) |provides helpful advice for using and assessing LLMs in development; approaches discussed include parameter-efficient techniques, RAG, and ReAct. |
 |[Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures.](https://www.arxiv.org/abs/2407.09468) |offers a graphical taxonomy and detailed tour to the most recent developments in non-Euclidean machine learning. |
 |[DCLM-Baseline-7B.](https://huggingface.co/apple/DCLM-7B) |DCLM-Baseline-7B is a 7 billion parameter language model trained on the DCLM-Baseline dataset, which was curated as part of the DataComp for Language Models (DCLM) benchmark. This model is designed to showcase the effectiveness of systematic data curation techniques for improving language model performance. |
-|[.]() | |
-|[.]() | |
+|[Endia.](https://github.com/endia-org/Endia) |Endia is a Mojo programming library that uses arrays to help with a variety of machine learning and scientific applications. |
+|[Txtai.](https://neuml.github.io/txtai/) |Txtai is a single-source embeddings database for language model workflows, semantic search, and LLM orchestration. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
