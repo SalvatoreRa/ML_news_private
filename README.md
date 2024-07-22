@@ -71,8 +71,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[GPs use AI to boost cancer detection rates in England by 8%.](https://www.theguardian.com/society/article/2024/jul/21/gps-use-ai-to-boost-cancer-detection-rates-in-england-by-8) |‘C the Signs’ artificial intelligence program scans medical records to increase likelihood of spotting cancers |
-|[.]() | |
-|[.]() | |
+|[Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games.](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/) | A group of former Google DeepMind researchers has created an AI behavior engine that aims to transform traditional video games into a more dynamic experience by improving how non-playable characters (NPCs) behave and interact with gamers.|
+|[Inside the United Nations’ AI policy grab.](https://www.politico.eu/article/united-nations-artificial-intelligence-policy-report-carme-artigas-paolo-benanti-mira-murati/) |The United Nations wants to create an artificial intelligence forum to rule them all.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
