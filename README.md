@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPs use AI to boost cancer detection rates in England by 8%.](https://www.theguardian.com/society/article/2024/jul/21/gps-use-ai-to-boost-cancer-detection-rates-in-england-by-8) |‘C the Signs’ artificial intelligence program scans medical records to increase likelihood of spotting cancers |
 |[Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games.](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/) | A group of former Google DeepMind researchers has created an AI behavior engine that aims to transform traditional video games into a more dynamic experience by improving how non-playable characters (NPCs) behave and interact with gamers.|
 |[Inside the United Nations’ AI policy grab.](https://www.politico.eu/article/united-nations-artificial-intelligence-policy-report-carme-artigas-paolo-benanti-mira-murati/) |The United Nations wants to create an artificial intelligence forum to rule them all.  |
-|[.]() | |
+|[Exclusive: Nvidia preparing version of new flagship AI chip for Chinese market.](https://www.reuters.com/technology/nvidia-preparing-version-new-flaghip-ai-chip-chinese-market-sources-say-2024-07-22/) |Nvidia is using its collaboration with distributor Inspur to create a new AI chip called the B20 that is suited to the Chinese market and compliant with US export regulations. Sales of its cutting-edge H20 chip are expected to soar in China, where it is expected to sell over a million devices for a total estimated value of $12 billion this year. The United States is still applying pressure on semiconductor exports, and additional limitations and controls on the creation of AI models may be implemented. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks.](https://arxiv.org/abs/2407.12994) | a set of quick engineering techniques for various NLP applications.|
 |[Exploring Advanced Large Language Models with LLMsuite.](https://arxiv.org/abs/2407.12036) |provides helpful advice for using and assessing LLMs in development; approaches discussed include parameter-efficient techniques, RAG, and ReAct. |
 |[Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures.](https://www.arxiv.org/abs/2407.09468) |offers a graphical taxonomy and detailed tour to the most recent developments in non-Euclidean machine learning. |
-|[.]() | |
+|[DCLM-Baseline-7B.](https://huggingface.co/apple/DCLM-7B) |DCLM-Baseline-7B is a 7 billion parameter language model trained on the DCLM-Baseline dataset, which was curated as part of the DataComp for Language Models (DCLM) benchmark. This model is designed to showcase the effectiveness of systematic data curation techniques for improving language model performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
