@@ -44,8 +44,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Prover-Verifier Games improve legibility of LLM outputs.](https://arxiv.org/abs/2407.13692) | Iteratively trains helpful provers to produce correct solutions accepted by the verifier, sneaky provers to produce incorrect solutions that trick the verifier, and small verifiers to predict the correctness of solutions; this process helps train models that can produce text that is clear and accurate for both AI and human readers, which results in more reliable systems.|
 |[SpreadsheetLLM: Encoding Spreadsheets for Large Language Models.](https://arxiv.org/abs/2407.09025) |outlines a method for efficiently encoding spreadsheets to maximize an LLM's comprehension and reasoning skills; creates a sheet compressor that efficiently compresses and encodes spreadsheets using inverse index translation, structural anchor-based compression, and data-format-aware aggregation modules; in GPT-4's in-context learning, it improves performance in spreadsheet table detection by 25.6%. |
-|[.]() | |
-|[.]() | |
+|[Context Embeddings for Efficient Answer Generation in RAG.](https://arxiv.org/abs/2407.09252) |presents a useful context compression technique that shortens long contexts and accelerates generation times in RAG systems. Long contexts are condensed into a limited number of context embeddings, allowing for varying compression rates that balance generation quality against decoding time. This technique maintains high performance while reducing inference times by up to 5.69 x and GFLOPs by up to 22x. |
+|[Weak-to-Strong Reasoning.](https://arxiv.org/abs/2407.13647) | reports that strong models can automatically refine their training data without explicitly being trained to do so; shows how to use weak supervision to elicit strong reasoning capabilities in LLMs without relying on human annotations or advanced models; permits extending a model's learning scope and scaling performance on reasoning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
