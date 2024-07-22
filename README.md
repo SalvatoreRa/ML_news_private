@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘Google says I’m a dead physicist’: is the world’s biggest search engine broken?](https://www.theguardian.com/technology/article/2024/jul/20/google-is-the-worlds-biggest-search-engine-broken) |For decades now, anyone who’s wanted to know everything about anything has asked Google. But is the platform losing its edge – and can we still trust it to tell us the truth? |
-|[.]() | |
+|[AI paid for by Ads – the gpt-4o mini inflection point.](https://batchmon.com/blog/ai-cheaper-than-ads/) | With the incredibly cheap prices of OpenAI's new gpt-4o micro model, AI-generated content monetized with advertisements may now be produced. Publishers can make a net profit of $0.002 every page view by creating dynamic blog posts at $0.00051525 each and making about $0.0026 per ad impression. A possible consequence of this could be a move toward AI-generated content in response to user inquiries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
