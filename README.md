@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Does Refusal Training in LLMs Generalize to the Past Tense?](https://arxiv.org/abs/2407.11969) | concludes that many state-of-the-art LLMs can be jailbroken by simply rephrasing an LLM request into the past tense. For instance, "How to make a Molotov cocktail?" can be rephrased as "How did people make a Molotov cocktail?" The success rate of such requests can increase from 1% to 88% when using direct requests on GPT-4o.|
 |[NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/abs/2407.11963) |presents the Ancestral Trace Challenge, which raises the bar for complex logical reasoning and is typical of real-world long-context tasks. Their findings imply that current LLMs struggle to handle reasoning tasks with complex logical relationships, even with texts shorter than 2K tokens. They also propose a framework (NeedleBench) of progressively challenging tasks to assess the long-context retrieval and reasoning capabilities of LLMs. |
 |[Distilling System 2 into System 1.](https://arxiv.org/abs/2407.06023v2) | explores self-supervised ways for extracting high-quality outputs from System 2 methods and then refines System 1 to fit the System 2 method's predictions without creating intermediate steps; extracting reasoning from System 1 reduces the cost of inference.|
-|[.]() | |
-|[.]() | |
+|[Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies.](https://arxiv.org/abs/2407.13623) |This new study, which examines scaling laws for vocabulary size, suggests that larger models require larger vocabularies. |
+|[MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models.](https://arxiv.org/abs/2407.12709v1) | To address task interference in generalist Multimodal Large Language Models (MLLMs), researchers suggest the Mixture of Multimodal Experts (MoME).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
