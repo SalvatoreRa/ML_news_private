@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Txtai.](https://neuml.github.io/txtai/) |Txtai is a single-source embeddings database for language model workflows, semantic search, and LLM orchestration. |
 |[OpenOCR.](https://github.com/topdu/openocr) | OpenOCR aims to establish a unified training and evaluation benchmark for scene text detection and recognition algorithms|
 |[Converting Codebases With LLMs.](https://blog.withmantle.com/code-conversion-using-ai/) |Mantle reduced the burden by handling boilerplate code and repeating patterns by transforming a prototype project into a production-ready codebase using a Gemini 1.0 Pro LLM with a one million token window. This method, which made use of a wealth of context and iterative code generation, allowed the team to concentrate on perfecting the most important twenty percent of the project, sparing months of developer effort. |
-|[.]() | |
-|[.]() | |
+|[CerberusDet: Unified Multi-Task Object Detection.](https://arxiv.org/abs/2407.12632v1) | Using a YOLO architecture, the new CerberusDet framework combines several task heads into a single model to provide a versatile object detection solution.|
+|[mandark.](https://github.com/hrishioa/mandark) | With the help of Claude Sonnet 3.5, this incredibly basic CLI may make code modification recommendations to enhance an existing code base.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
