@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI ‘deepfake’ faces detected using astronomy methods.](https://www.nature.com/articles/d41586-024-02364-y) |Analysing reflections of light in the eyes can help to determine an image’s authenticity. |
 |[Cohere sees valuation soar to $5.5B after new funding round.](https://seekingalpha.com/news/4126270-ai-startup-cohere-sees-valuation-soar-to-55b-after-new-funding-round) | After closing a $500 million Series D fundraising round, Cohere, a Canadian AI business that specializes in massive language models, has been valued at $5.5 billion. Enhancing its enterprise-grade AI technology for increased worldwide business efficiency is the goal of the new funding. PSP Investments, Cisco, Fujitsu, AMD Ventures, and EDC are a few of the important investors.|
 |[Figma AI Update.](https://www.figma.com/blog/inside-figma-a-retrospective-on-make-designs/) |After discovering that its restricted beta 'Make Designs' AI tool produced UI designs that were too similar to pre-existing apps, Figma temporarily withdrew the capability. To guarantee uniqueness, the feature—which makes use of commercially available AI models like GPT-4 and Titan from Amazon—needs to be improved. In order to further support designers in utilizing AI for effective design creation, Figma hopes to re-enable the feature with enhanced quality assurance procedures. |
-|[.]() | |
+|[ElevenLabs Turbo 2.5 model.](https://threadreaderapp.com/thread/1814332360885698692.html) | With the release of their latest model, Turbo 2.5, ElevenLabs has enabled high-quality low-latency conversational AI for approximately 80% of the world's languages, including Mandarin, Hindi, French, Spanish, and 27 more languages. It offers text-to-speech capabilities for Vietnamese, Hungarian, and Norwegian for the first time. English now operates 25% quicker than Turbo v2.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Converting Codebases With LLMs.](https://blog.withmantle.com/code-conversion-using-ai/) |Mantle reduced the burden by handling boilerplate code and repeating patterns by transforming a prototype project into a production-ready codebase using a Gemini 1.0 Pro LLM with a one million token window. This method, which made use of a wealth of context and iterative code generation, allowed the team to concentrate on perfecting the most important twenty percent of the project, sparing months of developer effort. |
 |[CerberusDet: Unified Multi-Task Object Detection.](https://arxiv.org/abs/2407.12632v1) | Using a YOLO architecture, the new CerberusDet framework combines several task heads into a single model to provide a versatile object detection solution.|
 |[mandark.](https://github.com/hrishioa/mandark) | With the help of Claude Sonnet 3.5, this incredibly basic CLI may make code modification recommendations to enhance an existing code base.|
-|[.]() | |
+|[AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](https://assistantbench.github.io/) |AssistantBench evaluates the ability of web agents to automatically solve realistic and time-consuming tasks. The benchmark includes 214 tasks covering multiple domains from more than 525 pages from 258 different websites.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
