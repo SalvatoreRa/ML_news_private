@@ -112,9 +112,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CerberusDet: Unified Multi-Task Object Detection.](https://arxiv.org/abs/2407.12632v1) | Using a YOLO architecture, the new CerberusDet framework combines several task heads into a single model to provide a versatile object detection solution.|
 |[mandark.](https://github.com/hrishioa/mandark) | With the help of Claude Sonnet 3.5, this incredibly basic CLI may make code modification recommendations to enhance an existing code base.|
 |[AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](https://assistantbench.github.io/) |AssistantBench evaluates the ability of web agents to automatically solve realistic and time-consuming tasks. The benchmark includes 214 tasks covering multiple domains from more than 525 pages from 258 different websites.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[orch.](https://github.com/guywaldman/orch) | Orch is a Rust programming language library for creating agents and apps driven by language models.|
+|[PlacidDreamer.](https://github.com/hansenhuang0823/placiddreamer) |PlacidDreamer is a text-to-3D generation system that unifies generation directions and addresses over-saturation, resolving difficulties with prior approaches. |
+|[6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry.](https://arxiv.org/abs/2407.14136v1) |To enhance head posture estimation, researchers created the head Translation, Rotation, and face Geometry network (TRG), concentrating primarily on head translations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
