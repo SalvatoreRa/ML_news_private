@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cybersecurity firm Wiz rejects $23bn bid from Google parent Alphabet.](https://www.theguardian.com/business/article/2024/jul/23/cybersecurity-firm-wiz-rejects-bid-google-alphabet) | Israeli company aims for stock market flotation after spurning biggest deal in tech group’s history|
 |[Elon Musk claims Tesla will start using humanoid robots next year.](https://www.theguardian.com/technology/article/2024/jul/23/elon-musk-tesla-humanoid-robots-optimus) |Billionaire says Optimus will start performing tasks for carmaker in 2025 and could be ready for sale in 2026 |
 |[AI ‘deepfake’ faces detected using astronomy methods.](https://www.nature.com/articles/d41586-024-02364-y) |Analysing reflections of light in the eyes can help to determine an image’s authenticity. |
-|[.]() | |
-|[.]() | |
+|[Cohere sees valuation soar to $5.5B after new funding round.](https://seekingalpha.com/news/4126270-ai-startup-cohere-sees-valuation-soar-to-55b-after-new-funding-round) | After closing a $500 million Series D fundraising round, Cohere, a Canadian AI business that specializes in massive language models, has been valued at $5.5 billion. Enhancing its enterprise-grade AI technology for increased worldwide business efficiency is the goal of the new funding. PSP Investments, Cisco, Fujitsu, AMD Ventures, and EDC are a few of the important investors.|
+|[Figma AI Update.](https://www.figma.com/blog/inside-figma-a-retrospective-on-make-designs/) |After discovering that its restricted beta 'Make Designs' AI tool produced UI designs that were too similar to pre-existing apps, Figma temporarily withdrew the capability. To guarantee uniqueness, the feature—which makes use of commercially available AI models like GPT-4 and Titan from Amazon—needs to be improved. In order to further support designers in utilizing AI for effective design creation, Figma hopes to re-enable the feature with enhanced quality assurance procedures. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
