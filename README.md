@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Academic authors 'shocked' after Taylor & Francis sells access to their research to Microsoft AI.](https://www.thebookseller.com/news/academic-authors-shocked-after-taylor--francis-sells-access-to-their-research-to-microsoft-ai) | Authors have expressed their shock after the news that academic publisher Taylor & Francis, which owns Routledge, had sold access to its authors’ research as part of an Artificial Intelligence (AI) partnership with Microsoft—a deal worth almost £8m ($10m) in its first year.|
 |[Cybersecurity firm Wiz rejects $23bn bid from Google parent Alphabet.](https://www.theguardian.com/business/article/2024/jul/23/cybersecurity-firm-wiz-rejects-bid-google-alphabet) | Israeli company aims for stock market flotation after spurning biggest deal in tech group’s history|
 |[Elon Musk claims Tesla will start using humanoid robots next year.](https://www.theguardian.com/technology/article/2024/jul/23/elon-musk-tesla-humanoid-robots-optimus) |Billionaire says Optimus will start performing tasks for carmaker in 2025 and could be ready for sale in 2026 |
-|[.]() | |
+|[AI ‘deepfake’ faces detected using astronomy methods.](https://www.nature.com/articles/d41586-024-02364-y) |Analysing reflections of light in the eyes can help to determine an image’s authenticity. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
