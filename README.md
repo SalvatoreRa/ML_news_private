@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Distilling System 2 into System 1.](https://arxiv.org/abs/2407.06023v2) | explores self-supervised ways for extracting high-quality outputs from System 2 methods and then refines System 1 to fit the System 2 method's predictions without creating intermediate steps; extracting reasoning from System 1 reduces the cost of inference.|
 |[Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies.](https://arxiv.org/abs/2407.13623) |This new study, which examines scaling laws for vocabulary size, suggests that larger models require larger vocabularies. |
 |[MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models.](https://arxiv.org/abs/2407.12709v1) | To address task interference in generalist Multimodal Large Language Models (MLLMs), researchers suggest the Mixture of Multimodal Experts (MoME).|
-|[.]() | |
+|[Bucketed Ranking-based Losses for Efficient Training of Object Detectors.](https://arxiv.org/abs/2407.14204v1) |Based on a bucketed ranking In object detection, losses increase the effectiveness of ranking-based loss functions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
