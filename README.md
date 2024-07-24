@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Llama 3.1: Our most capable models to date.](https://ai.meta.com/blog/meta-llama-3-1/) | Meta has made available training details for its first open-ended AI model. With a 128k context length, conversation models, and an excellent open system, the model is comparable to the best closed models.|
 |[Harvey Raises Series C.](https://www.harvey.ai/blog/harvey-raises-series-c) | The unicorn-status legal business has acquired money from investors including Google Ventures to keep advancing into large law firms.|
 |[Gumloop seed round.](https://blog.gumloop.com/seed-round/) |Gumloop raised $3.1 million in a seed round headed by First Round Capital, with involvement from YC and Instacart, Dropbox, and Airtable co-founders. With Gumloop, any person in a company can create their own AI tools and make just as much of an effect as an engineer thanks to a no-code AI automation platform. |
-|[.]() | |
-|[.]() | |
+|[AI Development Kits: Tenstorrent Update.](https://morethanmoore.substack.com/p/ai-development-kits-tenstorrent-update) | The Wormhole n150 and n300 PCIe cards, which retail for $999 and $1,399, are among the affordable AI development hardware that Tenstorrent has introduced. Developer workstations, such as the air-cooled TT-LoudBox ($12,000) and the water-cooled TT-QuietBox ($15,000), are also available. These products are intended to support AI development with an emphasis on connectivity and scaled-out performance.|
+|[AI predicts droughts a year in advance.](https://www.preventionweb.net/news/ai-predicts-droughts-year-advance) |Researchers at Skoltech and Sber have created artificial intelligence (AI) models that can forecast droughts up to a year in advance, enhancing risk management for the banking, insurance, and agricultural industries. The models use publicly available data and spatiotemporal neural networks that have been validated in a variety of climates. The biggest bank in Russia intends to incorporate these discoveries into its risk evaluation frameworks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How fast can structured grammar generation be.](https://blog.dottxt.co/how-fast-cfg.html) |Quickly, the open source community is tackling structured generation in language models. |
 |[Could robot weedkillers replace the need for pesticides?](https://www.theguardian.com/environment/article/2024/jul/20/robot-weedkillers-pesticides) |The robotic services allow farmers to rely less on chemicals. ‘This solves a lot of problems,’ workers say |
 |[Open source is the path forward.](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) |The importance of open source to Meta's strategy and its plans to support this work were explained by Mark Zuckerberg. |
-|[.]() | |
+|[What Does Money Look Like In An AI Utopia?](https://stovetop.substack.com/p/what-does-money-look-like-in-an-ai?) |Let’s assume that an AI utopia means nobody has to work anymore. What happens to money? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
