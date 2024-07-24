@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google AI predicts long-term climate trends and weather — in minutes.](https://www.nature.com/articles/d41586-024-02391-9) | Models that are more reliable and less energy-intensive could help us to better prepare for extreme weather.|
 |[Introducing Llama 3.1: Our most capable models to date.](https://ai.meta.com/blog/meta-llama-3-1/) | Meta has made available training details for its first open-ended AI model. With a 128k context length, conversation models, and an excellent open system, the model is comparable to the best closed models.|
 |[Harvey Raises Series C.](https://www.harvey.ai/blog/harvey-raises-series-c) | The unicorn-status legal business has acquired money from investors including Google Ventures to keep advancing into large law firms.|
-|[.]() | |
+|[Gumloop seed round.](https://blog.gumloop.com/seed-round/) |Gumloop raised $3.1 million in a seed round headed by First Round Capital, with involvement from YC and Instacart, Dropbox, and Airtable co-founders. With Gumloop, any person in a company can create their own AI tools and make just as much of an effect as an engineer thanks to a no-code AI automation platform. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
