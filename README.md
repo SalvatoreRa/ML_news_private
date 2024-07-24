@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[orch.](https://github.com/guywaldman/orch) | Orch is a Rust programming language library for creating agents and apps driven by language models.|
 |[PlacidDreamer.](https://github.com/hansenhuang0823/placiddreamer) |PlacidDreamer is a text-to-3D generation system that unifies generation directions and addresses over-saturation, resolving difficulties with prior approaches. |
 |[6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry.](https://arxiv.org/abs/2407.14136v1) |To enhance head posture estimation, researchers created the head Translation, Rotation, and face Geometry network (TRG), concentrating primarily on head translations. |
-|[.]() | |
-|[.]() | |
+|[STAMP: Outlier-Aware Test-Time Adaptation with Stable Memory Replay.](https://arxiv.org/abs/2407.15773v1) | |
+|[Local All-Pair Correspondence for Point Tracking.](https://ku-cvlab.github.io/locotrack/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
