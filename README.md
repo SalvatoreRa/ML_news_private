@@ -118,6 +118,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[STAMP: Outlier-Aware Test-Time Adaptation with Stable Memory Replay.](https://arxiv.org/abs/2407.15773v1) | Using just unlabeled test data, the STAble Memory rePlay (STAMP) technique resolves distribution shifts between training and test data. In contrast to other approaches, STAMP is quite good at eliminating outliers during inference as well as identifying recognized classes.|
 |[Local All-Pair Correspondence for Point Tracking.](https://ku-cvlab.github.io/locotrack/) | An enhanced methodology for tracking any point in a video sequence is called LocoTrack. For accurate tracking, it makes use of bidirectional correspondence and local 4D correlation. Compared to current top models, LocoTrack functions at a speed that is almost six times faster.|
 |[Llama agent stack.](https://github.com/meta-llama/llama-agentic-system) |Meta has published an example system that may be used to carry out a range of activities by utilizing its Llama models as agents. |
+|[Artist: Aesthetically Controllable Text-Driven Stylization without Training.](https://diffusionartist.github.io/) |For text-driven stylization, Artist is a training-free technique that manages the creation of content and style in pretrained diffusion models. |
+|[Odyssey.](https://github.com/zju-vipa/Odyssey) | A new framework called Odyssey gives huge language model-based agents sophisticated abilities to explore Minecraft.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
