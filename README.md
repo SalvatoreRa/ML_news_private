@@ -84,8 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google parent company’s second-quarter earnings outpace expectations.](https://www.theguardian.com/technology/article/2024/jul/23/google-alphabet-q2-earnings) | Alphabet reports $84.7bn in revenue, on back of Search and Cloud, up from the same period last year|
 |[Meta launches open-source AI app ‘competitive’ with closed rivals.](https://www.theguardian.com/technology/article/2024/jul/23/meta-launches-open-source-ai-app-competitive-with-closed-rivals) | Tech firm says its freely available and usable Llama 3.1 405B model is comparable with likes of OpenAI and Anthropic|
 |[Google AI predicts long-term climate trends and weather — in minutes.](https://www.nature.com/articles/d41586-024-02391-9) | Models that are more reliable and less energy-intensive could help us to better prepare for extreme weather.|
-|[.]() | |
-|[.]() | |
+|[Introducing Llama 3.1: Our most capable models to date.](https://ai.meta.com/blog/meta-llama-3-1/) | Meta has made available training details for its first open-ended AI model. With a 128k context length, conversation models, and an excellent open system, the model is comparable to the best closed models.|
+|[Harvey Raises Series C.](https://www.harvey.ai/blog/harvey-raises-series-c) | The unicorn-status legal business has acquired money from investors including Google Ventures to keep advancing into large law firms.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inside the fight over California’s new AI bill.](https://www.vox.com/future-perfect/361562/california-ai-bill-scott-wiener-sb-1047) |The Safe and Secure Innovation for Frontier Artificial Intelligence Models bill, introduced by California state Senator Scott Wiener, mandates that businesses that train "frontier models" that cost above $100 million conduct safety testing and have the capability to turn off their models in the event of a safety incident. The tech sector has strongly criticized the law. Not just businesses who create their models in California will be impacted, but everyone doing business in California. Wiener was interviewed for this piece regarding the bill and its detractors. |
 |[How fast can structured grammar generation be.](https://blog.dottxt.co/how-fast-cfg.html) |Quickly, the open source community is tackling structured generation in language models. |
 |[Could robot weedkillers replace the need for pesticides?](https://www.theguardian.com/environment/article/2024/jul/20/robot-weedkillers-pesticides) |The robotic services allow farmers to rely less on chemicals. ‘This solves a lot of problems,’ workers say |
-|[.]() | |
+|[Open source is the path forward.](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) |The importance of open source to Meta's strategy and its plans to support this work were explained by Mark Zuckerberg. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
