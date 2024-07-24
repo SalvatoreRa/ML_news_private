@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ElevenLabs Turbo 2.5 model.](https://threadreaderapp.com/thread/1814332360885698692.html) | With the release of their latest model, Turbo 2.5, ElevenLabs has enabled high-quality low-latency conversational AI for approximately 80% of the world's languages, including Mandarin, Hindi, French, Spanish, and 27 more languages. It offers text-to-speech capabilities for Vietnamese, Hungarian, and Norwegian for the first time. English now operates 25% quicker than Turbo v2.|
 |[Google parent company’s second-quarter earnings outpace expectations.](https://www.theguardian.com/technology/article/2024/jul/23/google-alphabet-q2-earnings) | Alphabet reports $84.7bn in revenue, on back of Search and Cloud, up from the same period last year|
 |[Meta launches open-source AI app ‘competitive’ with closed rivals.](https://www.theguardian.com/technology/article/2024/jul/23/meta-launches-open-source-ai-app-competitive-with-closed-rivals) | Tech firm says its freely available and usable Llama 3.1 405B model is comparable with likes of OpenAI and Anthropic|
-|[.]() | |
+|[Google AI predicts long-term climate trends and weather — in minutes.](https://www.nature.com/articles/d41586-024-02391-9) | Models that are more reliable and less energy-intensive could help us to better prepare for extreme weather.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
