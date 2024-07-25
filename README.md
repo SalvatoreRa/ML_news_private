@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI models fed AI-generated data quickly spew nonsense.](https://www.nature.com/articles/d41586-024-02420-7) | Researchers gave successive versions of a large language model information produced by previous generations of the AI — and observed rapid collapse.|
 |[KAN or MLP: A Fairer Comparison.](https://arxiv.org/abs/2407.16674) | Only in symbolic formula representation does KAN perform better than MLP when the same number of parameters, or FLOPs, are used. On other tasks related to machine learning, computer vision, natural language processing, and audio processing, MLP still performs better than KAN.|
 |[Ranking protein-protein models with large language models and graph neural networks.](https://arxiv.org/abs/2407.16375v1) |A graph-based deep learning technique called DeepRank-GNN-esm is intended to rank and identify precise models of protein-protein interactions. In order to facilitate the selection of nearly natural PPI conformations, the program makes use of protein language models, which helps with illness research and treatment discovery. |
-|[.]() | |
+|[Monitoring Environmental Changes.](https://arxiv.org/abs/2403.19646v1) | Satellite imaging monitoring of Earth's surface changes was greatly improved using an AI-powered Change-Agent.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
