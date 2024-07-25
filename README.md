@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI is confusing — here’s your cheat sheet.](https://www.theverge.com/24201441/ai-terminology-explained-humans) | If you can’t tell the difference between AGI and RAG, don’t worry! We’re here for you.|
 |[Safety RBR Gold Dataset and Weight Fitting Code.](https://github.com/openai/safety-rbr-code-and-data) |A set of code for OpenAI's rules-based rewards for language model safety project is now available. Some of the data they utilized for training is included. |
 |[INF-LLaVA.](https://github.com/weihuanglin/inf-llava) | A Multimodal Large Language Model (MLLM) called INF-LLaVA was created to get over the difficulties associated with analyzing high-resolution photos.|
-|[.]() | |
+|[Benchmarking Multi-Agent Reinforcement Learning.](https://arxiv.org/abs/2407.16312v1) |A collection of uniform settings called MOMAland is intended to serve as a benchmark for multi-objective multi-agent reinforcement learning (MOMARL). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
