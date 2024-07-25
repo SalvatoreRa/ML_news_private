@@ -135,8 +135,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artist: Aesthetically Controllable Text-Driven Stylization without Training.](https://diffusionartist.github.io/) |For text-driven stylization, Artist is a training-free technique that manages the creation of content and style in pretrained diffusion models. |
 |[Odyssey.](https://github.com/zju-vipa/Odyssey) | A new framework called Odyssey gives huge language model-based agents sophisticated abilities to explore Minecraft.|
 |[AI is confusing — here’s your cheat sheet.](https://www.theverge.com/24201441/ai-terminology-explained-humans) | If you can’t tell the difference between AGI and RAG, don’t worry! We’re here for you.|
-|[.]() | |
-|[.]() | |
+|[Safety RBR Gold Dataset and Weight Fitting Code.](https://github.com/openai/safety-rbr-code-and-data) |A set of code for OpenAI's rules-based rewards for language model safety project is now available. Some of the data they utilized for training is included. |
+|[INF-LLaVA.](https://github.com/weihuanglin/inf-llava) | A Multimodal Large Language Model (MLLM) called INF-LLaVA was created to get over the difficulties associated with analyzing high-resolution photos.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
