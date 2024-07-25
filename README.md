@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral Large 2.](https://mistral.ai/news/mistral-large-2407/) |In line with the most recent Llama 3 405b model, Mistral has produced a 123B parameter model. A permissive research license governs its release. |
 |[OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole.](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) | ts latest model, GPT-4o Mini, applies a new safety method to prevent tricking chatbots.|
 |[Introducing Stable Video 4D](https://stability.ai/news/stable-video-4d) | A single object movie can be converted into eight distinct novel-view videos using Stable movie 4D. In roughly 40 seconds, Stable Video 4D produces 5 frames over 8 viewpoints with a single inference. By customizing the output to match certain creative objectives, users can set camera angles.|
-|[.]() | |
+|[OpenAI tests new search engine called SearchGPT amid AI arms race.](https://www.theguardian.com/business/article/2024/jul/25/openai-search-engine-searchgpt) | Prototype, initially launching with select publishers and users, set to challenge Google’s dominance of online search|
 |[.]() | |
 |[.]() | |
 |[.]() | |
