@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CrowdStrike global outage to cost US Fortune 500 companies $5.4bn.](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost) |Banking and healthcare firms, major airlines expected to suffer most losses, according to insurer Parametrix |
 |[Mistral Large 2.](https://mistral.ai/news/mistral-large-2407/) |In line with the most recent Llama 3 405b model, Mistral has produced a 123B parameter model. A permissive research license governs its release. |
 |[OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole.](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) | ts latest model, GPT-4o Mini, applies a new safety method to prevent tricking chatbots.|
-|[.]() | |
+|[Introducing Stable Video 4D](https://stability.ai/news/stable-video-4d) | A single object movie can be converted into eight distinct novel-view videos using Stable movie 4D. In roughly 40 seconds, Stable Video 4D produces 5 frames over 8 viewpoints with a single inference. By customizing the output to match certain creative objectives, users can set camera angles.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Llama agent stack.](https://github.com/meta-llama/llama-agentic-system) |Meta has published an example system that may be used to carry out a range of activities by utilizing its Llama models as agents. |
 |[Artist: Aesthetically Controllable Text-Driven Stylization without Training.](https://diffusionartist.github.io/) |For text-driven stylization, Artist is a training-free technique that manages the creation of content and style in pretrained diffusion models. |
 |[Odyssey.](https://github.com/zju-vipa/Odyssey) | A new framework called Odyssey gives huge language model-based agents sophisticated abilities to explore Minecraft.|
-|[AI is confusing — here’s your cheat sheet.]() | If you can’t tell the difference between AGI and RAG, don’t worry! We’re here for you.|
+|[AI is confusing — here’s your cheat sheet.](https://www.theverge.com/24201441/ai-terminology-explained-humans) | If you can’t tell the difference between AGI and RAG, don’t worry! We’re here for you.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
