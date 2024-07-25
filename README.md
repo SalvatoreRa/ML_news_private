@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI predicts droughts a year in advance.](https://www.preventionweb.net/news/ai-predicts-droughts-year-advance) |Researchers at Skoltech and Sber have created artificial intelligence (AI) models that can forecast droughts up to a year in advance, enhancing risk management for the banking, insurance, and agricultural industries. The models use publicly available data and spatiotemporal neural networks that have been validated in a variety of climates. The biggest bank in Russia intends to incorporate these discoveries into its risk evaluation frameworks. |
 |[Samsung is pouring research into ‘AI phones’ with ‘radically different’ hardware.](https://9to5google.com/2024/07/23/samsung-ai-phones-report/) |As with everywhere else, AI is taking a big role in the smartphone market. And, apparently, Samsung has plans to make dedicated “AI phones” that are “radically different” from the Galaxy phones we see today. |
 |[CrowdStrike global outage to cost US Fortune 500 companies $5.4bn.](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost) |Banking and healthcare firms, major airlines expected to suffer most losses, according to insurer Parametrix |
-|[.]() | |
+|[Mistral Large 2.](https://mistral.ai/news/mistral-large-2407/) |In line with the most recent Llama 3 405b model, Mistral has produced a 123B parameter model. A permissive research license governs its release. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Llama agent stack.](https://github.com/meta-llama/llama-agentic-system) |Meta has published an example system that may be used to carry out a range of activities by utilizing its Llama models as agents. |
 |[Artist: Aesthetically Controllable Text-Driven Stylization without Training.](https://diffusionartist.github.io/) |For text-driven stylization, Artist is a training-free technique that manages the creation of content and style in pretrained diffusion models. |
 |[Odyssey.](https://github.com/zju-vipa/Odyssey) | A new framework called Odyssey gives huge language model-based agents sophisticated abilities to explore Minecraft.|
-|[.]() | |
+|[AI is confusing — here’s your cheat sheet.]() | If you can’t tell the difference between AGI and RAG, don’t worry! We’re here for you.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
