@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Safety RBR Gold Dataset and Weight Fitting Code.](https://github.com/openai/safety-rbr-code-and-data) |A set of code for OpenAI's rules-based rewards for language model safety project is now available. Some of the data they utilized for training is included. |
 |[INF-LLaVA.](https://github.com/weihuanglin/inf-llava) | A Multimodal Large Language Model (MLLM) called INF-LLaVA was created to get over the difficulties associated with analyzing high-resolution photos.|
 |[Benchmarking Multi-Agent Reinforcement Learning.](https://arxiv.org/abs/2407.16312v1) |A collection of uniform settings called MOMAland is intended to serve as a benchmark for multi-objective multi-agent reinforcement learning (MOMARL). |
-|[.]() | |
+|[How to Create High Quality Synthetic Data for Fine-Tuning LLMs.](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms) |Gretel just published fresh data that contrasts artificial intelligence (AI)-curated datasets with human expert data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -167,7 +167,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT for science: how to talk to your data.](https://www.nature.com/articles/d41586-024-02386-6) | Companies are using artificial intelligence tools to help scientists to query their data without the need for programming skills.|
 |[The AI Dangers of a Second Trump Presidency.](https://www.techpolicy.press/the-ai-dangers-of-a-second-trump-presidency/) | Trump's influence may be seen in the Republican platform, which promises to undo Biden's executive order on responsible AI development. This is in contrast to the all-encompassing strategy of the current administration, which aims to preserve workers, promote innovation, and defend civil liberties against the potential negative effects of AI. Trump's policies, according to his detractors, might strengthen Big Tech at the price of social protections and individual liberties.|
 |[Small Teams, Big Impact: How AI Is Reshuffling The Future Of Work?](https://amritaroy.substack.com/p/small-teams-big-impact-how-ai-is) |AI is changing the nature of work in the future by enabling more accessible AI capabilities, which will result in smaller, more productive teams and a rise in entrepreneurship. While hiring for AI capabilities is becoming more and more important for businesses, an open conversation about how AI will affect job displacement and the creation of new roles is necessary. AI adoption snags continue because of the need for substantial "handholding" because of inexperienced data or systems. |
-|[.]() | |
+|[The all-seeing AI webcam.](https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai) |On the infinite list of possible uses for AI, “getting selfie advice from a Kylie Jenner voice clone” seems both completely off-the-wall and also pretty inevitable. So of course it does exist. It’s not a widely-available app, at least not yet; it’s an experiment from artist and programmer Dries Depoorter. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
