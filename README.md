@@ -164,7 +164,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open source is the path forward.](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) |The importance of open source to Meta's strategy and its plans to support this work were explained by Mark Zuckerberg. |
 |[What Does Money Look Like In An AI Utopia?](https://stovetop.substack.com/p/what-does-money-look-like-in-an-ai?) |Let’s assume that an AI utopia means nobody has to work anymore. What happens to money? |
 |[This is How Much Data Does AI Creates Every Minute.](https://www.domo.com/learn/infographic/data-never-sleeps-ai-edition) |About $300,000 is spent on AI every sixty seconds, 52 undergraduate papers are plagiarized by AI, and text-to-image algorithms produce close to 20,000 images. |
-|[.]() | |
+|[ChatGPT for science: how to talk to your data.](https://www.nature.com/articles/d41586-024-02386-6) | Companies are using artificial intelligence tools to help scientists to query their data without the need for programming skills.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
