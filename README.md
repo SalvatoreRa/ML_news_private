@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks.](https://arxiv.org/abs/2407.14463v1) |Repaired linear unit (ReLU) networks are used in SurvReLU, a deep survival model that bridges the gap between "white-box" tree-based models and "black-box" neural networks. |
 |[Star Operation to Train Neural Networks.](https://arxiv.org/abs/2403.19967v1) | By projecting data onto intricate, high-dimensional regions without the need for large architectures, the star operation improves AI models.|
 |[AI models fed AI-generated data quickly spew nonsense.](https://www.nature.com/articles/d41586-024-02420-7) | Researchers gave successive versions of a large language model information produced by previous generations of the AI — and observed rapid collapse.|
-|[.]() | |
+|[KAN or MLP: A Fairer Comparison.](https://arxiv.org/abs/2407.16674) | Only in symbolic formula representation does KAN perform better than MLP when the same number of parameters, or FLOPs, are used. On other tasks related to machine learning, computer vision, natural language processing, and audio processing, MLP still performs better than KAN.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Samsung is pouring research into ‘AI phones’ with ‘radically different’ hardware.](https://9to5google.com/2024/07/23/samsung-ai-phones-report/) |As with everywhere else, AI is taking a big role in the smartphone market. And, apparently, Samsung has plans to make dedicated “AI phones” that are “radically different” from the Galaxy phones we see today. |
 |[CrowdStrike global outage to cost US Fortune 500 companies $5.4bn.](https://www.theguardian.com/technology/article/2024/jul/24/crowdstrike-outage-companies-cost) |Banking and healthcare firms, major airlines expected to suffer most losses, according to insurer Parametrix |
 |[Mistral Large 2.](https://mistral.ai/news/mistral-large-2407/) |In line with the most recent Llama 3 405b model, Mistral has produced a 123B parameter model. A permissive research license governs its release. |
-|[.]() | |
+|[OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole.](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) | ts latest model, GPT-4o Mini, applies a new safety method to prevent tricking chatbots.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
