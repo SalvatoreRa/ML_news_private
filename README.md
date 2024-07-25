@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Bucketed Ranking-based Losses for Efficient Training of Object Detectors.](https://arxiv.org/abs/2407.14204v1) |Based on a bucketed ranking In object detection, losses increase the effectiveness of ranking-based loss functions. |
 |[SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks.](https://arxiv.org/abs/2407.14463v1) |Repaired linear unit (ReLU) networks are used in SurvReLU, a deep survival model that bridges the gap between "white-box" tree-based models and "black-box" neural networks. |
 |[Star Operation to Train Neural Networks.](https://arxiv.org/abs/2403.19967v1) | By projecting data onto intricate, high-dimensional regions without the need for large architectures, the star operation improves AI models.|
-|[.]() | |
+|[AI models fed AI-generated data quickly spew nonsense.](https://www.nature.com/articles/d41586-024-02420-7) | Researchers gave successive versions of a large language model information produced by previous generations of the AI — and observed rapid collapse.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
