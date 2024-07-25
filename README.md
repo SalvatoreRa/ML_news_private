@@ -165,8 +165,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What Does Money Look Like In An AI Utopia?](https://stovetop.substack.com/p/what-does-money-look-like-in-an-ai?) |Let’s assume that an AI utopia means nobody has to work anymore. What happens to money? |
 |[This is How Much Data Does AI Creates Every Minute.](https://www.domo.com/learn/infographic/data-never-sleeps-ai-edition) |About $300,000 is spent on AI every sixty seconds, 52 undergraduate papers are plagiarized by AI, and text-to-image algorithms produce close to 20,000 images. |
 |[ChatGPT for science: how to talk to your data.](https://www.nature.com/articles/d41586-024-02386-6) | Companies are using artificial intelligence tools to help scientists to query their data without the need for programming skills.|
-|[.]() | |
-|[.]() | |
+|[The AI Dangers of a Second Trump Presidency.](https://www.techpolicy.press/the-ai-dangers-of-a-second-trump-presidency/) | Trump's influence may be seen in the Republican platform, which promises to undo Biden's executive order on responsible AI development. This is in contrast to the all-encompassing strategy of the current administration, which aims to preserve workers, promote innovation, and defend civil liberties against the potential negative effects of AI. Trump's policies, according to his detractors, might strengthen Big Tech at the price of social protections and individual liberties.|
+|[Small Teams, Big Impact: How AI Is Reshuffling The Future Of Work?](https://amritaroy.substack.com/p/small-teams-big-impact-how-ai-is) |AI is changing the nature of work in the future by enabling more accessible AI capabilities, which will result in smaller, more productive teams and a rise in entrepreneurship. While hiring for AI capabilities is becoming more and more important for businesses, an open conversation about how AI will affect job displacement and the creation of new roles is necessary. AI adoption snags continue because of the need for substantial "handholding" because of inexperienced data or systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
