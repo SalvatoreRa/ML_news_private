@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ranking protein-protein models with large language models and graph neural networks.](https://arxiv.org/abs/2407.16375v1) |A graph-based deep learning technique called DeepRank-GNN-esm is intended to rank and identify precise models of protein-protein interactions. In order to facilitate the selection of nearly natural PPI conformations, the program makes use of protein language models, which helps with illness research and treatment discovery. |
 |[Monitoring Environmental Changes.](https://arxiv.org/abs/2403.19646v1) | Satellite imaging monitoring of Earth's surface changes was greatly improved using an AI-powered Change-Agent.|
 |[AlphaProof: AI achieves silver-medal standard solving International Mathematical Olympiad problems.](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) |A pre-trained Gemini-style language model and an AlphaGo-style reinforcement learning algorithm were combined by DeepMind to create a model that can tackle International Mathematics Olympiad (IMO) questions at the silver medal level. In this year's challenge, the system was able to tackle 4/6 issues. |
-|[The Unit-Scaled Maximal Update Parametrization.](https://arxiv.org/abs/2407.17465) | A technique to guarantee that a model's hyperparameters are unaffected by the model's size is to use muP. This week|
+|[The Unit-Scaled Maximal Update Parametrization.](https://arxiv.org/abs/2407.17465) | A technique to guarantee that a model's hyperparameters are unaffected by the model's size is to use muP. Additionally, our technique guarantees cross-model transferability among quantized models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,8 +147,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[INF-LLaVA.](https://github.com/weihuanglin/inf-llava) | A Multimodal Large Language Model (MLLM) called INF-LLaVA was created to get over the difficulties associated with analyzing high-resolution photos.|
 |[Benchmarking Multi-Agent Reinforcement Learning.](https://arxiv.org/abs/2407.16312v1) |A collection of uniform settings called MOMAland is intended to serve as a benchmark for multi-objective multi-agent reinforcement learning (MOMARL). |
 |[How to Create High Quality Synthetic Data for Fine-Tuning LLMs.](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms) |Gretel just published fresh data that contrasts artificial intelligence (AI)-curated datasets with human expert data. |
-|[.]() | |
-|[.]() | |
+|[LoFormer: Local Frequency Transformer for Image Deblurring.](https://arxiv.org/abs/2407.16993v1) | LoFormer ensures improved global modeling without compromising fine-grained details by efficiently capturing both low- and high-frequency features. |
+|[Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal.](https://arxiv.org/abs/2407.16957v1) |A new large-scale dataset called Raindrop Clarity was created to overcome the shortcomings of the current raindrop removal datasets. It includes 15,186 image pairs/triplets in both day and night circumstances, with both background- and raindrop-focused shots. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
