@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ranking protein-protein models with large language models and graph neural networks.](https://arxiv.org/abs/2407.16375v1) |A graph-based deep learning technique called DeepRank-GNN-esm is intended to rank and identify precise models of protein-protein interactions. In order to facilitate the selection of nearly natural PPI conformations, the program makes use of protein language models, which helps with illness research and treatment discovery. |
 |[Monitoring Environmental Changes.](https://arxiv.org/abs/2403.19646v1) | Satellite imaging monitoring of Earth's surface changes was greatly improved using an AI-powered Change-Agent.|
 |[AlphaProof: AI achieves silver-medal standard solving International Mathematical Olympiad problems.](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) |A pre-trained Gemini-style language model and an AlphaGo-style reinforcement learning algorithm were combined by DeepMind to create a model that can tackle International Mathematics Olympiad (IMO) questions at the silver medal level. In this year's challenge, the system was able to tackle 4/6 issues. |
-|[.]() | |
+|[The Unit-Scaled Maximal Update Parametrization.](https://arxiv.org/abs/2407.17465) | A technique to guarantee that a model's hyperparameters are unaffected by the model's size is to use muP. This week|
 |[.]() | |
 |[.]() | |
 |[.]() | |
