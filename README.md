@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[INF-LLaVA.](https://github.com/weihuanglin/inf-llava) | A Multimodal Large Language Model (MLLM) called INF-LLaVA was created to get over the difficulties associated with analyzing high-resolution photos.|
 |[Benchmarking Multi-Agent Reinforcement Learning.](https://arxiv.org/abs/2407.16312v1) |A collection of uniform settings called MOMAland is intended to serve as a benchmark for multi-objective multi-agent reinforcement learning (MOMARL). |
 |[How to Create High Quality Synthetic Data for Fine-Tuning LLMs.](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms) |Gretel just published fresh data that contrasts artificial intelligence (AI)-curated datasets with human expert data. |
-|[.]() | |
+|[AI could enhance almost two-thirds of British jobs, claims Google.](https://www.theguardian.com/technology/article/2024/jul/25/ai-could-enhance-almost-two-thirds-of-british-jobs-claims-google) |Research commissioned by Google estimates 31% of jobs would be insulated from AI and 61% radically transformed by it |
 |[.]() | |
 |[.]() | |
 |[.]() | |
