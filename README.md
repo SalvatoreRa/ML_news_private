@@ -58,6 +58,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[KAN or MLP: A Fairer Comparison.](https://arxiv.org/abs/2407.16674) | Only in symbolic formula representation does KAN perform better than MLP when the same number of parameters, or FLOPs, are used. On other tasks related to machine learning, computer vision, natural language processing, and audio processing, MLP still performs better than KAN.|
 |[Ranking protein-protein models with large language models and graph neural networks.](https://arxiv.org/abs/2407.16375v1) |A graph-based deep learning technique called DeepRank-GNN-esm is intended to rank and identify precise models of protein-protein interactions. In order to facilitate the selection of nearly natural PPI conformations, the program makes use of protein language models, which helps with illness research and treatment discovery. |
 |[Monitoring Environmental Changes.](https://arxiv.org/abs/2403.19646v1) | Satellite imaging monitoring of Earth's surface changes was greatly improved using an AI-powered Change-Agent.|
+|[AlphaProof: AI achieves silver-medal standard solving International Mathematical Olympiad problems.](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) |A pre-trained Gemini-style language model and an AlphaGo-style reinforcement learning algorithm were combined by DeepMind to create a model that can tackle International Mathematics Olympiad (IMO) questions at the silver medal level. In this year's challenge, the system was able to tackle 4/6 issues. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,9 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral Large 2.](https://mistral.ai/news/mistral-large-2407/) |In line with the most recent Llama 3 405b model, Mistral has produced a 123B parameter model. A permissive research license governs its release. |
 |[OpenAI’s latest model will block the ‘ignore all previous instructions’ loophole.](https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy) | ts latest model, GPT-4o Mini, applies a new safety method to prevent tricking chatbots.|
 |[Introducing Stable Video 4D](https://stability.ai/news/stable-video-4d) | A single object movie can be converted into eight distinct novel-view videos using Stable movie 4D. In roughly 40 seconds, Stable Video 4D produces 5 frames over 8 viewpoints with a single inference. By customizing the output to match certain creative objectives, users can set camera angles.|
-|[OpenAI tests new search engine called SearchGPT amid AI arms race.](https://www.theguardian.com/business/article/2024/jul/25/openai-search-engine-searchgpt) | Prototype, initially launching with select publishers and users, set to challenge Google’s dominance of online search|
-|[.]() | |
-|[.]() | |
+|[OpenAI tests new search engine called SearchGPT amid AI arms race.](https://www.theguardian.com/business/article/2024/jul/25/openai-search-engine-searchgpt) | [SearchGPT Prototype.](https://openai.com/index/searchgpt-prototype/), initially launching with select publishers and users, set to challenge Google’s dominance of online search|
+|[Microsoft is adding AI-powered summaries to Bing search results.](https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html) | The race to bring more AI features to search is escalating, with Microsoft moving forward with additional tools for Bing. Today, the company began previews for Bing generative search, where the top result for a user's query will be an original response compiled by AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
