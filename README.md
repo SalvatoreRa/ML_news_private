@@ -105,9 +105,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft is adding AI-powered summaries to Bing search results.](https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html) | The race to bring more AI features to search is escalating, with Microsoft moving forward with additional tools for Bing. Today, the company began previews for Bing generative search, where the top result for a user's query will be an original response compiled by AI.|
 |[AI could enhance almost two-thirds of British jobs, claims Google.](https://www.theguardian.com/technology/article/2024/jul/25/ai-could-enhance-almost-two-thirds-of-british-jobs-claims-google) |Research commissioned by Google estimates 31% of jobs would be insulated from AI and 61% radically transformed by it |
 |[DeepMind hits milestone in solving maths problems — AI’s next grand challenge.](https://www.nature.com/articles/d41586-024-02441-2) | AlphaProof showed its prowess on questions from this year’s Mathematical Olympiad — a step in the race to create substantial proofs with artificial intelligence.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Elon Musk's Neuralink employees want to cash out .](https://www.fastcompany.com/91161279/elon-musks-neuralink-employees-want-cash-out-heres-why) |Some of the staff at Elon Musk’s Neuralink are making preparations to sell the brain implant company’s stock in the wake of its valuation jumping following its first human trial, according to people familiar with the matter. |
+|[The AI boyfriend business is booming.](https://www.axios.com/2024/07/24/ai-boyfriend-replika-nomi-chatbot) | More and more women are turning to chatbots for companionship and connection because they see their empathetic representation to be more reliable than that of many human partners. By defying the image of undersocialized men conversing with AI partners in their parents' basement, these female AI users are questioning preconceived notions about what it means to be in a relationship.|
+|[OpenAI announces free fine-tuning for GPT-4o mini model.](https://www.infoworld.com/article/3477228/openai-announces-free-fine-tuning-for-gpt-4o-mini-model.html) | Free fine-tuning allows OpenAI customers to train the GPT-4o mini model on additional data at no charge until September 23, starting with Tier 4 and Tier 5 users.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
