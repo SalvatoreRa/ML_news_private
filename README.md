@@ -103,6 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Stable Video 4D](https://stability.ai/news/stable-video-4d) | A single object movie can be converted into eight distinct novel-view videos using Stable movie 4D. In roughly 40 seconds, Stable Video 4D produces 5 frames over 8 viewpoints with a single inference. By customizing the output to match certain creative objectives, users can set camera angles.|
 |[OpenAI tests new search engine called SearchGPT amid AI arms race.](https://www.theguardian.com/business/article/2024/jul/25/openai-search-engine-searchgpt) | [SearchGPT Prototype.](https://openai.com/index/searchgpt-prototype/), initially launching with select publishers and users, set to challenge Google’s dominance of online search|
 |[Microsoft is adding AI-powered summaries to Bing search results.](https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html) | The race to bring more AI features to search is escalating, with Microsoft moving forward with additional tools for Bing. Today, the company began previews for Bing generative search, where the top result for a user's query will be an original response compiled by AI.|
+|[AI could enhance almost two-thirds of British jobs, claims Google.](https://www.theguardian.com/technology/article/2024/jul/25/ai-could-enhance-almost-two-thirds-of-british-jobs-claims-google) |Research commissioned by Google estimates 31% of jobs would be insulated from AI and 61% radically transformed by it |
+|[DeepMind hits milestone in solving maths problems — AI’s next grand challenge.](https://www.nature.com/articles/d41586-024-02441-2) | AlphaProof showed its prowess on questions from this year’s Mathematical Olympiad — a step in the race to create substantial proofs with artificial intelligence.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,8 +147,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[INF-LLaVA.](https://github.com/weihuanglin/inf-llava) | A Multimodal Large Language Model (MLLM) called INF-LLaVA was created to get over the difficulties associated with analyzing high-resolution photos.|
 |[Benchmarking Multi-Agent Reinforcement Learning.](https://arxiv.org/abs/2407.16312v1) |A collection of uniform settings called MOMAland is intended to serve as a benchmark for multi-objective multi-agent reinforcement learning (MOMARL). |
 |[How to Create High Quality Synthetic Data for Fine-Tuning LLMs.](https://gretel.ai/blog/how-to-create-high-quality-synthetic-data-for-fine-tuning-llms) |Gretel just published fresh data that contrasts artificial intelligence (AI)-curated datasets with human expert data. |
-|[AI could enhance almost two-thirds of British jobs, claims Google.](https://www.theguardian.com/technology/article/2024/jul/25/ai-could-enhance-almost-two-thirds-of-british-jobs-claims-google) |Research commissioned by Google estimates 31% of jobs would be insulated from AI and 61% radically transformed by it |
-|[DeepMind hits milestone in solving maths problems — AI’s next grand challenge.](https://www.nature.com/articles/d41586-024-02441-2) | AlphaProof showed its prowess on questions from this year’s Mathematical Olympiad — a step in the race to create substantial proofs with artificial intelligence.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
