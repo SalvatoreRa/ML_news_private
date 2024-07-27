@@ -60,8 +60,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Monitoring Environmental Changes.](https://arxiv.org/abs/2403.19646v1) | Satellite imaging monitoring of Earth's surface changes was greatly improved using an AI-powered Change-Agent.|
 |[AlphaProof: AI achieves silver-medal standard solving International Mathematical Olympiad problems.](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) |A pre-trained Gemini-style language model and an AlphaGo-style reinforcement learning algorithm were combined by DeepMind to create a model that can tackle International Mathematics Olympiad (IMO) questions at the silver medal level. In this year's challenge, the system was able to tackle 4/6 issues. |
 |[The Unit-Scaled Maximal Update Parametrization.](https://arxiv.org/abs/2407.17465) | A technique to guarantee that a model's hyperparameters are unaffected by the model's size is to use muP. Additionally, our technique guarantees cross-model transferability among quantized models.|
-|[.]() | |
-|[.]() | |
+|[Elon Musk’s X under pressure from regulators over data harvesting for Grok AI.](https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai) |Social media platform uses pre-ticked boxes of consent, a practice that violates UK and EU GDPR rules |
+|[A huge opportunity’: Quantum leap for UK as tech industry receives £100m boost.](https://www.theguardian.com/science/article/2024/jul/26/quantum-leap-for-uk-as-tech-industry-receives-100m-boost) |Science secretary backs five quantum technology hubs in push for UK to transform healthcare and industry |
 |[.]() | |
 |[.]() | |
 |[.]() | |
