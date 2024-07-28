@@ -37,6 +37,120 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
+# ML news: 
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 # ML news: Week 21 - 28 July
 
 ## Research
@@ -62,17 +176,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Unit-Scaled Maximal Update Parametrization.](https://arxiv.org/abs/2407.17465) | A technique to guarantee that a model's hyperparameters are unaffected by the model's size is to use muP. Additionally, our technique guarantees cross-model transferability among quantized models.|
 |[Elon Musk’s X under pressure from regulators over data harvesting for Grok AI.](https://www.theguardian.com/technology/article/2024/jul/26/elon-musks-x-under-pressure-from-regulators-over-data-harvesting-for-grok-ai) |Social media platform uses pre-ticked boxes of consent, a practice that violates UK and EU GDPR rules |
 |[A huge opportunity’: Quantum leap for UK as tech industry receives £100m boost.](https://www.theguardian.com/science/article/2024/jul/26/quantum-leap-for-uk-as-tech-industry-receives-100m-boost) |Science secretary backs five quantum technology hubs in push for UK to transform healthcare and industry |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -108,17 +211,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk's Neuralink employees want to cash out .](https://www.fastcompany.com/91161279/elon-musks-neuralink-employees-want-cash-out-heres-why) |Some of the staff at Elon Musk’s Neuralink are making preparations to sell the brain implant company’s stock in the wake of its valuation jumping following its first human trial, according to people familiar with the matter. |
 |[The AI boyfriend business is booming.](https://www.axios.com/2024/07/24/ai-boyfriend-replika-nomi-chatbot) | More and more women are turning to chatbots for companionship and connection because they see their empathetic representation to be more reliable than that of many human partners. By defying the image of undersocialized men conversing with AI partners in their parents' basement, these female AI users are questioning preconceived notions about what it means to be in a relationship.|
 |[OpenAI announces free fine-tuning for GPT-4o mini model.](https://www.infoworld.com/article/3477228/openai-announces-free-fine-tuning-for-gpt-4o-mini-model.html) | Free fine-tuning allows OpenAI customers to train the GPT-4o mini model on additional data at no charge until September 23, starting with Tier 4 and Tier 5 users.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -152,15 +245,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[dlordinal.](https://github.com/ayrna/dlordinal) |dlordinal is a Python library that unifies many recent deep ordinal classification methodologies available in the literature. Developed using PyTorch as underlying framework, it implements the top performing state-of-the-art deep learning techniques for ordinal classification problems. |
 |[Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning.](https://arxiv.org/abs/2404.05218v1) |One method for long-term multi-agent human pose forecasting is the Trajectory2Pose model. It enhances the prediction of human mobility across extended periods and among several actors by utilizing a novel graph-based interaction module. |
 |[3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities.](https://arxiv.org/abs/2407.17418v1) | This survey examines research on 3DGS from a variety of angles, including tasks, technology, opportunities, and problems.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
