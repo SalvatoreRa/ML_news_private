@@ -182,16 +182,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building A Generative AI Platform.](https://huyenchip.com/2024/07/25/genai-platform.html) |After studying how companies deploy generative AI applications, I noticed many similarities in their platforms. This post outlines the common components of a generative AI platform, what they do, and how they are implemented. I try my best to keep the architecture general, but certain applications might deviate. This is what the overall architecture looks like. |
 |[Hold on to your seats’: how much will AI affect the art of film-making?](https://www.theguardian.com/film/article/2024/jul/27/artificial-intelligence-movies) | The future is here, whether some like it or not, and artificial intelligence is already impacting the film industry. But just how far can, and should, it go?|
 |[Why Zuckerberg’s multibillion-dollar gamble doesn’t just matter to Meta.](https://www.theguardian.com/technology/article/2024/jul/26/why-zuckerbergs-multi-billion-dollar-gamble-doesnt-just-matter-to-meta) |As Llama 3.1 405B is made freely available, investors are asking when the huge industry spend will pay off |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: ML news: Week 15 - 21 July
 
