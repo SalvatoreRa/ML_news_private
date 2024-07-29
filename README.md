@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Llama 3.1](https://huggingface.co/collections/meta-llama/llama-31-669fc079a0c406a149a5738f) |a group of LLMs that includes models with 8B, 70B, and 405B parameters; it supports eight languages and expands the context window to 128K tokens; it exceeds state-of-the-art models in certain situations and competes favorably in other areas, including as general knowledge, math reasoning, and tool use. |
-|[.]() | |
+|[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.](https://arxiv.org/abs/2407.14057) |presents a novel dynamic token pruning technique for effective long-context LLM inference; it can maintain high accuracy while speeding up the prefilling stage of a Llama 2 7B model by 2.34 times; it computes the KV for tokens that are crucial for the next token prediction in both the prefilling and decoding stages; it enables language models to dynamically select different subsets of tokens from the context in different generation steps, even though they may have been pruned in a previous step. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[OpenDevin: An Open Platform for AI Software Developers as Generalist Agents.](https://arxiv.org/abs/2407.16741) | provides a framework for creating generalist agents that use software to interact with the outside world. Its features include: 1) an interface for creating and executing code, 2) an environment with a sandboxed operating system and web browser accessible to the agents, 3) an interface for interacting with interfaces and environments, 4) support for multiple agents, and 5) an evaluation framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
