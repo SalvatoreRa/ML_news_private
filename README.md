@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenDevin: An Open Platform for AI Software Developers as Generalist Agents.](https://arxiv.org/abs/2407.16741) | provides a framework for creating generalist agents that use software to interact with the outside world. Its features include: 1) an interface for creating and executing code, 2) an environment with a sandboxed operating system and web browser accessible to the agents, 3) an interface for interacting with interfaces and environments, 4) support for multiple agents, and 5) an evaluation framework.|
 |[A Survey on Employing Large Language Models for Text-to-SQL Tasks.](https://arxiv.org/abs/2407.15186) | gives an overview of using LLMs for Text-to-SQL operations, covering benchmarks, prompt engineering strategies, and fine-tuning procedures.|
 |[MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens.](https://arxiv.org/abs/2406.11271) | open-source a massive multimodal interleaved dataset with 3.4 billion images and 1 trillion tokens; additional sources like PDFs and ArXiv papers are also included.|
-|[StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory.](https://arxiv.org/abs/2407.17905v1) | |
-|[Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography.](https://arxiv.org/abs/2407.17996v1) | |
+|[StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory.](https://arxiv.org/abs/2407.17905v1) |StreamMOS is a new approach for segmenting moving objects using LiDAR in autonomous driving and robotics. |
+|[Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography.](https://arxiv.org/abs/2407.17996v1) | Scientists have devised a technique that incorporates miniature spectrometers to enhance mobile photography. To improve image quality, this innovative method combines RGB and low-resolution multi-spectral images.|
 |[BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation.](https://arxiv.org/abs/2407.17952) | |
 |[.]() | |
 |[.]() | |
