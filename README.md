@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Recursive Introspection: Teaching Language Model Agents How to Self-Improve.](https://arxiv.org/abs/2407.18219) | asserts that LLMs can be iteratively fine-tuned to improve their own response over multiple turns with additional feedback from the environment; the LLM learns to recursively detect and correct its past mistakes in subsequent iterations; and enhances 7B models' self-improvement abilities on reasoning tasks (GSM8K and MATH), achieving an improvement over turns that is not observed in strong proprietary models.|
 |[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.](https://arxiv.org/abs/2407.14057) |presents a novel dynamic token pruning technique for effective long-context LLM inference; it can maintain high accuracy while speeding up the prefilling stage of a Llama 2 7B model by 2.34 times; it computes the KV for tokens that are crucial for the next token prediction in both the prefilling and decoding stages; it enables language models to dynamically select different subsets of tokens from the context in different generation steps, even though they may have been pruned in a previous step. |
 |[Generation Constraint Scaling Can Mitigate Hallucinatio.](https://arxiv.org/abs/2407.16908) |suggests a novel training-free method to reduce hallucinations in LLMs; they scaled the readout vector that limits generation in a memory-augmented LLM decoder; current research suggests that LLMs with explicit memory mechanisms can help reduce hallucinations; this work employs a memory-augmented LLM and applies lightweight memory primitives to limit generation in the decoder. |
-|[.]() | |
+|[Align and Distill: Unifying and Improving Domain Adaptive Object Detection.](https://arxiv.org/abs/2403.12029v1) |The difficulties of getting object detection models to perform well on a variety of data formats that they weren't initially trained on are addressed by a new method named ALDI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory.](https://arxiv.org/abs/2407.17905v1) |StreamMOS is a new approach for segmenting moving objects using LiDAR in autonomous driving and robotics. |
 |[Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography.](https://arxiv.org/abs/2407.17996v1) | Scientists have devised a technique that incorporates miniature spectrometers to enhance mobile photography. To improve image quality, this innovative method combines RGB and low-resolution multi-spectral images.|
 |[BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation.](https://arxiv.org/abs/2407.17952) | A fresh and enhanced monocular depth model for numerous real-world situations.|
-|[.]() | |
-|[.]() | |
+|[3D Object Segmentation with Language.](https://github.com/heshuting555/refmask3d) |RefMask3D is a technique that uses natural language descriptions to partition items in 3D point clouds. With Geometry-Enhanced Group-Word Attention and Linguistic Primitives Construction, the system improves vision-language feature fusion and tackles sparse and irregular point cloud problems. |
+|[Efficient Cell Segmentation.](https://github.com/hustvl/lkcell) |A novel technique for high-accuracy cell segmentation, LKCell strikes a compromise between computational efficiency and broad receptive fields. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
