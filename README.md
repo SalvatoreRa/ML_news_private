@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia’s new Titan GPU will beat the RTX 5090, according to leak.](https://www.pcgamesn.com/nvidia/blackwell-rtx-titan-rumor) |After skipping its ultra-expensive flagship graphics card with its Ada lineup, Nvidia could be bringing back the Titan with a Blackwell GPU. |
 |[Elon Musk will ‘discuss’ Tesla investing $5 billion in his private AI company.](https://electrek.co/2024/07/25/elon-musk-will-discuss-tesla-investing-5-billion-private-ai-company/) |Elon Musk says that he will ‘discuss’ Tesla investing $5 billion in xAI, his own private artificial intelligence company. For the last few years, Musk has claimed that “Tesla is an AI company.” |
 |[OpenAI training and inference costs could reach $7bn for 2024, AI startup set to lose $5bn - report.](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/) |In 2023, OpenAI projected that ChatGPT inference would cost about $4 billion on Microsoft's Azure servers, potentially resulting in large financial losses. Even though OpenAI is making about $2 billion a year from ChatGPT, it would need more money in less than a year to cover a $5 billion deficit. With subsidized prices from Azure, it presently uses the equivalent of 350,000 Nvidia A100 chip servers, primarily for ChatGPT. |
-|[.]() | |
+|[Elon Musk sets new date for Tesla robotaxi reveal, calls everything beyond autonomy ‘noise’.](https://techcrunch.com/2024/07/23/elon-musk-sets-new-date-for-tesla-robotaxi-reveal-calls-everything-beyond-autonomy-noise) | Elon Musk says he will show off Tesla’s purpose-built “robotaxi” prototype during an event October 10, after scrapping a previous plan to reveal it August 8. Musk said Tesla will also show off “a couple of other things,” but didn’t explain what that meant.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[My new iPhone symbolises stagnation, not innovation – and a similar fate awaits AI.](https://www.theguardian.com/commentisfree/article/2024/jul/27/my-new-iphone-symbolises-stagnation-not-innovation-and-a-similar-fate-awaits-ai) |Development of ChatGPT and its ilk will plateau, just like it did for smartphones, and then what are we left with? More ho-hum consumer tech |
-|[.]() | |
+|[AI: Are we in another dot-com bubble?](https://kelvinmu.substack.com/p/ai-are-we-in-another-dot-com-bubble) | a thorough examination by Translink Capital's Kelvin Mu contrasting the present AI cycle with the internet/telecom cycle of the 1990s. After comparing the two eras' technological, economic, and capital disparities, he comes to the conclusion that, even though a bubble may eventually occur, we are still a long way from there.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
