@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation.](https://arxiv.org/abs/2407.17952) | A fresh and enhanced monocular depth model for numerous real-world situations.|
 |[3D Object Segmentation with Language.](https://github.com/heshuting555/refmask3d) |RefMask3D is a technique that uses natural language descriptions to partition items in 3D point clouds. With Geometry-Enhanced Group-Word Attention and Linguistic Primitives Construction, the system improves vision-language feature fusion and tackles sparse and irregular point cloud problems. |
 |[Efficient Cell Segmentation.](https://github.com/hustvl/lkcell) |A novel technique for high-accuracy cell segmentation, LKCell strikes a compromise between computational efficiency and broad receptive fields. |
-|[.]() | |
+|[Tactics for multi-step AI app experimentation.](https://docs.parea.ai/blog/llm-app-multi-step-experimentation-tactics) |Typically, LLM programs have several components; this article examines various strategies along with pertinent code snippets. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
