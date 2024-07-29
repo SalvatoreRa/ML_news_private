@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[My new iPhone symbolises stagnation, not innovation – and a similar fate awaits AI.](https://www.theguardian.com/commentisfree/article/2024/jul/27/my-new-iphone-symbolises-stagnation-not-innovation-and-a-similar-fate-awaits-ai) |Development of ChatGPT and its ilk will plateau, just like it did for smartphones, and then what are we left with? More ho-hum consumer tech |
 |[.]() | |
 |[.]() | |
 |[.]() | |
