@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Llama 3.1](https://huggingface.co/collections/meta-llama/llama-31-669fc079a0c406a149a5738f) |a group of LLMs that includes models with 8B, 70B, and 405B parameters; it supports eight languages and expands the context window to 128K tokens; it exceeds state-of-the-art models in certain situations and competes favorably in other areas, including as general knowledge, math reasoning, and tool use. |
 |[Nvidia’s new Titan GPU will beat the RTX 5090, according to leak.](https://www.pcgamesn.com/nvidia/blackwell-rtx-titan-rumor) |After skipping its ultra-expensive flagship graphics card with its Ada lineup, Nvidia could be bringing back the Titan with a Blackwell GPU. |
 |[Elon Musk will ‘discuss’ Tesla investing $5 billion in his private AI company.](https://electrek.co/2024/07/25/elon-musk-will-discuss-tesla-investing-5-billion-private-ai-company/) |Elon Musk says that he will ‘discuss’ Tesla investing $5 billion in xAI, his own private artificial intelligence company. For the last few years, Musk has claimed that “Tesla is an AI company.” |
-|[OpenAI training and inference costs could reach $7bn for 2024, AI startup set to lose $5bn - report.](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/) |Details leak about its Microsoft Azure compute cluster |
+|[OpenAI training and inference costs could reach $7bn for 2024, AI startup set to lose $5bn - report.](https://www.datacenterdynamics.com/en/news/openai-training-and-inference-costs-could-reach-7bn-for-2024-ai-startup-set-to-lose-5bn-report/) |In 2023, OpenAI projected that ChatGPT inference would cost about $4 billion on Microsoft's Azure servers, potentially resulting in large financial losses. Even though OpenAI is making about $2 billion a year from ChatGPT, it would need more money in less than a year to cover a $5 billion deficit. With subsidized prices from Azure, it presently uses the equivalent of 350,000 Nvidia A100 chip servers, primarily for ChatGPT. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens.](https://arxiv.org/abs/2406.11271) | open-source a massive multimodal interleaved dataset with 3.4 billion images and 1 trillion tokens; additional sources like PDFs and ArXiv papers are also included.|
 |[StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory.](https://arxiv.org/abs/2407.17905v1) |StreamMOS is a new approach for segmenting moving objects using LiDAR in autonomous driving and robotics. |
 |[Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography.](https://arxiv.org/abs/2407.17996v1) | Scientists have devised a technique that incorporates miniature spectrometers to enhance mobile photography. To improve image quality, this innovative method combines RGB and low-resolution multi-spectral images.|
-|[BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation.](https://arxiv.org/abs/2407.17952) | |
+|[BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation.](https://arxiv.org/abs/2407.17952) | A fresh and enhanced monocular depth model for numerous real-world situations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
