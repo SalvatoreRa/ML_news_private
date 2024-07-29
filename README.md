@@ -43,7 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach.](https://arxiv.org/abs/2407.16833) |compares RAG to long-context LLMs and discovers that while RAG is much less expensive, long-context LLMs perform better on average; Offers Self-Route, which routes inquiries to RAG or LC by using self-reflection; it claims to have a substantial computational cost reduction with a performance that is comparable to LC. |
-|[.]() | |
+|[Recursive Introspection: Teaching Language Model Agents How to Self-Improve.](https://arxiv.org/abs/2407.18219) | asserts that LLMs can be iteratively fine-tuned to improve their own response over multiple turns with additional feedback from the environment; the LLM learns to recursively detect and correct its past mistakes in subsequent iterations; and enhances 7B models' self-improvement abilities on reasoning tasks (GSM8K and MATH), achieving an improvement over turns that is not observed in strong proprietary models.|
+|[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.](https://arxiv.org/abs/2407.14057) |presents a novel dynamic token pruning technique for effective long-context LLM inference; it can maintain high accuracy while speeding up the prefilling stage of a Llama 2 7B model by 2.34 times; it computes the KV for tokens that are crucial for the next token prediction in both the prefilling and decoding stages; it enables language models to dynamically select different subsets of tokens from the context in different generation steps, even though they may have been pruned in a previous step. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -71,7 +72,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Llama 3.1](https://huggingface.co/collections/meta-llama/llama-31-669fc079a0c406a149a5738f) |a group of LLMs that includes models with 8B, 70B, and 405B parameters; it supports eight languages and expands the context window to 128K tokens; it exceeds state-of-the-art models in certain situations and competes favorably in other areas, including as general knowledge, math reasoning, and tool use. |
-|[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.](https://arxiv.org/abs/2407.14057) |presents a novel dynamic token pruning technique for effective long-context LLM inference; it can maintain high accuracy while speeding up the prefilling stage of a Llama 2 7B model by 2.34 times; it computes the KV for tokens that are crucial for the next token prediction in both the prefilling and decoding stages; it enables language models to dynamically select different subsets of tokens from the context in different generation steps, even though they may have been pruned in a previous step. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
