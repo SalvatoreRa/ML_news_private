@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Llama 3.1](https://huggingface.co/collections/meta-llama/llama-31-669fc079a0c406a149a5738f) |a group of LLMs that includes models with 8B, 70B, and 405B parameters; it supports eight languages and expands the context window to 128K tokens; it exceeds state-of-the-art models in certain situations and competes favorably in other areas, including as general knowledge, math reasoning, and tool use. |
 |[Nvidia’s new Titan GPU will beat the RTX 5090, according to leak.](https://www.pcgamesn.com/nvidia/blackwell-rtx-titan-rumor) |After skipping its ultra-expensive flagship graphics card with its Ada lineup, Nvidia could be bringing back the Titan with a Blackwell GPU. |
-|[.]() | |
+|[Elon Musk will ‘discuss’ Tesla investing $5 billion in his private AI company.](https://electrek.co/2024/07/25/elon-musk-will-discuss-tesla-investing-5-billion-private-ai-company/) |Elon Musk says that he will ‘discuss’ Tesla investing $5 billion in xAI, his own private artificial intelligence company. For the last few years, Musk has claimed that “Tesla is an AI company.” |
 |[.]() | |
 |[.]() | |
 |[.]() | |
