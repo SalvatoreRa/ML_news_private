@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach.](https://arxiv.org/abs/2407.16833) |compares RAG to long-context LLMs and discovers that while RAG is much less expensive, long-context LLMs perform better on average; Offers Self-Route, which routes inquiries to RAG or LC by using self-reflection; it claims to have a substantial computational cost reduction with a performance that is comparable to LC. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
