@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk sets new date for Tesla robotaxi reveal, calls everything beyond autonomy ‘noise’.](https://techcrunch.com/2024/07/23/elon-musk-sets-new-date-for-tesla-robotaxi-reveal-calls-everything-beyond-autonomy-noise) | Elon Musk says he will show off Tesla’s purpose-built “robotaxi” prototype during an event October 10, after scrapping a previous plan to reveal it August 8. Musk said Tesla will also show off “a couple of other things,” but didn’t explain what that meant.|
 |[Stability AI steps into a new gen AI dimension with Stable Video 4D.](https://venturebeat.com/ai/stability-ai-steps-into-a-new-gen-ai-dimension-with-stable-video-4d/) |Stability AI is expanding its growing roster of generative AI models, quite literally adding a new dimension with the debut of Stable Video 4D. |
 |[Google’s Gemini AI is getting faster with its Flash upgrade.](https://www.theverge.com/2024/7/25/24206071/google-gemini-ai-flash-upgrade) | Google’s Gemini AI chatbot will be able to respond to you more quickly and process more content in prompts thanks to an upgrade to the company’s Gemini 1.5 Flash AI model.|
-|[.]() | |
-|[.]() | |
+|[Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images.](https://ai.meta.com/blog/segment-anything-2/) | Real time promptable segmentation for videos and images from Meta.|
+|[Apple says its AI models were trained on Google’s custom chips.](https://www.cnbc.com/2024/07/29/apple-says-its-ai-models-were-trained-on-googles-custom-chips-.html) |Apple said in a technical paper on Monday that the two AI models underpinning Apple Intelligence, its AI system, were pretrained on Google-designed chips in the cloud. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
