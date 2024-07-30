@@ -47,9 +47,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference.](https://arxiv.org/abs/2407.14057) |presents a novel dynamic token pruning technique for effective long-context LLM inference; it can maintain high accuracy while speeding up the prefilling stage of a Llama 2 7B model by 2.34 times; it computes the KV for tokens that are crucial for the next token prediction in both the prefilling and decoding stages; it enables language models to dynamically select different subsets of tokens from the context in different generation steps, even though they may have been pruned in a previous step. |
 |[Generation Constraint Scaling Can Mitigate Hallucinatio.](https://arxiv.org/abs/2407.16908) |suggests a novel training-free method to reduce hallucinations in LLMs; they scaled the readout vector that limits generation in a memory-augmented LLM decoder; current research suggests that LLMs with explicit memory mechanisms can help reduce hallucinations; this work employs a memory-augmented LLM and applies lightweight memory primitives to limit generation in the decoder. |
 |[Align and Distill: Unifying and Improving Domain Adaptive Object Detection.](https://arxiv.org/abs/2403.12029v1) |The difficulties of getting object detection models to perform well on a variety of data formats that they weren't initially trained on are addressed by a new method named ALDI. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Small Molecule Optimization with Large Language Models.](https://arxiv.org/abs/2407.18897) |By gathering a dataset of 100 million molecules (40 billion token equivalent), two new language models were able to enhance their performance by 8% on the Practical Molecular Optimization benchmark. |
+|[The Larger the Better? Improved LLM Code-Generation via Budget Reallocation.](https://arxiv.org/abs/2404.00725) | With a fairly comparable inference cost, code generation performance can be enhanced by repeatedly using smaller models.|
+|[Self-Directed Synthetic Dialogues and Revisions Technical Report.](https://arxiv.org/abs/2407.18421) |More than 300,000 dialogues and criticisms will be incorporated into open models. The dataset, which was primarily produced with synthetics, is a potent illustration of synthetic data utilizing open models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s Gemini AI is getting faster with its Flash upgrade.](https://www.theverge.com/2024/7/25/24206071/google-gemini-ai-flash-upgrade) | Google’s Gemini AI chatbot will be able to respond to you more quickly and process more content in prompts thanks to an upgrade to the company’s Gemini 1.5 Flash AI model.|
 |[Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images.](https://ai.meta.com/blog/segment-anything-2/) | Real time promptable segmentation for videos and images from Meta.|
 |[Apple says its AI models were trained on Google’s custom chips.](https://www.cnbc.com/2024/07/29/apple-says-its-ai-models-were-trained-on-googles-custom-chips-.html) |Apple said in a technical paper on Monday that the two AI models underpinning Apple Intelligence, its AI system, were pretrained on Google-designed chips in the cloud. |
-|[.]() | |
+|[AI Startup Anthropic Faces Backlash for Excessive Web Scraping.](https://www.techopedia.com/news/ai-startup-anthropic-faces-backlash-for-excessive-web-scraping) | Freelancer.com CEO claims Anthropic's crawler violated the "do not crawl" protocol, causing site slowdowns.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
