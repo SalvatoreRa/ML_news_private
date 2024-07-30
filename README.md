@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images.](https://ai.meta.com/blog/segment-anything-2/) | Real time promptable segmentation for videos and images from Meta.|
 |[Apple says its AI models were trained on Google’s custom chips.](https://www.cnbc.com/2024/07/29/apple-says-its-ai-models-were-trained-on-googles-custom-chips-.html) |Apple said in a technical paper on Monday that the two AI models underpinning Apple Intelligence, its AI system, were pretrained on Google-designed chips in the cloud. |
 |[AI Startup Anthropic Faces Backlash for Excessive Web Scraping.](https://www.techopedia.com/news/ai-startup-anthropic-faces-backlash-for-excessive-web-scraping) | Freelancer.com CEO claims Anthropic's crawler violated the "do not crawl" protocol, causing site slowdowns.|
-|[.]() | |
+|[Apple Intelligence Foundation Language Models.](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models) |Apple has outlined the basics of its language models for its newly announced “Apple Intelligence” initiative. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Cell Segmentation.](https://github.com/hustvl/lkcell) |A novel technique for high-accuracy cell segmentation, LKCell strikes a compromise between computational efficiency and broad receptive fields. |
 |[Tactics for multi-step AI app experimentation.](https://docs.parea.ai/blog/llm-app-multi-step-experimentation-tactics) |Typically, LLM programs have several components; this article examines various strategies along with pertinent code snippets. |
 |[AccDiffusion.](https://github.com/lzhxmu/AccDiffusion) | a technique that significantly enhances diffusion models' ability to synthesize high quality images.|
-|[HybridDepth.](https://github.com/cake-lab/hybriddepth) | |
-|[.]() | |
+|[HybridDepth.](https://github.com/cake-lab/hybriddepth) | A depth estimate pipeline called HYBRIDDEPTH was created to address issues with scale ambiguity and technology variation in mobile augmented reality.|
+|[VSSD: Vision Mamba with Non-Causal State Space Duality.](https://github.com/yuhengsss/vssd) | A novel method for mitigating the high computing needs of vision transformers is the Visual State Space Duality (VSSD) paradigm.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
