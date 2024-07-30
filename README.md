@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AccDiffusion.](https://github.com/lzhxmu/AccDiffusion) | a technique that significantly enhances diffusion models' ability to synthesize high quality images.|
 |[HybridDepth.](https://github.com/cake-lab/hybriddepth) | A depth estimate pipeline called HYBRIDDEPTH was created to address issues with scale ambiguity and technology variation in mobile augmented reality.|
 |[VSSD: Vision Mamba with Non-Causal State Space Duality.](https://github.com/yuhengsss/vssd) | A novel method for mitigating the high computing needs of vision transformers is the Visual State Space Duality (VSSD) paradigm.|
-|[.]() | |
-|[.]() | |
+|[A New Benchmark for Autonomous Agents.](https://appworld.dev/) |AppWorld Engine is a sophisticated execution environment that features nine daily apps and 457 APIs |
+|[Crash Course in Deep Learning.](https://gpuopen.com/learn/deep_learning_crash_course/) |The creation and application of multi-layer perceptrons (MLPs), a kind of fully connected neural network used in deep learning, are covered in this article. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
