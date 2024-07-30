@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[My new iPhone symbolises stagnation, not innovation – and a similar fate awaits AI.](https://www.theguardian.com/commentisfree/article/2024/jul/27/my-new-iphone-symbolises-stagnation-not-innovation-and-a-similar-fate-awaits-ai) |Development of ChatGPT and its ilk will plateau, just like it did for smartphones, and then what are we left with? More ho-hum consumer tech |
 |[AI: Are we in another dot-com bubble?](https://kelvinmu.substack.com/p/ai-are-we-in-another-dot-com-bubble) | a thorough examination by Translink Capital's Kelvin Mu contrasting the present AI cycle with the internet/telecom cycle of the 1990s. After comparing the two eras' technological, economic, and capital disparities, he comes to the conclusion that, even though a bubble may eventually occur, we are still a long way from there.|
-|[.]() | |
+|[Robots sacked, screenings shut down: a new movement of luddites is rising up against AI.](https://www.theguardian.com/commentisfree/article/2024/jul/27/harm-ai-artificial-intelligence-backlash-human-labour) |Company after company is swallowing the hype, only to be forced into embarrassing walkbacks by anti-AI backlash |
 |[.]() | |
 |[.]() | |
 |[.]() | |
