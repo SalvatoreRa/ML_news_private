@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Larger the Better? Improved LLM Code-Generation via Budget Reallocation.](https://arxiv.org/abs/2404.00725) | With a fairly comparable inference cost, code generation performance can be enhanced by repeatedly using smaller models.|
 |[Self-Directed Synthetic Dialogues and Revisions Technical Report.](https://arxiv.org/abs/2407.18421) |More than 300,000 dialogues and criticisms will be incorporated into open models. The dataset, which was primarily produced with synthetics, is a potent illustration of synthetic data utilizing open models. |
 |[Theia: Distilling Diverse Vision Foundation Models for Robot Learning.](https://arxiv.org/abs/2407.20179) |Theia, a vision foundation model for robot learning that combines several current vision models, is presented in this study. Rich visual representations provided by Theia improve robot learning even when using smaller model sizes and less training data. Test results indicate that Theia performs better than its predecessors, and the authors propose that enhanced performance is caused by more entropy in feature norms. The public is free to utilize the models and code. |
-|[.]() | |
+|[Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation.](https://arxiv.org/abs/2407.18910v1) | A novel strategy to increase the effectiveness and scalability of recommender systems is called LightGODE. By adopting a continuous graph ODE and concentrating on post-training graph convolution, it avoids the need for costly computations during training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,9 +120,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A New Benchmark for Autonomous Agents.](https://appworld.dev/) |AppWorld Engine is a sophisticated execution environment that features nine daily apps and 457 APIs |
 |[Crash Course in Deep Learning.](https://gpuopen.com/learn/deep_learning_crash_course/) |The creation and application of multi-layer perceptrons (MLPs), a kind of fully connected neural network used in deep learning, are covered in this article. |
 |[SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain.](https://arxiv.org/abs/2407.19584) | In this study, two huge language models with 54 billion and 141 billion parameters, respectively, that are intended for the legal industry, are introduced: SaulLM-54B and SaulLM-141B. The researchers used the Mixtral architecture to provide large-scale domain adaptation by aligning outputs with human legal interpretations, continuing pre-training using an extensive legal corpus, and adhering to a particular legal instruction-following procedure. The models provide state-of-the-art performance on LegalBench-Instruct and outperform earlier open-source models. These models' base, instruct, and aligned versions are available for reuse and group study under the MIT License.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[WFEN.](https://github.com/PRIS-CV/WFEN/tree/main) |To boost face super-resolution, researchers have created a feature augmentation network based on wavelets. The technique uses a full domain Transformer and breaks down input data into high and low-frequency components to improve facial details without generating distortions. |
+|[ChartQA-MLLM.](https://github.com/zengxingchen/chartqa-mllm) | This experiment suggests a novel approach to multimodal large language models-based chart question answering.|
+|[DGFNet.](https://github.com/xingp/dgfnet) | A novel method for forecasting the paths of several traffic participants in autonomous driving is called DGFNet. By taking into account the variations in difficulty between agents, recording detailed spatiotemporal data, and utilizing a difficulty-guided decoder, it improves predictions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
