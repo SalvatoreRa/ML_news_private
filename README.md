@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK regulator looks at Google’s partnership with Anthropic.](https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai) |CMA to consider whether deal with AI startup is a potential merger, which could prompt full investigation |
 |[OpenAI has released a new ChatGPT bot that you can talk to.](https://www.technologyreview.com/2024/07/30/1095489/openai-has-released-a-new-chatgpt-bot-that-you-can-talk-to/) |The voice-enabled chatbot will be available to a small group of people today, and to all ChatGPT Plus users in the fall.  |
 |[Meta's new AI Studio helps you create your own custom AI chatbots.](https://www.zdnet.com/article/metas-new-ai-studio-helps-you-create-your-own-custom-ai-chatbots/) |Headed for the web as well as Instagram, Messenger, and WhatsApp, AI Studio will let you build a chatbot that acts as a virtual extension of yourself. |
-|[.]() | |
+|[Perplexity Will Soon Start Selling Ads Within AI Search.](https://www.fastcompany.com/91163900/perplexity-selling-ads-ai-search) | Facing backlash for scraping publisher data, the young company says it’ll now compensate publishers whose content is used in answers to search questions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
