@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI has released a new ChatGPT bot that you can talk to.](https://www.technologyreview.com/2024/07/30/1095489/openai-has-released-a-new-chatgpt-bot-that-you-can-talk-to/) |The voice-enabled chatbot will be available to a small group of people today, and to all ChatGPT Plus users in the fall.  |
 |[Meta's new AI Studio helps you create your own custom AI chatbots.](https://www.zdnet.com/article/metas-new-ai-studio-helps-you-create-your-own-custom-ai-chatbots/) |Headed for the web as well as Instagram, Messenger, and WhatsApp, AI Studio will let you build a chatbot that acts as a virtual extension of yourself. |
 |[Perplexity Will Soon Start Selling Ads Within AI Search.](https://www.fastcompany.com/91163900/perplexity-selling-ads-ai-search) | Facing backlash for scraping publisher data, the young company says it’ll now compensate publishers whose content is used in answers to search questions.|
-|[.]() | |
+|[The AI job interviewer will see you now.](https://restofworld.org/2024/ai-interview-software-hiring-practices) |AI interview services say they’re eliminating bias — but not everyone agrees. Companies are adopting AI job interview systems to handle incoming applicants. LLMs allow the interviewer to incorporate follow-up questions based on the subject’s response. Critics say the opaque models raise serious concerns about bias, particularly where there is no documentation about how a decision is made.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
