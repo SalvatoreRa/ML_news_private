@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta's new AI Studio helps you create your own custom AI chatbots.](https://www.zdnet.com/article/metas-new-ai-studio-helps-you-create-your-own-custom-ai-chatbots/) |Headed for the web as well as Instagram, Messenger, and WhatsApp, AI Studio will let you build a chatbot that acts as a virtual extension of yourself. |
 |[Perplexity Will Soon Start Selling Ads Within AI Search.](https://www.fastcompany.com/91163900/perplexity-selling-ads-ai-search) | Facing backlash for scraping publisher data, the young company says it’ll now compensate publishers whose content is used in answers to search questions.|
 |[The AI job interviewer will see you now.](https://restofworld.org/2024/ai-interview-software-hiring-practices) |AI interview services say they’re eliminating bias — but not everyone agrees. Companies are adopting AI job interview systems to handle incoming applicants. LLMs allow the interviewer to incorporate follow-up questions based on the subject’s response. Critics say the opaque models raise serious concerns about bias, particularly where there is no documentation about how a decision is made.|
-|[.]() | |
+|[Canva buys Leonardo.](https://leonardo.ai/news/supercharging-leonardo-with-canva/) | Leonardo, a generative picture firm, joins Canva to enhance the creative tools of both organizations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
