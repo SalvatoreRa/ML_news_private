@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Startup Anthropic Faces Backlash for Excessive Web Scraping.](https://www.techopedia.com/news/ai-startup-anthropic-faces-backlash-for-excessive-web-scraping) | Freelancer.com CEO claims Anthropic's crawler violated the "do not crawl" protocol, causing site slowdowns.|
 |[Apple Intelligence Foundation Language Models.](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models) |Apple has outlined the basics of its language models for its newly announced “Apple Intelligence” initiative. |
 |[Microsoft beats revenue forecasts but poor performance of cloud services drags share price.](https://www.theguardian.com/technology/article/2024/jul/30/mircrosoft-revenue-share-prices-drop) |Firm’s earnings were up 15% year-on-year, but Azure’s lower returns resulted in share prices falling by as much as 7% |
-|[.]() | |
+|[UK regulator looks at Google’s partnership with Anthropic.](https://www.theguardian.com/technology/article/2024/jul/30/google-anthropic-partnership-cma-ai) |CMA to consider whether deal with AI startup is a potential merger, which could prompt full investigation |
 |[.]() | |
 |[.]() | |
 |[.]() | |
