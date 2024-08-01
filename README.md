@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Announcing Phi-3 fine-tuning, new generative AI models, and other Azure AI updates .](https://azure.microsoft.com/en-us/blog/announcing-phi-3-fine-tuning-new-generative-ai-models-and-other-azure-ai-updates-to-empower-organizations-to-customize-and-scale-ai-applications/) |Updates to Azure AI have been released by Microsoft. These include PHI-3 model serverless fine-tuning, enhanced PHI-3-MINI performance, and the incorporation of models such as Meta's LLAMA 3.1 and GPT-4o mini into Azure AI. |
 |[Strong earnings report pushes Meta shares up amid heavy AI spending.](https://www.theguardian.com/technology/article/2024/jul/31/meta-earnings-results-ai-spending-revenue) |Stock price grew around 5%, which revealed the company outperformed analysts’ expectations for its second quarter |
 |[Argentina will use AI to ‘predict future crimes’ but experts worry for citizens’ rights.](https://www.theguardian.com/world/article/2024/aug/01/argentina-ai-predicting-future-crimes-citizen-rights) | President Javier Milei creates security unit as some say certain groups may be overly scrutinized by the technology|
-|[.]() | |
-|[.]() | |
+|[White House says no need to restrict ‘open-source’ artificial intelligence — at least for now.](https://apnews.com/article/ai-open-source-white-house-f62009172c46c5003ddd9481aa49f7c3) | The White House is coming out in favor of “open-source” artificial intelligence technology, arguing in a report Tuesday that there’s no need right now for restrictions on companies making key components of their powerful AI systems widely available.|
+|[Samsung hints at new products as it bets on AI to drive upgrades to its latest foldable phones.](https://www.cnbc.com/2024/07/26/samsung-tm-roh-interview-galaxy-ai-mixed-reality-and-foldables.html) | Speaking to CNBC, Samsung Electronics’ mobile boss TM Roh discussed Galaxy AI and software strategy, while hinting at future foldable products and mixed reality headsets. Roh said the company hopes its suite of AI software will push users to upgrade to its latest smartphones.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
