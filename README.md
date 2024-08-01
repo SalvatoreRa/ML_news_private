@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Who will control the future of AI?](https://www.washingtonpost.com/opinions/2024/07/25/sam-altman-ai-democracy-authoritarianism-future/) |In order to maintain AI supremacy over authoritarian regimes, OpenAI's Sam Altman has presented a strategic imperative for the US and its allies to lead a global AI initiative based on democratic values. This initiative calls for strong security, infrastructure investment, commercial diplomacy, and cooperative norms development. |
 |[Advanced AI assistants that act on our behalf may not be ethically or legally feasible.](https://www.nature.com/articles/s42256-024-00877-9) |Google and OpenAI have recently announced major product launches involving artificial intelligence (AI) agents based on large language models (LLMs) and other generative models. Notably, these are envisioned to function as personalized ‘advanced assistants’. With other companies following suit, such AI agents seem poised to be the next big thing in consumer technology, with the potential to disrupt work and social environments. |
 |[Three ways AI is changing the 2024 Olympics for athletes and fans.](https://www.nature.com/articles/d41586-024-02427-0) | From training to broadcasting, artificial intelligence will have an imprint on this year’s event for the first time.|
-|[.]() | |
+|[Mixed signals on tech stocks amid debate over viability of AI boom.](https://www.theguardian.com/business/article/2024/jul/31/mixed-signals-on-tech-stocks-amid-debate-over-viability-of-ai-boom) |Fears of fresh sell-off after Nvidia and Microsoft shares dip, but other chip stocks continue to rise |
 |[.]() | |
 |[.]() | |
 |[.]() | |
