@@ -138,6 +138,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Machine Unlearning in Generative AI: A Survey.](https://arxiv.org/abs/2407.20516v1) |This in-depth analysis of generative AI examines machine unlearning. It addresses how to formulate problems, how to evaluate them, and the advantages and disadvantages of different approaches. |
 |[Elysium: Exploring Object-level Perception in Videos via MLLM.](https://arxiv.org/abs/2403.16558v2) | A step toward providing object tracking and related tasks in films for Multi-modal Large Language Models (MLLMs) is represented by Elysium.|
 |[Piano Performance Generation.](https://emo-disentanger.github.io/) | The two-stage Transformer-based model for creating emotionally charged piano performances is presented in this paper.|
+|[3D Generative Model for Dynamic Scenes.](https://zyp123494.github.io/DynaVol-S.github.io/) |A 3D generative model called DynaVol-S is very good at extracting object-centric representations from unsupervised films. |
+|[Add-SD: Rational Generation without Manual Reference.](https://github.com/ylingfeng/add-sd) | Add-SD is a program that uses short text prompts to put things into realistic environments. Unlike other methods, this one doesn't require bounding boxes or other explicit references.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,6 +149,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
