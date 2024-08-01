@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SAE for Gemma.](https://www.neuronpedia.org/gemma-scope) | This demo is a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic.|
 |[Machine Unlearning in Generative AI: A Survey.](https://arxiv.org/abs/2407.20516v1) |This in-depth analysis of generative AI examines machine unlearning. It addresses how to formulate problems, how to evaluate them, and the advantages and disadvantages of different approaches. |
 |[Elysium: Exploring Object-level Perception in Videos via MLLM.](https://arxiv.org/abs/2403.16558v2) | A step toward providing object tracking and related tasks in films for Multi-modal Large Language Models (MLLMs) is represented by Elysium.|
-|[.]() | |
+|[Piano Performance Generation.](https://emo-disentanger.github.io/) | The two-stage Transformer-based model for creating emotionally charged piano performances is presented in this paper.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
