@@ -134,9 +134,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[WFEN.](https://github.com/PRIS-CV/WFEN/tree/main) |To boost face super-resolution, researchers have created a feature augmentation network based on wavelets. The technique uses a full domain Transformer and breaks down input data into high and low-frequency components to improve facial details without generating distortions. |
 |[ChartQA-MLLM.](https://github.com/zengxingchen/chartqa-mllm) | This experiment suggests a novel approach to multimodal large language models-based chart question answering.|
 |[DGFNet.](https://github.com/xingp/dgfnet) | A novel method for forecasting the paths of several traffic participants in autonomous driving is called DGFNet. By taking into account the variations in difficulty between agents, recording detailed spatiotemporal data, and utilizing a difficulty-guided decoder, it improves predictions.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[SAE for Gemma.](https://www.neuronpedia.org/gemma-scope) | This demo is a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic.|
+|[Machine Unlearning in Generative AI: A Survey.](https://arxiv.org/abs/2407.20516v1) |This in-depth analysis of generative AI examines machine unlearning. It addresses how to formulate problems, how to evaluate them, and the advantages and disadvantages of different approaches. |
+|[Elysium: Exploring Object-level Perception in Videos via MLLM.](https://arxiv.org/abs/2403.16558v2) | A step toward providing object tracking and related tasks in films for Multi-modal Large Language Models (MLLMs) is represented by Elysium.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
