@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Piano Performance Generation.](https://emo-disentanger.github.io/) | The two-stage Transformer-based model for creating emotionally charged piano performances is presented in this paper.|
 |[3D Generative Model for Dynamic Scenes.](https://zyp123494.github.io/DynaVol-S.github.io/) |A 3D generative model called DynaVol-S is very good at extracting object-centric representations from unsupervised films. |
 |[Add-SD: Rational Generation without Manual Reference.](https://github.com/ylingfeng/add-sd) | Add-SD is a program that uses short text prompts to put things into realistic environments. Unlike other methods, this one doesn't require bounding boxes or other explicit references.|
-|[.]() | |
+|[Flow Matching: Matching flows instead of scores.](https://jmtomczak.github.io/blog/18/18_fm.html) |Diffusion models possess great strength. It can be difficult to understand them. Theoretically, flow matching is one way to view them. This blog delves further into the diffusion math of flow matching. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -174,8 +174,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Three ways AI is changing the 2024 Olympics for athletes and fans.](https://www.nature.com/articles/d41586-024-02427-0) | From training to broadcasting, artificial intelligence will have an imprint on this year’s event for the first time.|
 |[Mixed signals on tech stocks amid debate over viability of AI boom.](https://www.theguardian.com/business/article/2024/jul/31/mixed-signals-on-tech-stocks-amid-debate-over-viability-of-ai-boom) |Fears of fresh sell-off after Nvidia and Microsoft shares dip, but other chip stocks continue to rise |
 |[Cheap light sources could make AI more energy efficient.](https://www.nature.com/articles/d41586-024-02323-7) | Light-based devices can reduce the energy consumption of computers, but most rely on lasers, which are expensive to integrate with other technologies. An approach that uses LEDs instead of lasers provides a path forwards.|
-|[.]() | |
-|[.]() | |
+|[Raising children on the eve of AI.](https://www.lesswrong.com/posts/cyqrvE3dk5apg54Sk/raising-children-on-the-eve-of-ai) | As transformative AI becomes more likely, this author wonders how to get kids ready for a future that might look very different from what it is today, while also struggling with the timing and unpredictability of changes. In addition, they discuss the moral implications of bearing children in the face of AI-induced uncertainty. They also offer practical advice on how to raise "AI-native" children and parenting techniques that put happiness and adaptability before conventional career-focused routes. The author promotes having an open discussion about possible hazards with children, planning for a variety of futures, and leading a balanced life.|
+|[Your new AI Friend is almost ready to meet you.](https://www.theverge.com/2024/7/30/24207029/friend-ai-companion-gadget) |Rather than focusing on increasing productivity, Avi Schiffmann is creating "Friend," an AI companion housed in a wearable necklace that is meant to provide connection and support. The gadget, which connects through an app, will initially be sold in 30,000 pieces for $99 per. January shipping is scheduled without a subscription cost. Schiffmann sees Friend developing into a digital relationship platform, separating the product from AIs that are task-oriented and concentrating instead on the new trend of meaningfully connecting with digital entities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
