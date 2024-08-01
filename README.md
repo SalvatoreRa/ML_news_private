@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[White House says no need to restrict ‘open-source’ artificial intelligence — at least for now.](https://apnews.com/article/ai-open-source-white-house-f62009172c46c5003ddd9481aa49f7c3) | The White House is coming out in favor of “open-source” artificial intelligence technology, arguing in a report Tuesday that there’s no need right now for restrictions on companies making key components of their powerful AI systems widely available.|
 |[Samsung hints at new products as it bets on AI to drive upgrades to its latest foldable phones.](https://www.cnbc.com/2024/07/26/samsung-tm-roh-interview-galaxy-ai-mixed-reality-and-foldables.html) | Speaking to CNBC, Samsung Electronics’ mobile boss TM Roh discussed Galaxy AI and software strategy, while hinting at future foldable products and mixed reality headsets. Roh said the company hopes its suite of AI software will push users to upgrade to its latest smartphones.|
 |[Elon Musk calls Grok 'the most powerful AI by every metric' but 'secretly' trains the new model with your X data by default.](https://www.windowscentral.com/software-apps/twitter/elon-musk-grok-ai-secretly-trains-with-your-x-data) |X's new experience is automatically set to opt-in and uses your data to train its Grok AI model. |
-|[.]() | |
-|[.]() | |
+|[NVIDIA Accelerates Humanoid Robotics Development.](https://nvidianews.nvidia.com/news/nvidia-accelerates-worldwide-humanoid-robotics-development) |To accelerate the development of humanoid robotics, NVIDIA has introduced new services and platforms, such as teleoperated data capturing workflows, OSMO orchestration, and NIM microservices. |
+|[US’ first robot-assisted dual kidney transplant performed in Ohio.](https://interestingengineering.com/health/robot-assisted-dual-kidney-transplant) | Joanne’s surgery was unique because doctors used the robotic surgical technique to implant two kidneys from a single deceased donor.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
