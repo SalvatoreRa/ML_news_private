@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing torchchat: Accelerating Local LLM Inference on Laptop, Desktop and Mobile.](https://pytorch.org/blog/torchchat-local-llm-inference/) |A fantastic sample library for local language model chats has been made available by the PyTorch team. It can run the most recent Llama 3.1 models and comes with a reliable sample system. |
 |[Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend.](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) | Xiaoyin Qu founded the firm Heeyo, which has released an AI-powered software with interactive games and a chatbot for kids three to eleven years old. With features like data protection and material created by child development specialists, the app strives to prioritize safety while offering tailored learning experiences. Though there may be worries about AI for children, Heeyo has raised $3.5 million in seed money. It presents itself as a secure and instructive substitute for well-known video and gaming platforms.|
 |[Cerebras IPO.](https://www.businesswire.com/news/home/20240731357073/en/Cerebras-Systems-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering) |Cerebras Systems announced a proposal for IPO to the SEC. |
-|[.]() | |
+|[LLMs breach a threshold.](https://www.strangeloopcanon.com/p/llms-breach-a-threshold) |FLOPs as a regulatory threshold have been the subject of dispute since Meta's open source LLM Llama 3.1, trained on 3.8x10^25 FLOPs and equipped with 405B parameters, was recently released. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
