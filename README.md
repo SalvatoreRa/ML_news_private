@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The EU’s AI Act is now in force.](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/) |This starts the clock on a series of staggered compliance deadlines that the law will apply to different types of AI developers and applications. Most provisions will be fully applicable by mid-2026. But the first deadline, which enforces bans on a small number of prohibited uses of AI in specific contexts, such as law enforcement use of remote biometrics in public places, will apply in just six months’ time. |
 |[Introducing Stable Fast 3D: Rapid 3D Asset Generation From Single Images.](https://stability.ai/news/introducing-stable-fast-3d) |A fantastic new quick and strong 3D generation model has been launched by Stability AI. Like the company's earlier versions, it operates under the same commercial license. |
 |[Introducing torchchat: Accelerating Local LLM Inference on Laptop, Desktop and Mobile.](https://pytorch.org/blog/torchchat-local-llm-inference/) |A fantastic sample library for local language model chats has been made available by the PyTorch team. It can run the most recent Llama 3.1 models and comes with a reliable sample system. |
-|[.]() | |
-|[.]() | |
+|[Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend.](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) | Xiaoyin Qu founded the firm Heeyo, which has released an AI-powered software with interactive games and a chatbot for kids three to eleven years old. With features like data protection and material created by child development specialists, the app strives to prioritize safety while offering tailored learning experiences. Though there may be worries about AI for children, Heeyo has raised $3.5 million in seed money. It presents itself as a secure and instructive substitute for well-known video and gaming platforms.|
+|[Cerebras IPO.](https://www.businesswire.com/news/home/20240731357073/en/Cerebras-Systems-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering) |Cerebras Systems announced a proposal for IPO to the SEC. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -180,10 +180,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How TikTok bots and AI have powered a resurgence in UK far-right violence.](https://www.theguardian.com/politics/article/2024/aug/02/how-tiktok-bots-and-ai-have-powered-a-resurgence-in-uk-far-right-violence) |Experts warn growth of extremist influencers and ‘micro-donations’ could create even bigger wave of unrest |
 |[On speaking to AI.](https://www.oneusefulthing.org/p/on-speaking-to-ai) |The new AI-powered Siri and ChatGPT's new Advanced Voice mode have different ideologies. Agent systems, such as ChatGPT Voice, use strong, multimodal models for more natural and dynamic interactions, while Copilot systems use minimal models to focus on safety and privacy. This demonstrates the conflict between less capable, lower risk systems and ones that give greater control and possible advantages. |
 |[How This Brain Implant Is Using ChatGPT.](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/) | Synchron has incorporated OpenAI's ChatGPT into their brain-computer interface (BCI) technology to provide quicker communication for individuals who are paralyzed. This BCI, known as a stentrode, is capable of deciphering mental orders. It currently provides response possibilities created by AI; in the future, it may also support multimodal inputs. With an eye toward FDA approval, Synchron plans to adapt its AI integrations to meet the demands of patients.|
+|[At the Olympics, AI is watching you.](https://arstechnica.com/ai/2024/07/at-the-olympics-ai-is-watching-you/) |Paris increased security in anticipation of the 2024 Olympics by using artificial intelligence (AI) to scan CCTV footage from metro and train stations for possible threats. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 # ML news: Week 21 - 28 July
 
