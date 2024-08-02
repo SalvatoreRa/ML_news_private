@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk calls Grok 'the most powerful AI by every metric' but 'secretly' trains the new model with your X data by default.](https://www.windowscentral.com/software-apps/twitter/elon-musk-grok-ai-secretly-trains-with-your-x-data) |X's new experience is automatically set to opt-in and uses your data to train its Grok AI model. |
 |[NVIDIA Accelerates Humanoid Robotics Development.](https://nvidianews.nvidia.com/news/nvidia-accelerates-worldwide-humanoid-robotics-development) |To accelerate the development of humanoid robotics, NVIDIA has introduced new services and platforms, such as teleoperated data capturing workflows, OSMO orchestration, and NIM microservices. |
 |[US’ first robot-assisted dual kidney transplant performed in Ohio.](https://interestingengineering.com/health/robot-assisted-dual-kidney-transplant) | Joanne’s surgery was unique because doctors used the robotic surgical technique to implant two kidneys from a single deceased donor.|
-|[.]() | |
-|[.]() | |
+|[Intel announces plan to cut 15,000 jobs to ‘resize and refocus’ business.](https://www.theguardian.com/technology/article/2024/aug/01/intel-lay-offs-shares-decline) |Firm reported a loss in its second quarter and said it would cut 15% of its workforce to cut costs and compete with rivals |
+|[UK shelves £1.3bn of funding for technology and AI projects.](https://www.theguardian.com/business/article/2024/aug/02/uk-funding-technology-and-ai-projects) |Britain’s first next-generation supercomputer, planned by Tories, in doubt after Labour government move |
 |[.]() | |
 |[.]() | |
 |[.]() | |
