@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI pledges to give U.S. AI Safety Institute early access to its next model.](https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model) | OpenAI CEO Sam Altman says that OpenAI is working with the U.S. AI Safety Institute, a federal government body that aims to assess and address risks in AI platforms, on an agreement to provide early access to its next major generative AI model for safety testing.|
 |[The EU’s AI Act is now in force.](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/) |This starts the clock on a series of staggered compliance deadlines that the law will apply to different types of AI developers and applications. Most provisions will be fully applicable by mid-2026. But the first deadline, which enforces bans on a small number of prohibited uses of AI in specific contexts, such as law enforcement use of remote biometrics in public places, will apply in just six months’ time. |
 |[Introducing Stable Fast 3D: Rapid 3D Asset Generation From Single Images.](https://stability.ai/news/introducing-stable-fast-3d) |A fantastic new quick and strong 3D generation model has been launched by Stability AI. Like the company's earlier versions, it operates under the same commercial license. |
-|[.]() | |
+|[Introducing torchchat: Accelerating Local LLM Inference on Laptop, Desktop and Mobile.](https://pytorch.org/blog/torchchat-local-llm-inference/) |A fantastic sample library for local language model chats has been made available by the PyTorch team. It can run the most recent Llama 3.1 models and comes with a reliable sample system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions.](https://mattie-e.github.io/MMTrail/) | MMTrail is a large-scale multi-modality video-language dataset with over 20M trailer clips, featuring high-quality multimodal captions that integrate context, visual frames, and background music, aiming to enhance cross-modality studies and fine-grained multimodal-language model training.|
 |[ARCLE - ARC Learning Environment.](https://github.com/confeitohs/arcle) | ARCLE is an environment to aid reinforcement learning studies using the Abstraction and Reasoning Corpus (ARC).|
 |[Mishax.](https://github.com/google-deepmind/mishax) |DeepMind has released a library for studying language models via MI. The library helps with running models and functions from complex codebases without tons of importing headaches. |
-|[.]() | |
+|[Engine Core.](https://github.com/Engine-Labs/engine-core) |Engine Core demonstrates a pattern for enabling LLMs to undertake tasks of a given scope with a dynamic system prompt and a collection of tool functions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -178,8 +178,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Your new AI Friend is almost ready to meet you.](https://www.theverge.com/2024/7/30/24207029/friend-ai-companion-gadget) |Rather than focusing on increasing productivity, Avi Schiffmann is creating "Friend," an AI companion housed in a wearable necklace that is meant to provide connection and support. The gadget, which connects through an app, will initially be sold in 30,000 pieces for $99 per. January shipping is scheduled without a subscription cost. Schiffmann sees Friend developing into a digital relationship platform, separating the product from AIs that are task-oriented and concentrating instead on the new trend of meaningfully connecting with digital entities. |
 |[These AI firms publish the world’s most highly cited work.](https://www.nature.com/articles/d41586-024-02515-1) |US and Chinese firms dominate the list of companies that are producing the most research and patents in artificial intelligence. |
 |[How TikTok bots and AI have powered a resurgence in UK far-right violence.](https://www.theguardian.com/politics/article/2024/aug/02/how-tiktok-bots-and-ai-have-powered-a-resurgence-in-uk-far-right-violence) |Experts warn growth of extremist influencers and ‘micro-donations’ could create even bigger wave of unrest |
-|[.]() | |
-|[.]() | |
+|[On speaking to AI.](https://www.oneusefulthing.org/p/on-speaking-to-ai) |The new AI-powered Siri and ChatGPT's new Advanced Voice mode have different ideologies. Agent systems, such as ChatGPT Voice, use strong, multimodal models for more natural and dynamic interactions, while Copilot systems use minimal models to focus on safety and privacy. This demonstrates the conflict between less capable, lower risk systems and ones that give greater control and possible advantages. |
+|[How This Brain Implant Is Using ChatGPT.](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/) | Synchron has incorporated OpenAI's ChatGPT into their brain-computer interface (BCI) technology to provide quicker communication for individuals who are paralyzed. This BCI, known as a stentrode, is capable of deciphering mental orders. It currently provides response possibilities created by AI; in the future, it may also support multimodal inputs. With an eye toward FDA approval, Synchron plans to adapt its AI integrations to meet the demands of patients.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
