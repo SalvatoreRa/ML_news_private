@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK shelves £1.3bn of funding for technology and AI projects.](https://www.theguardian.com/business/article/2024/aug/02/uk-funding-technology-and-ai-projects) |Britain’s first next-generation supercomputer, planned by Tories, in doubt after Labour government move |
 |[Black Forest Labs.](https://blackforestlabs.ai/announcing-black-forest-labs/) |The founders of Latent Diffusion, Stable Diffusion, VQGAN, and other startups have raised over $30 million to launch their new business. They have introduced new flagship picture generation devices that are available in multiple levels and are incredibly competent. |
 |[OpenAI pledges to give U.S. AI Safety Institute early access to its next model.](https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model) | OpenAI CEO Sam Altman says that OpenAI is working with the U.S. AI Safety Institute, a federal government body that aims to assess and address risks in AI platforms, on an agreement to provide early access to its next major generative AI model for safety testing.|
-|[.]() | |
+|[The EU’s AI Act is now in force.](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/) |This starts the clock on a series of staggered compliance deadlines that the law will apply to different types of AI developers and applications. Most provisions will be fully applicable by mid-2026. But the first deadline, which enforces bans on a small number of prohibited uses of AI in specific contexts, such as law enforcement use of remote biometrics in public places, will apply in just six months’ time. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
