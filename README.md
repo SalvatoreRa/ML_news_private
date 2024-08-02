@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Black Forest Labs.](https://blackforestlabs.ai/announcing-black-forest-labs/) |The founders of Latent Diffusion, Stable Diffusion, VQGAN, and other startups have raised over $30 million to launch their new business. They have introduced new flagship picture generation devices that are available in multiple levels and are incredibly competent. |
 |[OpenAI pledges to give U.S. AI Safety Institute early access to its next model.](https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model) | OpenAI CEO Sam Altman says that OpenAI is working with the U.S. AI Safety Institute, a federal government body that aims to assess and address risks in AI platforms, on an agreement to provide early access to its next major generative AI model for safety testing.|
 |[The EU’s AI Act is now in force.](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/) |This starts the clock on a series of staggered compliance deadlines that the law will apply to different types of AI developers and applications. Most provisions will be fully applicable by mid-2026. But the first deadline, which enforces bans on a small number of prohibited uses of AI in specific contexts, such as law enforcement use of remote biometrics in public places, will apply in just six months’ time. |
-|[.]() | |
+|[Introducing Stable Fast 3D: Rapid 3D Asset Generation From Single Images.](https://stability.ai/news/introducing-stable-fast-3d) |A fantastic new quick and strong 3D generation model has been launched by Stability AI. Like the company's earlier versions, it operates under the same commercial license. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[3D Generative Model for Dynamic Scenes.](https://zyp123494.github.io/DynaVol-S.github.io/) |A 3D generative model called DynaVol-S is very good at extracting object-centric representations from unsupervised films. |
 |[Add-SD: Rational Generation without Manual Reference.](https://github.com/ylingfeng/add-sd) | Add-SD is a program that uses short text prompts to put things into realistic environments. Unlike other methods, this one doesn't require bounding boxes or other explicit references.|
 |[Flow Matching: Matching flows instead of scores.](https://jmtomczak.github.io/blog/18/18_fm.html) |Diffusion models possess great strength. It can be difficult to understand them. Theoretically, flow matching is one way to view them. This blog delves further into the diffusion math of flow matching. |
-|[.]() | |
+|[MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions.](https://mattie-e.github.io/MMTrail/) | MMTrail is a large-scale multi-modality video-language dataset with over 20M trailer clips, featuring high-quality multimodal captions that integrate context, visual frames, and background music, aiming to enhance cross-modality studies and fine-grained multimodal-language model training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
