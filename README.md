@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ARCLE - ARC Learning Environment.](https://github.com/confeitohs/arcle) | ARCLE is an environment to aid reinforcement learning studies using the Abstraction and Reasoning Corpus (ARC).|
 |[Mishax.](https://github.com/google-deepmind/mishax) |DeepMind has released a library for studying language models via MI. The library helps with running models and functions from complex codebases without tons of importing headaches. |
 |[Engine Core.](https://github.com/Engine-Labs/engine-core) |Engine Core demonstrates a pattern for enabling LLMs to undertake tasks of a given scope with a dynamic system prompt and a collection of tool functions. |
-|[.]() | |
+|[alphaXiv.](https://alphaxiv.org/) |Open research discussion directly on top of arXiv |
 |[.]() | |
 |[.]() | |
 |[.]() | |
