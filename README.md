@@ -142,7 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Add-SD: Rational Generation without Manual Reference.](https://github.com/ylingfeng/add-sd) | Add-SD is a program that uses short text prompts to put things into realistic environments. Unlike other methods, this one doesn't require bounding boxes or other explicit references.|
 |[Flow Matching: Matching flows instead of scores.](https://jmtomczak.github.io/blog/18/18_fm.html) |Diffusion models possess great strength. It can be difficult to understand them. Theoretically, flow matching is one way to view them. This blog delves further into the diffusion math of flow matching. |
 |[MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions.](https://mattie-e.github.io/MMTrail/) | MMTrail is a large-scale multi-modality video-language dataset with over 20M trailer clips, featuring high-quality multimodal captions that integrate context, visual frames, and background music, aiming to enhance cross-modality studies and fine-grained multimodal-language model training.|
-|[.]() | |
+|[ARCLE - ARC Learning Environment.](https://github.com/confeitohs/arcle) | ARCLE is an environment to aid reinforcement learning studies using the Abstraction and Reasoning Corpus (ARC).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
