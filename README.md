@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[US’ first robot-assisted dual kidney transplant performed in Ohio.](https://interestingengineering.com/health/robot-assisted-dual-kidney-transplant) | Joanne’s surgery was unique because doctors used the robotic surgical technique to implant two kidneys from a single deceased donor.|
 |[Intel announces plan to cut 15,000 jobs to ‘resize and refocus’ business.](https://www.theguardian.com/technology/article/2024/aug/01/intel-lay-offs-shares-decline) |Firm reported a loss in its second quarter and said it would cut 15% of its workforce to cut costs and compete with rivals |
 |[UK shelves £1.3bn of funding for technology and AI projects.](https://www.theguardian.com/business/article/2024/aug/02/uk-funding-technology-and-ai-projects) |Britain’s first next-generation supercomputer, planned by Tories, in doubt after Labour government move |
-|[.]() | |
-|[.]() | |
+|[Black Forest Labs.](https://blackforestlabs.ai/announcing-black-forest-labs/) |The founders of Latent Diffusion, Stable Diffusion, VQGAN, and other startups have raised over $30 million to launch their new business. They have introduced new flagship picture generation devices that are available in multiple levels and are incredibly competent. |
+|[OpenAI pledges to give U.S. AI Safety Institute early access to its next model.](https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model) | OpenAI CEO Sam Altman says that OpenAI is working with the U.S. AI Safety Institute, a federal government body that aims to assess and address risks in AI platforms, on an agreement to provide early access to its next major generative AI model for safety testing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
