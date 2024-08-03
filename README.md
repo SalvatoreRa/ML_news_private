@@ -112,6 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
@@ -181,7 +182,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[On speaking to AI.](https://www.oneusefulthing.org/p/on-speaking-to-ai) |The new AI-powered Siri and ChatGPT's new Advanced Voice mode have different ideologies. Agent systems, such as ChatGPT Voice, use strong, multimodal models for more natural and dynamic interactions, while Copilot systems use minimal models to focus on safety and privacy. This demonstrates the conflict between less capable, lower risk systems and ones that give greater control and possible advantages. |
 |[How This Brain Implant Is Using ChatGPT.](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/) | Synchron has incorporated OpenAI's ChatGPT into their brain-computer interface (BCI) technology to provide quicker communication for individuals who are paralyzed. This BCI, known as a stentrode, is capable of deciphering mental orders. It currently provides response possibilities created by AI; in the future, it may also support multimodal inputs. With an eye toward FDA approval, Synchron plans to adapt its AI integrations to meet the demands of patients.|
 |[At the Olympics, AI is watching you.](https://arstechnica.com/ai/2024/07/at-the-olympics-ai-is-watching-you/) |Paris increased security in anticipation of the 2024 Olympics by using artificial intelligence (AI) to scan CCTV footage from metro and train stations for possible threats. |
-|[.]() | |
+|[Why have the big seven tech companies been hit by AI boom doubts?](https://www.theguardian.com/technology/article/2024/aug/03/why-big-seven-tech-companies-hit-ai-boom-doubts-shares) | Their shares have fallen 11.8% from last month’s peak but more AI breakthroughs may reassure investors|
+|[We must be wary of the power of AI.](https://www.theguardian.com/technology/article/2024/aug/02/we-must-be-wary-of-the-power-of-ai) | Robert Skidelsky is concerned about the surveillance potential or AI, while Brian Reffin Smith is worried about its capacity to hijack culture, and Michael Heaton warns that it relieves us of the need to think|
 |[.]() | |
 |[.]() | |
 |[.]() | |
