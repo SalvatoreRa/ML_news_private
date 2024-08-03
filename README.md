@@ -184,7 +184,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[At the Olympics, AI is watching you.](https://arstechnica.com/ai/2024/07/at-the-olympics-ai-is-watching-you/) |Paris increased security in anticipation of the 2024 Olympics by using artificial intelligence (AI) to scan CCTV footage from metro and train stations for possible threats. |
 |[Why have the big seven tech companies been hit by AI boom doubts?](https://www.theguardian.com/technology/article/2024/aug/03/why-big-seven-tech-companies-hit-ai-boom-doubts-shares) | Their shares have fallen 11.8% from last month’s peak but more AI breakthroughs may reassure investors|
 |[We must be wary of the power of AI.](https://www.theguardian.com/technology/article/2024/aug/02/we-must-be-wary-of-the-power-of-ai) | Robert Skidelsky is concerned about the surveillance potential or AI, while Brian Reffin Smith is worried about its capacity to hijack culture, and Michael Heaton warns that it relieves us of the need to think|
-|[.]() | |
+|[OpenAI’s Sam Altman is becoming one of the most powerful people on Earth. We should be very afraid.](https://www.theguardian.com/technology/article/2024/aug/03/open-ai-sam-altman-chatgpt-gary-marcus-taming-silicon-valley) |Sam Altman’s ChatGPT promises to transform the global economy. But it also poses an enormous threat. Here, a scientist who appeared with Altman before the US Senate on AI safety flags up the danger in AI – and in Altman himself |
 |[.]() | |
 |[.]() | |
 |[.]() | |
