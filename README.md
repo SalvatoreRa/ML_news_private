@@ -52,21 +52,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-Directed Synthetic Dialogues and Revisions Technical Report.](https://arxiv.org/abs/2407.18421) |More than 300,000 dialogues and criticisms will be incorporated into open models. The dataset, which was primarily produced with synthetics, is a potent illustration of synthetic data utilizing open models. |
 |[Theia: Distilling Diverse Vision Foundation Models for Robot Learning.](https://arxiv.org/abs/2407.20179) |Theia, a vision foundation model for robot learning that combines several current vision models, is presented in this study. Rich visual representations provided by Theia improve robot learning even when using smaller model sizes and less training data. Test results indicate that Theia performs better than its predecessors, and the authors propose that enhanced performance is caused by more entropy in feature norms. The public is free to utilize the models and code. |
 |[Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation.](https://arxiv.org/abs/2407.18910v1) | A novel strategy to increase the effectiveness and scalability of recommender systems is called LightGODE. By adopting a continuous graph ODE and concentrating on post-training graph convolution, it avoids the need for costly computations during training.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -107,12 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend.](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/) | Xiaoyin Qu founded the firm Heeyo, which has released an AI-powered software with interactive games and a chatbot for kids three to eleven years old. With features like data protection and material created by child development specialists, the app strives to prioritize safety while offering tailored learning experiences. Though there may be worries about AI for children, Heeyo has raised $3.5 million in seed money. It presents itself as a secure and instructive substitute for well-known video and gaming platforms.|
 |[Cerebras IPO.](https://www.businesswire.com/news/home/20240731357073/en/Cerebras-Systems-Announces-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering) |Cerebras Systems announced a proposal for IPO to the SEC. |
 |[LLMs breach a threshold.](https://www.strangeloopcanon.com/p/llms-breach-a-threshold) |FLOPs as a regulatory threshold have been the subject of dispute since Meta's open source LLM Llama 3.1, trained on 3.8x10^25 FLOPs and equipped with 405B parameters, was recently released. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -147,15 +127,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mishax.](https://github.com/google-deepmind/mishax) |DeepMind has released a library for studying language models via MI. The library helps with running models and functions from complex codebases without tons of importing headaches. |
 |[Engine Core.](https://github.com/Engine-Labs/engine-core) |Engine Core demonstrates a pattern for enabling LLMs to undertake tasks of a given scope with a dynamic system prompt and a collection of tool functions. |
 |[alphaXiv.](https://alphaxiv.org/) |Open research discussion directly on top of arXiv |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -185,14 +156,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why have the big seven tech companies been hit by AI boom doubts?](https://www.theguardian.com/technology/article/2024/aug/03/why-big-seven-tech-companies-hit-ai-boom-doubts-shares) | Their shares have fallen 11.8% from last month’s peak but more AI breakthroughs may reassure investors|
 |[We must be wary of the power of AI.](https://www.theguardian.com/technology/article/2024/aug/02/we-must-be-wary-of-the-power-of-ai) | Robert Skidelsky is concerned about the surveillance potential or AI, while Brian Reffin Smith is worried about its capacity to hijack culture, and Michael Heaton warns that it relieves us of the need to think|
 |[OpenAI’s Sam Altman is becoming one of the most powerful people on Earth. We should be very afraid.](https://www.theguardian.com/technology/article/2024/aug/03/open-ai-sam-altman-chatgpt-gary-marcus-taming-silicon-valley) |Sam Altman’s ChatGPT promises to transform the global economy. But it also poses an enormous threat. Here, a scientist who appeared with Altman before the US Senate on AI safety flags up the danger in AI – and in Altman himself |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 # ML news: Week 21 - 28 July
 
