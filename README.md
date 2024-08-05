@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Character.AI CEO Noam Shazeer returns to Google.](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/) | In a big move, Character.AI co-founder and CEO Noam Shazeer is returning to Google after leaving the company in October 2021 to found the a16z-backed chatbot startup.|
 |[Three New Additions To Gemma 2.](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/) | Google is expanding the Gemma 2 family of models with the addition of a new 2B parameter model, safety content classifier model, and model interpretability tool.|
 |[Microsoft says OpenAI is now a competitor in AI and search.](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html) |Microsoft’s annually updated list of competitors now includes OpenAI, a long-term strategic partner. The change comes days after OpenAI announced a prototype of a search engine. Microsoft has reportedly invested $13 billion into OpenAI. |
-|[.]() | |
-|[.]() | |
+|[Introducing GitHub Models.](https://github.blog/news-insights/product-news/introducing-github-models/) | We are launching GitHub Models, enabling our more than 100 million developers to become AI engineers and build with industry-leading AI models.|
+|[Reddit CEO says Microsoft needs to pay to search the site.](https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search) |In an interview, Steve Huffman calls out Microsoft’s Bing, Anthropic, and Perplexity for scraping Reddit’s data without permission. ‘It has been a real pain in the ass to block these companies.’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
