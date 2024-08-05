@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ShieldGemma: Generative AI Content Moderation Based on Gemma.](https://arxiv.org/abs/2407.21772) |Based on Gemma 2, ShieldGemma provides a full suite of LLM-based safety content moderation models, including classifiers for major damage categories like toxicity, hate speech, and hazardous content. |
 |[PersonaGym: Evaluating Persona Agents and LLMs.](https://arxiv.org/abs/2407.18416) | Assessing Persona Agents: This study suggests a standard for assessing persona agent skills in LLMs; it discovers that, while being a somewhat more sophisticated model, Claude 3.5 Sonnet only shows a 2.97% relative improvement in PersonaScore when compared to GPT 3.5.|
 |[The Art of Refusal: A Survey of Abstention in Large Language Models.](https://arxiv.org/abs/2407.18418) | a review of the approaches currently employed in LLMs to attain rejection; offers measures and benchmarks for evaluation that are used to gauge abstinence in LLMs.|
-|[.]() | |
-|[.]() | |
+|[XHand: Real-time Expressive Hand Avatar.](https://agnjason.github.io/XHand-page/) |A brand-new hand avatar called XHand is intended for real-time rendering in virtual worlds and video games. In contrast to earlier models, XHand concentrates on producing intricate hand morphologies, looks, and deformities. |
+|[Prompt Poet.](https://research.character.ai/prompt-design-at-character-ai/) |Millions of talks are served by Character AI's prompted construction library, which is made available to the public. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
