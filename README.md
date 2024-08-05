@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Art of Refusal: A Survey of Abstention in Large Language Models.](https://arxiv.org/abs/2407.18418) | a review of the approaches currently employed in LLMs to attain rejection; offers measures and benchmarks for evaluation that are used to gauge abstinence in LLMs.|
 |[XHand: Real-time Expressive Hand Avatar.](https://agnjason.github.io/XHand-page/) |A brand-new hand avatar called XHand is intended for real-time rendering in virtual worlds and video games. In contrast to earlier models, XHand concentrates on producing intricate hand morphologies, looks, and deformities. |
 |[Prompt Poet.](https://research.character.ai/prompt-design-at-character-ai/) |Millions of talks are served by Character AI's prompted construction library, which is made available to the public. |
-|[.]() | |
-|[.]() | |
+|[NAVIX: minigrid in JAX.](https://github.com/epignatelli/navix) | A popular testing bed for RL has been accelerated in JAX.|
+|[SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models.](https://github.com/starriver030515/synthvlm) |A novel data synthesis pipeline for Vision Large Language Models (VLLMs) is called SynthVLM. Rather than captioning photos directly, SynthVLM leverages sophisticated diffusion models to produce high-resolution images from captions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
