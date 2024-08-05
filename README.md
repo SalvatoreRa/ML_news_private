@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft says OpenAI is now a competitor in AI and search.](https://www.cnbc.com/2024/07/31/microsoft-says-openai-is-now-a-competitor-in-ai-and-search.html) |Microsoft’s annually updated list of competitors now includes OpenAI, a long-term strategic partner. The change comes days after OpenAI announced a prototype of a search engine. Microsoft has reportedly invested $13 billion into OpenAI. |
 |[Introducing GitHub Models.](https://github.blog/news-insights/product-news/introducing-github-models/) | We are launching GitHub Models, enabling our more than 100 million developers to become AI engineers and build with industry-leading AI models.|
 |[Reddit CEO says Microsoft needs to pay to search the site.](https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search) |In an interview, Steve Huffman calls out Microsoft’s Bing, Anthropic, and Perplexity for scraping Reddit’s data without permission. ‘It has been a real pain in the ass to block these companies.’ |
-|[.]() | |
+|[Elon Musk sues OpenAI again, alleging ‘deceit of Shakespearean proportions’.](https://www.theguardian.com/technology/article/2024/aug/05/elon-musk-openai-lawsuit) | Tesla CEO alleges his former partners, including CEO Sam Altman, manipulated him into co-founding the company|
 |[.]() | |
 |[.]() | |
 |[.]() | |
