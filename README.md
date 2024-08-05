@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Prompt Poet.](https://research.character.ai/prompt-design-at-character-ai/) |Millions of talks are served by Character AI's prompted construction library, which is made available to the public. |
 |[NAVIX: minigrid in JAX.](https://github.com/epignatelli/navix) | A popular testing bed for RL has been accelerated in JAX.|
 |[SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models.](https://github.com/starriver030515/synthvlm) |A novel data synthesis pipeline for Vision Large Language Models (VLLMs) is called SynthVLM. Rather than captioning photos directly, SynthVLM leverages sophisticated diffusion models to produce high-resolution images from captions. |
-|[.]() | |
+|[Networks that compress themselves.](https://github.com/geohot/ai-notebooks/blob/master/mnist_self_compression.ipynb) | You can train a more accurate, self-quantized model that gets smaller by integrating the network's size in the loss function.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
