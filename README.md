@@ -69,8 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Character.AI CEO Noam Shazeer returns to Google.](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/) | In a big move, Character.AI co-founder and CEO Noam Shazeer is returning to Google after leaving the company in October 2021 to found the a16z-backed chatbot startup.|
+|[Three New Additions To Gemma 2.](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/) | Google is expanding the Gemma 2 family of models with the addition of a new 2B parameter model, safety content classifier model, and model interpretability tool.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
