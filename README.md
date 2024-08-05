@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge.](https://arxiv.org/abs/2407.19594) | |
-|[MindSearch: Mimicking Human Minds Elicits Deep AI Searcher.](https://arxiv.org/abs/2407.20183) | |
+|[Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge.](https://arxiv.org/abs/2407.19594) | Using this LLM-as-a-Meta-Judge approach enhances the LLM's ability to judge and follow instructions; simply self-improvement to produce better responses (act) saturates quickly; this work enhances the LLM's ability to judge itself (judge) to avoid issues like reward hacking; in addition to the act and judge roles, a third role called meta-judge is used to evaluate the model's own judgments. This approach, known as meta- rewarding LLMs, proposes a self-improving alignment technique (no human supervision) where the LLM judges its own judgments and uses the feedback to improve its judgment skills.|
+|[MindSearch: Mimicking Human Minds Elicits Deep AI Searcher.](https://arxiv.org/abs/2407.20183) | In MindSearch, a multi-agent framework based on LLM is presented for complex web-information seeking and integration tasks. A web planner is utilized to efficiently break down complex queries, while a web searcher performs hierarchical information retrieval on the Internet to enhance the relevance of the retrieved information. An iterative graph construction is employed in the planning component to better model complex problem-solving processes. The multi-agent framework is better suited for handling long context problems by assigning retrieval and reasoning tasks to specialized agents.|
 |[Improving Retrieval Augmented Language Model with Self-Reasoning.](https://arxiv.org/abs/2407.19813) | |
 |[.]() | |
 |[.]() | |
