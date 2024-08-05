@@ -42,9 +42,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge.](https://arxiv.org/abs/2407.19594) | |
+|[MindSearch: Mimicking Human Minds Elicits Deep AI Searcher.](https://arxiv.org/abs/2407.20183) | |
+|[Improving Retrieval Augmented Language Model with Self-Reasoning.](https://arxiv.org/abs/2407.19813) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
