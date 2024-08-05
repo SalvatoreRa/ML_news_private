@@ -125,8 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[AI existential risk probabilities are too unreliable to inform policy.](https://www.aisnakeoil.com/p/ai-existential-risk-probabilities) |The use of AI existential risk probability estimates for policymaking is criticized in this essay, which contends that these estimates are excessively erratic and lack a strong inductive or deductive foundation, frequently approximating educated guesses rather than fact-based projections. The authors argue against the validity of using these projections to inform public policy, particularly when they are connected to expensive or restricting measures, and they support an evidence-based strategy that takes AI development uncertainty into account. They advise against utilizing speculative existential risk probability in high-impact decisions and instead suggest concentrating on specified AI milestones for more significant policy choices. |
+|[Is AI judging the future of gymnastics or just a surveillance tool?](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig) |In an effort to provide more equitable and transparent scoring, the International Gymnastics Federation (FIG) and Fujitsu have partnered to provide an AI-assisted judging support system at the World Gymnastics Championships. With room for future development and wider uses, the Judging Support System (JSS), which will not take the place of judges, provides 3D model-based second views in challenging cases and inquiry disagreements. The JSS may improve scoring accuracy and consistency, which is important in a sport where even small point variations have a significant impact on standings and players' careers, despite worries that it may replace human judgment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
