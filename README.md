@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Adaptive Retrieval-Augmented Generation for Conversational Systems.](https://arxiv.org/abs/2407.21712) |In addition to demonstrating the potential for RAG-based conversational systems to produce high-quality responses and high generation confidence, Adaptive RAG for Conversations Sytems also develops a gating model that predicts whether a conversational system needs RAG to improve its responses. It further asserts that a correlation can be found between the relevance of the augmented knowledge and the generation's degree of confidence.  |
-|[.]() | |
-|[.]() | |
+|[ShieldGemma: Generative AI Content Moderation Based on Gemma.](https://arxiv.org/abs/2407.21772) |Based on Gemma 2, ShieldGemma provides a full suite of LLM-based safety content moderation models, including classifiers for major damage categories like toxicity, hate speech, and hazardous content. |
+|[PersonaGym: Evaluating Persona Agents and LLMs.](https://arxiv.org/abs/2407.18416) | Assessing Persona Agents: This study suggests a standard for assessing persona agent skills in LLMs; it discovers that, while being a somewhat more sophisticated model, Claude 3.5 Sonnet only shows a 2.97% relative improvement in PersonaScore when compared to GPT 3.5.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
