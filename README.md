@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Groq Raises $640M To Meet Soaring Demand for Fast AI Inference.](https://wow.groq.com/news_press/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference/) | To address the demand for massive language model inference, Groq, the startup that is developing AI chips with lightning speed, is raising a significant amount of funding.|
 |[Elon Musk sues OpenAI, Sam Altman for making a “fool” out of him.](https://arstechnica.com/tech-policy/2024/08/openai-wouldnt-exist-without-me-elon-musk-says-reviving-lawsuit/) |Having promised to keep OpenAI's technology open-source and prioritize the public good, Elon Musk has revived a lawsuit against the company and its CEO, Sam Altman. He claims that by turning OpenAI into a for-profit venture with ties to Microsoft, they obtained $44 million in seed funding fraudulently, which Musk claims betrays the original mission and has caused irreparable harm to both his interests and the public. |
 |[OpenAI Co-Founders Schulman and Brockman Step Back.](https://finance.yahoo.com/news/openai-co-founders-schulman-brockman-010542796.html) | John Schulman has joined Anthropic as an independent contributor, while Greg Brockman is enjoying a long holiday.|
-|[.]() | |
+|[Llama 3.1 Impact Grants.](https://ai.meta.com/blog/llama-3-1-impact-grants-call-for-applications/) | Meta has announced a program to award groups using its models for good with $2m to help develop these tools for economically and socially impactful projects.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
