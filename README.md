@@ -82,6 +82,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Co-Founders Schulman and Brockman Step Back.](https://finance.yahoo.com/news/openai-co-founders-schulman-brockman-010542796.html) | John Schulman has joined Anthropic as an independent contributor, while Greg Brockman is enjoying a long holiday.|
 |[Llama 3.1 Impact Grants.](https://ai.meta.com/blog/llama-3-1-impact-grants-call-for-applications/) | Meta has announced a program to award groups using its models for good with $2m to help develop these tools for economically and socially impactful projects.|
 |[BYU engineering research finds key to quicker nuclear power: artificial intelligence.](https://news.byu.edu/intellect/byu-engineering-research-finds-key-to-quicker-nuclear-power-artificial-intelligence) | Professor of chemical engineering at BYU Matt Memmott has created an AI algorithm that has the potential to drastically lower costs by ten years in the design and licensing of nuclear reactors. According to his team's study, AI can solve difficult nuclear design challenges far more quickly than conventional techniques; in one case, the design process was shortened from six months to just two days. The conclusions seek to preserve low electricity costs while meeting growing energy demands by speeding up the development of nuclear power.|
+|[OpenAI tempers expectations with less bombastic, GPT-5-less DevDay this fall.](https://techcrunch.com/2024/08/05/openai-tempers-expectations-with-less-bombastic-gpt-5-less-devday-this-fall) | According to OpenAI, this year's DevDay conference will no longer be a large event but rather a series of smaller, mobile developer sessions that will concentrate on upgrades to developer services and APIs rather than the introduction of a new flagship model.|
+|[Tezi raises $9M to launch Max: the first fully autonomous AI recruiter.](https://blog.tezi.ai/p/tezi-raises-9m-to-launch-max-the) |To build Max, an AI-driven recruiting agent that conducts hiring procedures from beginning to end on its own, Tezi raised $9 million in seed funding, with the lead investors being 8VC and Audacious Ventures. |
+|[Apple Intelligence rollout timetable won't delay iPhone 16.](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16) | Apple Intelligence capabilities will be added to iOS 18 after launch; initial access will be available to iPhone 15 Pro models exclusively in iOS 18.1.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
