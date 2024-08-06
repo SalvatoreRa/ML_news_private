@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing GitHub Models.](https://github.blog/news-insights/product-news/introducing-github-models/) | We are launching GitHub Models, enabling our more than 100 million developers to become AI engineers and build with industry-leading AI models.|
 |[Reddit CEO says Microsoft needs to pay to search the site.](https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search) |In an interview, Steve Huffman calls out Microsoft’s Bing, Anthropic, and Perplexity for scraping Reddit’s data without permission. ‘It has been a real pain in the ass to block these companies.’ |
 |[Elon Musk sues OpenAI again, alleging ‘deceit of Shakespearean proportions’.](https://www.theguardian.com/technology/article/2024/aug/05/elon-musk-openai-lawsuit) | Tesla CEO alleges his former partners, including CEO Sam Altman, manipulated him into co-founding the company|
-|[.]() | |
-|[.]() | |
+|[Google broke law to maintain online search monopoly, US judge rules.](https://www.theguardian.com/technology/article/2024/aug/05/google-loses-antitrust-lawsuit) | White House calls decision – that could have major implications for web use – ‘victory for the American people’|
+|[Secretaries of state call on Musk to fix chatbot over election misinformation.](https://www.theguardian.com/technology/article/2024/aug/05/elon-musk-harris-grok-misinformation) | X’s Grok AI chatbot falsely told users ‘ballot deadline has passed for several states’|
 |[.]() | |
 |[.]() | |
 |[.]() | |
