@@ -129,8 +129,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Is AI judging the future of gymnastics or just a surveillance tool?](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig) |In an effort to provide more equitable and transparent scoring, the International Gymnastics Federation (FIG) and Fujitsu have partnered to provide an AI-assisted judging support system at the World Gymnastics Championships. With room for future development and wider uses, the Judging Support System (JSS), which will not take the place of judges, provides 3D model-based second views in challenging cases and inquiry disagreements. The JSS may improve scoring accuracy and consistency, which is important in a sport where even small point variations have a significant impact on standings and players' careers, despite worries that it may replace human judgment. |
 |[Why AI’s Tom Cruise problem means it is ‘doomed to fail’.](https://www.theguardian.com/technology/article/2024/aug/06/ai-llms) |LLMs’ ‘reversal curse’ leads it to fail at drawing relationships between simple facts. It’s a problem that could prove fatal |
 |[Sound clashes are a thrilling reggae tradition. Will AI ruin them?](https://www.theguardian.com/music/article/2024/aug/05/sound-clashes-are-a-thrilling-reggae-tradition-will-ai-ruin-them) | The use of fake AI vocals – including those of Donald Trump – is sending shockwaves through this historic scene. At a Montego Bay clash, performers debate their culture’s future|
-|[.]() | |
-|[.]() | |
+|[Replacing my Right Hand with AI.](https://erikschluntz.com/software/2024/07/30/code-with-ai.html) |While riding a bike, an anthroposcientist broke their hand. They continued to be incredibly productive by leaning into Claude and his voice. |
+|[TPU transformation: A look back at 10 years of our AI-specialized chips.](https://cloud.google.com/transform/ai-specialized-chips-tpu-history-gen-ai) | Because it has invested in bespoke TPU chips, Google is one of the only companies training massive models without being dependent on Nvidia.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
