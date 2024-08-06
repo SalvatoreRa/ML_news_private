@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk sues OpenAI, Sam Altman for making a “fool” out of him.](https://arstechnica.com/tech-policy/2024/08/openai-wouldnt-exist-without-me-elon-musk-says-reviving-lawsuit/) |Having promised to keep OpenAI's technology open-source and prioritize the public good, Elon Musk has revived a lawsuit against the company and its CEO, Sam Altman. He claims that by turning OpenAI into a for-profit venture with ties to Microsoft, they obtained $44 million in seed funding fraudulently, which Musk claims betrays the original mission and has caused irreparable harm to both his interests and the public. |
 |[OpenAI Co-Founders Schulman and Brockman Step Back.](https://finance.yahoo.com/news/openai-co-founders-schulman-brockman-010542796.html) | John Schulman has joined Anthropic as an independent contributor, while Greg Brockman is enjoying a long holiday.|
 |[Llama 3.1 Impact Grants.](https://ai.meta.com/blog/llama-3-1-impact-grants-call-for-applications/) | Meta has announced a program to award groups using its models for good with $2m to help develop these tools for economically and socially impactful projects.|
-|[.]() | |
+|[BYU engineering research finds key to quicker nuclear power: artificial intelligence.](https://news.byu.edu/intellect/byu-engineering-research-finds-key-to-quicker-nuclear-power-artificial-intelligence) | Professor of chemical engineering at BYU Matt Memmott has created an AI algorithm that has the potential to drastically lower costs by ten years in the design and licensing of nuclear reactors. According to his team's study, AI can solve difficult nuclear design challenges far more quickly than conventional techniques; in one case, the design process was shortened from six months to just two days. The conclusions seek to preserve low electricity costs while meeting growing energy demands by speeding up the development of nuclear power.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Networks that compress themselves.](https://github.com/geohot/ai-notebooks/blob/master/mnist_self_compression.ipynb) | You can train a more accurate, self-quantized model that gets smaller by integrating the network's size in the loss function.|
 |[Video Tracking with Language Embeddings.](https://arxiv.org/abs/2407.20730v1) |A novel technique that leverages language embeddings to enhance point tracking in lengthy video sequences has been developed by researchers. |
 |[Boosting Efficiency in Vision-Language Model Training.](https://github.com/modeltc/omnibal) | This effort addresses the imbalance brought about by different data distributions and model architectures by introducing a technique to balance computational burdens during large-scale 3D simultaneous training of vision-language models.|
-|[.]() | |
+|[TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling.](https://dong-huo.github.io/TexGen/) |High quality generation of textures on 3d models with diffusion. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
