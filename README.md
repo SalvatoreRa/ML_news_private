@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ThinK: Thinner Key Cache by Query-Driven Pruning.](https://arxiv.org/abs/2407.21018) | ThinK  focuses on long-context scenarios and inference; it offers a query-dependent KV cache pruning method to minimize attention weight loss while selectively pruning the least important channels. HinK - aims to address inefficiencies in KV cache memory consumption.|
 |[Large Language Monkeys: Scaling Inference Compute with Repeated Sampling.](https://arxiv.org/abs/2407.21787) | A group of scientists discovered that benchmark performance can be significantly improved at a 3x lower cost than with a larger model if you sample from tiny models on a regular basis, provided that you have adequate coverage and a verification tool.|
 |[Boosting Audio Visual Question Answering via Key Semantic-Aware Cues.](https://arxiv.org/abs/2407.20693v1) | A Temporal-Spatial Perception Model (TSPM) has been established by researchers to enhance the capacity to respond to inquiries concerning auditory and visual signals in videos.|
-|[.]() | |
+|[No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation.](https://arxiv.org/abs/2407.20650v1) |This work presents enhancements to line search strategies that improve the efficiency of stochastic gradient descent systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NAVIX: minigrid in JAX.](https://github.com/epignatelli/navix) | A popular testing bed for RL has been accelerated in JAX.|
 |[SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models.](https://github.com/starriver030515/synthvlm) |A novel data synthesis pipeline for Vision Large Language Models (VLLMs) is called SynthVLM. Rather than captioning photos directly, SynthVLM leverages sophisticated diffusion models to produce high-resolution images from captions. |
 |[Networks that compress themselves.](https://github.com/geohot/ai-notebooks/blob/master/mnist_self_compression.ipynb) | You can train a more accurate, self-quantized model that gets smaller by integrating the network's size in the loss function.|
-|[.]() | |
-|[.]() | |
+|[Video Tracking with Language Embeddings.](https://arxiv.org/abs/2407.20730v1) |A novel technique that leverages language embeddings to enhance point tracking in lengthy video sequences has been developed by researchers. |
+|[Boosting Efficiency in Vision-Language Model Training.](https://github.com/modeltc/omnibal) | This effort addresses the imbalance brought about by different data distributions and model architectures by introducing a technique to balance computational burdens during large-scale 3D simultaneous training of vision-language models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
