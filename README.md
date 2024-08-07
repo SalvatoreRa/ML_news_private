@@ -50,6 +50,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large Language Monkeys: Scaling Inference Compute with Repeated Sampling.](https://arxiv.org/abs/2407.21787) | A group of scientists discovered that benchmark performance can be significantly improved at a 3x lower cost than with a larger model if you sample from tiny models on a regular basis, provided that you have adequate coverage and a verification tool.|
 |[Boosting Audio Visual Question Answering via Key Semantic-Aware Cues.](https://arxiv.org/abs/2407.20693v1) | A Temporal-Spatial Perception Model (TSPM) has been established by researchers to enhance the capacity to respond to inquiries concerning auditory and visual signals in videos.|
 |[No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation.](https://arxiv.org/abs/2407.20650v1) |This work presents enhancements to line search strategies that improve the efficiency of stochastic gradient descent systems. |
+|[Automated Review Generation Method Based on Large Language Models.](https://arxiv.org/abs/2407.20906v1) |Utilizing LLMs, researchers have created an automated approach for generating reviews in order to assist in managing the massive amount of scientific material. |
+|[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | CLEFT is a Contrastive Learning technique meant for medical imaging that aims to overcome the drawbacks of current, resource-intensive CLIP-like methods.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,8 +90,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Figure redesigns its humanoid robot from the ground up for slick new F.02.](https://newatlas.com/robotics/figure-02-humanoid-robot-launch/) | California-based robotics outfit Figure has today announced its second-generation humanoid robot, which is initially being aimed at production lines in commercial settings, but the company is promising a bipedal butler in our homes in the near future.|
 |[Structured Outputs in OpenAI API.](https://openai.com/index/introducing-structured-outputs-in-the-api/) | It is difficult to request organized output, such as JSON, from language models. With the help of this new functionality in OpenAI's API, language model creation may produce structured output that deterministic applications downstream can use.|
 |[Meta is reportedly offering millions to use Hollywood voices in AI projects.](https://www.engadget.com/meta-is-reportedly-offering-millions-to-use-hollywood-voices-in-ai-projects-121019385.html) |In an effort to obtain broad usage rights across all of its platforms, Meta is negotiating to use the voices of well-known actors like Awkwafina and Judi Dench for its AI digital assistant. If a settlement is reached, the actors may receive millions of dollars in compensation, with SAG-AFTRA providing protection for likenesses created by AI. The business recently canceled a celebrity voice chatbot project, and now plans to showcase these AI technologies at its Connect conference in September. |
-|[Automated Review Generation Method Based on Large Language Models.](https://arxiv.org/abs/2407.20906v1) | |
-|[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
