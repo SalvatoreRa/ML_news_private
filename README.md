@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI tempers expectations with less bombastic, GPT-5-less DevDay this fall.](https://techcrunch.com/2024/08/05/openai-tempers-expectations-with-less-bombastic-gpt-5-less-devday-this-fall) | According to OpenAI, this year's DevDay conference will no longer be a large event but rather a series of smaller, mobile developer sessions that will concentrate on upgrades to developer services and APIs rather than the introduction of a new flagship model.|
 |[Tezi raises $9M to launch Max: the first fully autonomous AI recruiter.](https://blog.tezi.ai/p/tezi-raises-9m-to-launch-max-the) |To build Max, an AI-driven recruiting agent that conducts hiring procedures from beginning to end on its own, Tezi raised $9 million in seed funding, with the lead investors being 8VC and Audacious Ventures. |
 |[Apple Intelligence rollout timetable won't delay iPhone 16.](https://appleinsider.com/articles/24/08/04/apple-intelligence-rollout-timetable-wont-delay-iphone-16) | Apple Intelligence capabilities will be added to iOS 18 after launch; initial access will be available to iPhone 15 Pro models exclusively in iOS 18.1.|
-|[.]() | |
+|[Figure redesigns its humanoid robot from the ground up for slick new F.02.](https://newatlas.com/robotics/figure-02-humanoid-robot-launch/) | California-based robotics outfit Figure has today announced its second-generation humanoid robot, which is initially being aimed at production lines in commercial settings, but the company is promising a bipedal butler in our homes in the near future.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
