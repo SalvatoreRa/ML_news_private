@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Figure redesigns its humanoid robot from the ground up for slick new F.02.](https://newatlas.com/robotics/figure-02-humanoid-robot-launch/) | California-based robotics outfit Figure has today announced its second-generation humanoid robot, which is initially being aimed at production lines in commercial settings, but the company is promising a bipedal butler in our homes in the near future.|
 |[Structured Outputs in OpenAI API.](https://openai.com/index/introducing-structured-outputs-in-the-api/) | It is difficult to request organized output, such as JSON, from language models. With the help of this new functionality in OpenAI's API, language model creation may produce structured output that deterministic applications downstream can use.|
 |[Meta is reportedly offering millions to use Hollywood voices in AI projects.](https://www.engadget.com/meta-is-reportedly-offering-millions-to-use-hollywood-voices-in-ai-projects-121019385.html) |In an effort to obtain broad usage rights across all of its platforms, Meta is negotiating to use the voices of well-known actors like Awkwafina and Judi Dench for its AI digital assistant. If a settlement is reached, the actors may receive millions of dollars in compensation, with SAG-AFTRA providing protection for likenesses created by AI. The business recently canceled a celebrity voice chatbot project, and now plans to showcase these AI technologies at its Connect conference in September. |
-|[.]() | |
-|[.]() | |
+|[Automated Review Generation Method Based on Large Language Models.](https://arxiv.org/abs/2407.20906v1) | |
+|[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Video Tracking with Language Embeddings.](https://arxiv.org/abs/2407.20730v1) |A novel technique that leverages language embeddings to enhance point tracking in lengthy video sequences has been developed by researchers. |
 |[Boosting Efficiency in Vision-Language Model Training.](https://github.com/modeltc/omnibal) | This effort addresses the imbalance brought about by different data distributions and model architectures by introducing a technique to balance computational burdens during large-scale 3D simultaneous training of vision-language models.|
 |[TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling.](https://dong-huo.github.io/TexGen/) |High quality generation of textures on 3d models with diffusion. |
-|[.]() | |
+|[MeshAnything V2: Artist-Created Mesh Generation with Adjacent Mesh Tokenization.](https://buaacyw.github.io/meshanything-v2/) |This work uses textual, 2D, or 3D input to create artistic meshes. To sample effectively, it makes advantage of neighboring tokens and enhancements to the vertex representation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
