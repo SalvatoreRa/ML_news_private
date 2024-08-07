@@ -160,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sound clashes are a thrilling reggae tradition. Will AI ruin them?](https://www.theguardian.com/music/article/2024/aug/05/sound-clashes-are-a-thrilling-reggae-tradition-will-ai-ruin-them) | The use of fake AI vocals – including those of Donald Trump – is sending shockwaves through this historic scene. At a Montego Bay clash, performers debate their culture’s future|
 |[Replacing my Right Hand with AI.](https://erikschluntz.com/software/2024/07/30/code-with-ai.html) |While riding a bike, an anthroposcientist broke their hand. They continued to be incredibly productive by leaning into Claude and his voice. |
 |[TPU transformation: A look back at 10 years of our AI-specialized chips.](https://cloud.google.com/transform/ai-specialized-chips-tpu-history-gen-ai) | Because it has invested in bespoke TPU chips, Google is one of the only companies training massive models without being dependent on Nvidia.|
-|[.]() | |
+|[I'm Switching Into AI Safety.](https://www.alexirpan.com/2024/08/06/switching-to-ai-safety.html) | Alex Irpan left Google's robotics team after eight years to join Google DeepMind's AI safety team. His move was motivated by both a personal desire to address safety concerns as AI systems get closer to being superhuman. Though the area is difficult and fraught with controversy, they voice concerns about the effectiveness of present AI safety measures, the growing risks of unmanaged AI growth, and their dedication to contributing to AI safety.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
