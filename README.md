@@ -129,6 +129,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boosting Efficiency in Vision-Language Model Training.](https://github.com/modeltc/omnibal) | This effort addresses the imbalance brought about by different data distributions and model architectures by introducing a technique to balance computational burdens during large-scale 3D simultaneous training of vision-language models.|
 |[TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling.](https://dong-huo.github.io/TexGen/) |High quality generation of textures on 3d models with diffusion. |
 |[MeshAnything V2: Artist-Created Mesh Generation with Adjacent Mesh Tokenization.](https://buaacyw.github.io/meshanything-v2/) |This work uses textual, 2D, or 3D input to create artistic meshes. To sample effectively, it makes advantage of neighboring tokens and enhancements to the vertex representation. |
+|[CogVideo.](https://github.com/THUDM/CogVideo/tree/main) |A text-to-video model available for free that performs nearly as well as closed video creation technologies. |
+|[MiniCPM-V.](https://github.com/OpenBMB/MiniCPM-V) |Amazing vision language model with near real-time performance. It performs better on certain benchmarks than closed models. |
+|[RecDiffusion: Rectangling for Image Stitching with Diffusion Models.](https://arxiv.org/abs/2403.19164v1) | RecDiffusion is a framework that improves the aesthetic appeal of stitched photos without requiring any cropping or distortion.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
