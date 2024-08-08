@@ -167,7 +167,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How neurons make a memory.](https://www.nature.com/articles/d41586-024-02504-4) |Loosely packaged DNA might make these nerve cells better able to encode memories. |
 |[DeepMind hits milestone in solving maths problems — AI’s next grand challenge.](https://www.nature.com/articles/d41586-024-02441-2) | AlphaProof showed its prowess on questions from this year’s Mathematical Olympiad — a step in the race to create substantial proofs with artificial intelligence.|
 |[Dirty talk: how AI is being used in the bedroom – and beyond.](https://www.theguardian.com/technology/article/2024/aug/07/dirty-talk-how-ai-is-being-used-in-the-bedroom-and-beyond) |Analysis of more than 200,000 chatbot conversations shows how the new tech is actually being used. Turns out quite a lot of it is ‘racy role play’  |
-|[.]() | |
+|[Scientists are falling victim to deepfake AI video scams — here’s how to fight back.](https://www.nature.com/articles/d41586-024-02521-3) | Cybercriminals are increasingly singling out researchers, alongside politicians and celebrities. Targeted scientists share tips on how to silence them.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
