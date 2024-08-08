@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia Blackwell GPUs allegedly delayed due to design flaws — launch expected to be pushed back by three months or more.](https://www.tomshardware.com/pc-components/gpus/nvidia-blackwell-gpus-allegedly-delayed-due-to-design-flaws) |Microsoft, Meta, Google, and xAI will have to wait a few more months to receive their massive GPU orders. |
 |[OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT.](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/) | OpenAI has built a tool that could potentially catch students who cheat by asking ChatGPT to write their assignments — but according to The Wall Street Journal, the company is debating whether to actually release it.|
 |[Zuckerberg touts Meta’s latest video vision AI with Nvidia CEO Jensen Huang.](https://techcrunch.com/2024/07/29/zuckerberg-touts-metas-latest-video-vision-ai-with-nvidia-ceo-jensen-huang/) | Meta had a palpable hit last year with Segment Anything, a machine learning model that could quickly and reliably identify and outline just about anything in an image. The sequel, which CEO Mark Zuckerberg debuted on stage Monday at SIGGRAPH, takes the model to the video domain, showing how fast the field is moving.|
-|[.]() | |
+|[Gemini intelligence is coming to Google Home.](https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware) |Google Assistant is getting a major upgrade on Nest smart speakers and displays, and Nest cameras will soon be able to tell as well as show, as Google Home gets a powerful AI infusion |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Replacing my Right Hand with AI.](https://erikschluntz.com/software/2024/07/30/code-with-ai.html) |While riding a bike, an anthroposcientist broke their hand. They continued to be incredibly productive by leaning into Claude and his voice. |
 |[TPU transformation: A look back at 10 years of our AI-specialized chips.](https://cloud.google.com/transform/ai-specialized-chips-tpu-history-gen-ai) | Because it has invested in bespoke TPU chips, Google is one of the only companies training massive models without being dependent on Nvidia.|
 |[I'm Switching Into AI Safety.](https://www.alexirpan.com/2024/08/06/switching-to-ai-safety.html) | Alex Irpan left Google's robotics team after eight years to join Google DeepMind's AI safety team. His move was motivated by both a personal desire to address safety concerns as AI systems get closer to being superhuman. Though the area is difficult and fraught with controversy, they voice concerns about the effectiveness of present AI safety measures, the growing risks of unmanaged AI growth, and their dedication to contributing to AI safety.|
-|[.]() | |
+|[As Regulators Close In, Nvidia Scrambles for a Response.](https://www.nytimes.com/2024/08/06/technology/nvidia-antitrust-scrutiny.html?unlocked_article_code=1.A04.KKqE.NowKdrlsQIeI&smid=url-share) | With a 90 percent share of the A.I. chip market, the company is facing antitrust investigations into the possibility that it could lock in customers or hurt competitors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
