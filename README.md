@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Zuckerberg says Meta will need 10x more computing power to train Llama 4 than Llama 3.](https://techcrunch.com/2024/08/01/zuckerberg-says-meta-will-need-10x-more-computing-power-to-train-llama-4-than-llama-3/) |Meta, which develops one of the biggest foundational open source large language models, Llama, believes it will need significantly more computing power to train models in the future. |
 |[AMD is becoming an AI chip company, just like Nvidia.](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue) | AMD’s AI GPU sales just went from a billion dollars cumulatively to a billion dollars quarterly.|
 |[Microsoft Is Losing a Staggering Amount of Money on AI.](https://futurism.com/the-byte/microsoft-losing-money-ai) |With an emphasis on data centers for AI capabilities, Microsoft's spending in AI jumped to $19 billion in the most recent quarter; nevertheless, significant AI revenue is yet unknown. |
-|[.]() | |
-|[.]() | |
+|[Taco Bell’s drive-thru AI might take your next order .](https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion) |Taco Bell’s parent company aims to bring its ‘Voice AI’ technology to hundreds of stores in the US by the end of 2024. |
+|[OpenAI invests in a webcam company turned AI startup.](https://www.theverge.com/2024/8/7/24215370/openai-invests-in-a-webcam-company-turned-ai-startup) |penAI is leading a $60 million funding round for Opal, the same company behind the high-end Tadpole webcam, according to a report from The Information. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
