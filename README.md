@@ -134,8 +134,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RecDiffusion: Rectangling for Image Stitching with Diffusion Models.](https://arxiv.org/abs/2403.19164v1) | RecDiffusion is a framework that improves the aesthetic appeal of stitched photos without requiring any cropping or distortion.|
 |[LLaVA-OneVision: Easy Visual Task Transfer.](https://arxiv.org/abs/2408.03326) | In visual language models, there has been an effort to make them versatile and easy to tune. This reminds me of computer vision from ten years ago. Crucially, LLaVA-OneVision demonstrates how meticulous data curation and architecture upgrades may do this.|
 |[ABC Invariance.](https://gist.github.com/cloneofsimo/c799c863154d5da4cae65e83491d918d) |To migrate your hyperparameters from smaller to larger models, use muP. A fantastic theorem that says you may vary where you scale model outputs and it won't effect ultimate transfer performance is demonstrated in practice in this GitHub gist. |
-|[.]() | |
-|[.]() | |
+|[XLabs-AI/flux-controlnet-canny.](https://huggingface.co/XLabs-AI/flux-controlnet-canny) |XLabs has released the first Flux-Dev control net which allows for generation conditioned on Canny image inputs. |
+|[HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection.](https://arxiv.org/abs/2408.02927) | A framework called HARMONIC is used to create and assess synthetic tabular data by utilizing big language models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
