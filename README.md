@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft Is Losing a Staggering Amount of Money on AI.](https://futurism.com/the-byte/microsoft-losing-money-ai) |With an emphasis on data centers for AI capabilities, Microsoft's spending in AI jumped to $19 billion in the most recent quarter; nevertheless, significant AI revenue is yet unknown. |
 |[Taco Bell’s drive-thru AI might take your next order .](https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion) |Taco Bell’s parent company aims to bring its ‘Voice AI’ technology to hundreds of stores in the US by the end of 2024. |
 |[OpenAI invests in a webcam company turned AI startup.](https://www.theverge.com/2024/8/7/24215370/openai-invests-in-a-webcam-company-turned-ai-startup) |penAI is leading a $60 million funding round for Opal, the same company behind the high-end Tadpole webcam, according to a report from The Information. |
-|[.]() | |
+|[UK regulator to examine $4bn Amazon investment in AI startup Anthropic.](https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment) |Move is the latest of a string of CMA investigations into technology tie-ups |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +166,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Does OpenAI Survive?](https://www.wheresyoured.at/to-serve-altman/) |The paper expresses a strong doubt regarding the sustainability of OpenAI, given the exorbitant costs associated with constructing and maintaining huge language models, as well as the absence of broad business utility for generative AI. The long-term sustainability of OpenAI is questioned by the author in the absence of substantial technology advancements or persistent, extraordinary fundraising efforts. Even though OpenAI has had a significant impact on the AI sector, the business still has issues with profitability, high operational burn rates, and a reliance on key alliances, most notably Microsoft. |
 |[How neurons make a memory.](https://www.nature.com/articles/d41586-024-02504-4) |Loosely packaged DNA might make these nerve cells better able to encode memories. |
 |[DeepMind hits milestone in solving maths problems — AI’s next grand challenge.](https://www.nature.com/articles/d41586-024-02441-2) | AlphaProof showed its prowess on questions from this year’s Mathematical Olympiad — a step in the race to create substantial proofs with artificial intelligence.|
-|[.]() | |
+|[Dirty talk: how AI is being used in the bedroom – and beyond.](https://www.theguardian.com/technology/article/2024/aug/07/dirty-talk-how-ai-is-being-used-in-the-bedroom-and-beyond) |Analysis of more than 200,000 chatbot conversations shows how the new tech is actually being used. Turns out quite a lot of it is ‘racy role play’  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
