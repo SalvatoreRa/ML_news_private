@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Zuckerberg touts Meta’s latest video vision AI with Nvidia CEO Jensen Huang.](https://techcrunch.com/2024/07/29/zuckerberg-touts-metas-latest-video-vision-ai-with-nvidia-ceo-jensen-huang/) | Meta had a palpable hit last year with Segment Anything, a machine learning model that could quickly and reliably identify and outline just about anything in an image. The sequel, which CEO Mark Zuckerberg debuted on stage Monday at SIGGRAPH, takes the model to the video domain, showing how fast the field is moving.|
 |[Gemini intelligence is coming to Google Home.](https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware) |Google Assistant is getting a major upgrade on Nest smart speakers and displays, and Nest cameras will soon be able to tell as well as show, as Google Home gets a powerful AI infusion |
 |[Zuckerberg says Meta will need 10x more computing power to train Llama 4 than Llama 3.](https://techcrunch.com/2024/08/01/zuckerberg-says-meta-will-need-10x-more-computing-power-to-train-llama-4-than-llama-3/) |Meta, which develops one of the biggest foundational open source large language models, Llama, believes it will need significantly more computing power to train models in the future. |
-|[.]() | |
-|[.]() | |
+|[AMD is becoming an AI chip company, just like Nvidia.](https://www.theverge.com/2024/7/30/24209938/amd-q2-2024-earnings-datacenter-ai-revenue) | AMD’s AI GPU sales just went from a billion dollars cumulatively to a billion dollars quarterly.|
+|[Microsoft Is Losing a Staggering Amount of Money on AI.](https://futurism.com/the-byte/microsoft-losing-money-ai) |With an emphasis on data centers for AI capabilities, Microsoft's spending in AI jumped to $19 billion in the most recent quarter; nevertheless, significant AI revenue is yet unknown. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
