@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation.](https://arxiv.org/abs/2407.20650v1) |This work presents enhancements to line search strategies that improve the efficiency of stochastic gradient descent systems. |
 |[Automated Review Generation Method Based on Large Language Models.](https://arxiv.org/abs/2407.20906v1) |Utilizing LLMs, researchers have created an automated approach for generating reviews in order to assist in managing the massive amount of scientific material. |
 |[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | CLEFT is a Contrastive Learning technique meant for medical imaging that aims to overcome the drawbacks of current, resource-intensive CLIP-like methods.|
-|[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314) | |
-|[.]() | |
+|[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314) |To boost model performance, there is a lot of demand to leverage computation at inference time. This essay explores the trade-offs made between various approaches and presents a number of useful ones. This often suggests a larger trend of getting more performance out of smaller machines. |
+|[An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion.](https://omages.github.io/) |It is easy to utilize a DiT model to generate unique things based on textual inputs by treating 3D objects as UV wrapped images. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MiniCPM-V.](https://github.com/OpenBMB/MiniCPM-V) |Amazing vision language model with near real-time performance. It performs better on certain benchmarks than closed models. |
 |[RecDiffusion: Rectangling for Image Stitching with Diffusion Models.](https://arxiv.org/abs/2403.19164v1) | RecDiffusion is a framework that improves the aesthetic appeal of stitched photos without requiring any cropping or distortion.|
 |[LLaVA-OneVision: Easy Visual Task Transfer.](https://arxiv.org/abs/2408.03326) | In visual language models, there has been an effort to make them versatile and easy to tune. This reminds me of computer vision from ten years ago. Crucially, LLaVA-OneVision demonstrates how meticulous data curation and architecture upgrades may do this.|
-|[.]() | |
+|[ABC Invariance.](https://gist.github.com/cloneofsimo/c799c863154d5da4cae65e83491d918d) |To migrate your hyperparameters from smaller to larger models, use muP. A fantastic theorem that says you may vary where you scale model outputs and it won't effect ultimate transfer performance is demonstrated in practice in this GitHub gist. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
