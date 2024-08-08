@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation.](https://arxiv.org/abs/2407.20650v1) |This work presents enhancements to line search strategies that improve the efficiency of stochastic gradient descent systems. |
 |[Automated Review Generation Method Based on Large Language Models.](https://arxiv.org/abs/2407.20906v1) |Utilizing LLMs, researchers have created an automated approach for generating reviews in order to assist in managing the massive amount of scientific material. |
 |[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | CLEFT is a Contrastive Learning technique meant for medical imaging that aims to overcome the drawbacks of current, resource-intensive CLIP-like methods.|
-|[.]() | |
+|[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT.](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/) | OpenAI has built a tool that could potentially catch students who cheat by asking ChatGPT to write their assignments — but according to The Wall Street Journal, the company is debating whether to actually release it.|
 |[Zuckerberg touts Meta’s latest video vision AI with Nvidia CEO Jensen Huang.](https://techcrunch.com/2024/07/29/zuckerberg-touts-metas-latest-video-vision-ai-with-nvidia-ceo-jensen-huang/) | Meta had a palpable hit last year with Segment Anything, a machine learning model that could quickly and reliably identify and outline just about anything in an image. The sequel, which CEO Mark Zuckerberg debuted on stage Monday at SIGGRAPH, takes the model to the video domain, showing how fast the field is moving.|
 |[Gemini intelligence is coming to Google Home.](https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware) |Google Assistant is getting a major upgrade on Nest smart speakers and displays, and Nest cameras will soon be able to tell as well as show, as Google Home gets a powerful AI infusion |
-|[.]() | |
+|[Zuckerberg says Meta will need 10x more computing power to train Llama 4 than Llama 3.](https://techcrunch.com/2024/08/01/zuckerberg-says-meta-will-need-10x-more-computing-power-to-train-llama-4-than-llama-3/) |Meta, which develops one of the biggest foundational open source large language models, Llama, believes it will need significantly more computing power to train models in the future. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CogVideo.](https://github.com/THUDM/CogVideo/tree/main) |A text-to-video model available for free that performs nearly as well as closed video creation technologies. |
 |[MiniCPM-V.](https://github.com/OpenBMB/MiniCPM-V) |Amazing vision language model with near real-time performance. It performs better on certain benchmarks than closed models. |
 |[RecDiffusion: Rectangling for Image Stitching with Diffusion Models.](https://arxiv.org/abs/2403.19164v1) | RecDiffusion is a framework that improves the aesthetic appeal of stitched photos without requiring any cropping or distortion.|
-|[.]() | |
+|[LLaVA-OneVision: Easy Visual Task Transfer.](https://arxiv.org/abs/2408.03326) | In visual language models, there has been an effort to make them versatile and easy to tune. This reminds me of computer vision from ten years ago. Crucially, LLaVA-OneVision demonstrates how meticulous data curation and architecture upgrades may do this.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
