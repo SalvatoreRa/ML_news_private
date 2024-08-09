@@ -138,8 +138,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection.](https://arxiv.org/abs/2408.02927) | A framework called HARMONIC is used to create and assess synthetic tabular data by utilizing big language models.|
 |[Introducing Qwen2-Math.](https://qwenlm.github.io/blog/qwen2-math/) |A 72B math model developed by the Qwen team beats all other open and closed models on MATH. Additionally, it beats Llama-3.1-405B on some measures related to reasoning. Only English is available at this time; multilingual models will be available soon. |
 |[SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology.](https://arxiv.org/abs/2408.03651v1) | A novel approach called SAM2-PATH aims to improve semantic segmentation in digital pathology.|
-|[.]() | |
-|[.]() | |
+|[Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond.](https://arxiv.org/abs/2408.03900v1) |A new multilingual Spoken Language Understanding (SLU) dataset is called Speech-MASSIVE. It provides an analogous speech-based corpora to the massive text corpus. |
+|[PyTorch FlexAttention.](https://pytorch.org/blog/flexattention/) | A new API from PyTorch makes it possible to design and compile any kind of attention variant to Triton. Better portability, performance, and research velocity on attention types are made possible by this.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
