@@ -104,9 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hugging Face acquires XetHub.](https://huggingface.co/blog/xethub-joins-hf) | The majority of the data that Hugging Face serves and keeps is in LFS. XetHub has developed a strong substitute for Git repositories scalability.|
 |[Humane’s daily returns are outpacing sales.](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales) |The company is scrambling to stabilize as it hits $1 million in total returns against $9 million in sales. |
 |[GPT-4o System Card.](https://openai.com/index/gpt-4o-system-card/) |Setting up a voice system can be difficult. The ongoing efforts to guarantee the safety and usefulness of the multimodal paradigm are highlighted in this piece. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Fully-automatic robot dentist performs world's first human procedure.](https://newatlas.com/health-wellbeing/robot-dentist-world-first/) |in a historic moment for the dental profession, an AI-controlled autonomous robot has performed an entire procedure on a human patient for the first time, about eight times faster than a human dentist could do it. |
+|[Microsoft launches GitHub Models, offering 100 million developers easy access to leading AI tools.](https://betanews.com/2024/08/01/microsoft-github-models-ai/) | Microsoft has introduced "GitHub Models," a new platform that enables over 100 million developers to integrate AI into their software projects by providing access to a variety of AI models. This includes popular models like Llama 3.1, GPT-4o, and Mistral Large 2, among others. Developers can explore these models for free through a built-in model playground on GitHub, where they can experiment with different prompts and model parameters.|
+|[Google brings Gemini-powered search history and Lens to Chrome desktop.](https://techcrunch.com/2024/08/01/google-brings-gemini-powered-search-history-and-lens-to-chrome-desktop/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
