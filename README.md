@@ -101,9 +101,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Taco Bell’s drive-thru AI might take your next order .](https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion) |Taco Bell’s parent company aims to bring its ‘Voice AI’ technology to hundreds of stores in the US by the end of 2024. |
 |[OpenAI invests in a webcam company turned AI startup.](https://www.theverge.com/2024/8/7/24215370/openai-invests-in-a-webcam-company-turned-ai-startup) |penAI is leading a $60 million funding round for Opal, the same company behind the high-end Tadpole webcam, according to a report from The Information. |
 |[UK regulator to examine $4bn Amazon investment in AI startup Anthropic.](https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment) |Move is the latest of a string of CMA investigations into technology tie-ups |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Hugging Face acquires XetHub.](https://huggingface.co/blog/xethub-joins-hf) | The majority of the data that Hugging Face serves and keeps is in LFS. XetHub has developed a strong substitute for Git repositories scalability.|
+|[Humane’s daily returns are outpacing sales.](https://www.theverge.com/2024/8/7/24211339/humane-ai-pin-more-daily-returns-than-sales) |The company is scrambling to stabilize as it hits $1 million in total returns against $9 million in sales. |
+|[GPT-4o System Card.](https://openai.com/index/gpt-4o-system-card/) |Setting up a voice system can be difficult. The ongoing efforts to guarantee the safety and usefulness of the multimodal paradigm are highlighted in this piece. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
