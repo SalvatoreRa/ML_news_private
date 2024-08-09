@@ -136,8 +136,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ABC Invariance.](https://gist.github.com/cloneofsimo/c799c863154d5da4cae65e83491d918d) |To migrate your hyperparameters from smaller to larger models, use muP. A fantastic theorem that says you may vary where you scale model outputs and it won't effect ultimate transfer performance is demonstrated in practice in this GitHub gist. |
 |[XLabs-AI/flux-controlnet-canny.](https://huggingface.co/XLabs-AI/flux-controlnet-canny) |XLabs has released the first Flux-Dev control net which allows for generation conditioned on Canny image inputs. |
 |[HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection.](https://arxiv.org/abs/2408.02927) | A framework called HARMONIC is used to create and assess synthetic tabular data by utilizing big language models.|
-|[.]() | |
-|[.]() | |
+|[Introducing Qwen2-Math.](https://qwenlm.github.io/blog/qwen2-math/) |A 72B math model developed by the Qwen team beats all other open and closed models on MATH. Additionally, it beats Llama-3.1-405B on some measures related to reasoning. Only English is available at this time; multilingual models will be available soon. |
+|[SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology.](https://arxiv.org/abs/2408.03651v1) | A novel approach called SAM2-PATH aims to improve semantic segmentation in digital pathology.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
