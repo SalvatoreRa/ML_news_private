@@ -140,8 +140,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology.](https://arxiv.org/abs/2408.03651v1) | A novel approach called SAM2-PATH aims to improve semantic segmentation in digital pathology.|
 |[Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond.](https://arxiv.org/abs/2408.03900v1) |A new multilingual Spoken Language Understanding (SLU) dataset is called Speech-MASSIVE. It provides an analogous speech-based corpora to the massive text corpus. |
 |[PyTorch FlexAttention.](https://pytorch.org/blog/flexattention/) | A new API from PyTorch makes it possible to design and compile any kind of attention variant to Triton. Better portability, performance, and research velocity on attention types are made possible by this.|
-|[.]() | |
-|[.]() | |
+|[A Language Model with Quick Pre-Training.](https://github.com/Pints-AI/1.5-Pints) |The "1.5-Pints" Language Model offers a novel method for pre-training that is compute-efficient. This model outperforms Apple's OpenELM and Microsoft's Phi in instruction-following tasks, as determined by MT-Bench, by curating a high-quality dataset of 57 billion tokens. |
+|[lighthouse.](https://github.com/line/lighthouse) |Lighthouse is a user-friendly library for reproducible and accessible research on video moment retrieval (MR) and highlight detection (HD). It supports six VMR-HD models, three features, and five datasets for reproducible VMR-HD. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
