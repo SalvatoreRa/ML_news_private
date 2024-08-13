@@ -42,9 +42,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters.](https://arxiv.org/abs/2408.04093) | |
-|[Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models.](https://arxiv.org/abs/2408.04556v1) | |
-|[MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models.](https://arxiv.org/abs/2408.04388v1) | |
+|[Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters.](https://arxiv.org/abs/2408.04093) | This is an expansion of Ring Attention, which spans many GPUs to provide incredibly lengthy context. An energy function is derived by the researchers to guide the sharding of the models. |
+|[Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models.](https://arxiv.org/abs/2408.04556v1) | Bias propagation from pre-training data is addressed via a novel method for optimizing LLMs called bias-aware low-rank adaptation (BA-LoRA). |
+|[MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models.](https://arxiv.org/abs/2408.04388v1) |Researchers investigate how employing LLMs to improve temporal event predictions can benefit from photos. Two important roles of images are identified by their suggested framework, MM-Forecast: highlighting and supplementing textual data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
