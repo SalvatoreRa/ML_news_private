@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Survey of Mamba.](https://arxiv.org/abs/2408.01129) |offers a thorough analysis of the Mamba-based models that are already in use across activities and domains; in particular, it concentrates on Mamba's improvements, methods for adjusting to a variety of inputs, applications where Mamba works well, and potential future research areas. |
 |[From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future.](https://arxiv.org/abs/2408.02479) | a survey paper covering key subjects like requirement engineering, code generation, test generation, and autonomous decision making; it also includes benchmarks, metrics, and models used in various software engineering applications. The paper focuses on current practices and solutions for LLM-based agents for software engineering.|
 |[Transformer Explainer: Interactive Learning of Text-Generative Models.](https://arxiv.org/abs/2408.04619) | it provides an open-source interactive application that allows you to experiment with your own inputs while running a local GPT-2 instance in the user's browser to learn about the inner workings of a Transformer model. |
-|[.]() | |
+|[RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework.](https://arxiv.org/abs/2408.01262) | provides a straightforward framework for automatically creating evaluation datasets to measure how well different LLMs are used in various contexts. It starts with seed documents to define a schema, then creates a variety of documents that result in question-answering pairs (QA pairs) that are based on both configurations and articles. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
