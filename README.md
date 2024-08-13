@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework.](https://arxiv.org/abs/2408.01262) | provides a straightforward framework for automatically creating evaluation datasets to measure how well different LLMs are used in various contexts. It starts with seed documents to define a schema, then creates a variety of documents that result in question-answering pairs (QA pairs) that are based on both configurations and articles. |
 |[Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2.](https://arxiv.org/abs/2408.05147) | On the Gemma 2 model suite, DeepMind released several sparse autoencoders a few weeks ago. Researchers now talk about the training paradigm and some intriguing findings in this companion study.|
 |[LiDAR-Event Stereo Fusion with Hallucinations.](https://eventvppstereo.github.io/) | Researchers suggest combining a stereo event camera with a fixed-frequency LiDAR sensor as a way to enhance event stereo matching.|
-|[.]() | |
-|[.]() | |
+|[LLM-Aided OCR Project.](https://github.com/Dicklesworthstone/llm_aided_ocr) |The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents. |
+|[A Foundation Model for ECG Analysis.](https://github.com/bowang-lab/ecg-fm) | A transformer-based foundation model called ECG-FM was created to lessen the requirement for a large amount of labeled data, thereby enhancing ECG analysis.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -187,19 +187,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning.](https://arxiv.org/abs/2407.21011v1) | CLEFT is a Contrastive Learning technique meant for medical imaging that aims to overcome the drawbacks of current, resource-intensive CLIP-like methods.|
 |[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314) |To boost model performance, there is a lot of demand to leverage computation at inference time. This essay explores the trade-offs made between various approaches and presents a number of useful ones. This often suggests a larger trend of getting more performance out of smaller machines. |
 |[An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion.](https://omages.github.io/) |It is easy to utilize a DiT model to generate unique things based on textual inputs by treating 3D objects as UV wrapped images. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -241,10 +229,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft launches GitHub Models, offering 100 million developers easy access to leading AI tools.](https://betanews.com/2024/08/01/microsoft-github-models-ai/) | Microsoft has introduced "GitHub Models," a new platform that enables over 100 million developers to integrate AI into their software projects by providing access to a variety of AI models. This includes popular models like Llama 3.1, GPT-4o, and Mistral Large 2, among others. Developers can explore these models for free through a built-in model playground on GitHub, where they can experiment with different prompts and model parameters.|
 |[Google brings Gemini-powered search history and Lens to Chrome desktop.](https://techcrunch.com/2024/08/01/google-brings-gemini-powered-search-history-and-lens-to-chrome-desktop/) |Google Thursday said that it is introducing new Gemini-powered features for Chrome’s desktop version, including Lens for desktop, tab compare for shopping assistance, and natural language integration for search history. |
 |[Apple changes EU App Store rules after commission charges.](https://www.theguardian.com/technology/article/2024/aug/09/apple-changes-eu-app-store-communication) | Change in policy means developers will be able to communicate with customers outside App Store|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -275,13 +260,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PyTorch FlexAttention.](https://pytorch.org/blog/flexattention/) | A new API from PyTorch makes it possible to design and compile any kind of attention variant to Triton. Better portability, performance, and research velocity on attention types are made possible by this.|
 |[A Language Model with Quick Pre-Training.](https://github.com/Pints-AI/1.5-Pints) |The "1.5-Pints" Language Model offers a novel method for pre-training that is compute-efficient. This model outperforms Apple's OpenELM and Microsoft's Phi in instruction-following tasks, as determined by MT-Bench, by curating a high-quality dataset of 57 billion tokens. |
 |[lighthouse.](https://github.com/line/lighthouse) |Lighthouse is a user-friendly library for reproducible and accessible research on video moment retrieval (MR) and highlight detection (HD). It supports six VMR-HD models, three features, and five datasets for reproducible VMR-HD. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -305,11 +283,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why AI hasn’t shown up in the GDP statistics yet.](https://www.strangeloopcanon.com/p/why-ai-hasnt-shown-up-in-the-gdp) | Even though LLMs have made remarkable strides in handling complicated tasks, they are still unable to reliably complete activities at a scale comparable to that of humans. As a result, their current potential as direct human substitutes in processes is limited. LLMs require comprehensive prompt engineering and iteration to reach acceptable accuracy. The latest JSON output control and cost reduction enhancements from OpenAI may help with certain problems, but the subtle integration needed for LLMs in corporate settings points to gradual productivity increases rather than sudden economic revolution.|
 |[AI Is Coming for India's Famous Tech Hub.](https://www.msn.com/en-us/money/other/ai-is-coming-for-india-s-famous-tech-hub/ar-AA1omuJF) |AI integration is posing a danger to employment, particularly in routine operations like contact centers, which has caused a sea change in India's technology outsourcing sector. While recruiting is slowing down, companies are finding it difficult to move up the value chain. However, some are optimistic that AI technologies may open up new opportunities in fields like programming. Higher order cognitive abilities will be necessary in the sector going forward as automation continues to reshape traditional employment. |
 |[Inside the company that gathers ‘human data’ for every major AI company.](https://www.semafor.com/article/08/07/2024/inside-turing-the-company-gathering-human-data-for-every-major-ai-company) | Advances in AI pre-training have made it possible for models to handle large amounts of online data, and supervised fine-tuning with specialists afterwards aids in the models' ability to become more specialized and general. The goal of Turing's method is to improve AI reasoning capabilities by leveraging "input and output pairs" created by subject-matter experts. These models, foreseeing the "agentic" future of artificial intelligence, might integrate specialized knowledge across areas to accomplish complicated tasks independently.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 
