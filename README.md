@@ -140,8 +140,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[‘His rhetoric has made Tesla toxic’: is Elon Musk driving away his target market?](https://www.theguardian.com/business/article/2024/aug/10/his-rhetoric-has-made-tesla-toxic-is-elon-musk-driving-away-his-target-market) | There are signs the billionaire is becoming unpopular with the very demographic group most likely to buy EVs|
+|[Why Elon Musk’s fun week of stirring up unrest shows the limits of our online safety laws.](https://www.theguardian.com/technology/article/2024/aug/13/why-elon-musks-fun-week-of-stirring-up-unrest-shows-the-limits-of-our-online-safety-laws) | Twitter under the tech owner has become the perfect test case for the UK’s new legislation – but critics say more needs to be done|
 |[.]() | |
 |[.]() | |
 |[.]() | |
