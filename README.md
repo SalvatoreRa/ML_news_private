@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Waymo is expanding its robotaxi service areas in San Francisco and Los Angeles.](https://www.theverge.com/2024/8/6/24214454/waymo-robotaxi-expand-service-area-sf-la-map) | The company is looking to add more customers to its burgeoning driverless car business.|
 |[Intel reportedly gave up a chance to buy a stake in OpenAI in 2017.](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-reportedly-gave-up-a-chance-to-buy-a-stake-in-openai-in-2017) |According to reports, Intel decided against investing in OpenAI, which is currently a major participant in the AI space, in 2017–2018 because of then-CEO Bob Swan's doubts about the industry's preparation for AI.|
 |[YouTube is testing a feature that lets creators use Google Gemini to brainstorm video ideas.](https://techcrunch.com/2024/08/07/youtube-is-testing-a-feature-that-lets-creators-use-google-gemini-to-brainstorm-video-ideas/) |YouTube is testing an integration with Google Gemini to help creators brainstorm video ideas, titles and thumbnails.  |
-|[.]() | |
+|[Forget Midjourney — Flux is the new king of AI image generation and here’s how to get access.](https://www.tomsguide.com/ai/ai-image-video/forget-midjourney-flux-is-the-new-king-of-ai-image-generation-and-heres-how-to-get-access) |Black Forest Labs' Flux AI is the newest and most promising open-source AI image generating technology available. Laptops intended for consumers can run it. It is better at providing people and quick adherence than rivals such as Midjourney in certain areas. There are three versions of the model available: Pro, Dev, and Schnell. An open-source text-to-video model is being planned. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future.](https://arxiv.org/abs/2408.02479) | a survey paper covering key subjects like requirement engineering, code generation, test generation, and autonomous decision making; it also includes benchmarks, metrics, and models used in various software engineering applications. The paper focuses on current practices and solutions for LLM-based agents for software engineering.|
 |[Transformer Explainer: Interactive Learning of Text-Generative Models.](https://arxiv.org/abs/2408.04619) | it provides an open-source interactive application that allows you to experiment with your own inputs while running a local GPT-2 instance in the user's browser to learn about the inner workings of a Transformer model. |
 |[RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework.](https://arxiv.org/abs/2408.01262) | provides a straightforward framework for automatically creating evaluation datasets to measure how well different LLMs are used in various contexts. It starts with seed documents to define a schema, then creates a variety of documents that result in question-answering pairs (QA pairs) that are based on both configurations and articles. |
-|[.]() | |
-|[.]() | |
+|[Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2.](https://arxiv.org/abs/2408.05147) | On the Gemma 2 model suite, DeepMind released several sparse autoencoders a few weeks ago. Researchers now talk about the training paradigm and some intriguing findings in this companion study.|
+|[LiDAR-Event Stereo Fusion with Hallucinations.](https://eventvppstereo.github.io/) | Researchers suggest combining a stereo event camera with a fixed-frequency LiDAR sensor as a way to enhance event stereo matching.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
