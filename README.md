@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing sqlite-vec v0.1.0: a vector search SQLite extension that runs everywhere.](https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html) |a vector database constructed using the potent SQLite framework. It offers a good vector API and can process millions of queries. |
 |[PufferLib.](https://github.com/pufferai/pufferlib) | To standardize the interface, PufferLib is a wrapper and accelerator for libraries related to reinforcement learning. It has many helpful baselines and is incredibly quick.|
 |[transtokenizers.](https://github.com/lagom-nlp/transtokenizer) | Trans-tokenization is a cross-lingual technique that uses language data from high-resource languages to improve language models for low- and mid-resource languages.|
-|[.]() | |
-|[.]() | |
+|[Survey of Mamba.](https://arxiv.org/abs/2408.01129) |offers a thorough analysis of the Mamba-based models that are already in use across activities and domains; in particular, it concentrates on Mamba's improvements, methods for adjusting to a variety of inputs, applications where Mamba works well, and potential future research areas. |
+|[From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future.](https://arxiv.org/abs/2408.02479) | a survey paper covering key subjects like requirement engineering, code generation, test generation, and autonomous decision making; it also includes benchmarks, metrics, and models used in various software engineering applications. The paper focuses on current practices and solutions for LLM-based agents for software engineering.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
