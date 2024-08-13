@@ -42,9 +42,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters.](https://arxiv.org/abs/2408.04093) | |
+|[Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models.](https://arxiv.org/abs/2408.04556v1) | |
+|[MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models.](https://arxiv.org/abs/2408.04388v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
