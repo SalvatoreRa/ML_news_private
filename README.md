@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘His rhetoric has made Tesla toxic’: is Elon Musk driving away his target market?](https://www.theguardian.com/business/article/2024/aug/10/his-rhetoric-has-made-tesla-toxic-is-elon-musk-driving-away-his-target-market) | There are signs the billionaire is becoming unpopular with the very demographic group most likely to buy EVs|
 |[Why Elon Musk’s fun week of stirring up unrest shows the limits of our online safety laws.](https://www.theguardian.com/technology/article/2024/aug/13/why-elon-musks-fun-week-of-stirring-up-unrest-shows-the-limits-of-our-online-safety-laws) | Twitter under the tech owner has become the perfect test case for the UK’s new legislation – but critics say more needs to be done|
 |[Elon’s politics: how Musk became a driver of elections misinformation.](https://www.theguardian.com/us-news/article/2024/aug/12/elon-musk-twitter-x-elections-misinformation) |X owner, who will interview Trump on Monday, has cast doubt on mail ballots and spread false claims |
-|[.]() | |
+|[Don't pivot into AI research.](https://maged.com/pivot-to-ai) |In AI and machine learning, scale is now the primary factor influencing performance. Due to the significant cash needed, only a small number of suppliers are able to hire fruitful machine learning researchers, resulting in market consolidation. The historical consolidation in chip design is reflected in this dynamic, which points to a potential future decline in the status and pay of machine learning positions when supply exceeds demand. In light of these industry changes, prospective ML professionals should carefully consider why they want to pursue a career in ML. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
