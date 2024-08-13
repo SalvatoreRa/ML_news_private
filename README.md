@@ -107,9 +107,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing sqlite-vec v0.1.0: a vector search SQLite extension that runs everywhere.](https://alexgarcia.xyz/blog/2024/sqlite-vec-stable-release/index.html) |a vector database constructed using the potent SQLite framework. It offers a good vector API and can process millions of queries. |
+|[PufferLib.](https://github.com/pufferai/pufferlib) | To standardize the interface, PufferLib is a wrapper and accelerator for libraries related to reinforcement learning. It has many helpful baselines and is incredibly quick.|
+|[transtokenizers.](https://github.com/lagom-nlp/transtokenizer) | Trans-tokenization is a cross-lingual technique that uses language data from high-resource languages to improve language models for low- and mid-resource languages.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
