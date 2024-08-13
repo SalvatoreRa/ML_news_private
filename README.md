@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Intel reportedly gave up a chance to buy a stake in OpenAI in 2017.](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-reportedly-gave-up-a-chance-to-buy-a-stake-in-openai-in-2017) |According to reports, Intel decided against investing in OpenAI, which is currently a major participant in the AI space, in 2017–2018 because of then-CEO Bob Swan's doubts about the industry's preparation for AI.|
 |[YouTube is testing a feature that lets creators use Google Gemini to brainstorm video ideas.](https://techcrunch.com/2024/08/07/youtube-is-testing-a-feature-that-lets-creators-use-google-gemini-to-brainstorm-video-ideas/) |YouTube is testing an integration with Google Gemini to help creators brainstorm video ideas, titles and thumbnails.  |
 |[Forget Midjourney — Flux is the new king of AI image generation and here’s how to get access.](https://www.tomsguide.com/ai/ai-image-video/forget-midjourney-flux-is-the-new-king-of-ai-image-generation-and-heres-how-to-get-access) |Black Forest Labs' Flux AI is the newest and most promising open-source AI image generating technology available. Laptops intended for consumers can run it. It is better at providing people and quick adherence than rivals such as Midjourney in certain areas. There are three versions of the model available: Pro, Dev, and Schnell. An open-source text-to-video model is being planned. |
-|[.]() | |
+|[Paid Apple Intelligence features are likely at least 3 years away.](https://9to5mac.com/2024/08/11/paid-apple-intelligence-features/) | Some analysts this week started reporting that Apple could charge as much as $20/month for paid Apple Intelligence features. While that may be true, we likely won’t see Apple charging for these features for at least 3 years.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LiDAR-Event Stereo Fusion with Hallucinations.](https://eventvppstereo.github.io/) | Researchers suggest combining a stereo event camera with a fixed-frequency LiDAR sensor as a way to enhance event stereo matching.|
 |[LLM-Aided OCR Project.](https://github.com/Dicklesworthstone/llm_aided_ocr) |The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents. |
 |[A Foundation Model for ECG Analysis.](https://github.com/bowang-lab/ecg-fm) | A transformer-based foundation model called ECG-FM was created to lessen the requirement for a large amount of labeled data, thereby enhancing ECG analysis.|
-|[.]() | |
+|[ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation.](https://github.com/mc-lan/proxyclip) |ProxyCLIP is a novel framework that combines the advantages of Vision Foundation Models and CLIP models to enhance open-vocabulary semantic segmentation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
