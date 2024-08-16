@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why I bet on DSPy.](https://blog.isaacmiller.dev/posts/dspy) |An open-source program called DSPy may coordinate several LLM calls to solve practical issues. The framework is being updated to solve current issues with accessibility and reliability, with a focus on verified input for outcome measurement. Even with restricted reasoning powers, LLMs can function well as creative engines in the DSPy framework. |
 |[LinkedIn is a mess. Here’s how to fix it.](https://www.theguardian.com/business/article/2024/aug/10/linkedin-lunatics-networking) |The networking site one is calling a ‘cesspool’ is riddled with oversharing and lunatics – it’s time for change |
 |[Silicon Valley is cheerleading the prospect of human–AI hybrids — we should be worried.](https://www.nature.com/articles/d41586-024-02603-2) | A pseudo-religion dressed up as technoscience promises human transcendence at the cost of extinction.|
-|[.]() | |
+|[TechScape: Why Musk’s rabble-rousing shows the limits of social media laws.](https://www.theguardian.com/technology/article/2024/aug/13/why-elon-musks-fun-week-of-stirring-up-unrest-shows-the-limits-of-our-online-safety-laws) | Twitter under the tech owner has become the perfect test case for the UK’s new legislation – but critics say more needs to be done|
 |[.]() | |
 |[.]() | |
 |[.]() | |
