@@ -137,8 +137,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LongWriter: Unleashing 10,000+ Word Generation From Long Context LLMs.](https://github.com/thudm/longwriter) | With the use of AgentWrite, which divides large jobs into manageable chunks, models can now generate coherent outputs longer than 20,000 words.|
 |[OpenResearcher.](https://github.com/gair-nlp/openresearcher) |A new AI-powered platform called OpenResearcher seeks to provide answers to a variety of research-related queries. |
 |[Introducing SWE-bench Verified.](https://openai.com/index/introducing-swe-bench-verified/) |OpenAI has introduced a subset of SWE-bench that is easier and more in line with what humans and AI can solve today. It is a good benchmark for validating and working towards before running the entire original benchmark. |
-|[.]() | |
-|[.]() | |
+|[AI Toolkit.](https://github.com/ostris/ai-toolkit) | An excellent assemblage of AI-related scripts and notebooks. It focuses a lot on image adjustment and synthesis.|
+|[flash-linear-attention.](https://github.com/sustcsonglin/flash-linear-attention) |a set of extremely effective Triton kernels for the most advanced linear attention models and their variations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
