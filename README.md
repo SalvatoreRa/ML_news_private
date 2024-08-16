@@ -163,7 +163,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LinkedIn is a mess. Here’s how to fix it.](https://www.theguardian.com/business/article/2024/aug/10/linkedin-lunatics-networking) |The networking site one is calling a ‘cesspool’ is riddled with oversharing and lunatics – it’s time for change |
 |[Silicon Valley is cheerleading the prospect of human–AI hybrids — we should be worried.](https://www.nature.com/articles/d41586-024-02603-2) | A pseudo-religion dressed up as technoscience promises human transcendence at the cost of extinction.|
 |[TechScape: Why Musk’s rabble-rousing shows the limits of social media laws.](https://www.theguardian.com/technology/article/2024/aug/13/why-elon-musks-fun-week-of-stirring-up-unrest-shows-the-limits-of-our-online-safety-laws) | Twitter under the tech owner has become the perfect test case for the UK’s new legislation – but critics say more needs to be done|
-|[.]() | |
+|[America & China's Chip Race.](https://www.apricitas.io/p/america-and-chinas-chip-race) |The United States is implementing robust policies to enhance domestic semiconductor production by means of the CHIPS Act and sanctions designed to impede China's technological progress. China's semiconductor industry is booming despite these efforts, with near-record imports of manufacturing equipment and rising domestic chip production. This growing competition points to an ongoing geopolitical tug-of-war over supremacy of the semiconductor supply chain. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
