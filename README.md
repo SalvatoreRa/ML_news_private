@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReCLIP++: Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation.](https://arxiv.org/abs/2408.06747v1) |Biases in CLIP can make it less effective in tasks like unsupervised semantic segmentation, when images are not annotated. In this research, a technique to explicitly model and correct these biases is proposed. |
 |[Sakana Launches AI Scientist.](https://sakana.ai/ai-scientist/) | A system that can independently conduct research by formulating hypotheses, carrying out experiments, developing code, and compiling the findings into well-reasoned publications has been unveiled by the Japanese artificial intelligence company Sakana. Together with an open-sourced version of the system, the company has supplied samples of the papers the system wrote.|
 |[Small but Mighty: Introducing answerai-colbert-small.](https://www.answer.ai/posts/2024-08-13-small-but-mighty-colbert.html) |ColBERT is a highly effective retrieval model. Despite having just 33 million parameters, this new model performs remarkably well on several measures. This article explains how to train a comparable model and what tips and techniques produced good results. |
-|[.]() | |
+|[In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation.](https://arxiv.org/abs/2408.04961v1) |"Lazy visual grounding" is a two-step approach to open-vocabulary semantic segmentation that finds object masks independently of text and subsequently identifies the objects with textual information. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
