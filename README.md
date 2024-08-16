@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Klarna’s AI chatbot: how revolutionary is it, really?](https://blog.pragmaticengineer.com/klarnas-ai-chatbot/) | By integrating an AI chatbot created using OpenAI, Klarna may be able to cut down on the amount of support people it needs because of its notable efficiency in customer service duties. In 23 markets and more than 35 languages, the bot responds quickly to standard Level 1 support inquiries; however, it refers more complicated problems to human agents. The system reduces expenses and expedites first-level help, but compared to earlier L1 support automation, its revolutionary influence inside the business environment is questionable.|
 |[Why I bet on DSPy.](https://blog.isaacmiller.dev/posts/dspy) |An open-source program called DSPy may coordinate several LLM calls to solve practical issues. The framework is being updated to solve current issues with accessibility and reliability, with a focus on verified input for outcome measurement. Even with restricted reasoning powers, LLMs can function well as creative engines in the DSPy framework. |
 |[LinkedIn is a mess. Here’s how to fix it.](https://www.theguardian.com/business/article/2024/aug/10/linkedin-lunatics-networking) |The networking site one is calling a ‘cesspool’ is riddled with oversharing and lunatics – it’s time for change |
-|[.]() | |
+|[Silicon Valley is cheerleading the prospect of human–AI hybrids — we should be worried.](https://www.nature.com/articles/d41586-024-02603-2) | A pseudo-religion dressed up as technoscience promises human transcendence at the cost of extinction.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
