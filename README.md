@@ -133,9 +133,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Foundation Model for ECG Analysis.](https://github.com/bowang-lab/ecg-fm) | A transformer-based foundation model called ECG-FM was created to lessen the requirement for a large amount of labeled data, thereby enhancing ECG analysis.|
 |[ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation.](https://github.com/mc-lan/proxyclip) |ProxyCLIP is a novel framework that combines the advantages of Vision Foundation Models and CLIP models to enhance open-vocabulary semantic segmentation. |
 |[How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model.](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/) |Nvidia's Llama 3.1 minitron 4B variant is now available. Through knowledge distillation and pruning, the model achieved a 16% improvement in MMLU scores compared to training from scratch, while requiring 40 times fewer tokens. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[A practitioner's guide to testing and running large GPU clusters for training generative AI models.](https://together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models) |AI has produced an excellent manual for managing huge computer clusters for the purpose of training generative AI models. |
+|[LongWriter: Unleashing 10,000+ Word Generation From Long Context LLMs.](https://github.com/thudm/longwriter) | With the use of AgentWrite, which divides large jobs into manageable chunks, models can now generate coherent outputs longer than 20,000 words.|
+|[OpenResearcher.](https://github.com/gair-nlp/openresearcher) |A new AI-powered platform called OpenResearcher seeks to provide answers to a variety of research-related queries. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
