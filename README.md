@@ -89,6 +89,19 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Intel is bringing GPUs to cars.](https://www.engadget.com/intel-is-bringing-gpus-to-cars-120057738.html) |The Arc A760A is a discrete GPU for automobiles from Intel that aims to improve in-car entertainment through AI-powered capabilities like gesture and speech recognition. |
 |[US considers breaking up Google after illegal monopoly ruling, reports say.](https://www.theguardian.com/technology/article/2024/aug/14/google-antitrust-monopoly-ruling) | DoJ could force divestment of Android operation system and Chrome web browser following antitrust verdict|
 |[Google launches Pixel 9 phones with advanced AI.](https://www.theguardian.com/technology/article/2024/aug/13/google-launches-pixel-9-phones-advanced-ai-gemini-live-watch-buds) |New Pixel phones, foldable, watch and earbuds feature Gemini Live for free-flowing conversations with AI bot |
+|[Grok-2 Beta Release.](https://x.ai/blog/grok-2) |The latest model from xAI, Grok 2, is a frontier class model with mathematical, coding, and reasoning abilities. In order to make FLUX available to X users, it is working with Black Forest Labs. |
+|[Prompt Caching With Claude.](https://www.anthropic.com/news/prompt-caching) | Anthropic's Claude models now have prompt caching, which enables developers to cache context that is regularly utilized. This reduces costs and latency considerably, and early adopters like Notion are now enjoying faster and more effective AI-powered features.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
