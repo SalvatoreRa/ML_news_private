@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Conversational Prompt Engineering.](https://arxiv.org/abs/2408.04560) |describes a two-step process that allows users to create personalized few-shot prompts by interacting with the model and sharing the output. The model shapes the initial instruction based on user-provided unlabeled data, and the user provides feedback on the outputs and instruction. This iterative process produces a personalized few-shot prompt that performs better and more optimally on the desired task. |
 |[Self-Taught Evaluators.](https://arxiv.org/abs/2408.02666) |an approach to enhance model-based evaluators with only synthetic training data; it claims to outperform LLM-judges like GPT-4 and match top-performing reward models trained on labeled examples; it first generates contrasting outputs (good and bad model responses) and trains an LLM-as-a-Judge to produce reasoning traces and final judgments; the self-improvement scheme repeats the training process in an iterative manner using its improved predictions. |
 |[UGrid: An Efficient-And-Rigorous Neural Multigrid Solver for Linear PDEs.](https://arxiv.org/abs/2408.04846v1) |The UGrid solver is a recently created neural solver that combines the advantages of MultiGrid and U-Net methods for solving linear partial differential equations (PDEs). |
-|[.]() | |
-|[.]() | |
+|[Causal Agent based on Large Language Model.](https://arxiv.org/abs/2408.06849v1) |The Causal Agent is an agent framework that can manage causal issues since it has memory, reasoning, and tool modules. |
+|[ReCLIP++: Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation.](https://arxiv.org/abs/2408.06747v1) |Biases in CLIP can make it less effective in tasks like unsupervised semantic segmentation, when images are not annotated. In this research, a technique to explicitly model and correct these biases is proposed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
