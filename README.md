@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM-Aided OCR Project.](https://github.com/Dicklesworthstone/llm_aided_ocr) |The LLM-Aided OCR Project is an advanced system designed to significantly enhance the quality of Optical Character Recognition (OCR) output. By leveraging cutting-edge natural language processing techniques and large language models (LLMs), this project transforms raw OCR text into highly accurate, well-formatted, and readable documents. |
 |[A Foundation Model for ECG Analysis.](https://github.com/bowang-lab/ecg-fm) | A transformer-based foundation model called ECG-FM was created to lessen the requirement for a large amount of labeled data, thereby enhancing ECG analysis.|
 |[ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation.](https://github.com/mc-lan/proxyclip) |ProxyCLIP is a novel framework that combines the advantages of Vision Foundation Models and CLIP models to enhance open-vocabulary semantic segmentation. |
-|[.]() | |
+|[How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model.](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/) |Nvidia's Llama 3.1 minitron 4B variant is now available. Through knowledge distillation and pruning, the model achieved a 16% improvement in MMLU scores compared to training from scratch, while requiring 40 times fewer tokens. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
