@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UGrid: An Efficient-And-Rigorous Neural Multigrid Solver for Linear PDEs.](https://arxiv.org/abs/2408.04846v1) |The UGrid solver is a recently created neural solver that combines the advantages of MultiGrid and U-Net methods for solving linear partial differential equations (PDEs). |
 |[Causal Agent based on Large Language Model.](https://arxiv.org/abs/2408.06849v1) |The Causal Agent is an agent framework that can manage causal issues since it has memory, reasoning, and tool modules. |
 |[ReCLIP++: Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation.](https://arxiv.org/abs/2408.06747v1) |Biases in CLIP can make it less effective in tasks like unsupervised semantic segmentation, when images are not annotated. In this research, a technique to explicitly model and correct these biases is proposed. |
-|[.]() | |
+|[Sakana Launches AI Scientist.](https://sakana.ai/ai-scientist/) | A system that can independently conduct research by formulating hypotheses, carrying out experiments, developing code, and compiling the findings into well-reasoned publications has been unveiled by the Japanese artificial intelligence company Sakana. Together with an open-sourced version of the system, the company has supplied samples of the papers the system wrote.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
