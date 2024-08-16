@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Paid Apple Intelligence features are likely at least 3 years away.](https://9to5mac.com/2024/08/11/paid-apple-intelligence-features/) | Some analysts this week started reporting that Apple could charge as much as $20/month for paid Apple Intelligence features. While that may be true, we likely won’t see Apple charging for these features for at least 3 years.|
 |[Elon Musk to pause X’s AI training on some EU data, Ireland says.](https://www.politico.eu/article/elon-musks-x-to-pause-ai-training-with-some-eu-data-says-irish-privacy-regulator/) | Des Hogan, the Irish Commissioner for Data Protection, has filed a lawsuit against an undisclosed business, contesting how it handles the personal data of EU citizens and perhaps affecting its AI chatbot's GDPR-compliant data processing procedures.|
 |[Intel is bringing GPUs to cars.](https://www.engadget.com/intel-is-bringing-gpus-to-cars-120057738.html) |The Arc A760A is a discrete GPU for automobiles from Intel that aims to improve in-car entertainment through AI-powered capabilities like gesture and speech recognition. |
-|[.]() | |
-|[.]() | |
+|[US considers breaking up Google after illegal monopoly ruling, reports say.](https://www.theguardian.com/technology/article/2024/aug/14/google-antitrust-monopoly-ruling) | DoJ could force divestment of Android operation system and Chrome web browser following antitrust verdict|
+|[Google launches Pixel 9 phones with advanced AI.](https://www.theguardian.com/technology/article/2024/aug/13/google-launches-pixel-9-phones-advanced-ai-gemini-live-watch-buds) |New Pixel phones, foldable, watch and earbuds feature Gemini Live for free-flowing conversations with AI bot |
 |[.]() | |
 |[.]() | |
 |[.]() | |
