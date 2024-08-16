@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Toolkit.](https://github.com/ostris/ai-toolkit) | An excellent assemblage of AI-related scripts and notebooks. It focuses a lot on image adjustment and synthesis.|
 |[flash-linear-attention.](https://github.com/sustcsonglin/flash-linear-attention) |a set of extremely effective Triton kernels for the most advanced linear attention models and their variations. |
 |[Vision-Language Model Evaluation with UniBench.](https://github.com/facebookresearch/unibench) |UniBench is a unified framework that combines more than 50 benchmarks into a single implementation, making the evaluation of vision-language models (VLMs) easier. It aids in evaluating how well VLMs are doing in a variety of domains, including as object identification and spatial awareness. |
-|[.]() | |
+|[ClickAttention: Click Region Similarity Guided Interactive Segmentation.](https://github.com/hahamyt/clickattention) |Interactive segmentation is enhanced by a new click attention technique. This method lessens inter-click interference and increases the impact of positive clicks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
