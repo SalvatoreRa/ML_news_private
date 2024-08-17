@@ -141,9 +141,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[flash-linear-attention.](https://github.com/sustcsonglin/flash-linear-attention) |a set of extremely effective Triton kernels for the most advanced linear attention models and their variations. |
 |[Vision-Language Model Evaluation with UniBench.](https://github.com/facebookresearch/unibench) |UniBench is a unified framework that combines more than 50 benchmarks into a single implementation, making the evaluation of vision-language models (VLMs) easier. It aids in evaluating how well VLMs are doing in a variety of domains, including as object identification and spatial awareness. |
 |[ClickAttention: Click Region Similarity Guided Interactive Segmentation.](https://github.com/hahamyt/clickattention) |Interactive segmentation is enhanced by a new click attention technique. This method lessens inter-click interference and increases the impact of positive clicks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Universal Waveform Generation.](https://periodwave.github.io/demo/) |This article investigates the performance of long context models on several RAG tasks. Increasing the amount of examples can be beneficial. These models frequently break down in odd but expected ways. |
+|[Security Risks in Model Merging.](https://github.com/jzhang538/badmerging) | New security threats surface as Model Merging (MM), a common technique for merging optimized models without further training, gains traction. The first backdoor attack that targets MM specifically is described in this publication, called BadMerging.|
+|[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.](https://arxiv.org/abs/2408.07666v2) | This survey offers a thorough analysis of model merging strategies, a machine learning technique that is becoming more and more popular and doesn't require costly computation or raw training data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
