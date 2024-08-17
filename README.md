@@ -58,9 +58,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Small but Mighty: Introducing answerai-colbert-small.](https://www.answer.ai/posts/2024-08-13-small-but-mighty-colbert.html) |ColBERT is a highly effective retrieval model. Despite having just 33 million parameters, this new model performs remarkably well on several measures. This article explains how to train a comparable model and what tips and techniques produced good results. |
 |[In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation.](https://arxiv.org/abs/2408.04961v1) |"Lazy visual grounding" is a two-step approach to open-vocabulary semantic segmentation that finds object masks independently of text and subsequently identifies the objects with textual information. |
 |[Introducing Agent Q: Research Breakthrough for the Next Generation of AI Agents with Planning & Self Healing Capabilities.](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities) |An agent educated by Multion to do web queries via self play. It increased from 18% to 81% during training on a range of web-based tasks, such as placing restaurant orders. To get better, it employs DPO and MCTS. A publication from this work is published on the website, and researchers from Stanford also contributed to it. It seems to be based on Salesforce Research's xLAM function calling mechanism. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anchored Preference Optimization.](https://arxiv.org/abs/2408.06266) | Modifying models to conform to human tastes typically necessitates post-training. It is unclear, nevertheless, why one example is superior than another when these models are being trained. By using an existing example that has been deteriorated, APO allows models to anchor the preference difference.|
+|[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers.](https://arxiv.org/abs/2408.06195) | |
+|[MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation.](https://arxiv.org/abs/2408.07576v2) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
