@@ -169,7 +169,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-Driving Cars Are Still The Best Way To Solve The Biggest Problem With Driving In America.](https://www.inverse.com/tech/self-driving-cars-traffic-problem) |Robocars promise to improve traffic even when most of the cars around them are driven by people, study finds |
 |[Brands should avoid AI. It’s turning off customers.](https://edition.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html) | According to a recent study, consumers' desire to buy may be lowered when things are labeled as "AI-powered" because of mistrust and anxiety about the unknown. People are skeptical about AI's inner workings and threats, particularly with regard to personal data protection, according to the research, which implies that both cognitive and emotional trust are important. It is suggested that instead of utilizing "AI" as a buzzword, businesses concentrate on communicating the advantages of AI clearly.|
 |[14% of PCs shipped globally in Q2 2024 were AI-capable.](https://www.canalys.com/newsroom/ai-pc-market-Q2-2024) |In Q2 2024, shipments of AI-capable PCs increased significantly to 8.8 million units, or 14% of all PCs supplied. |
-|[.]() | |
+|[Brain implants to treat epilepsy, arthritis, or even incontinence? They may be closer than you think.](https://www.theguardian.com/business/article/2024/aug/17/brain-implants-to-treat-epilepsy-arthritis-or-even-incontinence-they-may-be-closer-than-you-think) |Startups around the world are engaging in clinical trials in a sector that could change lives – and be worth more than £15bn by the 2030s |
 |[.]() | |
 |[.]() | |
 |[.]() | |
