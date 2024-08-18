@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: Week 12 - 18 August
 
 ## Research
 |Link|description|
@@ -105,17 +105,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Another Apple smart ring patent granted, includes controlling smart glasses.](https://9to5mac.com/2024/08/13/apple-smart-ring-patent-smart-glasses/) |A smart ring that can monitor health and control other Apple devices is described in a recently awarded patent by Apple, which also makes reference to potential integration with AR/VR headsets and smart glasses. |
 |[Iranian group used ChatGPT to try to influence US election, OpenAI says.](https://www.theguardian.com/technology/article/2024/aug/16/open-ai-chatgpt-iran) |AI company bans accounts and says operation did not appear to have meaningful audience engagement |
 |[Russia’s AI tactics for US election interference are failing, Meta says.](https://www.theguardian.com/technology/article/2024/aug/15/russia-us-election-interference-ai-meta-facebook-instagram) | New Meta security report finds that AI-powered deception campaigns ‘provide only incremental’ results for bad actors|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -144,11 +133,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Universal Waveform Generation.](https://periodwave.github.io/demo/) |This article investigates the performance of long context models on several RAG tasks. Increasing the amount of examples can be beneficial. These models frequently break down in odd but expected ways. |
 |[Security Risks in Model Merging.](https://github.com/jzhang538/badmerging) | New security threats surface as Model Merging (MM), a common technique for merging optimized models without further training, gains traction. The first backdoor attack that targets MM specifically is described in this publication, called BadMerging.|
 |[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.](https://arxiv.org/abs/2408.07666v2) | This survey offers a thorough analysis of model merging strategies, a machine learning technique that is becoming more and more popular and doesn't require costly computation or raw training data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -170,18 +154,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Brands should avoid AI. It’s turning off customers.](https://edition.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html) | According to a recent study, consumers' desire to buy may be lowered when things are labeled as "AI-powered" because of mistrust and anxiety about the unknown. People are skeptical about AI's inner workings and threats, particularly with regard to personal data protection, according to the research, which implies that both cognitive and emotional trust are important. It is suggested that instead of utilizing "AI" as a buzzword, businesses concentrate on communicating the advantages of AI clearly.|
 |[14% of PCs shipped globally in Q2 2024 were AI-capable.](https://www.canalys.com/newsroom/ai-pc-market-Q2-2024) |In Q2 2024, shipments of AI-capable PCs increased significantly to 8.8 million units, or 14% of all PCs supplied. |
 |[Brain implants to treat epilepsy, arthritis, or even incontinence? They may be closer than you think.](https://www.theguardian.com/business/article/2024/aug/17/brain-implants-to-treat-epilepsy-arthritis-or-even-incontinence-they-may-be-closer-than-you-think) |Startups around the world are engaging in clinical trials in a sector that could change lives – and be worth more than £15bn by the 2030s |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 5 - 11 August
 
