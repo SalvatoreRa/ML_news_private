@@ -62,14 +62,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers.](https://arxiv.org/abs/2408.06195) |Research on tree search for inference time computation for language models is very active. This Microsoft article presents a very strong argument for how little models can significantly outperform large models on mathematical tasks. |
 |[MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation.](https://arxiv.org/abs/2408.07576v2) |Based on the MetaFormer design, MetaSeg is a potent semantic segmentation network that improves the network's decoder and backbone. |
 |[Long Context RAG Performance of LLMs.](https://www.databricks.com/blog/long-context-rag-performance-llms) |This article investigates the performance of long context models on several RAG tasks. Increasing the amount of examples can be beneficial. These models frequently break down in odd but expected ways. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
