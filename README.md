@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘Threads is just deathly dull’: have Twitter quitters found what they are looking for on other networks?](https://www.theguardian.com/media/article/2024/aug/18/elon-musk-x-twitter-threads-bluesky-meta-instagram-mastodon) | There’s been an exodus of users from X, propelled by Elon Musk’s lurch to the far right, but the alternatives have drawbacks too|
 |[.]() | |
 |[.]() | |
 |[.]() | |
