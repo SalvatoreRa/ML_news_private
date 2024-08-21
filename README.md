@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314.) |explores how inference-time computation in LLMs scales. Specifically, it examines how much an LLM can be improved given a fixed amount of inference-time compute; it discovers that the efficacy of various scaling strategies varies by prompt difficulty; it then suggests an adaptive compute-optimal strategy that can increase efficiency by more than 4x when compared to a best-of-N baseline; it reports that optimally scaling test-time compute can outperform a 14x larger model in a FLOPs-matched evaluation. |
 |[Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation.](https://arxiv.org/abs/2408.04187) |a graph-based framework for the medical domain that improves LLMs and produces evidence-based results; makes use of chunk documents and a hybrid static-semantic approach to enhance context capture; uses graphs to represent entities and medical knowledge, creating an interconnected global graph; This method outperforms cutting-edge models and increases precision across a number of medical Q&A metrics. |
 |[BAM dense to MoE Upcycling.](https://arxiv.org/abs/2408.08274) | By using this technique, the FFN and Attention layers of dense models can be recycled into a Mixture of Experts (MoE) model for additional training. This preserves downstream performance while saving a significant amount of computing expense.|
-|[.]() | |
+|[BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning.](https://asif-hanif.github.io/baple/) | Backdoor attacks can be incorporated into medical foundation models using the BAPLe technique during the prompt learning stage.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,9 +95,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](https://arxiv.org/abs/2408.05109) |a thorough rundown of NL2SQL approaches driven by LLMs, including models, data gathering, assessment strategies, and error analysis |
 |[DeepSeek-Prover-V1.5.](https://arxiv.org/abs/2408.08152) |Process supervision was used to train DeepSeek's extremely potent math model, which performs noticeably better than larger models on a number of MATH benchmarks. |
 |[DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model.](https://arxiv.org/abs/2408.07541) | This is a fun project that reconstructs very low quality images from a cheap camera using a diffusion model.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Knowledge Fusion of Large Language Models.](https://github.com/fanqiwan/FuseAI) | Several models can be combined with Fuse Chat, allowing each to contribute their unique capabilities. This is the code base containing the model weights for several robust 7B models that achieve good results on the MT bench.|
+|[SigmaRL.](https://github.com/cas-lab-munich/sigmarl) | The goal of the decentralized, open-source SigmaRL framework is to enhance the generalization and sample efficiency of multi-agent Reinforcement Learning (RL) in the context of motion planning for automated and networked vehicles.|
+|[Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation.](https://arxiv.org/abs/2408.08234) | In order to evaluate how the quality of 3D reconstructions affects object position estimate accuracy in industrial applications, this work presents a thorough benchmark.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
