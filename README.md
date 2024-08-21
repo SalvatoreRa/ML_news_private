@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘Threads is just deathly dull’: have Twitter quitters found what they are looking for on other networks?](https://www.theguardian.com/media/article/2024/aug/18/elon-musk-x-twitter-threads-bluesky-meta-instagram-mastodon) | There’s been an exodus of users from X, propelled by Elon Musk’s lurch to the far right, but the alternatives have drawbacks too|
-|[.]() | |
+|[Five ways the brain can age: 50,000 scans reveal possible patterns of damage.](https://www.nature.com/articles/d41586-024-02692-z) |Results raise hopes that methods could be developed to detect the earliest stages of neurodegenerative disease. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
