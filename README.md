@@ -120,6 +120,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model.](https://meshformer3d.github.io/) |A quick, affordable, and cutting-edge approach for creating 3D meshes that can be trained on text or images. In particular, it employs a cascade of steps, such as a normal map generator, that transfers distinct duties to different submodels and signed distance function supervision. |
 |[NeuFlow_v2.](https://github.com/neufieldrobotics/NeuFlow_v2) | Optical flow code that is incredibly quick and effective and suitable for low-power devices like phones and certain security camera systems.|
 |[X-ray Report Generation.](https://github.com/event-ahu/medical_image_analysis) |To produce X-ray medical reports more efficiently and with less computer complexity, a new framework was created. |
+|[TraDiffusion：Trajectory-Based Training-Free Image Generation.](https://github.com/och-mac/tradiffusion) |A novel technique called TraDiffusion uses mouse trajectories rather than box or mask controls to guide text-to-image generation. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
