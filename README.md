@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[X-ray Report Generation.](https://github.com/event-ahu/medical_image_analysis) |To produce X-ray medical reports more efficiently and with less computer complexity, a new framework was created. |
 |[TraDiffusion：Trajectory-Based Training-Free Image Generation.](https://github.com/och-mac/tradiffusion) |A novel technique called TraDiffusion uses mouse trajectories rather than box or mask controls to guide text-to-image generation. |
 |[Loss Rider.](https://github.com/jndean/LossRider) | A fun utility that illustrates when loss functions converge and get too spiky by animating a curve rider sled as it descends them.|
-|[.]() | |
+|[kyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama.](https://github.com/vaew/skyscript-100m) |The goal of the large dataset SkyScript-100M is to improve the production of excellent shooting scripts for short dramas. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
