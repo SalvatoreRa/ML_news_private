@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation.](https://arxiv.org/abs/2408.04187) |a graph-based framework for the medical domain that improves LLMs and produces evidence-based results; makes use of chunk documents and a hybrid static-semantic approach to enhance context capture; uses graphs to represent entities and medical knowledge, creating an interconnected global graph; This method outperforms cutting-edge models and increases precision across a number of medical Q&A metrics. |
 |[BAM dense to MoE Upcycling.](https://arxiv.org/abs/2408.08274) | By using this technique, the FFN and Attention layers of dense models can be recycled into a Mixture of Experts (MoE) model for additional training. This preserves downstream performance while saving a significant amount of computing expense.|
 |[BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning.](https://asif-hanif.github.io/baple/) | Backdoor attacks can be incorporated into medical foundation models using the BAPLe technique during the prompt learning stage.|
-|[.]() | |
-|[.]() | |
+|[ShortCircuit: AlphaZero-Driven Circuit Design.](https://arxiv.org/abs/2408.09858) |AI-powered automation and optimization of chip design can lower costs while satisfying the need for more powerful chips. Using an Alpha Zero based approach, this method was tested on numerous circuits and produced small and effective designs with an 84.6% success rate. |
+|[Automated Design of Agentic Systems.](https://arxiv.org/abs/2408.08435) | This study examines the fragility of current agent systems and explores potential future directions for the design of learning systems. Programming languages are used by their creators as a testbed where unsupervised agent creation and execution are possible.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
