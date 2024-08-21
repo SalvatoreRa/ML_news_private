@@ -99,9 +99,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SigmaRL.](https://github.com/cas-lab-munich/sigmarl) | The goal of the decentralized, open-source SigmaRL framework is to enhance the generalization and sample efficiency of multi-agent Reinforcement Learning (RL) in the context of motion planning for automated and networked vehicles.|
 |[Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation.](https://arxiv.org/abs/2408.08234) | In order to evaluate how the quality of 3D reconstructions affects object position estimate accuracy in industrial applications, this work presents a thorough benchmark.|
 |[MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing.](https://ewrfcas.github.io/MVInpainter/) |The process of producing many views from a single image is known as multi view image synthesis. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[BLIP-3.](https://arxiv.org/abs/2408.08872) | For a while, BLIP was the most used multimodal model. The most recent iteration employs a pure autoregressive loss and is noticeably simpler. It attains cutting-edge results on certain captioning benchmarks.|
+|[SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation.](https://arxiv.org/abs/2408.08870v1) | A new image segmentation framework called SAM2-UNet uses the potent Segment Anything Model 2 (SAM2) as its encoder.|
+|[A Survey on Benchmarks of Multimodal Large Language Models.](https://arxiv.org/abs/2408.08632v1) | A thorough analysis of 180 benchmarks for Multimodal Large Language Model evaluation is presented in this work.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
