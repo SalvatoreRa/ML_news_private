@@ -68,7 +68,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AI-generated parody song about immigrants storms into German Top 50.](https://www.theguardian.com/technology/article/2024/aug/18/artificial-intelligence-song-immigrants-germany-top-50) |Artist Butterbro accused of walking fine line between parody and discrimination and helping make racial slur mainstream |
-|[.]() | |
+|[Tesla faces lowest duty on Chinese-made cars exported to EU.](https://www.theguardian.com/technology/article/2024/aug/20/tesla-faces-lowest-duty-on-chinese-made-cars-exported-to-eu) |The 9% tariff is much less than others face after investigation into Beijing’s ‘unfair’ subsidies of EVs |
 |[.]() | |
 |[.]() | |
 |[.]() | |
