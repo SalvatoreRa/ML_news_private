@@ -104,6 +104,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey on Benchmarks of Multimodal Large Language Models.](https://arxiv.org/abs/2408.08632v1) | A thorough analysis of 180 benchmarks for Multimodal Large Language Model evaluation is presented in this work.|
 |[SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.](https://github.com/Anttwo/SuGaR) |You can create an editable and animatable mesh output from a video or image series using mesh reconstruction from gaussian splatting. It just takes a few steps on a single GPU to accomplish this, and it does so very rapidly and efficiently. |
 |[Llama-3.1 Storm Models.](https://huggingface.co/collections/akjindal53244/llama-31-storm-models-66ba6c96b7e24ecb592787a9) |These are the first tuned models that significantly outperform Meta's Llama-3.1 base models. |
+|[EasyRec: Simple yet Effective Language Model for Recommendation.](https://github.com/hkuds/easyrec) | EasyRec is a language paradigm created especially for jobs involving recommendations. To produce high-quality semantic embeddings, it makes use of cooperative data from several datasets and creative contrastive learning objectives.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
