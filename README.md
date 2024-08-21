@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery.](https://arxiv.org/abs/2408.06292) |a novel artificial intelligence (AI) agent that, for less than $15, can develop and write a full conference-level scientific paper; it automates scientific discovery by empowering frontier LLMs to conduct independent research and summarize findings; it also uses an automated reviewer to assess the papers it generates; it claims to achieve near-human performance in assessing paper scores; and it claims to generate papers that, according to their automated reviewer, surpass the acceptance threshold at a premier machine learning conference.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
