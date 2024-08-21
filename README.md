@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to get from high school math to cutting-edge ML/AI: a detailed 4-stage roadmap with links to the best learning resources that I’m aware of.](https://www.justinmath.com/how-to-get-from-high-school-math-to-cutting-edge-ml-ai/?utm_source=tldrai) |Software experts can use the following four-step learning plan to comprehend advanced ML/AI papers: Basic math (calculus, algebra, linear algebra, probability, statistics), deep learning (multi-layer neural networks), classical machine learning (basic regression, classification models), and cutting-edge machine learning (transformers, LLMs, diffusion models) are the first four areas of study in machine learning. For stages 1-2, author-created content is essential, while for stages 3–4, suggested outside items are necessary. Once each level is mastered, students are better prepared to take on challenging ML papers and keep up with the rapidly advancing field of AI research. |
 |[llamafile v0.8.13](https://github.com/Mozilla-Ocho/llamafile/releases/tag/0.8.13?utm_source=tldrai) | Whisper models are now supported by Llama files, which also offer a number of speed and quality-of-life enhancements.|
 |[MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model.](https://meshformer3d.github.io/) |A quick, affordable, and cutting-edge approach for creating 3D meshes that can be trained on text or images. In particular, it employs a cascade of steps, such as a normal map generator, that transfers distinct duties to different submodels and signed distance function supervision. |
-|[.]() | |
-|[.]() | |
+|[NeuFlow_v2.](https://github.com/neufieldrobotics/NeuFlow_v2) | Optical flow code that is incredibly quick and effective and suitable for low-power devices like phones and certain security camera systems.|
+|[X-ray Report Generation.](https://github.com/event-ahu/medical_image_analysis) |To produce X-ray medical reports more efficiently and with less computer complexity, a new framework was created. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
