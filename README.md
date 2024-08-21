@@ -78,6 +78,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hamming Launches 100x faster testing of voice agents.](https://www.producthunt.com/posts/hamming-ai-yc-s24) | With the use of a technology called hamming, you may test hundreds of situations for your voice AI systems and create personalities that resemble Character AI.|
 |[Fine-tuning now available for GPT-4o.](https://openai.com/index/gpt-4o-fine-tuning/) | With the announcement of fine-tuning for GPT-4o, OpenAI enables developers to tailor the model using their own datasets for certain use cases. Through September 23, it will be giving away one million free training tokens per day.|
 |[OpenAI strikes search deal with Condé Nast.](https://www.axios.com/2024/08/20/openai-conde-nast-deal-chatgpt-search) | With the signing of a multi-year licensing deal, OpenAI and Condé Nast are able to integrate content from the publisher's brands, like Vogue and The New Yorker, into their ChatGPT and SearchGPT platforms.|
+|[Meta’s Self-Taught Evaluator enables LLMs to create their own training data.](https://venturebeat.com/ai/metas-self-taught-evaluator-enables-llms-to-create-their-own-training-data/?utm_source=tldrai) | Meta FAIR researchers have introduced the Self-Taught Evaluator, a method to train evaluative LLMs without human annotations, potentially enhancing the efficiency and scalability of LLM assessment. Using the LLM-as-a-Judge concept, it iteratively generates and refines responses to create a training dataset, demonstrating improved performance on benchmarks like RewardBench. This technique could enable enterprises to leverage unlabeled data for LLM tuning while acknowledging the importance of a well-aligned seed model and the limitations of benchmarks.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
