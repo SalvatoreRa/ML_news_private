@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BLIP-3.](https://arxiv.org/abs/2408.08872) | For a while, BLIP was the most used multimodal model. The most recent iteration employs a pure autoregressive loss and is noticeably simpler. It attains cutting-edge results on certain captioning benchmarks.|
 |[SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation.](https://arxiv.org/abs/2408.08870v1) | A new image segmentation framework called SAM2-UNet uses the potent Segment Anything Model 2 (SAM2) as its encoder.|
 |[A Survey on Benchmarks of Multimodal Large Language Models.](https://arxiv.org/abs/2408.08632v1) | A thorough analysis of 180 benchmarks for Multimodal Large Language Model evaluation is presented in this work.|
-|[.]() | |
+|[SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering.](https://github.com/Anttwo/SuGaR) |You can create an editable and animatable mesh output from a video or image series using mesh reconstruction from gaussian splatting. It just takes a few steps on a single GPU to accomplish this, and it does so very rapidly and efficiently. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
