@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fine-tuning now available for GPT-4o.](https://openai.com/index/gpt-4o-fine-tuning/) | With the announcement of fine-tuning for GPT-4o, OpenAI enables developers to tailor the model using their own datasets for certain use cases. Through September 23, it will be giving away one million free training tokens per day.|
 |[OpenAI strikes search deal with Condé Nast.](https://www.axios.com/2024/08/20/openai-conde-nast-deal-chatgpt-search) | With the signing of a multi-year licensing deal, OpenAI and Condé Nast are able to integrate content from the publisher's brands, like Vogue and The New Yorker, into their ChatGPT and SearchGPT platforms.|
 |[Meta’s Self-Taught Evaluator enables LLMs to create their own training data.](https://venturebeat.com/ai/metas-self-taught-evaluator-enables-llms-to-create-their-own-training-data/?utm_source=tldrai) | Meta FAIR researchers have introduced the Self-Taught Evaluator, a method to train evaluative LLMs without human annotations, potentially enhancing the efficiency and scalability of LLM assessment. Using the LLM-as-a-Judge concept, it iteratively generates and refines responses to create a training dataset, demonstrating improved performance on benchmarks like RewardBench. This technique could enable enterprises to leverage unlabeled data for LLM tuning while acknowledging the importance of a well-aligned seed model and the limitations of benchmarks.|
-|[.]() | |
+|[Video: $16,000 humanoid robot ready to leap into mass production.](https://newatlas.com/robotics/unitree-g1-humanoid-robot-mass-production/) |China's Unitree Robotics is a relatively recent entry in the general-purpose humanoid robot space, but its $16,000 G1 model is already proving itself to be quite the performer. So much so that the company has now revealed a version that's ready for mass production. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NeuFlow_v2.](https://github.com/neufieldrobotics/NeuFlow_v2) | Optical flow code that is incredibly quick and effective and suitable for low-power devices like phones and certain security camera systems.|
 |[X-ray Report Generation.](https://github.com/event-ahu/medical_image_analysis) |To produce X-ray medical reports more efficiently and with less computer complexity, a new framework was created. |
 |[TraDiffusion：Trajectory-Based Training-Free Image Generation.](https://github.com/och-mac/tradiffusion) |A novel technique called TraDiffusion uses mouse trajectories rather than box or mask controls to guide text-to-image generation. |
-|[.]() | |
+|[Loss Rider.](https://github.com/jndean/LossRider) | A fun utility that illustrates when loss functions converge and get too spiky by animating a curve rider sled as it descends them.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
