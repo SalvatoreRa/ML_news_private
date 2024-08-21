@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-generated parody song about immigrants storms into German Top 50.](https://www.theguardian.com/technology/article/2024/aug/18/artificial-intelligence-song-immigrants-germany-top-50) |Artist Butterbro accused of walking fine line between parody and discrimination and helping make racial slur mainstream |
 |[Tesla faces lowest duty on Chinese-made cars exported to EU.](https://www.theguardian.com/technology/article/2024/aug/20/tesla-faces-lowest-duty-on-chinese-made-cars-exported-to-eu) |The 9% tariff is much less than others face after investigation into Beijing’s ‘unfair’ subsidies of EVs |
 |[Google’s upgraded AI image generator is now available.](https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available) | Google says Imagen 3 is its highest-quality image generator so far — and now more users in the US can try it.|
-|[.]() | |
+|[Runway’s Gen-3 Alpha Turbo is here and can make AI videos faster than you can type.](https://venturebeat.com/ai/runways-gen-3-alpha-turbo-is-here-and-can-make-ai-videos-faster-than-you-can-type/) |The new Gen-3 Alpha Turbo from Runway ML is currently available with a variety of subscription plans, including free trials, and offers 7x quicker AI video creation at half the cost of its predecessor. Time lag is greatly decreased by this speed increase, which promotes more productive workflows, especially in industries where time is of the essence. Runway is negotiating the ethical waters of AI training data practices while pushing for more advancements, such as improved control systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](https://arxiv.org/abs/2408.05109) |a thorough rundown of NL2SQL approaches driven by LLMs, including models, data gathering, assessment strategies, and error analysis |
-|[.]() | |
+|[DeepSeek-Prover-V1.5.](https://arxiv.org/abs/2408.08152) |Process supervision was used to train DeepSeek's extremely potent math model, which performs noticeably better than larger models on a number of MATH benchmarks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
