@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction.](https://arxiv.org/abs/2408.04948) |integrates VectorRAG and GraphRAG to create a HybridRAG system that performs better than either one separately; it was tested on a set of transcripts from financial earning calls. When the benefits of both methods are combined, questions can be answered with more accuracy. |
 |[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers.](https://arxiv.org/abs/2408.06195) |introduces self-play mutual reasoning to enhance small language models' reasoning powers without the need for better models or fine-tuning; To create richer reasoning trajectories, MCTS is enhanced with human-like reasoning actions derived from SLMs; The target SLM chooses the last reasoning trajectory as the solution, while another SLM offers unsupervised input on the trajectories; For LLaMA2-7B, rStar increases GSM8K accuracy from 12.51% to 63.91% while steadily raising other SLM accuracy. |
 |[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters.](https://arxiv.org/abs/2408.03314.) |explores how inference-time computation in LLMs scales. Specifically, it examines how much an LLM can be improved given a fixed amount of inference-time compute; it discovers that the efficacy of various scaling strategies varies by prompt difficulty; it then suggests an adaptive compute-optimal strategy that can increase efficiency by more than 4x when compared to a best-of-N baseline; it reports that optimally scaling test-time compute can outperform a 14x larger model in a FLOPs-matched evaluation. |
-|[.]() | |
+|[Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation.](https://arxiv.org/abs/2408.04187) |a graph-based framework for the medical domain that improves LLMs and produces evidence-based results; makes use of chunk documents and a hybrid static-semantic approach to enhance context capture; uses graphs to represent entities and medical knowledge, creating an interconnected global graph; This method outperforms cutting-edge models and increases precision across a number of medical Q&A metrics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](https://arxiv.org/abs/2408.05109) |a thorough rundown of NL2SQL approaches driven by LLMs, including models, data gathering, assessment strategies, and error analysis |
 |[.]() | |
 |[.]() | |
 |[.]() | |
