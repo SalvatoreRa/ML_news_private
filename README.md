@@ -71,8 +71,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla faces lowest duty on Chinese-made cars exported to EU.](https://www.theguardian.com/technology/article/2024/aug/20/tesla-faces-lowest-duty-on-chinese-made-cars-exported-to-eu) |The 9% tariff is much less than others face after investigation into Beijing’s ‘unfair’ subsidies of EVs |
 |[Google’s upgraded AI image generator is now available.](https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available) | Google says Imagen 3 is its highest-quality image generator so far — and now more users in the US can try it.|
 |[Runway’s Gen-3 Alpha Turbo is here and can make AI videos faster than you can type.](https://venturebeat.com/ai/runways-gen-3-alpha-turbo-is-here-and-can-make-ai-videos-faster-than-you-can-type/) |The new Gen-3 Alpha Turbo from Runway ML is currently available with a variety of subscription plans, including free trials, and offers 7x quicker AI video creation at half the cost of its predecessor. Time lag is greatly decreased by this speed increase, which promotes more productive workflows, especially in industries where time is of the essence. Runway is negotiating the ethical waters of AI training data practices while pushing for more advancements, such as improved control systems.|
-|[.]() | |
-|[.]() | |
+|[Eric Schmidt Walks Back Claim Google Is Behind on AI Because of Remote Work.](https://www.msn.com/en-us/money/companies/eric-schmidt-says-google-is-falling-behind-on-ai-and-remote-work-is-why/ar-AA1oO2my) | Eric Schmidt, ex-CEO and executive chairman at Google, walked back remarks in which he said his former company was losing the artificial intelligence race because of its remote-work policies.|
+|[Gemini Advanced updated with latest 1.5 Pro model for improved reasoning.](https://9to5google.com/2024/08/15/gemini-advanced-1-5-pro-update/) | Google has enhanced Gemini 1.5 Pro in Gemini Advanced, delivering improved responses for prompts requiring advanced reasoning and coding.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Knowledge Fusion of Large Language Models.](https://github.com/fanqiwan/FuseAI) | Several models can be combined with Fuse Chat, allowing each to contribute their unique capabilities. This is the code base containing the model weights for several robust 7B models that achieve good results on the MT bench.|
 |[SigmaRL.](https://github.com/cas-lab-munich/sigmarl) | The goal of the decentralized, open-source SigmaRL framework is to enhance the generalization and sample efficiency of multi-agent Reinforcement Learning (RL) in the context of motion planning for automated and networked vehicles.|
 |[Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation.](https://arxiv.org/abs/2408.08234) | In order to evaluate how the quality of 3D reconstructions affects object position estimate accuracy in industrial applications, this work presents a thorough benchmark.|
-|[.]() | |
+|[MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing.](https://ewrfcas.github.io/MVInpainter/) |The process of producing many views from a single image is known as multi view image synthesis. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
