@@ -155,8 +155,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Has your paper been used to train an AI model? Almost certainly.](https://www.nature.com/articles/d41586-024-02599-9) | Artificial-intelligence developers are buying access to valuable data sets that contain research papers — raising uncomfortable questions about copyright.|
 |[The testing of AI in medicine is a mess. Here’s how it should be done.](https://www.nature.com/articles/d41586-024-02675-0) |Hundreds of medical algorithms have been approved on basis of limited clinical data. Scientists are debating who should test these tools and how best to do it. |
 |[Light bulbs have energy ratings — so why can’t AI chatbots?](https://www.nature.com/articles/d41586-024-02680-3) | The rising energy and environmental cost of the artificial-intelligence boom is fuelling concern. Green policy mechanisms that already exist offer a path towards a solution.|
-|[.]() | |
-|[.]() | |
+|[How the human brain creates cognitive maps of related concepts.](https://www.nature.com/articles/d41586-024-02433-2) | Neural activity in human brains rapidly restructures to reflect hidden relationships needed to adapt to a changing environment. Surprisingly, trial-and-error learning and verbal instruction induce similar changes.|
+|[Switching between tasks can cause AI to lose the ability to learn.](https://www.nature.com/articles/d41586-024-02525-z) |Artificial neural networks become incapable of mastering new skills when they learn them one after the other. Researchers have only scratched the surface of why this phenomenon occurs — and how it can be fixed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
