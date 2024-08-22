@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning.](https://asif-hanif.github.io/baple/) | Backdoor attacks can be incorporated into medical foundation models using the BAPLe technique during the prompt learning stage.|
 |[ShortCircuit: AlphaZero-Driven Circuit Design.](https://arxiv.org/abs/2408.09858) |AI-powered automation and optimization of chip design can lower costs while satisfying the need for more powerful chips. Using an Alpha Zero based approach, this method was tested on numerous circuits and produced small and effective designs with an 84.6% success rate. |
 |[Automated Design of Agentic Systems.](https://arxiv.org/abs/2408.08435) | This study examines the fragility of current agent systems and explores potential future directions for the design of learning systems. Programming languages are used by their creators as a testbed where unsupervised agent creation and execution are possible.|
-|[.]() | |
+|[Loss of plasticity in deep continual learning.](https://www.nature.com/articles/s41586-024-07711-7) |The pervasive problem of artificial neural networks losing plasticity in continual-learning settings is demonstrated and a simple solution called the continual backpropagation algorithm is described to prevent this issue. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
