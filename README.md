@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices.](https://arxiv.org/abs/2408.10161v1) |This work presents a novel approach to optical flow estimation that delivers excellent accuracy at a large computational cost savings. |
 |[Torch-Pruning.](https://github.com/VainF/Torch-Pruning) |repository of cutting-edge techniques with numerous supported algorithms for language model pruning that is kept up to date. |
 |[Image, Tell me your story!.](https://github.com/ukplab/5pils) | A novel strategy for identifying visual misrepresentation has been presented by researchers, which emphasizes the importance of the original meta-context of images—a factor that automated approaches frequently ignore. |
-|[.]() | |
+|[Pathology-LLaVA.](https://github.com/ddw2aigroup2cqupt/pa-llava) |Pathology image analysis is the target application for PA-LLaVA, a domain-specific language-vision assistant. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
