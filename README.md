@@ -123,9 +123,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TraDiffusion：Trajectory-Based Training-Free Image Generation.](https://github.com/och-mac/tradiffusion) |A novel technique called TraDiffusion uses mouse trajectories rather than box or mask controls to guide text-to-image generation. |
 |[Loss Rider.](https://github.com/jndean/LossRider) | A fun utility that illustrates when loss functions converge and get too spiky by animating a curve rider sled as it descends them.|
 |[kyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama.](https://github.com/vaew/skyscript-100m) |The goal of the large dataset SkyScript-100M is to improve the production of excellent shooting scripts for short dramas. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices.](https://arxiv.org/abs/2408.10161v1) |This work presents a novel approach to optical flow estimation that delivers excellent accuracy at a large computational cost savings. |
+|[Torch-Pruning.](https://github.com/VainF/Torch-Pruning) |repository of cutting-edge techniques with numerous supported algorithms for language model pruning that is kept up to date. |
+|[Image, Tell me your story!.](https://github.com/ukplab/5pils) | A novel strategy for identifying visual misrepresentation has been presented by researchers, which emphasizes the importance of the original meta-context of images—a factor that automated approaches frequently ignore. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
