@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ideogram 2.0.](https://about.ideogram.ai/2.0) |A new model from Ideogram has better text rendering and image generating capabilities. |
 |[Introducing Zed AI.](https://zed.dev/blog/zed-ai) |With the help of a hosted service called Zed AI, developers may employ LLMs and yet have complete control over their code by integrating AI-powered coding into the Zed text editor. Zed and Anthropic have teamed to enable quick editing with Claude. |
 |[Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year.](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced) |Nvidia ACE, the company’s AI-powered system for giving voices and conversation skills to in-game characters, is set to debut in Mecha Break, a new multiplayer mech battle game coming to PC, Xbox X / S, and PlayStation 5 in 2025. |
-|[.]() | |
+|[These 'living computers' are made from human neurons — and you can rent one for $500 a month.](https://www.livescience.com/technology/artificial-intelligence/these-living-computers-are-made-from-human-neurons) | Using human-brain organoids into computing, FinalSpark's "Neuroplatform" provides a biocomputing platform that may be rented with the goal of lowering AI's energy consumption. Standardizing production and increasing the life of organoids beyond 100 days are challenges. Alternatives such as fungal networks and cellular computing are also investigated for jobs that are beyond the capabilities of silicon-based computers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pathology-LLaVA.](https://github.com/ddw2aigroup2cqupt/pa-llava) |Pathology image analysis is the target application for PA-LLaVA, a domain-specific language-vision assistant. |
 |[Microsoft's Phi-3 family.](https://github.com/microsoft/Phi-3CookBook/blob/c53fa9fda5df6a42476dd8ba5f1ccb446dd1608c/md/01.Introduce/Phi3Family.md) | A detailed analysis of the MoE and vision model from Microsoft's recently released Phi 3.5 models. |
 |[The Top 100 Gen AI Consumer Apps - 3rd Edition.](https://a16z.com/100-gen-ai-apps-3) |Based on customer interaction patterns, Andreessen Horowitz's most recent consumer AI research ranks the top 100 generative AI apps and divides them into the top 50 AI online products and the top 50 AI mobile apps. The research offers in-depth analyses of trends, new competitors in the sector, and developing categories. |
-|[.]() | |
+|[Eight basic rules for causal inference.](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
