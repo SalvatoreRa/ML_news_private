@@ -55,8 +55,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ShortCircuit: AlphaZero-Driven Circuit Design.](https://arxiv.org/abs/2408.09858) |AI-powered automation and optimization of chip design can lower costs while satisfying the need for more powerful chips. Using an Alpha Zero based approach, this method was tested on numerous circuits and produced small and effective designs with an 84.6% success rate. |
 |[Automated Design of Agentic Systems.](https://arxiv.org/abs/2408.08435) | This study examines the fragility of current agent systems and explores potential future directions for the design of learning systems. Programming languages are used by their creators as a testbed where unsupervised agent creation and execution are possible.|
 |[Loss of plasticity in deep continual learning.](https://www.nature.com/articles/s41586-024-07711-7) |The pervasive problem of artificial neural networks losing plasticity in continual-learning settings is demonstrated and a simple solution called the continual backpropagation algorithm is described to prevent this issue. |
-|[.]() | |
-|[.]() | |
+|[Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model.](https://arxiv.org/abs/2408.11039) |Incredible new model from Meta that performs diffusion and next token prediction on text and image interleaving. It performs comparably to earlier generation devices like Dalle 2 and Llama 2 in benchmark tests for text and graphics. |
+|[To Code, or Not To Code? Exploring Impact of Code in Pre-training.](https://arxiv.org/abs/2408.10914) |The industry keeps this to itself, although pretraining models on code aids in their generalization to other reasoning-intensive activities. This Cohere study investigates that issue in detail and demonstrates that code may be used as a foundational element of thinking in a variety of contexts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
