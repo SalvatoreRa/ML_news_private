@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Authors sue Anthropic for copyright infringement over AI training.](https://www.theguardian.com/technology/article/2024/aug/20/anthropic-ai-lawsuit-author) |Andrea Bartz, Charles Graeber and Kirk Wallace Johnson allege company misused work to teach chatbot Claude |
 |[Ideogram 2.0.](https://about.ideogram.ai/2.0) |A new model from Ideogram has better text rendering and image generating capabilities. |
 |[Introducing Zed AI.](https://zed.dev/blog/zed-ai) |With the help of a hosted service called Zed AI, developers may employ LLMs and yet have complete control over their code by integrating AI-powered coding into the Zed text editor. Zed and Anthropic have teamed to enable quick editing with Claude. |
-|[.]() | |
+|[Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year.](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced) |Nvidia ACE, the company’s AI-powered system for giving voices and conversation skills to in-game characters, is set to debut in Mecha Break, a new multiplayer mech battle game coming to PC, Xbox X / S, and PlayStation 5 in 2025. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
