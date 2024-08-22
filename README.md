@@ -157,6 +157,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Light bulbs have energy ratings — so why can’t AI chatbots?](https://www.nature.com/articles/d41586-024-02680-3) | The rising energy and environmental cost of the artificial-intelligence boom is fuelling concern. Green policy mechanisms that already exist offer a path towards a solution.|
 |[How the human brain creates cognitive maps of related concepts.](https://www.nature.com/articles/d41586-024-02433-2) | Neural activity in human brains rapidly restructures to reflect hidden relationships needed to adapt to a changing environment. Surprisingly, trial-and-error learning and verbal instruction induce similar changes.|
 |[Switching between tasks can cause AI to lose the ability to learn.](https://www.nature.com/articles/d41586-024-02525-z) |Artificial neural networks become incapable of mastering new skills when they learn them one after the other. Researchers have only scratched the surface of why this phenomenon occurs — and how it can be fixed. |
+|[Markov chains are funnier than LLMs.](https://emnudge.dev/blog/markov-chains-are-funny/) |This article explores LLM predictability and its limitations when it comes to producing humor. It makes the case that although LLMs are excellent at producing text that is appropriate for the context, their predictive nature renders them unsuitable for humorous writing, which depends on unexpectedness. |
+|[AI at Work Is Here. Now Comes the Hard Part.](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part) | In the last six months, the use of generative AI has almost doubled globally, with 75% of knowledge workers currently using it.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
