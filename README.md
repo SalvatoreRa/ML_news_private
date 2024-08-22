@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Video: $16,000 humanoid robot ready to leap into mass production.](https://newatlas.com/robotics/unitree-g1-humanoid-robot-mass-production/) |China's Unitree Robotics is a relatively recent entry in the general-purpose humanoid robot space, but its $16,000 G1 model is already proving itself to be quite the performer. So much so that the company has now revealed a version that's ready for mass production. |
 |[US mayoral candidate who pledged to govern by customized AI bot loses race.](https://www.theguardian.com/us-news/article/2024/aug/21/wyoming-cheyenne-ai-bot-mayor) |Victor Miller proposed customized ChatGPT bot to govern Cheyenne, Wyoming – but fared badly at the ballot box |
 |[Authors sue Anthropic for copyright infringement over AI training.](https://www.theguardian.com/technology/article/2024/aug/20/anthropic-ai-lawsuit-author) |Andrea Bartz, Charles Graeber and Kirk Wallace Johnson allege company misused work to teach chatbot Claude |
-|[.]() | |
-|[.]() | |
+|[Ideogram 2.0.](https://about.ideogram.ai/2.0) |A new model from Ideogram has better text rendering and image generating capabilities. |
+|[Introducing Zed AI.](https://zed.dev/blog/zed-ai) |With the help of a hosted service called Zed AI, developers may employ LLMs and yet have complete control over their code by integrating AI-powered coding into the Zed text editor. Zed and Anthropic have teamed to enable quick editing with Claude. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
