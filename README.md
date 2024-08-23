@@ -159,7 +159,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Switching between tasks can cause AI to lose the ability to learn.](https://www.nature.com/articles/d41586-024-02525-z) |Artificial neural networks become incapable of mastering new skills when they learn them one after the other. Researchers have only scratched the surface of why this phenomenon occurs — and how it can be fixed. |
 |[Markov chains are funnier than LLMs.](https://emnudge.dev/blog/markov-chains-are-funny/) |This article explores LLM predictability and its limitations when it comes to producing humor. It makes the case that although LLMs are excellent at producing text that is appropriate for the context, their predictive nature renders them unsuitable for humorous writing, which depends on unexpectedness. |
 |[AI at Work Is Here. Now Comes the Hard Part.](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part) | In the last six months, the use of generative AI has almost doubled globally, with 75% of knowledge workers currently using it.|
-|[.]() | |
+|[AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work.](https://www.alignmentforum.org/posts/79BPxvSsjzBkiSyTq/agi-safety-and-alignment-at-google-deepmind-a-summary-of) |This is a lengthy and comprehensive overview of the research that DeepMind is doing on AGI safety and alignment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
