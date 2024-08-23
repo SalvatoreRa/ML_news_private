@@ -131,8 +131,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Top 100 Gen AI Consumer Apps - 3rd Edition.](https://a16z.com/100-gen-ai-apps-3) |Based on customer interaction patterns, Andreessen Horowitz's most recent consumer AI research ranks the top 100 generative AI apps and divides them into the top 50 AI online products and the top 50 AI mobile apps. The research offers in-depth analyses of trends, new competitors in the sector, and developing categories. |
 |[Eight basic rules for causal inference.](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/) | This comprehensive blog article explains the relationship between causal mechanisms and observable correlations using R code simulations, causal graphs, and logic concepts to illustrate the seven basic laws of causal inference.|
 |[Jamba-1.5.](https://huggingface.co/collections/ai21labs/jamba-15-66c44befa474a917fcf55251) | AI21 has released new versions of its hybrid Transformer and State space model architecture.|
-|[.]() | |
-|[.]() | |
+|[biorecap: an R package for summarizing bioRxiv preprints with a local LLM.](https://arxiv.org/abs/2408.11707v1) | The recently released biorecap R package uses locally run big language models to fetch and summarize recent publications, assisting academics in managing the massive amount of bioRxiv preprints.|
+|[aurora.](https://github.com/microsoft/aurora) | Microsoft's high quality atmospheric prediction model, code, and checkpoints are available as open source.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
