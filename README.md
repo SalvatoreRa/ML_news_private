@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Zed AI.](https://zed.dev/blog/zed-ai) |With the help of a hosted service called Zed AI, developers may employ LLMs and yet have complete control over their code by integrating AI-powered coding into the Zed text editor. Zed and Anthropic have teamed to enable quick editing with Claude. |
 |[Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year.](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced) |Nvidia ACE, the company’s AI-powered system for giving voices and conversation skills to in-game characters, is set to debut in Mecha Break, a new multiplayer mech battle game coming to PC, Xbox X / S, and PlayStation 5 in 2025. |
 |[These 'living computers' are made from human neurons — and you can rent one for $500 a month.](https://www.livescience.com/technology/artificial-intelligence/these-living-computers-are-made-from-human-neurons) | Using human-brain organoids into computing, FinalSpark's "Neuroplatform" provides a biocomputing platform that may be rented with the goal of lowering AI's energy consumption. Standardizing production and increasing the life of organoids beyond 100 days are challenges. Alternatives such as fungal networks and cellular computing are also investigated for jobs that are beyond the capabilities of silicon-based computers.|
-|[.]() | |
+|[AI made of jelly ‘learns’ to play Pong — and improves with practice.](https://www.nature.com/articles/d41586-024-02704-y) |Inspired by neurons in a dish playing the classic video game, researchers show that synthetic hydrogels have a basic ‘memory’. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
