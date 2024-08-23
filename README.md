@@ -133,6 +133,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Jamba-1.5.](https://huggingface.co/collections/ai21labs/jamba-15-66c44befa474a917fcf55251) | AI21 has released new versions of its hybrid Transformer and State space model architecture.|
 |[biorecap: an R package for summarizing bioRxiv preprints with a local LLM.](https://arxiv.org/abs/2408.11707v1) | The recently released biorecap R package uses locally run big language models to fetch and summarize recent publications, assisting academics in managing the massive amount of bioRxiv preprints.|
 |[aurora.](https://github.com/microsoft/aurora) | Microsoft's high quality atmospheric prediction model, code, and checkpoints are available as open source.|
+|[NuSegDG.](https://github.com/xq141839/nusegdg) | A novel framework named NuSegDG has been created by researchers to improve the generalizability of nuclei segmentation in various medical pictures.|
+|[Pano2Room: Novel View Synthesis from a Single Indoor Panorama.](https://arxiv.org/abs/2408.11413v1) | Pano2Room is a novel technique that overcomes limitations in single-view 3D scene synthesis by reconstructing high-quality 3D indoor scenes from a single panoramic image.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
