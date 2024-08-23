@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cursor raises $60m.](https://www.cursor.com/blog/series-a) | Cursor raised a Series A to continue building its AI-powered coding IDE.|
 |[Perplexity AI plans to start running ads in fourth quarter as AI-assisted search gains popularity.](https://www.cnbc.com/2024/08/22/perplexity-ai-plans-to-start-running-search-ads-in-fourth-quarter.html) |The AI-assisted search startup Perplexity AI, which just raised $1 billion in funding, intends to launch adverts on its search app in Q4. |
 |[Pixel 9 phones: The Gemini AI stuff, reviewed.](https://arstechnica.com/gadgets/2024/08/pixel-9-phones-the-gemini-ai-stuff-reviewed/) |One of the main features of the Pixel 9 phones is Google's Gemini AI, which provides customers with a number of AI-powered features like task assistance, picture editing, and screenshot management. Its effectiveness as a full-fledged assistant is uneven, though, with sporadic hiccups and several Google Assistant functions that aren't completely incorporated. Notwithstanding these problems, Pixel users can benefit from intriguing features like document summarizing and creative photo "reimagining" tools. |
-|[.]() | |
-|[.]() | |
+|[AMD explains its AI PC strategy.](https://www.engadget.com/computing/amd-explains-its-ai-pc-strategy-123004804.html) | With its Ryzen AI 300 CPUs, AMD is pushing the AI PC industry forward by incorporating NPUs to improve AI-powered applications such as Microsoft's Recall.|
+|[Gemini in Gmail can now help polish up your drafts.](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish) | ‘Help me write’ can now polish your emails, in addition to being able to formalize them or shorten them.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
