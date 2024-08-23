@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[These 'living computers' are made from human neurons — and you can rent one for $500 a month.](https://www.livescience.com/technology/artificial-intelligence/these-living-computers-are-made-from-human-neurons) | Using human-brain organoids into computing, FinalSpark's "Neuroplatform" provides a biocomputing platform that may be rented with the goal of lowering AI's energy consumption. Standardizing production and increasing the life of organoids beyond 100 days are challenges. Alternatives such as fungal networks and cellular computing are also investigated for jobs that are beyond the capabilities of silicon-based computers.|
 |[AI made of jelly ‘learns’ to play Pong — and improves with practice.](https://www.nature.com/articles/d41586-024-02704-y) |Inspired by neurons in a dish playing the classic video game, researchers show that synthetic hydrogels have a basic ‘memory’. |
 |[Cursor raises $60m.](https://www.cursor.com/blog/series-a) | Cursor raised a Series A to continue building its AI-powered coding IDE.|
-|[.]() | |
-|[.]() | |
+|[Perplexity AI plans to start running ads in fourth quarter as AI-assisted search gains popularity.](https://www.cnbc.com/2024/08/22/perplexity-ai-plans-to-start-running-search-ads-in-fourth-quarter.html) |The AI-assisted search startup Perplexity AI, which just raised $1 billion in funding, intends to launch adverts on its search app in Q4. |
+|[Pixel 9 phones: The Gemini AI stuff, reviewed.](https://arstechnica.com/gadgets/2024/08/pixel-9-phones-the-gemini-ai-stuff-reviewed/) |One of the main features of the Pixel 9 phones is Google's Gemini AI, which provides customers with a number of AI-powered features like task assistance, picture editing, and screenshot management. Its effectiveness as a full-fledged assistant is uneven, though, with sporadic hiccups and several Google Assistant functions that aren't completely incorporated. Notwithstanding these problems, Pixel users can benefit from intriguing features like document summarizing and creative photo "reimagining" tools. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
