@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[aurora.](https://github.com/microsoft/aurora) | Microsoft's high quality atmospheric prediction model, code, and checkpoints are available as open source.|
 |[NuSegDG.](https://github.com/xq141839/nusegdg) | A novel framework named NuSegDG has been created by researchers to improve the generalizability of nuclei segmentation in various medical pictures.|
 |[Pano2Room: Novel View Synthesis from a Single Indoor Panorama.](https://arxiv.org/abs/2408.11413v1) | Pano2Room is a novel technique that overcomes limitations in single-view 3D scene synthesis by reconstructing high-quality 3D indoor scenes from a single panoramic image.|
-|[.]() | |
+|[Awesome Object-Centric Robotic Manipulation.](https://github.com/rayyoh/ocrm_survey) | This repository offers a thorough introduction to embodied learning, a promising robotic manipulation methodology that prioritizes perceptual feedback and physical interaction.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +166,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI at Work Is Here. Now Comes the Hard Part.](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part) | In the last six months, the use of generative AI has almost doubled globally, with 75% of knowledge workers currently using it.|
 |[AGI Safety and Alignment at Google DeepMind: A Summary of Recent Work.](https://www.alignmentforum.org/posts/79BPxvSsjzBkiSyTq/agi-safety-and-alignment-at-google-deepmind-a-summary-of) |This is a lengthy and comprehensive overview of the research that DeepMind is doing on AGI safety and alignment. |
 |[The newest weapon against mosquitoes: computer vision.](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) |Developments in computer vision are helping combat malaria by enabling applications such as VectorCam, which facilitates fast identification of mosquito species and data gathering. The Gates Foundation helped develop the app, which can identify species that transmit malaria and aid in improving disease control tactics. Innovative mosquito surveillance techniques are essential for the tactical use of pesticides and other mitigating actions. |
-|[.]() | |
+|[Fields that I reference when thinking about AI takeover prevention.](https://www.lesswrong.com/posts/xXXXkGGKorTNmcYdb/fields-that-i-reference-when-thinking-about-ai-takeover) |This article compares fields battling insider threats with AI control, offering ideas on developing and assessing strong AI safety measures. It emphasizes how much more control developers have over AIs than they do over people, but it also points out that, in contrast to humans, AI dishonesty can be endemic. AI control is different mainly because it is adversarial and doesn't involve complicated system interactions, even though it is influenced by different domains such as physical security and safety engineering. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
