@@ -129,8 +129,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pathology-LLaVA.](https://github.com/ddw2aigroup2cqupt/pa-llava) |Pathology image analysis is the target application for PA-LLaVA, a domain-specific language-vision assistant. |
 |[Microsoft's Phi-3 family.](https://github.com/microsoft/Phi-3CookBook/blob/c53fa9fda5df6a42476dd8ba5f1ccb446dd1608c/md/01.Introduce/Phi3Family.md) | A detailed analysis of the MoE and vision model from Microsoft's recently released Phi 3.5 models. |
 |[The Top 100 Gen AI Consumer Apps - 3rd Edition.](https://a16z.com/100-gen-ai-apps-3) |Based on customer interaction patterns, Andreessen Horowitz's most recent consumer AI research ranks the top 100 generative AI apps and divides them into the top 50 AI online products and the top 50 AI mobile apps. The research offers in-depth analyses of trends, new competitors in the sector, and developing categories. |
-|[Eight basic rules for causal inference.](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/) | |
-|[.]() | |
+|[Eight basic rules for causal inference.](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/) | This comprehensive blog article explains the relationship between causal mechanisms and observable correlations using R code simulations, causal graphs, and logic concepts to illustrate the seven basic laws of causal inference.|
+|[Jamba-1.5.](https://huggingface.co/collections/ai21labs/jamba-15-66c44befa474a917fcf55251) | AI21 has released new versions of its hybrid Transformer and State space model architecture.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
