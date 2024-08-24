@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AMD explains its AI PC strategy.](https://www.engadget.com/computing/amd-explains-its-ai-pc-strategy-123004804.html) | With its Ryzen AI 300 CPUs, AMD is pushing the AI PC industry forward by incorporating NPUs to improve AI-powered applications such as Microsoft's Recall.|
 |[Gemini in Gmail can now help polish up your drafts.](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish) | ‘Help me write’ can now polish your emails, in addition to being able to formalize them or shorten them.|
 |[Royal Society facing calls to expel Elon Musk amid concerns about conduct.](https://www.theguardian.com/technology/article/2024/aug/23/royal-society-facing-calls-to-expel-elon-musk-amid-concerns-about-conduct) |Some fellows fear tech billionaire could bring institution into disrepute with incendiary comments |
-|[.]() | |
+|[Apple Intelligence is coming. Here’s what it means for your iPhone.](https://www.theguardian.com/technology/article/2024/aug/24/apple-intelligence-iphone-ios-18-siri-chat-gpt-launch) |Apple is about to launch a ChatGPT-powered version of Siri as part of a suite of AI features in iOS 18. Will this change the way you use your phone – and how does it affect your privacy? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
