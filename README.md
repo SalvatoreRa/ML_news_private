@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pixel 9 phones: The Gemini AI stuff, reviewed.](https://arstechnica.com/gadgets/2024/08/pixel-9-phones-the-gemini-ai-stuff-reviewed/) |One of the main features of the Pixel 9 phones is Google's Gemini AI, which provides customers with a number of AI-powered features like task assistance, picture editing, and screenshot management. Its effectiveness as a full-fledged assistant is uneven, though, with sporadic hiccups and several Google Assistant functions that aren't completely incorporated. Notwithstanding these problems, Pixel users can benefit from intriguing features like document summarizing and creative photo "reimagining" tools. |
 |[AMD explains its AI PC strategy.](https://www.engadget.com/computing/amd-explains-its-ai-pc-strategy-123004804.html) | With its Ryzen AI 300 CPUs, AMD is pushing the AI PC industry forward by incorporating NPUs to improve AI-powered applications such as Microsoft's Recall.|
 |[Gemini in Gmail can now help polish up your drafts.](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish) | ‘Help me write’ can now polish your emails, in addition to being able to formalize them or shorten them.|
-|[.]() | |
+|[Royal Society facing calls to expel Elon Musk amid concerns about conduct.](https://www.theguardian.com/technology/article/2024/aug/23/royal-society-facing-calls-to-expel-elon-musk-amid-concerns-about-conduct) |Some fellows fear tech billionaire could bring institution into disrepute with incendiary comments |
 |[.]() | |
 |[.]() | |
 |[.]() | |
