@@ -57,12 +57,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Loss of plasticity in deep continual learning.](https://www.nature.com/articles/s41586-024-07711-7) |The pervasive problem of artificial neural networks losing plasticity in continual-learning settings is demonstrated and a simple solution called the continual backpropagation algorithm is described to prevent this issue. |
 |[Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model.](https://arxiv.org/abs/2408.11039) |Incredible new model from Meta that performs diffusion and next token prediction on text and image interleaving. It performs comparably to earlier generation devices like Dalle 2 and Llama 2 in benchmark tests for text and graphics. |
 |[To Code, or Not To Code? Exploring Impact of Code in Pre-training.](https://arxiv.org/abs/2408.10914) |The industry keeps this to itself, although pretraining models on code aids in their generalization to other reasoning-intensive activities. This Cohere study investigates that issue in detail and demonstrates that code may be used as a foundational element of thinking in a variety of contexts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -94,9 +88,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini in Gmail can now help polish up your drafts.](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish) | ‘Help me write’ can now polish your emails, in addition to being able to formalize them or shorten them.|
 |[Royal Society facing calls to expel Elon Musk amid concerns about conduct.](https://www.theguardian.com/technology/article/2024/aug/23/royal-society-facing-calls-to-expel-elon-musk-amid-concerns-about-conduct) |Some fellows fear tech billionaire could bring institution into disrepute with incendiary comments |
 |[Apple Intelligence is coming. Here’s what it means for your iPhone.](https://www.theguardian.com/technology/article/2024/aug/24/apple-intelligence-iphone-ios-18-siri-chat-gpt-launch) |Apple is about to launch a ChatGPT-powered version of Siri as part of a suite of AI features in iOS 18. Will this change the way you use your phone – and how does it affect your privacy? |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -136,14 +127,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NuSegDG.](https://github.com/xq141839/nusegdg) | A novel framework named NuSegDG has been created by researchers to improve the generalizability of nuclei segmentation in various medical pictures.|
 |[Pano2Room: Novel View Synthesis from a Single Indoor Panorama.](https://arxiv.org/abs/2408.11413v1) | Pano2Room is a novel technique that overcomes limitations in single-view 3D scene synthesis by reconstructing high-quality 3D indoor scenes from a single panoramic image.|
 |[Awesome Object-Centric Robotic Manipulation.](https://github.com/rayyoh/ocrm_survey) | This repository offers a thorough introduction to embodied learning, a promising robotic manipulation methodology that prioritizes perceptual feedback and physical interaction.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -168,12 +151,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The newest weapon against mosquitoes: computer vision.](https://www.gatesnotes.com/Computer-vision-is-helping-fight-malaria) |Developments in computer vision are helping combat malaria by enabling applications such as VectorCam, which facilitates fast identification of mosquito species and data gathering. The Gates Foundation helped develop the app, which can identify species that transmit malaria and aid in improving disease control tactics. Innovative mosquito surveillance techniques are essential for the tactical use of pesticides and other mitigating actions. |
 |[Fields that I reference when thinking about AI takeover prevention.](https://www.lesswrong.com/posts/xXXXkGGKorTNmcYdb/fields-that-i-reference-when-thinking-about-ai-takeover) |This article compares fields battling insider threats with AI control, offering ideas on developing and assessing strong AI safety measures. It emphasizes how much more control developers have over AIs than they do over people, but it also points out that, in contrast to humans, AI dishonesty can be endemic. AI control is different mainly because it is adversarial and doesn't involve complicated system interactions, even though it is influenced by different domains such as physical security and safety engineering. |
 |[‘Never summon a power you can’t control’: Yuval Noah Harari on how AI could threaten democracy and divide the world.](https://www.theguardian.com/technology/article/2024/aug/24/yuval-noah-harari-ai-book-extract-nexus) | Forget Hollywood depictions of gun-toting robots running wild in the streets – the reality of artificial intelligence is far more dangerous, warns the historian and author in an exclusive extract from his new book|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 12 - 18 August
 
