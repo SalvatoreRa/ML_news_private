@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AI analysed 1,500 policies to cut emissions. These ones worked.](https://www.nature.com/articles/d41586-024-02717-7) |Only 63 climate change interventions led to significant reductions in carbon emissions. |
-|[.]() | |
+|[AI cheating is overwhelming the education system – but teachers shouldn’t despair.](https://www.theguardian.com/commentisfree/article/2024/aug/24/ai-cheating-chat-gpt-openai-writing-essays-school-university) | With adjustments to the way we teach students to think about writing, we can shift the emphasis from product to process|
 |[.]() | |
 |[.]() | |
 |[.]() | |
