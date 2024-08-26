@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scientists to use AI to analyse 1.6m brain scans to develop tool predicting dementia risk.](https://www.theguardian.com/society/article/2024/aug/26/scientists-to-use-ai-to-analyse-brain-scans-to-develop-tool-predicting-dementia-risk) |Researchers will use artificial intelligence to match image data of patients from Scotland with linked health records |
 |[Microsoft releases powerful new Phi-3.5 models, beating Google, OpenAI and more.](https://venturebeat.com/ai/microsoft-releases-powerful-new-phi-3-5-models-beating-google-openai-and-more/) |Microsoft unveiled the Phi-3.5-mini-instruct, Phi-3.5-MoE-instruct, and Phi-3.5-vision-instruct, three new models in its Phi series that each achieve remarkable benchmark achievements while tackling distinct AI tasks. Developers can access these models on Hugging Face and they are offered as open source under the MIT License. The Phi models have outperformed rivals like GPT-4o and Llama in certain benchmarks, demonstrating near-state-of-the-art performance despite their smaller size than some of its contemporaries. |
 |[Data Exfiltration from Slack AI via indirect prompt injection.](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via) |It was found that there is a vulnerability in Slack AI that allows attackers to use indirect prompt injection to steal data from private channels they do not have access to. Through the use of public channel messages, attackers can coerce the LLM into disclosing sensitive data, like API keys, in response to queries. This problem continues, along with a phishing attack vector, even after Slack AI's update on August 14th, which added channel and DM files and greatly increased the surface area at risk for exploits of this kind. |
-|[.]() | |
+|[Bringing Llama 3 to life.](https://engineering.fb.com/2024/08/21/production-engineering/bringing-llama-3-to-life/) | Llama 3.1, an enhanced open-source LLM from Meta, adds new features like model distillation and the ability to generate synthetic data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,9 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Liger Kernel: Efficient Triton Kernels for LLM Training.](https://github.com/linkedin/Liger-Kernel) | Surprisingly, LinkedIn released the Liger Kernel, a productive set of kernels for training language models. For the widely used Llama models, it reduces memory utilization by about 60% and boosts throughput by 20%. It interacts with several common modeling frameworks and just takes three lines of code change, which is important for practitioners.|
 |[pgvectorscale.](https://github.com/timescale/pgvectorscale) | With better performance for embedding search and more affordable storage for AI applications, pgvectorscale expands upon pgvector. Compared to other popular and competitive vector retailers, it is about 28 times faster.|
 |[GenderCARE.](https://github.com/kstanghere/gendercare-ccs24) |A thorough framework called GenderCARE is designed to identify and lessen gender prejudices. It presents novel standards for assessing gender prejudice, with a focus on diversity, inclusivity, and impartiality. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes.](https://arxiv.org/abs/2408.12406v1) |A novel technique for more effectively fine-tuning the Segment Anything Model (SAM) with variable-size images is called Generalized SAM (GSAM). |
+|[google/siglip-so400m-patch14-224.](https://huggingface.co/google/siglip-so400m-patch14-224) | A new SigLIP model from Google leverages a vision transformer model architecture that is tuned for shape.|
+|[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting.](https://ganwanshui.github.io/GaussianOcc/) |Using surround views, GaussianOcc is an effective and entirely self-supervised approach for 3D occupancy estimate. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
