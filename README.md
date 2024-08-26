@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Automated Design of Agentic Systems.](https://arxiv.org/abs/2408.08435) | |
+|[LLM Pruning and Distillation in Practice: The Minitron Approach.](https://arxiv.org/abs/2408.11796) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
