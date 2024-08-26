@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Scientists to use AI to analyse 1.6m brain scans to develop tool predicting dementia risk.](https://www.theguardian.com/society/article/2024/aug/26/scientists-to-use-ai-to-analyse-brain-scans-to-develop-tool-predicting-dementia-risk) |Researchers will use artificial intelligence to match image data of patients from Scotland with linked health records |
-|[.]() | |
+|[Microsoft releases powerful new Phi-3.5 models, beating Google, OpenAI and more.](https://venturebeat.com/ai/microsoft-releases-powerful-new-phi-3-5-models-beating-google-openai-and-more/) |Microsoft unveiled the Phi-3.5-mini-instruct, Phi-3.5-MoE-instruct, and Phi-3.5-vision-instruct, three new models in its Phi series that each achieve remarkable benchmark achievements while tackling distinct AI tasks. Developers can access these models on Hugging Face and they are offered as open source under the MIT License. The Phi models have outperformed rivals like GPT-4o and Llama in certain benchmarks, demonstrating near-state-of-the-art performance despite their smaller size than some of its contemporaries. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,6 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI analysed 1,500 policies to cut emissions. These ones worked.](https://www.nature.com/articles/d41586-024-02717-7) |Only 63 climate change interventions led to significant reductions in carbon emissions. |
 |[AI cheating is overwhelming the education system – but teachers shouldn’t despair.](https://www.theguardian.com/commentisfree/article/2024/aug/24/ai-cheating-chat-gpt-openai-writing-essays-school-university) | With adjustments to the way we teach students to think about writing, we can shift the emphasis from product to process|
+|[What’s Really Going On in Machine Learning? Some Minimal Models.](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) |The inventor of Wolfram|Alpha, Stephen Wolfram, published a fantastic analysis of the various events occurring in machine learning models. He found a collection of dynamics pertaining to the non-linearities in basic neural networks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -162,7 +163,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
+
 
 
 # ML news: 19 - 25  August
