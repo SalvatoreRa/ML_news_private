@@ -109,10 +109,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Graph Retrieval-Augmented Generation: A Survey.](https://arxiv.org/abs/2408.08921) |focuses on methods used in the GraphRAG workflow (graph-guided retrieval, graph-based indexing, and graph-enhanced creation); explores GraphRAG's tasks, applications, assessment, and industrial use cases. |
 |[Controllable Text Generation for Large Language Models: A Survey.](https://arxiv.org/abs/2408.12599) | gives a thorough overview of controllable text generating techniques in LLMs; covers topics like as helpfulness, safety, consistency, and style.|
 |[Challenges and Responses in the Practice of Large Language Models.](https://arxiv.org/abs/2408.09416) | selects a number of significant questions and provides thoughtful answers; the questions are divided into groups according to themes including data, applications, infrastructure, software architecture, and brain science.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask.](https://arxiv.org/abs/2405.05959v1) | The first diffusion-based method for learning time series representations is called Time Series Diffusion Embedding, or TSDE. Time series data is divided into segments by TSDE, which then creates informative embeddings by using dual-orthogonal Transformer encoders with a crossover mechanism.|
+|[Liger Kernel: Efficient Triton Kernels for LLM Training.](https://github.com/linkedin/Liger-Kernel) | Surprisingly, LinkedIn released the Liger Kernel, a productive set of kernels for training language models. For the widely used Llama models, it reduces memory utilization by about 60% and boosts throughput by 20%. It interacts with several common modeling frameworks and just takes three lines of code change, which is important for practitioners.|
+|[pgvectorscale.](https://github.com/timescale/pgvectorscale) | With better performance for embedding search and more affordable storage for AI applications, pgvectorscale expands upon pgvector. Compared to other popular and competitive vector retailers, it is about 28 times faster.|
+|[GenderCARE.](https://github.com/kstanghere/gendercare-ccs24) |A thorough framework called GenderCARE is designed to identify and lessen gender prejudices. It presents novel standards for assessing gender prejudice, with a focus on diversity, inclusivity, and impartiality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
