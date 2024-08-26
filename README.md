@@ -45,7 +45,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Automated Design of Agentic Systems.](https://arxiv.org/abs/2408.08435) | declares that it is possible to learn any possible agentic system, including prompts, tool use, control flows, and more, using their approach. They accomplish this by concentrating on three main components, known as search space (define agents), search algorithm (explore search space), and the evaluation function (evaluate candidate agents). presents Meta Agent Search, a meta agent that iteratively programs and tests new agents based on a growing archive of previous discoveries. |
 |[LLM Pruning and Distillation in Practice: The Minitron Approach.](https://arxiv.org/abs/2408.11796) | presents pruning and distillation techniques applied to the original models to produce 4B and 8B parameter models, respectively. Prior to pruning, they also fine-tune the teacher model on their datasets leading to better distillation; their compression strategy yields a state-of-the-art 8B model (MN-Minitron-8B) which outperforms all similarly-sized models on common language modeling benchmarks. offers a thorough report on effective methods for compressing Llama 3.1 and Mistral NeMo models.|
 |[The Vizier Gaussian Process Bandit Algorithm.](https://arxiv.org/abs/2408.11527) |introduces Vizier, an open-source Python implementation of the Gaussian process bandit optimization technique, which is utilized by Google for millions of optimizations and research. It includes benchmarking data that show the algorithm's wider applicability. |
-|[.]() | |
+|[Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information.](https://arxiv.org/abs/2408.10615) |  proposes a two-stage prompting technique to remove irrelevant information from context; it serves as a self-mitigation process that first identifies the irrelevant information and then filters it out; this leads to enhancement in robustness of the model and overall better performance on reasoning tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution.](https://arxiv.org/abs/2408.10548) |includes topics like classification of tabular data structures and data types, datasets used for model training and evaluation, modeling techniques and training objectives, data processing methods, popular architectures, challenges and future research directions. It also provides a thorough survey of language modeling techniques for tabular data. |
-|[.]() | |
+|[Graph Retrieval-Augmented Generation: A Survey.](https://arxiv.org/abs/2408.08921) |focuses on methods used in the GraphRAG workflow (graph-guided retrieval, graph-based indexing, and graph-enhanced creation); explores GraphRAG's tasks, applications, assessment, and industrial use cases. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
