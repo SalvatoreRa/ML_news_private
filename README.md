@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[AI analysed 1,500 policies to cut emissions. These ones worked.](https://www.nature.com/articles/d41586-024-02717-7) |Only 63 climate change interventions led to significant reductions in carbon emissions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
