@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Scientists to use AI to analyse 1.6m brain scans to develop tool predicting dementia risk.](https://www.theguardian.com/society/article/2024/aug/26/scientists-to-use-ai-to-analyse-brain-scans-to-develop-tool-predicting-dementia-risk) |Researchers will use artificial intelligence to match image data of patients from Scotland with linked health records |
 |[.]() | |
 |[.]() | |
 |[.]() | |
