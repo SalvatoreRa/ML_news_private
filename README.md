@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Vizier Gaussian Process Bandit Algorithm.](https://arxiv.org/abs/2408.11527) |introduces Vizier, an open-source Python implementation of the Gaussian process bandit optimization technique, which is utilized by Google for millions of optimizations and research. It includes benchmarking data that show the algorithm's wider applicability. |
 |[Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information.](https://arxiv.org/abs/2408.10615) |  proposes a two-stage prompting technique to remove irrelevant information from context; it serves as a self-mitigation process that first identifies the irrelevant information and then filters it out; this leads to enhancement in robustness of the model and overall better performance on reasoning tasks.|
 |[MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding.](https://arxiv.org/abs/2408.11049) |demonstrates how speculative decoding can improve throughput, lower latency, and preserve accuracy in long context generation scenarios; it discovers that bottlenecks change from compute-bound to memory-bound as sequence length and batch size increase; with these realizations, they demonstrate that speculative decoding can be used more successfully for longer sequences, even when using large batch sizes.  |
-|[.]() | |
+|[PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars.](https://arxiv.org/abs/2408.08869) | employs a hybrid self-ensembling approach (based on diverse exemplars) to enhance LLM performance overall. Specifically, it generates multiple candidate responses using diverse exemplars and aggregates them using an LLM to produce a final response; this approach achieves lower cost compared to self-consistency approaches and better accuracy compared to greedy decoding.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution.](https://arxiv.org/abs/2408.10548) |includes topics like classification of tabular data structures and data types, datasets used for model training and evaluation, modeling techniques and training objectives, data processing methods, popular architectures, challenges and future research directions. It also provides a thorough survey of language modeling techniques for tabular data. |
 |[Graph Retrieval-Augmented Generation: A Survey.](https://arxiv.org/abs/2408.08921) |focuses on methods used in the GraphRAG workflow (graph-guided retrieval, graph-based indexing, and graph-enhanced creation); explores GraphRAG's tasks, applications, assessment, and industrial use cases. |
 |[Controllable Text Generation for Large Language Models: A Survey.](https://arxiv.org/abs/2408.12599) | gives a thorough overview of controllable text generating techniques in LLMs; covers topics like as helpfulness, safety, consistency, and style.|
-|[.]() | |
+|[Challenges and Responses in the Practice of Large Language Models.](https://arxiv.org/abs/2408.09416) | selects a number of significant questions and provides thoughtful answers; the questions are divided into groups according to themes including data, applications, infrastructure, software architecture, and brain science.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
