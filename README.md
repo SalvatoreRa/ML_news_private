@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Bringing Llama 3 to life.](https://engineering.fb.com/2024/08/21/production-engineering/bringing-llama-3-to-life/) | Llama 3.1, an enhanced open-source LLM from Meta, adds new features like model distillation and the ability to generate synthetic data.|
 |[Anthropic reveals system prompts for Claude.](https://docs.anthropic.com/en/release-notes/system-prompts) |Anthropic has updated all models' dates and included system prompts. |
 |[D-ID launches an AI video translation tool that includes voice cloning and lip sync.](https://techcrunch.com/2024/08/21/d-id-launches-an-ai-video-translation-tool-that-includes-voice-cloning-and-lip-sync/) |AI video creation platform D-ID is the latest company to ship a tool for translating videos into other languages using AI technologies. However, in this case, D-ID also clones the speaker’s voice and changes their lip movements to match the translated words as part of the AI editing process. |
-|[.]() | |
+|[Vyond Pushes AI Video's Enterprise Era.](https://www.vyond.com/blog/vyond-new-all-in-one-2024-release/) | Vyond is an AI platform for creating videos with an emphasis on enterprise use cases.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
