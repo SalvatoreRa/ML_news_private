@@ -116,9 +116,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes.](https://arxiv.org/abs/2408.12406v1) |A novel technique for more effectively fine-tuning the Segment Anything Model (SAM) with variable-size images is called Generalized SAM (GSAM). |
 |[google/siglip-so400m-patch14-224.](https://huggingface.co/google/siglip-so400m-patch14-224) | A new SigLIP model from Google leverages a vision transformer model architecture that is tuned for shape.|
 |[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting.](https://ganwanshui.github.io/GaussianOcc/) |Using surround views, GaussianOcc is an effective and entirely self-supervised approach for 3D occupancy estimate. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Infinite Dataset Hub.](https://huggingface.co/spaces/infinite-dataset-hub/infinite-dataset-hub) |This space, which is powered by phi-3-mini, generates data on any topic using a rarity prompt. It is intriguing and potent even though it isn't the most accurate. |
+|[Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models.](https://neural-assets-paper.github.io/) |By conditioning on individual object representations, neural networks are able to represent and manage 3D objects in 2D contexts. This work could be the key to untangling 3D objects. |
+|[T3M: Text Guided 3D Human Motion Synthesis from Speech.](https://arxiv.org/abs/2408.12885v1) |T3M is a brand-new technique that researchers have developed for producing 3D animations that are controlled by text inputs. T3M is a useful technology for virtual reality, gaming, and film creation because it enables more precise and customized animations than earlier methods that solely used voice. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
