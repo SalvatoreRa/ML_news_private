@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI analysed 1,500 policies to cut emissions. These ones worked.](https://www.nature.com/articles/d41586-024-02717-7) |Only 63 climate change interventions led to significant reductions in carbon emissions. |
 |[AI cheating is overwhelming the education system – but teachers shouldn’t despair.](https://www.theguardian.com/commentisfree/article/2024/aug/24/ai-cheating-chat-gpt-openai-writing-essays-school-university) | With adjustments to the way we teach students to think about writing, we can shift the emphasis from product to process|
 |[What’s Really Going On in Machine Learning? Some Minimal Models.](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/) |The inventor of Wolfram|Alpha, Stephen Wolfram, published a fantastic analysis of the various events occurring in machine learning models. He found a collection of dynamics pertaining to the non-linearities in basic neural networks. |
-|[.]() | |
+|[AI companies are pivoting from creating gods to building products. Good.](https://www.aisnakeoil.com/p/ai-companies-are-pivoting-from-creating) |AI firms are finding it difficult to match their products to the markets for LLMs, which has resulted in large investments but little profit. The five primary obstacles impeding the commercialization of AI products are price, dependability, security and safety concerns, privacy, and user interface constraints. It is imperative that these sociotechnical obstacles are resolved in order for AI to be widely integrated and used in consumer goods. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
