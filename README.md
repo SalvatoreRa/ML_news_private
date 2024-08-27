@@ -81,8 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic reveals system prompts for Claude.](https://docs.anthropic.com/en/release-notes/system-prompts) |Anthropic has updated all models' dates and included system prompts. |
 |[D-ID launches an AI video translation tool that includes voice cloning and lip sync.](https://techcrunch.com/2024/08/21/d-id-launches-an-ai-video-translation-tool-that-includes-voice-cloning-and-lip-sync/) |AI video creation platform D-ID is the latest company to ship a tool for translating videos into other languages using AI technologies. However, in this case, D-ID also clones the speaker’s voice and changes their lip movements to match the translated words as part of the AI editing process. |
 |[Vyond Pushes AI Video's Enterprise Era.](https://www.vyond.com/blog/vyond-new-all-in-one-2024-release/) | Vyond is an AI platform for creating videos with an emphasis on enterprise use cases.|
-|[.]() | |
-|[.]() | |
+|[Mark Zuckerberg says White House ‘pressured’ Facebook to censor Covid-19 content.](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content) | Meta boss regrets bowing to government power and says he would not make the same choices today|
+|[What the Telegram founder’s arrest means for the regulation of social media firms.](https://www.theguardian.com/technology/article/2024/aug/27/what-does-the-telegram-founders-arrest-mean-for-the-regulation-of-social-media-companies-pavel-durov) |Pavel Durov’s detention by French authorities is a major break from the norm – but his low-moderation, non-encrypted app is an anomaly |
 |[.]() | |
 |[.]() | |
 |[.]() | |
