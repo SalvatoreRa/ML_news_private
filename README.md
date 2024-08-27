@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Data Exfiltration from Slack AI via indirect prompt injection.](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via) |It was found that there is a vulnerability in Slack AI that allows attackers to use indirect prompt injection to steal data from private channels they do not have access to. Through the use of public channel messages, attackers can coerce the LLM into disclosing sensitive data, like API keys, in response to queries. This problem continues, along with a phishing attack vector, even after Slack AI's update on August 14th, which added channel and DM files and greatly increased the surface area at risk for exploits of this kind. |
 |[Bringing Llama 3 to life.](https://engineering.fb.com/2024/08/21/production-engineering/bringing-llama-3-to-life/) | Llama 3.1, an enhanced open-source LLM from Meta, adds new features like model distillation and the ability to generate synthetic data.|
 |[Anthropic reveals system prompts for Claude.](https://docs.anthropic.com/en/release-notes/system-prompts) |Anthropic has updated all models' dates and included system prompts. |
-|[.]() | |
+|[D-ID launches an AI video translation tool that includes voice cloning and lip sync.](https://techcrunch.com/2024/08/21/d-id-launches-an-ai-video-translation-tool-that-includes-voice-cloning-and-lip-sync/) |AI video creation platform D-ID is the latest company to ship a tool for translating videos into other languages using AI technologies. However, in this case, D-ID also clones the speaker’s voice and changes their lip movements to match the translated words as part of the AI editing process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
