@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[T3M: Text Guided 3D Human Motion Synthesis from Speech.](https://arxiv.org/abs/2408.12885v1) |T3M is a brand-new technique that researchers have developed for producing 3D animations that are controlled by text inputs. T3M is a useful technology for virtual reality, gaming, and film creation because it enables more precise and customized animations than earlier methods that solely used voice. |
 |[BiRefNet.](https://github.com/ZhengPeng7/BiRefNet) | Bireference segmentation with background removal at the cutting edge of technology.|
 |[RB-Modulation.](https://github.com/google/RB-Modulation/) | Google has developed a really innovative method for customizing diffusion models that works better than several widely used techniques. It may be used with PyTorch and, with some adjustments, Flux as well.|
-|[.]() | |
+|[FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing.](https://github.com/a-new-b/flex_edit) |With FlexEdit, you may precisely modify images based on language commands by combining free-shape masks with Vision Large Language Models (VLLMs). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
