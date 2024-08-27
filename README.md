@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BiRefNet.](https://github.com/ZhengPeng7/BiRefNet) | Bireference segmentation with background removal at the cutting edge of technology.|
 |[RB-Modulation.](https://github.com/google/RB-Modulation/) | Google has developed a really innovative method for customizing diffusion models that works better than several widely used techniques. It may be used with PyTorch and, with some adjustments, Flux as well.|
 |[FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing.](https://github.com/a-new-b/flex_edit) |With FlexEdit, you may precisely modify images based on language commands by combining free-shape masks with Vision Large Language Models (VLLMs). |
-|[.]() | |
+|[Quick Fine-tuning of Phi 3.5.](https://colab.research.google.com/drive/1lN6hPQveB_mHSnTOYifygFcrO8C1bxq4) | Quick fine-tuning script with Unsloth of the new Microsoft models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
