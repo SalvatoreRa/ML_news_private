@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Autonomous Driving with Spiking Neural Networks.](https://arxiv.org/abs/2405.19687v1) |The first unified Spiking Neural Network (SNN) designed to tackle the energy issues associated with autonomous driving is called Spiking Autonomous Driving (SAD). |
 |[Pre-training Small Base LMs with Fewer Tokens.](https://arxiv.org/abs/2404.08634v1) |By inheriting a few transformer blocks and training on a very small percentage (0.1%) of the initial data, Inheritune is a simplified technique for creating smaller base language models from larger ones. With just one A6000 GPU and this method, a 1.5B parameter model could be created in less than 30 minutes, with performance comparable to larger models trained on much greater amounts of data. |
 |[Teaching chat models to solve chess puzzles.](https://raw.sh/posts/chess_puzzles) |At 1800 elo on average, traditional base language models are rather competent chess players. Nevertheless, chat models frequently see a sharp decline in performance. This article explains how to use prompting and fine-tuning to teach conversation models, such as GPT-4o, to play chess. |
-|[.]() | |
+|[xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations.](https://www.arxiv.org/abs/2408.12590) | The text-to-video (T2V) model xGen-VideoSyn-1 from Salesforce creates lifelike scenes based on written descriptions. The model makes use of a diffusion transformer (DiT) for enhanced temporal consistency and generalization and a video variational autoencoder (VidVAE) for video data compression, which lowers processing requirements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
