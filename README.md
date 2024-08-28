@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Questions about the safety of Tesla’s ‘Full Self-Driving’ system are growing.](https://apnews.com/article/tesla-musk-self-driving-analyst-automated-traffic-a4cc507d36bd28b6428143fea80278ce) |Tesla has been accused of deceptive marketing over its self-driving technology, as a prominent analyst questions the safety and readiness of the system, potentially leading to increased scrutiny of automated driving claims. |
 |[Japan: AI-powered drones to monitor disaster zones and identify criminals.](https://interestingengineering.com/innovation/japan-ai-powered-drones-monitor-disaster-zones-criminals) |Drones move faster than police cars or guards, reaching incident site quickly and allowing for prompt action and response. |
 |[Artifacts are now generally available.](https://www.anthropic.com/news/artifacts) |Artifacts are now widely accessible, including on mobile devices, thanks to Anthropic. |
-|[.]() | |
-|[.]() | |
+|[Introducing Cerebras Inference.](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed) | Large unified memory is present in the chipset of Cerebras. It can therefore avoid problems with bandwidth and serve models at thousands of tokens per second.|
+|[OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall.](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/) |"Strawberry" is a new AI product that OpenAI intends to launch in the fall. It will be able to carry out complex jobs like creating marketing plans and will have advanced thinking abilities, such as the capacity to answer math problems that have never been seen before. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
