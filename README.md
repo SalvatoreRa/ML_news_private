@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[After a decade of free Alexa, Amazon now wants you to pay.](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/) | AI is a chance for companies to charge for products we’re in the habit of using for free.|
 |[AI for creating comics? Europe’s industry completely rejects it, Tintin executive says.](https://www.scmp.com/lifestyle/arts-culture/article/3268398/ai-creating-comics-europes-industry-completely-rejects-it-tintin-executive-says) |Tools such as Midjourney and Dall-E have triggered a fightback in comic land as publishers gear up for litigation ahead of new EU rules |
 |[Police officers are starting to use AI chatbots to write crime reports. Will they hold up in court?](https://apnews.com/article/ai-writes-police-reports-axon-body-cameras-chatgpt-a24d1502b53faae4be0dac069243f418#) | AI technology is being integrated into police work to automate the writing of reports from body camera footage.|
-|[.]() | |
+|[Questions about the safety of Tesla’s ‘Full Self-Driving’ system are growing.](https://apnews.com/article/tesla-musk-self-driving-analyst-automated-traffic-a4cc507d36bd28b6428143fea80278ce) |Tesla has been accused of deceptive marketing over its self-driving technology, as a prominent analyst questions the safety and readiness of the system, potentially leading to increased scrutiny of automated driving claims. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
