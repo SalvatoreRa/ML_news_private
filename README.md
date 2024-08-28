@@ -126,8 +126,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Announcing Higgs Llama V2.](https://boson.ai/higgs-v2/) |Higgs-Llama-3-70B-v2, a new model from Boson AI, performs exceptionally well on conversation and comprehension benchmarks such as Arena-Hard and AlpacaEval 2.0. Compared to Claude 3.5 Sonnet, the model increases day 1 retention by 5.3% and decreases response regeneration rates by 21.6%. Improved using an internal reward model called Higgs Judger, its performance is tied to that of Google's Gemini 1.5 Pro. |
 |[The Zyphra Training Cookbook.](https://www.zyphra.com/post/the-zyphra-training-cookbook) | Pre-training normal Transformers is not the same as pre-training hybrid (Mamba type) models. In order to get the desired performance, this post examines scaling various hyperparameters, data gathering, and other factors.|
 |[LlamaDuo.](https://github.com/deep-diver/llamaduo) | This is a system that optimizes small models to act as a backup in the event that closed API models become unavailable. It demonstrates a smooth transition from a large to a small model.|
-|[.]() | |
-|[.]() | |
+|[LitServe.](https://github.com/Lightning-AI/LitServe) |A flexible and user-friendly serving engine for AI models based on FastAPI is called LitServe. The need to rebuild a FastAPI server for each model is eliminated by features like batching, streaming, and GPU autoscaling. |
+|[IntelLabs/LlavaOLMoBitnet1B.](https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B) | Llava BitNet is the first ternary (-1, 0, 1) weight model trained on VLM tasks. The model, weights, and scripts are in the process of being fully open sourced. The technical report will be released soon and suggests the model has promising performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
