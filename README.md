@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mark Zuckerberg says White House ‘pressured’ Facebook to censor Covid-19 content.](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content) | Meta boss regrets bowing to government power and says he would not make the same choices today|
 |[What the Telegram founder’s arrest means for the regulation of social media firms.](https://www.theguardian.com/technology/article/2024/aug/27/what-does-the-telegram-founders-arrest-mean-for-the-regulation-of-social-media-companies-pavel-durov) |Pavel Durov’s detention by French authorities is a major break from the norm – but his low-moderation, non-encrypted app is an anomaly |
 |[Tesla Is Erasing Its Own History.](https://insideevs.com/news/731502/tesla-is-erasing-its-own-history/) | CEO Elon Musk’s original Tesla Motors Master Plan no longer exists on Tesla’s website.|
-|[.]() | |
+|[After a decade of free Alexa, Amazon now wants you to pay.](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/) | AI is a chance for companies to charge for products we’re in the habit of using for free.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[My friend, Claude.](https://trevorklee.substack.com/p/my-friend-claude) |Due to increased job obligations, this author relies on Anthropic's LLM Claude for technical writing, highlighting the expanding value of LLMs in professional settings. Claude's help has been cost-effective even though it required expert verification, and it highlights how quickly the landscape for specialty experts confronting AI-driven automation is changing. The author considers how knowledge work may change when AI technologies like Claude are more frequently used for everyday tasks. |
 |[AI firms must play fair when they use academic data in training.](https://www.nature.com/articles/d41586-024-02757-z) |Researchers are among those who feel uneasy about the unrestrained use of their intellectual property in training commercial large language models. Firms and regulators need to agree the rules of engagement. |
 |[Stakes high for European Union after arrest of Telegram co-founder.](https://www.theguardian.com/world/article/2024/aug/28/european-union-arrest-telegram-pavel-durov-law-analysis) |The charges against Pavel Durov increases pressure on Brussels to enforce new European law on the platform |
-|[.]() | |
+|[MIT neuroscientists discover neurons with distinct language processing timescales.](https://interestingengineering.com/health/mit-brain-clusters-temporal-window) |In language-processing areas of the brain, some cell populations respond to one word, while others respond to strings of words. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
