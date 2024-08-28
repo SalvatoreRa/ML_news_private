@@ -100,7 +100,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -146,7 +145,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MIT neuroscientists discover neurons with distinct language processing timescales.](https://interestingengineering.com/health/mit-brain-clusters-temporal-window) |In language-processing areas of the brain, some cell populations respond to one word, while others respond to strings of words. |
 |[How to Tell If What You're Reading Was Written By AI.](https://lifehacker.com/tech/how-to-tell-if-what-youre-reading-was-written-by-ai) | From the moment ChatGPT introduced the world to generative AI in late 2022, it was apparent that, going forward, you can no longer trust that something you're reading was written by a human.|
 |[California AI bill sparks debate in Silicon Valley as some tech giants call it a threat to innovation.](https://finance.yahoo.com/news/california-ai-bill-sparks-debate-in-silicon-valley-as-some-tech-giants-call-it-a-threat-to-innovation-214246503.html) | A first-of-its-kind AI bill is winding its way through California, causing infighting between groups of AI pioneers.|
-|[.]() | |
+|[Exodus at OpenAI: Nearly half of AGI safety staffers have left, says former researcher.](https://fortune.com/2024/08/26/openai-agi-safety-researchers-exodus/) |Nearly half the OpenAI staff that once focused on the long-term risks of superpowerful AI have left the company in the past several months, according to Daniel Kokotajlo, a former OpenAI governance researcher. |
+|[Technology may be advancing - but it’s making us more stupid.](https://www.telegraph.co.uk/business/2024/08/26/technology-may-be-advancing-but-its-making-us-more-stupid/) | ‘Deskilling’ in the face of cognitive automation is a problem that is too easily ignored|
 |[.]() | |
 |[.]() | |
 |[.]() | |
