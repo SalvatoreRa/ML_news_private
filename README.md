@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla Is Erasing Its Own History.](https://insideevs.com/news/731502/tesla-is-erasing-its-own-history/) | CEO Elon Musk’s original Tesla Motors Master Plan no longer exists on Tesla’s website.|
 |[After a decade of free Alexa, Amazon now wants you to pay.](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/) | AI is a chance for companies to charge for products we’re in the habit of using for free.|
 |[AI for creating comics? Europe’s industry completely rejects it, Tintin executive says.](https://www.scmp.com/lifestyle/arts-culture/article/3268398/ai-creating-comics-europes-industry-completely-rejects-it-tintin-executive-says) |Tools such as Midjourney and Dall-E have triggered a fightback in comic land as publishers gear up for litigation ahead of new EU rules |
-|[.]() | |
+|[Police officers are starting to use AI chatbots to write crime reports. Will they hold up in court?](https://apnews.com/article/ai-writes-police-reports-axon-body-cameras-chatgpt-a24d1502b53faae4be0dac069243f418#) | AI technology is being integrated into police work to automate the writing of reports from body camera footage.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
