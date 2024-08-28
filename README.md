@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Vyond Pushes AI Video's Enterprise Era.](https://www.vyond.com/blog/vyond-new-all-in-one-2024-release/) | Vyond is an AI platform for creating videos with an emphasis on enterprise use cases.|
 |[Mark Zuckerberg says White House ‘pressured’ Facebook to censor Covid-19 content.](https://www.theguardian.com/technology/article/2024/aug/27/mark-zuckerberg-says-white-house-pressured-facebook-to-censor-covid-19-content) | Meta boss regrets bowing to government power and says he would not make the same choices today|
 |[What the Telegram founder’s arrest means for the regulation of social media firms.](https://www.theguardian.com/technology/article/2024/aug/27/what-does-the-telegram-founders-arrest-mean-for-the-regulation-of-social-media-companies-pavel-durov) |Pavel Durov’s detention by French authorities is a major break from the norm – but his low-moderation, non-encrypted app is an anomaly |
-|[.]() | |
+|[Tesla Is Erasing Its Own History.](https://insideevs.com/news/731502/tesla-is-erasing-its-own-history/) | CEO Elon Musk’s original Tesla Motors Master Plan no longer exists on Tesla’s website.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
