@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What the Telegram founder’s arrest means for the regulation of social media firms.](https://www.theguardian.com/technology/article/2024/aug/27/what-does-the-telegram-founders-arrest-mean-for-the-regulation-of-social-media-companies-pavel-durov) |Pavel Durov’s detention by French authorities is a major break from the norm – but his low-moderation, non-encrypted app is an anomaly |
 |[Tesla Is Erasing Its Own History.](https://insideevs.com/news/731502/tesla-is-erasing-its-own-history/) | CEO Elon Musk’s original Tesla Motors Master Plan no longer exists on Tesla’s website.|
 |[After a decade of free Alexa, Amazon now wants you to pay.](https://www.washingtonpost.com/technology/2024/08/27/amazon-ai-alexa-new-subscription/) | AI is a chance for companies to charge for products we’re in the habit of using for free.|
-|[.]() | |
+|[AI for creating comics? Europe’s industry completely rejects it, Tintin executive says.](https://www.scmp.com/lifestyle/arts-culture/article/3268398/ai-creating-comics-europes-industry-completely-rejects-it-tintin-executive-says) |Tools such as Midjourney and Dall-E have triggered a fightback in comic land as publishers gear up for litigation ahead of new EU rules |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI firms must play fair when they use academic data in training.](https://www.nature.com/articles/d41586-024-02757-z) |Researchers are among those who feel uneasy about the unrestrained use of their intellectual property in training commercial large language models. Firms and regulators need to agree the rules of engagement. |
 |[Stakes high for European Union after arrest of Telegram co-founder.](https://www.theguardian.com/world/article/2024/aug/28/european-union-arrest-telegram-pavel-durov-law-analysis) |The charges against Pavel Durov increases pressure on Brussels to enforce new European law on the platform |
 |[MIT neuroscientists discover neurons with distinct language processing timescales.](https://interestingengineering.com/health/mit-brain-clusters-temporal-window) |In language-processing areas of the brain, some cell populations respond to one word, while others respond to strings of words. |
-|[.]() | |
+|[How to Tell If What You're Reading Was Written By AI.](https://lifehacker.com/tech/how-to-tell-if-what-youre-reading-was-written-by-ai) | From the moment ChatGPT introduced the world to generative AI in late 2022, it was apparent that, going forward, you can no longer trust that something you're reading was written by a human.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
