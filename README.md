@@ -125,7 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning.](https://arxiv.org/abs/2408.14158) |A paper detailing DeepSeek's hardware-software co-design approach for deep learning has been published. |
 |[Announcing Higgs Llama V2.](https://boson.ai/higgs-v2/) |Higgs-Llama-3-70B-v2, a new model from Boson AI, performs exceptionally well on conversation and comprehension benchmarks such as Arena-Hard and AlpacaEval 2.0. Compared to Claude 3.5 Sonnet, the model increases day 1 retention by 5.3% and decreases response regeneration rates by 21.6%. Improved using an internal reward model called Higgs Judger, its performance is tied to that of Google's Gemini 1.5 Pro. |
 |[The Zyphra Training Cookbook.](https://www.zyphra.com/post/the-zyphra-training-cookbook) | Pre-training normal Transformers is not the same as pre-training hybrid (Mamba type) models. In order to get the desired performance, this post examines scaling various hyperparameters, data gathering, and other factors.|
-|[.]() | |
+|[LlamaDuo.](https://github.com/deep-diver/llamaduo) | This is a system that optimizes small models to act as a backup in the event that closed API models become unavailable. It demonstrates a smooth transition from a large to a small model.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
