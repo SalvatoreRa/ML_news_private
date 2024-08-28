@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pre-training Small Base LMs with Fewer Tokens.](https://arxiv.org/abs/2404.08634v1) |By inheriting a few transformer blocks and training on a very small percentage (0.1%) of the initial data, Inheritune is a simplified technique for creating smaller base language models from larger ones. With just one A6000 GPU and this method, a 1.5B parameter model could be created in less than 30 minutes, with performance comparable to larger models trained on much greater amounts of data. |
 |[Teaching chat models to solve chess puzzles.](https://raw.sh/posts/chess_puzzles) |At 1800 elo on average, traditional base language models are rather competent chess players. Nevertheless, chat models frequently see a sharp decline in performance. This article explains how to use prompting and fine-tuning to teach conversation models, such as GPT-4o, to play chess. |
 |[xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations.](https://www.arxiv.org/abs/2408.12590) | The text-to-video (T2V) model xGen-VideoSyn-1 from Salesforce creates lifelike scenes based on written descriptions. The model makes use of a diffusion transformer (DiT) for enhanced temporal consistency and generalization and a video variational autoencoder (VidVAE) for video data compression, which lowers processing requirements.|
-|[.]() | |
+|[Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws.](https://arxiv.org/abs/2404.05405) |This work, which is the third in a series, examines scaling laws and the number of bits needed to store knowledge in a model. It appears that there are about two pieces of information for each parameter. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,6 +122,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RB-Modulation.](https://github.com/google/RB-Modulation/) | Google has developed a really innovative method for customizing diffusion models that works better than several widely used techniques. It may be used with PyTorch and, with some adjustments, Flux as well.|
 |[FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing.](https://github.com/a-new-b/flex_edit) |With FlexEdit, you may precisely modify images based on language commands by combining free-shape masks with Vision Large Language Models (VLLMs). |
 |[Quick Fine-tuning of Phi 3.5.](https://colab.research.google.com/drive/1lN6hPQveB_mHSnTOYifygFcrO8C1bxq4) | Quick fine-tuning script with Unsloth of the new Microsoft models.|
+|[Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning.](https://arxiv.org/abs/2408.14158) |A paper detailing DeepSeek's hardware-software co-design approach for deep learning has been published. |
+|[Announcing Higgs Llama V2.](https://boson.ai/higgs-v2/) |Higgs-Llama-3-70B-v2, a new model from Boson AI, performs exceptionally well on conversation and comprehension benchmarks such as Arena-Hard and AlpacaEval 2.0. Compared to Claude 3.5 Sonnet, the model increases day 1 retention by 5.3% and decreases response regeneration rates by 21.6%. Improved using an internal reward model called Higgs Judger, its performance is tied to that of Google's Gemini 1.5 Pro. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
