@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Police officers are starting to use AI chatbots to write crime reports. Will they hold up in court?](https://apnews.com/article/ai-writes-police-reports-axon-body-cameras-chatgpt-a24d1502b53faae4be0dac069243f418#) | AI technology is being integrated into police work to automate the writing of reports from body camera footage.|
 |[Questions about the safety of Tesla’s ‘Full Self-Driving’ system are growing.](https://apnews.com/article/tesla-musk-self-driving-analyst-automated-traffic-a4cc507d36bd28b6428143fea80278ce) |Tesla has been accused of deceptive marketing over its self-driving technology, as a prominent analyst questions the safety and readiness of the system, potentially leading to increased scrutiny of automated driving claims. |
 |[Japan: AI-powered drones to monitor disaster zones and identify criminals.](https://interestingengineering.com/innovation/japan-ai-powered-drones-monitor-disaster-zones-criminals) |Drones move faster than police cars or guards, reaching incident site quickly and allowing for prompt action and response. |
-|[.]() | |
+|[Artifacts are now generally available.](https://www.anthropic.com/news/artifacts) |Artifacts are now widely accessible, including on mobile devices, thanks to Anthropic. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
