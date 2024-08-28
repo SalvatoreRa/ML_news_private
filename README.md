@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Teaching chat models to solve chess puzzles.](https://raw.sh/posts/chess_puzzles) |At 1800 elo on average, traditional base language models are rather competent chess players. Nevertheless, chat models frequently see a sharp decline in performance. This article explains how to use prompting and fine-tuning to teach conversation models, such as GPT-4o, to play chess. |
 |[xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations.](https://www.arxiv.org/abs/2408.12590) | The text-to-video (T2V) model xGen-VideoSyn-1 from Salesforce creates lifelike scenes based on written descriptions. The model makes use of a diffusion transformer (DiT) for enhanced temporal consistency and generalization and a video variational autoencoder (VidVAE) for video data compression, which lowers processing requirements.|
 |[Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws.](https://arxiv.org/abs/2404.05405) |This work, which is the third in a series, examines scaling laws and the number of bits needed to store knowledge in a model. It appears that there are about two pieces of information for each parameter. |
-|[.]() | |
+|[Memory-Efficient LLM Training with Online Subspace Descent.](https://arxiv.org/abs/2408.12857v1) |Online Subspace Descent is a novel optimizer that increases memory efficiency to improve LLM training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artifacts are now generally available.](https://www.anthropic.com/news/artifacts) |Artifacts are now widely accessible, including on mobile devices, thanks to Anthropic. |
 |[Introducing Cerebras Inference.](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed) | Large unified memory is present in the chipset of Cerebras. It can therefore avoid problems with bandwidth and serve models at thousands of tokens per second.|
 |[OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall.](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/) |"Strawberry" is a new AI product that OpenAI intends to launch in the fall. It will be able to carry out complex jobs like creating marketing plans and will have advanced thinking abilities, such as the capacity to answer math problems that have never been seen before. |
-|[.]() | |
+|[This 1mm 'fan on a chip' could put active cooling inside ultra-thin gadgets.](https://www.engadget.com/mobile/this-1mm-fan-on-a-chip-could-put-active-cooling-inside-ultra-thin-gadgets-130014002.html) |The XMC-2400 µCooling chip, a 1mm-tall solid-state fan intended to cool down thin electronics such as smartphones, has been introduced by xMEMS. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,8 +128,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LlamaDuo.](https://github.com/deep-diver/llamaduo) | This is a system that optimizes small models to act as a backup in the event that closed API models become unavailable. It demonstrates a smooth transition from a large to a small model.|
 |[LitServe.](https://github.com/Lightning-AI/LitServe) |A flexible and user-friendly serving engine for AI models based on FastAPI is called LitServe. The need to rebuild a FastAPI server for each model is eliminated by features like batching, streaming, and GPU autoscaling. |
 |[IntelLabs/LlavaOLMoBitnet1B.](https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B) | Llava BitNet is the first ternary (-1, 0, 1) weight model trained on VLM tasks. The model, weights, and scripts are in the process of being fully open sourced. The technical report will be released soon and suggests the model has promising performance.|
-|[.]() | |
-|[.]() | |
+|[Qwen2-Audio.](https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6) |Qwen has released audio input style models that can reason about music, audio, and sound. |
+|[Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches.](https://xrvisionlabs.github.io/Sketch2Scene/) |This team developed an incredible model that generates fully playable 3D game scenarios from a single input sketch by sequentially using many models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[California AI bill sparks debate in Silicon Valley as some tech giants call it a threat to innovation.](https://finance.yahoo.com/news/california-ai-bill-sparks-debate-in-silicon-valley-as-some-tech-giants-call-it-a-threat-to-innovation-214246503.html) | A first-of-its-kind AI bill is winding its way through California, causing infighting between groups of AI pioneers.|
 |[Exodus at OpenAI: Nearly half of AGI safety staffers have left, says former researcher.](https://fortune.com/2024/08/26/openai-agi-safety-researchers-exodus/) |Nearly half the OpenAI staff that once focused on the long-term risks of superpowerful AI have left the company in the past several months, according to Daniel Kokotajlo, a former OpenAI governance researcher. |
 |[Technology may be advancing - but it’s making us more stupid.](https://www.telegraph.co.uk/business/2024/08/26/technology-may-be-advancing-but-its-making-us-more-stupid/) | ‘Deskilling’ in the face of cognitive automation is a problem that is too easily ignored|
-|[.]() | |
+|[Inference is FREE and INSTANT.](https://fume.substack.com/p/inference-is-free-and-instant) |Large language models (LLMs) may not be much better at reasoning, but they will be more helpful for repeated jobs due to their rising speeds and falling prices. These models may not have genuine understanding, yet they are nonetheless capable of handling simple tasks effectively. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
