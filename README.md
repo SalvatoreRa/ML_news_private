@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia rides big tech’s AI investment to beat Wall Street’s sky-high expectations.](https://www.theguardian.com/technology/article/2024/aug/28/nvidia-nvda-q2-earnings-report) |Chipmaker, third most valuable company in world, records $30.04bn in revenue, showing AI demand continues to rise |
 |[AI makes racist decisions based on dialect.](https://www.science.org/content/article/ai-makes-racist-decisions-based-dialect) | Large language models strongly associated negative stereotypes with African American English|
 |[Lawmakers call for crackdown on AI deepfakes after Grok backlash.](https://thehill.com/policy/technology/4850752-lawmakers-crackdown-ai-deepfakes-grok-backlash/) | A group of Democratic lawmakers are pushing the Federal Election Commission (FEC) to increase regulation on artificial intelligence (AI) deepfakes following the release of the social platform X’s chatbot Grok.|
-|[.]() | |
+|[Midjourney says it’s ‘getting into hardware’.](https://techcrunch.com/2024/08/28/midjourney-says-its-getting-into-hardware/) |Midjourney, the AI image-generating platform that’s reportedly raking in more than $200 million in revenue without any VC investment, is getting into hardware. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
