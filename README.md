@@ -53,9 +53,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Teaching chat models to solve chess puzzles.](https://raw.sh/posts/chess_puzzles) |At 1800 elo on average, traditional base language models are rather competent chess players. Nevertheless, chat models frequently see a sharp decline in performance. This article explains how to use prompting and fine-tuning to teach conversation models, such as GPT-4o, to play chess. |
 |[xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations.](https://www.arxiv.org/abs/2408.12590) | The text-to-video (T2V) model xGen-VideoSyn-1 from Salesforce creates lifelike scenes based on written descriptions. The model makes use of a diffusion transformer (DiT) for enhanced temporal consistency and generalization and a video variational autoencoder (VidVAE) for video data compression, which lowers processing requirements.|
 |[Memory-Efficient LLM Training with Online Subspace Descent.](https://arxiv.org/abs/2408.12857v1) |Online Subspace Descent is a novel optimizer that increases memory efficiency to improve LLM training.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Generative Verifiers: Reward Modeling as Next-Token Prediction.](https://arxiv.org/abs/2408.15240) |Typically, reward models are taught to be discriminative classifiers. The reward signal in this DeepMind experiment is the yes/no logits of a language model. It was discovered that enabling a model to incorporate ensembling and CoT increased performance by sixteen percent. |
+|[Multilingual Arbitrage: Optimizing Data Pools to Accelerate Multilingual Progress.](https://arxiv.org/abs/2408.14960) |By using the discrepancy between routing synthetic data creation and oracle model performance, Cohere's Aya model was able to significantly increase its win rate in comparison to baseline models. |
+|[Text2SQL is Not Enough: Unifying AI and Databases with TAG.](https://arxiv.org/abs/2408.14717v1) | A novel paradigm called Table-Augmented Generation answers complex natural language queries by fusing databases and language models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
