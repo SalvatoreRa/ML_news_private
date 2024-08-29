@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI makes racist decisions based on dialect.](https://www.science.org/content/article/ai-makes-racist-decisions-based-dialect) | Large language models strongly associated negative stereotypes with African American English|
 |[Lawmakers call for crackdown on AI deepfakes after Grok backlash.](https://thehill.com/policy/technology/4850752-lawmakers-crackdown-ai-deepfakes-grok-backlash/) | A group of Democratic lawmakers are pushing the Federal Election Commission (FEC) to increase regulation on artificial intelligence (AI) deepfakes following the release of the social platform X’s chatbot Grok.|
 |[Midjourney says it’s ‘getting into hardware’.](https://techcrunch.com/2024/08/28/midjourney-says-its-getting-into-hardware/) |Midjourney, the AI image-generating platform that’s reportedly raking in more than $200 million in revenue without any VC investment, is getting into hardware. |
-|[.]() | |
-|[.]() | |
+|[Google rolling out Gems and Imagen 3, with people generation, to Gemini Advanced.](https://9to5google.com/2024/08/28/gemini-advanced-gems-imagen-3/) | Gems are “custom versions of Gemini” that you can create to “act as an expert on topics or refine them toward your specific goals.” They can “remember a detailed set of instructions to help you save time on tedious, repetitive or difficult tasks.”|
+|[OpenAI in Talks for Funding Round Valuing It Above $100 Billion.](https://www.msn.com/en-us/money/technology/openai-in-talks-for-funding-round-valuing-it-above-100-billion/ar-AA1pBesH) | With Microsoft anticipated to take part, OpenAI is in talks to raise several billion dollars in a fresh investment round headed by Thrive Capital, which would value the business over $100 billion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
