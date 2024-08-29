@@ -162,7 +162,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inference is FREE and INSTANT.](https://fume.substack.com/p/inference-is-free-and-instant) |Large language models (LLMs) may not be much better at reasoning, but they will be more helpful for repeated jobs due to their rising speeds and falling prices. These models may not have genuine understanding, yet they are nonetheless capable of handling simple tasks effectively. |
 |[UK’s new science minister on budget battles, Brexit and AI leadership.](https://www.nature.com/articles/d41586-024-02628-7) | Former clinical scientist Patrick Vallance speaks to Nature about his priorities as the minister overseeing the nation’s research.|
 |[Urgently clarify how AI can be used in medicine under new EU law.](https://www.nature.com/articles/d41586-024-02753-3) |The European Union’s Artificial Intelligence Act entered into force on 1 August. Phased implementation begins in February 2025, banning artificial intelligence (AI) systems deemed to pose unacceptable risks. Before that happens, policymakers must do more to ensure that patients’ safety and interests are protected. |
-|[.]() | |
+|[How to harness AI’s potential in research — responsibly and ethically.](https://www.nature.com/articles/d41586-024-02762-2) |Artificial intelligence is propelling advances in all areas of science. But vigilance is needed, warn four researchers at the leading edge. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
