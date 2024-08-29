@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall.](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/) |"Strawberry" is a new AI product that OpenAI intends to launch in the fall. It will be able to carry out complex jobs like creating marketing plans and will have advanced thinking abilities, such as the capacity to answer math problems that have never been seen before. |
 |[This 1mm 'fan on a chip' could put active cooling inside ultra-thin gadgets.](https://www.engadget.com/mobile/this-1mm-fan-on-a-chip-could-put-active-cooling-inside-ultra-thin-gadgets-130014002.html) |The XMC-2400 µCooling chip, a 1mm-tall solid-state fan intended to cool down thin electronics such as smartphones, has been introduced by xMEMS. |
 |[Nvidia rides big tech’s AI investment to beat Wall Street’s sky-high expectations.](https://www.theguardian.com/technology/article/2024/aug/28/nvidia-nvda-q2-earnings-report) |Chipmaker, third most valuable company in world, records $30.04bn in revenue, showing AI demand continues to rise |
-|[.]() | |
-|[.]() | |
+|[AI makes racist decisions based on dialect.](https://www.science.org/content/article/ai-makes-racist-decisions-based-dialect) | Large language models strongly associated negative stereotypes with African American English|
+|[Lawmakers call for crackdown on AI deepfakes after Grok backlash.](https://thehill.com/policy/technology/4850752-lawmakers-crackdown-ai-deepfakes-grok-backlash/) | A group of Democratic lawmakers are pushing the Federal Election Commission (FEC) to increase regulation on artificial intelligence (AI) deepfakes following the release of the social platform X’s chatbot Grok.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
