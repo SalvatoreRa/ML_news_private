@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OctFusion: Octree-based Diffusion Models for 3D Shape Generation.](https://github.com/octree-nn/octfusion) |OctFusion is an efficient and high-quality method for using diffusion models to generate 3D objects. In about 2.5 seconds, it can generate 3D shapes at any resolution using a single Nvidia 4090 GPU. |
 |[MambaInLlama.](https://github.com/jxiw/mambainllama) |By reusing weights from attention layers, researchers have shown that massive Transformer models can be reduced to more deployable linear RNNs. |
 |[Cross-Modal Temporal Alignment for Event-guided Video Deblurring.](https://arxiv.org/abs/2408.14930v1) |By incorporating an event camera—which records motion with microsecond temporal resolution—researchers have created a novel method for video deblurring that improves the quality of motion-blurred footage. |
-|[.]() | |
+|[JoyCaption Pre-Alpha.](https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha) | An open-source VLM created especially for upcaptioning images.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
