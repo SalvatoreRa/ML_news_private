@@ -98,6 +98,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Midjourney says it’s ‘getting into hardware’.](https://techcrunch.com/2024/08/28/midjourney-says-its-getting-into-hardware/) |Midjourney, the AI image-generating platform that’s reportedly raking in more than $200 million in revenue without any VC investment, is getting into hardware. |
 |[Google rolling out Gems and Imagen 3, with people generation, to Gemini Advanced.](https://9to5google.com/2024/08/28/gemini-advanced-gems-imagen-3/) | Gems are “custom versions of Gemini” that you can create to “act as an expert on topics or refine them toward your specific goals.” They can “remember a detailed set of instructions to help you save time on tedious, repetitive or difficult tasks.”|
 |[OpenAI in Talks for Funding Round Valuing It Above $100 Billion.](https://www.msn.com/en-us/money/technology/openai-in-talks-for-funding-round-valuing-it-above-100-billion/ar-AA1pBesH) | With Microsoft anticipated to take part, OpenAI is in talks to raise several billion dollars in a fresh investment round headed by Thrive Capital, which would value the business over $100 billion.|
+|[How to harness AI’s potential in research — responsibly and ethically.](https://www.nature.com/articles/d41586-024-02762-2) |Artificial intelligence is propelling advances in all areas of science. But vigilance is needed, warn four researchers at the leading edge. |
+|[The On‑Device Intelligence Update.](https://cartesia.ai/blog/2024-08-27-on-device) |Cartesian has released several updates to their models and systems. Additionally, an open hybrid State space model has been released. |
+|[Stephen Wolfram thinks we need philosophers working on big questions around AI.](https://techcrunch.com/2024/08/25/stephen-wolfram-thinks-we-need-philosophers-working-on-big-questions-around-ai/) | |
+|[The top AI deals in Europe this year.](https://techcrunch.com/2024/08/24/the-top-ai-deals-in-europe-this-year/) | Despite general headwinds for startups, AI ventures continue to secure substantial funding. U.S. AI startups have achieved nearly 30 deals over $100M in 2024, with Europe not far behind. Major investments include WAYVE ($1B), Mistral AI (~$1B), Helsing ($484M), Poolside ($400M), DeepL ($320M), H ($220M), and Flo Health ($200M).|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -172,8 +181,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inference is FREE and INSTANT.](https://fume.substack.com/p/inference-is-free-and-instant) |Large language models (LLMs) may not be much better at reasoning, but they will be more helpful for repeated jobs due to their rising speeds and falling prices. These models may not have genuine understanding, yet they are nonetheless capable of handling simple tasks effectively. |
 |[UK’s new science minister on budget battles, Brexit and AI leadership.](https://www.nature.com/articles/d41586-024-02628-7) | Former clinical scientist Patrick Vallance speaks to Nature about his priorities as the minister overseeing the nation’s research.|
 |[Urgently clarify how AI can be used in medicine under new EU law.](https://www.nature.com/articles/d41586-024-02753-3) |The European Union’s Artificial Intelligence Act entered into force on 1 August. Phased implementation begins in February 2025, banning artificial intelligence (AI) systems deemed to pose unacceptable risks. Before that happens, policymakers must do more to ensure that patients’ safety and interests are protected. |
-|[How to harness AI’s potential in research — responsibly and ethically.](https://www.nature.com/articles/d41586-024-02762-2) |Artificial intelligence is propelling advances in all areas of science. But vigilance is needed, warn four researchers at the leading edge. |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
