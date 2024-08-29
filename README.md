@@ -52,7 +52,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pre-training Small Base LMs with Fewer Tokens.](https://arxiv.org/abs/2404.08634v1) |By inheriting a few transformer blocks and training on a very small percentage (0.1%) of the initial data, Inheritune is a simplified technique for creating smaller base language models from larger ones. With just one A6000 GPU and this method, a 1.5B parameter model could be created in less than 30 minutes, with performance comparable to larger models trained on much greater amounts of data. |
 |[Teaching chat models to solve chess puzzles.](https://raw.sh/posts/chess_puzzles) |At 1800 elo on average, traditional base language models are rather competent chess players. Nevertheless, chat models frequently see a sharp decline in performance. This article explains how to use prompting and fine-tuning to teach conversation models, such as GPT-4o, to play chess. |
 |[xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations.](https://www.arxiv.org/abs/2408.12590) | The text-to-video (T2V) model xGen-VideoSyn-1 from Salesforce creates lifelike scenes based on written descriptions. The model makes use of a diffusion transformer (DiT) for enhanced temporal consistency and generalization and a video variational autoencoder (VidVAE) for video data compression, which lowers processing requirements.|
-|[Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws.](https://arxiv.org/abs/2404.05405) |This work, which is the third in a series, examines scaling laws and the number of bits needed to store knowledge in a model. It appears that there are about two pieces of information for each parameter. |
 |[Memory-Efficient LLM Training with Online Subspace Descent.](https://arxiv.org/abs/2408.12857v1) |Online Subspace Descent is a novel optimizer that increases memory efficiency to improve LLM training.|
 |[.]() | |
 |[.]() | |
@@ -93,6 +92,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Cerebras Inference.](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed) | Large unified memory is present in the chipset of Cerebras. It can therefore avoid problems with bandwidth and serve models at thousands of tokens per second.|
 |[OpenAI Aims to Release New AI Model, ‘Strawberry,’ in Fall.](https://www.pymnts.com/news/artificial-intelligence/2024/openai-aims-release-new-ai-model-strawberry-fall/) |"Strawberry" is a new AI product that OpenAI intends to launch in the fall. It will be able to carry out complex jobs like creating marketing plans and will have advanced thinking abilities, such as the capacity to answer math problems that have never been seen before. |
 |[This 1mm 'fan on a chip' could put active cooling inside ultra-thin gadgets.](https://www.engadget.com/mobile/this-1mm-fan-on-a-chip-could-put-active-cooling-inside-ultra-thin-gadgets-130014002.html) |The XMC-2400 µCooling chip, a 1mm-tall solid-state fan intended to cool down thin electronics such as smartphones, has been introduced by xMEMS. |
+|[Nvidia rides big tech’s AI investment to beat Wall Street’s sky-high expectations.](https://www.theguardian.com/technology/article/2024/aug/28/nvidia-nvda-q2-earnings-report) |Chipmaker, third most valuable company in world, records $30.04bn in revenue, showing AI demand continues to rise |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
