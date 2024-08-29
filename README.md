@@ -135,6 +135,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[IntelLabs/LlavaOLMoBitnet1B.](https://huggingface.co/IntelLabs/LlavaOLMoBitnet1B) | Llava BitNet is the first ternary (-1, 0, 1) weight model trained on VLM tasks. The model, weights, and scripts are in the process of being fully open sourced. The technical report will be released soon and suggests the model has promising performance.|
 |[Qwen2-Audio.](https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6) |Qwen has released audio input style models that can reason about music, audio, and sound. |
 |[Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches.](https://xrvisionlabs.github.io/Sketch2Scene/) |This team developed an incredible model that generates fully playable 3D game scenarios from a single input sketch by sequentially using many models. |
+|[OctFusion: Octree-based Diffusion Models for 3D Shape Generation.](https://github.com/octree-nn/octfusion) |OctFusion is an efficient and high-quality method for using diffusion models to generate 3D objects. In about 2.5 seconds, it can generate 3D shapes at any resolution using a single Nvidia 4090 GPU. |
+|[MambaInLlama.](https://github.com/jxiw/mambainllama) |By reusing weights from attention layers, researchers have shown that massive Transformer models can be reduced to more deployable linear RNNs. |
+|[Cross-Modal Temporal Alignment for Event-guided Video Deblurring.](https://arxiv.org/abs/2408.14930v1) |By incorporating an event camera—which records motion with microsecond temporal resolution—researchers have created a novel method for video deblurring that improves the quality of motion-blurred footage. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
