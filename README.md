@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[100M Token Context Windows.](https://magic.dev/blog/100m-token-context-windows) | It isn't a typo, yes. 100 million tokens for agent programming and reasoning in context. Additionally, Magic Dev disclosed a collaboration to construct two new supercomputers on Google Cloud. This is a result of a recent $320 million fundraising effort to quicken the company's product development.|
 |[OpenAI and Anthropic will share their models with the US government.](https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute) |The companies will grant the AI Safety Institute access to major new models for safety testing. |
 |[California legislature passes controversial “kill switch” AI safety bill.](https://arstechnica.com/ai/2024/08/as-contentious-california-ai-safety-bill-passes-critics-push-governor-for-veto/) | After passing the State Assembly, California's contentious AI safety bill, SB-1047, is now one step closer to being signed into law by Governor Gavin Newsom. By September 30, Newsom must determine whether or not to sign it into law.|
-|[.]() | |
+|[OpenAI says ChatGPT usage has doubled since last year.](https://www.axios.com/2024/08/29/openai-chatgpt-200-million-weekly-active-users) |OpenAI reported that 92% of Fortune 500 firms utilize ChatGPT, and that the platform has over 200 million weekly active users—a tripling of its user base from a year ago. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
