@@ -56,9 +56,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generative Verifiers: Reward Modeling as Next-Token Prediction.](https://arxiv.org/abs/2408.15240) |Typically, reward models are taught to be discriminative classifiers. The reward signal in this DeepMind experiment is the yes/no logits of a language model. It was discovered that enabling a model to incorporate ensembling and CoT increased performance by sixteen percent. |
 |[Multilingual Arbitrage: Optimizing Data Pools to Accelerate Multilingual Progress.](https://arxiv.org/abs/2408.14960) |By using the discrepancy between routing synthetic data creation and oracle model performance, Cohere's Aya model was able to significantly increase its win rate in comparison to baseline models. |
 |[Text2SQL is Not Enough: Unifying AI and Databases with TAG.](https://arxiv.org/abs/2408.14717v1) | A novel paradigm called Table-Augmented Generation answers complex natural language queries by fusing databases and language models.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[The Mamba in the Llama: Distilling and Accelerating Hybrid Models.](https://arxiv.org/abs//2408.15237) |Because mamma models do not include a KV cache for backtracking, they are difficult to accelerate with speculative decoding. This document presents several new distillation techniques and acceleration algorithms from some of the original authors. |
+|[Efficient LLM Scheduling by Learning to Rank.](https://arxiv.org/abs/2408.15792) | Head of line bottlenecks occur when delivering multiple concurrent requests to a large language model since we don't know how long output generation will take. The shortest requests can be served first if you can learn to rank the relative lengths between them, which will increase throughput for multi-batch generation by 6.5 times.|
+|[MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders.](https://arxiv.org/abs/2408.15101v1) |A new model architecture called MTMamba++ aims to improve multi-task scene understanding. This method captures long-range dependencies and enhances cross-task interactions using a Mamba-based decoder with two core blocks: STM and CTM. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
