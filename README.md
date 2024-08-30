@@ -152,9 +152,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy.](https://blogs.nvidia.com/blog/mistral-nemo-minitron-8b-small-language-model/) |Mistral-NeMo-Minitron 8B is a miniaturized version of the recently released Mistral NeMo 12B model, delivering high accuracy combined with the compute efficiency to run the model across GPU-accelerated data centers, clouds and workstations. |
 |[NousResearch/hermes-function-calling-v1.](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1) |Excellent publicly available dataset from Nous Research to train call function models. |
 |[Qwen2-VL: To See the World More Clearly.](https://qwenlm.github.io/blog/qwen2-vl/) |Qwen2-VL is the latest version of the vision language models based on Qwen2 in the Qwen model familities |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images.](https://cuiziteng.github.io/RAW_Adapter_web/) |A novel method called RAW-Adapter modifies pre-trained sRGB models so they can efficiently handle RAW data from cameras. |
+|[Llama usage double May through July.](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/) | Meta has published some usage statistics for the Llama model. It discovered that there was a high demand for its models being used in business environments.|
+|[SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images.](https://arxiv.org/abs/2408.15224v1) |In order to expedite the annotation of 3D medical pictures, this study modified the Segment Anything Model 2 (SAM 2), which was initially created for video annotation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
