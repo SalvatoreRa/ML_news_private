@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia shares fall on slowing growth and production concerns.](https://www.theguardian.com/technology/article/2024/aug/29/nvidia-shares-fall-after-investors-spooked-by-slowing-growth-delays-next-generation-ai-chips) | Doubling of quarterly revenues to £23bn fails to allay worry about delays to next generation of AI chips|
 |[X’s AI tool Grok lacks effective guardrails preventing election disinformation, new study finds.](https://www.independent.co.uk/tech/grok-ai-elon-musk-x-election-harris-trump-b2603457.html) |The Center for Countering Digital Hate (CCDH) found that Grok was able to churn out ‘convincing’ AI fake images including one of Vice President Kamala Harris doing drugs and another of former president Donald Trump looking sick in bed |
 |[100M Token Context Windows.](https://magic.dev/blog/100m-token-context-windows) | It isn't a typo, yes. 100 million tokens for agent programming and reasoning in context. Additionally, Magic Dev disclosed a collaboration to construct two new supercomputers on Google Cloud. This is a result of a recent $320 million fundraising effort to quicken the company's product development.|
-|[.]() | |
-|[.]() | |
+|[OpenAI and Anthropic will share their models with the US government.](https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute) |The companies will grant the AI Safety Institute access to major new models for safety testing. |
+|[California legislature passes controversial “kill switch” AI safety bill.](https://arstechnica.com/ai/2024/08/as-contentious-california-ai-safety-bill-passes-critics-push-governor-for-veto/) | After passing the State Assembly, California's contentious AI safety bill, SB-1047, is now one step closer to being signed into law by Governor Gavin Newsom. By September 30, Newsom must determine whether or not to sign it into law.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
