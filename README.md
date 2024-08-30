@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI and Anthropic will share their models with the US government.](https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute) |The companies will grant the AI Safety Institute access to major new models for safety testing. |
 |[California legislature passes controversial “kill switch” AI safety bill.](https://arstechnica.com/ai/2024/08/as-contentious-california-ai-safety-bill-passes-critics-push-governor-for-veto/) | After passing the State Assembly, California's contentious AI safety bill, SB-1047, is now one step closer to being signed into law by Governor Gavin Newsom. By September 30, Newsom must determine whether or not to sign it into law.|
 |[OpenAI says ChatGPT usage has doubled since last year.](https://www.axios.com/2024/08/29/openai-chatgpt-200-million-weekly-active-users) |OpenAI reported that 92% of Fortune 500 firms utilize ChatGPT, and that the platform has over 200 million weekly active users—a tripling of its user base from a year ago. |
-|[.]() | |
+|[TikTok owner ByteDance launches new video search tool, eyeing Baidu’s dominance.](https://www.scmp.com/tech/big-tech/article/3275514/tiktok-owner-bytedance-launches-new-video-search-tool-eyeing-baidus-dominance) | In a direct challenge to Baidu's search dominance, ByteDance has released Douyin Search, an app for searching short video content on TikTok's Chinese counterpart.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
