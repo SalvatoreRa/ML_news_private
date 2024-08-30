@@ -102,8 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The On‑Device Intelligence Update.](https://cartesia.ai/blog/2024-08-27-on-device) |Cartesian has released several updates to their models and systems. Additionally, an open hybrid State space model has been released. |
 |[Stephen Wolfram thinks we need philosophers working on big questions around AI.](https://techcrunch.com/2024/08/25/stephen-wolfram-thinks-we-need-philosophers-working-on-big-questions-around-ai/) | |
 |[The top AI deals in Europe this year.](https://techcrunch.com/2024/08/24/the-top-ai-deals-in-europe-this-year/) | Despite general headwinds for startups, AI ventures continue to secure substantial funding. U.S. AI startups have achieved nearly 30 deals over $100M in 2024, with Europe not far behind. Major investments include WAYVE ($1B), Mistral AI (~$1B), Helsing ($484M), Poolside ($400M), DeepL ($320M), H ($220M), and Flo Health ($200M).|
-|[.]() | |
-|[.]() | |
+|[California advances landmark legislation to regulate large AI models.](https://www.theguardian.com/technology/article/2024/aug/29/california-ai-regulation-bill) |Groundbreaking bill aims to reduce potential AI risks – requiring model testing and disclosure of safety protocol |
+|[Nvidia shares fall on slowing growth and production concerns.](https://www.theguardian.com/technology/article/2024/aug/29/nvidia-shares-fall-after-investors-spooked-by-slowing-growth-delays-next-generation-ai-chips) | Doubling of quarterly revenues to £23bn fails to allay worry about delays to next generation of AI chips|
 |[.]() | |
 |[.]() | |
 |[.]() | |
