@@ -150,7 +150,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[JoyCaption Pre-Alpha.](https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha) | An open-source VLM created especially for upcaptioning images.|
 |[Introducing RPBench-Auto.](https://boson.ai/rpbench-blog/) |An automated evaluation pipeline called RPBench-Auto, which draws inspiration from ArenaHard and Alpaca Eval, has been introduced by Boson AI to measure the role-playing talents of LLMs. |
 |[Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy.](https://blogs.nvidia.com/blog/mistral-nemo-minitron-8b-small-language-model/) |Mistral-NeMo-Minitron 8B is a miniaturized version of the recently released Mistral NeMo 12B model, delivering high accuracy combined with the compute efficiency to run the model across GPU-accelerated data centers, clouds and workstations. |
-|[.]() | |
+|[NousResearch/hermes-function-calling-v1.](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
