@@ -59,16 +59,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Mamba in the Llama: Distilling and Accelerating Hybrid Models.](https://arxiv.org/abs//2408.15237) |Because mamma models do not include a KV cache for backtracking, they are difficult to accelerate with speculative decoding. This document presents several new distillation techniques and acceleration algorithms from some of the original authors. |
 |[Efficient LLM Scheduling by Learning to Rank.](https://arxiv.org/abs/2408.15792) | Head of line bottlenecks occur when delivering multiple concurrent requests to a large language model since we don't know how long output generation will take. The shortest requests can be served first if you can learn to rank the relative lengths between them, which will increase throughput for multi-batch generation by 6.5 times.|
 |[MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders.](https://arxiv.org/abs/2408.15101v1) |A new model architecture called MTMamba++ aims to improve multi-task scene understanding. This method captures long-range dependencies and enhances cross-task interactions using a Mamba-based decoder with two core blocks: STM and CTM. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## News
 |Link|description|
@@ -110,10 +100,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[California legislature passes controversial “kill switch” AI safety bill.](https://arstechnica.com/ai/2024/08/as-contentious-california-ai-safety-bill-passes-critics-push-governor-for-veto/) | After passing the State Assembly, California's contentious AI safety bill, SB-1047, is now one step closer to being signed into law by Governor Gavin Newsom. By September 30, Newsom must determine whether or not to sign it into law.|
 |[OpenAI says ChatGPT usage has doubled since last year.](https://www.axios.com/2024/08/29/openai-chatgpt-200-million-weekly-active-users) |OpenAI reported that 92% of Fortune 500 firms utilize ChatGPT, and that the platform has over 200 million weekly active users—a tripling of its user base from a year ago. |
 |[TikTok owner ByteDance launches new video search tool, eyeing Baidu’s dominance.](https://www.scmp.com/tech/big-tech/article/3275514/tiktok-owner-bytedance-launches-new-video-search-tool-eyeing-baidus-dominance) | In a direct challenge to Baidu's search dominance, ByteDance has released Douyin Search, an app for searching short video content on TikTok's Chinese counterpart.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -155,13 +141,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images.](https://cuiziteng.github.io/RAW_Adapter_web/) |A novel method called RAW-Adapter modifies pre-trained sRGB models so they can efficiently handle RAW data from cameras. |
 |[Llama usage double May through July.](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/) | Meta has published some usage statistics for the Llama model. It discovered that there was a high demand for its models being used in business environments.|
 |[SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images.](https://arxiv.org/abs/2408.15224v1) |In order to expedite the annotation of 3D medical pictures, this study modified the Segment Anything Model 2 (SAM 2), which was initially created for video annotation. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -181,17 +160,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inference is FREE and INSTANT.](https://fume.substack.com/p/inference-is-free-and-instant) |Large language models (LLMs) may not be much better at reasoning, but they will be more helpful for repeated jobs due to their rising speeds and falling prices. These models may not have genuine understanding, yet they are nonetheless capable of handling simple tasks effectively. |
 |[UK’s new science minister on budget battles, Brexit and AI leadership.](https://www.nature.com/articles/d41586-024-02628-7) | Former clinical scientist Patrick Vallance speaks to Nature about his priorities as the minister overseeing the nation’s research.|
 |[Urgently clarify how AI can be used in medicine under new EU law.](https://www.nature.com/articles/d41586-024-02753-3) |The European Union’s Artificial Intelligence Act entered into force on 1 August. Phased implementation begins in February 2025, banning artificial intelligence (AI) systems deemed to pose unacceptable risks. Before that happens, policymakers must do more to ensure that patients’ safety and interests are protected. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 
