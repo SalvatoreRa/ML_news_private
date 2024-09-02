@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Foundation Models for Music: A Survey.](https://arxiv.org/abs/2408.14340) | gives a thorough rundown of the most recent pre-trained models and foundation models in the music industry.|
 |[A Practitioner's Guide to Continual Multimodal Pretraining.](https://arxiv.org/abs/2408.14471) | a thorough manual on ongoing multimodal related; presents FoMo-In-Flux, a large-scale continuous pretraining benchmark with fine-grained and extended horizons.|
 |[AI feedback loop will spell death for future generative models.](https://www.techspot.com/news/99064-ai-feedback-loop-spell-death-future-generative-models.html) |When you train LLMs with LLM-generated content, the results tend to be digital poop |
-|[.]() | |
+|[Apple's robotics work aims to solve user's first-world problems.](https://appleinsider.com/articles/24/08/25/first-world-problems-drives-apples-robotics-development) |Apple might be getting more involved in robotics and releasing moving gadgets, like an iPad supported by a robotic arm. Under the direction of Vice President of Technology Kevin Lynch, Apple is making headway in robotics with the assistance of specialists from companies such as Israel's Technion, and plans to expand its AI interfaces beyond Siri. Apple is thinking of releasing these new robotic devices around 2026 or 2027, while they are still conceptual. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
