@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[X goes offline in Brazil after Elon Musk’s refusal to comply with local laws.](https://www.theguardian.com/technology/article/2024/aug/31/x-offline-brazil-elon-musk) |Millions of users shut out and 500,000 switch to rival platform Bluesky as providers enact supreme court ban |
-|[.]() | |
-|[.]() | |
+|['A tech firm stole our voices - then cloned and sold them'.](https://www.bbc.com/news/articles/c3d9zv50955o) | Paul Skye Lehrman and Linnea Sage, voice-over performers, discovered that an AI-powered text-to-speech platform had cloned their voices without permission after they were tricked into providing audio recordings through Fiverr. The couple has filed a lawsuit against the platform, Lovo, for allegedly using their voices illegally. |
+|[Did your car witness a crime? Bay Area police may be coming for your Tesla — and they might tow it.](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php) |Tesla's Sentry Mode, a feature that uses the car's cameras to monitor its surroundings, is increasingly being used by law enforcement as evidence in criminal investigations. The footage captured by the system has been instrumental in solving various crimes, such as car break-ins and hit-and-run incidents.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
