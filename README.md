@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[X goes offline in Brazil after Elon Musk’s refusal to comply with local laws.](https://www.theguardian.com/technology/article/2024/aug/31/x-offline-brazil-elon-musk) |Millions of users shut out and 500,000 switch to rival platform Bluesky as providers enact supreme court ban |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[I learned the language of computer programming in my 50s – here’s what I discovered.](https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith) | A writer with no technical background recounts his incredible journey into the realm of coding and the invaluable lesson it taught him about the modern world|
 |[.]() | |
 |[.]() | |
 |[.]() | |
