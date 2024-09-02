@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[I learned the language of computer programming in my 50s – here’s what I discovered.](https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith) | A writer with no technical background recounts his incredible journey into the realm of coding and the invaluable lesson it taught him about the modern world|
 |[Why A.I. Isn’t Going to Make Art.](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) |To create a novel or a painting, an artist makes choices that are fundamentally alien to artificial intelligence. |
-|[.]() | |
+|[Autonomous car bombs, online recruitment: Experts worry how AI can transform terrorism.](https://www.foxnews.com/world/autonomous-car-bombs-online-recruitment-experts-worry-how-ai-can-transform-terrorism) | Law enforcement has to anticipate novel AI uses and develop countermeasures|
 |[.]() | |
 |[.]() | |
 |[.]() | |
