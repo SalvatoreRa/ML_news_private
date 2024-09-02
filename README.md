@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Did your car witness a crime? Bay Area police may be coming for your Tesla — and they might tow it.](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php) |Tesla's Sentry Mode, a feature that uses the car's cameras to monitor its surroundings, is increasingly being used by law enforcement as evidence in criminal investigations. The footage captured by the system has been instrumental in solving various crimes, such as car break-ins and hit-and-run incidents.  |
 |[Updates to the Command R Series.](https://cohere.com/blog/command-series-0824) | Updates were made to Command R and Command R+ for almost every task. Their recall, speed, arithmetic, and reasoning have all improved.|
 |[Workers at Google DeepMind Push Company to Drop Military Contracts.](https://time.com/7013685/google-ai-deepmind-military-contracts-israel/) |In a letter, almost 200 workers at Google DeepMind demanded that the firm revoke its military contracts, citing a breach of its own AI ethics policy. Armed forces have purchased DeepMind technology from Google Cloud, which has caused internal strife among AI personnel who respect moral principles. Although Google's response showed that company was following the AI Principles, employees are still not pleased and want further regulation to prevent the military from using their AI. |
-|[.]() | |
+|[TRL release.](https://github.com/huggingface/trl/releases/tag/v0.10.1) |This could be among the Transformer Reinforcement Learning library's more significant updates. WinRate Callbacks, Liger Kernels, onlineDPO, and other features are included. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,9 +109,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple's robotics work aims to solve user's first-world problems.](https://appleinsider.com/articles/24/08/25/first-world-problems-drives-apples-robotics-development) |Apple might be getting more involved in robotics and releasing moving gadgets, like an iPad supported by a robotic arm. Under the direction of Vice President of Technology Kevin Lynch, Apple is making headway in robotics with the assistance of specialists from companies such as Israel's Technion, and plans to expand its AI interfaces beyond Siri. Apple is thinking of releasing these new robotic devices around 2026 or 2027, while they are still conceptual. |
 |[Towards Real-world Event-guided Low-light Video Enhancement and Deblurring.](https://arxiv.org/abs/2408.14916v1) |Using event cameras, this end-to-end system concurrently solves motion deblurring and low-light enhancement in videos. |
 |[Enhancing Sound Source Localization via False Negative Elimination.](https://arxiv.org/abs/2408.16448v1) |To overcome false negatives in conventional methods of sound source localization, researchers have put forth a novel audio-visual learning framework. Two schemes are included in the framework: Semantic-Aware Contrastive Learning (SACL) and Self-Supervised Predictive Learning (SSPL). While SACL improves the contrastive learning process to better align auditory and visual elements, SSPL removes false negatives by emphasizing positive-only learning. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[FastSD CPU.](https://github.com/rupeshs/fastsdcpu) | Flux Schnell on the CPU is now supported by a widely used inference library.|
+|[Spiking Diffusion Models.](https://github.com/andycao1125/sdm) |A new class of Spiking Neural Networks (SNNs) called Spiking Diffusion Models (SDMs) is intended for image production and offers significant energy savings along with great biological plausibility. |
+|[Laion 5B safety Release.](https://laion.ai/blog/relaion-5b/) | The biggest publicly available image dataset on the internet was Laion 5B. Because of worries about offensive and hazardous imagery, it was taken down. After a major effort to address these problems, the group is now rereleasing the dataset.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
