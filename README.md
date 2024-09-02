@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AutoGen Studio: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems.](https://arxiv.org/abs/2408.15247) |An interface written in minimal code to quickly prototype AI agents. It may be used for multi-agent workflow evaluation and debugging, and it is constructed on top of the AutoGen framework. |
-|[.]() | |
-|[.]() | |
+|[Foundation Models for Music: A Survey.](https://arxiv.org/abs/2408.14340) | gives a thorough rundown of the most recent pre-trained models and foundation models in the music industry.|
+|[A Practitioner's Guide to Continual Multimodal Pretraining.](https://arxiv.org/abs/2408.14471) | a thorough manual on ongoing multimodal related; presents FoMo-In-Flux, a large-scale continuous pretraining benchmark with fine-grained and extended horizons.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
