@@ -50,9 +50,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReMamba: Equip Mamba with Effective Long-Sequence Modeling.](https://arxiv.org/abs/2408.15496) |examines the long-context capacities and efficiency of Mamba models; the RNN-like nature of Mamba is the cause of the long-context deficiencies; it does this by compressing data using the following method: achieves a 3.2 improvement over the baseline on LongBench and 1.6 improvement on L-Eval; the strategy appears to also apply to Mamba 2. the top-k hidden states during the first forward pass and uses Mamba's selective mechanism to incorporate them into the state space during the second forward pass. |
 |[Text2SQL is Not Enough: Unifying AI and Databases with TAG.](https://arxiv.org/abs/2408.14717v1) | develops a benchmark and discovers that standard methods only answer 20 percent of natural language queries correctly. It suggests Table-Augmented Generation (TAG), a unified framework for responding to natural language queries over databases. It represents a wider range of unexplored interactions between LLMs and databases. |
 |[Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts.](https://arxiv.org/abs/2408.15664) | Sparsifying the computation is aided by routing tokens to MoE experts. But it can be hard to learn that routing. Usually, there is a complex loss structure. This research presents an innovative solution to this issue, leading to a significant increase in training stability and expert balancing.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Two Oxford PhDs are building an app to let you remix photos into memes.](https://techcrunch.com/2024/08/29/two-oxford-phds-are-building-an-app-to-let-you-remix-photos-into-memes/) |A new social network by a duo of Oxford PhDs is working on an app to let you add friends to a photo in a more memeable and fun way. |
+|[Apple and Nvidia may invest in OpenAI.](https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft) | The two tech giants might join OpenAI’s potentially huge funding round.|
+|[Boston Dynamics’ new electric Atlas can do push-ups.](https://techcrunch.com/2024/08/22/boston-dynamics-new-electric-atlas-can-do-push-ups/) | In a recent video, Boston Dynamics demonstrated Atlas, its electric biped robot, completing push-ups to highlight the strength of its actuators during its early commercialization phase for factory floor applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
