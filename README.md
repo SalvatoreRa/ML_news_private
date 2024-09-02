@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Diffusion Models Are Real-Time Game Engines.](https://arxiv.org/abs/2408.14837) | a two-phase training process involving an RL agent to learn and a diffusion model to generate frames; it can interactively simulate DOOM over at 20 frames per second on a single TPU. A game engine driven by a diffusion model allows real-time interaction with complex environments over long trajectories.|
 |[Agentic Retrieval-Augmented Generation for Time Series Analysis.](https://arxiv.org/abs/2408.14484) | suggests an agentic RAG framework for time series analysis. It makes use of a multi-agent architecture in which an agent directs specialized sub-agents to carry out time-series tasks. These sub-agents can retrieve pertinent prompts that contain information about past patterns and trends, which helps to improve predictions on new data. The sub-agents use tuned small language models to accomplish these tasks.|
-|[.]() | |
+|[Persuasion Games using Large Language Models.](https://arxiv.org/abs/2408.15879) |asserts that the persuasive efficacy of LLMs can be increased by using a multi-agent framework, in which the main agent conducts persuasive dialogue while supporting agents handle crucial functions like information retrieval and response analysis. The study finds that LLMs are capable of influencing users' perspectives and convincing them to make a purchase decision; for example, sales agents can influence user perspectives in a 71% positive way. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[AutoGen Studio: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems.](https://arxiv.org/abs/2408.15247) |An interface written in minimal code to quickly prototype AI agents. It may be used for multi-agent workflow evaluation and debugging, and it is constructed on top of the AutoGen framework. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
