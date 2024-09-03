@@ -53,8 +53,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Two Oxford PhDs are building an app to let you remix photos into memes.](https://techcrunch.com/2024/08/29/two-oxford-phds-are-building-an-app-to-let-you-remix-photos-into-memes/) |A new social network by a duo of Oxford PhDs is working on an app to let you add friends to a photo in a more memeable and fun way. |
 |[Apple and Nvidia may invest in OpenAI.](https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft) | The two tech giants might join OpenAI’s potentially huge funding round.|
 |[Boston Dynamics’ new electric Atlas can do push-ups.](https://techcrunch.com/2024/08/22/boston-dynamics-new-electric-atlas-can-do-push-ups/) | In a recent video, Boston Dynamics demonstrated Atlas, its electric biped robot, completing push-ups to highlight the strength of its actuators during its early commercialization phase for factory floor applications.|
-|[.]() | |
-|[.]() | |
+|[Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach.](https://arxiv.org/abs/2408.16343v1) |A multimodal classification approach intended to enhance the early detection of Alzheimer's disease is presented in this work. |
+|[Targeted Cause Discovery with Data-Driven Learning.](https://arxiv.org/abs/2408.16218v1) |A sophisticated machine learning technique has been created by researchers to determine a target's direct and indirect causal variables within a system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
