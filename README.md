@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ml_dtypes.](https://github.com/jax-ml/ml_dtypes) |Bfloat16 and fp8 support for native numpy arrays. |
 |[VisionTS.](https://github.com/keytoyze/visionts) |By redefining time series forecasting as an image reconstruction challenge, VisionTS is a novel method that takes advantage of the similarities between time series data and natural images to improve forecasting. To achieve remarkable zero-shot performance, it makes use of a visual masked autoencoder (MAE) that has been pre-trained on ImageNet. |
 |[Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model.](https://arxiv.org/abs/2408.17175v1) | A novel method for improving LLMs' audio generating performance is called X-Codec.|
-|[.]() | |
-|[.]() | |
+|[The timm (PyTorch Image Models) Leaderboard.](https://huggingface.co/spaces/timm/leaderboard) |This leaderboard is based on the results of the models from timm. Timm comprises various vision models.|
+|[CogVideoX-5B.](https://github.com/huggingface/diffusers/releases/tag/v0.30.1?utm_source=tldrai) |CogVideo 5B model will launch next week in Hugging Face Diffusers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
