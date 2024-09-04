@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boston Dynamics’ new electric Atlas can do push-ups.](https://techcrunch.com/2024/08/22/boston-dynamics-new-electric-atlas-can-do-push-ups/) | In a recent video, Boston Dynamics demonstrated Atlas, its electric biped robot, completing push-ups to highlight the strength of its actuators during its early commercialization phase for factory floor applications.|
 |[Meet Boardwalk Robotics’ Addition to the Humanoid Workforce.](https://spectrum.ieee.org/boardwalk-robotics-alex-humanoid) |The humanoid upper torso robot Alex, by Boardwalk Robotics, is intended for use in manufacturing, logistics, and maintenance. Alex is a legless robot that was developed separately while utilizing the heritage of IHMC's bipedal robot experience. Its designers prioritized manipulation over mobility in order to guarantee efficiency and safety. Pilots are now choosing commercial partners, but researchers can buy Alex right now. |
 |[Americans Are Uncomfortable with Automated Decision-Making.](https://www.eff.org/deeplinks/2024/08/americans-are-uncomfortable-automated-decision-making) | Consumer Reports recently released a national survey finding that Americans are uncomfortable with use of artificial intelligence (AI) and algorithmic decision-making in their day to day lives. Nearly three-quarters of respondents (72%) said they would be “uncomfortable”|
-|[.]() | |
+|[Canva says its AI features are worth the 300 percent price increase.](https://www.theverge.com/2024/9/3/24234698/canva-price-increase-300-percent-ai-features) | The design software company is massively jacking up subscription prices for some users.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPU Utilization is a Misleading Metric.](https://trainy.ai/blog/gpu-utilization-misleading) |Although frequently tracked, GPU utilization may not fully capture GPU performance in machine learning workloads since it does not take into consideration whether the GPU's computational power is being utilized to its fullest. Trainy found this out when, during LLM training, 100% GPU usage was achieved, but only ~20% model FLOPS utilization (MFU) was achieved. It suggests using fused kernel optimization and the appropriate model parallelism level to obtain a 4x speedup in training time and tracking SM efficiency for a better performance indication. |
 |[AI-Implanted False Memories.](https://www.media.mit.edu/projects/ai-false-memories/overview/) | In simulated criminal witness interviews, generative chatbots driven by massive language models greatly increased the generation of false memories, inducing roughly three times more instantaneous false recollections than a control group, according to a study by MIT Media Lab.|
 |[The biology of smell is a mystery — AI is helping to solve it.](https://www.nature.com/articles/d41586-024-02833-4) |Scientists are beginning to crack the fiendishly complex code that helps us to sense odours. |
-|[.]() | |
+|[How much is AI hurting the planet? Big tech won't tell us.](https://mashable.com/article/ai-environment-energy) | big tech companies, like Google, are not disclosing the full environmental impact of AI, while emissions from their operations have significantly increased, with Google's greenhouse gas emissions rising by 48% between 2019 and 2023|
 |[.]() | |
 |[.]() | |
 |[.]() | |
