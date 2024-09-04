@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple and Nvidia may invest in OpenAI.](https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft) | The two tech giants might join OpenAI’s potentially huge funding round.|
 |[Boston Dynamics’ new electric Atlas can do push-ups.](https://techcrunch.com/2024/08/22/boston-dynamics-new-electric-atlas-can-do-push-ups/) | In a recent video, Boston Dynamics demonstrated Atlas, its electric biped robot, completing push-ups to highlight the strength of its actuators during its early commercialization phase for factory floor applications.|
 |[Meet Boardwalk Robotics’ Addition to the Humanoid Workforce.](https://spectrum.ieee.org/boardwalk-robotics-alex-humanoid) |The humanoid upper torso robot Alex, by Boardwalk Robotics, is intended for use in manufacturing, logistics, and maintenance. Alex is a legless robot that was developed separately while utilizing the heritage of IHMC's bipedal robot experience. Its designers prioritized manipulation over mobility in order to guarantee efficiency and safety. Pilots are now choosing commercial partners, but researchers can buy Alex right now. |
-|[.]() | |
+|[Americans Are Uncomfortable with Automated Decision-Making.](https://www.eff.org/deeplinks/2024/08/americans-are-uncomfortable-automated-decision-making) | Consumer Reports recently released a national survey finding that Americans are uncomfortable with use of artificial intelligence (AI) and algorithmic decision-making in their day to day lives. Nearly three-quarters of respondents (72%) said they would be “uncomfortable”|
 |[.]() | |
 |[.]() | |
 |[.]() | |
