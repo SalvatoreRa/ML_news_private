@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts.](https://arxiv.org/abs/2408.15664) | Sparsifying the computation is aided by routing tokens to MoE experts. But it can be hard to learn that routing. Usually, there is a complex loss structure. This research presents an innovative solution to this issue, leading to a significant increase in training stability and expert balancing.|
 |[Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach.](https://arxiv.org/abs/2408.16343v1) |A multimodal classification approach intended to enhance the early detection of Alzheimer's disease is presented in this work. |
 |[Targeted Cause Discovery with Data-Driven Learning.](https://arxiv.org/abs/2408.16218v1) |A sophisticated machine learning technique has been created by researchers to determine a target's direct and indirect causal variables within a system. |
-|[.]() | |
-|[.]() | |
+|[Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training.](https://arxiv.org/abs/2408.17081v1) |In order to prevent overfitting in Vision Mamba models and enable them to scale up to 300M parameters while still performing competitively with Vision Transformers (ViTs), this research presents a stochastic layer-wise shuffle regularization strategy. |
+|[Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control.](https://arxiv.org/abs/2405.05852v1) |Stable Control Representations are a tool that researchers are using to help embodied AI machines interpret scenes more precisely. These representations capture detailed visuospatial information required for challenging tasks by utilizing pre-trained text-to-image diffusion models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
