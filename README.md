@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model.](https://arxiv.org/abs/2408.17175v1) | A novel method for improving LLMs' audio generating performance is called X-Codec.|
 |[The timm (PyTorch Image Models) Leaderboard.](https://huggingface.co/spaces/timm/leaderboard) |This leaderboard is based on the results of the models from timm. Timm comprises various vision models.|
 |[CogVideoX-5B.](https://github.com/huggingface/diffusers/releases/tag/v0.30.1?utm_source=tldrai) |CogVideo 5B model will launch next week in Hugging Face Diffusers. |
-|[.]() | |
+|[Anthropic Quickstarts.](https://github.com/anthropics/anthropic-quickstarts/) | Anthropic has made available a helpful selection of initial projects. It collaborated with former chief AI officers from Brex, Uber, Facebook, and other companies to draft the first Quickstart, a Claude-powered scalable customer support assistant.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-Implanted False Memories.](https://www.media.mit.edu/projects/ai-false-memories/overview/) | In simulated criminal witness interviews, generative chatbots driven by massive language models greatly increased the generation of false memories, inducing roughly three times more instantaneous false recollections than a control group, according to a study by MIT Media Lab.|
 |[The biology of smell is a mystery — AI is helping to solve it.](https://www.nature.com/articles/d41586-024-02833-4) |Scientists are beginning to crack the fiendishly complex code that helps us to sense odours. |
 |[How much is AI hurting the planet? Big tech won't tell us.](https://mashable.com/article/ai-environment-energy) | big tech companies, like Google, are not disclosing the full environmental impact of AI, while emissions from their operations have significantly increased, with Google's greenhouse gas emissions rising by 48% between 2019 and 2023|
-|[.]() | |
+|[AI Has Created a Battle Over Web Crawling.](https://spectrum.ieee.org/web-crawling) |A research by the Data Provenance Initiative cautions that when websites restrict crawler bots more and more, high-quality data may become inaccessible to generative AI models. This trend, which is motivated by worries about data exploitation, may cause AI training to rely more on low-quality data rather than well-maintained sources. Businesses may use direct licensing or synthetic data to preserve the effectiveness of AI models in the face of increasing data scarcity. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
