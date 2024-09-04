@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Missing Guide to the H100 GPU Market.](https://blog.lepton.ai/the-missing-guide-to-the-h100-gpu-market-91ebfed34516) | This guide covers all the important factors of buying a GPU, such as availability considerations, pricing for various alternatives, and guaranteeing reliability in addition to highlighting the significance of other hardware features. It answers the most important queries consumers have about GPUs, including pricing, performance, and shipping.|
 |[Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning.](https://github.com/shuyanguni/drl_exposure_ctrl) | A deep reinforcement learning framework is being developed in this research to enhance the stability of visual odometry (VO) systems in difficult-to-light settings.|
 |[Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection.](https://github.com/mediabrain-sjtu/ecgad) | a sophisticated ECG diagnosis system that enhances the identification of uncommon but serious cardiac anomalies by self-supervised anomaly detection pretraining.|
-|[.]() | |
+|[RWKV.cpp.](https://threadreaderapp.com/thread/1831000938120917336.html) | The great RWKV models have included a local inference model with its cpp project.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
