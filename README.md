@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meet Boardwalk Robotics’ Addition to the Humanoid Workforce.](https://spectrum.ieee.org/boardwalk-robotics-alex-humanoid) |The humanoid upper torso robot Alex, by Boardwalk Robotics, is intended for use in manufacturing, logistics, and maintenance. Alex is a legless robot that was developed separately while utilizing the heritage of IHMC's bipedal robot experience. Its designers prioritized manipulation over mobility in order to guarantee efficiency and safety. Pilots are now choosing commercial partners, but researchers can buy Alex right now. |
 |[Americans Are Uncomfortable with Automated Decision-Making.](https://www.eff.org/deeplinks/2024/08/americans-are-uncomfortable-automated-decision-making) | Consumer Reports recently released a national survey finding that Americans are uncomfortable with use of artificial intelligence (AI) and algorithmic decision-making in their day to day lives. Nearly three-quarters of respondents (72%) said they would be “uncomfortable”|
 |[Canva says its AI features are worth the 300 percent price increase.](https://www.theverge.com/2024/9/3/24234698/canva-price-increase-300-percent-ai-features) | The design software company is massively jacking up subscription prices for some users.|
-|[.]() | |
+|[AI worse than humans in every way at summarising information, government trial finds.](https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/) | A test of AI for Australia's corporate regulator found that the technology might actually make more work for people, not less.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
