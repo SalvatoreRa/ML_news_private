@@ -118,6 +118,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The timm (PyTorch Image Models) Leaderboard.](https://huggingface.co/spaces/timm/leaderboard) |This leaderboard is based on the results of the models from timm. Timm comprises various vision models.|
 |[CogVideoX-5B.](https://github.com/huggingface/diffusers/releases/tag/v0.30.1?utm_source=tldrai) |CogVideo 5B model will launch next week in Hugging Face Diffusers. |
 |[Anthropic Quickstarts.](https://github.com/anthropics/anthropic-quickstarts/) | Anthropic has made available a helpful selection of initial projects. It collaborated with former chief AI officers from Brex, Uber, Facebook, and other companies to draft the first Quickstart, a Claude-powered scalable customer support assistant.|
+|[The Missing Guide to the H100 GPU Market.](https://blog.lepton.ai/the-missing-guide-to-the-h100-gpu-market-91ebfed34516) | This guide covers all the important factors of buying a GPU, such as availability considerations, pricing for various alternatives, and guaranteeing reliability in addition to highlighting the significance of other hardware features. It answers the most important queries consumers have about GPUs, including pricing, performance, and shipping.|
+|[Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning.](https://github.com/shuyanguni/drl_exposure_ctrl) | A deep reinforcement learning framework is being developed in this research to enhance the stability of visual odometry (VO) systems in difficult-to-light settings.|
+|[Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection.](https://github.com/mediabrain-sjtu/ecgad) | a sophisticated ECG diagnosis system that enhances the identification of uncommon but serious cardiac anomalies by self-supervised anomaly detection pretraining.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
