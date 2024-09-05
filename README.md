@@ -156,7 +156,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Has Created a Battle Over Web Crawling.](https://spectrum.ieee.org/web-crawling) |A research by the Data Provenance Initiative cautions that when websites restrict crawler bots more and more, high-quality data may become inaccessible to generative AI models. This trend, which is motivated by worries about data exploitation, may cause AI training to rely more on low-quality data rather than well-maintained sources. Businesses may use direct licensing or synthetic data to preserve the effectiveness of AI models in the face of increasing data scarcity. |
 |[What Succeeding at AI Safety Will Involve.](https://sleepinyourhat.github.io/checklist/) |Sam from Anthropic hazard a guess as to what will have to be done in order for AI safety to be successful while creating superhuman AI systems. |
 |[the art of programming and why i won't use llm.](https://kennethnym.com/blog/why-i-still-wont-use-llm/) |Although LLMs are praised for increasing productivity and are being incorporated into coding workflows more and more, some contend that their programming effectiveness is overstated. |
-|[.]() | |
+|[‘He was in mystic delirium’: was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?.](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence) |In isolation, Alexander Grothendieck seemed to have lost touch with reality, but some say his metaphysical theories could contain wonders |
 |[.]() | |
 |[.]() | |
 |[.]() | |
