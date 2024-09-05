@@ -57,6 +57,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI generates covertly racist decisions about people based on their dialect.](https://www.nature.com/articles/s41586-024-07856-5) |language models perpetuate covert racism through dialect prejudice, specifically against African American English (AAE), leading to negative stereotypes and harmful consequences, while overt stereotypes about African Americans are more positive, and current bias mitigation practices may worsen this issue. |
 |[Latent Distillation for Continual Object Detection at the Edge.](https://arxiv.org/abs/2409.01872v1) |A unique Continual Learning technique for object detection that overcomes memory and computational limitations on edge devices is called latent distillation. |
 |[Masked Mixers for Language Generation and Retrieval.](https://arxiv.org/abs/2409.01482v1) |Masked mixers are a unique architecture designed to enhance input representation in language models by substituting masked convolutions for self-attention. |
+|[Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology.](https://arxiv.org/abs/2404.10242v1) | Using masked autoencoders and self-supervised learning, researchers have created a novel technique that greatly enhances the processing of large-scale microscope pictures.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
