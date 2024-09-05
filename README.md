@@ -132,8 +132,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MAPF-GPT.](https://github.com/Cognitive-AI-Systems/MAPF-GPT) |A novel learning-based method called MAPF-GPT has been developed to tackle the difficult multi-agent pathfinding (MAPF) problem. The model navigates agents by imitation learning; it does not require extra heuristics, reward functions, or communication. |
 |[EnsLoss.](https://github.com/statmlben/ensLoss) |An ensemble approach called EnsLoss integrates loss functions into the Empirical Risk Minimization (ERM) paradigm. |
 |[Disentangled Motion Modeling for Video Frame Interpolation.](https://github.com/jhlew/momo) | MoMo is a novel diffusion-based approach for video frame interpolation (VFI). It enhances visual quality by focusing on intermediate motion modeling through a disentangled two-stage training process.|
-|[.]() | |
-|[.]() | |
+|[repo2vec.](https://github.com/Storia-AI/repo2vec) |Repo2vec is a new package that functions similarly to GitHub Copilot but with up-to-date repo information, making it simple to communicate with any public or private codebase. |
+|[Building LLMs from the Ground Up: A 3-hour Coding Workshop.](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -167,6 +167,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Checkers Forcing Kids To Write Like A Robot To Avoid Being Called A Robot.](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/) |Can the fear of students using generative AI and the rise of questionable AI “checker” tools create a culture devoid of creativity? |
 |[The AI Arms Race Isn’t Inevitable.](https://www.palladiummag.com/2024/08/23/the-ai-arms-race-isnt-inevitable/) |Prominent AI labs are pushing Western governments to support swift AI developments in order to prevent rivals like China from gaining a decisive technological advantage. They are increasingly portraying AI research as a geopolitical zero-sum game crucial for national security. This story supports drastic steps to ensure AI domination, even at the expense of escalating geopolitical tensions and possibly jeopardizing safety and ethical standards. |
 |[Is AI eating all the energy?](https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/) |AI's total energy footprint is influenced by both rising demand and rising energy efficiency. Power, heat, carbon, and water use are all positively connected with AI's energy consumption. The general trend of AI processing becoming more power-hungry is being countered by hardware efficiency improvements. Although its influence is lessened by broad use, AI still accounts for a small but growing portion of data center power consumption, with training activities using a lot more energy than inference. |
+|[Debate over “open source AI” term brings new push to formalize definition.](https://arstechnica.com/information-technology/2024/08/debate-over-open-source-ai-term-brings-new-push-to-formalize-definition/) | In an effort to clarify the meaning and address the term's overuse, the Open Source Initiative (OSI) published a proposed definition of "open source AI" that includes usage rights, study, modification, and sharing freedoms. With this step, researchers and engineers will be able to assess AI systems in a more transparent manner. In October, a stable version of the definition is anticipated, which may have an impact on upcoming releases of AI models and regulations.|
+|[Predicting AI.](https://www.strangeloopcanon.com/p/predicting-ai) |This author considers their forecasts for AI and notes that they were correct to predict the growth of open source, multimodal models, and improved tool usability. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
