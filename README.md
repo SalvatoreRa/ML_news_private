@@ -55,8 +55,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training.](https://arxiv.org/abs/2408.17081v1) |In order to prevent overfitting in Vision Mamba models and enable them to scale up to 300M parameters while still performing competitively with Vision Transformers (ViTs), this research presents a stochastic layer-wise shuffle regularization strategy. |
 |[Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control.](https://arxiv.org/abs/2405.05852v1) |Stable Control Representations are a tool that researchers are using to help embodied AI machines interpret scenes more precisely. These representations capture detailed visuospatial information required for challenging tasks by utilizing pre-trained text-to-image diffusion models. |
 |[AI generates covertly racist decisions about people based on their dialect.](https://www.nature.com/articles/s41586-024-07856-5) |language models perpetuate covert racism through dialect prejudice, specifically against African American English (AAE), leading to negative stereotypes and harmful consequences, while overt stereotypes about African Americans are more positive, and current bias mitigation practices may worsen this issue. |
-|[.]() | |
-|[.]() | |
+|[Latent Distillation for Continual Object Detection at the Edge.](https://arxiv.org/abs/2409.01872v1) |A unique Continual Learning technique for object detection that overcomes memory and computational limitations on edge devices is called latent distillation. |
+|[Masked Mixers for Language Generation and Retrieval.](https://arxiv.org/abs/2409.01482v1) |Masked mixers are a unique architecture designed to enhance input representation in language models by substituting masked convolutions for self-attention. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
