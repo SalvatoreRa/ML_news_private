@@ -129,9 +129,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning.](https://github.com/shuyanguni/drl_exposure_ctrl) | A deep reinforcement learning framework is being developed in this research to enhance the stability of visual odometry (VO) systems in difficult-to-light settings.|
 |[Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection.](https://github.com/mediabrain-sjtu/ecgad) | a sophisticated ECG diagnosis system that enhances the identification of uncommon but serious cardiac anomalies by self-supervised anomaly detection pretraining.|
 |[RWKV.cpp.](https://threadreaderapp.com/thread/1831000938120917336.html) | The great RWKV models have included a local inference model with its cpp project.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MAPF-GPT.](https://github.com/Cognitive-AI-Systems/MAPF-GPT) |A novel learning-based method called MAPF-GPT has been developed to tackle the difficult multi-agent pathfinding (MAPF) problem. The model navigates agents by imitation learning; it does not require extra heuristics, reward functions, or communication. |
+|[EnsLoss.](https://github.com/statmlben/ensLoss) |An ensemble approach called EnsLoss integrates loss functions into the Empirical Risk Minimization (ERM) paradigm. |
+|[Disentangled Motion Modeling for Video Frame Interpolation.](https://github.com/jhlew/momo) | MoMo is a novel diffusion-based approach for video frame interpolation (VFI). It enhances visual quality by focusing on intermediate motion modeling through a disentangled two-stage training process.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
