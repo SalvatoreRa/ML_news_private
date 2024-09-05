@@ -157,7 +157,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What Succeeding at AI Safety Will Involve.](https://sleepinyourhat.github.io/checklist/) |Sam from Anthropic hazard a guess as to what will have to be done in order for AI safety to be successful while creating superhuman AI systems. |
 |[the art of programming and why i won't use llm.](https://kennethnym.com/blog/why-i-still-wont-use-llm/) |Although LLMs are praised for increasing productivity and are being incorporated into coding workflows more and more, some contend that their programming effectiveness is overstated. |
 |[‘He was in mystic delirium’: was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?.](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence) |In isolation, Alexander Grothendieck seemed to have lost touch with reality, but some say his metaphysical theories could contain wonders |
-|[.]() | |
+|[AI Checkers Forcing Kids To Write Like A Robot To Avoid Being Called A Robot.](https://www.techdirt.com/2024/09/04/ai-checkers-forcing-kids-to-write-like-a-robot-to-avoid-being-called-a-robot/) |Can the fear of students using generative AI and the rise of questionable AI “checker” tools create a culture devoid of creativity? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
