@@ -88,9 +88,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Leveraging AI for efficient incident response.](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/) |With the help of heuristic retrieval and LLM-based ranking, Meta has developed an AI-assisted root cause analysis system that has successfully identified 42% of the causes in its web monorepo investigations. Improving system accuracy has mostly been achieved by fine-tuning the Llama 2 model using previous data. The organization intends to increase the integration of AI tools with the goal of achieving autonomous processes and proactive risk mitigation. |
 |[Artificial Intelligence Predicts Earthquakes With Unprecedented Accuracy.](https://scitechdaily.com/artificial-intelligence-predicts-earthquakes-with-unprecedented-accuracy/) |After testing their AI in China, researchers at the University of Texas were able to predict 70% of earthquakes. |
 |[Recall 2.0? Microsoft plans another AI feature that scans everything.](https://www.pcworld.com/article/2447369/recall-2-microsoft-plans-another-ai-feature-that-reads-everything.html) |Another AI-driven feature that searches PC content surfaces in Windows 11, raising questions about data privacy. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[You.com raises $50M Series B.](https://you.com/articles/50m-series-b) |The search engine, agent platform, and knowledge base startup You.com has raised more money as it expands. |
+|[Sakana raises $100m Series A.](https://sakana.ai/series-a/) |With the increase, Sakana will be able to hire more researchers, expand its computational capacity, and generally establish itself as one of Japan's top AI labs. |
+|[Google AI Overviews rollout hits news publisher search visibility.](https://pressgazette.co.uk/platforms/google-ai-overviews-rollout-hits-news-publisher-search-visibility/) |Some news items now have AI-written summaries available in Google's US and UK search results. According to research, publisher visibility is being impacted by these AI Overviews, which is causing original articles to fall in the search results. To sustain traffic, this move may require major adjustments to SEO tactics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
