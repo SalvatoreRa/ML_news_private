@@ -100,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google AI Overviews rollout hits news publisher search visibility.](https://pressgazette.co.uk/platforms/google-ai-overviews-rollout-hits-news-publisher-search-visibility/) |Some news items now have AI-written summaries available in Google's US and UK search results. According to research, publisher visibility is being impacted by these AI Overviews, which is causing original articles to fall in the search results. To sustain traffic, this move may require major adjustments to SEO tactics. |
 |[US, UK, EU and others sign landmark AI safety treaty.](https://siliconangle.com/2024/09/05/us-uk-eu-others-sign-landmark-ai-safety-treaty/) | More than a dozen countries have signed a treaty designed to ensure that artificial intelligence models are used in a safe manner.|
 |[OpenAI's Next-Generation Models Could Reportedly Cost $2,000.](https://www.inc.com/ben-sherry/openais-next-generation-models-could-reportedly-cost-2000.html) | The Sam Altman-led company's new artificial intelligence models, such as Strawberry and Orion, likely won't be cheap.|
-|[.]() | |
-|[.]() | |
+|[Alleged fraudster got $10 million in royalties using robots to stream AI-made music.](https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html) |A North Carolina man is facing fraud charges after allegedly uploading hundreds of thousands of AI-generated songs to streaming services and using bots to play them billions of times. Michael Smith is said to have received over $10 million in royalties since 2017 via the scheme. |
+|[Advertisers plan to withdraw from X in record numbers.](https://edition.cnn.com/2024/09/05/business/advertisers-x-withdrawal/index.html) | A record number of firms plan to cut advertising spending on X next year because of concerns that extreme content on the platform could damage their brands, dealing another blow to the financial fortunes of Elon Musk’s social media company.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
