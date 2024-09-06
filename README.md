@@ -98,6 +98,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[You.com raises $50M Series B.](https://you.com/articles/50m-series-b) |The search engine, agent platform, and knowledge base startup You.com has raised more money as it expands. |
 |[Sakana raises $100m Series A.](https://sakana.ai/series-a/) |With the increase, Sakana will be able to hire more researchers, expand its computational capacity, and generally establish itself as one of Japan's top AI labs. |
 |[Google AI Overviews rollout hits news publisher search visibility.](https://pressgazette.co.uk/platforms/google-ai-overviews-rollout-hits-news-publisher-search-visibility/) |Some news items now have AI-written summaries available in Google's US and UK search results. According to research, publisher visibility is being impacted by these AI Overviews, which is causing original articles to fall in the search results. To sustain traffic, this move may require major adjustments to SEO tactics. |
+|[US, UK, EU and others sign landmark AI safety treaty.](https://siliconangle.com/2024/09/05/us-uk-eu-others-sign-landmark-ai-safety-treaty/) | More than a dozen countries have signed a treaty designed to ensure that artificial intelligence models are used in a safe manner.|
+|[OpenAI's Next-Generation Models Could Reportedly Cost $2,000.](https://www.inc.com/ben-sherry/openais-next-generation-models-could-reportedly-cost-2000.html) | The Sam Altman-led company's new artificial intelligence models, such as Strawberry and Orion, likely won't be cheap.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
