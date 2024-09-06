@@ -147,9 +147,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building LLMs from the Ground Up: A 3-hour Coding Workshop.](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | Great resource about LLM building from scratch |
 |[SGLang v0.3 Release.](https://lmsys.org/blog/2024-09-04-sglang-v0-3/) | The most recent release brings enhancements to SGLang inference, including Multi-Image/Video LLaVA-OneVision, 1.5x Faster torch.compile, and 7x Faster DeepSeek MLA.|
 |[OLMoE: Open Mixture-of-Experts Language Models.](https://arxiv.org/abs/2409.02060) |Best in class performance for 1B activated parameters in an excellent open MoE. |
-|[StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models.](https://arxiv.org/abs/2409.02543v1) | |
-|[.]() | |
-|[.]() | |
+|[StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models.](https://arxiv.org/abs/2409.02543v1) |This work presents StyleTokenizer, an approach that aligns style representation with text prompts to improve style control in text-to-image generation. |
+|[Applied Machine Learning (Cornell CS5785, Fall 2024).](https://github.com/kuleshov/cornell-cs5785-2024-applied-ml) | Open resources for the Fall 2024 Applied ML class at Cornell.|
+|[Laminar - Open-Source observability, analytics, evals and prompt chains for complex LLM apps.](https://github.com/lmnr-ai/lmnr) |  Laminar hosts background job queues of LLM pipelines. Outputs of those pipelines are turned into metrics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
