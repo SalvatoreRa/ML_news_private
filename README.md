@@ -105,6 +105,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dutch Regulator Slams Clearview AI with €30.5 Million Penalty for “Massive” Rights Breach.](https://thedeepdive.ca/dutch-regulator-slams-clearview-ai-with-e30-5-million-penalty-for-massive-rights-breach/) |The Dutch Data Protection Authority (DPA) announced on Tuesday that it has imposed a €30.5 million ($33.7 million) fine on US facial recognition company Clearview AI for illegally creating a database of billions of facial images. |
 |[M&S using AI as personal style guru in effort to boost online sales.](https://www.theguardian.com/business/article/2024/sep/05/m-and-s-using-ai-to-advise-shoppers-body-shape-style-preferences) | Shoppers can use technology to advise them on outfit choices based on their body shape and style preferences|
 |[Google’s AI-powered Ask Photos feature begins US rollout.](https://techcrunch.com/2024/09/05/googles-ai-powered-ask-photos-feature-begins-u-s-rollout/) | More sophisticated natural language queries may now be used to search through photographs with Google photographs' new AI-powered search function, "Ask Photos," which is now available to a limited number of American users.|
+|[Alibaba releases new AI model Qwen2-VL that can analyze videos more than 20 minutes long.](https://venturebeat.com/ai/alibaba-releases-new-ai-model-qwen2-vl-that-can-analyze-videos-more-than-20-minutes-long/) | Qwen2-VL, a new vision-language model with improved visual understanding, multilingual text-image processing, and video comprehension, has been published by Alibaba Cloud. In comparison to models such as Meta's Llama 3.1 and OpenAI's GPT-4o, Qwen2-VL performs better and is compatible with a wider range of applications, such as real-time video analysis and technical help. The models are open-source under Apache 2.0 for the smaller versions, and are available in three sizes (7B, 2B, and shortly 72B).|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +144,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EnsLoss.](https://github.com/statmlben/ensLoss) |An ensemble approach called EnsLoss integrates loss functions into the Empirical Risk Minimization (ERM) paradigm. |
 |[Disentangled Motion Modeling for Video Frame Interpolation.](https://github.com/jhlew/momo) | MoMo is a novel diffusion-based approach for video frame interpolation (VFI). It enhances visual quality by focusing on intermediate motion modeling through a disentangled two-stage training process.|
 |[repo2vec.](https://github.com/Storia-AI/repo2vec) |Repo2vec is a new package that functions similarly to GitHub Copilot but with up-to-date repo information, making it simple to communicate with any public or private codebase. |
-|[Building LLMs from the Ground Up: A 3-hour Coding Workshop.](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | |
+|[Building LLMs from the Ground Up: A 3-hour Coding Workshop.](https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up) | Great resource about LLM building from scratch |
+|[SGLang v0.3 Release.](https://lmsys.org/blog/2024-09-04-sglang-v0-3/) | The most recent release brings enhancements to SGLang inference, including Multi-Image/Video LLaVA-OneVision, 1.5x Faster torch.compile, and 7x Faster DeepSeek MLA.|
+|[OLMoE: Open Mixture-of-Experts Language Models.](https://arxiv.org/abs/2409.02060) |Best in class performance for 1B activated parameters in an excellent open MoE. |
+|[StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models.](https://arxiv.org/abs/2409.02543v1) | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
