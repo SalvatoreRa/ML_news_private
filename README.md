@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Latent Distillation for Continual Object Detection at the Edge.](https://arxiv.org/abs/2409.01872v1) |A unique Continual Learning technique for object detection that overcomes memory and computational limitations on edge devices is called latent distillation. |
 |[Masked Mixers for Language Generation and Retrieval.](https://arxiv.org/abs/2409.01482v1) |Masked mixers are a unique architecture designed to enhance input representation in language models by substituting masked convolutions for self-attention. |
 |[Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology.](https://arxiv.org/abs/2404.10242v1) | Using masked autoencoders and self-supervised learning, researchers have created a novel technique that greatly enhances the processing of large-scale microscope pictures.|
-|[.]() | |
+|[Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?](https://github.com/yixuantt/poolingandattn) |This work compares alternative pooling and attention strategies while examining multiple designs for LLM-based embedding models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,7 +150,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models.](https://arxiv.org/abs/2409.02543v1) |This work presents StyleTokenizer, an approach that aligns style representation with text prompts to improve style control in text-to-image generation. |
 |[Applied Machine Learning (Cornell CS5785, Fall 2024).](https://github.com/kuleshov/cornell-cs5785-2024-applied-ml) | Open resources for the Fall 2024 Applied ML class at Cornell.|
 |[Laminar - Open-Source observability, analytics, evals and prompt chains for complex LLM apps.](https://github.com/lmnr-ai/lmnr) |  Laminar hosts background job queues of LLM pipelines. Outputs of those pipelines are turned into metrics. |
-|[.]() | |
+|[LongLLaVA.](https://github.com/freedomintelligence/longllava) | A multimodal model called LongLLaVA was created to handle long-context tasks like comprehending high-resolution images and videos.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -186,7 +186,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Debate over “open source AI” term brings new push to formalize definition.](https://arstechnica.com/information-technology/2024/08/debate-over-open-source-ai-term-brings-new-push-to-formalize-definition/) | In an effort to clarify the meaning and address the term's overuse, the Open Source Initiative (OSI) published a proposed definition of "open source AI" that includes usage rights, study, modification, and sharing freedoms. With this step, researchers and engineers will be able to assess AI systems in a more transparent manner. In October, a stable version of the definition is anticipated, which may have an impact on upcoming releases of AI models and regulations.|
 |[Predicting AI.](https://www.strangeloopcanon.com/p/predicting-ai) |This author considers their forecasts for AI and notes that they were correct to predict the growth of open source, multimodal models, and improved tool usability. |
 |[Bill Gates has a good feeling about AI.](https://www.theverge.com/24235730/bill-gates-ai-climate-change-energy-tech-microsoft-netflix) |The Verge spoke with Bill Gates about AI, misinformation, and climate change. |
-|[.]() | |
+|[Enterprise AI Infrastructure: Privacy, Maturity, Resources.](https://www.heavybit.com/library/article/enterprise-ai-infrastructure-privacy-maturity-resources) |An interesting interview with BentoML's CEO discusses how to enhance business tooling, make sure you can expand, and avoid over-engineering it from the start. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
