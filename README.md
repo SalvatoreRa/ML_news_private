@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Masked Mixers for Language Generation and Retrieval.](https://arxiv.org/abs/2409.01482v1) |Masked mixers are a unique architecture designed to enhance input representation in language models by substituting masked convolutions for self-attention. |
 |[Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology.](https://arxiv.org/abs/2404.10242v1) | Using masked autoencoders and self-supervised learning, researchers have created a novel technique that greatly enhances the processing of large-scale microscope pictures.|
 |[Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?](https://github.com/yixuantt/poolingandattn) |This work compares alternative pooling and attention strategies while examining multiple designs for LLM-based embedding models. |
-|[.]() | |
+|[AlphaProteo generates novel proteins for biology and health research.](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/) |New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
