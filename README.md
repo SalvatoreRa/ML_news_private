@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: Week 2 - 8 September
 
 ## Research
 |Link|description|
@@ -60,18 +60,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology.](https://arxiv.org/abs/2404.10242v1) | Using masked autoencoders and self-supervised learning, researchers have created a novel technique that greatly enhances the processing of large-scale microscope pictures.|
 |[Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?](https://github.com/yixuantt/poolingandattn) |This work compares alternative pooling and attention strategies while examining multiple designs for LLM-based embedding models. |
 |[AlphaProteo generates novel proteins for biology and health research.](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/) |New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -109,13 +97,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Broadcom is working to integrate optical connectivity directly into GPUs.](https://www.techspot.com/news/104495-broadcom-working-integrate-optical-connectivity-directly-gpus.html) |Currently, one of the main obstacles to training large models is the bandwidth of GPU interface. The problem would be much reduced if Broadcom could include optical transfer directly into GPUs, as they are now working on doing. |
 |[YouTube is making tools to detect face and voice deepfakes.](https://www.engadget.com/ai/youtube-is-making-tools-to-detect-face-and-voice-deepfakes-191536027.html) |It plans to launch a pilot program for the voice detection tool by early next year. |
 |[Google is working on AI that can hear signs of sickness.](https://techcrunch.com/2024/08/29/google-is-working-on-ai-that-can-hear-signs-of-sickness/) |Given everything you’ve already heard about AI, you may not be surprised to learn that Google is among other outfits beginning to use sound signals to predict early signs of disease.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -151,13 +132,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Applied Machine Learning (Cornell CS5785, Fall 2024).](https://github.com/kuleshov/cornell-cs5785-2024-applied-ml) | Open resources for the Fall 2024 Applied ML class at Cornell.|
 |[Laminar - Open-Source observability, analytics, evals and prompt chains for complex LLM apps.](https://github.com/lmnr-ai/lmnr) |  Laminar hosts background job queues of LLM pipelines. Outputs of those pipelines are turned into metrics. |
 |[LongLLaVA.](https://github.com/freedomintelligence/longllava) | A multimodal model called LongLLaVA was created to handle long-context tasks like comprehending high-resolution images and videos.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -187,14 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Predicting AI.](https://www.strangeloopcanon.com/p/predicting-ai) |This author considers their forecasts for AI and notes that they were correct to predict the growth of open source, multimodal models, and improved tool usability. |
 |[Bill Gates has a good feeling about AI.](https://www.theverge.com/24235730/bill-gates-ai-climate-change-energy-tech-microsoft-netflix) |The Verge spoke with Bill Gates about AI, misinformation, and climate change. |
 |[Enterprise AI Infrastructure: Privacy, Maturity, Resources.](https://www.heavybit.com/library/article/enterprise-ai-infrastructure-privacy-maturity-resources) |An interesting interview with BentoML's CEO discusses how to enhance business tooling, make sure you can expand, and avoid over-engineering it from the start. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: ML news: Week 26 August - 1 September
 
