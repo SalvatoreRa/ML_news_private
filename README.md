@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[OLMoE: Open Mixture-of-Experts Language Models.](https://arxiv.org/abs/2409.02060) |Presents a fully open large language model (LLM) that utilizes a sparse Mixture-of-Experts approach. OLMoE is a 7B parameter model with 1B active parameters per input token. An instruction-tuned version is also available, which reportedly surpasses the performance of Llama-2-13B-Chat and DeepSeekMoE 16B. |
 |[Large Language Model-Based Agents for Software Engineering: A Survey.](https://arxiv.org/abs/2409.02977) |A survey paper on large language model (LLM)-based agents in software engineering, offering insights across various areas such as requirements engineering, test generation, and software maintenance. |
-|[.]() | |
-|[.]() | |
+|[DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos.](https://arxiv.org/abs/2409.02095) |Researchers were able to produce very accurate depth information without requiring any camera posture or optical flow information by using Stable Diffusion video as a prior model. |
+|[SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration.](https://arxiv.org/abs/2409.02231) |Using DPO style data and supervised fine-tuning on open-source language models, LLMs can be trained to produce compounds with intriguing features for potential medicinal development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
