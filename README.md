@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘If journalism is going up in smoke, I might as well get high off the fumes’: confessions of a chatbot helper.](https://www.theguardian.com/technology/article/2024/sep/07/if-journalism-is-going-up-in-smoke-i-might-as-well-get-high-off-the-fumes-confessions-of-a-chatbot-helper) | Journalists and other writers are employed to improve the quality of chatbot replies. The irony of working for an industry that may well make their craft redundant is not lost on them|
 |[.]() | |
 |[.]() | |
 |[.]() | |
