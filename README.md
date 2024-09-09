@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[In Defense of RAG in the Era of Long-Context Language Models.](https://arxiv.org/abs/2409.01666) |reports that one of the main problems that a RAG system addresses (i.e., uses more relevant information) is that longer-context LLMs suffer from a diminished focus on relevant information. They suggest an order-preserving RAG mechanism that enhances performance on long-context question answering, but it's not perfect—in fact, the quality of responses increases and then declines as retrieved chunks increase. They also mention a sweet spot where it can achieve better quality with a lot fewer tokens than long-context LLMs. |
 |[Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation.](https://arxiv.org/abs/2409.03271v1) | a technique to improve LLM performance by adding strategic information prior to the intermediate CoT reasoning phases; the strategy for addressing problems aids in directing the creation of the CoT paths and solutions; promises to use the Llama3-8b model to get a 21.05% gain on the GSM8K datasets.|
 |[The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566) |Examines the effects of generative AI on software developers, highlighting a 26.08% rise in completed tasks among developers utilizing AI tools such as GitHub Copilot. Additionally, it indicates that less experienced developers are more inclined to adopt AI tools and experience significant productivity improvements. |
-|[.]() | |
+|[LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA.](https://arxiv.org/abs/2409.02897) |Creates a large-scale supervised fine-tuning (SFT) dataset using off-the-shelf large language models (LLMs) to enhance long-context question answering with citations. The training focuses on 8B and 9B parameter models, improving their ability to generate citations from extended contexts while enhancing response accuracy. It claims to outperform GPT-4o on their proposed LongBench-Cite benchmark. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[OLMoE: Open Mixture-of-Experts Language Models.](https://arxiv.org/abs/2409.02060) |Presents a fully open large language model (LLM) that utilizes a sparse Mixture-of-Experts approach. OLMoE is a 7B parameter model with 1B active parameters per input token. An instruction-tuned version is also available, which reportedly surpasses the performance of Llama-2-13B-Chat and DeepSeekMoE 16B. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
