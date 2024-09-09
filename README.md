@@ -40,8 +40,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Diffusion Models Are Real-Time Game Engines.](https://arxiv.org/abs/2408.14837) | a two-phase training process involving an RL agent to learn and a diffusion model to generate frames; it can interactively simulate DOOM over at 20 frames per second on a single TPU. A game engine driven by a diffusion model allows real-time interaction with complex environments over long trajectories.|
-|[Agentic Retrieval-Augmented Generation for Time Series Analysis.](https://arxiv.org/abs/2408.14484) |suggests an agentic RAG framework for time series analysis. It makes use of a multi-agent architecture in which an agent directs specialized sub-agents to carry out time-series tasks. These sub-agents can retrieve pertinent prompts that contain information about past patterns and trends, which helps to improve predictions on new data. The sub-agents use tuned small language models to accomplish these tasks. |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
