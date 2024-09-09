@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Running a LLM on the ESP32.](https://github.com/DaveBben/esp32-llm) |This code demonstrates how to execute a small language model on an Arduino board, showcasing the process of deploying and running AI models on resource-constrained hardware. |
 |[DocAI.](https://github.com/madisonmay/docai) |This is another example of effectively leveraging existing models to extract structured information from documents, demonstrating the innovative use of pre-trained AI models to automate data extraction tasks efficiently. |
 |[FluxMusic.](https://github.com/feizc/FluxMusic) |Text-to-music generation using a rectified flow transformer involves converting text inputs into musical compositions by utilizing a model that combines transformer architectures with rectified flow techniques. This approach enhances the model's ability to generate coherent and diverse music sequences based on textual descriptions. |
-|[.]() | |
+|[iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models.](https://github.com/AuvaLab/itext2kg) | iText2KG is a Python package that leverages large language models to extract entities and relationships from text, progressively constructing consistent knowledge graphs. This tool automates the process of transforming unstructured text into structured knowledge, allowing for the incremental growth of comprehensive knowledge graphs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘If journalism is going up in smoke, I might as well get high off the fumes’: confessions of a chatbot helper.](https://www.theguardian.com/technology/article/2024/sep/07/if-journalism-is-going-up-in-smoke-i-might-as-well-get-high-off-the-fumes-confessions-of-a-chatbot-helper) | Journalists and other writers are employed to improve the quality of chatbot replies. The irony of working for an industry that may well make their craft redundant is not lost on them|
-|[.]() | |
-|[.]() | |
+|[Will AI make us overconfident?](https://tedunderwood.com/2024/08/31/will-ai-make-us-overconfident/) | Students are increasingly turning to AI tools like ChatGPT to tackle complex research challenges, surprising educators with their swift advancements. AI-powered development tools, particularly in coding, greatly enhance both ambition and productivity, though they also introduce risks of overconfidence and mistakes. Despite occasional inaccuracies, AI offers valuable interactive starting points for difficult tasks, potentially fostering more active learning and encouraging exploration across disciplines.|
+|[LLMs struggle to explain themselves.](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/) | An interactive demo was employed to evaluate large language models' (LLMs) ability to recognize and explain number sequences produced by random programs. The findings revealed that although LLMs often correctly identified the sequences, their explanations of the underlying patterns were frequently inaccurate. This underscores the limitations of LLMs' reasoning capabilities, despite their strong performance on standardized tests.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
