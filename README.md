@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DocAI.](https://github.com/madisonmay/docai) |This is another example of effectively leveraging existing models to extract structured information from documents, demonstrating the innovative use of pre-trained AI models to automate data extraction tasks efficiently. |
 |[FluxMusic.](https://github.com/feizc/FluxMusic) |Text-to-music generation using a rectified flow transformer involves converting text inputs into musical compositions by utilizing a model that combines transformer architectures with rectified flow techniques. This approach enhances the model's ability to generate coherent and diverse music sequences based on textual descriptions. |
 |[iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models.](https://github.com/AuvaLab/itext2kg) | iText2KG is a Python package that leverages large language models to extract entities and relationships from text, progressively constructing consistent knowledge graphs. This tool automates the process of transforming unstructured text into structured knowledge, allowing for the incremental growth of comprehensive knowledge graphs.|
-|[.]() | |
-|[.]() | |
+|[Multimodal RAG using ColPali (with Byaldi) and Qwen2-VL.](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb) | Merve has created a great resource for using language and vision models to improve retrieval.|
+|[Awesome-Text2X-Resources.](https://github.com/ALEEEHU/Awesome-Text2X-Resources) | This is an open collection of state-of-the-art (SOTA) and novel Text-to-X methods (where X can represent any output, such as images, audio, or 3D models). The collection includes papers, code, and datasets, aimed at staying up-to-date with the expected surge in research developments in this area over the coming months.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
