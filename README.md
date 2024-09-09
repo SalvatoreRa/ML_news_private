@@ -65,10 +65,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Google using anti-competitive tactics in UK ad market, claims watchdog.](https://www.theguardian.com/technology/article/2024/sep/06/google-competition-uk-ad-market-cma) | CMA says tech company has ‘abused its dominant position’ to the detriment of publishers and advertisers|
+|[Apple to unveil iPhone 16 and ‘Apple Intelligence’ AI features.](https://www.theguardian.com/technology/article/2024/sep/09/apple-ai-iphone-16) |Apple watchers also expect new colors for the iPhone at the annual launch event, this year titled ‘It’s Glowtime’ |
+|[TSMC's $65 billion Arizona facility can now match Taiwan production yields according to early trials.](https://www.techspot.com/news/104622-tsmc-arizona-facility-matches-taiwan-production-yields-early.html) |he US is committed to establishing semiconductor manufacturing within its borders, and perhaps no effort is more crucial to this goal than TSMC's three-fab facility in Arizona. The government is pouring billions into the development, alongside TSMC's $65 billion investment. |
+|[AI Firm’s Misconfigured Server Exposed 5.3 TB of Mental Health Records.](https://hackread.com/ai-firm-misconfigured-server-exposed-mental-health-data/) |A misconfigured server from a US-based AI healthcare firm Confidant Health exposed 5.3 TB of sensitive mental health records, including personal details, assessments, and medical information, posing serious privacy risks for patients. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
