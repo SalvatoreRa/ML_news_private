@@ -40,8 +40,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[De novo design of high-affinity protein binderswith AlphaProteo.](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/AlphaProteo2024.pdf) |demonstrates a family of machine learning models that have been trained for protein design; reports 3-to 300-fold improvements in binding affinities and higher experimental success rates when compared to other methods on seven target proteins; demonstrates that AlphaProteo's performance is similar to the seven targets when tested on hundreds of target proteins from the PDB.  |
+|[In Defense of RAG in the Era of Long-Context Language Models.](https://arxiv.org/abs/2409.01666) |reports that one of the main problems that a RAG system addresses (i.e., uses more relevant information) is that longer-context LLMs suffer from a diminished focus on relevant information. They suggest an order-preserving RAG mechanism that enhances performance on long-context question answering, but it's not perfect—in fact, the quality of responses increases and then declines as retrieved chunks increase. They also mention a sweet spot where it can achieve better quality with a lot fewer tokens than long-context LLMs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
