@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA.](https://arxiv.org/abs/2409.02897) |Creates a large-scale supervised fine-tuning (SFT) dataset using off-the-shelf large language models (LLMs) to enhance long-context question answering with citations. The training focuses on 8B and 9B parameter models, improving their ability to generate citations from extended contexts while enhancing response accuracy. It claims to outperform GPT-4o on their proposed LongBench-Cite benchmark. |
 |[MemLong: Memory-Augmented Retrieval for Long Text Modeling.](https://arxiv.org/abs/2408.16967) |Employs an external retriever to gather historical information, enhancing the performance of long-context large language models (LLMs). It consistently surpasses other state-of-the-art LLMs on long-context benchmarks and can extend context length from 4k to 80k on a single 3090 GPU. |
 |[Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models.](https://arxiv.org/abs/2408.13533) | Introduces a benchmark, NoiserBench, to assess how various types of noisy information impact the performance of retrieval-augmented generation (RAG) models. The study reveals that, among different beneficial noise types (e.g., semantic, datatype, and illegal sentence), illegal sentence noise leads to the greatest performance improvement across models and datasets.|
-|[.]() | |
+|[Beyond Preferences in AI Alignment.](https://arxiv.org/abs/2408.16984) | Critiques the prevailing AI alignment method of human preference tuning, highlighting how it fails to grasp the rich, nuanced content of human values. The argument is made that AI alignment requires a reframing, suggesting that instead of aligning with individual human preferences, AI systems should align with normative standards relevant to their societal roles.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[OLMoE: Open Mixture-of-Experts Language Models.](https://arxiv.org/abs/2409.02060) |Presents a fully open large language model (LLM) that utilizes a sparse Mixture-of-Experts approach. OLMoE is a 7B parameter model with 1B active parameters per input token. An instruction-tuned version is also available, which reportedly surpasses the performance of Llama-2-13B-Chat and DeepSeekMoE 16B. |
-|[.]() | |
+|[Large Language Model-Based Agents for Software Engineering: A Survey.](https://arxiv.org/abs/2409.02977) |A survey paper on large language model (LLM)-based agents in software engineering, offering insights across various areas such as requirements engineering, test generation, and software maintenance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
