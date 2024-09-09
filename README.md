@@ -69,8 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple to unveil iPhone 16 and ‘Apple Intelligence’ AI features.](https://www.theguardian.com/technology/article/2024/sep/09/apple-ai-iphone-16) |Apple watchers also expect new colors for the iPhone at the annual launch event, this year titled ‘It’s Glowtime’ |
 |[TSMC's $65 billion Arizona facility can now match Taiwan production yields according to early trials.](https://www.techspot.com/news/104622-tsmc-arizona-facility-matches-taiwan-production-yields-early.html) |he US is committed to establishing semiconductor manufacturing within its borders, and perhaps no effort is more crucial to this goal than TSMC's three-fab facility in Arizona. The government is pouring billions into the development, alongside TSMC's $65 billion investment. |
 |[AI Firm’s Misconfigured Server Exposed 5.3 TB of Mental Health Records.](https://hackread.com/ai-firm-misconfigured-server-exposed-mental-health-data/) |A misconfigured server from a US-based AI healthcare firm Confidant Health exposed 5.3 TB of sensitive mental health records, including personal details, assessments, and medical information, posing serious privacy risks for patients. |
-|[.]() | |
-|[.]() | |
+|[California’s big AI regulation bill is headed to Gavin Newsom.](https://calmatters.org/economy/technology/2024/08/ai-safety-bill-california-legislature/) |A California bill requiring makers of large AI systems to test them for potential harm cleared the Legislature today. It could still face a veto by Gov. Gavin Newsom. |
+|[Google search monopoly US case remedies to come by December.](https://www.reuters.com/legal/google-search-monopoly-case-remedies-come-by-december-2024-09-06/) |The U.S. Department of Justice plans to issue an outline by December on what Alphabet's, must do to restore competition after a judge earlier found the company illegally monopolized the market for online search, prosecutors said at a court hearing in Washington on Friday. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
