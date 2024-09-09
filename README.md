@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MemLong: Memory-Augmented Retrieval for Long Text Modeling.](https://arxiv.org/abs/2408.16967) |Employs an external retriever to gather historical information, enhancing the performance of long-context large language models (LLMs). It consistently surpasses other state-of-the-art LLMs on long-context benchmarks and can extend context length from 4k to 80k on a single 3090 GPU. |
 |[Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models.](https://arxiv.org/abs/2408.13533) | Introduces a benchmark, NoiserBench, to assess how various types of noisy information impact the performance of retrieval-augmented generation (RAG) models. The study reveals that, among different beneficial noise types (e.g., semantic, datatype, and illegal sentence), illegal sentence noise leads to the greatest performance improvement across models and datasets.|
 |[Beyond Preferences in AI Alignment.](https://arxiv.org/abs/2408.16984) | Critiques the prevailing AI alignment method of human preference tuning, highlighting how it fails to grasp the rich, nuanced content of human values. The argument is made that AI alignment requires a reframing, suggesting that instead of aligning with individual human preferences, AI systems should align with normative standards relevant to their societal roles.|
-|[.]() | |
+|[Planning In Natural Language Improves LLM Search For Code Generation.](https://arxiv.org/abs/2409.03733) |Obtaining a variety of candidate solutions is one of the difficulties in code creation. Even repeated sampling frequently falls short of producing enough originality to address an issue. But if you start with a natural language plan and generate ideas for potential solution paths, the resulting generation is much more varied and diverse, which leads to better solutions for code creation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,9 +94,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large Language Model-Based Agents for Software Engineering: A Survey.](https://arxiv.org/abs/2409.02977) |A survey paper on large language model (LLM)-based agents in software engineering, offering insights across various areas such as requirements engineering, test generation, and software maintenance. |
 |[DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos.](https://arxiv.org/abs/2409.02095) |Researchers were able to produce very accurate depth information without requiring any camera posture or optical flow information by using Stable Diffusion video as a prior model. |
 |[SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration.](https://arxiv.org/abs/2409.02231) |Using DPO style data and supervised fine-tuning on open-source language models, LLMs can be trained to produce compounds with intriguing features for potential medicinal development. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Running a LLM on the ESP32.](https://github.com/DaveBben/esp32-llm) |This code demonstrates how to execute a small language model on an Arduino board, showcasing the process of deploying and running AI models on resource-constrained hardware. |
+|[DocAI.](https://github.com/madisonmay/docai) |This is another example of effectively leveraging existing models to extract structured information from documents, demonstrating the innovative use of pre-trained AI models to automate data extraction tasks efficiently. |
+|[FluxMusic.](https://github.com/feizc/FluxMusic) |Text-to-music generation using a rectified flow transformer involves converting text inputs into musical compositions by utilizing a model that combines transformer architectures with rectified flow techniques. This approach enhances the model's ability to generate coherent and diverse music sequences based on textual descriptions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
