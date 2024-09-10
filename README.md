@@ -102,9 +102,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Awesome-Text2X-Resources.](https://github.com/ALEEEHU/Awesome-Text2X-Resources) | This is an open collection of state-of-the-art (SOTA) and novel Text-to-X methods (where X can represent any output, such as images, audio, or 3D models). The collection includes papers, code, and datasets, aimed at staying up-to-date with the expected surge in research developments in this area over the coming months.|
 |[Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task.](https://arxiv.org/abs/2409.04005v1) | The Proxy Token Diffusion Transformer optimizes diffusion transformers by minimizing redundant computations, employing a reduced set of representative tokens for attention processing. This approach enhances efficiency while maintaining model performance.|
 |[UniDet3D: Multi-dataset Indoor 3D Object Detection.](https://arxiv.org/abs/2409.04234v1) |UniDet3D is a robust 3D object detection model designed to operate across multiple indoor datasets, delivering strong performance in identifying and detecting objects in three-dimensional spaces. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Starst3r.](https://github.com/phuang1024/Starst3r) |This innovative tool leverages Mast3r along with smart optimizations to efficiently reconstruct 3D scenes from just a few 2D images, offering impressive results with minimal input. |
+|[simple_tma.](https://github.com/kuterd/opal_ptx/blob/master/notebooks/simple_tma.ipynb) | Image processing and cropping that can be run on the GPU.|
+|[Lexicon3D.](https://yunzeman.github.io/lexicon3d/) |In a recent study comparing seven visual encoding models for 3D scene understanding, researchers found that the most effective model varied based on the specific task. DINOv2 emerged as the top performer overall, while video models excelled in object-level tasks, and diffusion models outperformed others in geometric tasks. Surprisingly, models pretrained on language showed notable limitations in this context. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
