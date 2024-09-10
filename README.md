@@ -105,6 +105,19 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Starst3r.](https://github.com/phuang1024/Starst3r) |This innovative tool leverages Mast3r along with smart optimizations to efficiently reconstruct 3D scenes from just a few 2D images, offering impressive results with minimal input. |
 |[simple_tma.](https://github.com/kuterd/opal_ptx/blob/master/notebooks/simple_tma.ipynb) | Image processing and cropping that can be run on the GPU.|
 |[Lexicon3D.](https://yunzeman.github.io/lexicon3d/) |In a recent study comparing seven visual encoding models for 3D scene understanding, researchers found that the most effective model varied based on the specific task. DINOv2 emerged as the top performer overall, while video models excelled in object-level tasks, and diffusion models outperformed others in geometric tasks. Surprisingly, models pretrained on language showed notable limitations in this context. |
+|[One-DM:One-Shot Diffusion Mimicker for Handwritten Text Generation.](https://github.com/dailenson/one-dm) |The One-DM model generates handwritten text that can imitate any style using only a single sample as reference. This approach allows for highly personalized handwriting generation with minimal input data. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
