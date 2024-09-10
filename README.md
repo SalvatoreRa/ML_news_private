@@ -77,6 +77,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s second antitrust suit brought by US begins, over online ads.](https://www.theguardian.com/technology/article/2024/sep/09/google-antitrust-lawsuit-online-ads) |DoJ accused tech giant of more monopolistic behavior a month after judge found it illegally cornered online search |
 |[What is Apple Intelligence, when is it coming and who will get it?](https://techcrunch.com/2024/09/09/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/) | At WWDC 2024, Apple unveiled Apple Intelligence, a platform designed to integrate AI capabilities into existing applications like Mail, Messages, and Siri. Utilizing large language models, it supports functions such as text summarization and image generation, all aimed at enhancing the user experience. A beta version will be available in the U.S. starting this October, with plans to expand globally in 2025.|
 |[New open source AI leader Reflection 70B’s performance questioned, accused of ‘fraud’.](https://venturebeat.com/ai/new-open-source-ai-leader-reflection-70bs-performance-questioned-accused-of-fraud/) |HyperWrite's Reflection 70B, a variant of Meta's Llama 3.1 LLM, is under scrutiny after independent evaluators were unable to reproduce its advertised performance. The problems were traced back to corrupted model weights during the upload to Hugging Face, causing inconsistencies. The AI community is now awaiting further clarifications and updates to better understand the model's true capabilities. |
+|[The new Shortwave AI Assistant.](https://www.shortwave.com/blog/new-shortwave-ai-email-assistant/) | Shortwave has substantially enhanced its AI Assistant, equipping it to handle complex, multi-step tasks like advanced searches, calendar lookups, and in-depth email analysis, making it more versatile and powerful in managing user tasks.|
+|[OpenAI might use Apple’s TSMC for chips.](https://www.computerworld.com/article/3502761/openai-might-use-apples-tsmc-for-chips.html) | OpenAI could greatly lower operational costs by adopting more efficient chips, which would be particularly beneficial as its user base continues to expand, allowing for better scalability and resource management.|
+|[Apple takes direct aim at Microsoft’s Copilot+ PCs in new AI-focused Mac promos.](https://9to5mac.com/2024/09/06/microsoft-copilot-pcs-apple-mac/) |Apple is actively marketing the Mac as the "best AI PC," positioning it as a direct competitor to Microsoft's Copilot+ PCs. This strategic push highlights Apple's focus on integrating AI capabilities into its devices, aiming to challenge Microsoft's AI-driven offerings in the PC market. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
