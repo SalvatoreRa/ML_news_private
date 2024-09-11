@@ -115,9 +115,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[simple_tma.](https://github.com/kuterd/opal_ptx/blob/master/notebooks/simple_tma.ipynb) | Image processing and cropping that can be run on the GPU.|
 |[Lexicon3D.](https://yunzeman.github.io/lexicon3d/) |In a recent study comparing seven visual encoding models for 3D scene understanding, researchers found that the most effective model varied based on the specific task. DINOv2 emerged as the top performer overall, while video models excelled in object-level tasks, and diffusion models outperformed others in geometric tasks. Surprisingly, models pretrained on language showed notable limitations in this context. |
 |[One-DM:One-Shot Diffusion Mimicker for Handwritten Text Generation.](https://github.com/dailenson/one-dm) |The One-DM model generates handwritten text that can imitate any style using only a single sample as reference. This approach allows for highly personalized handwriting generation with minimal input data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[optillm.](https://github.com/codelion/optillm) | Optillm assists in optimizing prompts by utilizing various well-established research algorithms, including Monte Carlo Tree Search, Z3 solvers, and Self Consistency, to improve performance.|
+|[Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation.](https://github.com/valeoai/ttyd) | Researchers tackled the challenge of source-free unsupervised domain adaptation for 3D semantic segmentation by implementing regularization techniques and proposing a new criterion to improve adaptation performance.|
+|[Memory-Efficient Optical Flow.](https://arxiv.org/abs/2409.04243v1) | HCVFlow is a newly developed memory-efficient optical flow method designed to address the high computational demands of all-pairs cost volumes in high-resolution images.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
