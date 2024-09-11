@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[optillm.](https://github.com/codelion/optillm) | Optillm assists in optimizing prompts by utilizing various well-established research algorithms, including Monte Carlo Tree Search, Z3 solvers, and Self Consistency, to improve performance.|
 |[Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation.](https://github.com/valeoai/ttyd) | Researchers tackled the challenge of source-free unsupervised domain adaptation for 3D semantic segmentation by implementing regularization techniques and proposing a new criterion to improve adaptation performance.|
 |[Memory-Efficient Optical Flow.](https://arxiv.org/abs/2409.04243v1) | HCVFlow is a newly developed memory-efficient optical flow method designed to address the high computational demands of all-pairs cost volumes in high-resolution images.|
-|[.]() | |
-|[.]() | |
+|[Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models.](https://sliders.baulab.info/) | Concept Sliders offer a powerful mechanism for controlling the output of diffusion models. Recent efforts have been made to integrate them with the new Flux suite of models, enhancing their functionality and adaptability.|
+|[Minifying HTML for GPT-4o: Remove all the HTML Tags.](https://blancas.io/blog/html-minify-for-llm/) |Converting HTML to plain text can significantly reduce costs with minimal performance loss in GPT-4o for data extraction tasks. Tests on the Mercury Prize dataset demonstrated that GPT-4o performs effectively even without the HTML structure, and GPT-4o mini offers a cost-efficient solution for handling unstructured questions. For structured extraction tasks, it's advisable to test both versions to find the right balance between cost and accuracy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
