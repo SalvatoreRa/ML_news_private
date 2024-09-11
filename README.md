@@ -51,8 +51,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Planning In Natural Language Improves LLM Search For Code Generation.](https://arxiv.org/abs/2409.03733) |Obtaining a variety of candidate solutions is one of the difficulties in code creation. Even repeated sampling frequently falls short of producing enough originality to address an issue. But if you start with a natural language plan and generate ideas for potential solution paths, the resulting generation is much more varied and diverse, which leads to better solutions for code creation. |
 |[Imitating Language via Scalable Inverse Reinforcement Learning.](https://arxiv.org/abs/2409.01369) |Modern language modeling can largely be viewed as a specialized form of imitation learning, which benefits from extensive research in the broader field. This paper investigates the application of inverse reinforcement learning to mimic entire sequences rather than individual tokens. The findings are encouraging and suggest that reinforcement learning could play an increasingly important role in the training pipelines of language models moving forward. |
 |[Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers.](https://arxiv.org/abs/2409.04109) | This longitudinal study evaluated the abilities of 100 NLP researchers to generate and review novel ideas. The findings revealed that while LLMs were able to produce more innovative ideas, these ideas were slightly less practical compared to those created by human researchers.|
-|[.]() | |
-|[.]() | |
+|[Superhuman Automated Forecasting.](https://www.safe.ai/blog/forecasting) |The Safe AI Institute has published research on a system capable of surpassing human experts in forecasting accuracy. |
+|[The AdEMAMix Optimizer: Better, Faster, Older.](https://arxiv.org/abs/2409.03137) | This paper from Apple introduces an alternative to the traditional exponential moving average optimization method, incorporating contributions from older gradients to significantly enhance learning convergence.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
