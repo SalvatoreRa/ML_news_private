@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Chatbots Have a Political Bias That Could Unknowingly Influence Society.](https://www.sciencealert.com/ai-chatbots-have-a-political-bias-that-could-unknowingly-influence-society?utm_source=reddit_post) | A new study has uncovered strong evidence that we can now add political bias to that list, further demonstrating the potential of the emerging technology to unwittingly and perhaps even nefariously influence society's values and attitudes.|
 |[How influencers and algorithms mobilize propaganda — and distort reality.](https://www.nature.com/articles/d41586-024-02917-1) |The engagement-fuelled logic of social media has bequeathed us a world in which what’s trending is a yardstick for what’s true. |
 |[Artificial intelligence can help to make animal research redundant.](https://www.nature.com/articles/d41586-024-02894-5) |One alternative in its early stages is artificial intelligence (AI), whereby generative adversarial networks produce animal data. But there remains a disconnect between AI-generated animal data and human safety data. Computer models that simulate complex human physiological processes could close this gap, with AI used to analyse the resulting data sets. |
-|[.]() | |
+|[Wikipedia is facing an existential crisis. Can gen Z save it?](https://www.theguardian.com/commentisfree/2024/sep/12/wikipedia-generation-z-young-editors-chatbots) |The world’s most important knowledge platform needs young editors to rescue it from chatbots – and its own tired practices |
 |[.]() | |
 |[.]() | |
 |[.]() | |
