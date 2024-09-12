@@ -144,9 +144,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Minifying HTML for GPT-4o: Remove all the HTML Tags.](https://blancas.io/blog/html-minify-for-llm/) |Converting HTML to plain text can significantly reduce costs with minimal performance loss in GPT-4o for data extraction tasks. Tests on the Mercury Prize dataset demonstrated that GPT-4o performs effectively even without the HTML structure, and GPT-4o mini offers a cost-efficient solution for handling unstructured questions. For structured extraction tasks, it's advisable to test both versions to find the right balance between cost and accuracy. |
 |[Prompt2Fashion: An automatically generated fashion dataset.](https://arxiv.org/abs/2409.06442v1) |This dataset, created with large language models, curates outfit recommendations for various occasions, styles, and body types, providing high-quality and relevant suggestions. |
 |[Sources of Uncertainty in 3D Scene Reconstruction.](https://arxiv.org/abs/2409.06407v1) |Researchers are improving 3D scene reconstruction techniques such as Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting (GS) by incorporating uncertainty estimation methods. Although these approaches produce high-quality renders, they face challenges in addressing uncertainties caused by noise, occlusions, and camera inaccuracies. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[🦙🎧 LLaMA-Omni: Seamless Speech Interaction with Large Language Models.](https://github.com/ictnlp/LLaMA-Omni) | Llama Omni is a speech input-output model built on Llama 3.1 8B, designed to operate with extremely low latency while maintaining high-quality responses.|
+|[AWS AI Stack.](https://github.com/serverless/aws-ai-stack) | This ready-to-use, full-stack boilerplate project is designed for building serverless AI applications on AWS. It is ideal for developers looking for a reliable AWS foundation for AI apps and seamless access to powerful LLM models through Bedrock, while ensuring your app's data remains separate from model providers.|
+|[Internet of Agents.](https://github.com/openbmb/ioa) | The Internet of Agents (IoA) is a novel framework aimed at enhancing multi-agent collaboration by enabling more efficient integration of diverse third-party agents.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
