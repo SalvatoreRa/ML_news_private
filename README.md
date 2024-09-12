@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SGSeg: Enabling Text-free Inference in Language-guided Segmentation of Chest X-rays via Self-guidance.](https://shuchangye-bib.github.io/websites/SGSeg/sgseg.html) |SGSeg is a segmentation framework for chest X-rays that incorporates language guidance during training but allows for text-free inference during the prediction phase. |
 |[Are novelists who worry about the rise of AI really ‘classist and ableist’?](https://www.theguardian.com/commentisfree/article/2024/sep/11/are-novelists-who-worry-about-the-rise-of-ai-really-classist-and-ableist) |An international writing organisation appeared to greenlight the use of AI, prompting anger, the resignation of four board members and an entire creative community to ask: ‘What?!’ |
 |[AI Chatbots Have a Political Bias That Could Unknowingly Influence Society.](https://www.sciencealert.com/ai-chatbots-have-a-political-bias-that-could-unknowingly-influence-society?utm_source=reddit_post) | A new study has uncovered strong evidence that we can now add political bias to that list, further demonstrating the potential of the emerging technology to unwittingly and perhaps even nefariously influence society's values and attitudes.|
-|[.]() | |
+|[How influencers and algorithms mobilize propaganda — and distort reality.](https://www.nature.com/articles/d41586-024-02917-1) |The engagement-fuelled logic of social media has bequeathed us a world in which what’s trending is a yardstick for what’s true. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
