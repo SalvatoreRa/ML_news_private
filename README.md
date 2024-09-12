@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers.](https://arxiv.org/abs/2409.04109) | This longitudinal study evaluated the abilities of 100 NLP researchers to generate and review novel ideas. The findings revealed that while LLMs were able to produce more innovative ideas, these ideas were slightly less practical compared to those created by human researchers.|
 |[Superhuman Automated Forecasting.](https://www.safe.ai/blog/forecasting) |The Safe AI Institute has published research on a system capable of surpassing human experts in forecasting accuracy. |
 |[The AdEMAMix Optimizer: Better, Faster, Older.](https://arxiv.org/abs/2409.03137) | This paper from Apple introduces an alternative to the traditional exponential moving average optimization method, incorporating contributions from older gradients to significantly enhance learning convergence.|
-|[.]() | |
+|[DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data.](https://arxiv.org/abs/2405.10185v1) | DiverGen is an innovative approach for generating datasets to improve instance segmentation models. Instead of relying on expensive manual annotations, it leverages generative models to create diverse data, helping to mitigate overfitting and boost model performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[iOS 18.1 with Apple Intelligence launches in October, more languages rolling out over time.](https://9to5mac.com/2024/09/09/ios-18-1-apple-intelligence-languages-october/) |Apple announced that Apple Intelligence will launch in beta with iOS 18.1 in October, initially available exclusively for US English users. |
 |[Bringing generative AI to video with Adobe Firefly Video Model.](https://blog.adobe.com/en/publish/2024/09/11/bringing-gen-ai-to-video-adobe-firefly-video-model-coming-soon) |Adobe's Firefly Video Model introduces AI-driven tools to video editing programs such as Premiere Pro. Set to launch in beta later this year, the model provides editors with improved workflows, enabling them to experiment with creative concepts, fill gaps in timelines, and incorporate new elements into their videos. |
 |[Mistral releases Pixtral 12B, its first multimodal model.](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/) |French AI startup Mistral has introduced Pixtral 12B, a multimodal model with 12 billion parameters designed to handle both images and text. The model, accessible through GitHub and Hugging Face, can be fine-tuned and is available under the Apache 2.0 license. This release comes after Mistral secured $645 million in funding, strengthening its role as a key player in Europe's AI industry. |
-|[.]() | |
+|[Elon Musk says Tesla has ‘no need’ to license xAI models.](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/) |Elon Musk has refuted claims that Tesla will share revenue with his AI startup xAI in exchange for using its AI models. He explained that while Tesla has gained from xAI engineers' expertise, it doesn't need to license xAI's models. Musk also noted that xAI's large models are incompatible with Tesla's vehicle computers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
