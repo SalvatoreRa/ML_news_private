@@ -147,8 +147,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[🦙🎧 LLaMA-Omni: Seamless Speech Interaction with Large Language Models.](https://github.com/ictnlp/LLaMA-Omni) | Llama Omni is a speech input-output model built on Llama 3.1 8B, designed to operate with extremely low latency while maintaining high-quality responses.|
 |[AWS AI Stack.](https://github.com/serverless/aws-ai-stack) | This ready-to-use, full-stack boilerplate project is designed for building serverless AI applications on AWS. It is ideal for developers looking for a reliable AWS foundation for AI apps and seamless access to powerful LLM models through Bedrock, while ensuring your app's data remains separate from model providers.|
 |[Internet of Agents.](https://github.com/openbmb/ioa) | The Internet of Agents (IoA) is a novel framework aimed at enhancing multi-agent collaboration by enabling more efficient integration of diverse third-party agents.|
-|[.]() | |
-|[.]() | |
+|[ell: The Language Model Programming Library.](https://docs.ell.so/) |Ell is a newly released package developed by a former OpenAI scientist, designed to manage prompts as code, streamlining the process of working with prompts in AI applications. |
+|[EMO-Disentanger.](https://github.com/yuer867/emo-disentanger) |This research employs a two-stage model to separate and analyze emotive elements in piano music generation, enabling more expressive and nuanced performances. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
