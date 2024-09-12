@@ -61,6 +61,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## News
 |Link|description|
@@ -85,6 +95,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AMD announces unified UDNA GPU architecture — bringing RDNA and CDNA together to take on Nvidia's CUDA ecosystem.](https://www.tomshardware.com/pc-components/cpus/amd-announces-unified-udna-gpu-architecture-bringing-rdna-and-cdna-together-to-take-on-nvidias-cuda-ecosystem) |At IFA 2024, AMD revealed plans to merge its RDNA and CDNA architectures into a unified UDNA microarchitecture, positioning itself to compete more effectively with Nvidia's CUDA ecosystem. This strategic shift is aimed at simplifying development and strengthening AMD's foothold in the AI and high-performance computing (HPC) markets. The move to UDNA marks a significant transition, with full-scale adoption anticipated after the release of the RDNA 4 generation. |
 |[Waymo Giving 100,000 Robotaxi Rides Per Week But Not Making Any Money.](https://futurism.com/the-byte/waymo-not-profitable) | Waymo is now delivering over 100,000 paid autonomous rides per week in San Francisco, Phoenix, and Los Angeles, a figure that has doubled since May. Despite this growth, the company remains unprofitable, with Google’s experimental division facing a $2 billion operating loss. The high costs of vehicles and city mapping, along with ongoing public hesitation, continue to hinder Waymo's journey to profitability.|
 |[iOS 18.1 with Apple Intelligence launches in October, more languages rolling out over time.](https://9to5mac.com/2024/09/09/ios-18-1-apple-intelligence-languages-october/) |Apple announced that Apple Intelligence will launch in beta with iOS 18.1 in October, initially available exclusively for US English users. |
+|[Bringing generative AI to video with Adobe Firefly Video Model.](https://blog.adobe.com/en/publish/2024/09/11/bringing-gen-ai-to-video-adobe-firefly-video-model-coming-soon) |Adobe's Firefly Video Model introduces AI-driven tools to video editing programs such as Premiere Pro. Set to launch in beta later this year, the model provides editors with improved workflows, enabling them to experiment with creative concepts, fill gaps in timelines, and incorporate new elements into their videos. |
+|[Mistral releases Pixtral 12B, its first multimodal model.](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/) |French AI startup Mistral has introduced Pixtral 12B, a multimodal model with 12 billion parameters designed to handle both images and text. The model, accessible through GitHub and Hugging Face, can be fine-tuned and is available under the Apache 2.0 license. This release comes after Mistral secured $645 million in funding, strengthening its role as a key player in Europe's AI industry. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
