@@ -142,8 +142,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Memory-Efficient Optical Flow.](https://arxiv.org/abs/2409.04243v1) | HCVFlow is a newly developed memory-efficient optical flow method designed to address the high computational demands of all-pairs cost volumes in high-resolution images.|
 |[Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models.](https://sliders.baulab.info/) | Concept Sliders offer a powerful mechanism for controlling the output of diffusion models. Recent efforts have been made to integrate them with the new Flux suite of models, enhancing their functionality and adaptability.|
 |[Minifying HTML for GPT-4o: Remove all the HTML Tags.](https://blancas.io/blog/html-minify-for-llm/) |Converting HTML to plain text can significantly reduce costs with minimal performance loss in GPT-4o for data extraction tasks. Tests on the Mercury Prize dataset demonstrated that GPT-4o performs effectively even without the HTML structure, and GPT-4o mini offers a cost-efficient solution for handling unstructured questions. For structured extraction tasks, it's advisable to test both versions to find the right balance between cost and accuracy. |
-|[.]() | |
-|[.]() | |
+|[Prompt2Fashion: An automatically generated fashion dataset.](https://arxiv.org/abs/2409.06442v1) |This dataset, created with large language models, curates outfit recommendations for various occasions, styles, and body types, providing high-quality and relevant suggestions. |
+|[Sources of Uncertainty in 3D Scene Reconstruction.](https://arxiv.org/abs/2409.06407v1) |Researchers are improving 3D scene reconstruction techniques such as Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting (GS) by incorporating uncertainty estimation methods. Although these approaches produce high-quality renders, they face challenges in addressing uncertainties caused by noise, occlusions, and camera inaccuracies. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
