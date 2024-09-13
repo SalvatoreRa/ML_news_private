@@ -153,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Agent Workflow Memory.](https://github.com/zorazrw/agent-workflow-memory) | Agent Workflow Memory (AWM) is a technique that enables language model-based agents to learn and retain reusable task workflows from previous experiences, allowing them to effectively manage complex, long-horizon tasks.|
 |[Hi3D-Official.](https://github.com/yanghb22-fdu/hi3d-official) | Hi3D is a novel model designed to improve the generation of multi-view consistent, high-resolution 3D images from a single input. By using a video diffusion technique, it addresses the limitations of traditional 2D methods that lack 3D awareness, leveraging temporal consistency from video models to enhance geometric coherence across different views.|
 |[Fine Tuning Llama 3.1 405B with Axolotl on a Lambda 1-Click Cluster.](https://axolotlai.substack.com/p/fine-tuning-llama-31b-waxolotl-on) |Axolotal AI has collaborated with Lambda Labs to demonstrate how their one-click cluster can be used to fine-tune the Llama 3.1 405B model. Although the process requires 64 GPUs, the new tools make it possible with minimal infrastructure setup, streamlining the process significantly. |
-|[.]() | |
+|[super-benchmark.](https://github.com/allenai/super-benchmark) |SUPER is a newly introduced benchmark aimed at evaluating how effectively large language models (LLMs) can replicate tasks sourced from research repositories. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -182,7 +182,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artificial intelligence can help to make animal research redundant.](https://www.nature.com/articles/d41586-024-02894-5) |One alternative in its early stages is artificial intelligence (AI), whereby generative adversarial networks produce animal data. But there remains a disconnect between AI-generated animal data and human safety data. Computer models that simulate complex human physiological processes could close this gap, with AI used to analyse the resulting data sets. |
 |[Wikipedia is facing an existential crisis. Can gen Z save it?](https://www.theguardian.com/commentisfree/2024/sep/12/wikipedia-generation-z-young-editors-chatbots) |The world’s most important knowledge platform needs young editors to rescue it from chatbots – and its own tired practices |
 |[AI-Generated Junk Science Is Flooding Google Scholar, Study Claims.](https://www.newsweek.com/ai-generated-junks-science-floods-google-scholar-study-claims-1950703) |Anew study claims to have uncovered a disturbing trend in the world of academic research: AI tools like ChatGPT being used to produce fake scientific papers that are infiltrating Google Scholar, one of the most widely used academic search engines. |
-|[.]() | |
+|[Will the "AI Scientist" Bring Anything to Science?](https://spectrum.ieee.org/ai-for-science-2) |Researchers have created an AI tool capable of automating scientific workflows, from generating hypotheses to executing experiments and drafting research papers. While its accuracy and coherence require further development, critics warn that AI's role in simulations, such as in quantum computing and materials science, may lead to narrower research questions and less impactful findings. Supporters, however, see potential in using this AI to streamline early stages of research, helping scientists conceptualize and define their projects more efficiently. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
