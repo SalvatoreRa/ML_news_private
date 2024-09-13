@@ -102,8 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI in talks to raise funds at $150B valuation, Bloomberg says.](https://www.tipranks.com/news/the-fly/openai-in-talks-to-raise-funds-at-150b-valuation-bloomberg-says) |Apple might be developing non-AR smart glasses, positioning them as potential competitors to Meta's $299 Ray-Ban glasses, which also lack AR functionality. Meta's glasses come equipped with features like a camera and an AI chatbot. By excluding AR capabilities, Apple's glasses could be more affordable, lighter, and have improved battery life due to reduced complexity. |
 |[Meta fed its AI on almost everything you’ve posted publicly since 2007.](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data) |Unless you’re in the EU, there’s no ability to opt out of AI training settings that keep Facebook or Instagram posts public. |
 |[Google is using AI to make fake podcasts from your notes.](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research) |Google’s NotebookLM app can now generate ‘lively’ audio discussions with two AI hosts about the documents you’ve given it. |
-|[.]() | |
-|[.]() | |
+|[Introducing OpenAI o1-preview.](https://openai.com/index/introducing-openai-o1-preview) |OpenAI has launched its latest model, designed to think carefully before responding. It was trained using reasoning processes, allowing it to take time to deliberate before providing an answer. This approach has resulted in superhuman performance in certain areas. Initially, users will be limited to around 30 queries per week, though OpenAI plans to remove this restriction in the near future. |
+|[Google is now rolling out Gemini Live to free users on Android.](https://9to5google.com/2024/09/12/gemini-live-android-free-users/) | Google is launching Gemini Live, its conversational AI tool, to all free Android users following a month of early access for advanced users. With this feature, users can interrupt responses to provide new information and receive text transcripts of their conversations. While extensions like Gmail are not yet supported, Gemini Live introduces ten new voice options, with additional features expected to be added soon.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Internet of Agents.](https://github.com/openbmb/ioa) | The Internet of Agents (IoA) is a novel framework aimed at enhancing multi-agent collaboration by enabling more efficient integration of diverse third-party agents.|
 |[ell: The Language Model Programming Library.](https://docs.ell.so/) |Ell is a newly released package developed by a former OpenAI scientist, designed to manage prompts as code, streamlining the process of working with prompts in AI applications. |
 |[EMO-Disentanger.](https://github.com/yuer867/emo-disentanger) |This research employs a two-stage model to separate and analyze emotive elements in piano music generation, enabling more expressive and nuanced performances. |
-|[.]() | |
+|[Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown.](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/) |Jina has unveiled two cutting-edge models capable of transforming noisy HTML into clean, structured Markdown, optimized for training and reasoning tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
