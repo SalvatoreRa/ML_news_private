@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple is thinking about a rival to Meta Ray-Ban glasses.](https://www.androidauthority.com/apple-non-ar-smart-glasses-meta-glasses-3479479/) | |
 |[OpenAI in talks to raise funds at $150B valuation, Bloomberg says.](https://www.tipranks.com/news/the-fly/openai-in-talks-to-raise-funds-at-150b-valuation-bloomberg-says) |Apple might be developing non-AR smart glasses, positioning them as potential competitors to Meta's $299 Ray-Ban glasses, which also lack AR functionality. Meta's glasses come equipped with features like a camera and an AI chatbot. By excluding AR capabilities, Apple's glasses could be more affordable, lighter, and have improved battery life due to reduced complexity. |
 |[Meta fed its AI on almost everything you’ve posted publicly since 2007.](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data) |Unless you’re in the EU, there’s no ability to opt out of AI training settings that keep Facebook or Instagram posts public. |
-|[.]() | |
+|[Google is using AI to make fake podcasts from your notes.](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research) |Google’s NotebookLM app can now generate ‘lively’ audio discussions with two AI hosts about the documents you’ve given it. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
