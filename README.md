@@ -54,8 +54,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Superhuman Automated Forecasting.](https://www.safe.ai/blog/forecasting) |The Safe AI Institute has published research on a system capable of surpassing human experts in forecasting accuracy. |
 |[The AdEMAMix Optimizer: Better, Faster, Older.](https://arxiv.org/abs/2409.03137) | This paper from Apple introduces an alternative to the traditional exponential moving average optimization method, incorporating contributions from older gradients to significantly enhance learning convergence.|
 |[DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data.](https://arxiv.org/abs/2405.10185v1) | DiverGen is an innovative approach for generating datasets to improve instance segmentation models. Instead of relying on expensive manual annotations, it leverages generative models to create diverse data, helping to mitigate overfitting and boost model performance.|
-|[.]() | |
-|[.]() | |
+|[Policy Filtration in RLHF to Fine-Tune LLM for Code Generation.](https://arxiv.org/abs/2409.06957v1) |Policy Filtration for Proximal Policy Optimization (PF-PPO) is a technique aimed at enhancing the precision of reinforcement learning from human feedback (RLHF), specifically in the context of code generation tasks. |
+|[Data Augmentation via Latent Diffusion for Saliency Prediction.](https://arxiv.org/abs/2409.07307v1) | Researchers have introduced a novel data augmentation technique to enhance saliency prediction models, which have historically struggled due to the scarcity of labeled data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
