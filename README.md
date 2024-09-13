@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk says Tesla has ‘no need’ to license xAI models.](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/) |Elon Musk has refuted claims that Tesla will share revenue with his AI startup xAI in exchange for using its AI models. He explained that while Tesla has gained from xAI engineers' expertise, it doesn't need to license xAI's models. Musk also noted that xAI's large models are incompatible with Tesla's vehicle computers. |
 |[Apple is thinking about a rival to Meta Ray-Ban glasses.](https://www.androidauthority.com/apple-non-ar-smart-glasses-meta-glasses-3479479/) | |
 |[OpenAI in talks to raise funds at $150B valuation, Bloomberg says.](https://www.tipranks.com/news/the-fly/openai-in-talks-to-raise-funds-at-150b-valuation-bloomberg-says) |Apple might be developing non-AR smart glasses, positioning them as potential competitors to Meta's $299 Ray-Ban glasses, which also lack AR functionality. Meta's glasses come equipped with features like a camera and an AI chatbot. By excluding AR capabilities, Apple's glasses could be more affordable, lighter, and have improved battery life due to reduced complexity. |
-|[.]() | |
+|[Meta fed its AI on almost everything you’ve posted publicly since 2007.](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data) |Unless you’re in the EU, there’s no ability to opt out of AI training settings that keep Facebook or Instagram posts public. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -172,7 +172,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How influencers and algorithms mobilize propaganda — and distort reality.](https://www.nature.com/articles/d41586-024-02917-1) |The engagement-fuelled logic of social media has bequeathed us a world in which what’s trending is a yardstick for what’s true. |
 |[Artificial intelligence can help to make animal research redundant.](https://www.nature.com/articles/d41586-024-02894-5) |One alternative in its early stages is artificial intelligence (AI), whereby generative adversarial networks produce animal data. But there remains a disconnect between AI-generated animal data and human safety data. Computer models that simulate complex human physiological processes could close this gap, with AI used to analyse the resulting data sets. |
 |[Wikipedia is facing an existential crisis. Can gen Z save it?](https://www.theguardian.com/commentisfree/2024/sep/12/wikipedia-generation-z-young-editors-chatbots) |The world’s most important knowledge platform needs young editors to rescue it from chatbots – and its own tired practices |
-|[.]() | |
+|[AI-Generated Junk Science Is Flooding Google Scholar, Study Claims.](https://www.newsweek.com/ai-generated-junks-science-floods-google-scholar-study-claims-1950703) |Anew study claims to have uncovered a disturbing trend in the world of academic research: AI tools like ChatGPT being used to produce fake scientific papers that are infiltrating Google Scholar, one of the most widely used academic search engines. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
