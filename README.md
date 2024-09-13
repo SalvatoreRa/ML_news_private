@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google is using AI to make fake podcasts from your notes.](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research) |Google’s NotebookLM app can now generate ‘lively’ audio discussions with two AI hosts about the documents you’ve given it. |
 |[Introducing OpenAI o1-preview.](https://openai.com/index/introducing-openai-o1-preview) |OpenAI has launched its latest model, designed to think carefully before responding. It was trained using reasoning processes, allowing it to take time to deliberate before providing an answer. This approach has resulted in superhuman performance in certain areas. Initially, users will be limited to around 30 queries per week, though OpenAI plans to remove this restriction in the near future. |
 |[Google is now rolling out Gemini Live to free users on Android.](https://9to5google.com/2024/09/12/gemini-live-android-free-users/) | Google is launching Gemini Live, its conversational AI tool, to all free Android users following a month of early access for advanced users. With this feature, users can interrupt responses to provide new information and receive text transcripts of their conversations. While extensions like Gmail are not yet supported, Gemini Live introduces ten new voice options, with additional features expected to be added soon.|
-|[.]() | |
-|[.]() | |
+|[Sergey Brin says he’s working on AI at Google ‘pretty much every day’.](https://techcrunch.com/2024/09/10/sergey-brin-says-hes-working-at-google-pretty-much-every-day-on-ai/) |Google co-founder and ex-Alphabet president Sergey Brin said he’s back working at Google “pretty much every day” because he hasn’t seen anything as exciting as the recent progress in AI — and doesn’t want to miss out. |
+|[Amazon starts testing ads in its Rufus chatbot.](https://techcrunch.com/2024/09/11/amazon-starts-testing-ads-in-its-rufus-chatbot/) |Amazon's shopping chatbot, Rufus, will soon incorporate sponsored ads, displaying them based on the user's search queries and the context of their conversations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hi3D-Official.](https://github.com/yanghb22-fdu/hi3d-official) | Hi3D is a novel model designed to improve the generation of multi-view consistent, high-resolution 3D images from a single input. By using a video diffusion technique, it addresses the limitations of traditional 2D methods that lack 3D awareness, leveraging temporal consistency from video models to enhance geometric coherence across different views.|
 |[Fine Tuning Llama 3.1 405B with Axolotl on a Lambda 1-Click Cluster.](https://axolotlai.substack.com/p/fine-tuning-llama-31b-waxolotl-on) |Axolotal AI has collaborated with Lambda Labs to demonstrate how their one-click cluster can be used to fine-tune the Llama 3.1 405B model. Although the process requires 64 GPUs, the new tools make it possible with minimal infrastructure setup, streamlining the process significantly. |
 |[super-benchmark.](https://github.com/allenai/super-benchmark) |SUPER is a newly introduced benchmark aimed at evaluating how effectively large language models (LLMs) can replicate tasks sourced from research repositories. |
-|[.]() | |
+|[Using GPT-4o for web scraping.](https://blancas.io/blog/ai-web-scraper/) |An AI-powered web scraper, utilizing OpenAI's GPT-4o, is designed to extract structured data from HTML tables. While it performs well on simple tables, its results are mixed when dealing with more complex tables, such as those with merged rows or intricate structures. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
