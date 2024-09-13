@@ -150,11 +150,20 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ell: The Language Model Programming Library.](https://docs.ell.so/) |Ell is a newly released package developed by a former OpenAI scientist, designed to manage prompts as code, streamlining the process of working with prompts in AI applications. |
 |[EMO-Disentanger.](https://github.com/yuer867/emo-disentanger) |This research employs a two-stage model to separate and analyze emotive elements in piano music generation, enabling more expressive and nuanced performances. |
 |[Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown.](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/) |Jina has unveiled two cutting-edge models capable of transforming noisy HTML into clean, structured Markdown, optimized for training and reasoning tasks. |
+|[Agent Workflow Memory.](https://github.com/zorazrw/agent-workflow-memory) | Agent Workflow Memory (AWM) is a technique that enables language model-based agents to learn and retain reusable task workflows from previous experiences, allowing them to effectively manage complex, long-horizon tasks.|
+|[Hi3D-Official.](https://github.com/yanghb22-fdu/hi3d-official) | Hi3D is a novel model designed to improve the generation of multi-view consistent, high-resolution 3D images from a single input. By using a video diffusion technique, it addresses the limitations of traditional 2D methods that lack 3D awareness, leveraging temporal consistency from video models to enhance geometric coherence across different views.|
+|[Fine Tuning Llama 3.1 405B with Axolotl on a Lambda 1-Click Cluster.](https://axolotlai.substack.com/p/fine-tuning-llama-31b-waxolotl-on) |Axolotal AI has collaborated with Lambda Labs to demonstrate how their one-click cluster can be used to fine-tune the Llama 3.1 405B model. Although the process requires 64 GPUs, the new tools make it possible with minimal infrastructure setup, streamlining the process significantly. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
