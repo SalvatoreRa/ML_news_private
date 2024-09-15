@@ -37,6 +37,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
+
+# ML news: Week 9 - 15 September
+
 ## Research
 |Link|description|
 |---|---|
@@ -56,21 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data.](https://arxiv.org/abs/2405.10185v1) | DiverGen is an innovative approach for generating datasets to improve instance segmentation models. Instead of relying on expensive manual annotations, it leverages generative models to create diverse data, helping to mitigate overfitting and boost model performance.|
 |[Policy Filtration in RLHF to Fine-Tune LLM for Code Generation.](https://arxiv.org/abs/2409.06957v1) |Policy Filtration for Proximal Policy Optimization (PF-PPO) is a technique aimed at enhancing the precision of reinforcement learning from human feedback (RLHF), specifically in the context of code generation tasks. |
 |[Data Augmentation via Latent Diffusion for Saliency Prediction.](https://arxiv.org/abs/2409.07307v1) | Researchers have introduced a novel data augmentation technique to enhance saliency prediction models, which have historically struggled due to the scarcity of labeled data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -106,17 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google is now rolling out Gemini Live to free users on Android.](https://9to5google.com/2024/09/12/gemini-live-android-free-users/) | Google is launching Gemini Live, its conversational AI tool, to all free Android users following a month of early access for advanced users. With this feature, users can interrupt responses to provide new information and receive text transcripts of their conversations. While extensions like Gmail are not yet supported, Gemini Live introduces ten new voice options, with additional features expected to be added soon.|
 |[Sergey Brin says he’s working on AI at Google ‘pretty much every day’.](https://techcrunch.com/2024/09/10/sergey-brin-says-hes-working-at-google-pretty-much-every-day-on-ai/) |Google co-founder and ex-Alphabet president Sergey Brin said he’s back working at Google “pretty much every day” because he hasn’t seen anything as exciting as the recent progress in AI — and doesn’t want to miss out. |
 |[Amazon starts testing ads in its Rufus chatbot.](https://techcrunch.com/2024/09/11/amazon-starts-testing-ads-in-its-rufus-chatbot/) |Amazon's shopping chatbot, Rufus, will soon incorporate sponsored ads, displaying them based on the user's search queries and the context of their conversations. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -155,14 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fine Tuning Llama 3.1 405B with Axolotl on a Lambda 1-Click Cluster.](https://axolotlai.substack.com/p/fine-tuning-llama-31b-waxolotl-on) |Axolotal AI has collaborated with Lambda Labs to demonstrate how their one-click cluster can be used to fine-tune the Llama 3.1 405B model. Although the process requires 64 GPUs, the new tools make it possible with minimal infrastructure setup, streamlining the process significantly. |
 |[super-benchmark.](https://github.com/allenai/super-benchmark) |SUPER is a newly introduced benchmark aimed at evaluating how effectively large language models (LLMs) can replicate tasks sourced from research repositories. |
 |[Using GPT-4o for web scraping.](https://blancas.io/blog/ai-web-scraper/) |An AI-powered web scraper, utilizing OpenAI's GPT-4o, is designed to extract structured data from HTML tables. While it performs well on simple tables, its results are mixed when dealing with more complex tables, such as those with merged rows or intricate structures. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## Perspectives
@@ -184,11 +156,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-Generated Junk Science Is Flooding Google Scholar, Study Claims.](https://www.newsweek.com/ai-generated-junks-science-floods-google-scholar-study-claims-1950703) |Anew study claims to have uncovered a disturbing trend in the world of academic research: AI tools like ChatGPT being used to produce fake scientific papers that are infiltrating Google Scholar, one of the most widely used academic search engines. |
 |[Will the "AI Scientist" Bring Anything to Science?](https://spectrum.ieee.org/ai-for-science-2) |Researchers have created an AI tool capable of automating scientific workflows, from generating hypotheses to executing experiments and drafting research papers. While its accuracy and coherence require further development, critics warn that AI's role in simulations, such as in quantum computing and materials science, may lead to narrower research questions and less impactful findings. Supporters, however, see potential in using this AI to streamline early stages of research, helping scientists conceptualize and define their projects more efficiently. |
 |[Is AI Quietly Sabotaging Itself—And The Internet?](https://www.forbes.com/sites/torconstantino/2024/08/26/is-ai-quietly-killing-itself-and-the-internet/?ss=ai) |Amid the growth of AI content online, a group of researchers at Cambridge and Oxford universities set out to see what happens when generative AI tools query content produced by AI. What they found was alarming. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 2 - 8 September
 
