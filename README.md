@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Introducing Chai-1: Decoding the molecular interactions of life.](https://www.chaidiscovery.com/blog/introducing-chai-1) |A novel multi-modal foundation model for predicting molecular structures, capable of handling proteins, small molecules, DNA, RNA, and more. It delivers state-of-the-art performance across various tasks in drug discovery, achieving a 77% success rate on the PoseBusters benchmark (compared to 76% by AlphaFold 3) and a Cα LDDT score of 0.849 on the CASP15 protein monomer structure prediction set (outperforming ESM3-98B’s 0.801). |
-|[.]() | |
+|[Knowing When to Ask - Bridging Large Language Models and Data.](https://docs.datacommons.org/papers/DataGemma-FullPaper.pdf) |It incorporates a series of fine-tuned Gemma 2 models to enable LLMs to access and utilize numerical and statistical data effectively. A new method called Retrieval Interleaved Generation (RIG) is introduced, allowing LLMs to reliably integrate public statistical data from Data Commons into their responses. RIG, a tool-based approach, interleaves statistical tokens with natural language queries for optimal retrieval from Data Commons. To achieve this, the LLM is fine-tuned on an instruction-response dataset created with the assistance of Gemini 1.5. This RIG technique enhances factual accuracy from 5-7% to approximately 58%. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
