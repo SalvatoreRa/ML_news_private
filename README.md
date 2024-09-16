@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Introducing Chai-1: Decoding the molecular interactions of life.](https://www.chaidiscovery.com/blog/introducing-chai-1) |A novel multi-modal foundation model for predicting molecular structures, capable of handling proteins, small molecules, DNA, RNA, and more. It delivers state-of-the-art performance across various tasks in drug discovery, achieving a 77% success rate on the PoseBusters benchmark (compared to 76% by AlphaFold 3) and a Cα LDDT score of 0.849 on the CASP15 protein monomer structure prediction set (outperforming ESM3-98B’s 0.801). |
 |[Knowing When to Ask - Bridging Large Language Models and Data.](https://docs.datacommons.org/papers/DataGemma-FullPaper.pdf) |It incorporates a series of fine-tuned Gemma 2 models to enable LLMs to access and utilize numerical and statistical data effectively. A new method called Retrieval Interleaved Generation (RIG) is introduced, allowing LLMs to reliably integrate public statistical data from Data Commons into their responses. RIG, a tool-based approach, interleaves statistical tokens with natural language queries for optimal retrieval from Data Commons. To achieve this, the LLM is fine-tuned on an instruction-response dataset created with the assistance of Gemini 1.5. This RIG technique enhances factual accuracy from 5-7% to approximately 58%. |
-|[.]() | |
+|[Agent Workflow Memory.](https://arxiv.org/abs/2409.07429) |It introduces Agent Workflow Memory to capture and provide commonly reused workflows to the agent as needed, guiding the agent's future generations. This mechanism operates both offline and online, drawing inspiration from how humans learn and reuse workflows from past experiences to inform future actions. It reportedly boosts performance, improving baseline results by 24.6% and achieving a 51.1% relative success rate on Mind2Web and WebArena, all while being more efficient. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[What is the Role of Small Models in the LLM Era: A Survey.](https://arxiv.org/abs/2409.06857) |It closely explores the connection between LLMs and SLMs, highlighting common applications of SLMs such as data curation, enhancing model training, improving inference efficiency, serving as evaluators, retrievers, and more. The study provides valuable insights for practitioners, helping them better grasp the importance and utility of SLMs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
