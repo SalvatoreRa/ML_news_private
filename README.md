@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Data center emissions probably 662% higher than big tech claims. Can it keep up the ruse?](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech) |Emissions from in-house data centers of Google, Microsoft, Meta and Apple may be 7.62 times higher than official tally |
 |[North Korean hackers target Python devs with malware disguised as coding tests — hack has been underway for a year.](https://www.tomshardware.com/tech-industry/cyber-security/python-developers-targeted-by-north-korean-lazarus-group-with-fake-jobs-and-malware-disguised-as-coding-tests) | Fake Python job opportunities used to attack programmers|
-|[.]() | |
+|[Sam Altman told OpenAI staff the company’s non-profit corporate structure will change next year.](https://fortune.com/2024/09/13/sam-altman-openai-non-profit-structure-change-next-year/) |OpenAI asserts that it has surpassed its current organizational structure and is now striving to simplify it, making it more appealing to potential investors. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What is the Role of Small Models in the LLM Era: A Survey.](https://arxiv.org/abs/2409.06857) |It closely explores the connection between LLMs and SLMs, highlighting common applications of SLMs such as data curation, enhancing model training, improving inference efficiency, serving as evaluators, retrievers, and more. The study provides valuable insights for practitioners, helping them better grasp the importance and utility of SLMs. |
 |[Theory, Analysis, and Best Practices for Sigmoid Self-Attention.](https://arxiv.org/abs/2409.04431) |It introduces Flash-Sigmoid, a hardware-optimized, memory-efficient implementation of sigmoid attention, offering up to a 17% speed-up in inference kernels compared to FlashAttention-2 on H100 GPUs. The results demonstrate that SigmoidAttn performs on par with SoftmaxAttn across various tasks and domains. |
 |[Achieving Peak Performance for Large Language Models: A Systematic Review.](https://arxiv.org/abs/2409.04833) |A comprehensive review of techniques for enhancing and accelerating LLMs from three perspectives: training, inference, and system serving. It provides an overview of the latest optimization and acceleration strategies, covering advancements in training methods, hardware utilization, scalability, and system reliability. |
-|[.]() | |
+|[Grounding AI in reality with a little help from Data Commons.](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/) |Google has introduced Retrieval-Augmented and Retrieval-Interleaved Generation through Gemma 2, enhancing these techniques with access to numerous external data sources. This guide focuses on the fine-tuning process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
