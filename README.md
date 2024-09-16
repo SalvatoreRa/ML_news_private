@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Data center emissions probably 662% higher than big tech claims. Can it keep up the ruse?](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech) |Emissions from in-house data centers of Google, Microsoft, Meta and Apple may be 7.62 times higher than official tally |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[What’s so funny about getting an AI app to give you a roasting?](https://www.theguardian.com/technology/article/2024/sep/15/whats-so-funny-about-getting-an-ai-app-to-give-you-a-roasting) |Roasting can be really brutal, but at least if we inflict it on ourselves, we can get ahead of the joke |
 |[.]() | |
 |[.]() | |
 |[.]() | |
