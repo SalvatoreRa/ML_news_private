@@ -102,8 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[What is the Role of Small Models in the LLM Era: A Survey.](https://arxiv.org/abs/2409.06857) |It closely explores the connection between LLMs and SLMs, highlighting common applications of SLMs such as data curation, enhancing model training, improving inference efficiency, serving as evaluators, retrievers, and more. The study provides valuable insights for practitioners, helping them better grasp the importance and utility of SLMs. |
-|[.]() | |
-|[.]() | |
+|[Theory, Analysis, and Best Practices for Sigmoid Self-Attention.](https://arxiv.org/abs/2409.04431) |It introduces Flash-Sigmoid, a hardware-optimized, memory-efficient implementation of sigmoid attention, offering up to a 17% speed-up in inference kernels compared to FlashAttention-2 on H100 GPUs. The results demonstrate that SigmoidAttn performs on par with SoftmaxAttn across various tasks and domains. |
+|[Achieving Peak Performance for Large Language Models: A Systematic Review.](https://arxiv.org/abs/2409.04833) |A comprehensive review of techniques for enhancing and accelerating LLMs from three perspectives: training, inference, and system serving. It provides an overview of the latest optimization and acceleration strategies, covering advancements in training methods, hardware utilization, scalability, and system reliability. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
