@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Data center emissions probably 662% higher than big tech claims. Can it keep up the ruse?](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech) |Emissions from in-house data centers of Google, Microsoft, Meta and Apple may be 7.62 times higher than official tally |
-|[.]() | |
+|[North Korean hackers target Python devs with malware disguised as coding tests — hack has been underway for a year.](https://www.tomshardware.com/tech-industry/cyber-security/python-developers-targeted-by-north-korean-lazarus-group-with-fake-jobs-and-malware-disguised-as-coding-tests) | Fake Python job opportunities used to attack programmers|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,8 +133,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[What’s so funny about getting an AI app to give you a roasting?](https://www.theguardian.com/technology/article/2024/sep/15/whats-so-funny-about-getting-an-ai-app-to-give-you-a-roasting) |Roasting can be really brutal, but at least if we inflict it on ourselves, we can get ahead of the joke |
-|[.]() | |
-|[.]() | |
+|[Artificial intelligence will affect 60 million US and Mexican jobs within the year.](https://english.elpais.com/economy-and-business/2024-09-15/artificial-intelligence-will-affect-60-million-us-and-mexican-jobs-within-the-year.html) |IDB study shows the impact that AI will have on the labor market. Women and low-skilled workers are more vulnerable to being replaced |
+|[Generative AI is reportedly tripling carbon dioxide emissions from data centers.](https://www.techradar.com/pro/generative-ai-triples-the-carbon-dioxide-emissions-from-data-centers) | Research suggest data centers will emit 2.5 billion tons of greenhouse gas by 2030
+
+ 
+ 
+ 
+ 
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
