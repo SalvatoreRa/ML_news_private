@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Achieving Peak Performance for Large Language Models: A Systematic Review.](https://arxiv.org/abs/2409.04833) |A comprehensive review of techniques for enhancing and accelerating LLMs from three perspectives: training, inference, and system serving. It provides an overview of the latest optimization and acceleration strategies, covering advancements in training methods, hardware utilization, scalability, and system reliability. |
 |[Grounding AI in reality with a little help from Data Commons.](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/) |Google has introduced Retrieval-Augmented and Retrieval-Interleaved Generation through Gemma 2, enhancing these techniques with access to numerous external data sources. This guide focuses on the fine-tuning process. |
 |[AudioBERT: Audio Knowledge Augmented Language Model.](https://arxiv.org/abs/2409.08199v1) |AuditoryBench is a newly developed dataset designed to evaluate auditory knowledge and understanding in language models. |
-|[.]() | |
-|[.]() | |
+|[Learn GPU Programming in Your Browser.](https://www.answer.ai/posts/2024-09-12-gpupuzzles.html) | Answer AI utilizes WebGPU and its new gpu.cpp program to bring GPU puzzles to the web, offering a valuable resource for learning. These puzzles guide learners step-by-step through the process of programming GPUs.|
+|[FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally.](https://github.com/florinshen/flashsplat) |FlashSplat is an innovative technique for 3D Gaussian Splatting segmentation that removes the requirement for time-consuming gradient descent processes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
