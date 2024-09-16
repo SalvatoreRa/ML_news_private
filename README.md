@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Theory, Analysis, and Best Practices for Sigmoid Self-Attention.](https://arxiv.org/abs/2409.04431) |It introduces Flash-Sigmoid, a hardware-optimized, memory-efficient implementation of sigmoid attention, offering up to a 17% speed-up in inference kernels compared to FlashAttention-2 on H100 GPUs. The results demonstrate that SigmoidAttn performs on par with SoftmaxAttn across various tasks and domains. |
 |[Achieving Peak Performance for Large Language Models: A Systematic Review.](https://arxiv.org/abs/2409.04833) |A comprehensive review of techniques for enhancing and accelerating LLMs from three perspectives: training, inference, and system serving. It provides an overview of the latest optimization and acceleration strategies, covering advancements in training methods, hardware utilization, scalability, and system reliability. |
 |[Grounding AI in reality with a little help from Data Commons.](https://research.google/blog/grounding-ai-in-reality-with-a-little-help-from-data-commons/) |Google has introduced Retrieval-Augmented and Retrieval-Interleaved Generation through Gemma 2, enhancing these techniques with access to numerous external data sources. This guide focuses on the fine-tuning process. |
-|[.]() | |
+|[AudioBERT: Audio Knowledge Augmented Language Model.](https://arxiv.org/abs/2409.08199v1) |AuditoryBench is a newly developed dataset designed to evaluate auditory knowledge and understanding in language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,14 +134,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[What’s so funny about getting an AI app to give you a roasting?](https://www.theguardian.com/technology/article/2024/sep/15/whats-so-funny-about-getting-an-ai-app-to-give-you-a-roasting) |Roasting can be really brutal, but at least if we inflict it on ourselves, we can get ahead of the joke |
 |[Artificial intelligence will affect 60 million US and Mexican jobs within the year.](https://english.elpais.com/economy-and-business/2024-09-15/artificial-intelligence-will-affect-60-million-us-and-mexican-jobs-within-the-year.html) |IDB study shows the impact that AI will have on the labor market. Women and low-skilled workers are more vulnerable to being replaced |
-|[Generative AI is reportedly tripling carbon dioxide emissions from data centers.](https://www.techradar.com/pro/generative-ai-triples-the-carbon-dioxide-emissions-from-data-centers) | Research suggest data centers will emit 2.5 billion tons of greenhouse gas by 2030
-
- 
- 
- 
- 
-|
-|[.]() | |
+|[Generative AI is reportedly tripling carbon dioxide emissions from data centers.](https://www.techradar.com/pro/generative-ai-triples-the-carbon-dioxide-emissions-from-data-centers) | Research suggest data centers will emit 2.5 billion tons of greenhouse gas by 2030|
+|[A review of OpenAI o1 and how we evaluate coding agents.](https://www.cognition.ai/blog/evaluating-coding-agents) |Devin, an AI coding agent, was tested using OpenAI's new o1 models, demonstrating enhanced reasoning and error diagnosis capabilities compared to GPT-4o. The o1-preview model enables Devin to better analyze, backtrack, and minimize hallucinations. Although it has yet to be integrated into production systems, early results show notable improvements in autonomous coding tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
