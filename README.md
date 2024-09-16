@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Data center emissions probably 662% higher than big tech claims. Can it keep up the ruse?](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech) |Emissions from in-house data centers of Google, Microsoft, Meta and Apple may be 7.62 times higher than official tally |
 |[North Korean hackers target Python devs with malware disguised as coding tests — hack has been underway for a year.](https://www.tomshardware.com/tech-industry/cyber-security/python-developers-targeted-by-north-korean-lazarus-group-with-fake-jobs-and-malware-disguised-as-coding-tests) | Fake Python job opportunities used to attack programmers|
 |[Sam Altman told OpenAI staff the company’s non-profit corporate structure will change next year.](https://fortune.com/2024/09/13/sam-altman-openai-non-profit-structure-change-next-year/) |OpenAI asserts that it has surpassed its current organizational structure and is now striving to simplify it, making it more appealing to potential investors. |
-|[.]() | |
-|[.]() | |
+|[Google DeepMind teaches a robot to autonomously tie its shoes and fix fellow robots.](https://techcrunch.com/2024/09/12/google-deepmind-teaches-a-robot-to-autonomously-tie-its-shoes-and-fix-fellow-robots/) | Human children generally learn to tie their shoes by age 5 or 6. Robots, on the other hand, have been working on the problem for decades. In a new paper, Google DeepMind researchers showcase a method for teaching robots to perform a range of dexterous tasks, including tying a shoe, hanging a shirt, and even fixing fellow robots.|
+|[Salesforce unleashes its first AI agents.](https://www.axios.com/2024/09/12/salesforce-ai-agents-atlas-reasoning) | Salesforce has introduced Agentforce, its initiative to develop generative AI bots that can autonomously perform tasks within predefined boundaries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally.](https://github.com/florinshen/flashsplat) |FlashSplat is an innovative technique for 3D Gaussian Splatting segmentation that removes the requirement for time-consuming gradient descent processes. |
 |[PiEEG-16, new tool for neuroscience.](https://github.com/pieeg-club/PiEEG-16) | The PIEEG-16 is a new, affordable shield for Raspberry Pi, enabling real-time measurement and processing of biosignals such as EEG, EMG, and ECG. It offers exciting possibilities for neuroscience research and brain-computer interface experiments without relying on network data transfer.|
 |[ODAQ: Open Dataset of Audio Quality.](https://github.com/fraunhofer-iis/odaq) |ODAQ is a dataset designed to tackle the lack of openly available collections of audio signals paired with subjective scores that reflect perceived quality. |
-|[.]() | |
+|[iSeg: An Iterative Refinement-based Framework for Training-free Segmentation.](https://github.com/linsun449/iseg.code) |iSeg is a framework for training-free image segmentation that improves Stable Diffusion's capability to generate segmentation masks, enabling more precise image segmentation without the need for additional training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
