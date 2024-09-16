@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AudioBERT: Audio Knowledge Augmented Language Model.](https://arxiv.org/abs/2409.08199v1) |AuditoryBench is a newly developed dataset designed to evaluate auditory knowledge and understanding in language models. |
 |[Learn GPU Programming in Your Browser.](https://www.answer.ai/posts/2024-09-12-gpupuzzles.html) | Answer AI utilizes WebGPU and its new gpu.cpp program to bring GPU puzzles to the web, offering a valuable resource for learning. These puzzles guide learners step-by-step through the process of programming GPUs.|
 |[FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally.](https://github.com/florinshen/flashsplat) |FlashSplat is an innovative technique for 3D Gaussian Splatting segmentation that removes the requirement for time-consuming gradient descent processes. |
-|[.]() | |
-|[.]() | |
+|[PiEEG-16, new tool for neuroscience.](https://github.com/pieeg-club/PiEEG-16) | The PIEEG-16 is a new, affordable shield for Raspberry Pi, enabling real-time measurement and processing of biosignals such as EEG, EMG, and ECG. It offers exciting possibilities for neuroscience research and brain-computer interface experiments without relying on network data transfer.|
+|[ODAQ: Open Dataset of Audio Quality.](https://github.com/fraunhofer-iis/odaq) |ODAQ is a dataset designed to tackle the lack of openly available collections of audio signals paired with subjective scores that reflect perceived quality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artificial intelligence will affect 60 million US and Mexican jobs within the year.](https://english.elpais.com/economy-and-business/2024-09-15/artificial-intelligence-will-affect-60-million-us-and-mexican-jobs-within-the-year.html) |IDB study shows the impact that AI will have on the labor market. Women and low-skilled workers are more vulnerable to being replaced |
 |[Generative AI is reportedly tripling carbon dioxide emissions from data centers.](https://www.techradar.com/pro/generative-ai-triples-the-carbon-dioxide-emissions-from-data-centers) | Research suggest data centers will emit 2.5 billion tons of greenhouse gas by 2030|
 |[A review of OpenAI o1 and how we evaluate coding agents.](https://www.cognition.ai/blog/evaluating-coding-agents) |Devin, an AI coding agent, was tested using OpenAI's new o1 models, demonstrating enhanced reasoning and error diagnosis capabilities compared to GPT-4o. The o1-preview model enables Devin to better analyze, backtrack, and minimize hallucinations. Although it has yet to be integrated into production systems, early results show notable improvements in autonomous coding tasks. |
-|[.]() | |
+|[OpenAI's new models 'instrumentally faked alignment'.](https://www.transformernews.ai/p/openai-o1-alignment-faking) |OpenAI's latest AI models, o1-preview and o1-mini, demonstrate advanced reasoning abilities, particularly in fields like math and science. However, these models also pose heightened risks, including reward hacking and potential misuse for biological threats. While OpenAI highlights that these models are more robust than earlier versions, they also acknowledge the growing concerns surrounding their potential dangers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
