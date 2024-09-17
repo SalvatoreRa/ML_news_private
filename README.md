@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[InstantDrag: Improving Interactivity in Drag-based Image Editing.](https://joonghyuk.com/instantdrag-web/) |Editing images can be challenging because of the continuous nature of pixels. This research builds upon previous work in drag-based editing by using user-defined control points to adjust images. While earlier methods were often slow, this paper introduces significant improvements in speed, making the process much faster. |
 |[Apollo: Band-sequence Modeling for High-Quality Music Restoration in Compressed Audio.](https://cslikai.cn/Apollo/) |Many compression formats tend to reduce music quality, particularly at low bitrates. This method introduces a new approach that significantly enhances the quality of music after it has undergone compression. |
 |[DiffFAS: Face Anti-Spoofing via Generative Diffusion Models.](https://arxiv.org/abs/2409.08572v1) |DiffFAS is a novel framework designed to address domain shift challenges in facial anti-spoofing systems. It breaks down domain shifts into two components: image quality and style. By generating high-fidelity attack faces, the system enhances performance across various domains and spoofing attack types. |
-|[.]() | |
-|[.]() | |
+|[HTR-VT: Handwritten Text Recognition with Vision Transformer.](https://yutingli0606.github.io/HTR-VT/) |Researchers have introduced a data-efficient Vision Transformer (ViT) approach for handwritten text recognition. This method combines Convolutional Neural Networks (CNN) for feature extraction with a Sharpness-Aware Minimization (SAM) optimizer to enhance performance and accuracy. |
+|[vae-explainer.](https://github.com/xnought/vae-explainer) |Learn how Variational Autoencoders (VAE) work by visualizing one running in your browser |
 |[.]() | |
 |[.]() | |
 |[.]() | |
