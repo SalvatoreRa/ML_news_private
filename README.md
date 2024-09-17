@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reflection 70B model maker breaks silence amid fraud accusations.](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations/) | Matt Shumer, the CEO of OthersideAI, received criticism when third-party researchers were unable to replicate the results of his newly introduced large language model, Reflection 70B. Shumer explained the inconsistencies as stemming from problems during the model's upload, expressing regret for being premature in his claims. Despite his apology, the AI community remains cautious and is awaiting additional explanations.|
 |[How Memphis became a battleground over Elon Musk’s xAI supercomputer.](https://www.npr.org/2024/09/11/nx-s1-5088134/elon-musk-ai-xai-supercomputer-memphis-pollution) | Elon Musk's xAI is developing "Colossus," the largest supercomputer in the world, in Memphis to power its AI chatbot, Grok. The project has been criticized for lacking environmental oversight and requiring significant energy and water resources. Nevertheless, xAI remains focused on quickly advancing its AI technology and making an impact on the local community.|
 |[Runway announces an API for its video-generating AI models.](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/) | Runway has launched an API to integrate its Gen-3 Alpha Turbo video-generation model into third-party platforms, pricing each credit at one cent. However, concerns over the use of copyrighted training data remain, as Runway has not disclosed its sources. Similar issues have affected competitors such as OpenAI and Nvidia. While legal uncertainties persist, AI-powered video tools are anticipated to significantly disrupt the film and TV industry.|
-|[.]() | |
-|[.]() | |
+|[Hacker tricks ChatGPT into giving out detailed instructions for making homemade bombs.](https://techcrunch.com/2024/09/12/hacker-tricks-chatgpt-into-giving-out-detailed-instructions-for-making-homemade-bombs/) |A hacker successfully manipulated ChatGPT into producing bomb-making instructions by exploiting a social engineering hack to bypass its safety guidelines. |
+|[Intel stock jumps on plan to turn foundry business into subsidiary and allow for outside funding.](https://www.cnbc.com/2024/09/16/intel-turns-foundry-business-into-subsidiary-weighs-outside-funding.html) | Intel's CEO revealed plans to reorganize the company's foundry business into a standalone unit, with the potential to attract external investment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiffFAS: Face Anti-Spoofing via Generative Diffusion Models.](https://arxiv.org/abs/2409.08572v1) |DiffFAS is a novel framework designed to address domain shift challenges in facial anti-spoofing systems. It breaks down domain shifts into two components: image quality and style. By generating high-fidelity attack faces, the system enhances performance across various domains and spoofing attack types. |
 |[HTR-VT: Handwritten Text Recognition with Vision Transformer.](https://yutingli0606.github.io/HTR-VT/) |Researchers have introduced a data-efficient Vision Transformer (ViT) approach for handwritten text recognition. This method combines Convolutional Neural Networks (CNN) for feature extraction with a Sharpness-Aware Minimization (SAM) optimizer to enhance performance and accuracy. |
 |[vae-explainer.](https://github.com/xnought/vae-explainer) |Learn how Variational Autoencoders (VAE) work by visualizing one running in your browser |
-|[.]() | |
+|[SeekTune.](https://github.com/cgzirim/seek-tune) | Open source implementation of Shazam song search|
 |[.]() | |
 |[.]() | |
 |[.]() | |
