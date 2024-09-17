@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sam Altman told OpenAI staff the company’s non-profit corporate structure will change next year.](https://fortune.com/2024/09/13/sam-altman-openai-non-profit-structure-change-next-year/) |OpenAI asserts that it has surpassed its current organizational structure and is now striving to simplify it, making it more appealing to potential investors. |
 |[Google DeepMind teaches a robot to autonomously tie its shoes and fix fellow robots.](https://techcrunch.com/2024/09/12/google-deepmind-teaches-a-robot-to-autonomously-tie-its-shoes-and-fix-fellow-robots/) | Human children generally learn to tie their shoes by age 5 or 6. Robots, on the other hand, have been working on the problem for decades. In a new paper, Google DeepMind researchers showcase a method for teaching robots to perform a range of dexterous tasks, including tying a shoe, hanging a shirt, and even fixing fellow robots.|
 |[Salesforce unleashes its first AI agents.](https://www.axios.com/2024/09/12/salesforce-ai-agents-atlas-reasoning) | Salesforce has introduced Agentforce, its initiative to develop generative AI bots that can autonomously perform tasks within predefined boundaries.|
-|[.]() | |
+|[OpenAI says the latest ChatGPT can ‘think’ – and I have thoughts.](https://www.theguardian.com/technology/2024/sep/17/techcsape-openai-chatgpt-thoughts) |The AI company says its ‘o1’ model is capable of reason, a key blocker in the way of truly gamechanging artificial intelligence. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
