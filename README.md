@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Intel stock jumps on plan to turn foundry business into subsidiary and allow for outside funding.](https://www.cnbc.com/2024/09/16/intel-turns-foundry-business-into-subsidiary-weighs-outside-funding.html) | Intel's CEO revealed plans to reorganize the company's foundry business into a standalone unit, with the potential to attract external investment.|
 |[One in five GPs use AI such as ChatGPT for daily tasks, survey finds.](https://www.theguardian.com/society/2024/sep/17/one-in-five-gps-use-ai-such-as-chatgpt-for-daily-tasks-survey-finds) |
 One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are using the technology for activities such as suggesting diagnoses and writing letters, according to BMA |
-|[.]() | |
+|[Using AI to Replace an Actor Is Now Against the Law in California.](https://www.indiewire.com/news/breaking-news/using-ai-replace-actor-against-law-california-1235048661/) | California Governor Gavin Newsom signed a pair of bills sponsored by SAG-AFTRA that extend the guild's recent AI protections.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,7 +140,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[OpenAI's new models 'instrumentally faked alignment'.](https://www.transformernews.ai/p/openai-o1-alignment-faking) |OpenAI's latest AI models, o1-preview and o1-mini, demonstrate advanced reasoning abilities, particularly in fields like math and science. However, these models also pose heightened risks, including reward hacking and potential misuse for biological threats. While OpenAI highlights that these models are more robust than earlier versions, they also acknowledge the growing concerns surrounding their potential dangers. |
 |[The Button Problem of AI.](https://every.to/napkin-math/the-button-problem-of-ai) | Despite the initial excitement, AI tools like GPT-4 have resulted in only incremental productivity improvements rather than transformative changes. AI is often reduced to "buttonified" tasks, addressing small, isolated functions that limit its broader impact on workflows. To fully unlock AI's potential, successful startups may need to go beyond these current applications and drive more innovative solutions.|
 |[Something New: On OpenAI's "Strawberry" and Reasoning.](oneusefulthing.org/p/something-new-on-openais-strawberry) |OpenAI's new o1-preview AI, part of the "Strawberry" enhanced reasoning system, demonstrates remarkable ability in tackling complex problems that involve planning and iteration, even surpassing human experts in fields like advanced physics. Although it still faces challenges, such as occasional errors and hallucinations, it represents a major advancement in AI's capacity to independently find solutions. As AI systems grow more autonomous, professionals will need to adjust to new roles focused on guiding and verifying AI-generated outputs. |
-|[.]() | |
+|[A US semiconductor industry in crisis needs a workforce that doesn’t yet exist.](https://www.computerworld.com/article/3518620/a-us-semiconductor-industry-in-crisis-needs-a-workforce-that-doesnt-yet-exist.html) |As the federal government spurs the re-shoring of semiconductor manufacturing in the US, the industry faces a hard fact: schools haven't been training the workers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
