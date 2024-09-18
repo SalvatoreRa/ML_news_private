@@ -84,8 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[One in five GPs use AI such as ChatGPT for daily tasks, survey finds.](https://www.theguardian.com/society/2024/sep/17/one-in-five-gps-use-ai-such-as-chatgpt-for-daily-tasks-survey-finds) |
 One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are using the technology for activities such as suggesting diagnoses and writing letters, according to BMA |
 |[Using AI to Replace an Actor Is Now Against the Law in California.](https://www.indiewire.com/news/breaking-news/using-ai-replace-actor-against-law-california-1235048661/) | California Governor Gavin Newsom signed a pair of bills sponsored by SAG-AFTRA that extend the guild's recent AI protections.|
-|[.]() | |
-|[.]() | |
+|[Google will begin flagging AI-generated images in Search later this year.](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/) |Google says that it plans to roll out changes to Google Search to make clearer which images in results were AI generated — or edited by AI tools. |
+|[Microsoft, BlackRock form group to raise $100 billion to invest in AI data centers and power.](https://www.cnbc.com/2024/09/17/microsoft-blackrock-form-gaiip-to-invest-in-ai-data-centers-energy.html) |The Global Artificial Intelligence Infrastructure Investment Partnership is initially looking to raise $30 billion for new and existing data centers. The fundraising, which could total $100 billion, will also be used to invest in the energy infrastructure needed to power AI workloads. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
