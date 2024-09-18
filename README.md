@@ -86,8 +86,8 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Using AI to Replace an Actor Is Now Against the Law in California.](https://www.indiewire.com/news/breaking-news/using-ai-replace-actor-against-law-california-1235048661/) | California Governor Gavin Newsom signed a pair of bills sponsored by SAG-AFTRA that extend the guild's recent AI protections.|
 |[Google will begin flagging AI-generated images in Search later this year.](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/) |Google says that it plans to roll out changes to Google Search to make clearer which images in results were AI generated — or edited by AI tools. |
 |[Microsoft, BlackRock form group to raise $100 billion to invest in AI data centers and power.](https://www.cnbc.com/2024/09/17/microsoft-blackrock-form-gaiip-to-invest-in-ai-data-centers-energy.html) |The Global Artificial Intelligence Infrastructure Investment Partnership is initially looking to raise $30 billion for new and existing data centers. The fundraising, which could total $100 billion, will also be used to invest in the energy infrastructure needed to power AI workloads. |
-|[.]() | |
-|[.]() | |
+|[Mistral Free API and Price Update.](https://mistral.ai/news/september-24-release/) | Mistral has launched a free API tier, significantly lowered its costs, enhanced the performance of its smaller model, and integrated its vision model into Le Chat.|
+|[Challengers Are Coming for Nvidia's Crown.](https://spectrum.ieee.org/nvidia-ai) | Nvidia's leadership in AI chips has driven its market value to new heights, primarily due to its GPU technology and the CUDA software ecosystem. However, rivals such as AMD, Intel, Cerebras, and SambaNova are working on cutting-edge alternatives to compete with Nvidia in the AI hardware space. Although Nvidia maintains its strong position for now, the AI market is evolving rapidly, with various companies seeking to establish their own footholds.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
