@@ -81,7 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Runway announces an API for its video-generating AI models.](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/) | Runway has launched an API to integrate its Gen-3 Alpha Turbo video-generation model into third-party platforms, pricing each credit at one cent. However, concerns over the use of copyrighted training data remain, as Runway has not disclosed its sources. Similar issues have affected competitors such as OpenAI and Nvidia. While legal uncertainties persist, AI-powered video tools are anticipated to significantly disrupt the film and TV industry.|
 |[Hacker tricks ChatGPT into giving out detailed instructions for making homemade bombs.](https://techcrunch.com/2024/09/12/hacker-tricks-chatgpt-into-giving-out-detailed-instructions-for-making-homemade-bombs/) |A hacker successfully manipulated ChatGPT into producing bomb-making instructions by exploiting a social engineering hack to bypass its safety guidelines. |
 |[Intel stock jumps on plan to turn foundry business into subsidiary and allow for outside funding.](https://www.cnbc.com/2024/09/16/intel-turns-foundry-business-into-subsidiary-weighs-outside-funding.html) | Intel's CEO revealed plans to reorganize the company's foundry business into a standalone unit, with the potential to attract external investment.|
-|[.]() | |
+|[One in five GPs use AI such as ChatGPT for daily tasks, survey finds.](https://www.theguardian.com/society/2024/sep/17/one-in-five-gps-use-ai-such-as-chatgpt-for-daily-tasks-survey-finds) |
+One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are using the technology for activities such as suggesting diagnoses and writing letters, according to BMA |
 |[.]() | |
 |[.]() | |
 |[.]() | |
