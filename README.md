@@ -122,8 +122,8 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Trustworthiness of RAG Systems.](https://arxiv.org/abs/2409.10102v1) |This study presents a framework for assessing the trustworthiness of Retrieval-Augmented Generation (RAG) systems, focusing on six critical aspects: factuality, robustness, fairness, transparency, accountability, and privacy. |
 |[beeFormer: Bridging the Gap Between Semantic and Interaction Similarity in Recommender Systems.](https://arxiv.org/abs/2409.10309v1) |The beeFormer framework enhances sentence Transformers by integrating interaction data, increasing their effectiveness for use in recommender systems. |
 |[Awesome Comics Understanding.](https://github.com/emanuelevivoli/awesome-comics-understanding) |The final challenge for Visual Language Models is achieving the ability to comprehend and reason about comics. This project serves as both a survey and a call to action for further research in this area.  |
-|[.]() | |
-|[.]() | |
+|[WordLlama.](https://github.com/dleemiller/WordLlama) |WordLlama is a fast, lightweight NLP toolkit that handles tasks like fuzzy-deduplication, similarity and ranking with minimal inference-time dependencies and optimized for CPU hardware. |
+|[Self-Supervised Syllable Discovery Based on Speaker-Disentangled HuBERT.](https://github.com/ryota-komatsu/speaker_disentangled_hubert) |This project advances speech representation learning by disentangling syllabic structures from speaker-specific information in self-supervised models. By fine-tuning the HuBERT model using speaker perturbation techniques, researchers enhanced syllable segmentation, resulting in improved organization of syllabic units. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
