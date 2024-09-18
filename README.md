@@ -120,6 +120,14 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[SeekTune.](https://github.com/cgzirim/seek-tune) | Open source implementation of Shazam song search|
 |[jinaai/jina-embeddings-v3.](https://huggingface.co/jinaai/jina-embeddings-v3) |The Jina series of embeddings is a robust and high-quality set of models designed for embedding and retrieval tasks. The development team has launched the latest version of their model, featuring enhanced performance and training capabilities. |
 |[Trustworthiness of RAG Systems.](https://arxiv.org/abs/2409.10102v1) |This study presents a framework for assessing the trustworthiness of Retrieval-Augmented Generation (RAG) systems, focusing on six critical aspects: factuality, robustness, fairness, transparency, accountability, and privacy. |
+|[beeFormer: Bridging the Gap Between Semantic and Interaction Similarity in Recommender Systems.](https://arxiv.org/abs/2409.10309v1) |The beeFormer framework enhances sentence Transformers by integrating interaction data, increasing their effectiveness for use in recommender systems. |
+|[Awesome Comics Understanding.](https://github.com/emanuelevivoli/awesome-comics-understanding) |The final challenge for Visual Language Models is achieving the ability to comprehend and reason about comics. This project serves as both a survey and a call to action for further research in this area.  |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
