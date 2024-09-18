@@ -118,8 +118,8 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[HTR-VT: Handwritten Text Recognition with Vision Transformer.](https://yutingli0606.github.io/HTR-VT/) |Researchers have introduced a data-efficient Vision Transformer (ViT) approach for handwritten text recognition. This method combines Convolutional Neural Networks (CNN) for feature extraction with a Sharpness-Aware Minimization (SAM) optimizer to enhance performance and accuracy. |
 |[vae-explainer.](https://github.com/xnought/vae-explainer) |Learn how Variational Autoencoders (VAE) work by visualizing one running in your browser |
 |[SeekTune.](https://github.com/cgzirim/seek-tune) | Open source implementation of Shazam song search|
-|[.]() | |
-|[.]() | |
+|[jinaai/jina-embeddings-v3.](https://huggingface.co/jinaai/jina-embeddings-v3) |The Jina series of embeddings is a robust and high-quality set of models designed for embedding and retrieval tasks. The development team has launched the latest version of their model, featuring enhanced performance and training capabilities. |
+|[Trustworthiness of RAG Systems.](https://arxiv.org/abs/2409.10102v1) |This study presents a framework for assessing the trustworthiness of Retrieval-Augmented Generation (RAG) systems, focusing on six critical aspects: factuality, robustness, fairness, transparency, accountability, and privacy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
