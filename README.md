@@ -96,7 +96,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Salesforce’s New AI Strategy Acknowledges That AI Will Take Jobs.](https://finance.yahoo.com/news/salesforce-ai-strategy-acknowledges-ai-120000175.html) |Salesforce is revamping its AI approach by launching generative AI tools designed to perform tasks autonomously, without human oversight, and adjusting its pricing model to charge $2 per AI-powered interaction. This change is intended to alleviate investor worries regarding AI-driven job reductions affecting subscription revenue. The new tools are more efficient and independent compared to conventional copilots and chatbots. |
 |[Qwen2.5: A Party of Foundation Models!](https://qwenlm.github.io/blog/qwen2.5/) |A remarkable collection of open models is nearing the cutting edge of performance, particularly excelling in areas such as code, math, structured outputs, and reasoning. The Qwen team has also introduced a range of model sizes to cater to diverse use cases. |
 |[Create Full Web Apps with LlamaCoder.](https://ai.meta.com/blog/together-ai-llamacoder/) | Together AI and Meta have collaborated to develop a tool that allows users to create entire apps from a simple prompt using the LlamaCoder platform. Similar to Claude Artifacts, this tool is designed primarily to showcase the speed and efficiency of Together AI's inference engine.|
-|[.]() | |
+|[1X World Model1X World Model.](https://www.1x.tech/discover/1x-world-model) | 1x, a robotics company, has developed a video generation model capable of simulating first-person perspectives of robotic activities. This technology can be valuable for generating offline data and aiding in robot training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[WordLlama.](https://github.com/dleemiller/WordLlama) |WordLlama is a fast, lightweight NLP toolkit that handles tasks like fuzzy-deduplication, similarity and ranking with minimal inference-time dependencies and optimized for CPU hardware. |
 |[Self-Supervised Syllable Discovery Based on Speaker-Disentangled HuBERT.](https://github.com/ryota-komatsu/speaker_disentangled_hubert) |This project advances speech representation learning by disentangling syllabic structures from speaker-specific information in self-supervised models. By fine-tuning the HuBERT model using speaker perturbation techniques, researchers enhanced syllable segmentation, resulting in improved organization of syllabic units. |
 |[🎥 Surveillance Video Summarizer: AI-Powered Video Analysis and Summarization.](https://github.com/Ravi-Teja-konda/Surveillance_Video_Summarizer) | A custom-trained model based on Florence 2 is designed to summarize CCTV and surveillance footage, providing accurate, real-time updates on activities and events as they occur.|
-|[.]() | |
+|[Fine-tuning LLMs to 1.58bit: extreme quantization made easy.](https://huggingface.co/blog/1_58_llm_extreme_quantization) |The Hugging Face team employed a new technique called quantization warm-up to fine-tune Llama 3 8B, achieving the same performance as Llama 1 while reducing the model to use just 1.58 bits per parameter through quantization. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
