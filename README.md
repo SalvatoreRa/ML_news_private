@@ -99,6 +99,14 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[1X World Model1X World Model.](https://www.1x.tech/discover/1x-world-model) | 1x, a robotics company, has developed a video generation model capable of simulating first-person perspectives of robotic activities. This technology can be valuable for generating offline data and aiding in robot training.|
 |[SocialAI offers a Twitter-like diary where AI bots respond to your posts.](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) | SocialAI, a new iOS app, delivers a social media experience exclusively featuring AI-powered bots, removing any human interaction. Users can post thoughts and receive unlimited, personalized AI responses, with options to engage with "supporters" or "critics." Created by Michael Sayman, the app aims to offer a private, interactive environment that harnesses large language models for varied feedback.|
 |[Mercor's $30M Series A.](https://threadreaderapp.com/thread/1836435248592376149.html) |Mercor secured $30 million in funding from Benchmark to develop an AI-driven recruiting platform. This AI recruiter aims to streamline the hiring process by automating tasks traditionally handled by human recruiters. |
+|[Amazon Alexa can now be controlled by thought alone - thanks to this brain implant.](https://www.zdnet.com/article/amazon-alexa-can-now-be-controlled-by-thought-alone-thanks-to-this-brain-implant/) | Synchron has empowered an ALS patient to control Amazon's Alexa using a brain implant, allowing interaction without the need for voice or physical touch. This breakthrough demonstrates the potential of brain-computer interface technology in enhancing accessibility for individuals with severe motor impairments.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
