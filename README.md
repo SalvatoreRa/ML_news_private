@@ -92,7 +92,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Lionsgate signs deal to train AI model on its movies and shows.](https://www.theverge.com/2024/9/18/24248115/lionsgate-runway-ai-deal) | The studio behind the Hunger Games and John Wick franchises is going all in on Runway’s generative AI.|
 |[LinkedIn is training AI models on your data.](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in) | You’ll need to opt out twice to stop LinkedIn from using your account data for training in the future — but anything already done is done.|
 |[Apple iPhone 16 demand is so weak that employees can already buy it on discount.](https://qz.com/apple-iphone-16-pre-orders-sales-intelligence-ai-1851651638) |Sales of the new iPhone lineup have so far seemed to fall short of expectations |
-|[.]() | |
+|[Global AI fund needed to help developing nations tap tech benefits, UN says.](https://www.theguardian.com/business/2024/sep/19/global-ai-fund-needed-to-help-developing-nations-tap-tech-benefits-un-says) |Governments and private firms should contribute to help states unable to invest and benefit from advances |
 |[.]() | |
 |[.]() | |
 |[.]() | |
