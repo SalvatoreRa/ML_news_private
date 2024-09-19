@@ -97,7 +97,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Qwen2.5: A Party of Foundation Models!](https://qwenlm.github.io/blog/qwen2.5/) |A remarkable collection of open models is nearing the cutting edge of performance, particularly excelling in areas such as code, math, structured outputs, and reasoning. The Qwen team has also introduced a range of model sizes to cater to diverse use cases. |
 |[Create Full Web Apps with LlamaCoder.](https://ai.meta.com/blog/together-ai-llamacoder/) | Together AI and Meta have collaborated to develop a tool that allows users to create entire apps from a simple prompt using the LlamaCoder platform. Similar to Claude Artifacts, this tool is designed primarily to showcase the speed and efficiency of Together AI's inference engine.|
 |[1X World Model1X World Model.](https://www.1x.tech/discover/1x-world-model) | 1x, a robotics company, has developed a video generation model capable of simulating first-person perspectives of robotic activities. This technology can be valuable for generating offline data and aiding in robot training.|
-|[.]() | |
+|[SocialAI offers a Twitter-like diary where AI bots respond to your posts.](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-posts/) | SocialAI, a new iOS app, delivers a social media experience exclusively featuring AI-powered bots, removing any human interaction. Users can post thoughts and receive unlimited, personalized AI responses, with options to engage with "supporters" or "critics." Created by Michael Sayman, the app aims to offer a private, interactive environment that harnesses large language models for varied feedback.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +137,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Fine-tuning LLMs to 1.58bit: extreme quantization made easy.](https://huggingface.co/blog/1_58_llm_extreme_quantization) |The Hugging Face team employed a new technique called quantization warm-up to fine-tune Llama 3 8B, achieving the same performance as Llama 1 while reducing the model to use just 1.58 bits per parameter through quantization. |
 |[ZML Inference.](https://github.com/zml/zml) | ZML is a highly efficient inference engine developed in Zig, optimized for speed and performance. While it supports various models, some customization is necessary to make it compatible with new architectures.|
 |[Adversarial Attacks on Navigation Agents.](https://github.com/chen37058/physical-attacks-in-embodied-navigation) | This repository presents a novel attack method for embodied navigation agents, which involves applying transparent patches with learnable textures to target objects. These patches are designed to disrupt the agent's navigation by manipulating its perception of the environment.|
-|[.]() | |
+|[Deep Graph Anomaly Detection: A Survey and New Perspectives.](https://arxiv.org/abs/2409.09957v1) |This paper provides a comprehensive review of deep learning techniques, with a focus on graph neural networks (GNNs) for detecting anomalies in graph data. The researchers propose a new taxonomy of methods, examining various GNN architectures, proxy tasks, and anomaly detection metrics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
