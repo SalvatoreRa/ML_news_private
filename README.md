@@ -93,9 +93,9 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[LinkedIn is training AI models on your data.](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in) | You’ll need to opt out twice to stop LinkedIn from using your account data for training in the future — but anything already done is done.|
 |[Apple iPhone 16 demand is so weak that employees can already buy it on discount.](https://qz.com/apple-iphone-16-pre-orders-sales-intelligence-ai-1851651638) |Sales of the new iPhone lineup have so far seemed to fall short of expectations |
 |[Global AI fund needed to help developing nations tap tech benefits, UN says.](https://www.theguardian.com/business/2024/sep/19/global-ai-fund-needed-to-help-developing-nations-tap-tech-benefits-un-says) |Governments and private firms should contribute to help states unable to invest and benefit from advances |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Salesforce’s New AI Strategy Acknowledges That AI Will Take Jobs.](https://finance.yahoo.com/news/salesforce-ai-strategy-acknowledges-ai-120000175.html) |Salesforce is revamping its AI approach by launching generative AI tools designed to perform tasks autonomously, without human oversight, and adjusting its pricing model to charge $2 per AI-powered interaction. This change is intended to alleviate investor worries regarding AI-driven job reductions affecting subscription revenue. The new tools are more efficient and independent compared to conventional copilots and chatbots. |
+|[Qwen2.5: A Party of Foundation Models!](https://qwenlm.github.io/blog/qwen2.5/) |A remarkable collection of open models is nearing the cutting edge of performance, particularly excelling in areas such as code, math, structured outputs, and reasoning. The Qwen team has also introduced a range of model sizes to cater to diverse use cases. |
+|[Create Full Web Apps with LlamaCoder.](https://ai.meta.com/blog/together-ai-llamacoder/) | Together AI and Meta have collaborated to develop a tool that allows users to create entire apps from a simple prompt using the LlamaCoder platform. Similar to Claude Artifacts, this tool is designed primarily to showcase the speed and efficiency of Together AI's inference engine.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
