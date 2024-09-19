@@ -89,6 +89,15 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Mistral Free API and Price Update.](https://mistral.ai/news/september-24-release/) | Mistral has launched a free API tier, significantly lowered its costs, enhanced the performance of its smaller model, and integrated its vision model into Le Chat.|
 |[Challengers Are Coming for Nvidia's Crown.](https://spectrum.ieee.org/nvidia-ai) | Nvidia's leadership in AI chips has driven its market value to new heights, primarily due to its GPU technology and the CUDA software ecosystem. However, rivals such as AMD, Intel, Cerebras, and SambaNova are working on cutting-edge alternatives to compete with Nvidia in the AI hardware space. Although Nvidia maintains its strong position for now, the AI market is evolving rapidly, with various companies seeking to establish their own footholds.|
 |[TikTok's owner wants to design its own AI chips.](https://qz.com/tiktok-owner-bytedance-reportedly-design-ai-chips-tsmc-1851649056) |ByteDance is reportedly expecting to mass produce two chips it designed with Taiwan Semiconductor Manufacturing Company by 2026 |
+|[Lionsgate signs deal to train AI model on its movies and shows.](https://www.theverge.com/2024/9/18/24248115/lionsgate-runway-ai-deal) | The studio behind the Hunger Games and John Wick franchises is going all in on Runway’s generative AI.|
+|[LinkedIn is training AI models on your data.](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in) | You’ll need to opt out twice to stop LinkedIn from using your account data for training in the future — but anything already done is done.|
+|[Apple iPhone 16 demand is so weak that employees can already buy it on discount.](https://qz.com/apple-iphone-16-pre-orders-sales-intelligence-ai-1851651638) |Sales of the new iPhone lineup have so far seemed to fall short of expectations |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
