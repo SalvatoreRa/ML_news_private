@@ -154,7 +154,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Fish Speech.](https://github.com/fishaudio/fish-speech) |A powerful voice generation and single-shot voice cloning tool has been introduced, offering completely open-source accessibility. It is designed to be easy to set up and use, enabling efficient and high-quality voice replication with minimal input. |
 |[1xgpt.](https://github.com/1x-technologies/1xgpt/tree/main/genie) |Genie is a video generation tool designed for world model systems. 1x Robotics has open-sourced a version that closely mirrors the one it developed and trained in-house, making it accessible for wider use in various applications. |
 |[OpenAI Says It's Fixed Issue Where ChatGPT Appeared to Be Messaging Users Unprompted.](https://futurism.com/openai-chatgpt-initiating-conversations) | A Reddit user claimed that OpenAI's ChatGPT started a conversation without any prompt, sparking speculation about potential new engagement features. OpenAI acknowledged the incident and released a fix, attributing it to a glitch related to unsent messages. However, the authenticity of the event remains debated, as other users have reported similar occurrences.|
-|[.]() | |
+|[Announcing Pixtral 12B.](https://mistral.ai/news/pixtral-12b/) | Pixtral 12B - the first-ever multimodal Mistral model.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
