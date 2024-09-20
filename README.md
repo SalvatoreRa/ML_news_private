@@ -101,7 +101,7 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Mercor's $30M Series A.](https://threadreaderapp.com/thread/1836435248592376149.html) |Mercor secured $30 million in funding from Benchmark to develop an AI-driven recruiting platform. This AI recruiter aims to streamline the hiring process by automating tasks traditionally handled by human recruiters. |
 |[Amazon Alexa can now be controlled by thought alone - thanks to this brain implant.](https://www.zdnet.com/article/amazon-alexa-can-now-be-controlled-by-thought-alone-thanks-to-this-brain-implant/) | Synchron has empowered an ALS patient to control Amazon's Alexa using a brain implant, allowing interaction without the need for voice or physical touch. This breakthrough demonstrates the potential of brain-computer interface technology in enhancing accessibility for individuals with severe motor impairments.|
 |[Google says UK risks being ‘left behind’ in AI race without more data centres.](https://www.theguardian.com/technology/2024/sep/19/google-says-uk-risks-being-left-behind-in-ai-race-without-more-data-centres) |Tech company wants Labour to relax laws that prevent AI models being ‘trained’ on copyrighted materials |
-|[.]() | |
+|[The United Nations Wants to Treat AI With the Same Urgency as Climate Change.](https://www.wired.com/story/united-nations-artificial-intelligence-report/) |A UN report proposes that the organization take a much more active role in the monitoring and oversight of AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
