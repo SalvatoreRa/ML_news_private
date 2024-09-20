@@ -152,6 +152,14 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[PhysMamba.](https://github.com/chaoqi31/physmamba) | PhysMamba is an innovative framework developed for remote heart monitoring using facial videos, specifically designed to overcome the challenges of capturing physiological signals from a distance. This technology enhances the ability to monitor heart health remotely with greater accuracy and reliability.|
 |[General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model.](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) | This is a remarkable breakthrough in general-purpose optical character recognition (OCR), offering exceptional performance in reading text from images. The latest version significantly enhances OCR capabilities, especially for challenging "in-the-wild" scenarios, delivering much-improved accuracy and reliability.|
 |[Fish Speech.](https://github.com/fishaudio/fish-speech) |A powerful voice generation and single-shot voice cloning tool has been introduced, offering completely open-source accessibility. It is designed to be easy to set up and use, enabling efficient and high-quality voice replication with minimal input. |
+|[1xgpt.](https://github.com/1x-technologies/1xgpt/tree/main/genie) |Genie is a video generation tool designed for world model systems. 1x Robotics has open-sourced a version that closely mirrors the one it developed and trained in-house, making it accessible for wider use in various applications. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
