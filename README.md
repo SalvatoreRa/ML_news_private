@@ -150,8 +150,8 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance.](https://github.com/zs1314/skinmamba) |SkinMamba is a hybrid model that integrates convolutional neural networks (CNN) with Transformer-based techniques to enhance skin lesion segmentation, aiding in the early detection of cancer. |
 |[Vista3D: Unravel the 3D Darkside of a Single Image.](https://arxiv.org/abs/2409.12193v1) | Vista3D is a newly developed framework that creates 3D models from a single image in just 5 minutes. It employs a two-phase process: first, it generates rough geometry, and then it refines the details to capture both visible and hidden features of objects. This approach enables more comprehensive 3D reconstructions. |
 |[PhysMamba.](https://github.com/chaoqi31/physmamba) | PhysMamba is an innovative framework developed for remote heart monitoring using facial videos, specifically designed to overcome the challenges of capturing physiological signals from a distance. This technology enhances the ability to monitor heart health remotely with greater accuracy and reliability.|
-|[.]() | |
-|[.]() | |
+|[General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model.](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) | This is a remarkable breakthrough in general-purpose optical character recognition (OCR), offering exceptional performance in reading text from images. The latest version significantly enhances OCR capabilities, especially for challenging "in-the-wild" scenarios, delivering much-improved accuracy and reliability.|
+|[Fish Speech.](https://github.com/fishaudio/fish-speech) |A powerful voice generation and single-shot voice cloning tool has been introduced, offering completely open-source accessibility. It is designed to be easy to set up and use, enabling efficient and high-quality voice replication with minimal input. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
