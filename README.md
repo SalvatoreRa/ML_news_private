@@ -48,24 +48,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLaMA-Omni: Seamless Speech Interaction with Large Language Models.](https://arxiv.org/abs/2409.06666) |A model architecture designed for low-latency speech interaction with LLMs, built on Llama-3.1-8B-Instruct, which can simultaneously generate both text and speech responses from speech instructions. It achieves response latency as low as 226ms. The architecture includes a speech encoder (Whisper-large-v3), a speech adaptor, an LLM, and a speech decoder. Additionally, they developed a dataset of 200,000 speech interactions and responses to support the model's training. |
 |[Diagram of Thought: Iterative Reasoning in Language Models.](https://arxiv.org/abs/2409.10038v1) |The Diagram of Thought (DoT) framework presents a novel approach for large language models to reason by structuring ideas within a directed acyclic graph (DAG). This technique enables models to propose, critique, refine, and verify ideas, enhancing logical consistency and reasoning capabilities. |
 |[V-STaR: Training Verifiers for Self-Taught Reasoners.](https://arxiv.org/abs/2402.06457) |V-STaR is an innovative method for enhancing large language models by leveraging both correct and incorrect solutions generated during self-improvement. These solutions are used to train a verifier, which then selects the optimal solution during inference. This approach has demonstrated notable improvements in accuracy on benchmarks for code generation and mathematical reasoning, potentially providing a more efficient way to boost LLM performance compared to existing methods. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -107,13 +89,6 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Cruise robotaxis return to the Bay Area nearly one year after pedestrian crash.](https://techcrunch.com/2024/09/19/cruise-avs-return-to-bay-area-year-after-pedestrian-crash/) |Cruise is restarting operations in Sunnyvale and Mountain View, deploying human-driven vehicles for mapping, with plans to transition to supervised autonomous vehicle (AV) testing later this fall. This comes after a leadership change and settlement following a crash in October 2023. The company has implemented software updates and formed a partnership with Uber to launch robotaxi services in 2025. |
 |[Mistral launches a free tier for developers to test its AI models.](https://techcrunch.com/2024/09/17/mistral-launches-a-free-tier-for-developers-to-test-its-ai-models/) | Mistral AI launched a new free tier to let developers fine-tune and build test apps with the startup’s AI models, the company announced in a blog post Tuesday. The startup also slashed prices for developers to access its AI models through API endpoints and added image processing to its free consumer AI chatbot, le Chat.|
 |[Secret calculator hack brings ChatGPT to the TI-84, enabling easy cheating.](https://arstechnica.com/information-technology/2024/09/secret-calculator-hack-brings-chatgpt-to-the-ti-84-enabling-easy-cheating/) | Tiny device installed inside TI-84 enables Wi-Fi Internet, access to AI chatbot.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -155,19 +130,6 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[OpenAI Says It's Fixed Issue Where ChatGPT Appeared to Be Messaging Users Unprompted.](https://futurism.com/openai-chatgpt-initiating-conversations) | A Reddit user claimed that OpenAI's ChatGPT started a conversation without any prompt, sparking speculation about potential new engagement features. OpenAI acknowledged the incident and released a fix, attributing it to a glitch related to unsent messages. However, the authenticity of the event remains debated, as other users have reported similar occurrences.|
 |[Announcing Pixtral 12B.](https://mistral.ai/news/pixtral-12b/) | Pixtral 12B - the first-ever multimodal Mistral model.|
 |[Promptriever: Instruction-Trained Retrievers Can Be Prompted Like Language Models.](https://github.com/orionw/promptriever) |Promptriever is a pioneering retrieval model that can be prompted similarly to a language model. This innovation allows users to interact with the retrieval process in a more flexible and intuitive way, bridging the gap between traditional retrieval models and language models for enhanced information access. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -188,17 +150,6 @@ One in five GPs use AI such as ChatGPT for daily tasks, survey finds Doctors are
 |[Scaling: The State of Play in AI.](https://www.oneusefulthing.org/p/scaling-the-state-of-play-in-ai) |Large language models (LLMs) like ChatGPT and Gemini are becoming more powerful as they scale in size, data, and computational resources, resulting in enhanced performance across a wide range of tasks. Current Gen2 models, such as GPT-4 and Claude 3.5, dominate the market, with next-gen models (Gen3) expected to further elevate both capabilities and associated costs. A recent breakthrough in scaling laws, which emphasizes increased "thinking" during inference, holds the potential to drive even greater improvements in AI performance beyond traditional model training approaches. |
 |[The Work From Home Free-for-All Is Coming to an End.](https://www.wsj.com/lifestyle/workplace/amazon-return-to-office-five-day-policy-1cf0c496) |Amazon’s CEO just called everyone back to the office full time. If you thought your two days a week at home were safe, think again. |
 |[AI has returned chipmaking to the heart of computer technology.](https://www.economist.com/technology-quarterly/2024/09/16/ai-has-returned-chipmaking-to-the-heart-of-computer-technology) |And the technological challenges are bigger than the political ones, argues Shailesh Chitnis |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 9 - 15 September
 
