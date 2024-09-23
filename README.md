@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Moshi: a speech-text foundation model for real-time dialogue.](https://kyutai.org/Moshi.pdf) |presents a full-duplex spoken dialogue framework and a speech-text basis paradigm; they also present several system components; Helium is a 7B parameter text LLM; Mimi is a semantic-acoustic neural audio code that achieves cutting-edge audio quality performance; and a hierarchical multi-stream architecture that can produce speech-to-speech from any given dialog.|
+|[Training Language Models to Self-Correct via Reinforcement Learning.](https://arxiv.org/abs/2409.12917) |creates a multi-turn online reinforcement learning system that is fully based on self-generated data in order to enhance an LLM's ability to self-correct; It is demonstrated that SFT has a distribution mismatch between training data and model responses and is inefficient at learning self-correction; suggests a two-stage method that, when applied to the Gemini 1.0 Pro and 1.5 Flash models, achieves state-of-the-art self-correction performance, improving the base models' self-correction by 15.6% and 9.1%, respectively, on the MATH and HumanEval benchmarks. The first stage of the method optimizes correction behavior, and the second uses a reward bonus to amplify self-correction during training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
