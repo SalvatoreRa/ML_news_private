@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Google CEO Sundar Pichai announces $120M fund for global AI education.](https://techcrunch.com/2024/09/21/google-ceo-sundar-pichai-announces-120m-fund-for-global-ai-education/) | Speaking Saturday at the UN Summit of the Future, Google CEO Sundar Pichai described AI as “the most transformative technology yet” and announced a new fund for AI education and training around the world.|
 |[Driver Distractions ‘Exceedingly High’ When Using Partial Automation Systems: IIHS.](https://www.thedrive.com/news/driver-distractions-exceedingly-high-when-using-partial-automation-systems-iihs) |According to the IIHS, once advanced driver-assistance systems come into play, drivers become less involved in driving and more distracted. Hands-on or hands-free, the level of automation doesn’t matter. |
-|[.]() | |
+|[wordfreq will not be updated.](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | The wordfreq data is a snapshot of language that could be found in various online sources up through 2021. Generative AI has polluted the data|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Move fast and break things? Not again, and not with AI.](https://thehill.com/opinion/technology/4891654-move-fast-and-break-things-not-again-and-not-with-ai/) | It was only 12 years ago that Mark Zuckerberg, CEO of Facebook, declared that the company’s culture was to “move fast and break things.”|
-|[.]() | |
+|[The dark side of AI democratization: You no longer need to be a hacker to hack.](https://thehill.com/opinion/4891452-ai-hacking-tools-threats/) | Generative AI promises a future where you no longer need to be a skilled writer to draft a story or a trained software engineer to code. But there’s a dark side to this democratization: AI is enabling people with little technological know-how to become cybercriminals.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
