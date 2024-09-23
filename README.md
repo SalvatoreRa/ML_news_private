@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Driver Distractions ‘Exceedingly High’ When Using Partial Automation Systems: IIHS.](https://www.thedrive.com/news/driver-distractions-exceedingly-high-when-using-partial-automation-systems-iihs) |According to the IIHS, once advanced driver-assistance systems come into play, drivers become less involved in driving and more distracted. Hands-on or hands-free, the level of automation doesn’t matter. |
 |[wordfreq will not be updated.](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | The wordfreq data is a snapshot of language that could be found in various online sources up through 2021. Generative AI has polluted the data|
 |[Drones carrying fireworks: why the world’s most famous gunpowder artist is collaborating with AI.](https://www.theguardian.com/artanddesign/2024/sep/22/cai-guo-qiang-we-are-explosion-event-artificial-intelligence) | For his explosion event in Los Angeles, Cai Guo-Qiang built his own version of ChatGPT and employed a drone army to answer the question: what is the fate of humanity and AI?|
-|[.]() | |
+|[Contextual Retrieval.](https://www.anthropic.com/news/contextual-retrieval) | Anthropic demonstrates a method for semantically chunking documents, which significantly boosts performance while keeping the cost low at just $1 per million chunks, thanks to caching.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Qwen2.5-Coder Technical Report.](https://arxiv.org/abs/2409.12186) | based on the Qwen2.5 architecture, which is continuously pretrained on 5.5 trillion tokens and achieves state-of-the-art performance across more than 10 benchmarks. It has strong capabilities in code generation, completion, reasoning, and repairing. a series of models with 1.5B and 7B parameters.|
 |[Agents in Software Engineering: Survey, Landscape, and Vision.](https://arxiv.org/abs/2409.09030) | gives a thorough rundown of software engineering frameworks for LLM-based agents.|
-|[.]() | |
-|[.]() | |
+|[Prompting ChatGPT o1.](https://platform.openai.com/docs/guides/reasoning/how-reasoning-works) |This guide was overlooked amidst the buzz around OpenAI's new reasoning models. It explains how prompting this new model differs, emphasizing the need for simpler prompts and a more organized input context. |
+|[Jony Ive confirms he’s working on a new device with OpenAI.](https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware) | Jony Ive is teaming up with OpenAI CEO Sam Altman on a new AI hardware initiative, which might secure $1 billion in funding by the end of the year and includes involvement from key former Apple designers. Although details about the device are still unclear, the project aims to harness generative AI for enhanced user interactions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
