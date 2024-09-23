@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Google CEO Sundar Pichai announces $120M fund for global AI education.](https://techcrunch.com/2024/09/21/google-ceo-sundar-pichai-announces-120m-fund-for-global-ai-education/) | Speaking Saturday at the UN Summit of the Future, Google CEO Sundar Pichai described AI as “the most transformative technology yet” and announced a new fund for AI education and training around the world.|
+|[Driver Distractions ‘Exceedingly High’ When Using Partial Automation Systems: IIHS.](https://www.thedrive.com/news/driver-distractions-exceedingly-high-when-using-partial-automation-systems-iihs) |According to the IIHS, once advanced driver-assistance systems come into play, drivers become less involved in driving and more distracted. Hands-on or hands-free, the level of automation doesn’t matter. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Move fast and break things? Not again, and not with AI.](https://thehill.com/opinion/technology/4891654-move-fast-and-break-things-not-again-and-not-with-ai/) | It was only 12 years ago that Mark Zuckerberg, CEO of Facebook, declared that the company’s culture was to “move fast and break things.”|
 |[.]() | |
 |[.]() | |
 |[.]() | |
