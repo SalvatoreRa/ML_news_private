@@ -130,7 +130,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -139,6 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Move fast and break things? Not again, and not with AI.](https://thehill.com/opinion/technology/4891654-move-fast-and-break-things-not-again-and-not-with-ai/) | It was only 12 years ago that Mark Zuckerberg, CEO of Facebook, declared that the company’s culture was to “move fast and break things.”|
 |[The dark side of AI democratization: You no longer need to be a hacker to hack.](https://thehill.com/opinion/4891452-ai-hacking-tools-threats/) | Generative AI promises a future where you no longer need to be a skilled writer to draft a story or a trained software engineer to code. But there’s a dark side to this democratization: AI is enabling people with little technological know-how to become cybercriminals.|
 |[‘It’s the robot we were all expecting – like C3PO’: why aren’t humanoids in our homes yet?](https://www.theguardian.com/science/2024/sep/22/its-the-robot-we-were-all-expecting-like-c3po-why-arent-humanoids-in-our-homes-yet) | Tesla and others are trying to infuse robots with artificial intelligence, yet their development is dogged by technical and safety challenges. But the dream of a multipurpose domestic droid lives on|
+|[Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think.](https://arxiv.org/abs/2409.11355) |Extensive efforts have been made to adapt pretrained image diffusion models into specialized depth estimators and other image-conditioned models. This research discovered that by simplifying the problem and correcting a minor bug, they achieved significantly better performance with reduced training compute. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
