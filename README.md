@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Driver Distractions ‘Exceedingly High’ When Using Partial Automation Systems: IIHS.](https://www.thedrive.com/news/driver-distractions-exceedingly-high-when-using-partial-automation-systems-iihs) |According to the IIHS, once advanced driver-assistance systems come into play, drivers become less involved in driving and more distracted. Hands-on or hands-free, the level of automation doesn’t matter. |
 |[wordfreq will not be updated.](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | The wordfreq data is a snapshot of language that could be found in various online sources up through 2021. Generative AI has polluted the data|
 |[Drones carrying fireworks: why the world’s most famous gunpowder artist is collaborating with AI.](https://www.theguardian.com/artanddesign/2024/sep/22/cai-guo-qiang-we-are-explosion-event-artificial-intelligence) | For his explosion event in Los Angeles, Cai Guo-Qiang built his own version of ChatGPT and employed a drone army to answer the question: what is the fate of humanity and AI?|
-(https://news.mit.edu/2024/study-ai-inconsistent-outcomes-home-surveillance-0919) |Researchers find large language models make inconsistent decisions about whether to call the police when analyzing surveillance videos. |
+|[AI could lead to inconsistent outcomes in home surveillance.](https://news.mit.edu/2024/study-ai-inconsistent-outcomes-home-surveillance-0919) |Researchers find large language models make inconsistent decisions about whether to call the police when analyzing surveillance videos. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,9 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[aiq.](https://github.com/taylorai/aiq) | A straightforward yet highly effective tool designed for labeling, embedding, and classifying unlabeled text directly from the command line. It supports real-time processing of streams, allowing it to handle piped input from various sources seamlessly.|
 |[Most powerful LLM on a single GPU.](https://www.upstage.ai/products/solar-pro-preview) |Solar Pro is a 22B parameter language model optimized to run on a single 80GB GPU. The project's aim is to create the most powerful model possible that can operate on a single device. |
 |[Contextual Retrieval.](https://www.anthropic.com/news/contextual-retrieval) | Anthropic demonstrates a method for semantically chunking documents, which significantly boosts performance while keeping the cost low at just $1 per million chunks, thanks to caching.|
-|[AI could lead to inconsistent outcomes in home surveillance.]
-|[.]() | |
-|[.]() | |
+|[An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability.](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) |Sparse Autoencoders are the leading tool currently used to gain insights into the inner workings of language models. This post delves into the underlying intuitions of these models and provides valuable information on how they function. |
+|[Generalized Knowledge Distillation Trainer.](https://huggingface.co/docs/trl/gkd_trainer) | The TRL library has added GKD to its training procedures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
