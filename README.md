@@ -108,9 +108,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Agents in Software Engineering: Survey, Landscape, and Vision.](https://arxiv.org/abs/2409.09030) | gives a thorough rundown of software engineering frameworks for LLM-based agents.|
 |[Prompting ChatGPT o1.](https://platform.openai.com/docs/guides/reasoning/how-reasoning-works) |This guide was overlooked amidst the buzz around OpenAI's new reasoning models. It explains how prompting this new model differs, emphasizing the need for simpler prompts and a more organized input context. |
 |[Jony Ive confirms he’s working on a new device with OpenAI.](https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware) | Jony Ive is teaming up with OpenAI CEO Sam Altman on a new AI hardware initiative, which might secure $1 billion in funding by the end of the year and includes involvement from key former Apple designers. Although details about the device are still unclear, the project aims to harness generative AI for enhanced user interactions.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Michelangelo: Long Context Evaluations Beyond Haystacks via Latent Structure Queries.](https://arxiv.org/abs/2409.12640) | Another impressive paper from Google demonstrates how to evaluate long-context models, following a directionally similar approach to the recent work by Magic.|
+|[3DTopia-XL: High-Quality 3D PBR Asset Generation via Primitive Diffusion.](https://github.com/3DTopia/3DTopia-XL) |The process of converting image and text inputs into 3D models involves generating a 3D mesh that is smoothed for high-quality surfaces, and then applying Physically-Based Rendering (PBR) lighting techniques to create realistic lighting and textures. This method ensures the final 3D object has detailed geometry, smooth surfaces, and lifelike lighting effects, making it suitable for use in various 3D applications such as games, VR/AR, and simulations. |
+|[aiq.](https://github.com/taylorai/aiq) | A straightforward yet highly effective tool designed for labeling, embedding, and classifying unlabeled text directly from the command line. It supports real-time processing of streams, allowing it to handle piped input from various sources seamlessly.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
