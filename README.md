@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[wordfreq will not be updated.](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md) | The wordfreq data is a snapshot of language that could be found in various online sources up through 2021. Generative AI has polluted the data|
 |[Drones carrying fireworks: why the world’s most famous gunpowder artist is collaborating with AI.](https://www.theguardian.com/artanddesign/2024/sep/22/cai-guo-qiang-we-are-explosion-event-artificial-intelligence) | For his explosion event in Los Angeles, Cai Guo-Qiang built his own version of ChatGPT and employed a drone army to answer the question: what is the fate of humanity and AI?|
 |[AI could lead to inconsistent outcomes in home surveillance.](https://news.mit.edu/2024/study-ai-inconsistent-outcomes-home-surveillance-0919) |Researchers find large language models make inconsistent decisions about whether to call the police when analyzing surveillance videos. |
-|[.]() | |
-|[.]() | |
+|[Arcade Announces First-Ever AI Product Creation Platform.](https://www.prnewswire.com/news-releases/arcade-announces-first-ever-ai-product-creation-platform-302254225.html) |Arcade is a new platform where users can go from prompt to product. |
+|[Salesforce Taps Nvidia to Develop AI-Powered Avatars.](https://www.marketwatch.com/story/salesforce-taps-nvidia-to-develop-ai-powered-avatars-40acf63a?mod=technology) | Salesforce and Nvidia are partnering to develop advanced artificial intelligence capabilities aimed at delivering new insights and enhancing productivity for teams utilizing Salesforce's platform.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
