@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Practitioner's Guide to the Maximal Update Parameterization.](https://blog.eleuther.ai/mutransfer/) | Maximal Update Parameterization (muP) is an approach to model initialization that enables hyperparameter transferability across different scales. This blog post from Eleuther and Cerebras provides a detailed explanation of the process, including a minimal nanoGPT example and comprehensive guidance on how muP works.|
 |[Tackling fluffy clouds: field boundaries detection using time series of S2 and/or S1 imagery.](https://github.com/feevos/tfcl) | This repository provides an implementation of a 3D Vision Transformer optimized for efficient field boundary delineation using time-series satellite imagery. The model effectively utilizes spatio-temporal correlations to enhance accuracy and robustness, especially in challenging conditions like partial cloud cover.|
 |[CritiPrefill.](https://github.com/66ring/critiprefill) | CritiPrefill is a technique aimed at speeding up the prefilling phase of long-context processing in large language models. By detecting and bypassing non-essential computations, this method can accelerate the process by up to 3x on certain models.|
-|[.]() | |
+|[Document Similarity Search with ColPali.](https://huggingface.co/blog/fsommers/document-similarity-colpali) | An excellent blog post that delves into the widely used multimodal Retrieval-Augmented Generation (RAG) system, demonstrating how it can be applied to address real-world problems effectively.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The dark side of AI democratization: You no longer need to be a hacker to hack.](https://thehill.com/opinion/4891452-ai-hacking-tools-threats/) | Generative AI promises a future where you no longer need to be a skilled writer to draft a story or a trained software engineer to code. But there’s a dark side to this democratization: AI is enabling people with little technological know-how to become cybercriminals.|
 |[‘It’s the robot we were all expecting – like C3PO’: why aren’t humanoids in our homes yet?](https://www.theguardian.com/science/2024/sep/22/its-the-robot-we-were-all-expecting-like-c3po-why-arent-humanoids-in-our-homes-yet) | Tesla and others are trying to infuse robots with artificial intelligence, yet their development is dogged by technical and safety challenges. But the dream of a multipurpose domestic droid lives on|
 |[Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think.](https://arxiv.org/abs/2409.11355) |Extensive efforts have been made to adapt pretrained image diffusion models into specialized depth estimators and other image-conditioned models. This research discovered that by simplifying the problem and correcting a minor bug, they achieved significantly better performance with reduced training compute. |
-|[.]() | |
-|[.]() | |
+|[AI model can reveal the structures of crystalline materials.](https://news.mit.edu/2024/ai-model-can-reveal-crystalline-materials-structures-0919) |By analyzing X-ray crystallography data, the model can assist researchers in developing new materials for a wide range of applications, such as batteries and magnets. |
+|[When will AI outthink humans?](https://davidvgilmore.com/writings/outthinking-ai) |This article examines when AI might exceed human cognitive capacity, introducing "thought-hours" as a metric to measure AI's cognitive output relative to human work. Based on assumptions about reading speeds and productivity, one thought-hour is equivalent to 10,000 tokens. Given the rapid advancements in AI capabilities and cost efficiencies, current trends indicate that AI could surpass human cognitive output within the next decade. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
