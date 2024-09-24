@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI could lead to inconsistent outcomes in home surveillance.](https://news.mit.edu/2024/study-ai-inconsistent-outcomes-home-surveillance-0919) |Researchers find large language models make inconsistent decisions about whether to call the police when analyzing surveillance videos. |
 |[Arcade Announces First-Ever AI Product Creation Platform.](https://www.prnewswire.com/news-releases/arcade-announces-first-ever-ai-product-creation-platform-302254225.html) |Arcade is a new platform where users can go from prompt to product. |
 |[Salesforce Taps Nvidia to Develop AI-Powered Avatars.](https://www.marketwatch.com/story/salesforce-taps-nvidia-to-develop-ai-powered-avatars-40acf63a?mod=technology) | Salesforce and Nvidia are partnering to develop advanced artificial intelligence capabilities aimed at delivering new insights and enhancing productivity for teams utilizing Salesforce's platform.|
-|[.]() | |
-|[.]() | |
+|[Introducing the OpenAI Academy.](https://openai.com/global-affairs/openai-academy) |OpenAI is launching a program aimed at expanding AI knowledge access in low and middle-income countries. Additionally, it has professionally translated the MMLU, a standard reasoning benchmark, into 15 different languages. |
+|[China’s Alibaba launches over 100 new open-source AI models, releases text-to-video generation tool.](https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html) | Alibaba has introduced over 100 open-source AI models, bolstering its technology to stay competitive with its rivals. The latest Qwen 2.5 models, improved in areas like math and coding, cater to various applications, including automobiles and gaming. Additionally, Alibaba has unveiled a new proprietary model, Qwen-Max 2.5, along with a text-to-video tool to enhance its AI and cloud service offerings.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
