@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Salesforce Taps Nvidia to Develop AI-Powered Avatars.](https://www.marketwatch.com/story/salesforce-taps-nvidia-to-develop-ai-powered-avatars-40acf63a?mod=technology) | Salesforce and Nvidia are partnering to develop advanced artificial intelligence capabilities aimed at delivering new insights and enhancing productivity for teams utilizing Salesforce's platform.|
 |[Introducing the OpenAI Academy.](https://openai.com/global-affairs/openai-academy) |OpenAI is launching a program aimed at expanding AI knowledge access in low and middle-income countries. Additionally, it has professionally translated the MMLU, a standard reasoning benchmark, into 15 different languages. |
 |[China’s Alibaba launches over 100 new open-source AI models, releases text-to-video generation tool.](https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html) | Alibaba has introduced over 100 open-source AI models, bolstering its technology to stay competitive with its rivals. The latest Qwen 2.5 models, improved in areas like math and coding, cater to various applications, including automobiles and gaming. Additionally, Alibaba has unveiled a new proprietary model, Qwen-Max 2.5, along with a text-to-video tool to enhance its AI and cloud service offerings.|
-|[.]() | |
+|[Apple Intelligence Features Expected to Roll Out in This Order Between iOS 18.1 and iOS 18.4.](https://www.macrumors.com/2024/09/22/apple-intelligence-features-timing/) |Apple's iOS 18.1 will debut significant AI features, including an improved Siri, generative AI tools within Photos, and ChatGPT integration. In iOS 18.2, these capabilities will be expanded with localized support across various English-speaking countries, alongside the introduction of Image Playground and Genmoji. Upcoming updates, like iOS 18.4, will further personalize Siri and add support for additional languages. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Contextual Retrieval.](https://www.anthropic.com/news/contextual-retrieval) | Anthropic demonstrates a method for semantically chunking documents, which significantly boosts performance while keeping the cost low at just $1 per million chunks, thanks to caching.|
 |[An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability.](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) |Sparse Autoencoders are the leading tool currently used to gain insights into the inner workings of language models. This post delves into the underlying intuitions of these models and provides valuable information on how they function. |
 |[Generalized Knowledge Distillation Trainer.](https://huggingface.co/docs/trl/gkd_trainer) | The TRL library has added GKD to its training procedures.|
-|[.]() | |
+|[The Practitioner's Guide to the Maximal Update Parameterization.](https://blog.eleuther.ai/mutransfer/) | Maximal Update Parameterization (muP) is an approach to model initialization that enables hyperparameter transferability across different scales. This blog post from Eleuther and Cerebras provides a detailed explanation of the process, including a minimal nanoGPT example and comprehensive guidance on how muP works.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
