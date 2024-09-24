@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Jailbreaking Large Language Models with Symbolic Mathematics.](https://arxiv.org/abs/2409.11445) |generates mathematically encoded prompts using GPT-4o, which is a useful jailbreaking strategy; the average attack success rate over 13 state-of-the-art is 73.6%. This indicates that current safety training systems are not able to generalize to mathematically encoded inputs. |
 |[Iterative Object Count Optimization for Text-to-image Diffusion Models.](https://ozzafar.github.io/count_token/) |Generating a specific number of objects with a diffusion model is often a difficult task. This work introduces a counting token that enables the model to more accurately produce either a few or many instances of a given object. While it's not flawless and is based on the original stable diffusion model, it significantly outperforms existing methods. |
 |[A Controlled Study on Long Context Extension and Generalization in LLMs.](https://arxiv.org/abs/2409.12181v2) |Researchers have created a standardized evaluation protocol designed to compare different methods for extending language models to effectively handle long document contexts. |
-|[.]() | |
+|[MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning.](https://arxiv.org/abs/2409.12147v1) |MAgICoRe is a novel strategy designed to enhance reasoning in large language models by tackling challenges in refinement processes. It classifies problems based on difficulty, applying straightforward strategies to simpler tasks and employing multi-agent iterative refinement for more complex ones. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability.](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) |Sparse Autoencoders are the leading tool currently used to gain insights into the inner workings of language models. This post delves into the underlying intuitions of these models and provides valuable information on how they function. |
 |[Generalized Knowledge Distillation Trainer.](https://huggingface.co/docs/trl/gkd_trainer) | The TRL library has added GKD to its training procedures.|
 |[The Practitioner's Guide to the Maximal Update Parameterization.](https://blog.eleuther.ai/mutransfer/) | Maximal Update Parameterization (muP) is an approach to model initialization that enables hyperparameter transferability across different scales. This blog post from Eleuther and Cerebras provides a detailed explanation of the process, including a minimal nanoGPT example and comprehensive guidance on how muP works.|
-|[.]() | |
-|[.]() | |
+|[Tackling fluffy clouds: field boundaries detection using time series of S2 and/or S1 imagery.](https://github.com/feevos/tfcl) | This repository provides an implementation of a 3D Vision Transformer optimized for efficient field boundary delineation using time-series satellite imagery. The model effectively utilizes spatio-temporal correlations to enhance accuracy and robustness, especially in challenging conditions like partial cloud cover.|
+|[CritiPrefill.](https://github.com/66ring/critiprefill) | CritiPrefill is a technique aimed at speeding up the prefilling phase of long-context processing in large language models. By detecting and bypassing non-essential computations, this method can accelerate the process by up to 3x on certain models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
