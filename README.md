@@ -132,6 +132,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ControlEdit: A MultiModal Local Clothing Image Editing Method.](https://arxiv.org/abs/2409.14720v1) | ControlEdit is an innovative technique for precise multimodal editing of clothing images, enabling localized adjustments while preserving overall style and ensuring smooth, natural transitions.|
 |[ECCV-AIM Video Saliency Prediction Challenge 2024.](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction) | The AIM 2024 Video Saliency Prediction Challenge required participants to predict saliency maps for a collection of video sequences using the newly compiled AViMoS dataset, which contains 1,500 videos.|
 |[Dynamic 2D Gaussians: Geometrically Accurate Radiance Fields for Dynamic Objects.](https://github.com/hustvl/Dynamic-2DGS) | Dynamic 2D Gaussians (D-2DGS) is an advanced technique for reconstructing precise meshes from sparse image inputs. Unlike earlier methods that face challenges with mesh quality, D-2DGS employs 2D Gaussians to represent geometry and accurately captures deformations using controlled points.|
+|[FastGL: A GPU-Efficient Framework for Accelerating Sampling-Based GNN Training at Large Scale.](https://arxiv.org/abs/2409.14939v1) | FastGL is a GPU-efficient framework developed to accelerate the training of Graph Neural Networks (GNNs) on large-scale graphs. It achieves this by minimizing data traffic and improving memory efficiency, optimizing the sampling, memory, and computation stages of GNN training.|
+|[Visualizing piecewise linear neural networks.](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/) |Jane Street, a prominent quantitative firm, has published an excellent post exploring techniques for visualizing networks that are piecewise linear. |
+|[DreamHOI: A Novel AI Approach for Realistic 3D Human-Object Interaction Generation Using Textual Descriptions and Diffusion Models.](https://www.marktechpost.com/2024/09/18/dreamhoi-a-novel-ai-approach-for-realistic-3d-human-object-interaction-generation-using-textual-descriptions-and-diffusion-models/) |DreamHoi has developed an innovative AI technique for creating realistic 3D human-object interactions based on textual descriptions using advanced diffusion models. This method aims to connect textual input with detailed 3D outputs, enriching virtual experiences. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
