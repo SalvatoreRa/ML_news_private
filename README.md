@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Iterative Object Count Optimization for Text-to-image Diffusion Models.](https://ozzafar.github.io/count_token/) |Generating a specific number of objects with a diffusion model is often a difficult task. This work introduces a counting token that enables the model to more accurately produce either a few or many instances of a given object. While it's not flawless and is based on the original stable diffusion model, it significantly outperforms existing methods. |
 |[A Controlled Study on Long Context Extension and Generalization in LLMs.](https://arxiv.org/abs/2409.12181v2) |Researchers have created a standardized evaluation protocol designed to compare different methods for extending language models to effectively handle long document contexts. |
 |[MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning.](https://arxiv.org/abs/2409.12147v1) |MAgICoRe is a novel strategy designed to enhance reasoning in large language models by tackling challenges in refinement processes. It classifies problems based on difficulty, applying straightforward strategies to simpler tasks and employing multi-agent iterative refinement for more complex ones. |
-|[.]() | |
+|[The Impact of Element Ordering on LM Agent Performance.](https://arxiv.org/abs/2409.12089v2) |The sequence in which UI elements are displayed greatly affects agent performance in virtual environments. Randomizing the order of elements can decrease performance as much as completely removing all visible text.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tackling fluffy clouds: field boundaries detection using time series of S2 and/or S1 imagery.](https://github.com/feevos/tfcl) | This repository provides an implementation of a 3D Vision Transformer optimized for efficient field boundary delineation using time-series satellite imagery. The model effectively utilizes spatio-temporal correlations to enhance accuracy and robustness, especially in challenging conditions like partial cloud cover.|
 |[CritiPrefill.](https://github.com/66ring/critiprefill) | CritiPrefill is a technique aimed at speeding up the prefilling phase of long-context processing in large language models. By detecting and bypassing non-essential computations, this method can accelerate the process by up to 3x on certain models.|
 |[Document Similarity Search with ColPali.](https://huggingface.co/blog/fsommers/document-similarity-colpali) | An excellent blog post that delves into the widely used multimodal Retrieval-Augmented Generation (RAG) system, demonstrating how it can be applied to address real-world problems effectively.|
-|[.]() | |
+|[ControlEdit: A MultiModal Local Clothing Image Editing Method.](https://arxiv.org/abs/2409.14720v1) | ControlEdit is an innovative technique for precise multimodal editing of clothing images, enabling localized adjustments while preserving overall style and ensuring smooth, natural transitions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
