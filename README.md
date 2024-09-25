@@ -88,6 +88,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hollywood is coming out in force for California’s AI safety bill.](https://www.theverge.com/2024/9/24/24253439/california-sb-1047-newsom-hollywood-sag-aftra-ai-safety) |Hollywood is squaring off against Silicon Valley in the battle over SB 1047, California’s first-of-its-kind AI safety bill. Amid doubts about whether Governor Gavin Newsom will sign the legislation, a wave of star-studded endorsements mark the first organized celebrity effort to advance AI regulations beyond the direct interests of the entertainment industry.  |
 |[OpenAI rolls out Advanced Voice Mode with more voices and a new look.](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/) |OpenAI announced it is rolling out Advanced Voice Mode (AVM) to an expanded set of ChatGPT’s paying customers on Tuesday. The audio feature, which makes ChatGPT more natural to speak with, will initially roll out to customers in ChatGPT’s Plus and Teams tiers. Enterprise and Edu customers will start receiving access next week.|
 |[OpenAI CEO Sam Altman declares we could have superintelligence 'in a few thousand days'.](https://www.techradar.com/computing/artificial-intelligence/openai-ceo-sam-altman-declares-we-could-have-superintelligence-in-a-few-thousand-days) |OpenAI CEO Sam Altman has declared that humanity is on the brink of a superintelligence revolution, and that "In the next couple of decades, we will be able to do things that would have seemed like magic to our grandparents."  |
+|[Google says generative AI is ready to do real work.](https://www.axios.com/2024/09/24/google-says-generative-ai-is-ready-to-do-real-work) |Google is holding a "Gemini at Work" event Tuesday to convince businesses that its generative AI is better than offerings from Microsoft and OpenAI. The largely virtual event comes amid a flurry of claims from tech providers and growing skepticism that genAI is ready for broad use beyond coding and customer support.|
+|[Google, Volkswagen partner on smartphone AI assistant.](https://www.reuters.com/technology/artificial-intelligence/google-volkswagen-partner-smartphone-ai-assistant-2024-09-24/) | Google is providing key capabilities for an artificial intelligence assistant for Volkswagen drivers in a smartphone app, part of Google's strategy to win business by offering tools to build enterprise AI applications.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
