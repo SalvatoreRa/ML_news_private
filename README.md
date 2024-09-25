@@ -130,8 +130,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CritiPrefill.](https://github.com/66ring/critiprefill) | CritiPrefill is a technique aimed at speeding up the prefilling phase of long-context processing in large language models. By detecting and bypassing non-essential computations, this method can accelerate the process by up to 3x on certain models.|
 |[Document Similarity Search with ColPali.](https://huggingface.co/blog/fsommers/document-similarity-colpali) | An excellent blog post that delves into the widely used multimodal Retrieval-Augmented Generation (RAG) system, demonstrating how it can be applied to address real-world problems effectively.|
 |[ControlEdit: A MultiModal Local Clothing Image Editing Method.](https://arxiv.org/abs/2409.14720v1) | ControlEdit is an innovative technique for precise multimodal editing of clothing images, enabling localized adjustments while preserving overall style and ensuring smooth, natural transitions.|
-|[.]() | |
-|[.]() | |
+|[ECCV-AIM Video Saliency Prediction Challenge 2024.](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction) | The AIM 2024 Video Saliency Prediction Challenge required participants to predict saliency maps for a collection of video sequences using the newly compiled AViMoS dataset, which contains 1,500 videos.|
+|[Dynamic 2D Gaussians: Geometrically Accurate Radiance Fields for Dynamic Objects.](https://github.com/hustvl/Dynamic-2DGS) | Dynamic 2D Gaussians (D-2DGS) is an advanced technique for reconstructing precise meshes from sparse image inputs. Unlike earlier methods that face challenges with mesh quality, D-2DGS employs 2D Gaussians to represent geometry and accurately captures deformations using controlled points.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
