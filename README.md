@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[James Cameron, Academy Award-Winning Filmmaker, Joins Stability AI Board of Directors.](https://stability.ai/news/james-cameron-joins-stability-ai-board-of-directors) | Renowned filmmaker James Cameron has joined the board of generative media company Stability AI to help steer its shift toward visual storytelling.|
 |[Updated Gemini models, reduced 1.5 Pro pricing, increased rate limits.](https://developers.googleblog.com/en/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/) | Google's Gemini models have seen a significant cost reduction, an expanded context length of up to 2 million tokens, and overall performance enhancements. An intriguing detail is the noticeable jump in cost after reaching 128k tokens.|
 |[OpenAI staffers reportedly 'taken aback' by 'ominous' logo rebranding.](https://www.engadget.com/ai/openai-staffers-reportedly-taken-aback-by-ominous-logo-rebranding-160017936.html) | OpenAI is set to rebrand in 2024 with a new logo that employees felt lacked creativity. Alongside this change, the company is transitioning from a non-profit to a for-profit model. The rebranding effort is intended to strengthen its identity as OpenAI gains greater recognition.|
-|[.]() | |
+|[Accelerating particle size distribution estimation.](https://news.mit.edu/2024/accelerating-particle-size-distribution-estimation-0923) |MIT researchers have accelerated a new AI-based estimator for medication manufacturing, achieving a 60-fold increase in speed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
