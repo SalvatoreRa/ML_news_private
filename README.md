@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI CEO Sam Altman declares we could have superintelligence 'in a few thousand days'.](https://www.techradar.com/computing/artificial-intelligence/openai-ceo-sam-altman-declares-we-could-have-superintelligence-in-a-few-thousand-days) |OpenAI CEO Sam Altman has declared that humanity is on the brink of a superintelligence revolution, and that "In the next couple of decades, we will be able to do things that would have seemed like magic to our grandparents."  |
 |[Google says generative AI is ready to do real work.](https://www.axios.com/2024/09/24/google-says-generative-ai-is-ready-to-do-real-work) |Google is holding a "Gemini at Work" event Tuesday to convince businesses that its generative AI is better than offerings from Microsoft and OpenAI. The largely virtual event comes amid a flurry of claims from tech providers and growing skepticism that genAI is ready for broad use beyond coding and customer support.|
 |[Google, Volkswagen partner on smartphone AI assistant.](https://www.reuters.com/technology/artificial-intelligence/google-volkswagen-partner-smartphone-ai-assistant-2024-09-24/) | Google is providing key capabilities for an artificial intelligence assistant for Volkswagen drivers in a smartphone app, part of Google's strategy to win business by offering tools to build enterprise AI applications.|
-|[.]() | |
-|[.]() | |
+|[Will AI replace programmers? Don't count on it, says Google's CEO.](https://www.xda-developers.com/ai-replace-programmers-google-ceo/) | the CEO of Google and its owner company, Alphabet, believes that AI won't be replacing programmers - instead, it'll actually help more people become coders than ever before.|
+|[Cloudflare's new AI Audit tool aims to give content creators better bot controls.](https://www.zdnet.com/article/cloudflares-new-ai-audit-tool-aims-to-help-content-creators-take-back-control-from-bots/) |Don't want your work ripped off by OpenAI, Meta AI, and Google Gemini? If your work is on a website you control, Cloudflare's AI Audit tool may help. Here's how to try it. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
