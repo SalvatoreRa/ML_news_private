@@ -55,8 +55,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning.](https://arxiv.org/abs/2409.12147v1) |MAgICoRe is a novel strategy designed to enhance reasoning in large language models by tackling challenges in refinement processes. It classifies problems based on difficulty, applying straightforward strategies to simpler tasks and employing multi-agent iterative refinement for more complex ones. |
 |[The Impact of Element Ordering on LM Agent Performance.](https://arxiv.org/abs/2409.12089v2) |The sequence in which UI elements are displayed greatly affects agent performance in virtual environments. Randomizing the order of elements can decrease performance as much as completely removing all visible text.|
 |[Larger and more instructable language models become less reliable.](https://www.nature.com/articles/s41586-024-07930-y) | Scaling up and shaping up large language models increased their tendency to provide sensible yet incorrect answers at difficulty levels humans cannot supervise, highlighting the need for a fundamental shift in artificial intelligence design towards reliability.|
-|[.]() | |
-|[.]() | |
+|[Llama 3.2: multimodal.](https://www.llama.com/) | Meta has introduced a new series of Llama models with vision capabilities, including versions with 1 billion and 3 billion parameters, as well as several additional multimodal models.|
+|[OpenAI CTO Mira Murati is leaving.](https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving) |wo other company leaders are also out in what CEO Sam Altman calls an “abrupt” reorganization. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
