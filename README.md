@@ -137,9 +137,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Visualizing piecewise linear neural networks.](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/) |Jane Street, a prominent quantitative firm, has published an excellent post exploring techniques for visualizing networks that are piecewise linear. |
 |[DreamHOI: A Novel AI Approach for Realistic 3D Human-Object Interaction Generation Using Textual Descriptions and Diffusion Models.](https://www.marktechpost.com/2024/09/18/dreamhoi-a-novel-ai-approach-for-realistic-3d-human-object-interaction-generation-using-textual-descriptions-and-diffusion-models/) |DreamHoi has developed an innovative AI technique for creating realistic 3D human-object interactions based on textual descriptions using advanced diffusion models. This method aims to connect textual input with detailed 3D outputs, enriching virtual experiences. |
 |[On human-in-the-loop optimization of human–robot interaction.](https://www.nature.com/articles/s41586-024-07697-2) | From industrial exoskeletons to implantable medical devices, robots that interact closely with people are poised to improve every aspect of our lives. Yet designing these systems is very challenging.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Molmo.](https://molmo.allenai.org/blog) |Allen AI has introduced an entirely open-source multimodal model that exceeds the performance of many existing open and proprietary vision-language models. The release also provides access to the model's dataset and training procedures. |
+|[MaskBit: Embedding-free Image Generation via Bit Tokens.](https://arxiv.org/abs/2409.1621) | This study presents two significant advancements in image generation: an updated VQGAN model that enhances both accessibility and performance, and a novel embedding-free generation network utilizing bit tokens. These improvements have resulted in state-of-the-art performance on the ImageNet benchmark, achieving an FID score of 1.52 with a compact model containing 305 million parameters.|
+|[ComiCap: A VLMs pipeline for dense captioning of Comic Panels.](https://arxiv.org/abs/2409.16159v1) | Researchers have proposed a pipeline utilizing Vision-Language Models (VLMs) to generate detailed, grounded captions that connect comic elements and their relationships, thereby improving comic analysis.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
