@@ -164,7 +164,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Is Evolving Faster Than Experts Imagined, Including for Bill Gates.](https://www.cnet.com/tech/computing/ai-is-evolving-even-faster-than-experts-including-bill-gates-imagined/) | Bill Gates views AI as the most significant technological advancement of his lifetime, highlighting its potential to transform healthcare, education, and various other sectors. However, he, alongside other experts like Sam Altman and Eric Schmidt, also emphasizes the rapid, unprecedented pace of AI development and the urgent need for regulation to manage associated risks and ethical concerns.|
 |[The fall of Intel: How gen AI helped dethrone a giant and transform computing as we know it.](https://www.zdnet.com/article/the-fall-of-intel-how-gen-ai-helped-dethrone-a-giant-and-transform-computing-as-we-know-it/) | The once venerable x86 chip has been pushed aside by scalable, energy-efficient, AI-optimized architectures from Arm, Nvidia, and Qualcomm. Here's what happens next.|
 |[Fake AI “podcasters” are reviewing my book and it’s freaking me out.](https://arstechnica.com/ai/2024/09/fake-ai-podcasters-are-reviewing-my-book-and-its-freaking-me-out/) |NotebookLM's "Audio Summaries" show a more personable future for AI-generated content. |
-|[.]() | |
+|[How Much Do Students Really Read?](https://www.insidehighered.com/news/students/academics/2024/09/25/students-turn-ai-do-their-assigned-readings-them) |Students are turning to YouTube, podcasts and ChatGPT-crafted summaries rather than actually reading their assignments for class. Professors are unsure how to adapt. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
