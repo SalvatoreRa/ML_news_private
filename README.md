@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FastGL: A GPU-Efficient Framework for Accelerating Sampling-Based GNN Training at Large Scale.](https://arxiv.org/abs/2409.14939v1) | FastGL is a GPU-efficient framework developed to accelerate the training of Graph Neural Networks (GNNs) on large-scale graphs. It achieves this by minimizing data traffic and improving memory efficiency, optimizing the sampling, memory, and computation stages of GNN training.|
 |[Visualizing piecewise linear neural networks.](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/) |Jane Street, a prominent quantitative firm, has published an excellent post exploring techniques for visualizing networks that are piecewise linear. |
 |[DreamHOI: A Novel AI Approach for Realistic 3D Human-Object Interaction Generation Using Textual Descriptions and Diffusion Models.](https://www.marktechpost.com/2024/09/18/dreamhoi-a-novel-ai-approach-for-realistic-3d-human-object-interaction-generation-using-textual-descriptions-and-diffusion-models/) |DreamHoi has developed an innovative AI technique for creating realistic 3D human-object interactions based on textual descriptions using advanced diffusion models. This method aims to connect textual input with detailed 3D outputs, enriching virtual experiences. |
-|[.]() | |
+|[On human-in-the-loop optimization of human–robot interaction.](https://www.nature.com/articles/s41586-024-07697-2) | From industrial exoskeletons to implantable medical devices, robots that interact closely with people are poised to improve every aspect of our lives. Yet designing these systems is very challenging.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
