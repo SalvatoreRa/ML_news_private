@@ -189,7 +189,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI agents invade observability: snake oil or the future of SRE?](https://monitoring2.substack.com/p/ai-agents-invade-observability) | Advances in AI are set to revolutionize the observability industry with "agentic" generative AI models capable of taking actions based on real-world data.|
 |[Corporate America has failed to embrace DEI. An AI chatbot could be part of the solution.](https://www.theguardian.com/business/2024/sep/26/jeffrey-bowman-reframe-dei-ai-chat) | Jeffrey L Bowman’s Reframe consultancy is using artificial intelligence to help with engaging employees with diversity programming or making a budget for DEI work|
 |[Mexico’s datacentre industry is booming – but are more drought and blackouts the price communities must pay?](https://www.theguardian.com/global-development/2024/sep/25/mexico-datacentre-amazon-google-queretaro-water-electricity) |Many fear the arrival of tech giants such as Amazon, Microsoft and Google in the state of Querétaro will place too much of a strain on scarce water and electricity resources |
-|[.]() | |
+|[Posting ‘Goodbye Meta AI’ is pointless. But we can stop big tech stealing our Facebook pictures.](https://www.theguardian.com/commentisfree/2024/sep/26/goodbye-meta-ai-big-tech-data-facebook) |Sharing these posts may seem harmless, but don’t be drawn in. There are better ways to combat the threats to our data |
 |[.]() | |
 |[.]() | |
 |[.]() | |
