@@ -166,8 +166,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fake AI “podcasters” are reviewing my book and it’s freaking me out.](https://arstechnica.com/ai/2024/09/fake-ai-podcasters-are-reviewing-my-book-and-its-freaking-me-out/) |NotebookLM's "Audio Summaries" show a more personable future for AI-generated content. |
 |[How Much Do Students Really Read?](https://www.insidehighered.com/news/students/academics/2024/09/25/students-turn-ai-do-their-assigned-readings-them) |Students are turning to YouTube, podcasts and ChatGPT-crafted summaries rather than actually reading their assignments for class. Professors are unsure how to adapt. |
 |[War, Artificial Intelligence, and the Future of Conflict.](https://gjia.georgetown.edu/2024/07/12/war-artificial-intelligence-and-the-future-of-conflict/) |Artificial intelligence (AI) is now influencing every area of human life. These accepted uses of AI in modern society have also coincided with an increased presence of AI in modern warfare. |
-|[.]() | |
-|[.]() | |
+|[Where did viruses come from? AlphaFold and other AIs are finding answers.](https://www.nature.com/articles/d41586-024-02970-w) |Protein structures predicted by artificial intelligence have charted the evolution of the virus family responsible for dengue and hepatitis C. |
+|[Can AI feel distress? Inside a new framework to assess sentience.](https://www.nature.com/articles/d41586-024-03076-z) | From artificial-intelligence algorithms to zebrafish, this book take a precautionary approach to assessing how sentient such entities are.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
