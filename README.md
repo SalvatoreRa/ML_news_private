@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Controlled Study on Long Context Extension and Generalization in LLMs.](https://arxiv.org/abs/2409.12181v2) |Researchers have created a standardized evaluation protocol designed to compare different methods for extending language models to effectively handle long document contexts. |
 |[MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning.](https://arxiv.org/abs/2409.12147v1) |MAgICoRe is a novel strategy designed to enhance reasoning in large language models by tackling challenges in refinement processes. It classifies problems based on difficulty, applying straightforward strategies to simpler tasks and employing multi-agent iterative refinement for more complex ones. |
 |[The Impact of Element Ordering on LM Agent Performance.](https://arxiv.org/abs/2409.12089v2) |The sequence in which UI elements are displayed greatly affects agent performance in virtual environments. Randomizing the order of elements can decrease performance as much as completely removing all visible text.|
-|[.]() | |
+|[Larger and more instructable language models become less reliable.](https://www.nature.com/articles/s41586-024-07930-y) | Scaling up and shaping up large language models increased their tendency to provide sensible yet incorrect answers at difficulty levels humans cannot supervise, highlighting the need for a fundamental shift in artificial intelligence design towards reliability.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
