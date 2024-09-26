@@ -103,6 +103,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI to remove non-profit control and give Sam Altman equity.](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) |OpenAI plots to restructure into for-profit benefit corporation. Non-profit board no longer controls for-profit when done. CEO Sam Altman to receive equity in OpenAI for the first time |
 |[Amazon launches Amelia, a generative AI-powered assistant for third-party sellers.](https://siliconangle.com/2024/09/19/amazon-launches-amelia-generative-ai-powered-assistant-third-party-sellers/) | Amazon has introduced Project Amelia, a generative AI assistant designed for independent sellers on its platform. Developed using Amazon's Bedrock, Amelia provides personalized insights, sales data, and operational support to boost seller productivity. Currently in beta for select U.S. sellers, it is set to roll out to more users and countries in the near future.|
 |[YouTube Shorts to integrate Veo, Google’s AI video model .](https://techcrunch.com/2024/09/18/youtube-shorts-to-integrate-veo-google-ai-video-model/) | The company announced that it is integrating Google DeepMind’s AI video generation model, Veo, into YouTube Shorts, letting creators generate high-quality backgrounds as well as six-second clips.|
+|[AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds.](https://www.cbc.ca/news/health/ai-health-care-1.7322671) |St. Michael's Hospital's AI-driven early warning system, Chartwatch, has been shown to reduce unexpected patient deaths by 26% in a recent study. |
+|[Amazon releases a video generator — but only for ads.](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/) | Like its rival, Google, Amazon has launched an AI-powered video generator — but it’s only for advertisers at the moment, and somewhat limited in what it can do.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
