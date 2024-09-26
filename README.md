@@ -140,6 +140,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Molmo.](https://molmo.allenai.org/blog) |Allen AI has introduced an entirely open-source multimodal model that exceeds the performance of many existing open and proprietary vision-language models. The release also provides access to the model's dataset and training procedures. |
 |[MaskBit: Embedding-free Image Generation via Bit Tokens.](https://arxiv.org/abs/2409.1621) | This study presents two significant advancements in image generation: an updated VQGAN model that enhances both accessibility and performance, and a novel embedding-free generation network utilizing bit tokens. These improvements have resulted in state-of-the-art performance on the ImageNet benchmark, achieving an FID score of 1.52 with a compact model containing 305 million parameters.|
 |[ComiCap: A VLMs pipeline for dense captioning of Comic Panels.](https://arxiv.org/abs/2409.16159v1) | Researchers have proposed a pipeline utilizing Vision-Language Models (VLMs) to generate detailed, grounded captions that connect comic elements and their relationships, thereby improving comic analysis.|
+|[Exploring Parallel Strategies with Jax.](https://astralord.github.io/posts/exploring-parallel-strategies-with-jax/) |This post examines methods for parallelizing language models with the Jax library. |
+|[Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts.](https://github.com/Time-MoE/Time-MoE) | Time MoE is a Mixture of Experts model designed to handle billion-scale time series prediction tasks.|
+|[HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models.](https://github.com/quehry/hellobench) |HelloBench is a benchmarking tool that assesses LLMs across five long text generation tasks, using Bloom's Taxonomy as the evaluation framework. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
