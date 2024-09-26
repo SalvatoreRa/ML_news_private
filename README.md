@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YouTube Shorts to integrate Veo, Google’s AI video model .](https://techcrunch.com/2024/09/18/youtube-shorts-to-integrate-veo-google-ai-video-model/) | The company announced that it is integrating Google DeepMind’s AI video generation model, Veo, into YouTube Shorts, letting creators generate high-quality backgrounds as well as six-second clips.|
 |[AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds.](https://www.cbc.ca/news/health/ai-health-care-1.7322671) |St. Michael's Hospital's AI-driven early warning system, Chartwatch, has been shown to reduce unexpected patient deaths by 26% in a recent study. |
 |[Amazon releases a video generator — but only for ads.](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/) | Like its rival, Google, Amazon has launched an AI-powered video generator — but it’s only for advertisers at the moment, and somewhat limited in what it can do.|
-|[.]() | |
+|[Archaeologists use AI to discover 303 unknown geoglyphs near Nazca Lines.](https://www.theguardian.com/world/2024/sep/26/nazca-lines-peru-new-geoglyphs) | Newly discovered figures dating back to 200BCE nearly double the number of known geoglyphs at enigmatic site|
 |[.]() | |
 |[.]() | |
 |[.]() | |
