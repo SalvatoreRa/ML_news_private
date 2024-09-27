@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Archaeologists use AI to discover 303 unknown geoglyphs near Nazca Lines.](https://www.theguardian.com/world/2024/sep/26/nazca-lines-peru-new-geoglyphs) | Newly discovered figures dating back to 200BCE nearly double the number of known geoglyphs at enigmatic site|
 |[OpenAI’s chief research officer has left following CTO Mira Murati’s exit.](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/) |OpenAI’s chief research officer, Bob McGrew, and a research VP, Barret Zoph, left the company on Wednesday, hours after OpenAI CTO Mira Murati announced she would be departing. |
 |[NotebookLM adds audio and YouTube support, plus easier sharing of Audio Overviews.](https://blog.google/technology/ai/notebooklm-audio-video-sources/) |NotebookLM now has the capability to extract information from audio and video sources and offers enhanced sharing options for audio artifacts. |
-|[.]() | |
+|[Vultr Cloud Alliance: High-Performance AI and HPC with AMD and Vultr.](https://blogs.vultr.com/Vultr-AMD-Cloud-Alliance) |AMD has partnered with Vultr to integrate AMD Instinct MI300X GPUs into Vultr's cloud infrastructure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -191,7 +191,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mexico’s datacentre industry is booming – but are more drought and blackouts the price communities must pay?](https://www.theguardian.com/global-development/2024/sep/25/mexico-datacentre-amazon-google-queretaro-water-electricity) |Many fear the arrival of tech giants such as Amazon, Microsoft and Google in the state of Querétaro will place too much of a strain on scarce water and electricity resources |
 |[Posting ‘Goodbye Meta AI’ is pointless. But we can stop big tech stealing our Facebook pictures.](https://www.theguardian.com/commentisfree/2024/sep/26/goodbye-meta-ai-big-tech-data-facebook) |Sharing these posts may seem harmless, but don’t be drawn in. There are better ways to combat the threats to our data |
 |[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human potential, making possible tasks that currently seem beyond reach. With advancements in deep learning and greater computational power, AI will bring about innovations such as personal assistants, educational mentors, and healthcare consultants. It's crucial to prioritize accessibility and address potential risks, ensuring that the Intelligence Age leads to broad-based prosperity. |
-|[.]() | |
+|[OpenAI just unleashed an alien of extraordinary ability.](https://www.understandingai.org/p/openai-just-unleashed-an-alien-of) |OpenAI's new o1 models demonstrate substantial improvements in reasoning abilities, surpassing existing models like GPT-4o. These advancements are achieved through a more refined reinforcement learning approach and improved chain-of-thought training, enabling the o1-enhanced models to tackle complex math and programming tasks with greater accuracy. However, they continue to face challenges with spatial reasoning and tasks that demand long-term contextual comprehension. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
