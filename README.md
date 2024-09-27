@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models.](https://github.com/quehry/hellobench) |HelloBench is a benchmarking tool that assesses LLMs across five long text generation tasks, using Bloom's Taxonomy as the evaluation framework. |
 |[Python library generation from scratch.](https://commit-0.github.io/) |A cool benchmark for code generation that measures the ability of language models to generate full packages from scratch. |
 |[BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices.](https://arxiv.org/abs/2409.17093v1) |BitQ is a framework designed to enhance block floating point (BFP) quantization, specifically tailored for optimizing deep neural networks on embedded platforms. It aims to strike a balance between computational efficiency and model accuracy, enabling the deployment of resource-intensive neural networks on devices with limited hardware capabilities. |
-|[.]() | |
+|[circuit_training.](https://github.com/google-research/circuit_training) | Google has introduced new models, training code, and simulators that leverage reinforcement learning (RL) to generate floor plans for chip design. This approach aims to optimize the chip layout process, improving efficiency and performance in chip design automation through advanced AI techniques.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
