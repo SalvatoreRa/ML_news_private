@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds.](https://www.cbc.ca/news/health/ai-health-care-1.7322671) |St. Michael's Hospital's AI-driven early warning system, Chartwatch, has been shown to reduce unexpected patient deaths by 26% in a recent study. |
 |[Amazon releases a video generator — but only for ads.](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/) | Like its rival, Google, Amazon has launched an AI-powered video generator — but it’s only for advertisers at the moment, and somewhat limited in what it can do.|
 |[Archaeologists use AI to discover 303 unknown geoglyphs near Nazca Lines.](https://www.theguardian.com/world/2024/sep/26/nazca-lines-peru-new-geoglyphs) | Newly discovered figures dating back to 200BCE nearly double the number of known geoglyphs at enigmatic site|
-|[.]() | |
+|[OpenAI’s chief research officer has left following CTO Mira Murati’s exit.](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/?utm_source=tldrai) |OpenAI’s chief research officer, Bob McGrew, and a research VP, Barret Zoph, left the company on Wednesday, hours after OpenAI CTO Mira Murati announced she would be departing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -190,7 +190,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Corporate America has failed to embrace DEI. An AI chatbot could be part of the solution.](https://www.theguardian.com/business/2024/sep/26/jeffrey-bowman-reframe-dei-ai-chat) | Jeffrey L Bowman’s Reframe consultancy is using artificial intelligence to help with engaging employees with diversity programming or making a budget for DEI work|
 |[Mexico’s datacentre industry is booming – but are more drought and blackouts the price communities must pay?](https://www.theguardian.com/global-development/2024/sep/25/mexico-datacentre-amazon-google-queretaro-water-electricity) |Many fear the arrival of tech giants such as Amazon, Microsoft and Google in the state of Querétaro will place too much of a strain on scarce water and electricity resources |
 |[Posting ‘Goodbye Meta AI’ is pointless. But we can stop big tech stealing our Facebook pictures.](https://www.theguardian.com/commentisfree/2024/sep/26/goodbye-meta-ai-big-tech-data-facebook) |Sharing these posts may seem harmless, but don’t be drawn in. There are better ways to combat the threats to our data |
-|[.]() | |
+|[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human potential, making possible tasks that currently seem beyond reach. With advancements in deep learning and greater computational power, AI will bring about innovations such as personal assistants, educational mentors, and healthcare consultants. It's crucial to prioritize accessibility and address potential risks, ensuring that the Intelligence Age leads to broad-based prosperity. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
