@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Impact of Element Ordering on LM Agent Performance.](https://arxiv.org/abs/2409.12089v2) |The sequence in which UI elements are displayed greatly affects agent performance in virtual environments. Randomizing the order of elements can decrease performance as much as completely removing all visible text.|
 |[Larger and more instructable language models become less reliable.](https://www.nature.com/articles/s41586-024-07930-y) | Scaling up and shaping up large language models increased their tendency to provide sensible yet incorrect answers at difficulty levels humans cannot supervise, highlighting the need for a fundamental shift in artificial intelligence design towards reliability.|
 |[SwiftDossier: Tailored Automatic Dossier for Drug Discovery with LLMs and Agents.](https://arxiv.org/abs/2409.15817) |This work addresses the limitations of LLMs in drug discovery by integrating an advanced Retrieval-Augmented Generation (RAG) system for more accurate answers and combining LLMs with external tools to create an automatic target dossier. The result is a production-ready dossier with comprehensive data, summarized into a PDF and PowerPoint presentation. |
-|[.]() | |
+|[Self-Explainable AI.](https://arxiv.org/abs/2409.16693v1) |In the field of explainable AI, there is a strong focus on developing self-explainable models, which offer a more principled approach compared to post-hoc methods that attempt to interpret decisions after they have been made by opaque models. Despite its potential, this line of research often faces challenges such as lack of reproducibility, difficulties in comparison, and inconsistent standards. To address these issues, we introduce CaBRNet, an open-source, modular, and backward-compatible framework for Case-Based Reasoning Networks |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI tool cuts unexpected deaths in hospital by 26%, Canadian study finds.](https://www.cbc.ca/news/health/ai-health-care-1.7322671) |St. Michael's Hospital's AI-driven early warning system, Chartwatch, has been shown to reduce unexpected patient deaths by 26% in a recent study. |
 |[Amazon releases a video generator — but only for ads.](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/) | Like its rival, Google, Amazon has launched an AI-powered video generator — but it’s only for advertisers at the moment, and somewhat limited in what it can do.|
 |[Archaeologists use AI to discover 303 unknown geoglyphs near Nazca Lines.](https://www.theguardian.com/world/2024/sep/26/nazca-lines-peru-new-geoglyphs) | Newly discovered figures dating back to 200BCE nearly double the number of known geoglyphs at enigmatic site|
-|[OpenAI’s chief research officer has left following CTO Mira Murati’s exit.](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/?utm_source=tldrai) |OpenAI’s chief research officer, Bob McGrew, and a research VP, Barret Zoph, left the company on Wednesday, hours after OpenAI CTO Mira Murati announced she would be departing. |
-|[.]() | |
+|[OpenAI’s chief research officer has left following CTO Mira Murati’s exit.](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/) |OpenAI’s chief research officer, Bob McGrew, and a research VP, Barret Zoph, left the company on Wednesday, hours after OpenAI CTO Mira Murati announced she would be departing. |
+|[NotebookLM adds audio and YouTube support, plus easier sharing of Audio Overviews.](https://blog.google/technology/ai/notebooklm-audio-video-sources/) |NotebookLM now has the capability to extract information from audio and video sources and offers enhanced sharing options for audio artifacts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,8 +150,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Exploring Parallel Strategies with Jax.](https://astralord.github.io/posts/exploring-parallel-strategies-with-jax/) |This post examines methods for parallelizing language models with the Jax library. |
 |[Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts.](https://github.com/Time-MoE/Time-MoE) | Time MoE is a Mixture of Experts model designed to handle billion-scale time series prediction tasks.|
 |[HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models.](https://github.com/quehry/hellobench) |HelloBench is a benchmarking tool that assesses LLMs across five long text generation tasks, using Bloom's Taxonomy as the evaluation framework. |
-|[.]() | |
-|[.]() | |
+|[Python library generation from scratch.](https://commit-0.github.io/) |A cool benchmark for code generation that measures the ability of language models to generate full packages from scratch. |
+|[BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices.](https://arxiv.org/abs/2409.17093v1) |BitQ is a framework designed to enhance block floating point (BFP) quantization, specifically tailored for optimizing deep neural networks on embedded platforms. It aims to strike a balance between computational efficiency and model accuracy, enabling the deployment of resource-intensive neural networks on devices with limited hardware capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
