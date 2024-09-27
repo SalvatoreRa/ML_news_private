@@ -109,9 +109,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s chief research officer has left following CTO Mira Murati’s exit.](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/) |OpenAI’s chief research officer, Bob McGrew, and a research VP, Barret Zoph, left the company on Wednesday, hours after OpenAI CTO Mira Murati announced she would be departing. |
 |[NotebookLM adds audio and YouTube support, plus easier sharing of Audio Overviews.](https://blog.google/technology/ai/notebooklm-audio-video-sources/) |NotebookLM now has the capability to extract information from audio and video sources and offers enhanced sharing options for audio artifacts. |
 |[Vultr Cloud Alliance: High-Performance AI and HPC with AMD and Vultr.](https://blogs.vultr.com/Vultr-AMD-Cloud-Alliance) |AMD has partnered with Vultr to integrate AMD Instinct MI300X GPUs into Vultr's cloud infrastructure. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI is stressing networks out - Nvidia thinks AI can help.](https://www.fierce-network.com/wireless/ai-stressing-networks-out-nvidia-and-t-mobile-are-using-ai-fix-it) |Nvidia and T-Mobile are leveraging AI to manage the growing network traffic driven by increased AI usage in 5G environments. This collaboration aims to optimize network performance and efficiency, ensuring seamless connectivity and handling the surge in data demands associated with AI-driven applications. |
+|[Rabbit’s web-based ‘large action model’ agent arrives on r1 on October 1.](https://techcrunch.com/2024/09/23/rabbits-web-based-large-action-model-agent-arrives-on-r1-as-early-as-this-week/) |The Rabbit r1 was the must-have gadget of early 2024, but the blush fell off it pretty quickly when the company’s expansive promises failed to materialize. CEO Jesse Lyu admits that “on day one, we set our expectations too high” but also said that an update coming to devices next week will finally set the vaunted Large Action Model free on the web. |
+|[Boston Dynamics’ Spot can now autonomously unlock doors.](https://techcrunch.com/2024/09/23/boston-dynamics-spot-can-now-autonomously-unlock-doors/) | Boston Dynamics’ Spot will be able to autonomously unlock its automated doors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
