@@ -115,6 +115,19 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LexEval: A Comprehensive Benchmark for Evaluating Large Language Models in Legal Domain.](https://github.com/cshaitao/lexeval) |LexEval is a benchmark created to evaluate large language models (LLMs) specifically in the legal domain. Recognizing the critical need for accuracy, reliability, and fairness in legal applications, LexEval provides a framework for assessing the strengths and limitations of LLMs when applied to legal tasks, ensuring they meet the rigorous demands of the field. |
 |[Perceptual Compression (PerCo).](https://github.com/Nikolai10/PerCo) | PerCo (SD) is a novel perceptual image compression technique built on Stable Diffusion v2.1, specifically designed for ultra-low bit ranges. This method leverages the power of diffusion models to achieve high-quality image compression at significantly reduced bitrates, optimizing storage and transmission without sacrificing visual fidelity.|
 |[nvidia/NVLM-D-72B.](https://huggingface.co/nvidia/NVLM-D-72B) |Nvidia conducted a thorough ablation study on various methods of incorporating images into a language model. The results showed that the LlaVa concatenation approach outperformed the other methods, proving to be the most effective for integrating visual information into language models. |
+|[ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification.](https://arxiv.org/abs/2409.20081v1) |This paper introduces a new method called Prompt-guided Feature Disentangling (ProFD) to tackle occlusion challenges in person Re-Identification (ReID) tasks. ProFD helps separate relevant features from occluded or irrelevant ones, improving the accuracy and robustness of ReID models when identifying individuals in complex or obstructed environments. |
+|[Local File Organizer: AI File Management Run Entirely on Your Device, Privacy Assured.](https://github.com/NexaAI/nexa-sdk/tree/main/examples/local_file_organization) | This tool utilizes Llama 3.2 3B and Llava-1.6 to intelligently organize files on your computer into logical sections based on their content. By analyzing the data within the files, it categorizes and arranges them for easier navigation and more efficient file management.|
+|[Posterior-Mean Rectified Flow:
+Towards Minimum MSE Photo-Realistic Image Restoration.](https://pmrf-ml.github.io/) |Posterior-Mean Rectified Flow (PMRF) is a cutting-edge algorithm designed for photo-realistic image restoration. It improves the quality of restored images by refining the flow of information, resulting in highly accurate and visually appealing reconstructions. |
+|[RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models.](https://github.com/shuhao02/routerdc) | RouterDC is an innovative method designed to enhance collaboration between multiple large language models (LLMs) through query-based routing. It utilizes contrastive learning to determine the most suitable model for each query, leading to improved performance compared to existing routing techniques. This approach optimizes model selection, ensuring more accurate and efficient responses.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
