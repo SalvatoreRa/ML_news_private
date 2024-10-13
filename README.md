@@ -124,8 +124,8 @@ Towards Minimum MSE Photo-Realistic Image Restoration.](https://pmrf-ml.github.i
 |[ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation.](https://comfygen-paper.github.io/) | Instead of directly generating an image from a prompt, the authors created a workflow using a comfy UI node-based system to guide the image generation process. This approach significantly enhanced the final output quality, allowing for greater control and precision in the generation pipeline.|
 |[KnobGen.](https://github.com/aminK8/KnobGen) |KnobGen is a new framework developed to make sketch-based image generation more accessible to users of varying skill levels. By offering intuitive controls and simplified tools, KnobGen allows users to generate high-quality images from sketches, regardless of their artistic expertise. |
 |[Tiny Test Models.](https://huggingface.co/blog/rwightman/timm-tiny-test) |AI researcher Ross Wightman has released a collection of models trained on ImageNet-1k that are remarkably small, with fewer than 1 million parameters. Despite their compact size, these models perform reasonably well and are designed to be easy to fine-tune, making them highly accessible for various applications where model efficiency is critical. |
-|[.]() | |
-|[.]() | |
+|[entropix.](https://github.com/xjdr-alt/entropix) |Entropy-based sampling and parallel Chain of Thought (CoT) decoding are promising strategies for advancing reasoning models to match |
+|[Concordia.](https://github.com/google-deepmind/concordia) | DeepMind's Concordia repository enables the simulation of social interactions between individuals and groups at a reasonable scale. This platform allows researchers to model complex social behaviors, study group dynamics, and explore various interaction scenarios in a controlled, scalable environment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
