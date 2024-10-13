@@ -67,8 +67,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Apple not investing in OpenAI after all, new report says.](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/) |Apple is no longer planning to invest in OpenAI, according to a new report from The Wall Street Journal. This comes as OpenAI plans to close a $6.5 billion funding round next week, with investments possible from both Microsoft and Nvidia. |
 |[Arcade AI raises 17M to transform commerce.](https://x.com/mnaficy/status/1839342011788439580) |Arcade AI, a generative product company that launched this week, has announced securing funding from prominent investors as it aims to develop its "prompt to product" system. This system enables the immediate creation of products that are ready for purchase, streamlining the process from concept to consumer. |
-|[.]() | |
-|[.]() | |
+|[They stole my voice with AI.](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai) |Elecrow is suspected of using AI to clone a voice for promotional videos without consent. |
+|[Amazon-backed Anthropic in talks to raise money at $40B valuation: report.](https://seekingalpha.com/news/4152344-amazon-backed-anthropic-in-talks-to-raise-money-at-40b-valuation-report) | Anthropic, a generative AI startup backed by Amazon and other major tech companies, is in discussions to raise additional funding that could potentially value the company at $40 billion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
