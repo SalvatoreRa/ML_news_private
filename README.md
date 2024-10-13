@@ -86,8 +86,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ByteDance will reportedly use Huawei chips to train a new AI model.](https://www.engadget.com/ai/bytedance-will-reportedly-use-huawei-chips-to-train-a-new-ai-model-154846749.html) |US export restrictions are preventing ByteDance from using NVIDIA chips. |
 |[Announcing FLUX1.1 [pro] and the BFL API.](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/) |FLUX1.1 [pro] has been released, offering six times faster generation speeds compared to its predecessor, alongside enhanced image quality and overall performance. The new beta BFL API introduces advanced customization options and competitive pricing, making it easier for developers to integrate FLUX’s capabilities. FLUX1.1 [pro] will be available across multiple platforms, providing greater scalability and efficiency for users and developers alike. |
 |[OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects.](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects) |OpenAI introduced a new way to interact with ChatGPT on Thursday: an interface it calls “canvas.” The product opens a separate window, beside the normal chat window, with a workspace for writing and coding projects. Users can generate writing or code directly in the canvas, then highlight sections of the work to have the model edit. Canvas is rolling out in beta to ChatGPT Plus and Teams users on Thursday, and Enterprise and Edu users next week. |
-|[.]() | |
-|[.]() | |
+|[Anthropic hires OpenAI co-founder Durk Kingma.](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/) |Durk Kingma, one of the lesser-known co-founders of OpenAI, today announced that he’ll be joining Anthropic. |
+|[OpenAI unveils easy voice assistant creation at 2024 developer event.](https://arstechnica.com/information-technology/2024/10/openai-unveils-easy-voice-assistant-creation-at-2024-developer-event/) | Altman steps back from the keynote limelight and lets four major API additions do the talking.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
