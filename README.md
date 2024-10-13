@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google adds a multi-functional quick insert key and new AI features to Chromebook Plus.](https://techcrunch.com/2024/10/01/google-adds-a-multi-functional-quick-insert-key-and-new-ai-features-to-chromebook-plus/) |Google is announcing new Chromebook models today with Samsung and Lenovo. With Samsung’s Galaxy Chromebook Plus model in particular, the company is also introducing a new multifunctional quick insert key. But Google doesn’t want to leave existing Chromebook users behind as it added new AI-powered features for existing devices. |
 |[Brain-like Computers Tackle the Extreme Edge.](https://spectrum.ieee.org/neuromorphic-computing) |Start-up BrainChip announces a new chip design for a milliwatt-level AI inference |
 |[AI Can Best Google’s Bot Detection System, Swiss Researchers Find.](https://decrypt.co/251107/ai-can-best-googles-bot-detection-system-swiss-researchers-find) |Researchers from ETH Zurich used advanced machine learning to solve 100% of Google's reCAPTCHAv2, designed to distinguish humans from bots. |
-|[.]() | |
-|[.]() | |
+|[OpenAI Training Data to Be Inspected in Authors’ Copyright Cases.](https://www.hollywoodreporter.com/business/business-news/openai-training-data-inspected-authors-copyright-case-1236011291/) |At a secure room in its San Francisco office, representatives for authors suing OpenAI will examine materials that were used to train its AI system. They allege copyrighted works were utilized without their consent or compensation. |
+|[ByteDance will reportedly use Huawei chips to train a new AI model.](https://www.engadget.com/ai/bytedance-will-reportedly-use-huawei-chips-to-train-a-new-ai-model-154846749.html) |US export restrictions are preventing ByteDance from using NVIDIA chips. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
