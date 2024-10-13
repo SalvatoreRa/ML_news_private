@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Posterior-Mean Rectified Flow:
 Towards Minimum MSE Photo-Realistic Image Restoration.](https://pmrf-ml.github.io/) |Posterior-Mean Rectified Flow (PMRF) is a cutting-edge algorithm designed for photo-realistic image restoration. It improves the quality of restored images by refining the flow of information, resulting in highly accurate and visually appealing reconstructions. |
 |[RouterDC: Query-Based Router by Dual Contrastive Learning for Assembling Large Language Models.](https://github.com/shuhao02/routerdc) | RouterDC is an innovative method designed to enhance collaboration between multiple large language models (LLMs) through query-based routing. It utilizes contrastive learning to determine the most suitable model for each query, leading to improved performance compared to existing routing techniques. This approach optimizes model selection, ensuring more accurate and efficient responses.|
-|[.]() | |
-|[.]() | |
+|[Distributed Training of Deep Learning models .](https://vaibhawvipul.github.io/2024/09/29/Distributed-Training-of-Deep-Learning-models-Part-~-1.html) |This post provides an excellent introduction to the challenges and algorithms involved in distributed training for modern deep learning models. It explores the difficulties and bottlenecks of training models that are too large for a single GPU, including issues like communication overhead, synchronization, and memory limitations, while also discussing key techniques to overcome these obstacles. |
+|[ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation.](https://comfygen-paper.github.io/) | Instead of directly generating an image from a prompt, the authors created a workflow using a comfy UI node-based system to guide the image generation process. This approach significantly enhanced the final output quality, allowing for greater control and precision in the generation pipeline.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
