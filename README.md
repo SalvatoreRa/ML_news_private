@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI to remove non-profit control and give Sam Altman equity, sources say.](https://finance.yahoo.com/news/exclusive-openai-remove-non-profit-201413475.html) |hatGPT-maker OpenAI is working on a plan to restructure its core business into a for-profit benefit corporation that will no longer be controlled by its non-profit board, people familiar with the matter told Reuters, in a move that will make the company more attractive to investors. |
 |[OpenAI's latest funding .](https://openai.com/index/scale-the-benefits-of-ai/) | OpenAI has secured $6.6 billion in new funding, bringing its post-money valuation to $157 billion. Notable investors in this round include Microsoft and Nvidia, with the funds aimed at further scaling AI development and innovation.|
 |[Google adds a multi-functional quick insert key and new AI features to Chromebook Plus.](https://techcrunch.com/2024/10/01/google-adds-a-multi-functional-quick-insert-key-and-new-ai-features-to-chromebook-plus/) |Google is announcing new Chromebook models today with Samsung and Lenovo. With Samsung’s Galaxy Chromebook Plus model in particular, the company is also introducing a new multifunctional quick insert key. But Google doesn’t want to leave existing Chromebook users behind as it added new AI-powered features for existing devices. |
-|[.]() | |
+|[Brain-like Computers Tackle the Extreme Edge.](https://spectrum.ieee.org/neuromorphic-computing) |Start-up BrainChip announces a new chip design for a milliwatt-level AI inference |
 |[.]() | |
 |[.]() | |
 |[.]() | |
