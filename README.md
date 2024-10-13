@@ -90,10 +90,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[🚀 FlowTurbo.](https://github.com/shiml20/flowturbo) |FlowTurbo is a method developed to accelerate the sampling process in flow-based models while maintaining high-quality outputs. It achieves faster results without compromising the precision or performance of the model. |
+|[Transformer4SED.](https://github.com/cai525/transformer4sed) |This repository presents the Prototype-based Masked Audio Model, which enhances sound event detection by leveraging unlabeled data more effectively. The method generates pseudo labels through a Gaussian mixture model, which directs the training of a Transformer-based audio model for improved performance. |
+|[VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models.](https://github.com/microsoft/vptq) |Vector Post-Training Quantization is a technique aimed at enabling ultra-low-bit quantization for large language models, optimizing memory and storage efficiency during deployment without significantly compromising performance. |
+|[LightAvatar: Efficient Head Avatar as Dynamic NeLF.](https://github.com/mingsun-tse/lightavatar-tensorflow) |LightAvatar is a head avatar model that improves rendering speed and efficiency using neural light fields (NeLFs). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
