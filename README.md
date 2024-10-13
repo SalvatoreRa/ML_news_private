@@ -110,7 +110,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -118,7 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human abilities, empowering us to accomplish tasks that are currently beyond imagination. With the help of deep learning and more powerful computational tools, AI will drive innovations such as personalized assistants, learning tutors, and healthcare advisors. The emphasis should be on ensuring AI is widely accessible while addressing its potential risks, creating a path toward shared prosperity in the era of intelligent systems. |
 |[How AlphaChip transformed computer chip design.](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design) |AlphaChip is a reinforcement learning model that dramatically speeds up and improves chip design, creating layouts that surpass human capabilities. It produces optimized chip designs, such as those used in Google's TPUs, in just hours instead of weeks. This AI-powered approach has wide-ranging applications, benefiting not only Google's hardware but also external companies like MediaTek. |
 |[AI pareidolia: Can machines spot faces in inanimate objects?](https://news.mit.edu/2024/ai-pareidolia-can-machines-spot-faces-in-inanimate-objects-0930) | New dataset of “illusory” faces reveals differences between human and algorithmic face detection, links to animal face recognition, and a formula predicting where people most often perceive faces.|
-|[.]() | |
+|[Table Extraction using LLMs: Unlocking Structured Data from Documents.](https://nanonets.com/blog/table-extraction-using-llms-unlocking-structured-data-from-documents/) | This article discusses how large language models (LLMs) are transforming table extraction from complex documents, surpassing the limitations of traditional methods such as OCR, rule-based systems, and machine learning. LLMs offer greater flexibility and contextual comprehension, significantly improving accuracy in handling varied and intricate table structures. While challenges like hallucination and high computational demands remain, the integration of traditional techniques with LLMs currently provides the most effective solution for automated table extraction.|
+|[The Other Bubble.](https://www.wheresyoured.at/saaspocalypse-now/) | Microsoft considered diverting its US-based server power to GPUs for AI purposes but ultimately abandoned the idea. Major tech companies like Microsoft, Google, and Amazon are making significant investments in AI, yet they continue to see underwhelming returns from generative AI applications. The industry's reliance on SaaS and the integration of AI tools, which frequently offer limited practical value while incurring substantial costs, underscores an increasing urgency to sustain growth in a slowing market.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
