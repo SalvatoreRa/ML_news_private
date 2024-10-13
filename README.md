@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla Full Self Driving requires human intervention every 13 miles.](https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/) |It gave pedestrians room but ran red lights and crossed into oncoming traffic. |
 |[OpenAI Dev Day 2024.](https://openai.com/devday/) |OpenAI's Dev Day 2024 featured several exciting announcements, including the introduction of vision model fine-tuning, a real-time API, prompt caching for faster responses, and model distillation for more efficient deployment of large models. These advancements aim to enhance the capabilities and performance of AI applications across various domains. |
 |[Pika 1.5.](https://threadreaderapp.com/thread/1841143349576941863.html) |Pika has released version 1.5 with more realistic movement, big screen shots, and Pikaffects. |
-|[.]() | |
+|[Gov. Newsom vetoes California’s controversial AI bill, SB 1047.](https://techcrunch.com/2024/09/29/gov-newsom-vetoes-californias-controversial-ai-bill-sb-1047/) | Governor Gavin Newsom has vetoed SB 1047, a proposed bill intended to regulate AI development and enforce safety protocols for high-cost models. Newsom expressed concerns that the bill's broad application to all large, computation-heavy models was not the most effective method for regulating AI. However, he reaffirmed his commitment to AI safety by signing several other AI-related bills and consulting with experts to ensure thoughtful regulation in the future.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
