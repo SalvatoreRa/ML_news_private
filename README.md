@@ -65,7 +65,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Apple not investing in OpenAI after all, new report says.](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/) |Apple is no longer planning to invest in OpenAI, according to a new report from The Wall Street Journal. This comes as OpenAI plans to close a $6.5 billion funding round next week, with investments possible from both Microsoft and Nvidia. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human abilities, empowering us to accomplish tasks that are currently beyond imagination. With the help of deep learning and more powerful computational tools, AI will drive innovations such as personalized assistants, learning tutors, and healthcare advisors. The emphasis should be on ensuring AI is widely accessible while addressing its potential risks, creating a path toward shared prosperity in the era of intelligent systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
