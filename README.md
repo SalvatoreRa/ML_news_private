@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting.](https://arxiv.org/abs/2409.17703v1) | The Parallel Gated Network (PGN) is an innovative architecture developed to address the challenges that traditional RNNs face in managing long-term dependencies. By shortening the information propagation path and incorporating gated mechanisms, it efficiently captures both past and present time step data.|
+|[Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs.](https://arxiv.org/abs/2409.17778v1) |DoSSR is a diffusion-based super-resolution model that improves both performance and efficiency by utilizing pretrained diffusion models and initiating the process with low-resolution images. This approach accelerates the super-resolution process while maintaining high-quality results. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human abilities, empowering us to accomplish tasks that are currently beyond imagination. With the help of deep learning and more powerful computational tools, AI will drive innovations such as personalized assistants, learning tutors, and healthcare advisors. The emphasis should be on ensuring AI is widely accessible while addressing its potential risks, creating a path toward shared prosperity in the era of intelligent systems. |
-|[.]() | |
+|[How AlphaChip transformed computer chip design.](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design) |AlphaChip is a reinforcement learning model that dramatically speeds up and improves chip design, creating layouts that surpass human capabilities. It produces optimized chip designs, such as those used in Google's TPUs, in just hours instead of weeks. This AI-powered approach has wide-ranging applications, benefiting not only Google's hardware but also external companies like MediaTek. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
