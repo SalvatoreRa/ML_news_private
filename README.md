@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[PGN: The RNN's New Successor is Effective for Long-Range Time Series Forecasting.](https://arxiv.org/abs/2409.17703v1) | The Parallel Gated Network (PGN) is an innovative architecture developed to address the challenges that traditional RNNs face in managing long-term dependencies. By shortening the information propagation path and incorporating gated mechanisms, it efficiently captures both past and present time step data.|
 |[Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs.](https://arxiv.org/abs/2409.17778v1) |DoSSR is a diffusion-based super-resolution model that improves both performance and efficiency by utilizing pretrained diffusion models and initiating the process with low-resolution images. This approach accelerates the super-resolution process while maintaining high-quality results. |
-|[.]() | |
+|[MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models.](https://vainf.github.io/maskllm-project-page/) | MaskLLM is a pruning technique designed to decrease the computational load of large language models by introducing learnable sparsity. This method optimizes performance while maintaining model efficiency by selectively reducing the number of active parameters.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Emu 3 open early fusion multimodal model.](https://emu.baai.ac.cn/about) | Emu 3 is a next-token prediction model that surpasses SDXL in image synthesis, LlaVa-1.6 in image understanding, and OpenSora 2 in video generation. With 9 billion parameters, Emu 3 is trained on these tasks in an interleaved manner, similar to Gemini, making it highly versatile and effective across multiple domains.|
 |[LOTUS: Diffusion-based Visual Foundation Model for High-quality Dense Prediction.](https://lotus3d.github.io/) |Using pretrained diffusion models for tasks like depth estimation has become highly popular and effective. This work demonstrates how certain previous methods contained minor inaccuracies and presents improvements that not only boost performance but also significantly simplify the overall modeling process. |
 |[Revisit Anything: Visual Place Recognition via Image Segment Retrieval.](https://arxiv.org/abs/2409.18049v1) | SegVLAD is a method for visual place recognition that emphasizes the analysis of image segments instead of relying on entire images. This approach enhances recognition accuracy by focusing on distinctive parts of the scene, making it more robust in various environments.|
-|[.]() | |
+|[LeanRL - Turbo-implementations of CleanRL scripts.](https://github.com/pytorch-labs/leanrl) |LeanRL is a lightweight library consisting of single-file, pytorch-based implementations of popular Reinforcement Learning (RL) algorithms. The primary goal of this library is to inform the RL PyTorch user base of optimization tricks to cut training time by half or more. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
