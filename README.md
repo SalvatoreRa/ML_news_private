@@ -74,8 +74,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Altman reportedly asks Biden to back a slew of multi-gigawatt-scale AI datacenters.](https://www.theregister.com/2024/09/25/altman_5gw_dc/) | OpenAI CEO Sam Altman is calling on the Biden administration to establish AI data centers in the US that could consume up to five gigawatts of power, aiming to maintain US technological leadership over China. The proposal includes building several large-scale data centers across the country. Meanwhile, other tech giants, such as Microsoft and Amazon, are securing nuclear power deals to support their growing AI operations.|
 |[Samsung's Galaxy Tab S10 Ultra and Galaxy Tab S10+ are tablets built for AI.](https://www.engadget.com/mobile/tablets/samsungs-galaxy-tab-s10-ultra-and-galaxy-tab-s10-are-tablets-built-for-ai-162633747.html) |Samsung is once again expanding its tablet lineup, and this time, the company is doing so with AI at the forefront. Today, Samsung revealed the Galaxy Tab S10 series, two models that it says are "built with AI enhancements available right out of the box."  |
 |[Tesla Full Self Driving requires human intervention every 13 miles.](https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/) |It gave pedestrians room but ran red lights and crossed into oncoming traffic. |
-|[.]() | |
-|[.]() | |
+|[OpenAI Dev Day 2024.](https://openai.com/devday/) |OpenAI's Dev Day 2024 featured several exciting announcements, including the introduction of vision model fine-tuning, a real-time API, prompt caching for faster responses, and model distillation for more efficient deployment of large models. These advancements aim to enhance the capabilities and performance of AI applications across various domains. |
+|[Pika 1.5.](https://threadreaderapp.com/thread/1841143349576941863.html) |Pika has released version 1.5 with more realistic movement, big screen shots, and Pikaffects. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
