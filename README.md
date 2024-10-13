@@ -94,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Transformer4SED.](https://github.com/cai525/transformer4sed) |This repository presents the Prototype-based Masked Audio Model, which enhances sound event detection by leveraging unlabeled data more effectively. The method generates pseudo labels through a Gaussian mixture model, which directs the training of a Transformer-based audio model for improved performance. |
 |[VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models.](https://github.com/microsoft/vptq) |Vector Post-Training Quantization is a technique aimed at enabling ultra-low-bit quantization for large language models, optimizing memory and storage efficiency during deployment without significantly compromising performance. |
 |[LightAvatar: Efficient Head Avatar as Dynamic NeLF.](https://github.com/mingsun-tse/lightavatar-tensorflow) |LightAvatar is a head avatar model that improves rendering speed and efficiency using neural light fields (NeLFs). |
-|[.]() | |
-|[.]() | |
+|[Separating code reasoning and editing.](https://aider.chat/2024/09/26/architect.html) |Aider has significantly enhanced the performance of general-purpose code editing by employing o1 as the architect and DeepSeek as the writer. This collaboration streamlines the process, leading to more efficient and accurate code generation. |
+|[Heralax/Mistrilitary-7b.](https://huggingface.co/Heralax/Mistrilitary-7b) |This model was trained using army handbooks and incorporates deep, specialized knowledge that is uncommon in fine-tuned models. This unique training approach allows it to possess a rare level of expertise in military-related tasks and information. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
