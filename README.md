@@ -66,7 +66,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Apple not investing in OpenAI after all, new report says.](https://9to5mac.com/2024/09/27/apple-not-investing-in-openai-after-all-new-report-says/) |Apple is no longer planning to invest in OpenAI, according to a new report from The Wall Street Journal. This comes as OpenAI plans to close a $6.5 billion funding round next week, with investments possible from both Microsoft and Nvidia. |
-|[.]() | |
+|[Arcade AI raises 17M to transform commerce.](https://x.com/mnaficy/status/1839342011788439580) |Arcade AI, a generative product company that launched this week, has announced securing funding from prominent investors as it aims to develop its "prompt to product" system. This system enables the immediate creation of products that are ready for purchase, streamlining the process from concept to consumer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LightAvatar: Efficient Head Avatar as Dynamic NeLF.](https://github.com/mingsun-tse/lightavatar-tensorflow) |LightAvatar is a head avatar model that improves rendering speed and efficiency using neural light fields (NeLFs). |
 |[Separating code reasoning and editing.](https://aider.chat/2024/09/26/architect.html) |Aider has significantly enhanced the performance of general-purpose code editing by employing o1 as the architect and DeepSeek as the writer. This collaboration streamlines the process, leading to more efficient and accurate code generation. |
 |[Heralax/Mistrilitary-7b.](https://huggingface.co/Heralax/Mistrilitary-7b) |This model was trained using army handbooks and incorporates deep, specialized knowledge that is uncommon in fine-tuned models. This unique training approach allows it to possess a rare level of expertise in military-related tasks and information. |
-|[.]() | |
+|[Developing a go bot embedding ichiban Prolog.](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/) |Ichiban Prolog was integrated into Hellabot, a Go-based IRC bot, to eliminate the need for recompiling when adding new triggers. This integration enables dynamic Prolog code execution, allowing users to adjust the bot's logic in real time. Future enhancements could focus on minimizing interpreter setup overhead and shifting more of the bot's logic into Prolog for greater flexibility and efficiency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
