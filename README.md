@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LOTUS: Diffusion-based Visual Foundation Model for High-quality Dense Prediction.](https://lotus3d.github.io/) |Using pretrained diffusion models for tasks like depth estimation has become highly popular and effective. This work demonstrates how certain previous methods contained minor inaccuracies and presents improvements that not only boost performance but also significantly simplify the overall modeling process. |
 |[Revisit Anything: Visual Place Recognition via Image Segment Retrieval.](https://arxiv.org/abs/2409.18049v1) | SegVLAD is a method for visual place recognition that emphasizes the analysis of image segments instead of relying on entire images. This approach enhances recognition accuracy by focusing on distinctive parts of the scene, making it more robust in various environments.|
 |[LeanRL - Turbo-implementations of CleanRL scripts.](https://github.com/pytorch-labs/leanrl) |LeanRL is a lightweight library consisting of single-file, pytorch-based implementations of popular Reinforcement Learning (RL) algorithms. The primary goal of this library is to inform the RL PyTorch user base of optimization tricks to cut training time by half or more. |
-|[.]() | |
+|[E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding.](https://polyu-chenlab.github.io/etbench/) | E.T. Bench is a newly developed benchmark created to assess the performance of video language models on fine-grained, event-level tasks. Unlike earlier benchmarks that emphasize video-level questions, E.T. Bench spans a variety of time-sensitive tasks across multiple domains, providing a more detailed evaluation of model capabilities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The Intelligence Age.](https://ia.samaltman.com/) |AI is set to enhance human abilities, empowering us to accomplish tasks that are currently beyond imagination. With the help of deep learning and more powerful computational tools, AI will drive innovations such as personalized assistants, learning tutors, and healthcare advisors. The emphasis should be on ensuring AI is widely accessible while addressing its potential risks, creating a path toward shared prosperity in the era of intelligent systems. |
 |[How AlphaChip transformed computer chip design.](https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design) |AlphaChip is a reinforcement learning model that dramatically speeds up and improves chip design, creating layouts that surpass human capabilities. It produces optimized chip designs, such as those used in Google's TPUs, in just hours instead of weeks. This AI-powered approach has wide-ranging applications, benefiting not only Google's hardware but also external companies like MediaTek. |
-|[.]() | |
+|[AI pareidolia: Can machines spot faces in inanimate objects?](https://news.mit.edu/2024/ai-pareidolia-can-machines-spot-faces-in-inanimate-objects-0930) | New dataset of “illusory” faces reveals differences between human and algorithmic face detection, links to animal face recognition, and a formula predicting where people most often perceive faces.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
