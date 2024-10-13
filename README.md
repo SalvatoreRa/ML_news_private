@@ -69,8 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Arcade AI raises 17M to transform commerce.](https://x.com/mnaficy/status/1839342011788439580) |Arcade AI, a generative product company that launched this week, has announced securing funding from prominent investors as it aims to develop its "prompt to product" system. This system enables the immediate creation of products that are ready for purchase, streamlining the process from concept to consumer. |
 |[They stole my voice with AI.](https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai) |Elecrow is suspected of using AI to clone a voice for promotional videos without consent. |
 |[Amazon-backed Anthropic in talks to raise money at $40B valuation: report.](https://seekingalpha.com/news/4152344-amazon-backed-anthropic-in-talks-to-raise-money-at-40b-valuation-report) | Anthropic, a generative AI startup backed by Amazon and other major tech companies, is in discussions to raise additional funding that could potentially value the company at $40 billion.|
-|[.]() | |
-|[.]() | |
+|[OpenAI Reportedly Slated for $500 Million SoftBank Investment.](https://www.pymnts.com/news/investment-tracker/2024/openai-reportedly-slated-for-500-million-softbank-investment/) | SoftBank is planning to invest $500 million in OpenAI's latest funding round, which could raise OpenAI's valuation to as high as $150 billion. Microsoft is also participating in this round, highlighting OpenAI's rapid 1,700% revenue growth, despite the company anticipating losses of around $5 billion.|
+|[OpenAI Is Growing Fast and Burning Through Piles of Money.](https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html?unlocked_article_code=1.OU4.99io.cnWQdfPhAjl2&smid=url-share) |As the company looks for more outside investors, documents reviewed by The New York Times show consumer fascination with ChatGPT and a serious need for more cash. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
