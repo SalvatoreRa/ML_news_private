@@ -102,6 +102,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Revisit Anything: Visual Place Recognition via Image Segment Retrieval.](https://arxiv.org/abs/2409.18049v1) | SegVLAD is a method for visual place recognition that emphasizes the analysis of image segments instead of relying on entire images. This approach enhances recognition accuracy by focusing on distinctive parts of the scene, making it more robust in various environments.|
 |[LeanRL - Turbo-implementations of CleanRL scripts.](https://github.com/pytorch-labs/leanrl) |LeanRL is a lightweight library consisting of single-file, pytorch-based implementations of popular Reinforcement Learning (RL) algorithms. The primary goal of this library is to inform the RL PyTorch user base of optimization tricks to cut training time by half or more. |
 |[E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding.](https://polyu-chenlab.github.io/etbench/) | E.T. Bench is a newly developed benchmark created to assess the performance of video language models on fine-grained, event-level tasks. Unlike earlier benchmarks that emphasize video-level questions, E.T. Bench spans a variety of time-sensitive tasks across multiple domains, providing a more detailed evaluation of model capabilities.|
+|[MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning.](https://arxiv.org/abs/2409.20566) | Apple is continuing to strengthen its in-house AI capabilities by developing a robust multimodal foundation model. This initiative is part of Apple's broader efforts to integrate advanced AI technologies across its ecosystem, supporting tasks that span text, image, and other data modalities for enhanced user experiences.|
+|[The Perfect Blend: Redefining RLHF with Mixture of Judges.](https://arxiv.org/abs/2409.20370) | Meta has introduced an impressive new paper detailing the use of a mixture of judges models to effectively conduct multi-task reinforcement learning with human feedback (RLHF) during post-training. This approach significantly enhances the final performance of models across various benchmarks, demonstrating superior results compared to previous methods.|
+|[A Survey on the Honesty of Large Language Models.](https://arxiv.org/abs/2409.18786v1) |This survey explores the honesty of large language models (LLMs), a crucial aspect in aligning AI with human values. It addresses challenges such as models confidently providing incorrect answers and the difficulty in distinguishing between what the model knows and what it doesn't. The review highlights these obstacles as key areas for improving the reliability and trustworthiness of LLMs. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
