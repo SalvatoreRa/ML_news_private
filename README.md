@@ -75,9 +75,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Brave New World: Leo AI and Ollama Bring RTX-Accelerated Local LLMs to Brave Browser Users.](https://blogs.nvidia.com/blog/rtx-ai-brave-browser/) |Nvidia's RTX-Acceleration combined with Ollama allows for running local models in the browser. |
 |[Liquid Foundation Models.](https://www.liquid.ai/liquid-foundation-models) | Liquid AI has introduced its first generation of Liquid Foundation Models (LFMs), offering state-of-the-art performance while minimizing memory consumption. The LFMs, which are optimized for different hardware platforms, include 1B, 3B, and 40B parameter models. These models are already accessible on platforms like LIQUID PLAYGROUND and will soon be available on Cerebras. They are particularly adept at processing sequential data and provide innovations in efficiency and scalability across industries like financial services and biotechnology.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing Copilot Labs and Copilot Vision.](https://www.microsoft.com/en-us/microsoft-copilot/blog/2024/10/01/introducing-copilot-labs-and-copilot-vision/) | Microsoft is launching Copilot Labs to test advanced AI tools, including Think Deeper and Copilot Vision. These tools aim to expand the capabilities of their AI systems, offering enhanced functionality and deeper insights.|
+|[OpenAI’s DevDay brings Realtime API and other treats for AI app developers.](https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/) |It’s been a tumultuous week for OpenAI, full of executive departures and major fundraising developments, but the startup is back at it, trying to convince developers to build tools with its AI models at its 2024 DevDay. The company announced several new tools Tuesday, including a public beta of its “Realtime API”, for building apps with low-latency, AI-generated voice responses. It’s not quite ChatGPT’s Advanced Voice Mode, but it’s close. |
+|[Microsoft brings AI-powered overviews to Bing.](https://techcrunch.com/2024/10/01/microsoft-brings-ai-powered-overviews-to-bing/) |Microsoft has introduced Bing generative search, an AI-driven feature that gathers and summarizes information from the web, offering users more concise and aggregated search results. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
