@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dynamic Diffusion Transformer.](https://arxiv.org/abs/2410.03456v1) |The Dynamic Diffusion Transformer (DyDiT) improves the efficiency of diffusion models in image generation by building on the Diffusion Transformer (DiT). It achieves this by dynamically adjusting computational resources across different timesteps and spatial regions, minimizing redundancy and optimizing performance. |
 |[Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach.](https://arxiv.org/abs/2410.03160v1) |The Frame-Aware Video Diffusion Model (FVDM) enhances video generation by overcoming the limitations of existing models. Instead of using a single timestep for the entire video clip, FVDM introduces a vectorized timestep variable, enabling each frame to follow its own noise schedule. This approach improves the quality and coherence of generated videos. |
 |[What Matters for Model Merging at Scale?](https://arxiv.org/abs/2410.03617) |Model merging is a technique that allows the combination of two models to achieve the performance benefits of both. However, it does not always scale effectively with larger model sizes. This paper investigates the requirements and challenges for making model merging work efficiently with very large models, addressing issues related to scalability, performance trade-offs, and optimal merging strategies. |
-|[.]() | |
+|[nGPT: Normalized Transformer with Representation Learning on the Hypersphere.](https://arxiv.org/abs/2410.01131) | A significant amount of research effort is focused on normalizing the internal representations of language models. This study demonstrates that by placing every internal vector on a hypersphere, convergence time is significantly reduced for models of reasonable size, leading to more efficient training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Autoregressive Action Sequence Learning for Robotic Manipulation.](https://github.com/mlzxy/arp) |The Chunking Causal Transformer (CCT) is a new autoregressive architecture developed specifically for robotic manipulation tasks. It is designed to improve the model's ability to process sequential data efficiently, optimizing performance in real-time robotic control and manipulation scenarios. |
 |[FacePoke.](https://github.com/jbilcke-hf/FacePoke) |FacePoke is a tool designed for rapid editing of faces in both videos and images, allowing users to make quick adjustments and modifications with ease. |
 |[pipeline_parallel.py.](https://gist.github.com/3outeille/a3d4d91bb07af64c8f33d5aaee5145fe) |A large model training lead at Hugging Face has shared an excellent 200-line example of parallelism built from scratch, demonstrating efficient techniques for distributing computational tasks, which is particularly useful for large-scale model training. |
-|[.]() | |
+|[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs.](https://arxiv.org/abs/2410.01999) | As language models become increasingly proficient at writing code, many existing benchmarks are approaching saturation. This paper proposes a more challenging benchmark designed to assess how well models perform on reasoning and code generation tasks, pushing beyond basic code-writing capabilities to evaluate deeper problem-solving skills.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
