@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Uber’s EV ridehailing business is maturing.](https://www.theverge.com/2024/10/8/24264282/uber-green-ev-driver-mentor-chatgpt) |The company also announced it was adding ChatGPT to its driver app to handle EV questions. |
 |[Amazon’s new AI guides can help shoppers find what they need.](https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability) |The new AI Shopping Guides feature aims to help users find what they need with more informed product suggestions. |
 |[TikTok joins the AI-driven advertising pack to compete with Meta for ad dollars.](https://digiday.com/marketing/tiktok-joins-the-ai-driven-advertising-pack-to-compete-with-meta-for-ad-dollars/) | TikTok's Smart+ is an AI-powered ad-buying tool designed to automate and optimize ad campaigns, giving marketers the option to selectively utilize its features for enhanced performance. The tool seeks to rival Meta's Advantage+ by offering streamlined ad management and improved return on investment (ROI). Early results indicate significant gains in ad spend efficiency and conversion rates, positioning TikTok as a strong contender in the digital advertising market.|
-|[.]() | |
-|[.]() | |
+|[OpenAI partners with Cosmopolitan and Elle publisher Hearst.](https://www.engadget.com/ai/openai-partners-with-cosmopolitan-and-elle-publisher-hearst-180517248.html) |ChatGPT will provide citations and direct links to the company's content. |
+|[Meta debuts new generative AI tools for creating video-based ads.](https://siliconangle.com/2024/10/08/meta-debuts-new-generative-ai-tools-creating-video-based-ads/) |Meta Platforms Inc. today said it’s rolling out a full-screen video tab on Facebook in recognition of the fact that its users spend more time watching videos than anything else on its platforms. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
