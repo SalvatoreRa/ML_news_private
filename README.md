@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models.](https://github.com/whb139426/grounded-video-llm) | Grounded-VideoLLM is a novel Video-Large Language Model (Video-LLM) created to enhance the fine-grained understanding of specific moments in videos. By incorporating a temporal stream and discrete temporal tokens, the model more effectively captures the relationships between frames and timestamps, improving its ability to interpret and analyze detailed video content.|
 |[Autoregressive Action Sequence Learning for Robotic Manipulation.](https://github.com/mlzxy/arp) |The Chunking Causal Transformer (CCT) is a new autoregressive architecture developed specifically for robotic manipulation tasks. It is designed to improve the model's ability to process sequential data efficiently, optimizing performance in real-time robotic control and manipulation scenarios. |
 |[FacePoke.](https://github.com/jbilcke-hf/FacePoke) |FacePoke is a tool designed for rapid editing of faces in both videos and images, allowing users to make quick adjustments and modifications with ease. |
-|[.]() | |
+|[pipeline_parallel.py.](https://gist.github.com/3outeille/a3d4d91bb07af64c8f33d5aaee5145fe) |A large model training lead at Hugging Face has shared an excellent 200-line example of parallelism built from scratch, demonstrating efficient techniques for distributing computational tasks, which is particularly useful for large-scale model training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
