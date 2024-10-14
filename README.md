@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing the Open FinLLM Leaderboard.](https://huggingface.co/blog/leaderboard-finbench) | The Open FinLLM Leaderboard provides a dedicated evaluation platform designed specifically for financial language models. It emphasizes key financial tasks like predicting stock movements, analyzing sentiment, and extracting information from financial reports.|
 |[Infinite-Fractal-Stream: Small Scale Proxy for Scaling-Centric ML.](https://github.com/cloneofsimo/infinite-fractal-stream) |Model testing in the image domain is often constrained by low-quality, small datasets like CIFAR10. This GitHub repository provides a tool that generates infinite, complex fractals in the form of images or videos, offering a new approach for testing models. |
 |[Auto Jobs Applier.](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) | A highly viral repository leverages language models to automate the job application process, adding an extra layer of personalization to tailor applications for each position.|
-|[.]() | |
-|[.]() | |
+|[Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models.](https://arxiv.org/abs/2410.03640v1) |This study uncovers major weaknesses in existing membership inference attacks (MIAs) used to detect unauthorized data usage in diffusion models. It introduces CopyMark, a more realistic benchmark for assessing MIAs on pre-trained models, providing unbiased datasets and fair evaluation techniques to improve the accuracy and reliability of these attacks. |
+|[ImageFolder: Autoregressive Image Generation with Folded Tokens.](https://lxa9867.github.io/works/imagefolder/index.html) |ImageFolder is a semantic tokenizer developed to balance the trade-off between image reconstruction accuracy and generation quality in visual generative models, improving the overall performance of these models in both tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
