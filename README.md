@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PairDistill: Pairwise Relevance Distillation for Dense Retrieval.](https://github.com/miulab/pairdistill) | This project introduces a novel technique called Pairwise Relevance Distillation (PairDistill), aimed at enhancing the accuracy of dense retrieval methods.|
 |[Modeling relationships to solve complex problems efficiently.](https://news.mit.edu/2024/julian-shun-solves-complex-problems-efficiently-1004) | Associate Professor Julian Shun develops high-performance algorithms and frameworks for large-scale graph processing.|
 |[Factual Accuracy in AI.](https://arxiv.org/abs/2410.01556v1) |Integrative Decoding is a technique designed to improve the factual accuracy of large language models, particularly for open-ended tasks. This method helps ensure more reliable and accurate outputs by refining the model's ability to integrate information during generation. |
-|[.]() | |
-|[.]() | |
+|[Dynamic Diffusion Transformer.](https://arxiv.org/abs/2410.03456v1) |The Dynamic Diffusion Transformer (DyDiT) improves the efficiency of diffusion models in image generation by building on the Diffusion Transformer (DiT). It achieves this by dynamically adjusting computational resources across different timesteps and spatial regions, minimizing redundancy and optimizing performance. |
+|[Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach.](https://arxiv.org/abs/2410.03160v1) |The Frame-Aware Video Diffusion Model (FVDM) enhances video generation by overcoming the limitations of existing models. Instead of using a single timestep for the entire video clip, FVDM introduces a vectorized timestep variable, enabling each frame to follow its own noise schedule. This approach improves the quality and coherence of generated videos. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
