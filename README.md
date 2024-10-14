@@ -94,9 +94,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TikTok parent company ByteDance has a tool that's scraping the web 25 times faster than OpenAI.](https://mashable.com/article/tiktok-parent-company-bytedance-web-crawler-25-times-faster-than-openai) |TikTok parent company ByteDance is amassing huge volumes of web data way faster than the other major web crawlers. ByteDance may be planning to release its own LLM, and is aggressively using its web crawler, "Bytespider," to scrape up data to train its models, Fortune reported. |
 |[Sonair takes a cue from dolphins to build autonomous 3D vision without lidar.](https://techcrunch.com/2024/10/07/sonair-takes-a-cue-from-dolphins-to-build-autonomous-3d-vision-sans-lidar/) | Ultrasound is perhaps best known as the technology that enables noninvasive body scans and underwater communication and can help us park our cars. A young startup called Sonair out of Norway wants to employ it for something else: 3D computer vision used in autonomous hardware applications. |
 |[Tesla’s head of vehicle programs jumps to Waymo ahead of robotaxi reveal.](https://techcrunch.com/2024/10/07/teslas-head-of-vehicle-programs-jumps-to-waymo-ahead-of-robotaxi-reveal/) | Tesla has lost a top executive to Waymo in the lead-up to the EV maker’s robotaxi unveiling on Thursday.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Autism ABA Therapy with Llama.](https://ai.meta.com/blog/neuromnia-autism-aba-therapy-built-with-llama/) |Meta shares a use case of its Llama model for medical and therapeutic benefit. |
+|[Uber’s EV ridehailing business is maturing.](https://www.theverge.com/2024/10/8/24264282/uber-green-ev-driver-mentor-chatgpt) |The company also announced it was adding ChatGPT to its driver app to handle EV questions. |
+|[Amazon’s new AI guides can help shoppers find what they need.](https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability) |The new AI Shopping Guides feature aims to help users find what they need with more informed product suggestions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
