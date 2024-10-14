@@ -91,6 +91,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Clout Kitchen raises $4.45M for AI gaming pal that mimics content creators.](https://venturebeat.com/games/clout-kitchen-raises-4-45m-for-ai-gaming-pal-that-mimics-content-creators/) |Clout Kitchen announced today that it has raised $4.45 million in its seed funding round, which it plans to put towards its new creator-powered products and experiences. The first of these is Backseat AI, an AI-powered buddy for League of Legends that the company created with Tyler “Tyler1” Steinkamp — an AI buddy that can take on the aspect of popular gaming content creators. Clout Kitchen plans to use its funding to expand its team and build out its shared internal tech stack. |
 |[AlphaFold wins Nobel Prize in Chemistry.](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) |Demis Hassabis, John Jumper, and David Baker were awarded the Nobel Prize in Chemistry for their groundbreaking work in protein folding, particularly through innovations like AlphaFold. Their contributions have significantly advanced the understanding of protein structures and their implications for science and medicine. |
 |[OpenAI reducing dependency on Microsoft data centers.](https://www.tipranks.com/news/the-fly/openai-reducing-dependency-on-microsoft-data-centers-the-information-reports?utm_source=tldrai) | OpenAI is decreasing its reliance on Microsoft's data centers by acquiring its own compute infrastructure, allowing greater independence in its operations. Simultaneously, Microsoft is reducing its dependence on OpenAI as it develops and competes with its own AI products, signaling a shift in the dynamics of their partnership.|
+|[TikTok parent company ByteDance has a tool that's scraping the web 25 times faster than OpenAI.](https://mashable.com/article/tiktok-parent-company-bytedance-web-crawler-25-times-faster-than-openai) |TikTok parent company ByteDance is amassing huge volumes of web data way faster than the other major web crawlers. ByteDance may be planning to release its own LLM, and is aggressively using its web crawler, "Bytespider," to scrape up data to train its models, Fortune reported. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
