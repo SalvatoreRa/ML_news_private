@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nuclear power for AI: what it will take to reopen Three Mile Island safely.](https://www.nature.com/articles/d41586-024-03162-2) |As Microsoft strikes a deal to restart a reactor at the notorious power station, Nature talks to nuclear specialists about the unprecedented process. |
 |[‘In awe’: scientists impressed by latest ChatGPT model o1.](https://www.nature.com/articles/d41586-024-03169-9) |The chatbot excels at science, beating PhD scholars on a hard science test. But it might ‘hallucinate’ more than its predecessors. |
 |[Can AI have common sense? Finding out will be key to achieving machine intelligence.](https://www.nature.com/articles/d41586-024-03262-z) | The advent of LLMs has reopened a debate about the limits of machine intelligence — and requires new benchmarks of what reasoning consists of.|
-|[.]() | |
-|[.]() | |
+|[How your brain detects patterns in the everyday: without conscious thought.](https://www.nature.com/articles/d41586-024-03116-8) | Neurons in certain brain areas integrate ‘what’ and ‘when’ information to discern hidden order in events in real time.|
+|[AI to the rescue: how to enhance disaster early warnings with tech tools.](https://www.nature.com/articles/d41586-024-03149-z) | Artificial intelligence can help to reduce the impacts of natural hazards, but robust international standards are needed to ensure best practice.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
