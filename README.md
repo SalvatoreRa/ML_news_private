@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news: 
+# ML news: Week 7 - 13 October
 
 ## Research
 |Link|description|
@@ -56,19 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Genomic Foundation Model Benchmarking.](https://arxiv.org/abs/2410.01784v1) | GFMBench is a newly developed framework aimed at tackling challenges in the development of genomic foundation models (GFMs) by offering standardized benchmarking tools. It supports the evaluation of GFMs with millions of genomic sequences and hundreds of tasks, automating the benchmarking process for open-source GFMs to streamline their development and comparison.|
 |[LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations.](https://arxiv.org/abs/2410.02707) |This study provides further evidence that language models internally encode signals when they produce non-factual information. Understanding these internal cues can help guide models more effectively and reduce the occurrence of hallucinations, offering a potential strategy for improving their reliability. |
 |[Differential Transformer.](https://arxiv.org/abs/2410.05258) | Transformers often over-allocate attention to irrelevant context, leading to inefficiencies. This research presents the Diff Transformer, which enhances attention to relevant information while filtering out noise. It introduces a differential attention mechanism that computes attention scores by subtracting two separate softmax attention maps. This subtraction effectively cancels out noise and encourages sparse, more focused attention patterns, improving the model's performance on tasks requiring precise context understanding.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -100,14 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TikTok joins the AI-driven advertising pack to compete with Meta for ad dollars.](https://digiday.com/marketing/tiktok-joins-the-ai-driven-advertising-pack-to-compete-with-meta-for-ad-dollars/) | TikTok's Smart+ is an AI-powered ad-buying tool designed to automate and optimize ad campaigns, giving marketers the option to selectively utilize its features for enhanced performance. The tool seeks to rival Meta's Advantage+ by offering streamlined ad management and improved return on investment (ROI). Early results indicate significant gains in ad spend efficiency and conversion rates, positioning TikTok as a strong contender in the digital advertising market.|
 |[OpenAI partners with Cosmopolitan and Elle publisher Hearst.](https://www.engadget.com/ai/openai-partners-with-cosmopolitan-and-elle-publisher-hearst-180517248.html) |ChatGPT will provide citations and direct links to the company's content. |
 |[Meta debuts new generative AI tools for creating video-based ads.](https://siliconangle.com/2024/10/08/meta-debuts-new-generative-ai-tools-creating-video-based-ads/) |Meta Platforms Inc. today said it’s rolling out a full-screen video tab on Facebook in recognition of the fact that its users spend more time watching videos than anything else on its platforms. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 ## Resources
@@ -139,14 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation.](https://github.com/yangling0818/itercomp) |IterComp is a new framework developed to enhance compositional text-to-image generation by integrating the strengths of multiple advanced diffusion models, including RPG, Stable Diffusion 3, and FLUX. By leveraging these models, IterComp improves the quality and coherence of generated images, especially when handling complex textual prompts that require multiple elements to be composed accurately. |
 |[MatMamba.](https://github.com/scaledfoundations/matmamba) |MatMamba is a novel architecture for sequence processing, building upon the Mamba2 framework by incorporating a Matryoshka-like design. This approach allows a single model to be trained at multiple granularities, enabling the extraction of various smaller, nested submodels. This hierarchical structure enhances flexibility and efficiency, allowing the model to adapt to different levels of complexity and resource constraints. |
 |[O1 replication progress report.](https://github.com/GAIR-NLP/O1-Journey/blob/main/resource/report.pdf) |Researchers from GAIR and NYU have been investigating the critical algorithmic advancements behind OpenAI's o1 model's exceptional performance. In their report, they introduce the concept of "Journey Learning" data, a novel approach that, when used in training, boosts math performance by 8% in absolute terms. This innovation highlights how specific data types can significantly enhance a model's reasoning and problem-solving abilities. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -162,22 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The real data wall is billions of years of evolution.](https://dynomight.substack.com/p/data-wall) | AI development is encountering a potential obstacle known as the "data wall," as language models near the limit of available textual data for training. This article challenges the idea of using human analogies to overcome these data constraints, pointing out that human intelligence results from vast amounts of data and long evolutionary processes, which differ fundamentally from AI. While human learning strategies may not directly translate to AI, this doesn't preclude progress through other modalities, such as multimodal data, or advancements in algorithms that could push AI capabilities further.|
 |[AI will use a lot of energy. That's good for the climate.](https://climate.benjames.io/ai-go-brrr/) |AI data centers are significantly increasing the demand for clean, 24/7 energy, prompting tech giants to invest heavily in renewable and nuclear power solutions. This growing demand is expected to accelerate the cost reduction of clean energy technologies, driven by their learning rates. Over time, the energy needs of AI could lead to policy shifts and advancements in clean energy infrastructure, fostering faster adoption and development of sustainable energy sources. |
 |[I want to break some laws too.](https://snats.xyz/pages/articles/breaking_some_laws.html) | This article explores the use of an automated data cleaning pipeline inspired by the Minipile method, which prunes datasets to deliver significant performance gains with only a fraction of the original data size. By leveraging techniques such as few-shot prompting and clustering, the approach streamlines dataset refinement for AI training, challenging traditional scaling laws by prioritizing data quality over quantity. The results indicate that using foundational datasets with more refined data can optimize AI model training, reducing resource consumption while boosting performance.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: 
 
