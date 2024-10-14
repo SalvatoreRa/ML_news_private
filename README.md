@@ -136,8 +136,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Nuclear power for AI: what it will take to reopen Three Mile Island safely.](https://www.nature.com/articles/d41586-024-03162-2) |As Microsoft strikes a deal to restart a reactor at the notorious power station, Nature talks to nuclear specialists about the unprecedented process. |
+|[‘In awe’: scientists impressed by latest ChatGPT model o1.](https://www.nature.com/articles/d41586-024-03169-9) |The chatbot excels at science, beating PhD scholars on a hard science test. But it might ‘hallucinate’ more than its predecessors. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
