@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta Movie Gen.](https://ai.meta.com/research/movie-gen/) | Meta has developed a cutting-edge movie model with 30 billion parameters, which required 6,144 H100 GPUs for training. The model was trained using 1 billion images and 100 million carefully selected videos. Notably, it is based on a Temporal Autoencoder and incorporates Flow matching Llama. Meta also published a highly detailed 92-page research paper, making it one of the most comprehensive reports on the subject.|
 |[When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1.](https://arxiv.org/abs/2410.01792) |Large language models face limitations because they rely on next token prediction. Although OpenAI's o1 model was trained with a new objective focused on reasoning traces, it still exhibits some of the same constraints associated with next token prediction. |
 |[Contextual Document Embeddings.](https://arxiv.org/abs/2410.02525) |This paper presents a method similar to a neutral TF/IDF, as it gathers information from the entire corpus rather than relying on individual document embeddings. It effectively captures contextual information from surrounding documents and has achieved state-of-the-art results on the MTEB benchmark. |
-|[.]() | |
+|[PairDistill: Pairwise Relevance Distillation for Dense Retrieval.](https://github.com/miulab/pairdistill) | This project introduces a novel technique called Pairwise Relevance Distillation (PairDistill), aimed at enhancing the accuracy of dense retrieval methods.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
