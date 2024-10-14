@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[A multimodal generative AI copilot for human pathology.](https://www.nature.com/articles/s41586-024-07618-3) |PathChat is a vision-language AI assistant designed for pathology, combining a foundational vision encoder and a large language model, achieving state-of-the-art performance on diagnostic tasks and outperforming other multimodal AI systems, with potential applications in education, research, and clinical decision-making. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Nuclear power for AI: what it will take to reopen Three Mile Island safely.](https://www.nature.com/articles/d41586-024-03162-2) |As Microsoft strikes a deal to restart a reactor at the notorious power station, Nature talks to nuclear specialists about the unprecedented process. |
 |[‘In awe’: scientists impressed by latest ChatGPT model o1.](https://www.nature.com/articles/d41586-024-03169-9) |The chatbot excels at science, beating PhD scholars on a hard science test. But it might ‘hallucinate’ more than its predecessors. |
-|[.]() | |
+|[Can AI have common sense? Finding out will be key to achieving machine intelligence.](https://www.nature.com/articles/d41586-024-03262-z) | The advent of LLMs has reopened a debate about the limits of machine intelligence — and requires new benchmarks of what reasoning consists of.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
