@@ -47,8 +47,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1.](https://arxiv.org/abs/2410.01792) |Large language models face limitations because they rely on next token prediction. Although OpenAI's o1 model was trained with a new objective focused on reasoning traces, it still exhibits some of the same constraints associated with next token prediction. |
 |[Contextual Document Embeddings.](https://arxiv.org/abs/2410.02525) |This paper presents a method similar to a neutral TF/IDF, as it gathers information from the entire corpus rather than relying on individual document embeddings. It effectively captures contextual information from surrounding documents and has achieved state-of-the-art results on the MTEB benchmark. |
 |[PairDistill: Pairwise Relevance Distillation for Dense Retrieval.](https://github.com/miulab/pairdistill) | This project introduces a novel technique called Pairwise Relevance Distillation (PairDistill), aimed at enhancing the accuracy of dense retrieval methods.|
-|[.]() | |
-|[.]() | |
+|[Modeling relationships to solve complex problems efficiently.](https://news.mit.edu/2024/julian-shun-solves-complex-problems-efficiently-1004) | Associate Professor Julian Shun develops high-performance algorithms and frameworks for large-scale graph processing.|
+|[Factual Accuracy in AI.](https://arxiv.org/abs/2410.01556v1) |Integrative Decoding is a technique designed to improve the factual accuracy of large language models, particularly for open-ended tasks. This method helps ensure more reliable and accurate outputs by refining the model's ability to integrate information during generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Brave New World: Leo AI and Ollama Bring RTX-Accelerated Local LLMs to Brave Browser Users.](https://blogs.nvidia.com/blog/rtx-ai-brave-browser/) |Nvidia's RTX-Acceleration combined with Ollama allows for running local models in the browser. |
-|[.]() | |
+|[Liquid Foundation Models.](https://www.liquid.ai/liquid-foundation-models) | Liquid AI has introduced its first generation of Liquid Foundation Models (LFMs), offering state-of-the-art performance while minimizing memory consumption. The LFMs, which are optimized for different hardware platforms, include 1B, 3B, and 40B parameter models. These models are already accessible on platforms like LIQUID PLAYGROUND and will soon be available on Cerebras. They are particularly adept at processing sequential data and provide innovations in efficiency and scalability across industries like financial services and biotechnology.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
