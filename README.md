@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FacePoke.](https://github.com/jbilcke-hf/FacePoke) |FacePoke is a tool designed for rapid editing of faces in both videos and images, allowing users to make quick adjustments and modifications with ease. |
 |[pipeline_parallel.py.](https://gist.github.com/3outeille/a3d4d91bb07af64c8f33d5aaee5145fe) |A large model training lead at Hugging Face has shared an excellent 200-line example of parallelism built from scratch, demonstrating efficient techniques for distributing computational tasks, which is particularly useful for large-scale model training. |
 |[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs.](https://arxiv.org/abs/2410.01999) | As language models become increasingly proficient at writing code, many existing benchmarks are approaching saturation. This paper proposes a more challenging benchmark designed to assess how well models perform on reasoning and code generation tasks, pushing beyond basic code-writing capabilities to evaluate deeper problem-solving skills.|
-|[.]() | |
-|[.]() | |
+|[Intensify.](https://github.com/swairshah/Intensify) |Intensify is a Python package that allows you to colorize text based on intensity values. It provides an easy-to-use interface for applying color gradients to text or background colors in the terminal. |
+|[Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality.](https://oooolga.github.io/JEDi.github.io/) | JEDi is a new metric built on the Joint Embedding Predictive Architecture (JEPA), designed to enhance evaluation accuracy with fewer samples. It better aligns with human assessments, making it a more robust alternative to the FVD (Fréchet Video Distance) metric for evaluating generative models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
