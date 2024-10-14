@@ -141,8 +141,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can AI have common sense? Finding out will be key to achieving machine intelligence.](https://www.nature.com/articles/d41586-024-03262-z) | The advent of LLMs has reopened a debate about the limits of machine intelligence — and requires new benchmarks of what reasoning consists of.|
 |[How your brain detects patterns in the everyday: without conscious thought.](https://www.nature.com/articles/d41586-024-03116-8) | Neurons in certain brain areas integrate ‘what’ and ‘when’ information to discern hidden order in events in real time.|
 |[AI to the rescue: how to enhance disaster early warnings with tech tools.](https://www.nature.com/articles/d41586-024-03149-z) | Artificial intelligence can help to reduce the impacts of natural hazards, but robust international standards are needed to ensure best practice.|
-|[.]() | |
-|[.]() | |
+|[Before Mira Murati’s surprise exit from OpenAI, staff grumbled its o1 model had been released prematurely.](https://fortune.com/2024/10/01/openai-sam-altman-mira-murati-gpt-4o-o1-chatgpt-turbulent-year/) | OpenAI's accelerated development and safety testing of its latest models, such as GPT-4o and o1, have led to internal friction, resulting in the departure of several senior staff members. The rapid pace of development has raised concerns about the thoroughness of the safety protocols, contributing to tensions within the organization.|
+|[I Quit Teaching Because of ChatGPT.](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/) |This professor resigned from teaching due to the widespread use of large language models (LLMs) like ChatGPT among students, which they felt undermined academic integrity and the traditional learning process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
