@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nobel Physics Prize Awarded for Pioneering A.I. Research by 2 Scientists.](https://www.nytimes.com/2024/10/08/science/nobel-prize-physics.html) |Two scientists who contributed to the development of neural networks have been awarded the Nobel Prize in Physics, recognizing their groundbreaking work in advancing artificial intelligence and neural network technologies. |
 |[Introducing the Message Batches API.](https://www.anthropic.com/news/message-batches-api) |Anthropic has introduced a new batch processing API that allows developers to submit batches of up to 10,000 queries at once. Each batch is processed within 24 hours and is 50% cheaper than standard API calls, making it a more efficient and cost-effective solution for handling non-time-sensitive tasks. |
 |[Update on Reflection-70B.](https://glaive.ai/blog/post/reflection-postmortem) |A detailed post-mortem analysis of the highly anticipated Reflection-70B model revealed issues with its benchmark code, which inflated its performance claims. Although the team has since corrected these bugs, and the model's performance remains impressive, it does not quite reach the originally advertised levels. |
-|[.]() | |
+|[Four-legged robot learns to climb ladders.](https://techcrunch.com/2024/10/02/four-legged-robot-learns-to-climb-ladders/) | The proliferation of robots like Boston Dynamics’ Spot has showcased the versatility of quadrupeds. These systems have thrived at walking up stairs, traversing small obstacles, and navigating uneven terrain. Ladders, however, still present a big issue — especially given how ever present they are in factories and other industrial environments where the systems are deployed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs.](https://arxiv.org/abs/2410.01999) | As language models become increasingly proficient at writing code, many existing benchmarks are approaching saturation. This paper proposes a more challenging benchmark designed to assess how well models perform on reasoning and code generation tasks, pushing beyond basic code-writing capabilities to evaluate deeper problem-solving skills.|
 |[Intensify.](https://github.com/swairshah/Intensify) |Intensify is a Python package that allows you to colorize text based on intensity values. It provides an easy-to-use interface for applying color gradients to text or background colors in the terminal. |
 |[Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality.](https://oooolga.github.io/JEDi.github.io/) | JEDi is a new metric built on the Joint Embedding Predictive Architecture (JEPA), designed to enhance evaluation accuracy with fewer samples. It better aligns with human assessments, making it a more robust alternative to the FVD (Fréchet Video Distance) metric for evaluating generative models.|
-|[.]() | |
+|[PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion.](https://arxiv.org/abs/2410.04939v1) | PRFusion and PRFusion++ are multimodal models developed to enhance place recognition in robotics and computer vision. By combining information from multiple sensory inputs, these models improve the accuracy and robustness of place recognition tasks, making them more effective in real-world applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
