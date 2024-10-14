@@ -110,9 +110,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Auto Jobs Applier.](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) | A highly viral repository leverages language models to automate the job application process, adding an extra layer of personalization to tailor applications for each position.|
 |[Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models.](https://arxiv.org/abs/2410.03640v1) |This study uncovers major weaknesses in existing membership inference attacks (MIAs) used to detect unauthorized data usage in diffusion models. It introduces CopyMark, a more realistic benchmark for assessing MIAs on pre-trained models, providing unbiased datasets and fair evaluation techniques to improve the accuracy and reliability of these attacks. |
 |[ImageFolder: Autoregressive Image Generation with Folded Tokens.](https://lxa9867.github.io/works/imagefolder/index.html) |ImageFolder is a semantic tokenizer developed to balance the trade-off between image reconstruction accuracy and generation quality in visual generative models, improving the overall performance of these models in both tasks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models.](https://github.com/whb139426/grounded-video-llm) | Grounded-VideoLLM is a novel Video-Large Language Model (Video-LLM) created to enhance the fine-grained understanding of specific moments in videos. By incorporating a temporal stream and discrete temporal tokens, the model more effectively captures the relationships between frames and timestamps, improving its ability to interpret and analyze detailed video content.|
+|[Autoregressive Action Sequence Learning for Robotic Manipulation.](https://github.com/mlzxy/arp) |The Chunking Causal Transformer (CCT) is a new autoregressive architecture developed specifically for robotic manipulation tasks. It is designed to improve the model's ability to process sequential data efficiently, optimizing performance in real-time robotic control and manipulation scenarios. |
+|[FacePoke.](https://github.com/jbilcke-hf/FacePoke) |FacePoke is a tool designed for rapid editing of faces in both videos and images, allowing users to make quick adjustments and modifications with ease. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
