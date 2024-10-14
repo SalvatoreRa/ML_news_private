@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A multimodal generative AI copilot for human pathology.](https://www.nature.com/articles/s41586-024-07618-3) |PathChat is a vision-language AI assistant designed for pathology, combining a foundational vision encoder and a large language model, achieving state-of-the-art performance on diagnostic tasks and outperforming other multimodal AI systems, with potential applications in education, research, and clinical decision-making. |
-|[.]() | |
+|[Meta Movie Gen.](https://ai.meta.com/research/movie-gen/) | Meta has developed a cutting-edge movie model with 30 billion parameters, which required 6,144 H100 GPUs for training. The model was trained using 1 billion images and 100 million carefully selected videos. Notably, it is based on a Temporal Autoencoder and incorporates Flow matching Llama. Meta also published a highly detailed 92-page research paper, making it one of the most comprehensive reports on the subject.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Introducing the Open FinLLM Leaderboard.](https://huggingface.co/blog/leaderboard-finbench) | The Open FinLLM Leaderboard provides a dedicated evaluation platform designed specifically for financial language models. It emphasizes key financial tasks like predicting stock movements, analyzing sentiment, and extracting information from financial reports.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
