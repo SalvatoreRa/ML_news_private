@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering.](https://arxiv.org/abs/2410.07095) | It introduces a new benchmark to assess machine learning agents' proficiency in machine learning engineering tasks. The benchmark consists of 75 Kaggle competitions focused on key MLE skills, including model training, dataset preparation, and experiment execution. OpenAI's o1-preview model, utilizing the AIDE scaffolding, reaches a bronze medal level in 16.9% of the competitions.|
-|[.]() | |
+|[Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System.](https://arxiv.org/abs/2410.08115) |Presents a novel framework aimed at improving both communication efficiency and task effectiveness in LLM-based multi-agent systems through targeted LLM training. It introduces an iterative "generate, rank, select, and train" approach, enhanced by a reward function to optimize performance, token usage, and communication efficiency. The framework integrates Monte Carlo Tree Search-inspired techniques for DPO data generation, promoting diverse exploration. Experimental results show consistent improvements over single-agent baselines and standard multi-agent systems (MAS) using Llama 3 8B, achieving a 2.8x performance boost while utilizing fewer than 10% of tokens on tasks involving extensive information exchange. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
