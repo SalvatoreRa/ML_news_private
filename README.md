@@ -40,8 +40,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models.](https://arxiv.org/abs/2410.07176) | Introduces a novel RAG method to address the challenges of imperfect retrieval augmentation and knowledge conflicts in LLMs. Astute RAG adaptively extracts critical information from the internal knowledge of LLMs, then iteratively merges this with external knowledge while maintaining source awareness. Its interactive consolidation mechanism enhances the integration of internal and external information by identifying consistent passages, detecting conflicting data, and filtering out irrelevant content.|
+|[ToolGen: Unified Tool Retrieval and Calling via Generation.](https://arxiv.org/abs/2410.03439) |Incorporates tool knowledge directly into LLMs by encoding tools as unique tokens, allowing the model to generate tool calls and arguments, facilitating smooth tool invocation alongside natural language generation. Experiments involving over 47,000 tools demonstrate that ToolGen outperforms in both tool retrieval and autonomous task execution. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
