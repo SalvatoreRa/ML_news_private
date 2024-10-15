@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generate Video (beta) on Firefly Web App.](https://blog.adobe.com/en/publish/2024/10/14/generate-video-beta-on-firefly-web-app) | During the Adobe MAX conference, Adobe revealed the extension of its Firefly series of creative generative AI models to include video. |
 |[OpenAI appoints international expansion boss.](https://www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/) |OpenAI has named Oliver Jay as the head of its international expansion, with a focus on AI strategy and operations. The company also revealed the opening of a new APAC office in Singapore and is working on developing datasets for local languages. The o1 model, which incorporates "chain of thought" methods, is designed to improve AI accuracy. |
 |[Anthropic challenges OpenAI with affordable batch processing.](https://venturebeat.com/ai/anthropic-challenges-openai-with-affordable-batch-processing/) |Anthropic has introduced a Message Batches API, enabling businesses to handle large data volumes at half the cost of traditional API calls. The API allows for up to 10,000 asynchronous queries within 24 hours, providing a cost-efficient solution by shifting AI processing from real-time to "right-time." This approach encourages AI adoption among mid-sized companies but may draw attention away from the advancement of real-time AI capabilities. |
-|[.]() | |
-|[.]() | |
+|[OpenAI Projections Imply Losses Tripling To $14 Billion In 2026.](https://www.xm.com/research/markets/allNews/reuters/openai-projections-imply-losses-tripling-to-14-billion-in-2026-the-information-53942296) | OpenAI projects losses to rise to $14 billion in 2026, with total losses reaching $44 billion by 2028.|
+|[AMD launches AI chip to rival Nvidia's Blackwell.](https://www.cnbc.com/2024/10/10/amd-launches-mi325x-ai-chip-to-rival-nvidias-blackwell-.html) | AMD has introduced the Instinct MI325X AI chip, targeting competition with Nvidia's leading data center GPUs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UvA - An Introduction to Group Equivariant Deep Learning.](https://uvagedl.github.io/) | Resources for studying deep learning techniques applied to specific types of geometric data while addressing architectural limitations.|
 |[Diffusion model simulating CS:GO.](https://github.com/eloialonso/diamond/tree/csgo) |An open-source replication of a diffusion model that generates visual simulations of a video game, using keyboard and mouse inputs to influence the output. |
 |[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs.](https://github.com/shenao-zhang/reward-augmented-preference) | This study addresses the shortcomings of current alignment algorithms in large language models (LLMs), which tend to overfit to relative preferences and neglect response quality. The authors introduce reward-conditioned LLM policies and a novel data relabeling method that incorporates response quality, enabling the model to better generalize to optimal responses.|
-|[.]() | |
+|[entropix.](https://github.com/samefarrar/entropix_mlx/tree/metrics_viz) |Entropix is a tool designed to modify the sampling behavior of language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
