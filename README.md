@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI's Swarm.](https://github.com/openai/swarm) |OpenAI has introduced a lightweight framework designed to facilitate communication between agents. While it will not receive further updates, the framework could still offer valuable ideas and inspiration for future developments. |
 |[EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models.](https://arxiv.org/abs/2410.07133v2) |EvolveDirector aims to develop a competitive text-to-image generation model using open, publicly available resources, avoiding the limitations imposed by proprietary models. |
 |[Rethinking the Evaluation of Visible and Infrared Image Fusion.](https://arxiv.org/abs/2410.06811v1) |Researchers propose the Segmentation-oriented Evaluation Approach (SEA) to improve the evaluation of Visible and Infrared Image Fusion (VIF) techniques, which play a critical role in applications such as object detection and semantic segmentation. |
-|[.]() | |
+|[A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research.](https://arxiv.org/abs/2410.07066v1) | A gentle introduction and tutorial on deep generative models in transportation research provides a comprehensive overview of how these models can be applied to solve transportation problems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
