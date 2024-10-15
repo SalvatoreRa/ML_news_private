@@ -69,8 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google to buy nuclear power for AI datacentres in ‘world first’ deal.](https://www.theguardian.com/technology/2024/oct/15/google-buy-nuclear-power-ai-datacentres-kairos-power) | Tech company orders six or seven small nuclear reactors from California’s Kairos Power|
 |[Silicon Valley is debating if AI weapons should be allowed to decide to kill.](https://techcrunch.com/2024/10/11/silicon-valley-is-debating-if-ai-weapons-should-be-allowed-to-decide-to-kill/) | In late September, Shield AI co-founder Brandon Tseng swore that weapons in the U.S. would never be fully autonomous — meaning an AI algorithm would make the final decision to kill someone. “Congress doesn’t want that,” the defense tech founder told TechCrunch. “No one wants that.” |
 |[Zoom’s custom AI avatar tool may come with risks.](https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/) | The upcoming feature, announced today at Zoom’s annual dev conference, will translate a video clip that users record of themselves into a digital clone — complete with a head, upper arms, and shoulders. Users will be able to type a script of what they want the digital double to say, and Zoom will generate audio that syncs with the avatar’s lip movements.|
-|[.]() | |
-|[.]() | |
+|[Generate Video (beta) on Firefly Web App.](https://blog.adobe.com/en/publish/2024/10/14/generate-video-beta-on-firefly-web-app) | During the Adobe MAX conference, Adobe revealed the extension of its Firefly series of creative generative AI models to include video. |
+|[OpenAI appoints international expansion boss.](https://www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/) |OpenAI has named Oliver Jay as the head of its international expansion, with a focus on AI strategy and operations. The company also revealed the opening of a new APAC office in Singapore and is working on developing datasets for local languages. The o1 model, which incorporates "chain of thought" methods, is designed to improve AI accuracy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
