@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Zoom’s custom AI avatar tool may come with risks.](https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/) | The upcoming feature, announced today at Zoom’s annual dev conference, will translate a video clip that users record of themselves into a digital clone — complete with a head, upper arms, and shoulders. Users will be able to type a script of what they want the digital double to say, and Zoom will generate audio that syncs with the avatar’s lip movements.|
 |[Generate Video (beta) on Firefly Web App.](https://blog.adobe.com/en/publish/2024/10/14/generate-video-beta-on-firefly-web-app) | During the Adobe MAX conference, Adobe revealed the extension of its Firefly series of creative generative AI models to include video. |
 |[OpenAI appoints international expansion boss.](https://www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/) |OpenAI has named Oliver Jay as the head of its international expansion, with a focus on AI strategy and operations. The company also revealed the opening of a new APAC office in Singapore and is working on developing datasets for local languages. The o1 model, which incorporates "chain of thought" methods, is designed to improve AI accuracy. |
-|[.]() | |
+|[Anthropic challenges OpenAI with affordable batch processing.](https://venturebeat.com/ai/anthropic-challenges-openai-with-affordable-batch-processing/) |Anthropic has introduced a Message Batches API, enabling businesses to handle large data volumes at half the cost of traditional API calls. The API allows for up to 10,000 asynchronous queries within 24 hours, providing a cost-efficient solution by shifting AI processing from real-time to "right-time." This approach encourages AI adoption among mid-sized companies but may draw attention away from the advancement of real-time AI capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction.](https://arxiv.org/abs/2410.08669v1) |SmartPretrain offers a versatile, model-agnostic, and dataset-agnostic self-supervised learning framework designed to enhance motion prediction in autonomous vehicles. |
 |[UvA - An Introduction to Group Equivariant Deep Learning.](https://uvagedl.github.io/) | Resources for studying deep learning techniques applied to specific types of geometric data while addressing architectural limitations.|
 |[Diffusion model simulating CS:GO.](https://github.com/eloialonso/diamond/tree/csgo) |An open-source replication of a diffusion model that generates visual simulations of a video game, using keyboard and mouse inputs to influence the output. |
-|[.]() | |
+|[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs.](https://github.com/shenao-zhang/reward-augmented-preference) | This study addresses the shortcomings of current alignment algorithms in large language models (LLMs), which tend to overfit to relative preferences and neglect response quality. The authors introduce reward-conditioned LLM policies and a novel data relabeling method that incorporates response quality, enabling the model to better generalize to optimal responses.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
