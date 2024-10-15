@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering.](https://arxiv.org/abs/2410.07095) | It introduces a new benchmark to assess machine learning agents' proficiency in machine learning engineering tasks. The benchmark consists of 75 Kaggle competitions focused on key MLE skills, including model training, dataset preparation, and experiment execution. OpenAI's o1-preview model, utilizing the AIDE scaffolding, reaches a bronze medal level in 16.9% of the competitions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
