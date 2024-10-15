@@ -62,8 +62,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[AI gives voice to dead animals in Cambridge exhibition.](https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition) | Creatures can converse and share their stories by voice or text through visitors’ mobile phones at Museum of Zoology |
+|[Three-armed robot conductor makes debut in Dresden.](https://www.theguardian.com/world/2024/oct/13/three-armed-robot-maira-pro-s-conductor-makes-debut-dresden) | German city’s Sinfoniker says aim is not to replace humans but to play music human conductors would find impossible |
 |[.]() | |
 |[.]() | |
 |[.]() | |
