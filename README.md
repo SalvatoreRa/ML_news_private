@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fast Feedforward 3D Gaussian Splatting Compression.](https://yihangchen-ee.github.io/project_fcgs/) |Fast Compression of 3D Gaussian Splatting (FCGS) is a new model designed to eliminate the need for the slow, per-scene optimization required by earlier methods. Instead, FCGS achieves rapid compression using a quick feed-forward pass, reducing the processing time from minutes to just seconds. This significantly accelerates the compression process while maintaining high-quality results for 3D data. |
 |[OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling.](https://arxiv.org/abs/2410.08021v1) |OneRef presents an optimized framework for referring segmentation by integrating visual and language feature spaces within a unified transformer architecture. |
 |[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction.](https://arxiv.org/abs/2410.08669v1) |SmartPretrain offers a versatile, model-agnostic, and dataset-agnostic self-supervised learning framework designed to enhance motion prediction in autonomous vehicles. |
-|[.]() | |
-|[.]() | |
+|[UvA - An Introduction to Group Equivariant Deep Learning.](https://uvagedl.github.io/) | Resources for studying deep learning techniques applied to specific types of geometric data while addressing architectural limitations.|
+|[Diffusion model simulating CS:GO.](https://github.com/eloialonso/diamond/tree/csgo) |An open-source replication of a diffusion model that generates visual simulations of a video game, using keyboard and mouse inputs to influence the output. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
