@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering.](https://arxiv.org/abs/2410.07095) | It introduces a new benchmark to assess machine learning agents' proficiency in machine learning engineering tasks. The benchmark consists of 75 Kaggle competitions focused on key MLE skills, including model training, dataset preparation, and experiment execution. OpenAI's o1-preview model, utilizing the AIDE scaffolding, reaches a bronze medal level in 16.9% of the competitions.|
 |[Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System.](https://arxiv.org/abs/2410.08115) |Presents a novel framework aimed at improving both communication efficiency and task effectiveness in LLM-based multi-agent systems through targeted LLM training. It introduces an iterative "generate, rank, select, and train" approach, enhanced by a reward function to optimize performance, token usage, and communication efficiency. The framework integrates Monte Carlo Tree Search-inspired techniques for DPO data generation, promoting diverse exploration. Experimental results show consistent improvements over single-agent baselines and standard multi-agent systems (MAS) using Llama 3 8B, achieving a 2.8x performance boost while utilizing fewer than 10% of tokens on tasks involving extensive information exchange. |
-|[.]() | |
-|[.]() | |
+|[Zyphra's Mamba 2 based model beats Mistral.](https://zyphra.webflow.io/post/zamba2-7b) | Introduces the first state space-style model that surpasses transformers at the 7B scale. It excels in understanding and generating long-context data, thanks to the linear time scaling of the Mamba 2 blocks, which significantly enhances its efficiency and performance.|
+|[OpenAI's Swarm.](https://github.com/openai/swarm) |OpenAI has introduced a lightweight framework designed to facilitate communication between agents. While it will not receive further updates, the framework could still offer valuable ideas and inspiration for future developments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
