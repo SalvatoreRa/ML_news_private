@@ -66,7 +66,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Three-armed robot conductor makes debut in Dresden.](https://www.theguardian.com/world/2024/oct/13/three-armed-robot-maira-pro-s-conductor-makes-debut-dresden) | German city’s Sinfoniker says aim is not to replace humans but to play music human conductors would find impossible |
 |[Tesla’s value drops $60bn after investors fail to hail self-driving ‘Cybercab’.](https://www.theguardian.com/business/2024/oct/11/teslas-value-drops-60bn-after-self-driving-cybercab-fails-to-excite-investors) | Analysts criticise lack of detail about the ‘robotaxi’ showcased by CEO Elon Musk|
 |[Australia’s spy chief warns AI will accelerate online radicalisation.](https://www.theguardian.com/australia-news/2024/oct/11/australias-spy-chief-warns-ai-will-accelerate-online-radicalisation) |Asio boss Mike Burgess says social media impact is a ‘step-change’ in the threat posed by extremism |
-|[.]() | |
+|[Google to buy nuclear power for AI datacentres in ‘world first’ deal.](https://www.theguardian.com/technology/2024/oct/15/google-buy-nuclear-power-ai-datacentres-kairos-power) | Tech company orders six or seven small nuclear reactors from California’s Kairos Power|
 |[.]() | |
 |[.]() | |
 |[.]() | |
