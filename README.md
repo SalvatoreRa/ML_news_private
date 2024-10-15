@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis.](https://github.com/yangling0818/trans4d) |Trans4D is a new framework developed to address the challenges of realistic 4D scene transitions, enhancing text-to-4D synthesis. It offers improved capabilities in generating coherent, dynamic 4D scenes from textual descriptions, making it more suitable for tasks that require accurate spatial and temporal scene transitions. |
 |[DocMTAgent.](https://github.com/yutongwang1216/docmtagent) |DelTA, short for Document-levEL Translation Agent, is an online translation tool designed for handling document-level translations. It leverages a multi-level memory architecture to improve translation accuracy and coherence across larger texts, providing more context-aware translations compared to sentence-level models. |
 |[Fast Feedforward 3D Gaussian Splatting Compression.](https://yihangchen-ee.github.io/project_fcgs/) |Fast Compression of 3D Gaussian Splatting (FCGS) is a new model designed to eliminate the need for the slow, per-scene optimization required by earlier methods. Instead, FCGS achieves rapid compression using a quick feed-forward pass, reducing the processing time from minutes to just seconds. This significantly accelerates the compression process while maintaining high-quality results for 3D data. |
-|[.]() | |
-|[.]() | |
+|[OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling.](https://arxiv.org/abs/2410.08021v1) |OneRef presents an optimized framework for referring segmentation by integrating visual and language feature spaces within a unified transformer architecture. |
+|[SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction.](https://arxiv.org/abs/2410.08669v1) |SmartPretrain offers a versatile, model-agnostic, and dataset-agnostic self-supervised learning framework designed to enhance motion prediction in autonomous vehicles. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
