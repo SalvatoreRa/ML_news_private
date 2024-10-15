@@ -124,10 +124,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Nobel winner Geoffrey Hinton is the ‘godfather of AI’. Here’s an offer he shouldn’t refuse…](https://www.theguardian.com/commentisfree/2024/oct/12/nobel-winner-geoffrey-hinton-is-the-godfather-of-ai-heres-an-offer-he-shouldnt-refuse) | The computer scientist’s dogged belief in the potential of neural networks helped unlock machine learning. But he’d be wise to remember the experience of a fellow laureate |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Machines of Loving Grace.](https://darioamodei.com/machines-of-loving-grace) |Dario Amodei, CEO of Anthropic, often writes internal memos, and one of them was published externally. In this memo, he explores the potential extreme positive impact of successfully building powerful AI systems. He envisions how AI could radically transform the world for the better, improving areas like science, economics, and societal well-being, while acknowledging the immense responsibility in ensuring AI development is aligned with human interests and safety. |
+|[This AI-Powered Invention Machine Automates Eureka Moments.](https://spectrum.ieee.org/ai-invention) |Iprova's AI-driven software analyzes diverse technical literature to generate patentable inventions by linking previously unrelated ideas. It uses semantic search and generative AI to identify novel inventions for companies like Procter & Gamble and Panasonic. Although AI plays a key role, human insight remains essential for applying the inventions practically, especially in fast-evolving industries. Iprova highlights the importance of human creativity in refining and validating invention ideas, ensuring that AI serves as a tool to enhance rather than replace human innovation. |
+|[Burn the Playbooks.](https://www.notboring.co/p/burn-the-playbooks) | AI excels at tasks that follow structured rulesets, such as automating tax processes or solving math problems, where it can often outperform humans. However, relying too much on playbook-driven approaches in our work risks stifling human creativity, a key trait that differentiates us from machines. Overemphasizing formulaic tasks could make us more dependent on AI's strengths, limiting our own unique creative potential and inadvertently making us more "machine-like" in areas where creativity and flexibility are crucial.|
+|[Hurricane Helene and the ‘Fuck It’ Era of AI-Generated Slop.](https://www.404media.co/hurricane-helene-and-the-fuck-it-era-of-ai-generated-slop/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
