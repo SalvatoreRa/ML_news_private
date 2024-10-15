@@ -64,7 +64,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI gives voice to dead animals in Cambridge exhibition.](https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition) | Creatures can converse and share their stories by voice or text through visitors’ mobile phones at Museum of Zoology |
 |[Three-armed robot conductor makes debut in Dresden.](https://www.theguardian.com/world/2024/oct/13/three-armed-robot-maira-pro-s-conductor-makes-debut-dresden) | German city’s Sinfoniker says aim is not to replace humans but to play music human conductors would find impossible |
-|[.]() | |
+|[Tesla’s value drops $60bn after investors fail to hail self-driving ‘Cybercab’.](https://www.theguardian.com/business/2024/oct/11/teslas-value-drops-60bn-after-self-driving-cybercab-fails-to-excite-investors) | Analysts criticise lack of detail about the ‘robotaxi’ showcased by CEO Elon Musk|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Nobel winner Geoffrey Hinton is the ‘godfather of AI’. Here’s an offer he shouldn’t refuse…](https://www.theguardian.com/commentisfree/2024/oct/12/nobel-winner-geoffrey-hinton-is-the-godfather-of-ai-heres-an-offer-he-shouldnt-refuse) | The computer scientist’s dogged belief in the potential of neural networks helped unlock machine learning. But he’d be wise to remember the experience of a fellow laureate |
 |[.]() | |
 |[.]() | |
 |[.]() | |
