@@ -48,6 +48,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy.](https://arxiv.org/abs/2410.07109) |Examines the interaction patterns of LLMs within a multi-agent setting involving a social hierarchy, specifically in a scenario where a guard and a prisoner interact, with the prisoner either seeking extra yard time or attempting to escape. The study finds that when power dynamics are present, LLMs struggle to maintain coherent conversations. Additionally, the authors highlight that agents' personas significantly influence their behaviors. Interestingly, even without explicit prompting, merely assigning roles to agents resulted in the emergence of anti-social behaviors. |
 |[Microsoft may have an audio-to-image generator in the works, new patent shows.](https://www.zdnet.com/article/microsoft-may-have-an-audio-to-image-generator-in-the-works-new-patent-shows/) |Microsoft has submitted a patent for an AI system that transforms live audio into images using large language models (LLMs). The system is intended to improve communication by creating real-time visuals from audio streams. Once developed, it could potentially be incorporated into Microsoft Teams through Copilot integration. |
 |[INTELLECT–1: Launching the First Decentralized Training of a 10B Parameter Model.](https://www.primeintellect.ai/blog/intellect-1) |Decentralized training of language models involves utilizing diverse, geographically distributed hardware to train a single model. This approach has been traditionally difficult due to the significant cost of memory transfers. This research advances the current state-of-the-art algorithms for large-scale distributed training. |
+|[Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201) |The paper revisits RNNs and demonstrates that removing the hidden states from the input, forget, and update gates allows for efficient parallel training. This adjustment eliminates the need for architectures like LSTMs and GRUs to rely on backpropagation through time (BPTT). They introduce new variants, called minLSTMs and minGRUs, which are 175 times faster for sequences of length 512. |
+|[LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations.](https://arxiv.org/abs/2410.02707) |The study finds that "truthfulness" information in LLMs is concentrated in specific tokens, offering a way to improve error detection and address related challenges. They also suggest that the internal representations of LLMs can be used to predict the types of errors these models are prone to making. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
