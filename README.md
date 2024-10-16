@@ -67,7 +67,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -84,6 +83,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic challenges OpenAI with affordable batch processing.](https://venturebeat.com/ai/anthropic-challenges-openai-with-affordable-batch-processing/) |Anthropic has introduced a Message Batches API, enabling businesses to handle large data volumes at half the cost of traditional API calls. The API allows for up to 10,000 asynchronous queries within 24 hours, providing a cost-efficient solution by shifting AI processing from real-time to "right-time." This approach encourages AI adoption among mid-sized companies but may draw attention away from the advancement of real-time AI capabilities. |
 |[OpenAI Projections Imply Losses Tripling To $14 Billion In 2026.](https://www.xm.com/research/markets/allNews/reuters/openai-projections-imply-losses-tripling-to-14-billion-in-2026-the-information-53942296) | OpenAI projects losses to rise to $14 billion in 2026, with total losses reaching $44 billion by 2028.|
 |[AMD launches AI chip to rival Nvidia's Blackwell.](https://www.cnbc.com/2024/10/10/amd-launches-mi325x-ai-chip-to-rival-nvidias-blackwell-.html) | AMD has introduced the Instinct MI325X AI chip, targeting competition with Nvidia's leading data center GPUs.|
+|[Meta’s open AI hardware vision.](https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/) |Meta unveiled its open AI hardware designs, including the Catalina rack and the enhanced Grand Teton platform, at the OCP Global Summit. Notably, training the Llama 3.1 405B model required 16,000 NVIDIA H100 GPUs, demonstrating Meta's robust scaling infrastructure. These open AI hardware systems are essential for driving further advancements in AI capabilities. |
+|[The New York Times warns AI search engine Perplexity to stop using its content.](https://www.theverge.com/2024/10/15/24270774/new-york-times-cease-and-desist-letter-perplexity-ai-search-engine) |The New York Times has sent a cease and desist letter to AI startup Perplexity, accusing the company of using its content without authorization for AI search purposes. Perplexity asserts that it does not scrape content for training but instead indexes web pages to provide factual information. The company is currently in discussions with publishers and seeks to resolve the matter by collaborating with the Times and other media organizations. |
+|[Decagon raises $65m Series B led by Bain Capital Ventures to bring total funding to $100m.](https://decagon.ai/blog/series-b) |Decagon has secured $65 million in Series B funding to further develop its AI customer support agents, which are already utilized by companies such as Duolingo and Eventbrite to streamline customer interactions. These AI agents automate routine tasks, allowing customer support teams to focus on more strategic roles. The funding will be used to strengthen Decagon's engineering team and extend its AI solutions into new markets and industry sectors. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
