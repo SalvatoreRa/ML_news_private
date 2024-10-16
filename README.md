@@ -66,7 +66,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -125,7 +124,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LoLCATs Blog Part 2: How to Linearize LLMs for Me and You.](https://hazyresearch.stanford.edu/blog/2024-10-14-lolcats-p2) |Hazy Research has published another insightful post that delves into techniques for linearizing existing language models while maintaining much of their performance. This exploration highlights methods to simplify model architectures, making them more efficient, without significantly compromising their effectiveness in tasks like text generation and understanding. |
 |[TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control.](https://arxiv.org/abs/2410.10133v1) | TextCtrl is a newly introduced diffusion-based method designed to enhance scene text editing. It achieves a balance between maintaining content accuracy and preserving the original style, ensuring that both the textual content and the visual appearance remain consistent during edits.|
 |[Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies.](https://arxiv.org/abs/2410.10803v1) | iDP3 is an advanced 3D visuomotor policy designed to enable humanoid robots to autonomously navigate and perform tasks in a variety of real-world environments. This improved policy enhances the robot's ability to perceive and interact with its surroundings, making it more adaptable and efficient in complex and dynamic settings.|
-|[.]() | |
+|[tabled.](https://github.com/VikParuchuri/tabled) |Tabled is a small library for detecting and extracting tables. It uses surya to find all the tables in a PDF, identifies the rows/columns, and formats cells into markdown, csv, or html. |
+|[HART: Efficient Visual Generation with Hybrid Autoregressive Transformer.](https://hanlab.mit.edu/projects/hart) |HART is a cutting-edge visual generation model designed to produce high-quality 1024x1024 images, presenting a challenge to the capabilities of diffusion models. It enhances image reconstruction and reduces training costs by employing a hybrid tokenizer that integrates both discrete and continuous tokens, resulting in more efficient and effective image generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
