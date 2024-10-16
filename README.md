@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion model simulating CS:GO.](https://github.com/eloialonso/diamond/tree/csgo) |An open-source replication of a diffusion model that generates visual simulations of a video game, using keyboard and mouse inputs to influence the output. |
 |[Reward-Augmented Data Enhances Direct Preference Alignment of LLMs.](https://github.com/shenao-zhang/reward-augmented-preference) | This study addresses the shortcomings of current alignment algorithms in large language models (LLMs), which tend to overfit to relative preferences and neglect response quality. The authors introduce reward-conditioned LLM policies and a novel data relabeling method that incorporates response quality, enabling the model to better generalize to optimal responses.|
 |[entropix.](https://github.com/samefarrar/entropix_mlx/tree/metrics_viz) |Entropix is a tool designed to modify the sampling behavior of language models. |
-|[.]() | |
+|[LoLCATs Blog Part 2: How to Linearize LLMs for Me and You.](https://hazyresearch.stanford.edu/blog/2024-10-14-lolcats-p2) |Hazy Research has published another insightful post that delves into techniques for linearizing existing language models while maintaining much of their performance. This exploration highlights methods to simplify model architectures, making them more efficient, without significantly compromising their effectiveness in tasks like text generation and understanding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
