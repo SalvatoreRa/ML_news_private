@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos.](https://cotracker3.github.io/) | CoTracker is a newly developed tracking model that bridges the performance gap between synthetic and real video data by employing semi-supervised training techniques.|
 |[A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration.](https://github.com/renlanghuang/cast) | Researchers have developed a novel consistency-aware spot-guided Transformer designed to improve the efficiency and accuracy of point cloud registration.|
 |[Ditto - the simplest self-building coding agent.](https://github.com/yoheinakajima/ditto) |Ditto is a user-friendly tool that allows you to generate a multi-file Flask application from simple natural language descriptions using a no-code interface. By leveraging a simple LLM loop with a few tools, Ditto automates the coding process, (occasionally) turning your ideas into functional web applications (or at least trying and getting close). |
-|[.]() | |
+|[F5 Text-to-Speech System.](https://github.com/lucasnewman/f5-tts-mlx) | F5-TTS is a non-autoregressive, zero-shot text-to-speech system featuring a flow-matching mel spectrogram generator and a diffusion transformer. Developed on the MLX framework, F5 outperforms earlier systems such as E2 TTS by incorporating ConvNeXT v2 blocks for improved text alignment, enabling high-quality speech generation in approximately 11 seconds on modern hardware.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
