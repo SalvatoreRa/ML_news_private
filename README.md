@@ -53,6 +53,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation.](https://arxiv.org/abs/2409.12941) | The paper introduces a unified framework to evaluate an LLM’s capability to provide factual responses, assess retrieval skills, and reason through the generation of final answers. The framework includes multi-hop questions that require combining information from multiple sources. It reports that state-of-the-art LLMs struggle with this task, achieving only 40% accuracy without retrieval. However, the proposed multi-step retrieval method improves performance to 66% accuracy.|
 |[Not All LLM Reasoners Are Created Equal.](https://arxiv.org/abs/2410.01748) | The paper introduces a unified framework to evaluate an LLM’s capability to provide factual responses, assess retrieval skills, and reason through the generation of final answers. The framework includes multi-hop questions that require combining information from multiple sources. It reports that state-of-the-art LLMs struggle with this task, achieving only 40% accuracy without retrieval. However, the proposed multi-step retrieval method improves performance to 66% accuracy.|
 |[Rejection Sampling IMLE: Designing Priors for Better Few-Shot Image Synthesis.](https://arxiv.org/abs/2409.17439) |Training generative models like GANs with limited data is challenging. Existing Implicit Maximum Likelihood Estimation (IMLE) methods suffer from poor alignment between the latent codes used during training and those used during inference. The proposed approach, RS-IMLE, modifies the prior distribution during training, resulting in better test-time performance and higher quality image generation. |
+|[Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models.](https://arxiv.org/abs/2410.11081) | This study introduces a unified framework aimed at enhancing training stability in continuous-time consistency models, leading to substantial improvements in the performance of generative models.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,6 +145,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention.](https://github.com/maclong01/DeBiFormer) | The Deformable Bi-level Routing Attention (DBRA) module is an innovation designed to enhance attention mechanisms in vision transformers. DeBiFormer, which is built upon DBRA, optimizes the selection of key-value pairs in the attention process, resulting in more efficient computations and better interpretability of queries within attention maps. This leads to improved performance and understanding of how the model attends to different parts of an image. |
 |[Six tips for going public with your lab’s software.](https://www.nature.com/articles/d41586-024-03344-y) | It’s not enough to write high-quality programs. If you want to make your apps public — and usable — you should also follow these steps. |
 |[CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos.](https://cotracker3.github.io/) | CoTracker is a newly developed tracking model that bridges the performance gap between synthetic and real video data by employing semi-supervised training techniques.|
+|[A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration.](https://github.com/renlanghuang/cast) | Researchers have developed a novel consistency-aware spot-guided Transformer designed to improve the efficiency and accuracy of point cloud registration.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
