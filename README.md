@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[tabled.](https://github.com/VikParuchuri/tabled) |Tabled is a small library for detecting and extracting tables. It uses surya to find all the tables in a PDF, identifies the rows/columns, and formats cells into markdown, csv, or html. |
 |[HART: Efficient Visual Generation with Hybrid Autoregressive Transformer.](https://hanlab.mit.edu/projects/hart) |HART is a cutting-edge visual generation model designed to produce high-quality 1024x1024 images, presenting a challenge to the capabilities of diffusion models. It enhances image reconstruction and reduces training costs by employing a hybrid tokenizer that integrates both discrete and continuous tokens, resulting in more efficient and effective image generation. |
 |[DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention.](https://github.com/maclong01/DeBiFormer) | The Deformable Bi-level Routing Attention (DBRA) module is an innovation designed to enhance attention mechanisms in vision transformers. DeBiFormer, which is built upon DBRA, optimizes the selection of key-value pairs in the attention process, resulting in more efficient computations and better interpretability of queries within attention maps. This leads to improved performance and understanding of how the model attends to different parts of an image. |
-|[.]() | |
+|[Six tips for going public with your lab’s software.](https://www.nature.com/articles/d41586-024-03344-y) | It’s not enough to write high-quality programs. If you want to make your apps public — and usable — you should also follow these steps. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
