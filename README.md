@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sticky humans in a post-AGI world.](https://www.theintrinsicperspective.com/p/sticky-humans-in-a-post-agi-world) | AI tutors encounter considerable difficulties in replicating the social and intellectual interactions offered by human teachers. Although AI has made progress, it still falls short in handling complex educational tasks and cannot deliver the nuanced socio-intellectual experiences that human educators provide. A hybrid approach, where AI complements rather than replaces human teachers, may be more effective, given the essential social and cultural elements of the learning process.|
 |[AI has dreamt up a blizzard of new proteins. Do any of them actually work?](https://www.nature.com/articles/d41586-024-03335-z) | Emerging protein-design competitions aim to sift out the functional from the fantastical. But researchers hope that the real prize will be a revolution for the field. |
 |[Considerations for governing open foundation models.](https://www.science.org/doi/10.1126/science.adp1848) |Foundation models drive AI innovation, but debates on their release—whether open or closed—raise concerns about potential risks and the impact of regulations on innovation. |
-|[.]() | |
+|[I AI-generated some podcasts – and the results are uncanny.](https://www.theguardian.com/tv-and-radio/2024/oct/16/i-ai-generated-some-podcasts-and-the-results-are-uncanny) | Google’s new tool NotebookLM lets you create podcasts at the click of the button. They’re way more realistic than you’d think …|
 |[.]() | |
 |[.]() | |
 |[.]() | |
