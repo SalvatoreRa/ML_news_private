@@ -92,6 +92,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft Artificial Intelligence VP Bubeck to Join OpenAI.](https://finance.yahoo.com/news/microsoft-artificial-intelligence-vp-bubeck-193734013.html) | Microsoft Corp. said one of its artificial intelligence vice presidents, Sebastien Bubeck, is leaving to join OpenAI, where Microsoft is both the largest investor and a rival.|
 |[‘It’s not me, it’s just my face’: the models who found their likenesses had been used in AI propaganda.](https://www.theguardian.com/technology/2024/oct/16/its-not-me-its-just-my-face-the-models-who-found-their-likenesses-had-been-used-in-ai-propaganda) |London-based Synthesia’s technology was employed to make deepfake videos for authoritarian regimes |
 |[Amazon.com joins push for nuclear power to meet data center demand.](https://www.theguardian.com/technology/2024/oct/16/amazon-nuclear-power-data-center) |Company says it signed three agreements on developing small modular reactor nuclear power technology |
+|[Un Ministral, des Ministraux.](https://mistral.ai/news/ministraux/) | On the first anniversary of Mistral 7B, Mistral launched two advanced models designed for on-device and edge computing: Ministral 3B and Ministral 8B. These models are optimized for tasks under 10 billion parameters, offering superior knowledge, reasoning, and efficiency. They also support a context length of up to 128k and deliver faster inference.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
