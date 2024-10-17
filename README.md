@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk Shows Off Tesla ‘Robotaxi’ That Drives Itself.](https://www.nytimes.com/2024/10/10/business/tesla-robotaxi-elon-musk.html) |“You could fall asleep and wake up at your destination,” said Mr. Musk, Tesla’s C.E.O., but some experts are skeptical that such cars will be ferrying passengers soon. |
 |[ByteDance lays off hundreds of TikTok employees in shift to AI content moderation.](https://techcrunch.com/2024/10/11/bytedance-lays-off-hundreds-of-tiktok-employees-in-shift-to-ai-content-moderation/) |ByteDance’s TikTok is laying off hundreds of employees, mainly in Malaysia, according to Reuters. The cuts come as the social network is increasingly turning to AI for content moderation. The cuts do not impact employees in the U.S. |
 |[Microsoft Artificial Intelligence VP Bubeck to Join OpenAI.](https://finance.yahoo.com/news/microsoft-artificial-intelligence-vp-bubeck-193734013.html) | Microsoft Corp. said one of its artificial intelligence vice presidents, Sebastien Bubeck, is leaving to join OpenAI, where Microsoft is both the largest investor and a rival.|
-|[.]() | |
-|[.]() | |
+|[‘It’s not me, it’s just my face’: the models who found their likenesses had been used in AI propaganda.](https://www.theguardian.com/technology/2024/oct/16/its-not-me-its-just-my-face-the-models-who-found-their-likenesses-had-been-used-in-ai-propaganda) |London-based Synthesia’s technology was employed to make deepfake videos for authoritarian regimes |
+|[Amazon.com joins push for nuclear power to meet data center demand.](https://www.theguardian.com/technology/2024/oct/16/amazon-nuclear-power-data-center) |Company says it signed three agreements on developing small modular reactor nuclear power technology |
 |[.]() | |
 |[.]() | |
 |[.]() | |
