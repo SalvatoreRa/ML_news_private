@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Rejection Sampling IMLE: Designing Priors for Better Few-Shot Image Synthesis.](https://arxiv.org/abs/2409.17439) |Training generative models like GANs with limited data is challenging. Existing Implicit Maximum Likelihood Estimation (IMLE) methods suffer from poor alignment between the latent codes used during training and those used during inference. The proposed approach, RS-IMLE, modifies the prior distribution during training, resulting in better test-time performance and higher quality image generation. |
 |[Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models.](https://arxiv.org/abs/2410.11081) | This study introduces a unified framework aimed at enhancing training stability in continuous-time consistency models, leading to substantial improvements in the performance of generative models.|
 |[DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection.](https://arxiv.org/abs/2410.11181v1) | DARNet is an innovative model for auditory attention detection (AAD) that improves the decoding of brain signals, such as EEG, by integrating spatiotemporal and dual attention mechanisms.|
-|[.]() | |
+|[DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.](https://github.com/mit-han-lab/duo-attention) | DuoAttention is a framework designed to optimize memory usage and reduce latency in long-context large language models (LLMs) by selectively applying full key-value (KV) caching to only the most essential attention heads.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon.com joins push for nuclear power to meet data center demand.](https://www.theguardian.com/technology/2024/oct/16/amazon-nuclear-power-data-center) |Company says it signed three agreements on developing small modular reactor nuclear power technology |
 |[Un Ministral, des Ministraux.](https://mistral.ai/news/ministraux/) | On the first anniversary of Mistral 7B, Mistral launched two advanced models designed for on-device and edge computing: Ministral 3B and Ministral 8B. These models are optimized for tasks under 10 billion parameters, offering superior knowledge, reasoning, and efficiency. They also support a context length of up to 128k and deliver faster inference.|
 |[Former Palantir CISO Dane Stuckey joins OpenAI to lead security.](https://techcrunch.com/2024/10/15/former-palantir-ciso-dane-stuckey-joins-openai-to-lead-security/) |Dane Stuckey, the former CISO of analytics firm Palantir, has joined OpenAI as its newest CISO, serving alongside OpenAI head of security Matt Knight. |
-|[.]() | |
+|[Can AI really compete with human data scientists? OpenAI’s new benchmark puts it to the test.](https://venturebeat.com/ai/can-ai-really-compete-with-human-data-scientists-openai-new-benchmark-puts-it-to-the-test/) |OpenAI has introduced a new tool to measure artificial intelligence capabilities in machine learning engineering. The benchmark, called MLE-bench, challenges AI systems with 75 real-world data science competitions from Kaggle, a popular platform for machine learning contests. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
