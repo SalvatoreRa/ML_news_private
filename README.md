@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adobe’s AI video model is here, and it’s already inside Premiere Pro.](https://www.theverge.com/2024/10/14/24268695/adobe-ai-video-generation-firefly-model-premiere-pro) | New beta tools allow users to generate videos from images and prompts and extend existing clips in Premiere Pro.|
 |[Customize Audio Overviews with Google's NotebookLM.](https://blog.google/technology/ai/notebooklm-update-october-2024/) | NotebookLM now enables users to customize their Audio Overview experience, providing greater control over the areas of focus and expertise of the AI hosts. Companies can apply for the new NotebookLM Business pilot program, which includes improved tools designed for professional applications.|
 |[Combining next-token prediction and video diffusion in computer vision and robotics.](https://news.mit.edu/2024/combining-next-token-prediction-video-diffusion-computer-vision-robotics-1016) | A new method can train a neural network to sort corrupted data while anticipating next steps. It can make flexible plans for robots, generate high-quality video, and help AI agents navigate digital environments.|
-|[.]() | |
+|[Nvidia just dropped a new AI model that crushes OpenAI’s GPT-4—no big launch, just big results.](https://venturebeat.com/ai/nvidia-just-dropped-a-new-ai-model-that-crushes-openais-gpt-4-no-big-launch-just-big-results/) |Nvidia quietly unveiled a new artificial intelligence model on Tuesday that outperforms offerings from industry leaders OpenAI and Anthropic, marking a significant shift in the company’s AI strategy and potentially reshaping the competitive landscape of the field. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
