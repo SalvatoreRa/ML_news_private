@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LongAlign.](https://github.com/luping-liu/longalign) |LongAlign enhances the capability of text-to-image (T2I) diffusion models to process lengthy text inputs by incorporating segment-level encoding and a decomposed preference optimization approach. |
 |[Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective.](https://github.com/DAMO-NLP-SG/DiGIT) |DiGIT is an auto-regressive generative model that forecasts tokens in a latent space through self-supervised learning. This discrete tokenizer enhances image generation on ImageNet by clustering hidden states derived from DINOv2. |
 |[FL-Launching (Fling).](https://github.com/FLAIR-Community/Fling) | The FedPart method tackles the layer mismatch problem in federated learning by limiting model updates to designated layers in each training round.|
-|[.]() | |
+|[Distributed Training Guide.](https://github.com/LambdaLabsML/distributed-training-guide) |This is an in-depth guide on best practices for distributed training, troubleshooting errors, and maximizing the use of available resources. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
