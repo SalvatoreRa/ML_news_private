@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models.](https://arxiv.org/abs/2410.11081) | This study introduces a unified framework aimed at enhancing training stability in continuous-time consistency models, leading to substantial improvements in the performance of generative models.|
 |[DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection.](https://arxiv.org/abs/2410.11181v1) | DARNet is an innovative model for auditory attention detection (AAD) that improves the decoding of brain signals, such as EEG, by integrating spatiotemporal and dual attention mechanisms.|
 |[DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.](https://github.com/mit-han-lab/duo-attention) | DuoAttention is a framework designed to optimize memory usage and reduce latency in long-context large language models (LLMs) by selectively applying full key-value (KV) caching to only the most essential attention heads.|
-|[.]() | |
+|[Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement.](https://arxiv.org/abs/2410.11448) | Meta Decision Transformer (Meta-DT) aims to enhance generalization in reinforcement learning by integrating transformer-based sequential modeling with effective task representation learning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration.](https://github.com/renlanghuang/cast) | Researchers have developed a novel consistency-aware spot-guided Transformer designed to improve the efficiency and accuracy of point cloud registration.|
 |[Ditto - the simplest self-building coding agent.](https://github.com/yoheinakajima/ditto) |Ditto is a user-friendly tool that allows you to generate a multi-file Flask application from simple natural language descriptions using a no-code interface. By leveraging a simple LLM loop with a few tools, Ditto automates the coding process, (occasionally) turning your ideas into functional web applications (or at least trying and getting close). |
 |[F5 Text-to-Speech System.](https://github.com/lucasnewman/f5-tts-mlx) | F5-TTS is a non-autoregressive, zero-shot text-to-speech system featuring a flow-matching mel spectrogram generator and a diffusion transformer. Developed on the MLX framework, F5 outperforms earlier systems such as E2 TTS by incorporating ConvNeXT v2 blocks for improved text alignment, enabling high-quality speech generation in approximately 11 seconds on modern hardware.|
-|[.]() | |
+|[Movie Gen Bench.](https://github.com/facebookresearch/MovieGenBench) |"Movie Gen Bench" is an evaluation benchmark designed to assess performance in both video (Video Bench) and audio (Audio Bench). It includes 1,003 prompts that encompass a variety of testing aspects and concepts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
