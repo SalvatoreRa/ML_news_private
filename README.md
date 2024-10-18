@@ -149,9 +149,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ditto - the simplest self-building coding agent.](https://github.com/yoheinakajima/ditto) |Ditto is a user-friendly tool that allows you to generate a multi-file Flask application from simple natural language descriptions using a no-code interface. By leveraging a simple LLM loop with a few tools, Ditto automates the coding process, (occasionally) turning your ideas into functional web applications (or at least trying and getting close). |
 |[F5 Text-to-Speech System.](https://github.com/lucasnewman/f5-tts-mlx) | F5-TTS is a non-autoregressive, zero-shot text-to-speech system featuring a flow-matching mel spectrogram generator and a diffusion transformer. Developed on the MLX framework, F5 outperforms earlier systems such as E2 TTS by incorporating ConvNeXT v2 blocks for improved text alignment, enabling high-quality speech generation in approximately 11 seconds on modern hardware.|
 |[Movie Gen Bench.](https://github.com/facebookresearch/MovieGenBench) |"Movie Gen Bench" is an evaluation benchmark designed to assess performance in both video (Video Bench) and audio (Audio Bench). It includes 1,003 prompts that encompass a variety of testing aspects and concepts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LongAlign.](https://github.com/luping-liu/longalign) |LongAlign enhances the capability of text-to-image (T2I) diffusion models to process lengthy text inputs by incorporating segment-level encoding and a decomposed preference optimization approach. |
+|[Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective.](https://github.com/DAMO-NLP-SG/DiGIT) |DiGIT is an auto-regressive generative model that forecasts tokens in a latent space through self-supervised learning. This discrete tokenizer enhances image generation on ImageNet by clustering hidden states derived from DINOv2. |
+|[FL-Launching (Fling).](https://github.com/FLAIR-Community/Fling) | The FedPart method tackles the layer mismatch problem in federated learning by limiting model updates to designated layers in each training round.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
