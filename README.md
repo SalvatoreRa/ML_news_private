@@ -57,23 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection.](https://arxiv.org/abs/2410.11181v1) | DARNet is an innovative model for auditory attention detection (AAD) that improves the decoding of brain signals, such as EEG, by integrating spatiotemporal and dual attention mechanisms.|
 |[DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.](https://github.com/mit-han-lab/duo-attention) | DuoAttention is a framework designed to optimize memory usage and reduce latency in long-context large language models (LLMs) by selectively applying full key-value (KV) caching to only the most essential attention heads.|
 |[Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement.](https://arxiv.org/abs/2410.11448) | Meta Decision Transformer (Meta-DT) aims to enhance generalization in reinforcement learning by integrating transformer-based sequential modeling with effective task representation learning.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -113,10 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google supercharges Shopping tab with AI and personalized recommendation feed.](https://techcrunch.com/2024/10/15/google-supercharges-shopping-tab-with-ai-and-personalized-recommendation-feed/) | After bringing generative AI to Search in 2023, Google is supercharging its Shopping tab with the technology. The company announced on Tuesday that it will use AI to help users shop for products based on exactly what they’re looking for. It also launched a new scrollable feed of personalized, shoppable products. |
 |[Adobe’s Project Super Sonic uses AI to generate sound effects for your videos.](https://techcrunch.com/2024/10/15/adobes-project-super-sonic-uses-ai-to-generate-sound-effects-for-your-videos/) | Adobe's Project Super Sonic leverages text-to-audio technology, object recognition, and voice input to create audio effects for video projects.|
 |[White House considers expanding Nvidia’s and AMD’s AI chip export limits to additional countries.](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/) | The Biden administration is contemplating limitations on AI chip sales from Nvidia and AMD to countries in the Persian Gulf, citing national security concerns.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -153,16 +134,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective.](https://github.com/DAMO-NLP-SG/DiGIT) |DiGIT is an auto-regressive generative model that forecasts tokens in a latent space through self-supervised learning. This discrete tokenizer enhances image generation on ImageNet by clustering hidden states derived from DINOv2. |
 |[FL-Launching (Fling).](https://github.com/FLAIR-Community/Fling) | The FedPart method tackles the layer mismatch problem in federated learning by limiting model updates to designated layers in each training round.|
 |[Distributed Training Guide.](https://github.com/LambdaLabsML/distributed-training-guide) |This is an in-depth guide on best practices for distributed training, troubleshooting errors, and maximizing the use of available resources. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -185,13 +156,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI mediation tool may help reduce culture war rifts, say researchers.](https://www.theguardian.com/technology/2024/oct/17/ai-mediation-tool-may-help-reduce-culture-war-rifts-say-researchers) |System built by Google DeepMind team takes individual views and generates a set of group statements |
 |[Here’s the deal: AI giants get to grab all your data unless you say they can’t. Fancy that? No, neither do I.](https://www.theguardian.com/commentisfree/2024/oct/18/ai-systems-big-tech-data-ministers) | Data is vital to AI systems, so firms want the right to take it and ministers may let them. We must wake up to the danger|
 |[Where’s The Generative AI ROI? Start With The Supply Chain.](https://www.bigtechnology.com/p/wheres-the-generative-ai-roi-start) | Generative AI is revolutionizing supply chain operations by effectively managing unstructured documents, resulting in substantial time and cost savings. Flexport, a technology company focused on supply chain solutions, has effectively implemented AI to automate and optimize document management, cutting processing time by 80%. This use of AI highlights its practical value in revenue-generating activities rather than merely in theoretical advancements.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 7 - 13 October
 
