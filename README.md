@@ -97,7 +97,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -132,6 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
+|[Duolingo CEO Luis von Ahn wants you addicted to learning.](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder) |The cofounder of the world’s largest education app thinks AI and gamification can supercharge language learning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
