@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek's natively Multimodal model.](https://github.com/deepseek-ai/Janus) | DeepSeek has developed and launched a powerful 1.3 billion parameter model capable of processing interleaved text and images for both generation and comprehension.|
 |[Meta Lingua.](https://github.com/facebookresearch/lingua) | Meta has developed an easy-to-use and research-friendly codebase that can replicate Llama 2 7B within 24 hours.|
 |[Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization.](https://github.com/achernarwang/LiVO) | LiVO (Lightweight Value Optimization) is an innovative approach designed to align Text-to-Image models with human values.|
-|[.]() | |
+|[Easily hackable vision language model.](https://github.com/vikhyat/moondream/tree/main/moondream/torch) |A simple and performant VLM implementation in pure PyTorch |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[Duolingo CEO Luis von Ahn wants you addicted to learning.](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder) |The cofounder of the world’s largest education app thinks AI and gamification can supercharge language learning. |
+|[Duolingo CEO Luis von Ahn wants you addicted to learning.](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder) |Duolingo's CEO, Luis von Ahn, talks about utilizing AI and gamification to improve language learning through features such as chat interactions with AI avatars and AI-generated video game-like adventures. The company has recently launched Duolingo Max, a premium subscription plan that provides AI-driven conversation practice, capitalizing on the lower costs and faster development associated with AI-generated content. Although AI has limitations in engagement, Duolingo prioritizes maintaining user motivation by balancing effective learning with gamified, entertaining experiences. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
