@@ -105,9 +105,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta's latest open source releases.](https://ai.meta.com/blog/fair-news-segment-anything-2-1-meta-spirit-lm-layer-skip-salsa-lingua/) |Meta has introduced a significant array of valuable research tools, including a speech-to-speech model, enhancements to SAM, and numerous other intriguing developments. |
 |[One-Step Diffusion via Shortcut Models.](https://kvfrans.com/shortcut-models/) |Shortcut models represent a new category of consistency models that can produce continuous signals with minimal inference steps. |
 |[Zero-Shot 3D Visual Grounding.](https://runsenxu.com/projects/VLM-Grounder/) | VLM-Grounder is a novel approach to 3D visual grounding that addresses the shortcomings of conventional methods by leveraging vision-language models (VLMs) and 2D images.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DeepSeek's natively Multimodal model.](https://github.com/deepseek-ai/Janus) | DeepSeek has developed and launched a powerful 1.3 billion parameter model capable of processing interleaved text and images for both generation and comprehension.|
+|[Meta Lingua.](https://github.com/facebookresearch/lingua) | Meta has developed an easy-to-use and research-friendly codebase that can replicate Llama 2 7B within 24 hours.|
+|[Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization.](https://github.com/achernarwang/LiVO) | LiVO (Lightweight Value Optimization) is an innovative approach designed to align Text-to-Image models with human values.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
