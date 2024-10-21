@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inference Scaling for Long-Context Retrieval Augmented Generation.](https://arxiv.org/abs/2410.04343) |This study employs two strategies to explore scaling laws for Retrieval-Augmented Generation (RAG): in-context learning (DRAG) and iterative prompting (IterRAG). It discovers that RAG performance steadily enhances with an increase in effective context length when configurations are optimized. Additionally, under optimal conditions, increasing inference computation yields linear improvements in long-context RAG performance. This insight leads to the creation of a computation allocation model designed to offer practical guidance for optimal computation distribution in long-context RAG situations. |
 |[Agent S: An Open Agentic Framework that Uses Computers Like a Human.](https://arxiv.org/abs/2410.08164v1) |A novel open agentic framework has been developed to facilitate autonomous interactions with computers via a graphical user interface (GUI). Named Agent S, this framework addresses challenges such as knowledge acquisition, long-horizon planning, and managing dynamic interfaces. It introduces experience-augmented hierarchical planning that combines search and retrieval methods. Additionally, it utilizes an agent-computer interface to enable reasoning and control over GUI agents. Evaluation on the OSWorld benchmark demonstrates that Agent S surpasses the baseline by 9.37% in success rate, representing an 83.6% relative improvement, and sets a new state-of-the-art performance. |
 |[Exploring Model Kinship for Merging Large Language Models.](https://arxiv.org/abs/2410.12613) |The study introduces the concept of model kinship to assess the similarity between LLMs. This measure is utilized to develop a model merging strategy called Top-k Greedy Merging with Model Kinship, which enhances performance. The authors discover that this new criterion allows for effective and continuous model merging. |
-|[.]() | |
+|[On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability.](https://www.arxiv.org/abs/2409.19924) |The report highlights that the o1-preview model excels in self-evaluation and constraint-following. However, it also points out that these o1 models exhibit bottlenecks in decision-making and memory management, particularly in the context of spatial reasoning. Specifically, the models tend to generate redundant actions and face challenges in generalizing across spatially complex tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos.](https://arxiv.org/abs/2410.11831) |This proposal introduces a new point tracking model along with a semi-supervised training recipe that allows for the use of real videos without annotations during training. It generates pseudo-labels using readily available teacher models. This approach simplifies the architecture and training scheme, resulting in improved outcomes while utilizing 1000 times less data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
