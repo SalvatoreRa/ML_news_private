@@ -42,8 +42,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Thinking LLMs: General Instruction Following with Thought Generation.](https://arxiv.org/abs/2410.10630) | The proposed training method aims to enhance LLMs with thinking capabilities for general instruction-following without relying on human-annotated data. It employs an iterative search and optimization process to facilitate thought generation, allowing the model to learn without direct supervision. For each user instruction, potential thoughts are evaluated using a judge model, which scores only the responses to identify the best and worst options. The resulting full outputs are then used as selected and rejected pairs for DPO (termed Thought Preference Optimization in this paper). This approach demonstrates superior performance on AlpacaEval and Arena-Hard.|
+|[Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence.](https://arxiv.org/abs/2410.11163) | A new collaborative search algorithm is proposed to adapt LLMs using swarm intelligence, where a group of LLM experts collaboratively navigates the weight space to optimize a utility function that reflects various adaptation objectives. Experiments show that Model Swarms can effectively adjust LLM experts for a single task, multi-task domains, reward models, and a range of human interests. This approach outperforms 12 model composition baselines by up to 21.0% across different tasks and contexts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
