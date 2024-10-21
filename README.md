@@ -70,7 +70,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[US investigates 2.4m Tesla self-driving vehicles after reported collisions.](https://www.theguardian.com/technology/2024/oct/18/tesla-self-driving-car-investigation) | Road safety agency opens evaluation over reported collisions in low visibility|
 |[.]() | |
 |[.]() | |
 |[.]() | |
