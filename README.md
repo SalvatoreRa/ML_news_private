@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos.](https://arxiv.org/abs/2410.11831) |This proposal introduces a new point tracking model along with a semi-supervised training recipe that allows for the use of real videos without annotations during training. It generates pseudo-labels using readily available teacher models. This approach simplifies the architecture and training scheme, resulting in improved outcomes while utilizing 1000 times less data. |
 |[Meta's latest open source releases.](https://ai.meta.com/blog/fair-news-segment-anything-2-1-meta-spirit-lm-layer-skip-salsa-lingua/) |Meta has introduced a significant array of valuable research tools, including a speech-to-speech model, enhancements to SAM, and numerous other intriguing developments. |
 |[One-Step Diffusion via Shortcut Models.](https://kvfrans.com/shortcut-models/) |Shortcut models represent a new category of consistency models that can produce continuous signals with minimal inference steps. |
-|[.]() | |
+|[Zero-Shot 3D Visual Grounding.](https://runsenxu.com/projects/VLM-Grounder/) | VLM-Grounder is a novel approach to 3D visual grounding that addresses the shortcomings of conventional methods by leveraging vision-language models (VLMs) and 2D images.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
