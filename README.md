@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Exploring Model Kinship for Merging Large Language Models.](https://arxiv.org/abs/2410.12613) |The study introduces the concept of model kinship to assess the similarity between LLMs. This measure is utilized to develop a model merging strategy called Top-k Greedy Merging with Model Kinship, which enhances performance. The authors discover that this new criterion allows for effective and continuous model merging. |
 |[On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability.](https://www.arxiv.org/abs/2409.19924) |The report highlights that the o1-preview model excels in self-evaluation and constraint-following. However, it also points out that these o1 models exhibit bottlenecks in decision-making and memory management, particularly in the context of spatial reasoning. Specifically, the models tend to generate redundant actions and face challenges in generalizing across spatially complex tasks. |
 |[Sabotage evaluations for frontier models.](https://www.anthropic.com/research/sabotage-evaluations) |Anthropic has conducted several innovative evaluations to identify vulnerabilities and assess misalignment in large, powerful models. |
-|[.]() | |
+|[Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities.](https://arxiv.org/abs/2410.11190) |A powerful open-source initiative aimed at replicating GPT-4's speech capabilities has emerged. This model was trained by aligning multiple modalities using pre-trained audio and speech encoders, allowing it to achieve advanced speech recognition and generation functionalities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Shopping is getting a ‘for you’ feed of products.](https://www.theverge.com/2024/10/15/24268117/google-shopping-personalized-feed-products-ai) | Google Shopping is rolling out a personalized feed that shows you a stream of products you might like. The new feature, which is coming to mobile and desktop devices, shows up when you head to shopping.google.com.|
 |[TikTok owner sacks intern for allegedly sabotaging AI project.](https://www.theguardian.com/technology/2024/oct/21/tiktok-owner-bytedance-sacks-intern-for-allegedly-sabotaging-ai-project) | ByteDance dismissed person in August it says ‘maliciously interfered’ with training of artificial intelligence models |
 |[AlphaFold reveals how sperm and egg hook up in intimate detail.](https://www.nature.com/articles/d41586-024-03319-z) |Three sperm proteins work together as matchmakers to enable fertilization in vertebrates. |
-|[.]() | |
+|[xAI, Elon Musk’s AI startup, launches an API.](https://techcrunch.com/2024/10/21/xai-elon-musks-ai-startup-launches-an-api/) | In August, Elon Musk’s xAI promised to make Grok, the company’s flagship generative AI model powering a number of features on X, available via an API. Now, that API has arrived — albeit a bit bare-bones at the moment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
