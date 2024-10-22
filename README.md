@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon's AI Generator Tool Can Now Create Audio Ads.](https://www.adweek.com/commerce/amazons-ai-generator-tool-can-now-create-audio-ads/) | Soon, you’ll hear more audio ads on Amazon’s properties that were created with generative AI.|
 |[Google Shopping is getting a ‘for you’ feed of products.](https://www.theverge.com/2024/10/15/24268117/google-shopping-personalized-feed-products-ai) | Google Shopping is rolling out a personalized feed that shows you a stream of products you might like. The new feature, which is coming to mobile and desktop devices, shows up when you head to shopping.google.com.|
 |[TikTok owner sacks intern for allegedly sabotaging AI project.](https://www.theguardian.com/technology/2024/oct/21/tiktok-owner-bytedance-sacks-intern-for-allegedly-sabotaging-ai-project) | ByteDance dismissed person in August it says ‘maliciously interfered’ with training of artificial intelligence models |
-|[.]() | |
+|[AlphaFold reveals how sperm and egg hook up in intimate detail.](https://www.nature.com/articles/d41586-024-03319-z) |Three sperm proteins work together as matchmakers to enable fertilization in vertebrates. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
