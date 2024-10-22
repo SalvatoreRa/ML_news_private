@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta Lingua.](https://github.com/facebookresearch/lingua) | Meta has developed an easy-to-use and research-friendly codebase that can replicate Llama 2 7B within 24 hours.|
 |[Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization.](https://github.com/achernarwang/LiVO) | LiVO (Lightweight Value Optimization) is an innovative approach designed to align Text-to-Image models with human values.|
 |[Easily hackable vision language model.](https://github.com/vikhyat/moondream/tree/main/moondream/torch) |A simple and performant VLM implementation in pure PyTorch |
-|[.]() | |
+|[Anthropic Quickstarts.](https://github.com/anthropics/anthropic-quickstarts) |Anthropic Quickstarts provides developers with projects like a customer support agent and a financial data analyst to help them swiftly utilize the Anthropic API. These projects leverage Claude for natural language processing and incorporate interactive data visualization. Each quickstart comes with setup instructions and encourages contributions from the community. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Duolingo CEO Luis von Ahn wants you addicted to learning.](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder) |Duolingo's CEO, Luis von Ahn, talks about utilizing AI and gamification to improve language learning through features such as chat interactions with AI avatars and AI-generated video game-like adventures. The company has recently launched Duolingo Max, a premium subscription plan that provides AI-driven conversation practice, capitalizing on the lower costs and faster development associated with AI-generated content. Although AI has limitations in engagement, Duolingo prioritizes maintaining user motivation by balancing effective learning with gamified, entertaining experiences. |
-|[.]() | |
+|[State of AI Report 2024.](https://www.stateof.ai/2024-report-launch) | The 2024 State of AI Report notes that foundational models are increasingly being integrated into practical applications, with OpenAI leading the way in significant revenue generation. Key developments include the alignment of performance among leading research labs, a growing emphasis on planning and reasoning in large language model (LLM) research, and the extension of foundational models into multimodal domains. Despite facing regulatory hurdles, AI companies have seen a surge in valuation, though questions about their long-term sustainability remain.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
