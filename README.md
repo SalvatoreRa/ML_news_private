@@ -80,9 +80,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TikTok owner sacks intern for allegedly sabotaging AI project.](https://www.theguardian.com/technology/2024/oct/21/tiktok-owner-bytedance-sacks-intern-for-allegedly-sabotaging-ai-project) | ByteDance dismissed person in August it says ‘maliciously interfered’ with training of artificial intelligence models |
 |[AlphaFold reveals how sperm and egg hook up in intimate detail.](https://www.nature.com/articles/d41586-024-03319-z) |Three sperm proteins work together as matchmakers to enable fertilization in vertebrates. |
 |[xAI, Elon Musk’s AI startup, launches an API.](https://techcrunch.com/2024/10/21/xai-elon-musks-ai-startup-launches-an-api/) | In August, Elon Musk’s xAI promised to make Grok, the company’s flagship generative AI model powering a number of features on X, available via an API. Now, that API has arrived — albeit a bit bare-bones at the moment.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Jane Street Real-Time Market Data Forecasting.](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting) |This competition, hosted by Jane Street, challenges participants to build models using real-world data from production systems. The goal is to provide insights into the complexities of financial markets, requiring participants to apply their skills in data analysis and modeling to navigate the dynamic nature of market behavior. |
+|[OCP Summit 2024: The open future of networking hardware for AI.](https://engineering.fb.com/2024/10/15/data-infrastructure/open-future-networking-hardware-ai-ocp-2024-meta/) | At OCP 2024, Meta unveiled a next-generation disaggregated network fabric and new network hardware specifically designed for AI clusters. The company introduced the Disaggregated Scheduled Fabric (DSF), aimed at improving scalability and performance in AI training systems. Both the newly developed and existing hardware are optimized for high throughput and efficiency, providing open, vendor-agnostic solutions to support advanced AI applications.|
+|[Serve confirms delivery by robot expansion plans with Gen3 rollout.](https://newatlas.com/technology/serve-robotics-third-generation-autonomous-delivery-robot/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
