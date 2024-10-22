@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization.](https://github.com/achernarwang/LiVO) | LiVO (Lightweight Value Optimization) is an innovative approach designed to align Text-to-Image models with human values.|
 |[Easily hackable vision language model.](https://github.com/vikhyat/moondream/tree/main/moondream/torch) |A simple and performant VLM implementation in pure PyTorch |
 |[Anthropic Quickstarts.](https://github.com/anthropics/anthropic-quickstarts) |Anthropic Quickstarts provides developers with projects like a customer support agent and a financial data analyst to help them swiftly utilize the Anthropic API. These projects leverage Claude for natural language processing and incorporate interactive data visualization. Each quickstart comes with setup instructions and encourages contributions from the community. |
-|[.]() | |
+|[BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities.](https://haoosz.github.io/BiGR/) | BiGR is an innovative image generation model that leverages compact binary latent codes to enhance both its generation and representation capabilities. It is the first model to integrate both generative and discriminative tasks within a unified framework. Key features of the model include binary tokenization and a distinctive entropy-ordered sampling technique, which contribute to its improved performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
