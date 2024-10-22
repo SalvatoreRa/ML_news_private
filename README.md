@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Easily hackable vision language model.](https://github.com/vikhyat/moondream/tree/main/moondream/torch) |A simple and performant VLM implementation in pure PyTorch |
 |[Anthropic Quickstarts.](https://github.com/anthropics/anthropic-quickstarts) |Anthropic Quickstarts provides developers with projects like a customer support agent and a financial data analyst to help them swiftly utilize the Anthropic API. These projects leverage Claude for natural language processing and incorporate interactive data visualization. Each quickstart comes with setup instructions and encourages contributions from the community. |
 |[BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities.](https://haoosz.github.io/BiGR/) | BiGR is an innovative image generation model that leverages compact binary latent codes to enhance both its generation and representation capabilities. It is the first model to integrate both generative and discriminative tasks within a unified framework. Key features of the model include binary tokenization and a distinctive entropy-ordered sampling technique, which contribute to its improved performance.|
-|[.]() | |
-|[.]() | |
+|[LongPiBench.](https://github.com/Rachum-thu/LongPiBench) |LongPiBench is a benchmark created to evaluate positional biases in large language models (LLMs) when handling long contexts. It focuses on identifying biases that stem from the spacing between multiple relevant pieces of information, providing a targeted way to assess how well models handle long-range dependencies in text. |
+|[CLaMP 2: Multimodal Music Information Retrieval Across 101 Languages Using Large Language Models.](https://github.com/sanderwood/clamp2) | Clamp2 is a contrastive model designed for aligning music and text. It uses contrastive learning techniques to match and relate musical elements with corresponding textual descriptions, enhancing the ability to process and generate music-related text in alignment with audio.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
