@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Boston Dynamics teams with TRI to bring AI smarts to Atlas humanoid robot.](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/) |Boston Dynamics and Toyota Research Institute are partnering to integrate advanced AI and large behavior models into the electric Atlas humanoid robot. This collaboration aims to enhance the robot's capabilities, enabling more sophisticated and autonomous behaviors in tasks that require human-like movement and decision-making. |
 |[Microsoft introduces ‘AI employees’ that can handle client queries.](https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks) |US company gives customers the ability to build own virtual agents as well as releasing 10 off-the-shelf bots |
 |[Thom Yorke and Julianne Moore join thousands of creatives in AI warning.](https://www.theguardian.com/film/2024/oct/22/thom-yorke-and-julianne-moore-join-thousands-of-creatives-in-ai-warning) | Statement comes as tech firms try to use creative professionals’ work to train AI models|
-|[.]() | |
+|[Claude AI tool can now carry out jobs such as filling forms and booking trips, says creator.](https://www.theguardian.com/technology/2024/oct/23/claude-ai-anthropic-computer-tasks-form-filling-booking-trips) |Anthropic says model is able to carry out computer tasks – as fears mount such technology will replace workers |
 |[.]() | |
 |[.]() | |
 |[.]() | |
