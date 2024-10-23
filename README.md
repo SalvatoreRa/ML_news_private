@@ -119,6 +119,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 Stability AI has launched a new series of models featuring enhanced performance and faster speeds. These models come with built-in Diffusers support, allowing for immediate training capabilities|
 |[3D-GANTex: 3D Face Reconstruction with StyleGAN3-based Multi-View Images and 3DDFA based Mesh Generation.](https://arxiv.org/abs/2410.16009v1) |This paper presents a novel approach for estimating face texture and geometry from a single image by combining StyleGAN with 3D Morphable Models. |
 |[Moonshine.](https://github.com/usefulsensors/moonshine) | Moonshine is a family of speech-to-text models optimized for fast and accurate automatic speech recognition (ASR) on resource-constrained devices. It is well-suited to real-time, on-device applications like live transcription and voice command recognition.|
+|[PocketPal AI.](https://github.com/a-ghorbani/pocketpal-ai) |PocketPal AI is a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone. Designed for both iOS and Android, PocketPal AI lets you interact with various SLMs without the need for an internet connection. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
