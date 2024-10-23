@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability.](https://www.arxiv.org/abs/2409.19924) |The report highlights that the o1-preview model excels in self-evaluation and constraint-following. However, it also points out that these o1 models exhibit bottlenecks in decision-making and memory management, particularly in the context of spatial reasoning. Specifically, the models tend to generate redundant actions and face challenges in generalizing across spatially complex tasks. |
 |[Sabotage evaluations for frontier models.](https://www.anthropic.com/research/sabotage-evaluations) |Anthropic has conducted several innovative evaluations to identify vulnerabilities and assess misalignment in large, powerful models. |
 |[Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities.](https://arxiv.org/abs/2410.11190) |A powerful open-source initiative aimed at replicating GPT-4's speech capabilities has emerged. This model was trained by aligning multiple modalities using pre-trained audio and speech encoders, allowing it to achieve advanced speech recognition and generation functionalities. |
-|[.]() | |
+|[Automatically Interpreting Millions of Features in Large Language Models.](https://arxiv.org/abs/2410.13928) |Interpreting SAE features on a large scale can be difficult. To address this, Eleuther has introduced a set of automatic interpreter features designed to help understand the meaning of elements within their context. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning.](https://github.com/cxcscmu/montessori-instruct) | Montessori-Instruct is a novel framework designed to generate synthetic data that aligns with a student language model's learning process. It adapts the data produced by the teacher model to fit the student's learning preferences by leveraging local data influence and Direct Preference Optimization (DPO), optimizing the training experience for the student model.|
 |[Stable Diffusion 3.5.](https://stability.ai/news/introducing-stable-diffusion-3-5) | 
 Stability AI has launched a new series of models featuring enhanced performance and faster speeds. These models come with built-in Diffusers support, allowing for immediate training capabilities|
-|[.]() | |
+|[CamI2V: Camera-Controlled Image-to-Video Diffusion Model.](https://arxiv.org/abs/2410.15957v2) | Epipolar attention enhances camera control in text-to-video models by incorporating physical constraints. This innovative technique maintains frame relationships effectively, even in the presence of noise and rapid movement, surpassing the limitations of earlier approaches.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
