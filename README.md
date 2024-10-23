@@ -117,9 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning.](https://github.com/cxcscmu/montessori-instruct) | Montessori-Instruct is a novel framework designed to generate synthetic data that aligns with a student language model's learning process. It adapts the data produced by the teacher model to fit the student's learning preferences by leveraging local data influence and Direct Preference Optimization (DPO), optimizing the training experience for the student model.|
 |[Stable Diffusion 3.5.](https://stability.ai/news/introducing-stable-diffusion-3-5) | 
 Stability AI has launched a new series of models featuring enhanced performance and faster speeds. These models come with built-in Diffusers support, allowing for immediate training capabilities|
-|[CamI2V: Camera-Controlled Image-to-Video Diffusion Model.](https://arxiv.org/abs/2410.15957v2) | Epipolar attention enhances camera control in text-to-video models by incorporating physical constraints. This innovative technique maintains frame relationships effectively, even in the presence of noise and rapid movement, surpassing the limitations of earlier approaches.|
-|[.]() | |
-|[.]() | |
+|[3D-GANTex: 3D Face Reconstruction with StyleGAN3-based Multi-View Images and 3DDFA based Mesh Generation.](https://arxiv.org/abs/2410.16009v1) |This paper presents a novel approach for estimating face texture and geometry from a single image by combining StyleGAN with 3D Morphable Models. |
+|[Moonshine.](https://github.com/usefulsensors/moonshine) | Moonshine is a family of speech-to-text models optimized for fast and accurate automatic speech recognition (ASR) on resource-constrained devices. It is well-suited to real-time, on-device applications like live transcription and voice command recognition.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
