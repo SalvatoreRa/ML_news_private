@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft introduces ‘AI employees’ that can handle client queries.](https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks) |US company gives customers the ability to build own virtual agents as well as releasing 10 off-the-shelf bots |
 |[Thom Yorke and Julianne Moore join thousands of creatives in AI warning.](https://www.theguardian.com/film/2024/oct/22/thom-yorke-and-julianne-moore-join-thousands-of-creatives-in-ai-warning) | Statement comes as tech firms try to use creative professionals’ work to train AI models|
 |[Claude AI tool can now carry out jobs such as filling forms and booking trips, says creator.](https://www.theguardian.com/technology/2024/oct/23/claude-ai-anthropic-computer-tasks-form-filling-booking-trips) |Anthropic says model is able to carry out computer tasks – as fears mount such technology will replace workers |
-|[.]() | |
+|[Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku.](https://www.anthropic.com/news/3-5-models-and-computer-use) |Anthropic has enhanced Sonnet 3.5's capabilities and introduced a more affordable version that delivers the same performance as the previous Claude 3 Opus. Furthermore, Sonnet 3.5 has been trained with screen recordings, enabling it to operate computers and interact with user interfaces. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CLaMP 2: Multimodal Music Information Retrieval Across 101 Languages Using Large Language Models.](https://github.com/sanderwood/clamp2) | Clamp2 is a contrastive model designed for aligning music and text. It uses contrastive learning techniques to match and relate musical elements with corresponding textual descriptions, enhancing the ability to process and generate music-related text in alignment with audio.|
 |[bitnet.cpp.](https://github.com/microsoft/BitNet) | Microsoft has released an inference repository for its 1.58 Bit models, which, when properly trained, are capable of running efficiently on consumer hardware. This development allows for more accessible deployment of advanced AI models without requiring high-end computational resources.|
 |[Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning.](https://github.com/cxcscmu/montessori-instruct) | Montessori-Instruct is a novel framework designed to generate synthetic data that aligns with a student language model's learning process. It adapts the data produced by the teacher model to fit the student's learning preferences by leveraging local data influence and Direct Preference Optimization (DPO), optimizing the training experience for the student model.|
-|[.]() | |
+|[Stable Diffusion 3.5.](https://stability.ai/news/introducing-stable-diffusion-3-5) | 
+Stability AI has launched a new series of models featuring enhanced performance and faster speeds. These models come with built-in Diffusers support, allowing for immediate training capabilities|
 |[.]() | |
 |[.]() | |
 |[.]() | |
