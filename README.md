@@ -88,6 +88,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Thom Yorke and Julianne Moore join thousands of creatives in AI warning.](https://www.theguardian.com/film/2024/oct/22/thom-yorke-and-julianne-moore-join-thousands-of-creatives-in-ai-warning) | Statement comes as tech firms try to use creative professionals’ work to train AI models|
 |[Claude AI tool can now carry out jobs such as filling forms and booking trips, says creator.](https://www.theguardian.com/technology/2024/oct/23/claude-ai-anthropic-computer-tasks-form-filling-booking-trips) |Anthropic says model is able to carry out computer tasks – as fears mount such technology will replace workers |
 |[Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku.](https://www.anthropic.com/news/3-5-models-and-computer-use) |Anthropic has enhanced Sonnet 3.5's capabilities and introduced a more affordable version that delivers the same performance as the previous Claude 3 Opus. Furthermore, Sonnet 3.5 has been trained with screen recordings, enabling it to operate computers and interact with user interfaces. |
+|[ChatGPT has a Windows app now .](https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai) | The app, which is currently in testing, is only available to ChatGPT subscribers for now.|
+|[Adobe's new image rotation tool is one of the most impressive AI concepts we've seen.](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) |Adobe's Project Turntable leverages AI to rotate 2D vector art in 3D, allowing the artwork to be viewed from various angles while preserving its 2D look and design integrity. This innovative technique ensures that the visual style remains consistent, even as the artwork is transformed in three-dimensional space. |
+|[Perplexity lets you search your internal enterprise files and the web.](https://venturebeat.com/ai/perplexity-lets-you-search-your-internal-enterprise-files-and-the-web/) |Enterprises can use their Perplexity dashboards to search for internal information and combine it with knowledge from the internet, but this will only be limited to specific files they deem important.  |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
