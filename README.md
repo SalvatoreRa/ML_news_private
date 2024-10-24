@@ -156,7 +156,7 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[AI scans RNA ‘dark matter’ and uncovers 70,000 new viruses.](https://www.nature.com/articles/d41586-024-03320-6) |Many are bizarre and live in salt lakes, hydrothermal vents and other extreme environments. |
 |[Build an international AI ‘telescope’ to curb the power of big tech companies.](https://www.nature.com/articles/d41586-024-03436-9) | Artificial intelligence (AI) technologies have reached a crucial juncture. The vast computing clusters required to train the most advanced generative AI systems are available only to a few large corporations.|
 |[Was the Nobel prize for physics? Yes — not that it matters.](https://www.nature.com/articles/d41586-024-03435-w) |The award of the 2024 Nobel Prize in Physics to John Hopfield and Geoffrey Hinton for their groundbreaking research on artificial neural networks  has caused consternation in some quarters. Surely this is computer science, not physics? |
-|[.]() | |
+|[How I peer into the geometry behind computer vision.](https://www.nature.com/articles/d41586-024-03407-0) |Minh Ha Quang’s work at a Japanese AI research centre aims to understand how machines extract image data from the real world. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
