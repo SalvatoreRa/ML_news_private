@@ -154,8 +154,8 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[Use Prolog to improve LLM's reasoning.](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning) |Current methods such as Chain-of-Thought (CoT) reasoning and the integration of programming languages like Prolog can enhance the reasoning abilities of LLMs, helping to mitigate the limitations of autoregressive models. The paper "Reliable Reasoning Beyond Natural Language" introduces a neurosymbolic approach that employs Prolog to translate requests into symbolic logic, enhancing both explainability and problem-solving capabilities. ProSLM, the model developed in this research, has shown substantial improvements on various datasets, highlighting the potential of combining Prolog with LLMs for tackling complex reasoning tasks. |
 |[AI watermarking must be watertight to be effective.](https://www.nature.com/articles/d41586-024-03418-x) |Scientists are closing in on a tool that can reliably identify AI-generated text without affecting the user’s experience. But the technology’s robustness remains a challenge. |
 |[AI scans RNA ‘dark matter’ and uncovers 70,000 new viruses.](https://www.nature.com/articles/d41586-024-03320-6) |Many are bizarre and live in salt lakes, hydrothermal vents and other extreme environments. |
-|[.]() | |
-|[.]() | |
+|[Build an international AI ‘telescope’ to curb the power of big tech companies.](https://www.nature.com/articles/d41586-024-03436-9) | Artificial intelligence (AI) technologies have reached a crucial juncture. The vast computing clusters required to train the most advanced generative AI systems are available only to a few large corporations.|
+|[Was the Nobel prize for physics? Yes — not that it matters.](https://www.nature.com/articles/d41586-024-03435-w) |The award of the 2024 Nobel Prize in Physics to John Hopfield and Geoffrey Hinton for their groundbreaking research on artificial neural networks  has caused consternation in some quarters. Surely this is computer science, not physics? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
