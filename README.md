@@ -133,6 +133,8 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[Introducing SynthID Text.](https://huggingface.co/blog/synthid-text) |SynthID is a method for statistically watermarking generated text. It employs a pseudorandom function after the top-k and top-p sampling steps to embed a mark within the text. A probabilistic Bayesian approach is then used to detect whether the text has been watermarked, indicating it was produced by a language model. |
 |[Transformers.js v3: WebGPU Support, New Models & Tasks, and More….](https://huggingface.co/blog/transformersjs-v3) |Transformers JS is a JavaScript library designed to run machine learning models, and it now supports WebGPU, offering up to 1,000x faster performance in some cases. The latest version provides access to over 1,200 models, making it well-suited for edge and browser-based applications. |
 |[Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages.](https://neulab.github.io/Pangea/) |We present Pangea-7B, an open multilingual multimodal language model (MLLM) developed to address multilingual and multicultural challenges in visual understanding tasks. Pangea-7B is trained on PangeaIns, a comprehensive dataset consisting of 6 million instructions across 39 languages. |
+|[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree.](https://mark12ding.github.io/project/SAM2Long/) | SAM2Long solves the "error accumulation" problem found in SAM 2's memory design by implementing a training-free strategy for video object segmentation.|
+|[Agent.exe.](https://github.com/corbt/agent.exe) |A convenient wrapper for Anthropic's computer use system simplifies its usage and execution, making it more user-friendly and accessible. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,6 +144,12 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
