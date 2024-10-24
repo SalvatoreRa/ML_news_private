@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mitigating Object Hallucination via Concentric Causal Attention.](https://github.com/xing0047/cca-llava) |Object hallucination in vision-language models has been associated with Rotary Position Encoding (RoPE), which faces challenges in managing long-term dependencies between visual and textual inputs. To overcome this, the authors introduce Concentric Causal Attention (CCA), a novel positional alignment method that enhances the interaction between visual elements and instruction tokens. |
 |[Simplifying, stabilizing, and scaling continuous-time consistency models.](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/) | OpenAI has published work focusing on enhancing consistency models, which operate in two steps rather than the 1,000 steps typically used in diffusion models. While these models still depend on distillation from an existing diffusion model, the research seeks to improve their performance and stability as they scale.|
 |[All you need are 32 tokens to represent video.](https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html) |Salesforce's new approach introduces a novel video encoder that significantly reduces the number of tokens needed for accurate representation. While similar attempts in the past have seen limited success, the breakthrough appears to come from combining an explicit temporal encoder with a spatial encoder, enabling more efficient video processing. |
-|[.]() | |
+|[CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing.](https://github.com/uclaml/cops) | CoPS is a novel algorithm that improves agents' sequential reasoning by allowing them to share experiences across various tasks, enhancing their overall learning and adaptability.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages.](https://neulab.github.io/Pangea/) |We present Pangea-7B, an open multilingual multimodal language model (MLLM) developed to address multilingual and multicultural challenges in visual understanding tasks. Pangea-7B is trained on PangeaIns, a comprehensive dataset consisting of 6 million instructions across 39 languages. |
 |[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree.](https://mark12ding.github.io/project/SAM2Long/) | SAM2Long solves the "error accumulation" problem found in SAM 2's memory design by implementing a training-free strategy for video object segmentation.|
 |[Agent.exe.](https://github.com/corbt/agent.exe) |A convenient wrapper for Anthropic's computer use system simplifies its usage and execution, making it more user-friendly and accessible. |
-|[.]() | |
+|[TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight.](https://github.com/blue-531/talos) |TALoS is a method that enhances scene completion for autonomous vehicles by leveraging observations from different time points as supervision for making more accurate predictions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
