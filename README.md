@@ -91,9 +91,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT has a Windows app now .](https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai) | The app, which is currently in testing, is only available to ChatGPT subscribers for now.|
 |[Adobe's new image rotation tool is one of the most impressive AI concepts we've seen.](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen) |Adobe's Project Turntable leverages AI to rotate 2D vector art in 3D, allowing the artwork to be viewed from various angles while preserving its 2D look and design integrity. This innovative technique ensures that the visual style remains consistent, even as the artwork is transformed in three-dimensional space. |
 |[Perplexity lets you search your internal enterprise files and the web.](https://venturebeat.com/ai/perplexity-lets-you-search-your-internal-enterprise-files-and-the-web/) |Enterprises can use their Perplexity dashboards to search for internal information and combine it with knowledge from the internet, but this will only be limited to specific files they deem important. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI, Microsoft reportedly hire banks to renegotiate partnership terms.](https://siliconangle.com/2024/10/18/openai-microsoft-reportedly-hire-banks-renegotiate-partnership-terms/) |OpenAI and Microsoft are in discussions regarding the terms of their partnership, with Microsoft aiming to acquire a substantial stake in OpenAI following its restructuring. |
+|[Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup.](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) |This startup will reportedly focus on building AI products based on proprietary models and could raise more than $100 million in this round. |
+|[Midjourney plans to let anyone on the web edit images with AI.](https://techcrunch.com/2024/10/19/midjourney-plans-to-let-anyone-on-the-web-edit-images-with-ai/) | Midjourney is planning to release an upgraded web tool that’ll let users edit any uploaded images from the web using Midjourney’s generative AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
