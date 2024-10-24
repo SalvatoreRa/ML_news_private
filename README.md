@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities.](https://arxiv.org/abs/2410.11190) |A powerful open-source initiative aimed at replicating GPT-4's speech capabilities has emerged. This model was trained by aligning multiple modalities using pre-trained audio and speech encoders, allowing it to achieve advanced speech recognition and generation functionalities. |
 |[Automatically Interpreting Millions of Features in Large Language Models.](https://arxiv.org/abs/2410.13928) |Interpreting SAE features on a large scale can be difficult. To address this, Eleuther has introduced a set of automatic interpreter features designed to help understand the meaning of elements within their context. |
 |[Mitigating Object Hallucination via Concentric Causal Attention.](https://github.com/xing0047/cca-llava) |Object hallucination in vision-language models has been associated with Rotary Position Encoding (RoPE), which faces challenges in managing long-term dependencies between visual and textual inputs. To overcome this, the authors introduce Concentric Causal Attention (CCA), a novel positional alignment method that enhances the interaction between visual elements and instruction tokens. |
-|[.]() | |
+|[Simplifying, stabilizing, and scaling continuous-time consistency models.](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/) | OpenAI has published work focusing on enhancing consistency models, which operate in two steps rather than the 1,000 steps typically used in diffusion models. While these models still depend on distillation from an existing diffusion model, the research seeks to improve their performance and stability as they scale.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -130,7 +130,7 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[PocketPal AI.](https://github.com/a-ghorbani/pocketpal-ai) |PocketPal AI is a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone. Designed for both iOS and Android, PocketPal AI lets you interact with various SLMs without the need for an internet connection. |
 |[Introducing the prompt() Function: Use the Power of LLMs with SQL!.](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/) |The costs of operating LLMs have dropped considerably, making it feasible to incorporate smaller models like gpt-4o-mini into SQL functions. MotherDuck's PROMPT() function simplifies tasks such as text generation, summarization, and structured data extraction using OpenAI models. It provides flexibility in balancing cost and performance, while also supporting bulk operations with improved concurrency for more efficient processing. |
 |[Anthropic Computer Use Demo.](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo) |A quick example of Claude Sonnet's 3.5 new computer use capabilities. |
-|[.]() | |
+|[Introducing SynthID Text.](https://huggingface.co/blog/synthid-text) |SynthID is a method for statistically watermarking generated text. It employs a pseudorandom function after the top-k and top-p sampling steps to embed a mark within the text. A probabilistic Bayesian approach is then used to detect whether the text has been watermarked, indicating it was produced by a language model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
