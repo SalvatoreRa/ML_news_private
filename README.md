@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cohere's multilingual model's dramatic improvement.](https://cohere.com/blog/aya-expanse-connecting-our-world) |The Aya project, a standout initiative in multilingual language model training, has made impressive strides since its launch earlier this year. Much of its performance improvement is attributed to effective post-training strategies. Additionally, Aya can handle audio input and create images, all from non-English sources. |
 |[Introducing the analysis tool in Claude.ai.](https://www.anthropic.com/news/analysis-tool) | Claude can now write and execute code as part of artifacts.|
 |[Gurman: Apple internally believes that it’s at least two years behind in AI development.](https://9to5mac.com/2024/10/20/gurman-apple-intelligence-ai-two-years/) |According to the latest edition of Mark Gurman’s Power On newsletter, some employees at Apple believe that the company is around two years behind in artificial intelligence development. |
-|[.]() | |
-|[.]() | |
+|[Perplexity is reportedly looking to fundraise at an $8B valuation.](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) | AI search engine Perplexity is in fundraising talks and hopes to raise around $500 million at an $8 billion valuation, according to The Wall Street Journal.|
+|[Chinese humanoid robot is the 'fastest in the world' thanks to its trusty pair of sneakers.](https://www.livescience.com/technology/robotics/chinese-scientists-build-fastest-humanoid-robot-in-the-world-watch-it-run-across-the-gobi-desert) |The STAR1 robot can reach a top speed of 8 mph with the added help of a pair of sneakers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
