@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Midjourney plans to let anyone on the web edit images with AI.](https://techcrunch.com/2024/10/19/midjourney-plans-to-let-anyone-on-the-web-edit-images-with-ai/) | Midjourney is planning to release an upgraded web tool that’ll let users edit any uploaded images from the web using Midjourney’s generative AI.|
 |[Intel wins lengthy EU legal battle over £880m competition fine.](https://www.theguardian.com/technology/2024/oct/24/intel-legal-battle-against-eu-880m-fine-competition) |Chipmaker disputed 2009 decision that it abused its market position in case dating back two decades |
 |[Cohere's multilingual model's dramatic improvement.](https://cohere.com/blog/aya-expanse-connecting-our-world) |The Aya project, a standout initiative in multilingual language model training, has made impressive strides since its launch earlier this year. Much of its performance improvement is attributed to effective post-training strategies. Additionally, Aya can handle audio input and create images, all from non-English sources. |
-|[.]() | |
+|[Introducing the analysis tool in Claude.ai.](https://www.anthropic.com/news/analysis-tool) | Claude can now write and execute code as part of artifacts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -167,7 +167,7 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[How I peer into the geometry behind computer vision.](https://www.nature.com/articles/d41586-024-03407-0) |Minh Ha Quang’s work at a Japanese AI research centre aims to understand how machines extract image data from the real world. |
 |[AI Dreams: Microsoft @ 50, Chapter 1.](https://www.geekwire.com/2024/ai-dreams-microsoft-50-chapter-1/) |Microsoft's research on AI robustness led the company to invest billions in AI infrastructure, driving breakthroughs with partners such as OpenAI. This investment has played a key role in Microsoft's rapid growth in AI-powered products, highlighted by the success of GitHub Copilot. Despite facing competition and balancing sustainability goals, Microsoft remains committed to AI, with record capital expenditures on its AI and cloud infrastructure. |
 |[Future of Internet in the age of AI.](https://crazystupidtech.com/archive/future-of-internet-in-the-age-of-ai/) | In this article, Cloudflare CEO Matthew Prince explores AI's influence on internet infrastructure, emphasizing the need for AI-capable edge computing and local inference to minimize network latency. He underscores the significance of regionalization in AI services to address regulatory challenges and outlines Cloudflare's strategy of developing a connectivity-focused network. Cloudflare's goal is to enhance internet connectivity by making it faster, more secure, and more efficient, closely aligning its efforts with advancements in AI technologies.|
-|[.]() | |
+|[How Jacob Collier helped shape the new MusicFX DJ.](https://blog.google/technology/ai/jacob-collier-labs-sessions/) |Grammy-winning musician Jacob Collier has partnered with Google DeepMind and Google Labs to develop MusicFX DJ, an AI-driven music tool. The tool’s interface has been revamped to foster creativity, making it easy for users to tap into a "flow state" of artistic inspiration. MusicFX DJ is now available, featuring user-friendly controls suitable for all experience levels. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
