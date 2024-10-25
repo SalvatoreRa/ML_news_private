@@ -138,9 +138,9 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight.](https://github.com/blue-531/talos) |TALoS is a method that enhances scene completion for autonomous vehicles by leveraging observations from different time points as supervision for making more accurate predictions. |
 |[OmniParser for Pure Vision Based GUI Agent.](https://microsoft.github.io/OmniParser/) | Screenshot parsing tool for models to use digital interfaces.|
 |[Introducing quantized Llama models with increased speed and a reduced memory footprint.](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/) |Meta has optimized its 1B and 3B language models by applying quantization, achieving a 2-4x speed increase and reducing model size by over 50% with minimal quality loss. This improvement is made possible by its quantization-aware training setup, allowing the models to adapt to lower precision effectively. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs.](https://arxiv.org/abs/2410.17001v1) |An effective and straightforward approach for upsampling and refining point clouds utilizes a modified octree-based 3D U-Net, known as OUNet. |
+|[ExecuTorch.](https://github.com/pytorch/executorch) |ExecuTorch supports on-device inference across mobile and edge devices, including wearables, embedded systems, and microcontrollers. It facilitates the efficient deployment of PyTorch models to edge environments and is compatible with various computing platforms, leveraging hardware capabilities like CPUs, NPUs, and DSPs. Comprehensive tutorials provide guidance on using ExecuTorch step-by-step. |
+|[Federated Transformer (FeT).](https://github.com/xtra-computing/fet) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
