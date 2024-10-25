@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI, Microsoft reportedly hire banks to renegotiate partnership terms.](https://siliconangle.com/2024/10/18/openai-microsoft-reportedly-hire-banks-renegotiate-partnership-terms/) |OpenAI and Microsoft are in discussions regarding the terms of their partnership, with Microsoft aiming to acquire a substantial stake in OpenAI following its restructuring. |
 |[Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup.](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/) |This startup will reportedly focus on building AI products based on proprietary models and could raise more than $100 million in this round. |
 |[Midjourney plans to let anyone on the web edit images with AI.](https://techcrunch.com/2024/10/19/midjourney-plans-to-let-anyone-on-the-web-edit-images-with-ai/) | Midjourney is planning to release an upgraded web tool that’ll let users edit any uploaded images from the web using Midjourney’s generative AI.|
-|[.]() | |
+|[Intel wins lengthy EU legal battle over £880m competition fine.](https://www.theguardian.com/technology/2024/oct/24/intel-legal-battle-against-eu-880m-fine-competition) |Chipmaker disputed 2009 decision that it abused its market position in case dating back two decades |
 |[.]() | |
 |[.]() | |
 |[.]() | |
