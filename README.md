@@ -140,10 +140,10 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[Introducing quantized Llama models with increased speed and a reduced memory footprint.](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/) |Meta has optimized its 1B and 3B language models by applying quantization, achieving a 2-4x speed increase and reducing model size by over 50% with minimal quality loss. This improvement is made possible by its quantization-aware training setup, allowing the models to adapt to lower precision effectively. |
 |[Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs.](https://arxiv.org/abs/2410.17001v1) |An effective and straightforward approach for upsampling and refining point clouds utilizes a modified octree-based 3D U-Net, known as OUNet. |
 |[ExecuTorch.](https://github.com/pytorch/executorch) |ExecuTorch supports on-device inference across mobile and edge devices, including wearables, embedded systems, and microcontrollers. It facilitates the efficient deployment of PyTorch models to edge environments and is compatible with various computing platforms, leveraging hardware capabilities like CPUs, NPUs, and DSPs. Comprehensive tutorials provide guidance on using ExecuTorch step-by-step. |
-|[Federated Transformer (FeT).](https://github.com/xtra-computing/fet) | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Federated Transformer (FeT).](https://github.com/xtra-computing/fet) |The Federated Transformer (FeT) is a novel framework aimed at enhancing both performance and privacy in Vertical Federated Learning (VFL) across multiple collaborating parties. |
+|[ADEM-VL.](https://github.com/hao840/adem-vl) |ADEM-VL is an innovative vision-language model created to address hardware constraints found in current models. |
+|[Predicting Weight Loss with Machine Learning.](https://www.feelingbuggy.com/p/predicting-weight-loss-with-machine) | The author utilized a straightforward feedforward DNN model to monitor and forecast weight loss on a ketogenic diet. This model effectively captured the non-linear weight loss trends, fit a predictive function to the data, and visualized calorie metrics. For added insights, the Harris-Benedict Equation was applied to compare estimated calorie needs with actual weight loss.|
+|[Video scraping: extracting JSON data from a 35 second screen capture for less than 1/10th of a cent.](https://simonwillison.net/2024/Oct/17/video-scraping/) |Google Gemini's AI Studio can accurately extract numerical data from video screen recordings of emails. This process leverages the cost-effective Gemini 1.5 Flash model, resulting in minimal expense. This innovative "video scraping" technique provides a practical alternative to conventional data extraction methods. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
