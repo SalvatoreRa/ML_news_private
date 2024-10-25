@@ -136,8 +136,8 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree.](https://mark12ding.github.io/project/SAM2Long/) | SAM2Long solves the "error accumulation" problem found in SAM 2's memory design by implementing a training-free strategy for video object segmentation.|
 |[Agent.exe.](https://github.com/corbt/agent.exe) |A convenient wrapper for Anthropic's computer use system simplifies its usage and execution, making it more user-friendly and accessible. |
 |[TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight.](https://github.com/blue-531/talos) |TALoS is a method that enhances scene completion for autonomous vehicles by leveraging observations from different time points as supervision for making more accurate predictions. |
-|[.]() | |
-|[.]() | |
+|[OmniParser for Pure Vision Based GUI Agent.](https://microsoft.github.io/OmniParser/) | Screenshot parsing tool for models to use digital interfaces.|
+|[Introducing quantized Llama models with increased speed and a reduced memory footprint.](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/) |Meta has optimized its 1B and 3B language models by applying quantization, achieving a 2-4x speed increase and reducing model size by over 50% with minimal quality loss. This improvement is made possible by its quantization-aware training setup, allowing the models to adapt to lower precision effectively. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
