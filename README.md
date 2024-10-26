@@ -100,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gurman: Apple internally believes that it’s at least two years behind in AI development.](https://9to5mac.com/2024/10/20/gurman-apple-intelligence-ai-two-years/) |According to the latest edition of Mark Gurman’s Power On newsletter, some employees at Apple believe that the company is around two years behind in artificial intelligence development. |
 |[Perplexity is reportedly looking to fundraise at an $8B valuation.](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/) | AI search engine Perplexity is in fundraising talks and hopes to raise around $500 million at an $8 billion valuation, according to The Wall Street Journal.|
 |[Chinese humanoid robot is the 'fastest in the world' thanks to its trusty pair of sneakers.](https://www.livescience.com/technology/robotics/chinese-scientists-build-fastest-humanoid-robot-in-the-world-watch-it-run-across-the-gobi-desert) |The STAR1 robot can reach a top speed of 8 mph with the added help of a pair of sneakers. |
-|[.]() | |
-|[.]() | |
+|[From Rupert Murdoch to Thom Yorke: the growing backlash to AI.](https://www.theguardian.com/technology/2024/oct/25/unjust-threat-murdoch-and-artists-align-in-fight-over-ai-content-scraping) | Media mogul and leading artists join fight to stop tech firms using creative works for free as training data|
+|[Talk to your plants? Now the first AI-powered garden will allow them to talk back.](https://www.theguardian.com/lifeandstyle/2024/oct/25/ai-powered-garden-chelsea-flower-show) |Collaboration between leading garden designer and Microsoft to go on display at Chelsea flower show 2025 |
 |[.]() | |
 |[.]() | |
 |[.]() | |
