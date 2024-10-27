@@ -58,14 +58,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Simplifying, stabilizing, and scaling continuous-time consistency models.](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/) | OpenAI has published work focusing on enhancing consistency models, which operate in two steps rather than the 1,000 steps typically used in diffusion models. While these models still depend on distillation from an existing diffusion model, the research seeks to improve their performance and stability as they scale.|
 |[All you need are 32 tokens to represent video.](https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html) |Salesforce's new approach introduces a novel video encoder that significantly reduces the number of tokens needed for accurate representation. While similar attempts in the past have seen limited success, the breakthrough appears to come from combining an explicit temporal encoder with a spatial encoder, enabling more efficient video processing. |
 |[CoPS: Empowering LLM Agents with Provable Cross-Task Experience Sharing.](https://github.com/uclaml/cops) | CoPS is a novel algorithm that improves agents' sequential reasoning by allowing them to share experiences across various tasks, enhancing their overall learning and adaptability.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -102,9 +94,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chinese humanoid robot is the 'fastest in the world' thanks to its trusty pair of sneakers.](https://www.livescience.com/technology/robotics/chinese-scientists-build-fastest-humanoid-robot-in-the-world-watch-it-run-across-the-gobi-desert) |The STAR1 robot can reach a top speed of 8 mph with the added help of a pair of sneakers. |
 |[From Rupert Murdoch to Thom Yorke: the growing backlash to AI.](https://www.theguardian.com/technology/2024/oct/25/unjust-threat-murdoch-and-artists-align-in-fight-over-ai-content-scraping) | Media mogul and leading artists join fight to stop tech firms using creative works for free as training data|
 |[Talk to your plants? Now the first AI-powered garden will allow them to talk back.](https://www.theguardian.com/lifeandstyle/2024/oct/25/ai-powered-garden-chelsea-flower-show) |Collaboration between leading garden designer and Microsoft to go on display at Chelsea flower show 2025 |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -144,12 +133,6 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[ADEM-VL.](https://github.com/hao840/adem-vl) |ADEM-VL is an innovative vision-language model created to address hardware constraints found in current models. |
 |[Predicting Weight Loss with Machine Learning.](https://www.feelingbuggy.com/p/predicting-weight-loss-with-machine) | The author utilized a straightforward feedforward DNN model to monitor and forecast weight loss on a ketogenic diet. This model effectively captured the non-linear weight loss trends, fit a predictive function to the data, and visualized calorie metrics. For added insights, the Harris-Benedict Equation was applied to compare estimated calorie needs with actual weight loss.|
 |[Video scraping: extracting JSON data from a 35 second screen capture for less than 1/10th of a cent.](https://simonwillison.net/2024/Oct/17/video-scraping/) |Google Gemini's AI Studio can accurately extract numerical data from video screen recordings of emails. This process leverages the cost-effective Gemini 1.5 Flash model, resulting in minimal expense. This innovative "video scraping" technique provides a practical alternative to conventional data extraction methods. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Perspectives
 |Link|description|
@@ -169,19 +152,6 @@ Stability AI has launched a new series of models featuring enhanced performance 
 |[Future of Internet in the age of AI.](https://crazystupidtech.com/archive/future-of-internet-in-the-age-of-ai/) | In this article, Cloudflare CEO Matthew Prince explores AI's influence on internet infrastructure, emphasizing the need for AI-capable edge computing and local inference to minimize network latency. He underscores the significance of regionalization in AI services to address regulatory challenges and outlines Cloudflare's strategy of developing a connectivity-focused network. Cloudflare's goal is to enhance internet connectivity by making it faster, more secure, and more efficient, closely aligning its efforts with advancements in AI technologies.|
 |[How Jacob Collier helped shape the new MusicFX DJ.](https://blog.google/technology/ai/jacob-collier-labs-sessions/) |Grammy-winning musician Jacob Collier has partnered with Google DeepMind and Google Labs to develop MusicFX DJ, an AI-driven music tool. The tool’s interface has been revamped to foster creativity, making it easy for users to tap into a "flow state" of artistic inspiration. MusicFX DJ is now available, featuring user-friendly controls suitable for all experience levels. |
 |[The AI Investment Boom.](https://www.apricitas.io/p/the-ai-investment-boom) |The AI boom is spurring substantial US investments in data centers, computing infrastructure, and advanced hardware, with annual data center construction reaching an unprecedented $28.6 billion. This growth is driven by rising demand for high-powered computing resources essential for training and deploying sophisticated AI models. Although tech sector revenue is recovering, job growth is primarily centered on semiconductor manufacturing and infrastructure, shifting attention away from traditional programming roles. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Research
 |Link|description|
