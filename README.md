@@ -43,8 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Theoretical Understanding of Chain-of-Thought.](https://arxiv.org/abs/2410.16540) |reveals that incorporating both correct and incorrect reasoning paths in demonstrations enhances the accuracy of intermediate steps and Chain-of-Thought (CoT) processes. The new approach, called Coherent CoT, substantially boosts performance across multiple benchmarks. Specifically, Gemini Pro shows a 6.60% improvement on the Tracking Shuffled Objects dataset (rising from 58.20% to 64.80%), while DeepSeek 67B achieves a 6.17% increase on the Penguins in a Table dataset (from 73.97% to 80.14%). |
-|[.]() | |
-|[.]() | |
+|[https://arxiv.org/abs/2410.18050.](https://arxiv.org/abs/2410.18050) |improves RAG's comprehension of long-context knowledge, incorporating global insights and factual specifics. It features a hybrid retriever, an LLM-enhanced information extractor, a Chain-of-Thought (CoT) guided filter, and an LLM-augmented generator. These core components empower the RAG system to extract global long-context information and accurately capture factual details. LongRAG demonstrates superior performance, surpassing long-context LLMs by 6.94%, advanced RAG by 6.16%, and Vanilla RAG by 17.25%. |
+|[Evaluating feature steering: A case study in mitigating social biases.](https://www.anthropic.com/research/evaluating-feature-steering) |examines feature steering in LLMs through an experiment that adjusts various features to observe shifts in model outputs, specifically focusing on 29 features related to social biases to determine if feature steering can reduce these biases. Findings reveal that while feature steering can sometimes cause unintended effects, incorporating a neutrality feature effectively reduces social biases across 9 social dimensions without compromising text quality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
