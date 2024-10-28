@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[A Theoretical Understanding of Chain-of-Thought.](https://arxiv.org/abs/2410.16540) |reveals that incorporating both correct and incorrect reasoning paths in demonstrations enhances the accuracy of intermediate steps and Chain-of-Thought (CoT) processes. The new approach, called Coherent CoT, substantially boosts performance across multiple benchmarks. Specifically, Gemini Pro shows a 6.60% improvement on the Tracking Shuffled Objects dataset (rising from 58.20% to 64.80%), while DeepSeek 67B achieves a 6.17% increase on the Penguins in a Table dataset (from 73.97% to 80.14%). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Agentic Information Retrieval.](https://arxiv.org/abs/2410.09713) | offers an overview of agentic information retrieval, driven by the abilities of LLM agents; explores various advanced applications of agentic information retrieval and addresses related challenges.|
 |[Aya Expanse.](https://cohere.com/blog/aya-expanse-connecting-our-world) |introduces a suite of open-weight foundation models designed for multilingual proficiency, featuring 8B and 32B parameter models and one of the largest multilingual datasets to date, containing 513 million examples. The release also includes Aya-101, which is claimed to be the most extensive multilingual model, supporting 101 languages. Aya Expanse 32B surpasses the performance of Gemma 2 27B, Mistral 8x22B, and Llama 3.1 70B, even though it is half the size of the latter. |
-|[.]() | |
+|[A Survey on Data Synthesis and Augmentation for Large Language Models.](https://arxiv.org/abs/2410.12896) |offers an in-depth overview of data generation techniques throughout the LLM lifecycle, covering topics such as data preparation, pre-training, fine-tuning, instruction-tuning, preference alignment, and practical applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
