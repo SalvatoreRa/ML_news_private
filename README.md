@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Keir Starmer says media firms should have control of output used in AI.](https://www.theguardian.com/media/2024/oct/28/keir-starmer-says-media-firms-should-have-control-of-output-used-in-ai) | PM says content creators must be paid and vows to ensure technology ‘does not begin to chip away’ at press freedoms|
 |[.]() | |
 |[.]() | |
 |[.]() | |
