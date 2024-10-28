@@ -100,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Agentic Information Retrieval.](https://arxiv.org/abs/2410.09713) | offers an overview of agentic information retrieval, driven by the abilities of LLM agents; explores various advanced applications of agentic information retrieval and addresses related challenges.|
+|[Aya Expanse.](https://cohere.com/blog/aya-expanse-connecting-our-world) |introduces a suite of open-weight foundation models designed for multilingual proficiency, featuring 8B and 32B parameter models and one of the largest multilingual datasets to date, containing 513 million examples. The release also includes Aya-101, which is claimed to be the most extensive multilingual model, supporting 101 languages. Aya Expanse 32B surpasses the performance of Gemma 2 27B, Mistral 8x22B, and Llama 3.1 70B, even though it is half the size of the latter. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
