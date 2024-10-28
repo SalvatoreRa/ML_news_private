@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[granite-3.0-language-models.](https://github.com/ibm-granite/granite-3.0-language-models/blob/main/paper.pdf) | introduces a range of lightweight foundation models from 400 million to 8 billion parameters, optimized for tasks such as coding, retrieval-augmented generation (RAG), reasoning, and function calling. Designed for enterprise applications, these models support on-premise and on-device deployment, showing robust performance across academic benchmarks in language understanding, reasoning, coding, function calling, and safety.|
 |[Pixtral-12B-Base-2409.](https://huggingface.co/mistralai/Pixtral-12B-Base-2409) | Pixtral 12B base model weights have been released on Hugging Face.|
 |[Arcade, a new AI product creation platform, designed this necklace.](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) |Arcade AI has developed a generative platform that allows users to create distinctive, high-quality jewelry items simply from text prompts—and the exciting part is, you can purchase the designs you generate. |
-|[.]() | |
-|[.]() | |
+|[Retrieval-Augmented Diffusion Models for Time Series Forecasting.](https://arxiv.org/abs/2410.18712v1) | The Retrieval-Augmented Time Series Diffusion model (RATD) introduces a retrieval and guidance mechanism to enhance stability and performance in time series diffusion models. RATD operates in two steps: first, it retrieves relevant historical data from a database, then uses this information as a reference to guide the denoising phase.|
+|[NotebookLlama: An Open Source version of NotebookLM.](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) |Meta has published a quick start guide to help users build a simplified version of Google’s popular NotebookLM system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
