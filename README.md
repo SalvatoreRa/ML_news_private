@@ -76,7 +76,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Waymo raises $5.6B.](https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/) | Waymo's driverless taxi service has gained significant popularity. The company has secured additional funding to extend its reach beyond the current cities and millions of miles it already covers.|
 |[Meta Introduces Spirit LM open source model that combines text and speech inputs/outputs.](https://venturebeat.com/ai/meta-introduces-spirit-lm-open-source-model-that-combines-text-and-speech-inputs-outputs/?utm_source=tldrai) | Just in time for Halloween 2024, Meta has unveiled Meta Spirit LM, the company’s first open-source multimodal language model capable of seamlessly integrating text and speech inputs and outputs.|
 |[IBM debuts open source Granite 3.0 LLMs for enterprise AI.](https://venturebeat.com/ai/ibm-debuts-open-source-granite-3-0-llms-for-enterprise-ai/) |IBM is enhancing its enterprise AI suite with Granite 3.0 LLMs, prioritizing open-source options and optimized performance. Available across various platforms, these models come with built-in safety features and are customized for diverse enterprise applications. IBM highlights the significance of true open-source licensing with Apache 2.0, enabling flexible adoption and fostering enterprise-driven innovation. |
-|[.]() | |
+|[Microsoft introduces ‘AI employees’ that can handle client queries.](https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks) |US company gives customers the ability to build own virtual agents as well as releasing 10 off-the-shelf bots |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Retrieval-Augmented Diffusion Models for Time Series Forecasting.](https://arxiv.org/abs/2410.18712v1) | The Retrieval-Augmented Time Series Diffusion model (RATD) introduces a retrieval and guidance mechanism to enhance stability and performance in time series diffusion models. RATD operates in two steps: first, it retrieves relevant historical data from a database, then uses this information as a reference to guide the denoising phase.|
 |[NotebookLlama: An Open Source version of NotebookLM.](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) |Meta has published a quick start guide to help users build a simplified version of Google’s popular NotebookLM system. |
 |[How I Studied LLMs in Two Weeks: A Comprehensive Roadmap.](https://towardsdatascience.com/how-i-studied-llms-in-two-weeks-a-comprehensive-roadmap-e8ac19667a31) |This article presents a 14-day roadmap for mastering LLM fundamentals, covering key topics such as self-attention, hallucinations, and advanced methods like Mixture of Experts. It offers resources for building an LLM from the ground up, alongside curated literature and online materials, all organized within a GitHub repository. Emphasizing a tailored learning experience, the article underscores the importance of foundational skills in math, programming, and deep learning. |
-|[.]() | |
+|[Marly.](https://github.com/marly-ai/marly) | Marly is an open-source data processor enabling agents to query unstructured data using JSON, streamlining data interaction and retrieval.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[ByteDance intern fired for planting malicious code in AI models.](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/) |After rumors swirled that TikTok owner ByteDance had lost tens of millions after an intern sabotaged its AI models, ByteDance issued a statement this weekend hoping to silence all the social media chatter in China. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
