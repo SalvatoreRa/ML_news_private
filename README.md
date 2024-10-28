@@ -72,7 +72,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Keir Starmer says media firms should have control of output used in AI.](https://www.theguardian.com/media/2024/oct/28/keir-starmer-says-media-firms-should-have-control-of-output-used-in-ai) | PM says content creators must be paid and vows to ensure technology ‘does not begin to chip away’ at press freedoms|
-|[.]() | |
+|[Waymo raises $5.6B.](https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/) | Waymo's driverless taxi service has gained significant popularity. The company has secured additional funding to extend its reach beyond the current cities and millions of miles it already covers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Aya Expanse.](https://cohere.com/blog/aya-expanse-connecting-our-world) |introduces a suite of open-weight foundation models designed for multilingual proficiency, featuring 8B and 32B parameter models and one of the largest multilingual datasets to date, containing 513 million examples. The release also includes Aya-101, which is claimed to be the most extensive multilingual model, supporting 101 languages. Aya Expanse 32B surpasses the performance of Gemma 2 27B, Mistral 8x22B, and Llama 3.1 70B, even though it is half the size of the latter. |
 |[A Survey on Data Synthesis and Augmentation for Large Language Models.](https://arxiv.org/abs/2410.12896) |offers an in-depth overview of data generation techniques throughout the LLM lifecycle, covering topics such as data preparation, pre-training, fine-tuning, instruction-tuning, preference alignment, and practical applications. |
 |[granite-3.0-language-models.](https://github.com/ibm-granite/granite-3.0-language-models/blob/main/paper.pdf) | introduces a range of lightweight foundation models from 400 million to 8 billion parameters, optimized for tasks such as coding, retrieval-augmented generation (RAG), reasoning, and function calling. Designed for enterprise applications, these models support on-premise and on-device deployment, showing robust performance across academic benchmarks in language understanding, reasoning, coding, function calling, and safety.|
-|[.]() | |
-|[.]() | |
+|[Pixtral-12B-Base-2409.](https://huggingface.co/mistralai/Pixtral-12B-Base-2409) | Pixtral 12B base model weights have been released on Hugging Face.|
+|[Arcade, a new AI product creation platform, designed this necklace.](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) |Arcade AI has developed a generative platform that allows users to create distinctive, high-quality jewelry items simply from text prompts—and the exciting part is, you can purchase the designs you generate. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
