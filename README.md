@@ -74,8 +74,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |---|---|
 |[Keir Starmer says media firms should have control of output used in AI.](https://www.theguardian.com/media/2024/oct/28/keir-starmer-says-media-firms-should-have-control-of-output-used-in-ai) | PM says content creators must be paid and vows to ensure technology ‘does not begin to chip away’ at press freedoms|
 |[Waymo raises $5.6B.](https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/) | Waymo's driverless taxi service has gained significant popularity. The company has secured additional funding to extend its reach beyond the current cities and millions of miles it already covers.|
-|[.]() | |
-|[.]() | |
+|[Meta Introduces Spirit LM open source model that combines text and speech inputs/outputs.](https://venturebeat.com/ai/meta-introduces-spirit-lm-open-source-model-that-combines-text-and-speech-inputs-outputs/?utm_source=tldrai) | Just in time for Halloween 2024, Meta has unveiled Meta Spirit LM, the company’s first open-source multimodal language model capable of seamlessly integrating text and speech inputs and outputs.|
+|[IBM debuts open source Granite 3.0 LLMs for enterprise AI.](https://venturebeat.com/ai/ibm-debuts-open-source-granite-3-0-llms-for-enterprise-ai/) |IBM is enhancing its enterprise AI suite with Granite 3.0 LLMs, prioritizing open-source options and optimized performance. Available across various platforms, these models come with built-in safety features and are customized for diverse enterprise applications. IBM highlights the significance of true open-source licensing with Apache 2.0, enabling flexible adoption and fostering enterprise-driven innovation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,7 +109,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Arcade, a new AI product creation platform, designed this necklace.](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/) |Arcade AI has developed a generative platform that allows users to create distinctive, high-quality jewelry items simply from text prompts—and the exciting part is, you can purchase the designs you generate. |
 |[Retrieval-Augmented Diffusion Models for Time Series Forecasting.](https://arxiv.org/abs/2410.18712v1) | The Retrieval-Augmented Time Series Diffusion model (RATD) introduces a retrieval and guidance mechanism to enhance stability and performance in time series diffusion models. RATD operates in two steps: first, it retrieves relevant historical data from a database, then uses this information as a reference to guide the denoising phase.|
 |[NotebookLlama: An Open Source version of NotebookLM.](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) |Meta has published a quick start guide to help users build a simplified version of Google’s popular NotebookLM system. |
-|[.]() | |
+|[How I Studied LLMs in Two Weeks: A Comprehensive Roadmap.](https://towardsdatascience.com/how-i-studied-llms-in-two-weeks-a-comprehensive-roadmap-e8ac19667a31) |This article presents a 14-day roadmap for mastering LLM fundamentals, covering key topics such as self-attention, hallucinations, and advanced methods like Mixture of Experts. It offers resources for building an LLM from the ground up, alongside curated literature and online materials, all organized within a GitHub repository. Emphasizing a tailored learning experience, the article underscores the importance of foundational skills in math, programming, and deep learning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
