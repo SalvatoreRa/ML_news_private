@@ -49,8 +49,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scalable watermarking for identifying large language model outputs.](https://www.nature.com/articles/s41586-024-08025-4) |introduces SynthID-Text, a text-watermarking approach designed to maintain text quality in LLM outputs, achieve high detection accuracy, and reduce latency. It incorporates watermarking through speculative sampling, using a final score pattern for model word choices alongside adjusted probability scores. The authors evaluate the method's feasibility and scalability by analyzing feedback on nearly 10 million Gemini responses. |
 |[A Comparative Study on Reasoning Patterns of OpenAI's o1 Model.](https://arxiv.org/abs/2410.13639) |outperformed other test-time compute methods across most datasets. The authors note that the primary reasoning patterns in o1 are divide and conquer and self-refinement, with the model adapting its reasoning strategy to specific tasks. For commonsense reasoning, o1 frequently employs context identification and focuses on constraints, while for math and coding tasks, it predominantly utilizes method reuse and divide and conquer approaches. |
 |[Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html) |Crosscoders are an advanced form of sparse autoencoders designed to enhance the understanding of language models' internal mechanisms. |
-|[.]() | |
-|[.]() | |
+|[Distill Visual Chart Reasoning Ability
+from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediary Translation (CIT) is an innovative technique aimed at improving visual reasoning in multimodal language models (MLLMs) by leveraging code to convert chart visuals into textual descriptions.|
+|[Probabilistic Language-Image Pre-Training.](https://arxiv.org/abs/2410.18857v1) |Probabilistic Language-Image Pre-training (ProLIP) is a vision-language model (VLM) designed to learn probabilistically from image-text pairs. Unlike traditional models that rely on a strict one-to-one correspondence, ProLIP captures the complex many-to-many relationships inherent in real-world data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
