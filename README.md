@@ -79,7 +79,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Microsoft introduces ‘AI employees’ that can handle client queries.](https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks) |US company gives customers the ability to build own virtual agents as well as releasing 10 off-the-shelf bots |
 |[Microsoft Excel’s bloopers reel: 40 years of spreadsheet errors.](https://www.theguardian.com/technology/2024/oct/28/microsoft-excels-bloopers-reel-40-years-of-spreadsheet-errors) | As the software used by millions around the world celebrates its birthday, here are some of the low points|
 |[Google Expands Voice Technology Support to 15 More African Languages .](https://blog.google/around-the-globe/google-africa/africas-digital-decade/) | Google has expanded voice recognition support to include 15 more African languages across its platforms, such as Voice Search, Gboard talk-to-type, and Translate dictation. This enhancement enables an estimated 300 million additional Africans to engage with digital content in their native languages.|
-|[.]() | |
+|[Cohere releases state-of-the-art multimodal AI search model.](https://cohere.com/blog/multimodal-embed-3) |Cohere has unveiled that its Embed 3 AI model is now multimodal, allowing for rapid and precise search across essential enterprise image data sources such as graphs, charts, product catalogs, and design files. This enhancement makes Embed 3 the most broadly capable multimodal embedding model available today. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[NotebookLlama: An Open Source version of NotebookLM.](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) |Meta has published a quick start guide to help users build a simplified version of Google’s popular NotebookLM system. |
 |[How I Studied LLMs in Two Weeks: A Comprehensive Roadmap.](https://towardsdatascience.com/how-i-studied-llms-in-two-weeks-a-comprehensive-roadmap-e8ac19667a31) |This article presents a 14-day roadmap for mastering LLM fundamentals, covering key topics such as self-attention, hallucinations, and advanced methods like Mixture of Experts. It offers resources for building an LLM from the ground up, alongside curated literature and online materials, all organized within a GitHub repository. Emphasizing a tailored learning experience, the article underscores the importance of foundational skills in math, programming, and deep learning. |
 |[Marly.](https://github.com/marly-ai/marly) | Marly is an open-source data processor enabling agents to query unstructured data using JSON, streamlining data interaction and retrieval.|
-|[.]() | |
+|[LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias.](https://haian-jin.github.io/projects/LVSM/) | It was previously believed that novel view synthesis depended heavily on strong 3D inductive biases. This study demonstrates that, with scale and a minimal inductive bias, it's possible to significantly surpass these previously assumed limitations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
