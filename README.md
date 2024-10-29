@@ -112,8 +112,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[How I Studied LLMs in Two Weeks: A Comprehensive Roadmap.](https://towardsdatascience.com/how-i-studied-llms-in-two-weeks-a-comprehensive-roadmap-e8ac19667a31) |This article presents a 14-day roadmap for mastering LLM fundamentals, covering key topics such as self-attention, hallucinations, and advanced methods like Mixture of Experts. It offers resources for building an LLM from the ground up, alongside curated literature and online materials, all organized within a GitHub repository. Emphasizing a tailored learning experience, the article underscores the importance of foundational skills in math, programming, and deep learning. |
 |[Marly.](https://github.com/marly-ai/marly) | Marly is an open-source data processor enabling agents to query unstructured data using JSON, streamlining data interaction and retrieval.|
 |[LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias.](https://haian-jin.github.io/projects/LVSM/) | It was previously believed that novel view synthesis depended heavily on strong 3D inductive biases. This study demonstrates that, with scale and a minimal inductive bias, it's possible to significantly surpass these previously assumed limitations.|
-|[.]() | |
-|[.]() | |
+|[Continuous Speech Synthesis using per-token Latent Diffusion.](https://arxiv.org/abs/2410.16048) |Autoregressive models continue to excel in many applications, yet recent advancements with diffusion heads in image generation have led to the concept of continuous autoregressive diffusion. This research broadens the scope of per-token diffusion to accommodate variable-length outputs. |
+|[CDChat: A Large Multimodal Model for Remote Sensing Change Description.](https://arxiv.org/abs/2409.16261v1) | This paper presents a change description instruction dataset aimed at fine-tuning large multimodal models (LMMs) to enhance change detection in remote sensing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
