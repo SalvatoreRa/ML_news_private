@@ -117,8 +117,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[IC-Light V2 (Flux-based IC-Light models).](https://github.com/lllyasviel/IC-Light/discussions/98) |IC Light currently offers the most effective method for associating images with a pretrained text-to-image backbone. This discussion marks the initial steps toward expanding that capability to the robust Flux models. |
 |[The Scene Language: Representing Scenes with Programs, Words, and Embeddings.](https://github.com/zzyunzhi/scene-language) |Creating 3D scenes from scratch presents significant challenges, including data limitations. This research introduces a programming-like language for describing 3D scenes and demonstrates that Claude Sonnet can produce highly realistic scenes even without specific training for this task. |
 |[3D Semantic Segmentation.](https://arxiv.org/abs/2410.19446v1) |FtD++ is a cross-modal learning approach designed to enhance unsupervised domain adaptation in 3D semantic segmentation tasks. |
-|[.]() | |
-|[.]() | |
+|[Open source replication of crosscoder on Gemma 2B.](https://www.lesswrong.com/posts/srt6JXsRMtmqAJavD/open-source-replication-of-anthropic-s-crosscoder-paper-for) | Anthropic recently published two studies showcasing its novel interpretability method. This post provides an open replication of the crosscoder on the Gemma 2B model.|
+|[Awesome-Graph-OOD-Learning.](https://github.com/kaize0409/awesome-graph-ood) |This repository lists papers on graph out-of-distribution learning, covering three primary scenarios: graph OOD generalization, training-time graph OOD adaptation, and test-time graph OOD adaptation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |Link|description|
 |---|---|
 |[ByteDance intern fired for planting malicious code in AI models.](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/) |After rumors swirled that TikTok owner ByteDance had lost tens of millions after an intern sabotaged its AI models, ByteDance issued a statement this weekend hoping to silence all the social media chatter in China. |
-|[.]() | |
+|[Thinking Like an AI.](https://www.oneusefulthing.org/p/thinking-like-an-ai) |Large language models (LLMs) operate as advanced autocomplete systems, generating the next token based on a combination of their training data and current input. Small variations in input can influence predictions, resulting in different responses to the same question. Gaining insight into token prediction, training data context, and memory constraints can enhance effective AI usage. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
