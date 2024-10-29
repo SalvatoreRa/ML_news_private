@@ -119,8 +119,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[3D Semantic Segmentation.](https://arxiv.org/abs/2410.19446v1) |FtD++ is a cross-modal learning approach designed to enhance unsupervised domain adaptation in 3D semantic segmentation tasks. |
 |[Open source replication of crosscoder on Gemma 2B.](https://www.lesswrong.com/posts/srt6JXsRMtmqAJavD/open-source-replication-of-anthropic-s-crosscoder-paper-for) | Anthropic recently published two studies showcasing its novel interpretability method. This post provides an open replication of the crosscoder on the Gemma 2B model.|
 |[Awesome-Graph-OOD-Learning.](https://github.com/kaize0409/awesome-graph-ood) |This repository lists papers on graph out-of-distribution learning, covering three primary scenarios: graph OOD generalization, training-time graph OOD adaptation, and test-time graph OOD adaptation. |
-|[.]() | |
-|[.]() | |
+|[OpenWebVoyager: Building Multimodal Web Agents.](https://github.com/minorjerry/openwebvoyager) |OpenWebVoyager offers tools, datasets, and models designed to build multimodal web agents that can navigate and learn from real-world web interactions. |
+|[Automated Colorization for Animation.](https://ykdai.github.io/projects/InclusionMatching) | Researchers have introduced an innovative inclusion-matching technique that overcomes challenges in automated colorization, particularly for animations where occlusions and wrinkles complicate traditional segment matching.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
