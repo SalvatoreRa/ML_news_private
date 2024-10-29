@@ -114,6 +114,14 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias.](https://haian-jin.github.io/projects/LVSM/) | It was previously believed that novel view synthesis depended heavily on strong 3D inductive biases. This study demonstrates that, with scale and a minimal inductive bias, it's possible to significantly surpass these previously assumed limitations.|
 |[Continuous Speech Synthesis using per-token Latent Diffusion.](https://arxiv.org/abs/2410.16048) |Autoregressive models continue to excel in many applications, yet recent advancements with diffusion heads in image generation have led to the concept of continuous autoregressive diffusion. This research broadens the scope of per-token diffusion to accommodate variable-length outputs. |
 |[CDChat: A Large Multimodal Model for Remote Sensing Change Description.](https://arxiv.org/abs/2409.16261v1) | This paper presents a change description instruction dataset aimed at fine-tuning large multimodal models (LMMs) to enhance change detection in remote sensing.|
+|[IC-Light V2 (Flux-based IC-Light models).](https://github.com/lllyasviel/IC-Light/discussions/98) |IC Light currently offers the most effective method for associating images with a pretrained text-to-image backbone. This discussion marks the initial steps toward expanding that capability to the robust Flux models. |
+|[The Scene Language: Representing Scenes with Programs, Words, and Embeddings.](https://github.com/zzyunzhi/scene-language) |Creating 3D scenes from scratch presents significant challenges, including data limitations. This research introduces a programming-like language for describing 3D scenes and demonstrates that Claude Sonnet can produce highly realistic scenes even without specific training for this task. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
