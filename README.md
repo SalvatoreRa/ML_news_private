@@ -77,7 +77,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Meta Introduces Spirit LM open source model that combines text and speech inputs/outputs.](https://venturebeat.com/ai/meta-introduces-spirit-lm-open-source-model-that-combines-text-and-speech-inputs-outputs/?utm_source=tldrai) | Just in time for Halloween 2024, Meta has unveiled Meta Spirit LM, the company’s first open-source multimodal language model capable of seamlessly integrating text and speech inputs and outputs.|
 |[IBM debuts open source Granite 3.0 LLMs for enterprise AI.](https://venturebeat.com/ai/ibm-debuts-open-source-granite-3-0-llms-for-enterprise-ai/) |IBM is enhancing its enterprise AI suite with Granite 3.0 LLMs, prioritizing open-source options and optimized performance. Available across various platforms, these models come with built-in safety features and are customized for diverse enterprise applications. IBM highlights the significance of true open-source licensing with Apache 2.0, enabling flexible adoption and fostering enterprise-driven innovation. |
 |[Microsoft introduces ‘AI employees’ that can handle client queries.](https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks) |US company gives customers the ability to build own virtual agents as well as releasing 10 off-the-shelf bots |
-|[.]() | |
+|[Microsoft Excel’s bloopers reel: 40 years of spreadsheet errors.](https://www.theguardian.com/technology/2024/oct/28/microsoft-excels-bloopers-reel-40-years-of-spreadsheet-errors) | As the software used by millions around the world celebrates its birthday, here are some of the low points|
 |[.]() | |
 |[.]() | |
 |[.]() | |
