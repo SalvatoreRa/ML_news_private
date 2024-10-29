@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Distill Visual Chart Reasoning Ability
 from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediary Translation (CIT) is an innovative technique aimed at improving visual reasoning in multimodal language models (MLLMs) by leveraging code to convert chart visuals into textual descriptions.|
 |[Probabilistic Language-Image Pre-Training.](https://arxiv.org/abs/2410.18857v1) |Probabilistic Language-Image Pre-training (ProLIP) is a vision-language model (VLM) designed to learn probabilistically from image-text pairs. Unlike traditional models that rely on a strict one-to-one correspondence, ProLIP captures the complex many-to-many relationships inherent in real-world data. |
-|[.]() | |
+|[A faster, better way to train general-purpose robots.](https://news.mit.edu/2024/training-general-purpose-robots-faster-better-1028) | MIT researchers have developed Heterogeneous Pretrained Transformers (HPT), a novel model architecture inspired by large language models, designed to train adaptable robots by utilizing data from multiple domains and modalities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,7 +78,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[IBM debuts open source Granite 3.0 LLMs for enterprise AI.](https://venturebeat.com/ai/ibm-debuts-open-source-granite-3-0-llms-for-enterprise-ai/) |IBM is enhancing its enterprise AI suite with Granite 3.0 LLMs, prioritizing open-source options and optimized performance. Available across various platforms, these models come with built-in safety features and are customized for diverse enterprise applications. IBM highlights the significance of true open-source licensing with Apache 2.0, enabling flexible adoption and fostering enterprise-driven innovation. |
 |[Microsoft introduces ‘AI employees’ that can handle client queries.](https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks) |US company gives customers the ability to build own virtual agents as well as releasing 10 off-the-shelf bots |
 |[Microsoft Excel’s bloopers reel: 40 years of spreadsheet errors.](https://www.theguardian.com/technology/2024/oct/28/microsoft-excels-bloopers-reel-40-years-of-spreadsheet-errors) | As the software used by millions around the world celebrates its birthday, here are some of the low points|
-|[.]() | |
+|[Google Expands Voice Technology Support to 15 More African Languages .](https://blog.google/around-the-globe/google-africa/africas-digital-decade/) | Google has expanded voice recognition support to include 15 more African languages across its platforms, such as Voice Search, Gboard talk-to-type, and Translate dictation. This enhancement enables an estimated 300 million additional Africans to engage with digital content in their native languages.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
