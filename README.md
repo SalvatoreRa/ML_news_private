@@ -116,7 +116,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[CDChat: A Large Multimodal Model for Remote Sensing Change Description.](https://arxiv.org/abs/2409.16261v1) | This paper presents a change description instruction dataset aimed at fine-tuning large multimodal models (LMMs) to enhance change detection in remote sensing.|
 |[IC-Light V2 (Flux-based IC-Light models).](https://github.com/lllyasviel/IC-Light/discussions/98) |IC Light currently offers the most effective method for associating images with a pretrained text-to-image backbone. This discussion marks the initial steps toward expanding that capability to the robust Flux models. |
 |[The Scene Language: Representing Scenes with Programs, Words, and Embeddings.](https://github.com/zzyunzhi/scene-language) |Creating 3D scenes from scratch presents significant challenges, including data limitations. This research introduces a programming-like language for describing 3D scenes and demonstrates that Claude Sonnet can produce highly realistic scenes even without specific training for this task. |
-|[.]() | |
+|[3D Semantic Segmentation.](https://arxiv.org/abs/2410.19446v1) |FtD++ is a cross-modal learning approach designed to enhance unsupervised domain adaptation in 3D semantic segmentation tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
