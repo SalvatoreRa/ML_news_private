@@ -137,7 +137,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |---|---|
 |[ByteDance intern fired for planting malicious code in AI models.](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/) |After rumors swirled that TikTok owner ByteDance had lost tens of millions after an intern sabotaged its AI models, ByteDance issued a statement this weekend hoping to silence all the social media chatter in China. |
 |[Thinking Like an AI.](https://www.oneusefulthing.org/p/thinking-like-an-ai) |Large language models (LLMs) operate as advanced autocomplete systems, generating the next token based on a combination of their training data and current input. Small variations in input can influence predictions, resulting in different responses to the same question. Gaining insight into token prediction, training data context, and memory constraints can enhance effective AI usage. |
-|[.]() | |
+|[An Interview with Salesforce CEO Marc Benioff about AI Abundance.](https://stratechery.com/2024/an-interview-with-salesforce-ceo-marc-benioff-about-ai-abundance) | Salesforce CEO Marc Benioff recently spoke about the company's new AI initiative, Agentforce, showcasing its potential to transform enterprise applications and customer interactions. He contrasted Salesforce's approach with Microsoft’s Copilot, describing Salesforce’s solution as more cohesive and impactful, thanks to its strong platform and data infrastructure. During the interview, Benioff stressed the significance of AI-driven "agentic" layers designed to boost customer service and improve operational efficiency across various industries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
