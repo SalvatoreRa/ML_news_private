@@ -125,6 +125,12 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Learning to Handle Complex Constraints for Vehicle Routing Problems.](https://arxiv.org/abs/2410.21066v1) | Researchers have developed a Proactive Infeasibility Prevention (PIP) framework designed to enhance neural network performance on Vehicle Routing Problems (VRPs) that involve challenging constraints.|
 |[Unleashing the Power of AI on Mobile: LLM Inference for Llama 3.2 Quantized Models with ExecuTorch and KleidiAI.](https://pytorch.org/blog/unleashing-ai-mobile/) |PyTorch has made significant strides with ExecuTorch, a tool that enables AI model deployment at the edge, greatly enhancing the performance and efficiency of various end systems. |
 |[CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution.](https://arxiv.org/abs/2410.16256v1) |CompassJudger-1 is the first open-source, comprehensive judge model created to enhance the evaluation process for large language models (LLMs). |
+|[MINT-1T.](https://github.com/mlfoundations/MINT-1T) | MINT-1T, a vast open-source multimodal dataset, has been released with one trillion text tokens and 3.4 billion images, incorporating diverse content from HTML, PDFs, and ArXiv papers. This dataset, roughly ten times larger than previous collections, is intended to accelerate advancements in large-scale multimodal machine learning research.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,13 +138,14 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[.]() | |
 |[.]() | |
 
+
 ## Perspectives
 |Link|description|
 |---|---|
 |[ByteDance intern fired for planting malicious code in AI models.](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/) |After rumors swirled that TikTok owner ByteDance had lost tens of millions after an intern sabotaged its AI models, ByteDance issued a statement this weekend hoping to silence all the social media chatter in China. |
 |[Thinking Like an AI.](https://www.oneusefulthing.org/p/thinking-like-an-ai) |Large language models (LLMs) operate as advanced autocomplete systems, generating the next token based on a combination of their training data and current input. Small variations in input can influence predictions, resulting in different responses to the same question. Gaining insight into token prediction, training data context, and memory constraints can enhance effective AI usage. |
 |[An Interview with Salesforce CEO Marc Benioff about AI Abundance.](https://stratechery.com/2024/an-interview-with-salesforce-ceo-marc-benioff-about-ai-abundance) | Salesforce CEO Marc Benioff recently spoke about the company's new AI initiative, Agentforce, showcasing its potential to transform enterprise applications and customer interactions. He contrasted Salesforce's approach with Microsoft’s Copilot, describing Salesforce’s solution as more cohesive and impactful, thanks to its strong platform and data infrastructure. During the interview, Benioff stressed the significance of AI-driven "agentic" layers designed to boost customer service and improve operational efficiency across various industries.|
-|[.]() | |
+|[How GPU Access Helps Startups Be Agile.](https://a16z.com/podcast/how-gpu-access-helps-startups-be-agile/) |Andreessen Horowitz's Oxygen program tackles GPU shortages by offering startups in its portfolio more accessible and flexible GPU resources, allowing them to bypass price surges and supply limitations. This initiative enables AI startups to concentrate on product development without the pressure of long-term capital expenditure, emphasizing the need for equitable access to critical resources in the competitive AI field. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
