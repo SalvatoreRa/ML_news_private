@@ -83,7 +83,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview.](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) | You can now access models like Claude, Gemini, and o1, among others, through GitHub Copilot.|
 |[Apple releases first batch of Apple Intelligence features, debuts new iMac.](https://siliconangle.com/2024/10/28/apple-releases-first-batch-apple-intelligence-features-debuts-new-imac/) |Apple introduced new AI features, branded as Apple Intelligence, on its latest devices, focusing on text processing and photo editing capabilities. The updated iMac now runs on the M4 chip, which includes a Neural Engine that delivers three times the AI performance of previous models. Upcoming AI updates aim to improve Siri's capabilities and incorporate ChatGPT for handling more advanced queries. |
 |[How Advex creates synthetic data to improve machine vision for manufacturers.](https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/) |Advex AI addresses data shortages in AI training by leveraging generative AI to create synthetic images tailored for computer vision systems. |
-|[.]() | |
+|[Coframe raises $9 million for websites that optimize themselves using AI.](https://www.reuters.com/technology/artificial-intelligence/coframe-raises-9-million-websites-that-optimize-themselves-using-ai-2024-10-29/) |AI startup Coframe has raised $9.3 million in seed funding to further develop its platform, which leverages generative AI to optimize websites and deliver personalized marketing experiences. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,7 +126,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Unleashing the Power of AI on Mobile: LLM Inference for Llama 3.2 Quantized Models with ExecuTorch and KleidiAI.](https://pytorch.org/blog/unleashing-ai-mobile/) |PyTorch has made significant strides with ExecuTorch, a tool that enables AI model deployment at the edge, greatly enhancing the performance and efficiency of various end systems. |
 |[CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution.](https://arxiv.org/abs/2410.16256v1) |CompassJudger-1 is the first open-source, comprehensive judge model created to enhance the evaluation process for large language models (LLMs). |
 |[MINT-1T.](https://github.com/mlfoundations/MINT-1T) | MINT-1T, a vast open-source multimodal dataset, has been released with one trillion text tokens and 3.4 billion images, incorporating diverse content from HTML, PDFs, and ArXiv papers. This dataset, roughly ten times larger than previous collections, is intended to accelerate advancements in large-scale multimodal machine learning research.|
-|[.]() | |
+|[LARP: Tokenizing Videos 🎬 with a Learned Autoregressive Generative Prior 🚀.](https://hywang66.github.io/larp/) |LARP is a novel video tokenizer designed to enhance video generation in autoregressive (AR) models by prioritizing global visual features over individual patch-based details. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
