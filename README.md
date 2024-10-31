@@ -87,7 +87,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Google unveils invisible ‘watermark’ for AI-generated text.](https://www.nature.com/articles/d41586-024-03462-7) | Real-world demonstration in chatbot responses could encourage other firms to label material produced by AI.|
 |[Reddit shares soar after company turns first-ever profit.](https://www.theguardian.com/technology/2024/oct/30/reddit-stock) |Monthly users rose by nearly half thanks to AI translation feature, and deals for AI training with Google and OpenAI boosted revenue |
 |[Google parent Alphabet sees double-digit growth as AI bets boost cloud business.](https://www.theguardian.com/technology/2024/oct/29/alphabet-google-earnings-report) |Analysts expected 12% year-on-year revenue gains, but company reports 15%, buoyed by performance in ads and cloud services |
-|[.]() | |
+|[EU events on curbing big tech ‘distorted’ by attenders with industry links.](https://www.theguardian.com/world/2024/oct/29/eu-events-curbing-big-tech-distorted-attenders-hidden-industry-links) |Campaigners say 21% of people at workshops did not disclose on their applications relationships with firms being discussed |
 |[.]() | |
 |[.]() | |
 |[.]() | |
