@@ -88,7 +88,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Reddit shares soar after company turns first-ever profit.](https://www.theguardian.com/technology/2024/oct/30/reddit-stock) |Monthly users rose by nearly half thanks to AI translation feature, and deals for AI training with Google and OpenAI boosted revenue |
 |[Google parent Alphabet sees double-digit growth as AI bets boost cloud business.](https://www.theguardian.com/technology/2024/oct/29/alphabet-google-earnings-report) |Analysts expected 12% year-on-year revenue gains, but company reports 15%, buoyed by performance in ads and cloud services |
 |[EU events on curbing big tech ‘distorted’ by attenders with industry links.](https://www.theguardian.com/world/2024/oct/29/eu-events-curbing-big-tech-distorted-attenders-hidden-industry-links) |Campaigners say 21% of people at workshops did not disclose on their applications relationships with firms being discussed |
-|[.]() | |
+|[Indonesia blocks Apple iPhone 16 sales over lack of investment.](https://www.theguardian.com/technology/2024/oct/28/indonesia-apple-iphone-16-ban) |Marketing and sale of model prohibited after tech giant fails to meet rule 40% of phones be made from local parts |
 |[.]() | |
 |[.]() | |
 |[.]() | |
