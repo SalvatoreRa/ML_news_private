@@ -55,7 +55,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[A faster, better way to train general-purpose robots.](https://news.mit.edu/2024/training-general-purpose-robots-faster-better-1028) | MIT researchers have developed Heterogeneous Pretrained Transformers (HPT), a novel model architecture inspired by large language models, designed to train adaptable robots by utilizing data from multiple domains and modalities.|
 |[A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs.](https://arxiv.org/abs/2410.18779) |In this work, DeepMind demonstrates how a small language model can be used to provide soft supervision labels and identify informative or challenging data points for pretraining, significantly accelerating the pretraining process. |
 |[NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction.](https://arxiv.org/abs/2410.19452v1) |The NeuroClips framework introduces advancements in reconstructing continuous videos from fMRI brain scans by decoding both high-level semantic information and fine-grained perceptual details. |
-|[.]() | |
+|[Machine-guided design of cell-type-targeting cis-regulatory elements.](https://www.nature.com/articles/s41586-024-08070-z) |A generalizable framework to prospectively engineer cis-regulatory elements from massively parallel reporter assay models can be used to write fit-for-purpose regulatory code. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +151,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[‘Educational’ apps are worth billions. We need to make sure they work.](https://www.nature.com/articles/d41586-024-03471-6) |Partnerships between developers and researchers could help to improve the quality of educational apps and other technologies. |
 |[The huge protein database that spawned AlphaFold and biology’s AI revolution.](https://www.nature.com/articles/d41586-024-03423-0) |Pioneering crystallographer Helen Berman helped to set up the massive collection of protein structures that underpins the Nobel-prize-winning tool’s success. |
 |[Extreme fire seasons are looming — science can help us adapt.](https://www.nature.com/articles/d41586-024-03433-y) | Not all wildfires can be averted, but data, models and collaborations can help to chart a course to a fire-resilient future.|
-|[.]() | |
+|[AI-designed DNA sequences regulate cell-type-specific gene expression.](https://www.nature.com/articles/d41586-024-03170-2) |Researchers have used artificial-intelligence models to create regulatory DNA sequences that drive gene expression in specific cell types. Such synthetic sequences could be used to target gene therapies to particular cell populations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
