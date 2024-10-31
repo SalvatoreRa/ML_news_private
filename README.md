@@ -85,8 +85,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[How Advex creates synthetic data to improve machine vision for manufacturers.](https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/) |Advex AI addresses data shortages in AI training by leveraging generative AI to create synthetic images tailored for computer vision systems. |
 |[Coframe raises $9 million for websites that optimize themselves using AI.](https://www.reuters.com/technology/artificial-intelligence/coframe-raises-9-million-websites-that-optimize-themselves-using-ai-2024-10-29/) |AI startup Coframe has raised $9.3 million in seed funding to further develop its platform, which leverages generative AI to optimize websites and deliver personalized marketing experiences. |
 |[Google unveils invisible ‘watermark’ for AI-generated text.](https://www.nature.com/articles/d41586-024-03462-7) | Real-world demonstration in chatbot responses could encourage other firms to label material produced by AI.|
-|[.]() | |
-|[.]() | |
+|[Reddit shares soar after company turns first-ever profit.](https://www.theguardian.com/technology/2024/oct/30/reddit-stock) |Monthly users rose by nearly half thanks to AI translation feature, and deals for AI training with Google and OpenAI boosted revenue |
+|[Google parent Alphabet sees double-digit growth as AI bets boost cloud business.](https://www.theguardian.com/technology/2024/oct/29/alphabet-google-earnings-report) |Analysts expected 12% year-on-year revenue gains, but company reports 15%, buoyed by performance in ads and cloud services |
 |[.]() | |
 |[.]() | |
 |[.]() | |
