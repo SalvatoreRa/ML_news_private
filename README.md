@@ -149,8 +149,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[The Mask Comes Off: At What Price?](https://thezvi.substack.com/p/the-mask-comes-off-at-what-price) | OpenAI is approaching its shift to a Public Benefit B-Corporation, a move that could impact its investor dynamics and collaboration with Microsoft. This transition brings up questions around control and valuation, particularly concerning the nonprofit's stake, which could be substantial given OpenAI's role in advancing AGI. The company’s future profitability and strategic course are closely tied to the safe development of AGI, a pursuit with enormous potential value.|
 |[What's so special about the human brain?.](https://www.nature.com/immersive/d41586-024-03425-y/index.html) |Torrents of data from cell atlases, brain organoids and other methods are finally delivering answers to an age-old question. |
 |[‘Educational’ apps are worth billions. We need to make sure they work.](https://www.nature.com/articles/d41586-024-03471-6) |Partnerships between developers and researchers could help to improve the quality of educational apps and other technologies. |
-|[.]() | |
-|[.]() | |
+|[The huge protein database that spawned AlphaFold and biology’s AI revolution.](https://www.nature.com/articles/d41586-024-03423-0) |Pioneering crystallographer Helen Berman helped to set up the massive collection of protein structures that underpins the Nobel-prize-winning tool’s success. |
+|[Extreme fire seasons are looming — science can help us adapt.](https://www.nature.com/articles/d41586-024-03433-y) | Not all wildfires can be averted, but data, models and collaborations can help to chart a course to a fire-resilient future.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
