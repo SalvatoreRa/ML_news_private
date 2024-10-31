@@ -84,7 +84,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Apple releases first batch of Apple Intelligence features, debuts new iMac.](https://siliconangle.com/2024/10/28/apple-releases-first-batch-apple-intelligence-features-debuts-new-imac/) |Apple introduced new AI features, branded as Apple Intelligence, on its latest devices, focusing on text processing and photo editing capabilities. The updated iMac now runs on the M4 chip, which includes a Neural Engine that delivers three times the AI performance of previous models. Upcoming AI updates aim to improve Siri's capabilities and incorporate ChatGPT for handling more advanced queries. |
 |[How Advex creates synthetic data to improve machine vision for manufacturers.](https://techcrunch.com/2024/10/28/how-advex-creates-synthetic-data-to-improve-machine-vision-for-manufacturers/) |Advex AI addresses data shortages in AI training by leveraging generative AI to create synthetic images tailored for computer vision systems. |
 |[Coframe raises $9 million for websites that optimize themselves using AI.](https://www.reuters.com/technology/artificial-intelligence/coframe-raises-9-million-websites-that-optimize-themselves-using-ai-2024-10-29/) |AI startup Coframe has raised $9.3 million in seed funding to further develop its platform, which leverages generative AI to optimize websites and deliver personalized marketing experiences. |
-|[.]() | |
+|[Google unveils invisible ‘watermark’ for AI-generated text.](https://www.nature.com/articles/d41586-024-03462-7) | Real-world demonstration in chatbot responses could encourage other firms to label material produced by AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[How GPU Access Helps Startups Be Agile.](https://a16z.com/podcast/how-gpu-access-helps-startups-be-agile/) |Andreessen Horowitz's Oxygen program tackles GPU shortages by offering startups in its portfolio more accessible and flexible GPU resources, allowing them to bypass price surges and supply limitations. This initiative enables AI startups to concentrate on product development without the pressure of long-term capital expenditure, emphasizing the need for equitable access to critical resources in the competitive AI field. |
 |[The Mask Comes Off: At What Price?](https://thezvi.substack.com/p/the-mask-comes-off-at-what-price) | OpenAI is approaching its shift to a Public Benefit B-Corporation, a move that could impact its investor dynamics and collaboration with Microsoft. This transition brings up questions around control and valuation, particularly concerning the nonprofit's stake, which could be substantial given OpenAI's role in advancing AGI. The company’s future profitability and strategic course are closely tied to the safe development of AGI, a pursuit with enormous potential value.|
 |[What's so special about the human brain?.](https://www.nature.com/immersive/d41586-024-03425-y/index.html) |Torrents of data from cell atlases, brain organoids and other methods are finally delivering answers to an age-old question. |
-|[.]() | |
+|[‘Educational’ apps are worth billions. We need to make sure they work.](https://www.nature.com/articles/d41586-024-03471-6) |Partnerships between developers and researchers could help to improve the quality of educational apps and other technologies. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
