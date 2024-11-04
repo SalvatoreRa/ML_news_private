@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[3D Scene Reconstruction Without Camera Pose.](https://noposplat.github.io/) | NoPoSplat is a feed-forward model capable of reconstructing 3D scenes from sparse, multi-view images without requiring precise camera poses.|
 |[ImOV3D: Learning Open Vocabulary Point Clouds 3D Object Detection from Only 2D Images.](https://github.com/yangtiming/imov3d) |ImOV3D is a framework that enhances open-vocabulary 3D object detection (OV-3Det) by utilizing 2D images to address the limited availability of 3D annotations. |
 |[Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning.](https://pr-ryan.github.io/DEMO-project/) | DEMO is a framework that divides text and conditioning into content and motion elements. By employing separate encoders and conditioning for static content and dynamic motion, DEMO improves its ability to interpret and generate motion based on text prompts.|
-|[.]() | |
+|[Project Sid.](https://threadreaderapp.com/thread/1852397383939960926.html) |Project Sid demonstrates civilizational progress, specialization, governance, and the creation and dissemination of memes and religion. These developments are enabled by Altera's innovative cognitive architecture, PIANO. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Addicted to love: how dating apps ‘exploit’ their users.](https://www.theguardian.com/lifeandstyle/2024/nov/03/addicted-to-love-how-dating-apps-exploit-their-users) | Online services that promise to find people romantic matches have been likened to gambling products designed to keep customers hooked|
 |[Concerned about your data use? Here is the carbon footprint of an average day of emails, WhatsApps and more.](https://www.theguardian.com/environment/2024/oct/31/concerned-about-your-data-use-here-is-the-carbon-footprint-of-an-average-day-of-emails-whatsapps-and-more) | Vast datacentres are being built worldwide, amid growing concerns about the environmental costs. So should we all be considering a data diet – if not complete digital sobriety?|
 |[A field’s dilemmas.](https://www.science.org/content/article/five-biggest-challenges-facing-misinformation-researchers) |Misinformation research has exploded. But scientists are still grappling with fundamental challenges |
-|[.]() | |
+|[We're forking Flutter. This is why.](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) |Google's strategic shift towards AI has led to a deprioritization of Flutter's desktop platforms, resulting in a labor shortage for this previously fast-growing UI toolkit. In response, a fork named Flock is being developed to incorporate essential bug fixes and features that the Flutter team is unable to address, aiming to accelerate Flutter's growth through community involvement. Flock plans to enhance contribution processes and streamline PR reviews, bridging the gap in support and development pace left by the main Flutter team.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
