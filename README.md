@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Elon Musk’s ‘election integrity community’ on X is full of baseless claims.](https://www.theguardian.com/technology/2024/oct/31/elon-musk-election-integrity-community-misinformation-disinformation) | Feed is rife with posts of individuals deemed suspicious and calls for doxxing with little evidence provided of fault|
 |[.]() | |
 |[.]() | |
 |[.]() | |
