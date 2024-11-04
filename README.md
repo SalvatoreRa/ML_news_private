@@ -145,9 +145,9 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[ODRL: A Benchmark for Off-Dynamics Reinforcement Learning.](https://arxiv.org/abs/2410.20750v1) |ODRL is the first standardized benchmark designed to assess reinforcement learning methods in environments with differing dynamics. |
 |[Text-to-Image Model to Generate Memes.](https://arxiv.org/abs/2410.22901v1) | Researchers have created an innovative adapter method for text-to-image models, enabling them to tackle complex tasks such as meme video generation while preserving the base model's strong generalization abilities.|
 |[Anomaly Classification in Industry.](https://arxiv.org/abs/2410.14379v1) | AnomalyNCD is a multi-class anomaly classification framework intended to enhance traditional anomaly detection techniques in industrial environments.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MrT5: Dynamic Token Merging for Efficient Byte-level Language Models.](https://github.com/jkallini/mrt5) |Byte-level language models represent a move toward a token-free future, but the challenge of sequence length remains significant. Dynamically merging tokens can help increase the number of tokens within the context. |
+|[BART vectoriZed.](https://github.com/gattocrucco/bartz) |A new GPU-enabled implementation of Bayesian Additive Regression Trees (BART) significantly accelerates processing speed, making it up to 200 times faster than conventional CPU-based versions. |
+|[Huge new Diffusers release.](https://github.com/huggingface/diffusers/releases/tag/v0.30.0) |The Hugging Face Diffusers package now includes new pipelines like Flux, Stable Audio, Kolors, CogVideoX, Latte, and others, alongside new methods such as FreeNoise and SparseCtrl, plus various refactors. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
