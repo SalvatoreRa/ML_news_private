@@ -137,8 +137,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[The chatbot optimisation game: can we trust AI web searches?](https://www.theguardian.com/technology/2024/nov/03/the-chatbot-optimisation-game-can-we-trust-ai-web-searches) |Google and its rivals are increasingly employing AI-generated summaries, but research indicates their results are far from authoritative and open to manipulation |
+|[Addicted to love: how dating apps ‘exploit’ their users.](https://www.theguardian.com/lifeandstyle/2024/nov/03/addicted-to-love-how-dating-apps-exploit-their-users) | Online services that promise to find people romantic matches have been likened to gambling products designed to keep customers hooked|
 |[.]() | |
 |[.]() | |
 |[.]() | |
