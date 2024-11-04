@@ -91,8 +91,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Indonesia blocks Apple iPhone 16 sales over lack of investment.](https://www.theguardian.com/technology/2024/oct/28/indonesia-apple-iphone-16-ban) |Marketing and sale of model prohibited after tech giant fails to meet rule 40% of phones be made from local parts |
 |[25% of Smartphone Owners Don't Want AI as Apple Intelligence Debuts.](https://www.cnet.com/tech/mobile/25-of-smartphone-owners-dont-want-ai-as-apple-intelligence-debuts/) | What's a bigger priority? Longer battery life, according to a new CNET survey.|
 |[Google preps ‘Jarvis’ AI agent that works in Chrome.](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome) |Google's Project Jarvis, powered by Gemini 2.0, aims to automate web-based tasks in Chrome by using AI agents capable of reasoning and planning. |
-|[.]() | |
-|[.]() | |
+|[OpenAI’s Whisper transcription tool has hallucination issues, researchers say.](https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/) | OpenAI's Whisper, an AI transcription tool, has been found to produce hallucinations—fabricated text not present in the original audio—even in medical settings. Despite OpenAI's advisories against using Whisper in high-risk domains, over 30,000 medical professionals across 40 health systems have adopted it for transcribing patient consultations|
+|[Forerunner K2 humanoid robot can carry 33 lb in each dexterous hand.](https://newatlas.com/ai-humanoids/kepler-forerunner-k2-humanoid-robot/) |Kepler has introduced the Forerunner K2, a humanoid robot featuring advanced AI, upgraded hardware, and enhanced vision and navigation systems for improved real-time interaction. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
