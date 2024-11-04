@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk’s ‘election integrity community’ on X is full of baseless claims.](https://www.theguardian.com/technology/2024/oct/31/elon-musk-election-integrity-community-misinformation-disinformation) | Feed is rife with posts of individuals deemed suspicious and calls for doxxing with little evidence provided of fault|
 |[Microsoft sails as AI boom fuels double-digit growth in cloud business.](https://www.theguardian.com/technology/2024/oct/30/microsoft-earnings-increase-ai) |Revenue from Azure cloud business increased by 22% as company focuses attention on artificial intelligence |
 |[Apple reports robust demand for iPhone 16 even as overall sales in China slow.](https://www.theguardian.com/technology/2024/oct/31/apple-quarterly-earnings-iphone-16-china) | Company reports $94.9bn in revenue, slightly beating Wall Street projections in first look at demand for its new phone|
-|[.]() | |
+|[Distinguishing Ignorance from Error in LLM Hallucinations.](https://arxiv.org/abs/2410.22071) |This report describes efforts to replicate the capabilities of OpenAI's o1 model, introducing a journey learning technique that promotes a comprehensive exploration process rather than shortcut-based learning. This approach includes trial and error, reflection, and backtracking. With just 327 training samples, the journey learning technique outperformed shortcut learning by 8.0% on the MATH dataset. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AFlow: Automating Agentic Workflow Generation.](https://arxiv.org/abs/2410.10762) |A novel framework for automating agentic workflow generation, AFlow, reframes workflow optimization as a search problem over code-based workflows, where nodes invoking LLMs are linked by edges. It efficiently navigates the search space using a modified MCTS, refining workflows through code adjustments, tree-structured experience, and execution feedback. Tests on six benchmark datasets show AFlow’s effectiveness, with a 5.7% improvement over manual methods and a 19.5% boost over other automated approaches. AFlow also allows smaller models to outperform GPT-4 on specific tasks, requiring only 4.55% of its inference cost. |
-|[.]() | |
+|[O1 Replication Journey: A Strategic Progress Report -- Part 1.](https://arxiv.org/abs/2410.18982) | This report describes efforts to replicate the capabilities of OpenAI's o1 model, introducing a journey learning technique that promotes a comprehensive exploration process rather than shortcut-based learning. This approach includes trial and error, reflection, and backtracking. With just 327 training samples, the journey learning technique outperformed shortcut learning by 8.0% on the MATH dataset.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
