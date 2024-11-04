@@ -95,7 +95,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Forerunner K2 humanoid robot can carry 33 lb in each dexterous hand.](https://newatlas.com/ai-humanoids/kepler-forerunner-k2-humanoid-robot/) |Kepler has introduced the Forerunner K2, a humanoid robot featuring advanced AI, upgraded hardware, and enhanced vision and navigation systems for improved real-time interaction. |
 |[Introducing ChatGPT search.](https://openai.com/index/introducing-chatgpt-search/) |ChatGPT now offers an improved web search capability, providing quick, current answers with links to relevant sources—answers you'd typically seek through a search engine. This feature combines the ease of a natural language interface with access to real-time information, such as sports scores, news, stock prices, and more. |
 |[Advancing embodied AI through progress in touch perception, dexterity, and human-robot interaction.](https://ai.meta.com/blog/fair-robotics-open-source/) | This work features several components, including vision-based tactical sensing, innovative hardware touch sensors, and noteworthy strategic partnerships within robotics.|
-|[.]() | |
+|[Elon Musk’s xAI adds image understanding capabilities to Grok.](https://techcrunch.com/2024/10/28/xai-adds-image-understanding-capabilities-to-grok/) | This means that paid users on his social platform X, who have access to the AI chatbot, can upload an image and ask the AI questions about it.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
