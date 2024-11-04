@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Elon Musk’s ‘election integrity community’ on X is full of baseless claims.](https://www.theguardian.com/technology/2024/oct/31/elon-musk-election-integrity-community-misinformation-disinformation) | Feed is rife with posts of individuals deemed suspicious and calls for doxxing with little evidence provided of fault|
-|[.]() | |
+|[Microsoft sails as AI boom fuels double-digit growth in cloud business.](https://www.theguardian.com/technology/2024/oct/30/microsoft-earnings-increase-ai) |Revenue from Azure cloud business increased by 22% as company focuses attention on artificial intelligence |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The chatbot optimisation game: can we trust AI web searches?](https://www.theguardian.com/technology/2024/nov/03/the-chatbot-optimisation-game-can-we-trust-ai-web-searches) |Google and its rivals are increasingly employing AI-generated summaries, but research indicates their results are far from authoritative and open to manipulation |
 |[Addicted to love: how dating apps ‘exploit’ their users.](https://www.theguardian.com/lifeandstyle/2024/nov/03/addicted-to-love-how-dating-apps-exploit-their-users) | Online services that promise to find people romantic matches have been likened to gambling products designed to keep customers hooked|
-|[.]() | |
+|[Concerned about your data use? Here is the carbon footprint of an average day of emails, WhatsApps and more.](https://www.theguardian.com/environment/2024/oct/31/concerned-about-your-data-use-here-is-the-carbon-footprint-of-an-average-day-of-emails-whatsapps-and-more) | Vast datacentres are being built worldwide, amid growing concerns about the environmental costs. So should we all be considering a data diet – if not complete digital sobriety?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
