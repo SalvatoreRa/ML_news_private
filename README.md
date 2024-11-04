@@ -45,7 +45,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Geometry of Concepts: Sparse Autoencoder Feature Structure.](https://arxiv.org/abs/2410.19750) |This study investigates the geometric structure of concept representations in sparse autoencoders (SAEs) across three scales: (1) atomic-level parallelogram patterns among related concepts (e.g., man:woman::king:queen), (2) brain-like functional "lobes" dedicated to different knowledge types such as math or code, and (3) galaxy-level eigenvalue distributions, revealing a specialized structure within the middle layers of the model. |
 |[Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics.](https://arxiv.org/abs/2410.21272) | This approach employs causal analysis to identify neurons that reveal an LLM's behavior when performing basic arithmetic logic. It discovers and theorizes that a combination of heuristic neurons serves as the mechanism for generating accurate arithmetic answers, with the unordered blend of various heuristic types accounting for most of the model's accuracy on arithmetic prompts.|
 |[Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA.](https://arxiv.org/abs/2410.20672) | The Relaxed Recursive Transformer introduces a novel method for reducing LLM size by sharing parameters across layers without sacrificing performance. Initialized from standard pretrained Transformers, it employs a single block of unique layers repeated multiple times in a loop, adding flexibility through depth-wise low-rank adaptation (LoRA) modules. This approach demonstrates potential for significant (2-3×) improvements in inference throughput.|
-|[.]() | |
+|[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective.](https://github.com/mingliiii/layer_gradient) | This project examines how varying "thinking" styles—fast (concise) versus slow (detailed, such as chain-of-thought reasoning)—affect layer-wise gradients and stability in LLMs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications.](https://arxiv.org/abs/2410.21943) |This work offers insights on effectively integrating multimodal models into Retrieval-Augmented Generation (RAG) systems for the industrial sector. It also delves into evaluating these systems, utilizing LLM-as-a-Judge for comprehensive assessment. |
 |[You won't believe this.](https://www.science.org/content/article/can-people-be-inoculated-against-misinformation) |Researchers are trying to “inoculate” people against misinformation by giving them small doses ahead of time |
 |[3D Scene Reconstruction Without Camera Pose.](https://noposplat.github.io/) | NoPoSplat is a feed-forward model capable of reconstructing 3D scenes from sparse, multi-view images without requiring precise camera poses.|
-|[.]() | |
-|[.]() | |
+|[ImOV3D: Learning Open Vocabulary Point Clouds 3D Object Detection from Only 2D Images.](https://github.com/yangtiming/imov3d) |ImOV3D is a framework that enhances open-vocabulary 3D object detection (OV-3Det) by utilizing 2D images to address the limited availability of 3D annotations. |
+|[Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning.](https://pr-ryan.github.io/DEMO-project/) | DEMO is a framework that divides text and conditioning into content and motion elements. By employing separate encoders and conditioning for static content and dynamic motion, DEMO improves its ability to interpret and generate motion based on text prompts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
