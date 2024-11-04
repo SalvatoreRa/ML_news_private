@@ -99,7 +99,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -108,6 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AFlow: Automating Agentic Workflow Generation.](https://arxiv.org/abs/2410.10762) |A novel framework for automating agentic workflow generation, AFlow, reframes workflow optimization as a search problem over code-based workflows, where nodes invoking LLMs are linked by edges. It efficiently navigates the search space using a modified MCTS, refining workflows through code adjustments, tree-structured experience, and execution feedback. Tests on six benchmark datasets show AFlow’s effectiveness, with a 5.7% improvement over manual methods and a 19.5% boost over other automated approaches. AFlow also allows smaller models to outperform GPT-4 on specific tasks, requiring only 4.55% of its inference cost. |
 |[O1 Replication Journey: A Strategic Progress Report -- Part 1.](https://arxiv.org/abs/2410.18982) | This report describes efforts to replicate the capabilities of OpenAI's o1 model, introducing a journey learning technique that promotes a comprehensive exploration process rather than shortcut-based learning. This approach includes trial and error, reflection, and backtracking. With just 327 training samples, the journey learning technique outperformed shortcut learning by 8.0% on the MATH dataset.|
 |[Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications.](https://arxiv.org/abs/2410.21943) |This work offers insights on effectively integrating multimodal models into Retrieval-Augmented Generation (RAG) systems for the industrial sector. It also delves into evaluating these systems, utilizing LLM-as-a-Judge for comprehensive assessment. |
+|[You won't believe this.](https://www.science.org/content/article/can-people-be-inoculated-against-misinformation) |Researchers are trying to “inoculate” people against misinformation by giving them small doses ahead of time |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The chatbot optimisation game: can we trust AI web searches?](https://www.theguardian.com/technology/2024/nov/03/the-chatbot-optimisation-game-can-we-trust-ai-web-searches) |Google and its rivals are increasingly employing AI-generated summaries, but research indicates their results are far from authoritative and open to manipulation |
 |[Addicted to love: how dating apps ‘exploit’ their users.](https://www.theguardian.com/lifeandstyle/2024/nov/03/addicted-to-love-how-dating-apps-exploit-their-users) | Online services that promise to find people romantic matches have been likened to gambling products designed to keep customers hooked|
 |[Concerned about your data use? Here is the carbon footprint of an average day of emails, WhatsApps and more.](https://www.theguardian.com/environment/2024/oct/31/concerned-about-your-data-use-here-is-the-carbon-footprint-of-an-average-day-of-emails-whatsapps-and-more) | Vast datacentres are being built worldwide, amid growing concerns about the environmental costs. So should we all be considering a data diet – if not complete digital sobriety?|
-|[.]() | |
+|[A field’s dilemmas.](https://www.science.org/content/article/five-biggest-challenges-facing-misinformation-researchers) |Misinformation research has exploded. But scientists are still grappling with fundamental challenges |
 |[.]() | |
 |[.]() | |
 |[.]() | |
