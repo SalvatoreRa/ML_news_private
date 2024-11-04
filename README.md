@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Elon Musk’s ‘election integrity community’ on X is full of baseless claims.](https://www.theguardian.com/technology/2024/oct/31/elon-musk-election-integrity-community-misinformation-disinformation) | Feed is rife with posts of individuals deemed suspicious and calls for doxxing with little evidence provided of fault|
 |[Microsoft sails as AI boom fuels double-digit growth in cloud business.](https://www.theguardian.com/technology/2024/oct/30/microsoft-earnings-increase-ai) |Revenue from Azure cloud business increased by 22% as company focuses attention on artificial intelligence |
-|[.]() | |
+|[Apple reports robust demand for iPhone 16 even as overall sales in China slow.](https://www.theguardian.com/technology/2024/oct/31/apple-quarterly-earnings-iphone-16-china) | Company reports $94.9bn in revenue, slightly beating Wall Street projections in first look at demand for its new phone|
 |[.]() | |
 |[.]() | |
 |[.]() | |
