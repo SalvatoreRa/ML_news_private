@@ -81,8 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI will start using AMD chips and could make its own AI hardware in 2026.](https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips) | Reuters reports an updated hardware strategy to run ChatGPT and OpenAI’s other projects involves using AMD chips via Microsoft Azure in addition to Nvidia.|
 |[Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?](https://arxiv.org/abs/2410.23856v1) | This study addresses a specific challenge in LLMs: evaluating how effectively they process reasoning prompts that include irrelevant or incorrect rationale snippets.|
 |[What is Wrong with Perplexity for Long-context Language Modeling?](https://arxiv.org/abs/2410.23771v1) | This study uncovers a significant limitation of using perplexity (PPL) to assess LLMs' long-context abilities, as PPL averages across all tokens, overlooking critical ones necessary for interpreting extended inputs. To address this, the authors propose LongPPL, a metric that emphasizes these essential tokens, providing a more accurate measure of long-context performance.|
-|[.]() | |
-|[.]() | |
+|[Google’s AI search summaries are rolling out to over 100 more countrie.](https://www.theverge.com/2024/10/28/24281860/google-ai-search-summaries-expand-more-countries) |Google’s AI Overviews are expanding across more than 100 countries this week. The AI-generated search summaries will appear for users in Canada, Australia, New Zealand, South Africa, Colombia, Chile, the Phillippines, Nigeria, and many more locations. |
+|[Elon Musk finally admits Tesla’s HW3 might not support full self-driving.](https://electrek.co/2024/10/23/elon-musk-finally-admits-teslas-hw3-might-not-support-full-self-driving/) | Elon Musk finally admits Tesla’s HW3 might not support full self-driving and that he doesn’t actually know what it will take. Millions of Tesla vehicles are equipped with HW3 computers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ImOV3D: Learning Open Vocabulary Point Clouds 3D Object Detection from Only 2D Images.](https://github.com/yangtiming/imov3d) |ImOV3D is a framework that enhances open-vocabulary 3D object detection (OV-3Det) by utilizing 2D images to address the limited availability of 3D annotations. |
 |[Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning.](https://pr-ryan.github.io/DEMO-project/) | DEMO is a framework that divides text and conditioning into content and motion elements. By employing separate encoders and conditioning for static content and dynamic motion, DEMO improves its ability to interpret and generate motion based on text prompts.|
 |[Project Sid.](https://threadreaderapp.com/thread/1852397383939960926.html) |Project Sid demonstrates civilizational progress, specialization, governance, and the creation and dissemination of memes and religion. These developments are enabled by Altera's innovative cognitive architecture, PIANO. |
-|[.]() | |
+|[Using Reinforcement Learning and $4.80 of GPU Time to Find the Best HN Post Ever.](https://openpipe.ai/blog/hacker-news-rlhf-part-1) | This article explores the use of reinforcement learning from human feedback (RLHF) to create a reward model that predicts upvote counts for Hacker News stories. Using a rich dataset and only $4.80 of GPU time, the model was trained on attributes like titles, authors, and content to prioritize post quality. The goal is to apply RLHF to foster the generation of high-value content. While not flawless, the model effectively identifies overlooked stories and can anticipate potential front-page hits.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
