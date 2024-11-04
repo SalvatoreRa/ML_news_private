@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The Geometry of Concepts: Sparse Autoencoder Feature Structure.](https://arxiv.org/abs/2410.19750) |This study investigates the geometric structure of concept representations in sparse autoencoders (SAEs) across three scales: (1) atomic-level parallelogram patterns among related concepts (e.g., man:woman::king:queen), (2) brain-like functional "lobes" dedicated to different knowledge types such as math or code, and (3) galaxy-level eigenvalue distributions, revealing a specialized structure within the middle layers of the model. |
-|[.]() | |
+|[Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics.](https://arxiv.org/abs/2410.21272) | This approach employs causal analysis to identify neurons that reveal an LLM's behavior when performing basic arithmetic logic. It discovers and theorizes that a combination of heuristic neurons serves as the mechanism for generating accurate arithmetic answers, with the unordered blend of various heuristic types accounting for most of the model's accuracy on arithmetic prompts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[AFlow: Automating Agentic Workflow Generation.](https://arxiv.org/abs/2410.10762) |A novel framework for automating agentic workflow generation, AFlow, reframes workflow optimization as a search problem over code-based workflows, where nodes invoking LLMs are linked by edges. It efficiently navigates the search space using a modified MCTS, refining workflows through code adjustments, tree-structured experience, and execution feedback. Tests on six benchmark datasets show AFlow’s effectiveness, with a 5.7% improvement over manual methods and a 19.5% boost over other automated approaches. AFlow also allows smaller models to outperform GPT-4 on specific tasks, requiring only 4.55% of its inference cost. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
