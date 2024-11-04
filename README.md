@@ -40,6 +40,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 # ML news: Week 28 October - 3 November
 
 ## Research
+
 |Link|description|
 |---|---|
 |[A Theoretical Understanding of Chain-of-Thought.](https://arxiv.org/abs/2410.16540) |reveals that incorporating both correct and incorrect reasoning paths in demonstrations enhances the accuracy of intermediate steps and Chain-of-Thought (CoT) processes. The new approach, called Coherent CoT, substantially boosts performance across multiple benchmarks. Specifically, Gemini Pro shows a 6.60% improvement on the Tracking Shuffled Objects dataset (rising from 58.20% to 64.80%), while DeepSeek 67B achieves a 6.17% increase on the Penguins in a Table dataset (from 73.97% to 80.14%). |
@@ -56,18 +57,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs.](https://arxiv.org/abs/2410.18779) |In this work, DeepMind demonstrates how a small language model can be used to provide soft supervision labels and identify informative or challenging data points for pretraining, significantly accelerating the pretraining process. |
 |[NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction.](https://arxiv.org/abs/2410.19452v1) |The NeuroClips framework introduces advancements in reconstructing continuous videos from fMRI brain scans by decoding both high-level semantic information and fine-grained perceptual details. |
 |[Machine-guided design of cell-type-targeting cis-regulatory elements.](https://www.nature.com/articles/s41586-024-08070-z) |A generalizable framework to prospectively engineer cis-regulatory elements from massively parallel reporter assay models can be used to write fit-for-purpose regulatory code. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -101,9 +91,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Google plans to announce its next Gemini model soon.](https://www.theverge.com/2024/10/25/24279600/google-next-gemini-ai-model-openai-december) |December is shaping up to be a month of dueling announcements from OpenAI and Google.  |
 |[Meta is reportedly developing a search engine for its chatbot.](https://www.engadget.com/ai/meta-is-reportedly-developing-a-search-engine-for-its-chatbot-172505704.html) | The company wants to decrease Meta AI’s reliance on Google and Microsoft.|
 |[A mysterious new image generation model has appeared.](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/) |A mysterious new image generation model is beating models from Midjourney, Black Forest Labs, and OpenAI on the crowdsourced Artificial Analysis benchmark. The model, which goes by the name “red_panda,” is around 40 Elo points ahead of the next-best-ranking model, Black Forest Labs’ Flux1.1 Pro, on Artificial Analysis’ text-to-image leaderboard.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -149,13 +137,6 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[BART vectoriZed.](https://github.com/gattocrucco/bartz) |A new GPU-enabled implementation of Bayesian Additive Regression Trees (BART) significantly accelerates processing speed, making it up to 200 times faster than conventional CPU-based versions. |
 |[Huge new Diffusers release.](https://github.com/huggingface/diffusers/releases/tag/v0.30.0) |The Hugging Face Diffusers package now includes new pipelines like Flux, Stable Audio, Kolors, CogVideoX, Latte, and others, alongside new methods such as FreeNoise and SparseCtrl, plus various refactors. |
 |[4 experiments with voice AI models to help you explore culture.](https://blog.google/outreach-initiatives/arts-culture/4-experimentations-with-voice-ai-models-to-help-you-explore-culture/) |Google’s voice AI models allow users to engage with culture in innovative ways. Projects like Talking Tours provide AI-guided virtual tours, Mice in the Museum offers art narration, and Lip Sync animates lips to discuss cultural topics. These entertaining tools offer new perspectives on art and design. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -175,17 +156,6 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Evaluating feature steering: A case study in mitigating social biases.](https://www.anthropic.com/research/evaluating-feature-steering) | This study investigates the use of feature steering in AI models to adjust outputs in an interpretable way. It identifies a "steering sweet spot," where modifications do not compromise performance. Results demonstrate that steering can adjust social biases within specific areas but may also produce unintended effects outside those targets. Continued research is necessary to enhance feature steering, aiming for safer and more dependable AI outcomes.|
 |[How we saved hundreds of engineering hours by writing tests with LLMs.](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms) | Assembled leverages LLMs to speed up and enhance software testing, allowing tests to be generated in minutes rather than hours. This approach boosts engineering productivity, saving time and enabling a stronger focus on feature development. LLMs create thorough and precise tests that uphold code quality and sustain development speed.|
 |[How to train LLM as a judge to drive business value.](https://hamel.dev/blog/posts/llm-judge/) |"LLM As a Judge" is an approach for leveraging an existing language model to rank and score natural language. This post provides guidelines for effectively using this method to process or assess data. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 21 - 27 October
 
