@@ -97,10 +97,10 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Advancing embodied AI through progress in touch perception, dexterity, and human-robot interaction.](https://ai.meta.com/blog/fair-robotics-open-source/) | This work features several components, including vision-based tactical sensing, innovative hardware touch sensors, and noteworthy strategic partnerships within robotics.|
 |[Elon Musk’s xAI adds image understanding capabilities to Grok.](https://techcrunch.com/2024/10/28/xai-adds-image-understanding-capabilities-to-grok/) | This means that paid users on his social platform X, who have access to the AI chatbot, can upload an image and ask the AI questions about it.|
 |[OpenAI CFO Says 75% of Its Revenue Comes From Paying Consumers.](https://finance.yahoo.com/news/openai-cfo-says-75-revenue-163713534.html) |OpenAI generates the vast majority of its revenue from consumers who pay for its products, Chief Financial Officer Sarah Friar said, even as the artificial intelligence startup competes in a crowded market to sign up more corporate customers. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Hello Patient.](https://www.hellopatient.com/) | Hello Patient has emerged from stealth mode, securing a $6.3 million seed funding round led by 8VC. The company, founded by Alex Cohen, is based in Austin, Texas. |
+|[Google plans to announce its next Gemini model soon.](https://www.theverge.com/2024/10/25/24279600/google-next-gemini-ai-model-openai-december) |December is shaping up to be a month of dueling announcements from OpenAI and Google.  |
+|[Meta is reportedly developing a search engine for its chatbot.](https://www.engadget.com/ai/meta-is-reportedly-developing-a-search-engine-for-its-chatbot-172505704.html) | The company wants to decrease Meta AI’s reliance on Google and Microsoft.|
+|[A mysterious new image generation model has appeared.](https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared/) |A mysterious new image generation model is beating models from Midjourney, Black Forest Labs, and OpenAI on the crowdsourced Artificial Analysis benchmark. The model, which goes by the name “red_panda,” is around 40 Elo points ahead of the next-best-ranking model, Black Forest Labs’ Flux1.1 Pro, on Artificial Analysis’ text-to-image leaderboard.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
