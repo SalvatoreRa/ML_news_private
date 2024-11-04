@@ -42,7 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[The Geometry of Concepts: Sparse Autoencoder Feature Structure.](https://arxiv.org/abs/2410.19750) |This study investigates the geometric structure of concept representations in sparse autoencoders (SAEs) across three scales: (1) atomic-level parallelogram patterns among related concepts (e.g., man:woman::king:queen), (2) brain-like functional "lobes" dedicated to different knowledge types such as math or code, and (3) galaxy-level eigenvalue distributions, revealing a specialized structure within the middle layers of the model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
