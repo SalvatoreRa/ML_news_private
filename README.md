@@ -128,6 +128,18 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[MINT-1T.](https://github.com/mlfoundations/MINT-1T) | MINT-1T, a vast open-source multimodal dataset, has been released with one trillion text tokens and 3.4 billion images, incorporating diverse content from HTML, PDFs, and ArXiv papers. This dataset, roughly ten times larger than previous collections, is intended to accelerate advancements in large-scale multimodal machine learning research.|
 |[LARP: Tokenizing Videos 🎬 with a Learned Autoregressive Generative Prior 🚀.](https://hywang66.github.io/larp/) |LARP is a novel video tokenizer designed to enhance video generation in autoregressive (AR) models by prioritizing global visual features over individual patch-based details. |
 |[OpenAI's new hallucination benchmark.](https://openai.com/index/introducing-simpleqa/) |OpenAI has released the SimpleQA benchmark, which measures models' abilities around simple factual questions. |
+|[ThunderKittens.](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2) |Thunder Kittens is a framework designed for creating highly efficient GPU kernels. It leverages the principle that GPUs are optimized for working with compact 16x16 data tiles, resulting in high usability. With this approach, achieving 40% faster kernels requires only a few hundred lines of code.  |
+|[Skinned Motion Retargeting with Dense Geometric Interaction Perception.](https://abcyzj.github.io/MeshRet/) |MeshRet has developed an innovative method for enhancing motion retargeting for 3D characters, prioritizing the preservation of body geometry interactions from the outset. |
+|[Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance.](https://arxiv.org/abs/2410.13136v1) | Researchers have improved Masked Generative Models (MGMs) by introducing a self-guidance sampling technique, which enhances image generation quality without compromising diversity.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
