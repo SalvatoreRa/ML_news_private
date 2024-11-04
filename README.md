@@ -127,7 +127,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution.](https://arxiv.org/abs/2410.16256v1) |CompassJudger-1 is the first open-source, comprehensive judge model created to enhance the evaluation process for large language models (LLMs). |
 |[MINT-1T.](https://github.com/mlfoundations/MINT-1T) | MINT-1T, a vast open-source multimodal dataset, has been released with one trillion text tokens and 3.4 billion images, incorporating diverse content from HTML, PDFs, and ArXiv papers. This dataset, roughly ten times larger than previous collections, is intended to accelerate advancements in large-scale multimodal machine learning research.|
 |[LARP: Tokenizing Videos 🎬 with a Learned Autoregressive Generative Prior 🚀.](https://hywang66.github.io/larp/) |LARP is a novel video tokenizer designed to enhance video generation in autoregressive (AR) models by prioritizing global visual features over individual patch-based details. |
-|[.]() | |
+|[OpenAI's new hallucination benchmark.](https://openai.com/index/introducing-simpleqa/) |OpenAI has released the SimpleQA benchmark, which measures models' abilities around simple factual questions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,8 +152,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[The huge protein database that spawned AlphaFold and biology’s AI revolution.](https://www.nature.com/articles/d41586-024-03423-0) |Pioneering crystallographer Helen Berman helped to set up the massive collection of protein structures that underpins the Nobel-prize-winning tool’s success. |
 |[Extreme fire seasons are looming — science can help us adapt.](https://www.nature.com/articles/d41586-024-03433-y) | Not all wildfires can be averted, but data, models and collaborations can help to chart a course to a fire-resilient future.|
 |[AI-designed DNA sequences regulate cell-type-specific gene expression.](https://www.nature.com/articles/d41586-024-03170-2) |Researchers have used artificial-intelligence models to create regulatory DNA sequences that drive gene expression in specific cell types. Such synthetic sequences could be used to target gene therapies to particular cell populations. |
-|[.]() | |
-|[.]() | |
+|[Pushing the frontiers of audio generation.](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/) | DeepMind has shared additional details about the audio generation models behind NotebookLM.|
+|[Evaluating feature steering: A case study in mitigating social biases.](https://www.anthropic.com/research/evaluating-feature-steering) | This study investigates the use of feature steering in AI models to adjust outputs in an interpretable way. It identifies a "steering sweet spot," where modifications do not compromise performance. Results demonstrate that steering can adjust social biases within specific areas but may also produce unintended effects outside those targets. Continued research is necessary to enhance feature steering, aiming for safer and more dependable AI outcomes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
