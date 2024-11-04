@@ -142,9 +142,9 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting.](https://cvlab-kaist.github.io/PF3plat/) |PF3plat addresses the challenge of 3D reconstruction and novel view synthesis from RGB images without requiring additional data. |
 |[Fine-tuning LLMs to 1.58bit: extreme quantization made easy.](https://huggingface.co/blog/1_58_llm_extreme_quantization) |BitNet, created by Microsoft Research, presents a transformer architecture that lowers the computational and memory demands of large language models by employing ternary precision (-1, 0, 1), equating to 1.58 bits per parameter. This architecture requires models to be trained from scratch, but it can also fine-tune existing models to this low-precision format while retaining high performance on downstream tasks. This technique greatly reduces energy consumption and enhances inference speed through specialized kernels that enable efficient matrix multiplication. |
 |[SELECT: A Large-Scale Benchmark of Data Curation Strategies for Image Recognition.](https://github.com/jimmyxu123/select) | SELECT is the inaugural extensive benchmark designed to evaluate various data curation methods in image classification. ImageNet++ is a newly developed dataset that augments ImageNet-1K by incorporating five additional training-data variations, each curated through distinct techniques.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ODRL: A Benchmark for Off-Dynamics Reinforcement Learning.](https://arxiv.org/abs/2410.20750v1) |ODRL is the first standardized benchmark designed to assess reinforcement learning methods in environments with differing dynamics. |
+|[Text-to-Image Model to Generate Memes.](https://arxiv.org/abs/2410.22901v1) | Researchers have created an innovative adapter method for text-to-image models, enabling them to tackle complex tasks such as meme video generation while preserving the base model's strong generalization abilities.|
+|[Anomaly Classification in Industry.](https://arxiv.org/abs/2410.14379v1) | AnomalyNCD is a multi-class anomaly classification framework intended to enhance traditional anomaly detection techniques in industrial environments.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
