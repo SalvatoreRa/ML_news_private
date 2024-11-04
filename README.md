@@ -93,8 +93,8 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Google preps ‘Jarvis’ AI agent that works in Chrome.](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome) |Google's Project Jarvis, powered by Gemini 2.0, aims to automate web-based tasks in Chrome by using AI agents capable of reasoning and planning. |
 |[OpenAI’s Whisper transcription tool has hallucination issues, researchers say.](https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/) | OpenAI's Whisper, an AI transcription tool, has been found to produce hallucinations—fabricated text not present in the original audio—even in medical settings. Despite OpenAI's advisories against using Whisper in high-risk domains, over 30,000 medical professionals across 40 health systems have adopted it for transcribing patient consultations|
 |[Forerunner K2 humanoid robot can carry 33 lb in each dexterous hand.](https://newatlas.com/ai-humanoids/kepler-forerunner-k2-humanoid-robot/) |Kepler has introduced the Forerunner K2, a humanoid robot featuring advanced AI, upgraded hardware, and enhanced vision and navigation systems for improved real-time interaction. |
-|[.]() | |
-|[.]() | |
+|[Introducing ChatGPT search.](https://openai.com/index/introducing-chatgpt-search/) |ChatGPT now offers an improved web search capability, providing quick, current answers with links to relevant sources—answers you'd typically seek through a search engine. This feature combines the ease of a natural language interface with access to real-time information, such as sports scores, news, stock prices, and more. |
+|[Advancing embodied AI through progress in touch perception, dexterity, and human-robot interaction.](https://ai.meta.com/blog/fair-robotics-open-source/) | This work features several components, including vision-based tactical sensing, innovative hardware touch sensors, and noteworthy strategic partnerships within robotics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
