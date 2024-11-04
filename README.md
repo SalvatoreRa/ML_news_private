@@ -89,6 +89,13 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Google parent Alphabet sees double-digit growth as AI bets boost cloud business.](https://www.theguardian.com/technology/2024/oct/29/alphabet-google-earnings-report) |Analysts expected 12% year-on-year revenue gains, but company reports 15%, buoyed by performance in ads and cloud services |
 |[EU events on curbing big tech ‘distorted’ by attenders with industry links.](https://www.theguardian.com/world/2024/oct/29/eu-events-curbing-big-tech-distorted-attenders-hidden-industry-links) |Campaigners say 21% of people at workshops did not disclose on their applications relationships with firms being discussed |
 |[Indonesia blocks Apple iPhone 16 sales over lack of investment.](https://www.theguardian.com/technology/2024/oct/28/indonesia-apple-iphone-16-ban) |Marketing and sale of model prohibited after tech giant fails to meet rule 40% of phones be made from local parts |
+|[25% of Smartphone Owners Don't Want AI as Apple Intelligence Debuts.](https://www.cnet.com/tech/mobile/25-of-smartphone-owners-dont-want-ai-as-apple-intelligence-debuts/) | What's a bigger priority? Longer battery life, according to a new CNET survey.|
+|[Google preps ‘Jarvis’ AI agent that works in Chrome.](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome) |Google's Project Jarvis, powered by Gemini 2.0, aims to automate web-based tasks in Chrome by using AI agents capable of reasoning and planning. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
