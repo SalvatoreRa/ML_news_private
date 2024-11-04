@@ -131,9 +131,9 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[ThunderKittens.](https://hazyresearch.stanford.edu/blog/2024-10-29-tk2) |Thunder Kittens is a framework designed for creating highly efficient GPU kernels. It leverages the principle that GPUs are optimized for working with compact 16x16 data tiles, resulting in high usability. With this approach, achieving 40% faster kernels requires only a few hundred lines of code.  |
 |[Skinned Motion Retargeting with Dense Geometric Interaction Perception.](https://abcyzj.github.io/MeshRet/) |MeshRet has developed an innovative method for enhancing motion retargeting for 3D characters, prioritizing the preservation of body geometry interactions from the outset. |
 |[Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance.](https://arxiv.org/abs/2410.13136v1) | Researchers have improved Masked Generative Models (MGMs) by introducing a self-guidance sampling technique, which enhances image generation quality without compromising diversity.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Speeding Up Transformers with Token Merging.](https://github.com/hchautran/PiToMe) |This project presents PiToMe, an algorithm that compresses Vision Transformers by gradually merging tokens after each layer, thereby decreasing the number of tokens processed. |
+|[PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting.](https://cvlab-kaist.github.io/PF3plat/) |PF3plat addresses the challenge of 3D reconstruction and novel view synthesis from RGB images without requiring additional data. |
+|[Fine-tuning LLMs to 1.58bit: extreme quantization made easy.](https://huggingface.co/blog/1_58_llm_extreme_quantization) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
