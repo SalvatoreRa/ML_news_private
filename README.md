@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What is Wrong with Perplexity for Long-context Language Modeling?](https://arxiv.org/abs/2410.23771v1) | This study uncovers a significant limitation of using perplexity (PPL) to assess LLMs' long-context abilities, as PPL averages across all tokens, overlooking critical ones necessary for interpreting extended inputs. To address this, the authors propose LongPPL, a metric that emphasizes these essential tokens, providing a more accurate measure of long-context performance.|
 |[Google’s AI search summaries are rolling out to over 100 more countrie.](https://www.theverge.com/2024/10/28/24281860/google-ai-search-summaries-expand-more-countries) |Google’s AI Overviews are expanding across more than 100 countries this week. The AI-generated search summaries will appear for users in Canada, Australia, New Zealand, South Africa, Colombia, Chile, the Phillippines, Nigeria, and many more locations. |
 |[Elon Musk finally admits Tesla’s HW3 might not support full self-driving.](https://electrek.co/2024/10/23/elon-musk-finally-admits-teslas-hw3-might-not-support-full-self-driving/) | Elon Musk finally admits Tesla’s HW3 might not support full self-driving and that he doesn’t actually know what it will take. Millions of Tesla vehicles are equipped with HW3 computers.|
-|[.]() | |
+|[NVIDIA Ethernet Networking Accelerates World’s Largest AI Supercomputer, Built by xAI.](https://nvidianews.nvidia.com/news/spectrum-x-ethernet-networking-xai-colossus) |xAI's Colossus is powered by NVIDIA's Spectrum-X Ethernet networking platform. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
