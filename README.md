@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The Geometry of Concepts: Sparse Autoencoder Feature Structure.](https://arxiv.org/abs/2410.19750) |This study investigates the geometric structure of concept representations in sparse autoencoders (SAEs) across three scales: (1) atomic-level parallelogram patterns among related concepts (e.g., man:woman::king:queen), (2) brain-like functional "lobes" dedicated to different knowledge types such as math or code, and (3) galaxy-level eigenvalue distributions, revealing a specialized structure within the middle layers of the model. |
 |[Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics.](https://arxiv.org/abs/2410.21272) | This approach employs causal analysis to identify neurons that reveal an LLM's behavior when performing basic arithmetic logic. It discovers and theorizes that a combination of heuristic neurons serves as the mechanism for generating accurate arithmetic answers, with the unordered blend of various heuristic types accounting for most of the model's accuracy on arithmetic prompts.|
-|[.]() | |
+|[Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA.](https://arxiv.org/abs/2410.20672) | The Relaxed Recursive Transformer introduces a novel method for reducing LLM size by sharing parameters across layers without sacrificing performance. Initialized from standard pretrained Transformers, it employs a single block of unique layers repeated multiple times in a loop, adding flexibility through depth-wise low-rank adaptation (LoRA) modules. This approach demonstrates potential for significant (2-3×) improvements in inference throughput.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
