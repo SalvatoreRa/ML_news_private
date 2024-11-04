@@ -96,7 +96,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Introducing ChatGPT search.](https://openai.com/index/introducing-chatgpt-search/) |ChatGPT now offers an improved web search capability, providing quick, current answers with links to relevant sources—answers you'd typically seek through a search engine. This feature combines the ease of a natural language interface with access to real-time information, such as sports scores, news, stock prices, and more. |
 |[Advancing embodied AI through progress in touch perception, dexterity, and human-robot interaction.](https://ai.meta.com/blog/fair-robotics-open-source/) | This work features several components, including vision-based tactical sensing, innovative hardware touch sensors, and noteworthy strategic partnerships within robotics.|
 |[Elon Musk’s xAI adds image understanding capabilities to Grok.](https://techcrunch.com/2024/10/28/xai-adds-image-understanding-capabilities-to-grok/) | This means that paid users on his social platform X, who have access to the AI chatbot, can upload an image and ask the AI questions about it.|
-|[.]() | |
+|[OpenAI CFO Says 75% of Its Revenue Comes From Paying Consumers.](https://finance.yahoo.com/news/openai-cfo-says-75-revenue-163713534.html) |OpenAI generates the vast majority of its revenue from consumers who pay for its products, Chief Financial Officer Sarah Friar said, even as the artificial intelligence startup competes in a crowded market to sign up more corporate customers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[MrT5: Dynamic Token Merging for Efficient Byte-level Language Models.](https://github.com/jkallini/mrt5) |Byte-level language models represent a move toward a token-free future, but the challenge of sequence length remains significant. Dynamically merging tokens can help increase the number of tokens within the context. |
 |[BART vectoriZed.](https://github.com/gattocrucco/bartz) |A new GPU-enabled implementation of Bayesian Additive Regression Trees (BART) significantly accelerates processing speed, making it up to 200 times faster than conventional CPU-based versions. |
 |[Huge new Diffusers release.](https://github.com/huggingface/diffusers/releases/tag/v0.30.0) |The Hugging Face Diffusers package now includes new pipelines like Flux, Stable Audio, Kolors, CogVideoX, Latte, and others, alongside new methods such as FreeNoise and SparseCtrl, plus various refactors. |
-|[.]() | |
+|[4 experiments with voice AI models to help you explore culture.](https://blog.google/outreach-initiatives/arts-culture/4-experimentations-with-voice-ai-models-to-help-you-explore-culture/) |Google’s voice AI models allow users to engage with culture in innovative ways. Projects like Talking Tours provide AI-guided virtual tours, Mice in the Museum offers art narration, and Lip Sync animates lips to discuss cultural topics. These entertaining tools offer new perspectives on art and design. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -174,7 +174,7 @@ from LLMs to MLLMs.](https://github.com/hewei2001/reachqa) | Code-as-Intermediar
 |[Pushing the frontiers of audio generation.](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/) | DeepMind has shared additional details about the audio generation models behind NotebookLM.|
 |[Evaluating feature steering: A case study in mitigating social biases.](https://www.anthropic.com/research/evaluating-feature-steering) | This study investigates the use of feature steering in AI models to adjust outputs in an interpretable way. It identifies a "steering sweet spot," where modifications do not compromise performance. Results demonstrate that steering can adjust social biases within specific areas but may also produce unintended effects outside those targets. Continued research is necessary to enhance feature steering, aiming for safer and more dependable AI outcomes.|
 |[How we saved hundreds of engineering hours by writing tests with LLMs.](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms) | Assembled leverages LLMs to speed up and enhance software testing, allowing tests to be generated in minutes rather than hours. This approach boosts engineering productivity, saving time and enabling a stronger focus on feature development. LLMs create thorough and precise tests that uphold code quality and sustain development speed.|
-|[.]() | |
+|[How to train LLM as a judge to drive business value.](https://hamel.dev/blog/posts/llm-judge/) |"LLM As a Judge" is an approach for leveraging an existing language model to rank and score natural language. This post provides guidelines for effectively using this method to process or assess data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
