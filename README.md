@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Using Reinforcement Learning and $4.80 of GPU Time to Find the Best HN Post Ever.](https://openpipe.ai/blog/hacker-news-rlhf-part-1) | This article explores the use of reinforcement learning from human feedback (RLHF) to create a reward model that predicts upvote counts for Hacker News stories. Using a rich dataset and only $4.80 of GPU time, the model was trained on attributes like titles, authors, and content to prioritize post quality. The goal is to apply RLHF to foster the generation of high-value content. While not flawless, the model effectively identifies overlooked stories and can anticipate potential front-page hits.|
 |[Models for PII detection.](https://gretel.ai/blog/gliner-models-for-pii-detection) | The GLINER models and dataset are synthetic datasets designed specifically for use with synthetic data.|
 |[Randomized Autoregressive Visual Generation.](https://arxiv.org/abs/2411.00776v1) |This study presents Randomized AutoRegressive (RAR) modeling for image generation, achieving state-of-the-art performance on the ImageNet-256 benchmark with an impressive FID score of 1.48. |
-|[.]() | |
+|[hertz-dev-open source speech-to-speech.](https://github.com/Standard-Intelligence/hertz-dev) | An exceptionally impressive open release with a permissive license, this model was trained to generate human speech from various input modalities. The code is of high quality and includes intriguing details about the encoder and decoder architectures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
