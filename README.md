@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude 3.5 Haiku now available.](https://www.anthropic.com/claude/haiku) | Claude 3.5 Haiku is slightly inferior to GPT-4o and lacks vision capabilities, but it remains highly intelligent and is cost-effective compared to other models of similar quality.|
 |[7 AI news that Google announced in October.](https://blog.google/technology/ai/google-ai-updates-october-2024/) |This article summarizes seven AI updates from October, including Google Maps' largest AI enhancement, guidance on using NotebookLM, and additional methods for asking questions, searching for information, and accessing an AI Overview. |
 |[Sapien Raises $8.7M Seed Led by General Catalyst.](https://www.getsapien.com/blog-posts/sapien-raises-8-7m-seed-led-by-general-catalyst) | Sapien is advancing AI-driven financial analysis tools that convert intricate, error-prone tasks into swift insights, revolutionizing the role of Chief Financial Officers (CFOs). The platform consolidates data from diverse sources to deliver dynamic, context-aware analyses, aiming to eradicate human errors in financial processes. Recently, Sapien secured $8.7 million in funding, with plans to expand and enhance its AI capabilities to empower finance teams across various industries|
-|[.]() | |
+|[ElevenLabs has hired the team behind Omnivore, a reader app.](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) |Generative AI company ElevenLabs has hired the team behind Omnivore, an open source read-it-later app. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Randomized Autoregressive Visual Generation.](https://arxiv.org/abs/2411.00776v1) |This study presents Randomized AutoRegressive (RAR) modeling for image generation, achieving state-of-the-art performance on the ImageNet-256 benchmark with an impressive FID score of 1.48. |
 |[hertz-dev-open source speech-to-speech.](https://github.com/Standard-Intelligence/hertz-dev) | An exceptionally impressive open release with a permissive license, this model was trained to generate human speech from various input modalities. The code is of high quality and includes intriguing details about the encoder and decoder architectures.|
 |[DiffeRT.](https://github.com/jeertmans/DiffeRT) |This project introduces an innovative Machine Learning-assisted Ray Tracing method for radio propagation modeling, aimed at reducing the high computational demands of conventional approaches. |
-|[.]() | |
+|[How I write code using Cursor: A review.](https://www.arguingwithalgorithms.com/posts/cursor-review.html) |Cursor, a VS Code fork, incorporates LLM-powered features like tab completion and chat interfaces to simplify coding by automating boilerplate and repetitive changes. Although tab completion is quick and efficient, it occasionally provides incorrect suggestions. The tool promotes new workflow patterns, minimizing dependency on libraries for boilerplate and enabling faster iteration in unfamiliar languages or frameworks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
