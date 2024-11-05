@@ -89,6 +89,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[7 AI news that Google announced in October.](https://blog.google/technology/ai/google-ai-updates-october-2024/) |This article summarizes seven AI updates from October, including Google Maps' largest AI enhancement, guidance on using NotebookLM, and additional methods for asking questions, searching for information, and accessing an AI Overview. |
 |[Sapien Raises $8.7M Seed Led by General Catalyst.](https://www.getsapien.com/blog-posts/sapien-raises-8-7m-seed-led-by-general-catalyst) | Sapien is advancing AI-driven financial analysis tools that convert intricate, error-prone tasks into swift insights, revolutionizing the role of Chief Financial Officers (CFOs). The platform consolidates data from diverse sources to deliver dynamic, context-aware analyses, aiming to eradicate human errors in financial processes. Recently, Sapien secured $8.7 million in funding, with plans to expand and enhance its AI capabilities to empower finance teams across various industries|
 |[ElevenLabs has hired the team behind Omnivore, a reader app.](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/) |Generative AI company ElevenLabs has hired the team behind Omnivore, an open source read-it-later app. |
+|[LinkedIn launches its first AI agent to take on the role of job recruiters.](https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/) |  Hiring Assistant is a new product designed to take on a wide array of recruitment tasks, from ingesting scrappy notes and thoughts to turn into longer job descriptions to sourcing candidates and engaging with them. |
+|[Anthropic’s Claude AI chatbot now has a desktop app.](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app) | Claude, the AI chatbot made by Anthropic, now has a desktop app. You can download the Mac and Windows versions of the app from Anthropic’s website for free.|
+|[Meta is making a robot hand that can ‘feel’ touch.](https://techcrunch.com/2024/10/31/meta-is-making-a-robot-hand-that-can-feel-touch/) |Meta says it’s partnering with sensor firm GelSight and Wonik Robotics, a South Korean robotics company, to commercialize tactile sensors for AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -99,6 +102,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 
 ## Resources
