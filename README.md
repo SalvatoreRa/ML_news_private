@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA.](https://arxiv.org/abs/2410.20672) | The Relaxed Recursive Transformer introduces a novel method for reducing LLM size by sharing parameters across layers without sacrificing performance. Initialized from standard pretrained Transformers, it employs a single block of unique layers repeated multiple times in a loop, adding flexibility through depth-wise low-rank adaptation (LoRA) modules. This approach demonstrates potential for significant (2-3×) improvements in inference throughput.|
 |[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective.](https://github.com/mingliiii/layer_gradient) | This project examines how varying "thinking" styles—fast (concise) versus slow (detailed, such as chain-of-thought reasoning)—affect layer-wise gradients and stability in LLMs.|
 |[B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable.](https://arxiv.org/abs/2411.00715v1) |"B-cosification" is a technique that adjusts existing pre-trained models to provide highly interpretable explanations of their predictions. |
-|[.]() | |
+|[Learning Graph Quantized Tokenizers for Transformers.](https://arxiv.org/abs/2410.13798v1) | GQT (Graph Quantized Tokenizer) is a novel tokenizer for graph data in geometric deep learning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[French parents whose children took own lives sue TikTok over harmful content.](https://www.theguardian.com/technology/2024/nov/04/french-families-sue-tiktok-exposure-harmful-content-suicide-self-harm-eating-disorders) |Lawsuit alleges TikTok’s algorithm exposed teenagers to videos promoting suicide, self-harm and eating disorders |
 |[Claude 3.5 Haiku now available.](https://www.anthropic.com/claude/haiku) | Claude 3.5 Haiku is slightly inferior to GPT-4o and lacks vision capabilities, but it remains highly intelligent and is cost-effective compared to other models of similar quality.|
 |[7 AI news that Google announced in October.](https://blog.google/technology/ai/google-ai-updates-october-2024/) |This article summarizes seven AI updates from October, including Google Maps' largest AI enhancement, guidance on using NotebookLM, and additional methods for asking questions, searching for information, and accessing an AI Overview. |
-|[.]() | |
+|[Sapien Raises $8.7M Seed Led by General Catalyst.](https://www.getsapien.com/blog-posts/sapien-raises-8-7m-seed-led-by-general-catalyst) | Sapien is advancing AI-driven financial analysis tools that convert intricate, error-prone tasks into swift insights, revolutionizing the role of Chief Financial Officers (CFOs). The platform consolidates data from diverse sources to deliver dynamic, context-aware analyses, aiming to eradicate human errors in financial processes. Recently, Sapien secured $8.7 million in funding, with plans to expand and enhance its AI capabilities to empower finance teams across various industries|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Models for PII detection.](https://gretel.ai/blog/gliner-models-for-pii-detection) | The GLINER models and dataset are synthetic datasets designed specifically for use with synthetic data.|
 |[Randomized Autoregressive Visual Generation.](https://arxiv.org/abs/2411.00776v1) |This study presents Randomized AutoRegressive (RAR) modeling for image generation, achieving state-of-the-art performance on the ImageNet-256 benchmark with an impressive FID score of 1.48. |
 |[hertz-dev-open source speech-to-speech.](https://github.com/Standard-Intelligence/hertz-dev) | An exceptionally impressive open release with a permissive license, this model was trained to generate human speech from various input modalities. The code is of high quality and includes intriguing details about the encoder and decoder architectures.|
-|[.]() | |
+|[DiffeRT.](https://github.com/jeertmans/DiffeRT) |This project introduces an innovative Machine Learning-assisted Ray Tracing method for radio propagation modeling, aimed at reducing the high computational demands of conventional approaches. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[We're forking Flutter. This is why.](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) |Google's strategic shift towards AI has led to a deprioritization of Flutter's desktop platforms, resulting in a labor shortage for this previously fast-growing UI toolkit. In response, a fork named Flock is being developed to incorporate essential bug fixes and features that the Flutter team is unable to address, aiming to accelerate Flutter's growth through community involvement. Flock plans to enhance contribution processes and streamline PR reviews, bridging the gap in support and development pace left by the main Flutter team.  |
 |[Devious humour and painful puns: will the cryptic crossword remain the last thing AI can’t conquer?](https://www.theguardian.com/crosswords/crossword-blog/2024/nov/04/cryptic-crossword-ai-conquer-human-solvers-artificial-intelligence-software) |When human solvers battle artificial intelligence, who is able to think more cryptically, faster? And are some devious clues just too tough for software? |
 |[Meta’s AI Abundance.](https://stratechery.com/2024/metas-ai-abundance/) |Meta is strategically poised to leverage generative AI, particularly in digital advertising. The company's investments in AI, including its Llama models, support innovative advertising strategies like generative ads and AI-driven chat agents. These advancements aim to enhance ad targeting and efficiency, potentially boosting demand and revenue. Meta's focus on integrating AI across its platforms underscores its commitment to maintaining a competitive edge in the rapidly evolving AI landscape. |
-|[.]() | |
+|[The AI Services Wave: Lessons from Palantir in The New Age of AI.](https://www.8vc.com/resources/the-ai-services-wave-lessons-from-palantir-in-the-new-age-of-ai) |Artificial intelligence (AI) is transforming service industries by enhancing scalability and efficiency. Companies like Palantir are at the forefront, integrating AI into operations to streamline processes. Startups are also leveraging AI to automate complex tasks, creating significant value and reshaping business models. The emphasis is on developing AI-driven "tech-services" that blend software capabilities with human expertise, leading to improved outcomes and increased market competitiveness. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
