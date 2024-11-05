@@ -85,8 +85,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk finally admits Tesla’s HW3 might not support full self-driving.](https://electrek.co/2024/10/23/elon-musk-finally-admits-teslas-hw3-might-not-support-full-self-driving/) | Elon Musk finally admits Tesla’s HW3 might not support full self-driving and that he doesn’t actually know what it will take. Millions of Tesla vehicles are equipped with HW3 computers.|
 |[NVIDIA Ethernet Networking Accelerates World’s Largest AI Supercomputer, Built by xAI.](https://nvidianews.nvidia.com/news/spectrum-x-ethernet-networking-xai-colossus) |xAI's Colossus is powered by NVIDIA's Spectrum-X Ethernet networking platform. |
 |[French parents whose children took own lives sue TikTok over harmful content.](https://www.theguardian.com/technology/2024/nov/04/french-families-sue-tiktok-exposure-harmful-content-suicide-self-harm-eating-disorders) |Lawsuit alleges TikTok’s algorithm exposed teenagers to videos promoting suicide, self-harm and eating disorders |
-|[.]() | |
-|[.]() | |
+|[Claude 3.5 Haiku now available.](https://www.anthropic.com/claude/haiku) | Claude 3.5 Haiku is slightly inferior to GPT-4o and lacks vision capabilities, but it remains highly intelligent and is cost-effective compared to other models of similar quality.|
+|[7 AI news that Google announced in October.](https://blog.google/technology/ai/google-ai-updates-october-2024/) |This article summarizes seven AI updates from October, including Google Maps' largest AI enhancement, guidance on using NotebookLM, and additional methods for asking questions, searching for information, and accessing an AI Overview. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A field’s dilemmas.](https://www.science.org/content/article/five-biggest-challenges-facing-misinformation-researchers) |Misinformation research has exploded. But scientists are still grappling with fundamental challenges |
 |[We're forking Flutter. This is why.](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/) |Google's strategic shift towards AI has led to a deprioritization of Flutter's desktop platforms, resulting in a labor shortage for this previously fast-growing UI toolkit. In response, a fork named Flock is being developed to incorporate essential bug fixes and features that the Flutter team is unable to address, aiming to accelerate Flutter's growth through community involvement. Flock plans to enhance contribution processes and streamline PR reviews, bridging the gap in support and development pace left by the main Flutter team.  |
 |[Devious humour and painful puns: will the cryptic crossword remain the last thing AI can’t conquer?](https://www.theguardian.com/crosswords/crossword-blog/2024/nov/04/cryptic-crossword-ai-conquer-human-solvers-artificial-intelligence-software) |When human solvers battle artificial intelligence, who is able to think more cryptically, faster? And are some devious clues just too tough for software? |
-|[.]() | |
+|[Meta’s AI Abundance.](https://stratechery.com/2024/metas-ai-abundance/) |Meta is strategically poised to leverage generative AI, particularly in digital advertising. The company's investments in AI, including its Llama models, support innovative advertising strategies like generative ads and AI-driven chat agents. These advancements aim to enhance ad targeting and efficiency, potentially boosting demand and revenue. Meta's focus on integrating AI across its platforms underscores its commitment to maintaining a competitive edge in the rapidly evolving AI landscape. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
