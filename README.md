@@ -144,6 +144,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OS-ATLAS: A Foundation Action Model For Generalist GUI Agents.](https://osatlas.github.io/) | MVPaint tackles the difficulties of texture and UV generation for 3D assets by synchronizing these tasks, producing high-quality, multi-view consistent textures.|
 |[PPLLaVA: Short and Long Video Understanding.](https://github.com/farewellthree/ppllava) |PPLLaVA is a novel model designed to effectively comprehend both short and long videos, addressing a significant challenge in video-based AI. It employs a unique pooling strategy that compresses visual tokens and aggregates features based on user instructions, enhancing its ability to process varied video lengths. This approach enables PPLLaVA to achieve state-of-the-art performance across various video benchmarks, excelling in tasks from caption generation to multiple-choice questions |
 |[Hunyuan3D-1.](https://github.com/tencent/Hunyuan3D-1) |Hunyuan3D-1.0 is an advanced generative 3D model with robust multi-view synthesis capabilities. While its outputs may not yet be production-ready, they provide a valuable foundation for artists aiming to create assets. |
+|[AndroidLab.](https://github.com/THUDM/Android-Lab) | Benchmark for autonomous agents on the Android mobile operating system.|
+|[Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge.](https://vis-www.cs.umass.edu/CHAIC) |Constrained Human-AI Cooperation (CHAIC) is a challenge aimed at evaluating the ability of AI agents to work effectively with humans who have physical constraints. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
