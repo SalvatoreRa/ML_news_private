@@ -141,9 +141,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiffeRT.](https://github.com/jeertmans/DiffeRT) |This project introduces an innovative Machine Learning-assisted Ray Tracing method for radio propagation modeling, aimed at reducing the high computational demands of conventional approaches. |
 |[How I write code using Cursor: A review.](https://www.arguingwithalgorithms.com/posts/cursor-review.html) |Cursor, a VS Code fork, incorporates LLM-powered features like tab completion and chat interfaces to simplify coding by automating boilerplate and repetitive changes. Although tab completion is quick and efficient, it occasionally provides incorrect suggestions. The tool promotes new workflow patterns, minimizing dependency on libraries for boilerplate and enabling faster iteration in unfamiliar languages or frameworks.|
 |[MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D.](https://mvpaint.github.io/) | MVPaint addresses the challenges of texture and UV generation for 3D assets by synchronizing these processes, resulting in high-quality, multi-view consistent textures|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OS-ATLAS: A Foundation Action Model For Generalist GUI Agents.](https://osatlas.github.io/) | MVPaint tackles the difficulties of texture and UV generation for 3D assets by synchronizing these tasks, producing high-quality, multi-view consistent textures.|
+|[PPLLaVA: Short and Long Video Understanding.](https://github.com/farewellthree/ppllava) |PPLLaVA is a novel model designed to effectively comprehend both short and long videos, addressing a significant challenge in video-based AI. It employs a unique pooling strategy that compresses visual tokens and aggregates features based on user instructions, enhancing its ability to process varied video lengths. This approach enables PPLLaVA to achieve state-of-the-art performance across various video benchmarks, excelling in tasks from caption generation to multiple-choice questions |
+|[Hunyuan3D-1.](https://github.com/tencent/Hunyuan3D-1) |Hunyuan3D-1.0 is an advanced generative 3D model with robust multi-view synthesis capabilities. While its outputs may not yet be production-ready, they provide a valuable foundation for artists aiming to create assets. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
