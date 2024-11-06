@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic’s Claude AI chatbot now has a desktop app.](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app) | Claude, the AI chatbot made by Anthropic, now has a desktop app. You can download the Mac and Windows versions of the app from Anthropic’s website for free.|
 |[Meta is making a robot hand that can ‘feel’ touch.](https://techcrunch.com/2024/10/31/meta-is-making-a-robot-hand-that-can-feel-touch/) |Meta says it’s partnering with sensor firm GelSight and Wonik Robotics, a South Korean robotics company, to commercialize tactile sensors for AI. |
 |[Elon Musk sued over $1m-a-day election giveaway.](https://www.theguardian.com/technology/2024/nov/05/elon-musk-america-pac-election-giveaway-lawsuit) | Complaint alleges Musk’s America Pac deceived voters by falsely claiming prize winners would be chosen at random|
-|[.]() | |
+|[AI chatbot launches on Gov.UK to help business users – with mixed results.](https://www.theguardian.com/technology/2024/nov/05/ai-chatbot-launches-on-govuk-to-help-business-users-with-mixed-results) | Initial test run of GPT-4o technology can help with regulations but ‘cannot provide predictions or opinions’|
 |[.]() | |
 |[.]() | |
 |[.]() | |
