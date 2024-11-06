@@ -95,6 +95,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk sued over $1m-a-day election giveaway.](https://www.theguardian.com/technology/2024/nov/05/elon-musk-america-pac-election-giveaway-lawsuit) | Complaint alleges Musk’s America Pac deceived voters by falsely claiming prize winners would be chosen at random|
 |[AI chatbot launches on Gov.UK to help business users – with mixed results.](https://www.theguardian.com/technology/2024/nov/05/ai-chatbot-launches-on-govuk-to-help-business-users-with-mixed-results) | Initial test run of GPT-4o technology can help with regulations but ‘cannot provide predictions or opinions’|
 |[OpenAI’s o1 model leaked on Friday and it is wild — here’s what happened.](https://www.tomsguide.com/ai/chatgpt/openais-o1-model-leaked-on-friday-and-it-is-wild-heres-what-happened) |OpenAI's o1 model demonstrates notable advancements in reasoning and accuracy compared to GPT-4, featuring image analysis and web tool capabilities. The complete version is expected to significantly enhance AI and multimedia processing, with an official release anticipated shortly after the U.S. Presidential election. |
+|[Meta’s former hardware lead for Orion is joining OpenAI.](https://techcrunch.com/2024/11/04/metas-former-hardware-lead-for-orion-is-joining-openai/) | The former head of Meta’s augmented reality glasses efforts announced on Monday she is joining OpenAI to lead robotics and consumer hardware, according to a post on LinkedIn.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[hertz-dev-open source speech-to-speech.](https://github.com/Standard-Intelligence/hertz-dev) | An exceptionally impressive open release with a permissive license, this model was trained to generate human speech from various input modalities. The code is of high quality and includes intriguing details about the encoder and decoder architectures.|
 |[DiffeRT.](https://github.com/jeertmans/DiffeRT) |This project introduces an innovative Machine Learning-assisted Ray Tracing method for radio propagation modeling, aimed at reducing the high computational demands of conventional approaches. |
 |[How I write code using Cursor: A review.](https://www.arguingwithalgorithms.com/posts/cursor-review.html) |Cursor, a VS Code fork, incorporates LLM-powered features like tab completion and chat interfaces to simplify coding by automating boilerplate and repetitive changes. Although tab completion is quick and efficient, it occasionally provides incorrect suggestions. The tool promotes new workflow patterns, minimizing dependency on libraries for boilerplate and enabling faster iteration in unfamiliar languages or frameworks.|
-|[.]() | |
+|[MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D.](https://mvpaint.github.io/) | MVPaint addresses the challenges of texture and UV generation for 3D assets by synchronizing these processes, resulting in high-quality, multi-view consistent textures|
 |[.]() | |
 |[.]() | |
 |[.]() | |
