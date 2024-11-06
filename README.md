@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LinkedIn launches its first AI agent to take on the role of job recruiters.](https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/) |  Hiring Assistant is a new product designed to take on a wide array of recruitment tasks, from ingesting scrappy notes and thoughts to turn into longer job descriptions to sourcing candidates and engaging with them. |
 |[Anthropic’s Claude AI chatbot now has a desktop app.](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app) | Claude, the AI chatbot made by Anthropic, now has a desktop app. You can download the Mac and Windows versions of the app from Anthropic’s website for free.|
 |[Meta is making a robot hand that can ‘feel’ touch.](https://techcrunch.com/2024/10/31/meta-is-making-a-robot-hand-that-can-feel-touch/) |Meta says it’s partnering with sensor firm GelSight and Wonik Robotics, a South Korean robotics company, to commercialize tactile sensors for AI. |
-|[.]() | |
+|[Elon Musk sued over $1m-a-day election giveaway.](https://www.theguardian.com/technology/2024/nov/05/elon-musk-america-pac-election-giveaway-lawsuit) | Complaint alleges Musk’s America Pac deceived voters by falsely claiming prize winners would be chosen at random|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -155,7 +155,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Devious humour and painful puns: will the cryptic crossword remain the last thing AI can’t conquer?](https://www.theguardian.com/crosswords/crossword-blog/2024/nov/04/cryptic-crossword-ai-conquer-human-solvers-artificial-intelligence-software) |When human solvers battle artificial intelligence, who is able to think more cryptically, faster? And are some devious clues just too tough for software? |
 |[Meta’s AI Abundance.](https://stratechery.com/2024/metas-ai-abundance/) |Meta is strategically poised to leverage generative AI, particularly in digital advertising. The company's investments in AI, including its Llama models, support innovative advertising strategies like generative ads and AI-driven chat agents. These advancements aim to enhance ad targeting and efficiency, potentially boosting demand and revenue. Meta's focus on integrating AI across its platforms underscores its commitment to maintaining a competitive edge in the rapidly evolving AI landscape. |
 |[The AI Services Wave: Lessons from Palantir in The New Age of AI.](https://www.8vc.com/resources/the-ai-services-wave-lessons-from-palantir-in-the-new-age-of-ai) |Artificial intelligence (AI) is transforming service industries by enhancing scalability and efficiency. Companies like Palantir are at the forefront, integrating AI into operations to streamline processes. Startups are also leveraging AI to automate complex tasks, creating significant value and reshaping business models. The emphasis is on developing AI-driven "tech-services" that blend software capabilities with human expertise, leading to improved outcomes and increased market competitiveness. |
-|[.]() | |
+|[X reaches its final form: Elon Musk has bent it to his will.](https://www.theguardian.com/technology/2024/nov/04/elon-musk-x-network-donald-trump) |The evolution of Musk’s X network is complete; why Reddit is profitable; and niche Halloween costumes |
 |[.]() | |
 |[.]() | |
 |[.]() | |
