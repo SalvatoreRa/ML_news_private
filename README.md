@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable.](https://arxiv.org/abs/2411.00715v1) |"B-cosification" is a technique that adjusts existing pre-trained models to provide highly interpretable explanations of their predictions. |
 |[Learning Graph Quantized Tokenizers for Transformers.](https://arxiv.org/abs/2410.13798v1) | GQT (Graph Quantized Tokenizer) is a novel tokenizer for graph data in geometric deep learning.|
 |[V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization.](https://arxiv.org/abs/2411.02712v1) |Vision-guided Direct Preference Optimization (V-DPO) tackles hallucination problems in large vision-language models (LVLMs), where text responses may diverge from visual input due to an excessive focus on language. |
-|[.]() | |
+|[Adam Alternative for Deep Learning Optimization.](https://arxiv.org/abs/2411.02853v1) |ADOPT is an adaptive gradient optimizer designed to resolve the non-convergence problems of Adam, without depending on restrictive assumptions regarding gradient noise. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Facebook asks US supreme court to dismiss fraud suit over Cambridge Analytica scandal.](https://www.theguardian.com/technology/2024/nov/06/facebook-cambridge-analytica-lawsuit) | Securities fraud lawsuit brought by shareholders accuses the social media platform of misleading them about misuse of user data|
 |[Anthropic hikes the price of its Haiku model.](https://techcrunch.com/2024/11/04/anthropic-hikes-the-price-of-its-haiku-model/) | Anthropic's latest AI model, Claude 3.5 Haiku, delivers better performance than Claude 3 Opus but comes with a much higher cost. While it doesn’t support image analysis, it excels in tasks like coding, data extraction, and content moderation. The price hike prompts concerns about Anthropic's future pricing approach.|
 |[OpenAI acquired Chat.com.](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) |OpenAI bought Chat.com, adding to its collection of high-profile domain names. As of this morning, Chat.com now redirects to OpenAI’s AI-powered chatbot, ChatGPT. An OpenAI spokesperson confirmed the acquisition via email. |
-|[.]() | |
-|[.]() | |
+|[Pushing the frontiers of audio generation.](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/) |ADOPT is an adaptive gradient optimizer designed to resolve the non-convergence problems of Adam, without depending on restrictive assumptions regarding gradient noise. |
+|[Octoverse: AI leads Python to top language as the number of global developers surges.](https://github.blog/news-insights/octoverse/octoverse-2024/) | AI project engagement has surged rapidly due to a rise in data science and machine learning activities. Python has now become more popular than JavaScript. The developer community is experiencing global growth, particularly in Africa, Latin America, and Asia, driven by tools like GitHub Copilot. There is also a growing trend toward creating smaller, more efficient AI models. Additionally, generative AI projects have almost doubled worldwide.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,7 +150,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Classification Done Right for Vision-Language Pre-Training.](https://arxiv.org/abs/2411.03313v2) | SuperClass is a simple classification model for vision-language tasks that bypasses the need for a text encoder, unlike contrastive models such as CLIP. It eliminates the need for complex text filtering and large batch sizes by using tokenized raw text directly as classification labels.|
 |[Enhancing RAG with HTML Data.](https://github.com/plageon/HtmlRAG) |HtmlRAG is an innovative approach that enhances retrieval-augmented generation (RAG) by preserving the HTML structure of retrieved web content rather than simplifying it to plain text. |
 |[LiVOS: Light Video Object Segmentation with Gated Linear Matching.](https://github.com/uncbiag/livos) |LiVOS is a lightweight video object segmentation (VOS) model designed to lower memory usage, making it possible to segment long, high-resolution videos with reduced hardware requirements. |
-|[.]() | |
+|[How To Create Software Diagrams With ChatGPT and Claude.](https://thenewstack.io/how-to-create-software-diagrams-with-chatgpt-and-claude/) |The article discusses how developers can leverage ChatGPT and Claude to generate software architecture diagrams. It emphasizes the iterative process of refining diagrams with the help of multimodal AI and tools such as Mermaid and Whimsical. The author showcases the advantages of using LLMs for diagramming, illustrating how they handle images and offer real-time feedback. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
