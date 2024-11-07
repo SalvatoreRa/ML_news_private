@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective.](https://github.com/mingliiii/layer_gradient) | This project examines how varying "thinking" styles—fast (concise) versus slow (detailed, such as chain-of-thought reasoning)—affect layer-wise gradients and stability in LLMs.|
 |[B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable.](https://arxiv.org/abs/2411.00715v1) |"B-cosification" is a technique that adjusts existing pre-trained models to provide highly interpretable explanations of their predictions. |
 |[Learning Graph Quantized Tokenizers for Transformers.](https://arxiv.org/abs/2410.13798v1) | GQT (Graph Quantized Tokenizer) is a novel tokenizer for graph data in geometric deep learning.|
-|[.]() | |
+|[V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization.](https://arxiv.org/abs/2411.02712v1) |Vision-guided Direct Preference Optimization (V-DPO) tackles hallucination problems in large vision-language models (LVLMs), where text responses may diverge from visual input due to an excessive focus on language. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hunyuan3D-1.](https://github.com/tencent/Hunyuan3D-1) |Hunyuan3D-1.0 is an advanced generative 3D model with robust multi-view synthesis capabilities. While its outputs may not yet be production-ready, they provide a valuable foundation for artists aiming to create assets. |
 |[AndroidLab.](https://github.com/THUDM/Android-Lab) | Benchmark for autonomous agents on the Android mobile operating system.|
 |[Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge.](https://vis-www.cs.umass.edu/CHAIC) |Constrained Human-AI Cooperation (CHAIC) is a challenge aimed at evaluating the ability of AI agents to work effectively with humans who have physical constraints. |
-|[.]() | |
+|[A Scalable Communication Protocol for Networks of Large Language Models.](https://agoraprotocol.org/) | Agora is a straightforward, cross-platform protocol designed for efficient communication between LLM agents, allowing diverse agents to interact at a significantly reduced cost. It seamlessly integrates with existing multiagent frameworks like Camel AI, LangChain, and Swarm.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
