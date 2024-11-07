@@ -147,9 +147,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AndroidLab.](https://github.com/THUDM/Android-Lab) | Benchmark for autonomous agents on the Android mobile operating system.|
 |[Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge.](https://vis-www.cs.umass.edu/CHAIC) |Constrained Human-AI Cooperation (CHAIC) is a challenge aimed at evaluating the ability of AI agents to work effectively with humans who have physical constraints. |
 |[A Scalable Communication Protocol for Networks of Large Language Models.](https://agoraprotocol.org/) | Agora is a straightforward, cross-platform protocol designed for efficient communication between LLM agents, allowing diverse agents to interact at a significantly reduced cost. It seamlessly integrates with existing multiagent frameworks like Camel AI, LangChain, and Swarm.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Classification Done Right for Vision-Language Pre-Training.](https://arxiv.org/abs/2411.03313v2) | SuperClass is a simple classification model for vision-language tasks that bypasses the need for a text encoder, unlike contrastive models such as CLIP. It eliminates the need for complex text filtering and large batch sizes by using tokenized raw text directly as classification labels.|
+|[Enhancing RAG with HTML Data.](https://github.com/plageon/HtmlRAG) |HtmlRAG is an innovative approach that enhances retrieval-augmented generation (RAG) by preserving the HTML structure of retrieved web content rather than simplifying it to plain text. |
+|[LiVOS: Light Video Object Segmentation with Gated Linear Matching.](https://github.com/uncbiag/livos) |LiVOS is a lightweight video object segmentation (VOS) model designed to lower memory usage, making it possible to segment long, high-resolution videos with reduced hardware requirements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
