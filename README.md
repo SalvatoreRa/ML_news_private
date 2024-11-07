@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta is using more than 100,000 Nvidia H100 AI GPUs to train Llama-4 — Mark Zuckerberg says that Llama 4 is being trained on a cluster “bigger than anything that I’ve seen”.](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-is-using-more-than-100-000-nvidia-h100-ai-gpus-to-train-llama-4-mark-zuckerberg-says-that-llama-4-is-being-trained-on-a-cluster-bigger-than-anything-that-ive-seen) |Llama 4 slated to have new modalities, stronger reasoning, and faster performance |
 |[Wonder Dynamics now lets you go straight from multi-camera video to fully animated 3D scene.](https://techcrunch.com/2024/10/30/wonder-dynamics-now-lets-you-go-straight-from-multi-camera-video-to-fully-animated-3d-scene/) |Wonder Dynamics launched a tool that automates converting videos into fully editable 3D scenes. |
 |[Facebook asks US supreme court to dismiss fraud suit over Cambridge Analytica scandal.](https://www.theguardian.com/technology/2024/nov/06/facebook-cambridge-analytica-lawsuit) | Securities fraud lawsuit brought by shareholders accuses the social media platform of misleading them about misuse of user data|
-|[.]() | |
-|[.]() | |
+|[Anthropic hikes the price of its Haiku model.](https://techcrunch.com/2024/11/04/anthropic-hikes-the-price-of-its-haiku-model/) | Anthropic's latest AI model, Claude 3.5 Haiku, delivers better performance than Claude 3 Opus but comes with a much higher cost. While it doesn’t support image analysis, it excels in tasks like coding, data extraction, and content moderation. The price hike prompts concerns about Anthropic's future pricing approach.|
+|[OpenAI acquired Chat.com.](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) |OpenAI bought Chat.com, adding to its collection of high-profile domain names. As of this morning, Chat.com now redirects to OpenAI’s AI-powered chatbot, ChatGPT. An OpenAI spokesperson confirmed the acquisition via email. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
