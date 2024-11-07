@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI acquired Chat.com.](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/) |OpenAI bought Chat.com, adding to its collection of high-profile domain names. As of this morning, Chat.com now redirects to OpenAI’s AI-powered chatbot, ChatGPT. An OpenAI spokesperson confirmed the acquisition via email. |
 |[Pushing the frontiers of audio generation.](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/) |ADOPT is an adaptive gradient optimizer designed to resolve the non-convergence problems of Adam, without depending on restrictive assumptions regarding gradient noise. |
 |[Octoverse: AI leads Python to top language as the number of global developers surges.](https://github.blog/news-insights/octoverse/octoverse-2024/) | AI project engagement has surged rapidly due to a rise in data science and machine learning activities. Python has now become more popular than JavaScript. The developer community is experiencing global growth, particularly in Africa, Latin America, and Asia, driven by tools like GitHub Copilot. There is also a growing trend toward creating smaller, more efficient AI models. Additionally, generative AI projects have almost doubled worldwide.|
-|[.]() | |
-|[.]() | |
+|[Nvidia to join Dow Jones Industrial Average, replacing rival chipmaker Intel.](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html) |Nvidia is replacing Intel in the Dow Jones Industrial Average, a shakeup that reflects a massive change in the semiconductor industry. Nvidia shares have gained more than 170% this year, while Intel has lost over half its value.|
+|[Google's 'Big Sleep' AI Project Uncovers Real Software Vulnerabilities.](https://www.pcmag.com/news/googles-big-sleep-ai-project-uncovers-real-software-vulnerabilities) | The company's experimental AI agent finds a previously unknown and exploitable software bug in SQLite, an open-source database engine.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
