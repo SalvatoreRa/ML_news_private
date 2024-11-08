@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization.](https://arxiv.org/abs/2411.02712v1) |Vision-guided Direct Preference Optimization (V-DPO) tackles hallucination problems in large vision-language models (LVLMs), where text responses may diverge from visual input due to an excessive focus on language. |
 |[Adam Alternative for Deep Learning Optimization.](https://arxiv.org/abs/2411.02853v1) |ADOPT is an adaptive gradient optimizer designed to resolve the non-convergence problems of Adam, without depending on restrictive assumptions regarding gradient noise. |
 |[A faster, better way to train general-purpose robots.](https://news.mit.edu/2024/training-general-purpose-robots-faster-better-1028) |Inspired by large language models, researchers develop a training technique that pools diverse data to teach robots new skills. |
-|[.]() | |
+|[Vision Language Models are In-Context Value Learners.](https://generative-value-learning.github.io/) |Visual Language Models (VLMs) are capable of learning skills through the use of prompts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral launches a moderation API.](https://techcrunch.com/2024/11/07/mistral-launches-a-moderation-api/) |AI startup Mistral has launched a new API for content moderation. |
 |[Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations.](https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/) | Palantir and Anthropic have collaborated to make the Claude suite of models available on AWS for U.S. intelligence agencies and defense operations.|
 |[ChatGPT Can Now Control a Robot Arm.](https://futurism.com/the-byte/chatgpt-control-robot-arm-clean-spill) |Researchers from UC Berkeley and ETH Zurich utilized GPT-4 to train cost-effective robot arms for cleaning spills. They accomplished this by incorporating a multimodal agent called LangChain, which translates LLM inputs into robotic actions. This research demonstrates a novel proof-of-concept for human-robot interaction and democratizes robotics using open-source technology. |
-|[.]() | |
+|[OpenAI in talks with regulators to become a for-profit company: Report.](https://cointelegraph.com/news/chat-gpt-creator-openai-in-talks-for-profit-company) |The $157 billion artificial intelligence giant wants to retain a nonprofit arm to pursue its mission of benevolent AI development.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
