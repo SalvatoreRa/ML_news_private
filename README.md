@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[First artwork painted by humanoid robot to sell at auction fetches $1m.](https://www.theguardian.com/artanddesign/2024/nov/08/alan-turing-portrait-ai-da-robot-painting-sale-price-auction) | Portrait of English mathematician Alan Turing was created by Ai-Da, one of the most advanced robots in the world|
 |[Mistral launches a moderation API.](https://techcrunch.com/2024/11/07/mistral-launches-a-moderation-api/) |AI startup Mistral has launched a new API for content moderation. |
 |[Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations.](https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/) | Palantir and Anthropic have collaborated to make the Claude suite of models available on AWS for U.S. intelligence agencies and defense operations.|
-|[.]() | |
+|[ChatGPT Can Now Control a Robot Arm.](https://futurism.com/the-byte/chatgpt-control-robot-arm-clean-spill) |Researchers from UC Berkeley and ETH Zurich utilized GPT-4 to train cost-effective robot arms for cleaning spills. They accomplished this by incorporating a multimodal agent called LangChain, which translates LLM inputs into robotic actions. This research demonstrates a novel proof-of-concept for human-robot interaction and democratizes robotics using open-source technology. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enhancing RAG with HTML Data.](https://github.com/plageon/HtmlRAG) |HtmlRAG is an innovative approach that enhances retrieval-augmented generation (RAG) by preserving the HTML structure of retrieved web content rather than simplifying it to plain text. |
 |[LiVOS: Light Video Object Segmentation with Gated Linear Matching.](https://github.com/uncbiag/livos) |LiVOS is a lightweight video object segmentation (VOS) model designed to lower memory usage, making it possible to segment long, high-resolution videos with reduced hardware requirements. |
 |[How To Create Software Diagrams With ChatGPT and Claude.](https://thenewstack.io/how-to-create-software-diagrams-with-chatgpt-and-claude/) |The article discusses how developers can leverage ChatGPT and Claude to generate software architecture diagrams. It emphasizes the iterative process of refining diagrams with the help of multimodal AI and tools such as Mermaid and Whimsical. The author showcases the advantages of using LLMs for diagramming, illustrating how they handle images and offer real-time feedback. |
-|[.]() | |
+|[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks.](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) |Microsoft has introduced Magnetic-One, a multi-agent system built upon its open-source AutoGen framework. This system utilizes GPT-4o as the backend model to facilitate agentic behavior, enabling the orchestration of multiple AI agents to perform complex tasks.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
