@@ -183,7 +183,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT is transforming peer review — how can we use it responsibly?](https://www.nature.com/articles/d41586-024-03588-8) |At major computer-science publication venues, up to 17% of the peer reviews are now written by artificial intelligence. We need guidelines before things get out of hand. |
 |[Will AI’s huge energy demands spur a nuclear renaissance?](https://www.nature.com/articles/d41586-024-03490-3) |Contracts with Google and Amazon could help, but bringing new types of reactor online will take larger investments — and time. |
 |[Five protein-design questions that still challenge AI.](https://www.nature.com/articles/d41586-024-03595-9) |Tools such as Rosetta and AlphaFold have redefined the protein-engineering landscape. But some problems remain out of reach — for now. |
-|[.]() | |
+|[AI may displace 3m jobs but long-term losses ‘relatively modest’, says Tony Blair’s thinktank.](https://www.theguardian.com/technology/2024/nov/08/ai-may-displace-3m-jobs-but-long-term-losses-relatively-modest-says-thinktank) | Rise in unemployment in low hundreds of thousands as technology creates roles, Tony Blair Institute suggests|
 |[.]() | |
 |[.]() | |
 |[.]() | |
