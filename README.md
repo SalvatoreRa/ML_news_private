@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon will now use AI to recap what you're watching.](https://www.engadget.com/entertainment/streaming/amazon-will-now-use-ai-to-recap-what-youre-watching-194551857.html) | Amazon's X-Ray Recaps is an AI-driven feature on Prime Video that generates personalized summaries for TV shows. It utilizes generative AI to create concise recaps of entire seasons, individual episodes, or specific segments, enhancing the viewing experience by helping users recall previous content without revealing spoilers. Currently in beta, X-Ray Recaps is available on Fire TV devices, with plans to expand to additional devices by the end of the year.|
 |[Google is opening an AI hub in oil-rich Saudi Arabia.](https://techcrunch.com/2024/11/05/google-is-opening-an-ai-hub-in-oil-rich-saudi-arabia/) | The new AI hub will support research into Arab language AI models and “Saudi-specific AI applications,” according to an announcement from the Saudi Public Investment fund and Google.|
 |[First artwork painted by humanoid robot to sell at auction fetches $1m.](https://www.theguardian.com/artanddesign/2024/nov/08/alan-turing-portrait-ai-da-robot-painting-sale-price-auction) | Portrait of English mathematician Alan Turing was created by Ai-Da, one of the most advanced robots in the world|
-|[.]() | |
-|[.]() | |
+|[Mistral launches a moderation API.](https://techcrunch.com/2024/11/07/mistral-launches-a-moderation-api/) |AI startup Mistral has launched a new API for content moderation. |
+|[Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations.](https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/) | Palantir and Anthropic have collaborated to make the Claude suite of models available on AWS for U.S. intelligence agencies and defense operations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
