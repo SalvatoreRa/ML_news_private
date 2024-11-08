@@ -152,9 +152,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LiVOS: Light Video Object Segmentation with Gated Linear Matching.](https://github.com/uncbiag/livos) |LiVOS is a lightweight video object segmentation (VOS) model designed to lower memory usage, making it possible to segment long, high-resolution videos with reduced hardware requirements. |
 |[How To Create Software Diagrams With ChatGPT and Claude.](https://thenewstack.io/how-to-create-software-diagrams-with-chatgpt-and-claude/) |The article discusses how developers can leverage ChatGPT and Claude to generate software architecture diagrams. It emphasizes the iterative process of refining diagrams with the help of multimodal AI and tools such as Mermaid and Whimsical. The author showcases the advantages of using LLMs for diagramming, illustrating how they handle images and offer real-time feedback. |
 |[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks.](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) |Microsoft has introduced Magnetic-One, a multi-agent system built upon its open-source AutoGen framework. This system utilizes GPT-4o as the backend model to facilitate agentic behavior, enabling the orchestration of multiple AI agents to perform complex tasks.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Cosmos Tokenizer: A suite of image and video neural tokenizers.](https://research.nvidia.com/labs/dir/cosmos-tokenizer/) | NVIDIA has introduced the Cosmos Tokenizer, a state-of-the-art image and video tokenizer and compression model. This model is designed to facilitate the training of video generation systems, visual language models (VLMs), and other multimodal models. NVIDIA has made available the inference code, a research paper detailing the model, and the associated model weights.|
+|[SA3DIP: Segment Any 3D Instance with Potential 3D Priors.](https://arxiv.org/abs/2411.03819v1) |SA3DIP is a novel method for enhancing 3D instance segmentation by integrating additional 3D priors beyond standard 2D models. This approach addresses the limitations of relying solely on 2D segmentation models, which often struggle with complex 3D structures. By incorporating 3D priors, SA3DIP achieves more accurate and robust segmentation in three-dimensional spaces. |
+|[gsplat.](https://docs.gsplat.studio/main/) |G Splat is a robust package and studio designed for conducting research on Gaussian splatting. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
