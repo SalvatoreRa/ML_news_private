@@ -155,8 +155,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cosmos Tokenizer: A suite of image and video neural tokenizers.](https://research.nvidia.com/labs/dir/cosmos-tokenizer/) | NVIDIA has introduced the Cosmos Tokenizer, a state-of-the-art image and video tokenizer and compression model. This model is designed to facilitate the training of video generation systems, visual language models (VLMs), and other multimodal models. NVIDIA has made available the inference code, a research paper detailing the model, and the associated model weights.|
 |[SA3DIP: Segment Any 3D Instance with Potential 3D Priors.](https://arxiv.org/abs/2411.03819v1) |SA3DIP is a novel method for enhancing 3D instance segmentation by integrating additional 3D priors beyond standard 2D models. This approach addresses the limitations of relying solely on 2D segmentation models, which often struggle with complex 3D structures. By incorporating 3D priors, SA3DIP achieves more accurate and robust segmentation in three-dimensional spaces. |
 |[gsplat.](https://docs.gsplat.studio/main/) |G Splat is a robust package and studio designed for conducting research on Gaussian splatting. |
-|[.]() | |
-|[.]() | |
+|[RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models.](https://github.com/stanford-aimi/ravl) | RaVL is a novel approach that enhances the accuracy of vision-language models by concentrating on local image features instead of the whole image, aiming to reduce misleading correlations.|
+|[Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis.](https://arxiv.org/abs/2411.03637v1) | SCGaussian is an innovative method for 3D scene synthesis that preserves structural consistency, even when working with sparse input data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
