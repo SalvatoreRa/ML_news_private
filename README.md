@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Samsung debuts AI-powered ‘Next-generation Bixby,’ but you can’t use it yet.](https://9to5google.com/2024/11/06/samsung-next-generation-bixby-china/) |Samsung has launched a "next-generation Bixby" with enhanced AI capabilities on the Galaxy W25 and W25 Flip in China. |
 |[Even Microsoft Notepad is getting AI text editing now.](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite) |Along with adding AI to a text editor that launched in 1983, Microsoft will let Windows Insiders test generative fill-and-erase tools in Paint, too. |
 |[Ofcom warns tech firms after chatbots imitate Brianna Ghey and Molly Russell.](https://www.theguardian.com/technology/2024/nov/09/ofcom-warns-tech-firms-after-chatbots-imitate-brianna-ghey-and-molly-russell) | After ‘distressing incidents’, watchdog says content from user-made bots would be covered by UK Online Safety Act|
-|[.]() | |
+|[AI protein-prediction tool AlphaFold3 is now open source.](https://www.nature.com/articles/d41586-024-03708-4) |The code underlying the Nobel-prize-winning tool for modelling protein structures can now be downloaded by academics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
