@@ -10,7 +10,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Project Sid: Many-agent simulations toward AI civilization.](https://arxiv.org/abs/2411.00114) | This work illustrates the behavior and evolution of societies composed of 10-1000+ AI agents. It introduces PIANO, an architecture that allows agents to interact with both humans and other agents in real-time. The study reveals that agents can autonomously adopt specialized roles, follow and modify collective rules, and participate in cultural and religious transmissions.|
-|[.]() | |
+|[Mixtures of In-Context Learners.](https://arxiv.org/abs/2411.02830) |utilizes subsets of demonstrations to train experts through in-context learning; a trainable weighting function is then employed to merge the next-token predictions from these experts based on the training set. This method is compatible with black-box LLMs, as it does not require access to their internal parameters. Key advantages include: 1) being competitive with standard ICL while offering much greater efficiency in terms of data, memory, and computation, and 2) demonstrating robustness to noisy demonstrations and label imbalance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SmolLM2.](https://simonwillison.net/2024/Nov/2/smollm2/) | Hugging Face's SmolLM2 is a compact family of language models, ranging from 135M to 1.7B parameters, trained on 11 trillion tokens. These models are designed to run efficiently on-device and support various tasks. The weights are released under the Apache 2 license, and quantized versions, such as the 1.7GB and 138MB models, offer flexibility to meet different computational requirements.|
 |[AI for Real-time Fusion Plasma Behavior Prediction and Manipulation.](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/) |A novel multimodal machine learning approach improves super-resolution data, enabling better analysis of complex fusion plasma phenomena like Edge Localized Modes (ELM), and supports the stabilization of future fusion reactors. |
 |[A Comprehensive Survey of Small Language Models in the Era of Large Language Models.](https://arxiv.org/abs/2411.03350) | a review of small language models (SLMs), covering topics such as definitions, applications, improvements, reliability, and related concerns.|
-|[.]() | |
+|[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks.](https://www.microsoft.com/en-us/research/publication/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) | A new generalist multi-agent system capable of managing complex web and file-based tasks, featuring an Orchestrator agent that coordinates four specialized agents: WebSurfer for browser tasks, FileSurfer for file management, Coder for programming, and ComputerTerminal for console operations. Magentic-One performs competitively on various benchmarks, such as GAIA, AssistantBench, and WebArena, without needing any changes to its core architecture.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
