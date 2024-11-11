@@ -37,8 +37,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Modal buys Tidbyt.](https://modal.com/blog/tidbyt-is-joining-modal) |The elastic scaling GPU company made its first acquisition by purchasing Tidbyt, a hardware firm based in NYC, to gain the in-house expertise of its team specializing in infrastructure and containerization. |
+|[OpenAI reportedly developing new strategies to deal with AI improvement slowdown.](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) |OpenAI's forthcoming model, codenamed "Orion," reportedly exhibits only modest improvements over its predecessors, indicating a potential deceleration in AI advancement. To address this, OpenAI has established a foundations team dedicated to enhancing models through alternative approaches, including synthetic data training and post-training adjustments, in response to the diminishing availability of new data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
