@@ -40,7 +40,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Modal buys Tidbyt.](https://modal.com/blog/tidbyt-is-joining-modal) |The elastic scaling GPU company made its first acquisition by purchasing Tidbyt, a hardware firm based in NYC, to gain the in-house expertise of its team specializing in infrastructure and containerization. |
 |[OpenAI reportedly developing new strategies to deal with AI improvement slowdown.](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) |OpenAI's forthcoming model, codenamed "Orion," reportedly exhibits only modest improvements over its predecessors, indicating a potential deceleration in AI advancement. To address this, OpenAI has established a foundations team dedicated to enhancing models through alternative approaches, including synthetic data training and post-training adjustments, in response to the diminishing availability of new data. |
 |[Near plans to build world’s largest 1.4T parameter open-source AI model.](https://cointelegraph.com/news/near-plans-to-create-world-s-largest-1-4-t-parameter-open-source-ai-model) | Near Protocol has announced plans to develop a 1.4 trillion-parameter open-source AI model, aiming to surpass existing models like Meta's Llama. This initiative reflects Near Protocol's commitment to advancing AI capabilities and contributing to the open-source community.|
-|[.]() | |
+|[Samsung debuts AI-powered ‘Next-generation Bixby,’ but you can’t use it yet.](https://9to5google.com/2024/11/06/samsung-next-generation-bixby-china/) |Samsung has launched a "next-generation Bixby" with enhanced AI capabilities on the Galaxy W25 and W25 Flip in China. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mochi video model with optimized inference.](https://github.com/xdit-project/mochi-xdit) |Mochi 1, an open-source text-to-video model, initially required eight H100 GPUs for operation. Thanks to community efforts, it can now run on a single 48GB L40 GPU without compromising quality. |
 |[A trainable PyTorch reproduction of AlphaFold 3.](https://github.com/bytedance/Protenix) | Protenix is a functional and trainable reproduction of AlphaFold 3, DeepMind's protein folding project, developed by ByteDance's 'AI for Science' team. This open-source initiative aims to advance protein structure prediction by providing a customizable platform for researchers.|
 |[LlamaPReview.](https://github.com/marketplace/llamapreview) | LlamaPReview is an AI assistant for GitHub that provides easy one-click installation and automatically reviews pull requests with context-aware analysis. It supports various programming languages and integrates seamlessly with GitHub Actions, delivering insightful feedback directly on PRs. Offered for free, it improves code quality by detecting issues and recommending optimizations.|
-|[.]() | |
+|[SmolLM2.](https://simonwillison.net/2024/Nov/2/smollm2/) | Hugging Face's SmolLM2 is a compact family of language models, ranging from 135M to 1.7B parameters, trained on 11 trillion tokens. These models are designed to run efficiently on-device and support various tasks. The weights are released under the Apache 2 license, and quantized versions, such as the 1.7GB and 138MB models, offer flexibility to meet different computational requirements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Embeddings are underrated.](https://technicalwriting.dev/data/embeddings.html) | Machine learning embeddings can revolutionize technical writing by enabling mathematical comparisons of any text, enhancing features like recommendation systems through semantic similarities. By positioning text in a multi-dimensional space, they reveal intuitive semantic relationships, which are valuable for tasks such as finding related content. Documentation site owners who provide embeddings for their content could inspire innovative applications from their communities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
