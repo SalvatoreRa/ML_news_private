@@ -42,8 +42,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Near plans to build world’s largest 1.4T parameter open-source AI model.](https://cointelegraph.com/news/near-plans-to-create-world-s-largest-1-4-t-parameter-open-source-ai-model) | Near Protocol has announced plans to develop a 1.4 trillion-parameter open-source AI model, aiming to surpass existing models like Meta's Llama. This initiative reflects Near Protocol's commitment to advancing AI capabilities and contributing to the open-source community.|
 |[Samsung debuts AI-powered ‘Next-generation Bixby,’ but you can’t use it yet.](https://9to5google.com/2024/11/06/samsung-next-generation-bixby-china/) |Samsung has launched a "next-generation Bixby" with enhanced AI capabilities on the Galaxy W25 and W25 Flip in China. |
 |[Even Microsoft Notepad is getting AI text editing now.](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite) |Along with adding AI to a text editor that launched in 1983, Microsoft will let Windows Insiders test generative fill-and-erase tools in Paint, too. |
-|[.]() | |
-|[.]() | |
+|[Ofcom warns tech firms after chatbots imitate Brianna Ghey and Molly Russell.](https://www.theguardian.com/technology/2024/nov/09/ofcom-warns-tech-firms-after-chatbots-imitate-brianna-ghey-and-molly-russell) | After ‘distressing incidents’, watchdog says content from user-made bots would be covered by UK Online Safety Act|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,6 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Embeddings are underrated.](https://technicalwriting.dev/data/embeddings.html) | Machine learning embeddings can revolutionize technical writing by enabling mathematical comparisons of any text, enhancing features like recommendation systems through semantic similarities. By positioning text in a multi-dimensional space, they reveal intuitive semantic relationships, which are valuable for tasks such as finding related content. Documentation site owners who provide embeddings for their content could inspire innovative applications from their communities.|
+|[The images of Spain’s floods weren’t created by AI. The trouble is, people think they were.](https://www.theguardian.com/commentisfree/2024/nov/09/the-images-of-spains-floods-werent-created-by-ai-the-trouble-is-people-think-they-were) |The rapid growth of ‘AI slop’ – content created by artificial tools – is starting to warp our perception of what is, or could be, real |
 |[.]() | |
 |[.]() | |
 |[.]() | |
