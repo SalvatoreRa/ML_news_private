@@ -69,8 +69,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[FrontierMath.](https://epochai.org/frontiermath) |Epoch AI has introduced FrontierMath, a benchmark comprising expert-level mathematics problems to assess AI's mathematical reasoning capabilities. Notably, leading AI models have solved less than 2% of these problems, highlighting the benchmark's difficulty and the current limitations of AI in advanced mathematical reasoning. |
-|[.]() | |
-|[.]() | |
+|[BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://arxiv.org/abs/2411.04965) | A major challenge with 1.58bit LLMs has been the absence of hardware acceleration support. This research introduces 4.8bit activations to leverage the INT4/FP4 kernels available in new hardware, achieving this with no added runtime cost.|
+|[LLM2CLIP.](https://microsoft.github.io/LLM2CLIP/) | LLM2CLIP combines CLIP's visual and textual alignment with the advanced language understanding of LLMs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
