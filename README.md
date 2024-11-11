@@ -39,7 +39,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Modal buys Tidbyt.](https://modal.com/blog/tidbyt-is-joining-modal) |The elastic scaling GPU company made its first acquisition by purchasing Tidbyt, a hardware firm based in NYC, to gain the in-house expertise of its team specializing in infrastructure and containerization. |
 |[OpenAI reportedly developing new strategies to deal with AI improvement slowdown.](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) |OpenAI's forthcoming model, codenamed "Orion," reportedly exhibits only modest improvements over its predecessors, indicating a potential deceleration in AI advancement. To address this, OpenAI has established a foundations team dedicated to enhancing models through alternative approaches, including synthetic data training and post-training adjustments, in response to the diminishing availability of new data. |
-|[.]() | |
+|[Near plans to build world’s largest 1.4T parameter open-source AI model.](https://cointelegraph.com/news/near-plans-to-create-world-s-largest-1-4-t-parameter-open-source-ai-model) | Near Protocol has announced plans to develop a 1.4 trillion-parameter open-source AI model, aiming to surpass existing models like Meta's Llama. This initiative reflects Near Protocol's commitment to advancing AI capabilities and contributing to the open-source community.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -68,7 +68,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[FrontierMath.](https://epochai.org/frontiermath) |Epoch AI has introduced FrontierMath, a benchmark comprising expert-level mathematics problems to assess AI's mathematical reasoning capabilities. Notably, leading AI models have solved less than 2% of these problems, highlighting the benchmark's difficulty and the current limitations of AI in advanced mathematical reasoning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
