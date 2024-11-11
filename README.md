@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Embeddings are underrated.](https://technicalwriting.dev/data/embeddings.html) | Machine learning embeddings can revolutionize technical writing by enabling mathematical comparisons of any text, enhancing features like recommendation systems through semantic similarities. By positioning text in a multi-dimensional space, they reveal intuitive semantic relationships, which are valuable for tasks such as finding related content. Documentation site owners who provide embeddings for their content could inspire innovative applications from their communities.|
 |[The images of Spain’s floods weren’t created by AI. The trouble is, people think they were.](https://www.theguardian.com/commentisfree/2024/nov/09/the-images-of-spains-floods-werent-created-by-ai-the-trouble-is-people-think-they-were) |The rapid growth of ‘AI slop’ – content created by artificial tools – is starting to warp our perception of what is, or could be, real |
-|[.]() | |
+|[What Trump’s election win could mean for AI, climate and health.](https://www.nature.com/articles/d41586-024-03667-w) |Donald Trump made numerous promises during his presidential campaign that could affect scientists and science policy. Will they be implemented once he is president? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
