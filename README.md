@@ -71,8 +71,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FrontierMath.](https://epochai.org/frontiermath) |Epoch AI has introduced FrontierMath, a benchmark comprising expert-level mathematics problems to assess AI's mathematical reasoning capabilities. Notably, leading AI models have solved less than 2% of these problems, highlighting the benchmark's difficulty and the current limitations of AI in advanced mathematical reasoning. |
 |[BitNet a4.8: 4-bit Activations for 1-bit LLMs.](https://arxiv.org/abs/2411.04965) | A major challenge with 1.58bit LLMs has been the absence of hardware acceleration support. This research introduces 4.8bit activations to leverage the INT4/FP4 kernels available in new hardware, achieving this with no added runtime cost.|
 |[LLM2CLIP.](https://microsoft.github.io/LLM2CLIP/) | LLM2CLIP combines CLIP's visual and textual alignment with the advanced language understanding of LLMs.|
-|[.]() | |
-|[.]() | |
+|[Torch Compatible Muon Optimizer.](https://github.com/KellerJordan/Muon) | Muon is the optimizer that set the training record for GPT-2. It is a momentum-adapted method similar to SGD. This repository provides an implementation that can be easily used as a replacement for AdamW.|
+|[Mochi video model with optimized inference.](https://github.com/xdit-project/mochi-xdit) |Mochi 1, an open-source text-to-video model, initially required eight H100 GPUs for operation. Thanks to community efforts, it can now run on a single 48GB L40 GPU without compromising quality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
