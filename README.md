@@ -9,7 +9,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Project Sid: Many-agent simulations toward AI civilization.](https://arxiv.org/abs/2411.00114) | This work illustrates the behavior and evolution of societies composed of 10-1000+ AI agents. It introduces PIANO, an architecture that allows agents to interact with both humans and other agents in real-time. The study reveals that agents can autonomously adopt specialized roles, follow and modify collective rules, and participate in cultural and religious transmissions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LlamaPReview.](https://github.com/marketplace/llamapreview) | LlamaPReview is an AI assistant for GitHub that provides easy one-click installation and automatically reviews pull requests with context-aware analysis. It supports various programming languages and integrates seamlessly with GitHub Actions, delivering insightful feedback directly on PRs. Offered for free, it improves code quality by detecting issues and recommending optimizations.|
 |[SmolLM2.](https://simonwillison.net/2024/Nov/2/smollm2/) | Hugging Face's SmolLM2 is a compact family of language models, ranging from 135M to 1.7B parameters, trained on 11 trillion tokens. These models are designed to run efficiently on-device and support various tasks. The weights are released under the Apache 2 license, and quantized versions, such as the 1.7GB and 138MB models, offer flexibility to meet different computational requirements.|
 |[AI for Real-time Fusion Plasma Behavior Prediction and Manipulation.](https://control.princeton.edu/machine-learning-for-rt-profile-control-in-tokamaks/) |A novel multimodal machine learning approach improves super-resolution data, enabling better analysis of complex fusion plasma phenomena like Edge Localized Modes (ELM), and supports the stabilization of future fusion reactors. |
-|[.]() | |
+|[A Comprehensive Survey of Small Language Models in the Era of Large Language Models.](https://arxiv.org/abs/2411.03350) | a review of small language models (SLMs), covering topics such as definitions, applications, improvements, reliability, and related concerns.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
