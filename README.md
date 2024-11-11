@@ -41,7 +41,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI reportedly developing new strategies to deal with AI improvement slowdown.](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/) |OpenAI's forthcoming model, codenamed "Orion," reportedly exhibits only modest improvements over its predecessors, indicating a potential deceleration in AI advancement. To address this, OpenAI has established a foundations team dedicated to enhancing models through alternative approaches, including synthetic data training and post-training adjustments, in response to the diminishing availability of new data. |
 |[Near plans to build world’s largest 1.4T parameter open-source AI model.](https://cointelegraph.com/news/near-plans-to-create-world-s-largest-1-4-t-parameter-open-source-ai-model) | Near Protocol has announced plans to develop a 1.4 trillion-parameter open-source AI model, aiming to surpass existing models like Meta's Llama. This initiative reflects Near Protocol's commitment to advancing AI capabilities and contributing to the open-source community.|
 |[Samsung debuts AI-powered ‘Next-generation Bixby,’ but you can’t use it yet.](https://9to5google.com/2024/11/06/samsung-next-generation-bixby-china/) |Samsung has launched a "next-generation Bixby" with enhanced AI capabilities on the Galaxy W25 and W25 Flip in China. |
-|[.]() | |
+|[Even Microsoft Notepad is getting AI text editing now.](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite) |Along with adding AI to a text editor that launched in 1983, Microsoft will let Windows Insiders test generative fill-and-erase tools in Paint, too. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
