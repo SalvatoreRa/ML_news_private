@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM2CLIP.](https://microsoft.github.io/LLM2CLIP/) | LLM2CLIP combines CLIP's visual and textual alignment with the advanced language understanding of LLMs.|
 |[Torch Compatible Muon Optimizer.](https://github.com/KellerJordan/Muon) | Muon is the optimizer that set the training record for GPT-2. It is a momentum-adapted method similar to SGD. This repository provides an implementation that can be easily used as a replacement for AdamW.|
 |[Mochi video model with optimized inference.](https://github.com/xdit-project/mochi-xdit) |Mochi 1, an open-source text-to-video model, initially required eight H100 GPUs for operation. Thanks to community efforts, it can now run on a single 48GB L40 GPU without compromising quality. |
-|[.]() | |
-|[.]() | |
+|[A trainable PyTorch reproduction of AlphaFold 3.](https://github.com/bytedance/Protenix) | Protenix is a functional and trainable reproduction of AlphaFold 3, DeepMind's protein folding project, developed by ByteDance's 'AI for Science' team. This open-source initiative aims to advance protein structure prediction by providing a customizable platform for researchers.|
+|[LlamaPReview.](https://github.com/marketplace/llamapreview) | LlamaPReview is an AI assistant for GitHub that provides easy one-click installation and automatically reviews pull requests with context-aware analysis. It supports various programming languages and integrates seamlessly with GitHub Actions, delivering insightful feedback directly on PRs. Offered for free, it improves code quality by detecting issues and recommending optimizations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
