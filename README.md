@@ -37,7 +37,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ON WORKING
 
-# ML news:Week 3 - 10 November
+# ML news: Week 3 - 10 November
 
 ## Research
 |Link|description|
@@ -52,22 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adam Alternative for Deep Learning Optimization.](https://arxiv.org/abs/2411.02853v1) |ADOPT is an adaptive gradient optimizer designed to resolve the non-convergence problems of Adam, without depending on restrictive assumptions regarding gradient noise. |
 |[A faster, better way to train general-purpose robots.](https://news.mit.edu/2024/training-general-purpose-robots-faster-better-1028) |Inspired by large language models, researchers develop a training technique that pools diverse data to teach robots new skills. |
 |[Vision Language Models are In-Context Value Learners.](https://generative-value-learning.github.io/) |Visual Language Models (VLMs) are capable of learning skills through the use of prompts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -114,12 +99,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations.](https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/) | Palantir and Anthropic have collaborated to make the Claude suite of models available on AWS for U.S. intelligence agencies and defense operations.|
 |[ChatGPT Can Now Control a Robot Arm.](https://futurism.com/the-byte/chatgpt-control-robot-arm-clean-spill) |Researchers from UC Berkeley and ETH Zurich utilized GPT-4 to train cost-effective robot arms for cleaning spills. They accomplished this by incorporating a multimodal agent called LangChain, which translates LLM inputs into robotic actions. This research demonstrates a novel proof-of-concept for human-robot interaction and democratizes robotics using open-source technology. |
 |[OpenAI in talks with regulators to become a for-profit company: Report.](https://cointelegraph.com/news/chat-gpt-creator-openai-in-talks-for-profit-company) |The $157 billion artificial intelligence giant wants to retain a nonprofit arm to pursue its mission of benevolent AI development.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 
@@ -157,12 +136,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[gsplat.](https://docs.gsplat.studio/main/) |G Splat is a robust package and studio designed for conducting research on Gaussian splatting. |
 |[RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models.](https://github.com/stanford-aimi/ravl) | RaVL is a novel approach that enhances the accuracy of vision-language models by concentrating on local image features instead of the whole image, aiming to reduce misleading correlations.|
 |[Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis.](https://arxiv.org/abs/2411.03637v1) | SCGaussian is an innovative method for 3D scene synthesis that preserves structural consistency, even when working with sparse input data.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Perspectives
@@ -186,15 +159,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI may displace 3m jobs but long-term losses ‘relatively modest’, says Tony Blair’s thinktank.](https://www.theguardian.com/technology/2024/nov/08/ai-may-displace-3m-jobs-but-long-term-losses-relatively-modest-says-thinktank) | Rise in unemployment in low hundreds of thousands as technology creates roles, Tony Blair Institute suggests|
 |[The Rise of the Agentic Web.](https://paragraph.xyz/@cryptso/onchain-ai) | The Agentic Web is advancing the capabilities of AI agents with on-chain features, enabling their creation, ownership, and transactional abilities. Platforms like Replit, VIRTUALS.io, and Wayfinder are integrating AI with blockchain, facilitating activities such as asset management, data retrieval, and decentralized applications. This shift supports AI-driven automation for payments, trading, and decentralized finance within blockchain ecosystems.|
 |[The Present Future: AI's Impact Long Before Superintelligence.](https://www.oneusefulthing.org/p/the-present-future-ais-impact-long) | Stronger AI models are on the verge of surpassing human intelligence, driving transformative changes in work and society. Current AI systems, such as Claude, are already reshaping industries by automating tasks, offering safety monitoring, and enabling interactions through multimodal inputs and outputs. Organizations must carefully address ethical concerns to ensure AI complements and enhances human abilities, rather than replacing them.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ML news: Week 28 October - 3 November
