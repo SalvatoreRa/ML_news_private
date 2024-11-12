@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen 2.5 Coder 32B Instruct is here.](https://qwenlm.github.io/blog/qwen2.5-coder-family) |The Qwen 2.5 Coder series consists of language models tailored for coding tasks. The latest 32B parameter model outperforms GPT-4o and is compact enough for local use by many. It also matches Claude Sonnet 3.5 on several benchmarks. |
 |[X is testing a free version of AI chatbot Grok.](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/) |Social network X has so far limited its AI chatbot Grok (built by Elon Musk’s other company xAI) to its premium, paying users. However, the platform is seemingly preparing to open up the chatbot to free users. |
 |[Octoverse: AI leads Python to top language as the number of global developers surges.](https://github.blog/news-insights/octoverse/octoverse-2024/) | In this year’s Octoverse report, we study how public and open source activity on GitHub shows how AI is expanding as the global developer community surges in size.|
-|[.]() | |
+|[Google accidentally leaked a preview of its Jarvis AI that can take over computers.](https://www.engadget.com/ai/google-accidentally-leaked-a-preview-of-its-jarvis-ai-that-can-take-over-computers-203125686.html) |Google's new AI prototype, Jarvis, briefly appeared on the Chrome Web Store. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The images of Spain’s floods weren’t created by AI. The trouble is, people think they were.](https://www.theguardian.com/commentisfree/2024/nov/09/the-images-of-spains-floods-werent-created-by-ai-the-trouble-is-people-think-they-were) |The rapid growth of ‘AI slop’ – content created by artificial tools – is starting to warp our perception of what is, or could be, real |
 |[What Trump’s election win could mean for AI, climate and health.](https://www.nature.com/articles/d41586-024-03667-w) |Donald Trump made numerous promises during his presidential campaign that could affect scientists and science policy. Will they be implemented once he is president? |
 |[The case for targeted regulation.](https://www.anthropic.com/news/the-case-for-targeted-regulation) | Advancements in AI are significantly enhancing capabilities in mathematics, coding, and science, presenting both opportunities and risks. Effective regulation is crucial to prevent misuse in areas such as cybersecurity and chemical, biological, radiological, and nuclear (CBRN) threats. Anthropic's Responsible Scaling Policy emphasizes transparency and advocates for a balanced legislative approach that ensures safety while fostering innovation. |
-|[.]() | |
+|[AI-powered parenting is here and a16z is ready to back it .](https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/) | Andreessen Horowitz partner Justine Moore introduced a new investment thesis for the firm on X on Thursday, endorsing “a new wave of ‘parenting co-pilots’ built with LLMs and agents.” She pointed to companies like Cradlewise, makers of an AI-powered baby monitor to detect a baby’s sleep pattern and rock the crib, and Nanit, which uses AI to process crib footage to tell if a baby is breathing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
