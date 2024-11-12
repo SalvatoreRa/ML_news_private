@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[X is testing a free version of AI chatbot Grok.](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/) |Social network X has so far limited its AI chatbot Grok (built by Elon Musk’s other company xAI) to its premium, paying users. However, the platform is seemingly preparing to open up the chatbot to free users. |
 |[Octoverse: AI leads Python to top language as the number of global developers surges.](https://github.blog/news-insights/octoverse/octoverse-2024/) | In this year’s Octoverse report, we study how public and open source activity on GitHub shows how AI is expanding as the global developer community surges in size.|
 |[Google accidentally leaked a preview of its Jarvis AI that can take over computers.](https://www.engadget.com/ai/google-accidentally-leaked-a-preview-of-its-jarvis-ai-that-can-take-over-computers-203125686.html) |Google's new AI prototype, Jarvis, briefly appeared on the Chrome Web Store. |
-|[.]() | |
+|[AI-powered parenting is here and a16z is ready to back it.](https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/) | Andreessen Horowitz partner Justine Moore introduced a new investment thesis for the firm on X on Thursday, endorsing “a new wave of ‘parenting co-pilots’ built with LLMs and agents.” She pointed to companies like Cradlewise, makers of an AI-powered baby monitor to detect a baby’s sleep pattern and rock the crib, and Nanit, which uses AI to process crib footage to tell if a baby is breathing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
