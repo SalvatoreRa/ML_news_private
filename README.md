@@ -80,9 +80,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks.](https://www.microsoft.com/en-us/research/publication/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) | A new generalist multi-agent system capable of managing complex web and file-based tasks, featuring an Orchestrator agent that coordinates four specialized agents: WebSurfer for browser tasks, FileSurfer for file management, Coder for programming, and ComputerTerminal for console operations. Magentic-One performs competitively on various benchmarks, such as GAIA, AssistantBench, and WebArena, without needing any changes to its core architecture.|
 |[Personalization of Large Language Models: A Survey.](https://arxiv.org/abs/2411.00027) |offers a comprehensive framework for understanding personalized LLMs, introducing taxonomies for various personalization aspects and consolidating existing research in personalized text generation and downstream applications. |
 |[StdGEN: Semantic-Decomposed 3D Character Generation from Single Images.](https://stdgen.github.io/) | StdGen is a novel approach for generating 3D characters from a single image. It breaks down the process into distinct components, such as hair and jackets, enhancing the overall quality of the output.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[alphafold3.](https://github.com/google-deepmind/alphafold3) | DeepMind has open-sourced the code and weights of AlphaFold 3 for academic research, marking a significant advancement in protein structure prediction. This release is expected to accelerate AI applications in scientific research, particularly in molecular biology and drug discovery.|
+|[Online-LoRA.](https://github.com/christina200/online-lora-official) |Online-LoRA is a framework developed to mitigate catastrophic forgetting in online continual learning (OCL) by enabling real-time fine-tuning of pre-trained Vision Transformers (ViTs) without the use of rehearsal buffers. |
+|[DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions.](https://arxiv.org/abs/2411.05552v1) |DeepArUco++ presents a deep learning-based method for enhancing fiducial marker detection, especially in difficult lighting conditions where traditional techniques typically struggle. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
