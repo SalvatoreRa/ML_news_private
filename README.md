@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI protein-prediction tool AlphaFold3 is now open source.](https://www.nature.com/articles/d41586-024-03708-4) |The code underlying the Nobel-prize-winning tool for modelling protein structures can now be downloaded by academics. |
 |[Qwen 2.5 Coder 32B Instruct is here.](https://qwenlm.github.io/blog/qwen2.5-coder-family) |The Qwen 2.5 Coder series consists of language models tailored for coding tasks. The latest 32B parameter model outperforms GPT-4o and is compact enough for local use by many. It also matches Claude Sonnet 3.5 on several benchmarks. |
 |[X is testing a free version of AI chatbot Grok.](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/) |Social network X has so far limited its AI chatbot Grok (built by Elon Musk’s other company xAI) to its premium, paying users. However, the platform is seemingly preparing to open up the chatbot to free users. |
-|[.]() | |
+|[Octoverse: AI leads Python to top language as the number of global developers surges.](https://github.blog/news-insights/octoverse/octoverse-2024/) | In this year’s Octoverse report, we study how public and open source activity on GitHub shows how AI is expanding as the global developer community surges in size.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[alphafold3.](https://github.com/google-deepmind/alphafold3) | DeepMind has open-sourced the code and weights of AlphaFold 3 for academic research, marking a significant advancement in protein structure prediction. This release is expected to accelerate AI applications in scientific research, particularly in molecular biology and drug discovery.|
 |[Online-LoRA.](https://github.com/christina200/online-lora-official) |Online-LoRA is a framework developed to mitigate catastrophic forgetting in online continual learning (OCL) by enabling real-time fine-tuning of pre-trained Vision Transformers (ViTs) without the use of rehearsal buffers. |
 |[DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions.](https://arxiv.org/abs/2411.05552v1) |DeepArUco++ presents a deep learning-based method for enhancing fiducial marker detection, especially in difficult lighting conditions where traditional techniques typically struggle. |
-|[.]() | |
+|[Hermes 3.](https://nousresearch.com/hermes3/) | Hermes 3, fine-tuned from Llama 3.1, excels in both reasoning and creativity, showcasing outstanding performance across models with 8B, 70B, and 405B parameters. It introduces new possibilities in AI alignment and artificial consciousness.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
