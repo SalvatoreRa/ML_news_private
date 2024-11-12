@@ -44,8 +44,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Even Microsoft Notepad is getting AI text editing now.](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite) |Along with adding AI to a text editor that launched in 1983, Microsoft will let Windows Insiders test generative fill-and-erase tools in Paint, too. |
 |[Ofcom warns tech firms after chatbots imitate Brianna Ghey and Molly Russell.](https://www.theguardian.com/technology/2024/nov/09/ofcom-warns-tech-firms-after-chatbots-imitate-brianna-ghey-and-molly-russell) | After ‘distressing incidents’, watchdog says content from user-made bots would be covered by UK Online Safety Act|
 |[AI protein-prediction tool AlphaFold3 is now open source.](https://www.nature.com/articles/d41586-024-03708-4) |The code underlying the Nobel-prize-winning tool for modelling protein structures can now be downloaded by academics. |
-|[.]() | |
-|[.]() | |
+|[Qwen 2.5 Coder 32B Instruct is here.](https://qwenlm.github.io/blog/qwen2.5-coder-family) |The Qwen 2.5 Coder series consists of language models tailored for coding tasks. The latest 32B parameter model outperforms GPT-4o and is compact enough for local use by many. It also matches Claude Sonnet 3.5 on several benchmarks. |
+|[X is testing a free version of AI chatbot Grok.](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/) |Social network X has so far limited its AI chatbot Grok (built by Elon Musk’s other company xAI) to its premium, paying users. However, the platform is seemingly preparing to open up the chatbot to free users. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
