@@ -49,9 +49,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Octoverse: AI leads Python to top language as the number of global developers surges.](https://github.blog/news-insights/octoverse/octoverse-2024/) | In this year’s Octoverse report, we study how public and open source activity on GitHub shows how AI is expanding as the global developer community surges in size.|
 |[Google accidentally leaked a preview of its Jarvis AI that can take over computers.](https://www.engadget.com/ai/google-accidentally-leaked-a-preview-of-its-jarvis-ai-that-can-take-over-computers-203125686.html) |Google's new AI prototype, Jarvis, briefly appeared on the Chrome Web Store. |
 |[AI-powered parenting is here and a16z is ready to back it.](https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/) | Andreessen Horowitz partner Justine Moore introduced a new investment thesis for the firm on X on Thursday, endorsing “a new wave of ‘parenting co-pilots’ built with LLMs and agents.” She pointed to companies like Cradlewise, makers of an AI-powered baby monitor to detect a baby’s sleep pattern and rock the crib, and Nanit, which uses AI to process crib footage to tell if a baby is breathing. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[French news titles sue X over allegedly running their content without payment.](https://www.theguardian.com/world/2024/nov/12/french-news-titles-sue-x-over-allegedly-running-their-content-without-payment) | Social media site accused of violating law that requires platforms to pay media when republishing articles|
+|[Musk’s influence on Trump could lead to tougher AI standards, says scientist.](https://www.theguardian.com/technology/2024/nov/12/elon-musk-donald-trump-ai-artificial-general-intelligence) |Tycoon might help president-elect realise race for artificial general intelligence is a ‘suicide race’, says Max Tegmark |
+|[Bluesky adds 700,000 new members as users flee X after the US election.](https://www.theguardian.com/technology/2024/nov/12/us-election-bluesky-users-flee-x-twitter-trump-musk) | Social media platform has become a ‘refuge’ from the far-right activism on X, experts say, after Elon Musk teamed up with Donald Trump|
 |[.]() | |
 |[.]() | |
 |[.]() | |
