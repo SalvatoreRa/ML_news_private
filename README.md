@@ -20,8 +20,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models.](https://arxiv.org/abs/2411.04996) |The Mixture-of-Transformers (MoT) architecture features a sparse multi-modal transformer that separates parameters based on modality (text, images, and speech), allowing for efficient processing while preserving performance. In various evaluations, such as Chameleon 7B and Transfusion settings, MoT matches or outperforms dense baselines, utilizing significantly fewer resources—only 37.2% of the FLOPs for speech processing and 47.2% of the wall-clock time for image generation. |
 |[Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation.](https://arxiv.org/abs/2411.05316v1) | This study investigates methods to enhance alignment between LLMs and protein-focused geometric deep models, aiming to improve cross-modal understanding.|
 |[Can LLMs Follow Threads Through Near-Million-Scale Haystacks?](https://needle-threading.github.io/) | Large Language Models (LLMs) with extended context windows support a wider range of applications. Recent research on 17 top LLMs shows that although many can manage multiple information threads simultaneously, their practical context limits are often shorter than the stated maximum. While several models demonstrate "thread-safety" by handling concurrent threads without a drop in performance, accuracy typically decreases as the context window approaches its upper limit.|
-|[.]() | |
-|[.]() | |
+|[Compressing Mesh Data for 3D Generation.](https://whaohan.github.io/bpt/) | By reducing the mesh sequence length by about 75%, a mesh compression method known as Blocked and Patchified Tokenization (BPT) effectively produces meshes with more than 8k faces.|
+|[Successor Feature Matching.](https://github.com/arnavkj1995/sfm) |A new non-adversarial method for inverse reinforcement learning that avoids reward function learning is called Successor Feature Matching. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
