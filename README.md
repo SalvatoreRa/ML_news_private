@@ -22,7 +22,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can LLMs Follow Threads Through Near-Million-Scale Haystacks?](https://needle-threading.github.io/) | Large Language Models (LLMs) with extended context windows support a wider range of applications. Recent research on 17 top LLMs shows that although many can manage multiple information threads simultaneously, their practical context limits are often shorter than the stated maximum. While several models demonstrate "thread-safety" by handling concurrent threads without a drop in performance, accuracy typically decreases as the context window approaches its upper limit.|
 |[Compressing Mesh Data for 3D Generation.](https://whaohan.github.io/bpt/) | By reducing the mesh sequence length by about 75%, a mesh compression method known as Blocked and Patchified Tokenization (BPT) effectively produces meshes with more than 8k faces.|
 |[Successor Feature Matching.](https://github.com/arnavkj1995/sfm) |A new non-adversarial method for inverse reinforcement learning that avoids reward function learning is called Successor Feature Matching. |
-|[.]() | |
+|[Oasis: A Universe in a Transformer.](https://oasis-model.github.io/) | A 500M parameter foundation model without a game engine powers Oasis, a fully AI-generated, real-time open-world video game model. It is tailored for Etched's Sohu ASIC to achieve great frame rate efficiencies and uses quick transformer inference to generate gameplay. Despite showing great promise, issues like long-context consistency and domain generalization still exist.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,6 +87,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ENAT: Rethinking Spatial-temporal Interactions in Token-based Image Synthesis.](https://arxiv.org/abs/2411.06959v1) |To improve the speed and quality of token-based picture production, EfficientNAT is an improved non-autoregressive Transformer model. |
 |[UniGAD: Unifying Multi-level Graph Anomaly Detection.](https://arxiv.org/abs/2411.06427v1) |A novel framework for graph anomaly detection (GAD), UniGAD simultaneously detects anomalies in nodes, edges, and complete graphs. |
 |[Object and Attribute Matching in Images with Token Merging.](https://github.com/hutaihang/tome) | Token Merging tackles a prevalent problem in text-to-image models: semantic binding, or the inability to associate things with their particular properties.|
+|[DataChain.](https://github.com/iterative/datachain) |Without abstracting AI models, DataChain is a Pythonic data-frame toolkit for AI that enables effective processing and dataset structuring of unstructured data. It facilitates the creation of metadata, filtering, and vector search by integrating with AI tools like PyTorch, TensorFlow, and LLM APIs. Additionally, the library has built-in vectorized operations on Python object fields, out-of-memory computation, and parallelization. |
+|[browser-use.](https://github.com/gregpr07/browser-use) |Through a streamlined UI, this open-source web automation application enables LLMs to communicate with websites. It is compatible with models such as Claude 3.5 Sonnet and GPT-4o. XPath extraction, customisable actions, and multi-tab management are important features. Data extraction and smooth web navigation are made possible by the program. Message length is one of its drawbacks, as it impacts task repetition and LLM speed. Robustness and cost reduction will be the main goals of further development. |
+|[CUDA Programming Course – High-Performance Computing with GPUs.](https://www.youtube.com/watch?v=86FAWCzIe_4&ab_channel=freeCodeCamp.org) |A great course from freeCodeCamp on CUDA programming from start to finish. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
