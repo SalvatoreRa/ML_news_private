@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hermes 3.](https://nousresearch.com/hermes3/) | Hermes 3, fine-tuned from Llama 3.1, excels in both reasoning and creativity, showcasing outstanding performance across models with 8B, 70B, and 405B parameters. It introduces new possibilities in AI alignment and artificial consciousness.|
 |[ENAT: Rethinking Spatial-temporal Interactions in Token-based Image Synthesis.](https://arxiv.org/abs/2411.06959v1) |To improve the speed and quality of token-based picture production, EfficientNAT is an improved non-autoregressive Transformer model. |
 |[UniGAD: Unifying Multi-level Graph Anomaly Detection.](https://arxiv.org/abs/2411.06427v1) |A novel framework for graph anomaly detection (GAD), UniGAD simultaneously detects anomalies in nodes, edges, and complete graphs. |
-|[.]() | |
+|[Object and Attribute Matching in Images with Token Merging.](https://github.com/hutaihang/tome) | Token Merging tackles a prevalent problem in text-to-image models: semantic binding, or the inability to associate things with their particular properties.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
