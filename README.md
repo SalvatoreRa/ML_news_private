@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[French news titles sue X over allegedly running their content without payment.](https://www.theguardian.com/world/2024/nov/12/french-news-titles-sue-x-over-allegedly-running-their-content-without-payment) | Social media site accused of violating law that requires platforms to pay media when republishing articles|
 |[Musk’s influence on Trump could lead to tougher AI standards, says scientist.](https://www.theguardian.com/technology/2024/nov/12/elon-musk-donald-trump-ai-artificial-general-intelligence) |Tycoon might help president-elect realise race for artificial general intelligence is a ‘suicide race’, says Max Tegmark |
 |[Bluesky adds 700,000 new members as users flee X after the US election.](https://www.theguardian.com/technology/2024/nov/12/us-election-bluesky-users-flee-x-twitter-trump-musk) | Social media platform has become a ‘refuge’ from the far-right activism on X, experts say, after Elon Musk teamed up with Donald Trump|
-|[.]() | |
-|[.]() | |
+|[Baidu announces its own pair of AI smart glasses.](https://www.engadget.com/ai/baidu-announces-its-own-pair-of-ai-smart-glasses-143044805.html) |Baidu, which is often called China's answer to Google, has launched its own pair of AI-powered smart glasses at its annual World Conference event in Shanghai. |
+|[OpenAI co-founder Greg Brockman returns after three months of leave.](https://www.cnbc.com/2024/11/12/openai-co-founder-greg-brockman-returns-after-three-months-of-leave.html) | In the midst of major management departures and controversy over OpenAI's transition to a for-profit business model, co-founder Greg Brockman has returned to the company as president after taking a sabbatical. In its most recent fundraising round, OpenAI was valued at $157 billion. Due to the departure of executives like Lilian Weng, Bob McGrew, and Mira Murati, the company is experiencing internal issues.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
