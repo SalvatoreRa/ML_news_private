@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting.](https://arxiv.org/abs/2411.07541v1) |HiCoM is a cutting-edge framework designed to enhance real-time 3D reconstruction from multi-view streaming videos. It effectively addresses key challenges in storage, training speed, and rendering quality, making it a significant advancement in the field. |
 |[Janus.](https://github.com/deepseek-ai/Janus) |Janus, DeepSeek's multimodal model, has a new version incorporating rectified flows, similar to Meta Movie Gen, for image generation and understanding. The results are highly impressive. |
 |[Link Conversation with Reference Materials.](https://github.com/rosewang2008/posr) |Problem-Oriented Segmentation & Retrieval (POSR) is a method that breaks conversations into meaningful segments and connects each segment to relevant reference materials, like worksheets or meeting notes. |
-|[.]() | |
-|[.]() | |
+|[MureObjectStitch: Multi-reference Image Composition.](https://arxiv.org/abs/2411.07462v1) |Researchers have presented an improved fine-tuning method for generative image composition, which seamlessly merges a specified foreground object with a new background to generate realistic images. |
+|[StoryTeller.](https://github.com/hyc2026/StoryTeller) | StoryTeller is a system created to generate coherent descriptions for long videos, tackling issues like plot consistency and character tracking throughout different scenes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The quest to build bionic limbs that feel like the real thing.](https://www.nature.com/articles/d41586-024-03675-w) | Through brain implants, neural interfaces and skin grafts, researchers are starting to restore sensation for paralysed or amputated limbs.|
 |[How AI is reshaping science and society.](https://www.nature.com/articles/d41586-024-03679-6) | Artificial-intelligence tools such as ChatGPT might soon become fully autonomous by learning to perceive and interact with their environment.|
 |[‘It gets more and more confused’: can AI replace translators?](https://www.theguardian.com/books/2024/nov/11/it-gets-more-and-more-confused-can-ai-replace-translators) |A Dutch publisher has announced that it will use AI to translate some of its books – but those in the industry are worried about the consequences if this becomes the norm |
-|[.]() | |
+|[StackBlitz achieves $4M ARR in 4 weeks for their AI web development platform with Claude.](https://www.anthropic.com/customers/stackblitz) |StackBlitz developed an online developer tool that integrates closely with Claude 3.5 Sonnet. This post details how the company achieved $4 million in annual recurring revenue within a few months. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
