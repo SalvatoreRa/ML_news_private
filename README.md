@@ -119,8 +119,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can AI review the scientific literature — and figure out what it all means?](https://www.nature.com/articles/d41586-024-03676-9) |Artificial intelligence could help speedily summarize research. But it comes with risks. |
 |[Why we are all lab rats in the digital world.](https://www.nature.com/articles/d41586-024-03674-x) |Researchers need to establish robust ethical protocols for online experiments. |
 |[Don’t blame search engines for sending users to unreliable sites.](https://www.nature.com/articles/d41586-024-03574-0) |Analysis of billions of pages of results from searches using the Bing algorithm suggests that reliable sites appear in search results 19 to 45 times more often than do sites with low-quality content. |
-|[.]() | |
-|[.]() | |
+|[AI-generated images threaten science — here’s how researchers hope to spot them.](https://www.nature.com/articles/d41586-024-03542-8) | Generative-AI technologies can create convincing scientific data with ease — publishers and integrity specialists fear a torrent of faked science.|
+|[The quest to build bionic limbs that feel like the real thing.](https://www.nature.com/articles/d41586-024-03675-w) | Through brain implants, neural interfaces and skin grafts, researchers are starting to restore sensation for paralysed or amputated limbs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
