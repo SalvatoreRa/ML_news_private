@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The case for targeted regulation.](https://www.anthropic.com/news/the-case-for-targeted-regulation) | Advancements in AI are significantly enhancing capabilities in mathematics, coding, and science, presenting both opportunities and risks. Effective regulation is crucial to prevent misuse in areas such as cybersecurity and chemical, biological, radiological, and nuclear (CBRN) threats. Anthropic's Responsible Scaling Policy emphasizes transparency and advocates for a balanced legislative approach that ensures safety while fostering innovation. |
 |[AI-powered parenting is here and a16z is ready to back it .](https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/) | Andreessen Horowitz partner Justine Moore introduced a new investment thesis for the firm on X on Thursday, endorsing “a new wave of ‘parenting co-pilots’ built with LLMs and agents.” She pointed to companies like Cradlewise, makers of an AI-powered baby monitor to detect a baby’s sleep pattern and rock the crib, and Nanit, which uses AI to process crib footage to tell if a baby is breathing. |
 |[Speculation on Test Time Compute.](https://www.youtube.com/watch?v=6PEJ96k1kiw&ab_channel=SashaRush%F0%9F%A4%97) | This video discusses O1 models, their capacity for replication, and their potential utility for a range of future tasks.|
-|[.]() | |
-|[.]() | |
+|[Can AI review the scientific literature — and figure out what it all means?](https://www.nature.com/articles/d41586-024-03676-9) |Artificial intelligence could help speedily summarize research. But it comes with risks. |
+|[Why we are all lab rats in the digital world.](https://www.nature.com/articles/d41586-024-03674-x) |Researchers need to establish robust ethical protocols for online experiments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
