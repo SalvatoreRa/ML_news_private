@@ -9,6 +9,40 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+#############################################
+# On working 
+
+# ML news: 
+
+## Research
+|Link|description|
+|---|---|
 |[Project Sid: Many-agent simulations toward AI civilization.](https://arxiv.org/abs/2411.00114) | This work illustrates the behavior and evolution of societies composed of 10-1000+ AI agents. It introduces PIANO, an architecture that allows agents to interact with both humans and other agents in real-time. The study reveals that agents can autonomously adopt specialized roles, follow and modify collective rules, and participate in cultural and religious transmissions.|
 |[Mixtures of In-Context Learners.](https://arxiv.org/abs/2411.02830) |utilizes subsets of demonstrations to train experts through in-context learning; a trainable weighting function is then employed to merge the next-token predictions from these experts based on the training set. This method is compatible with black-box LLMs, as it does not require access to their internal parameters. Key advantages include: 1) being competitive with standard ICL while offering much greater efficiency in terms of data, memory, and computation, and 2) demonstrating robustness to noisy demonstrations and label imbalance. |
 |[Attacking Vision-Language Computer Agents via Pop-ups.](https://arxiv.org/abs/2411.02391) | demonstrates that incorporating adversarial pop-ups into current agent testing environments results in an attack success rate of 86%, reducing the agents' task success rate by 47%. It also notes that simple defense methods, like instructing the agent to ignore pop-ups, prove ineffective.|
@@ -149,38 +183,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 
-# ON WORKING
-
-# ML news: 
-
-## Research
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
-## News
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
-## Resources
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
-## Perspectives
-|Link|description|
-|---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 # ML news: Week 3 - 10 November
