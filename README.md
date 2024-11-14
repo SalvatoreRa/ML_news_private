@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Speculation on Test Time Compute.](https://www.youtube.com/watch?v=6PEJ96k1kiw&ab_channel=SashaRush%F0%9F%A4%97) | This video discusses O1 models, their capacity for replication, and their potential utility for a range of future tasks.|
 |[Can AI review the scientific literature — and figure out what it all means?](https://www.nature.com/articles/d41586-024-03676-9) |Artificial intelligence could help speedily summarize research. But it comes with risks. |
 |[Why we are all lab rats in the digital world.](https://www.nature.com/articles/d41586-024-03674-x) |Researchers need to establish robust ethical protocols for online experiments. |
-|[.]() | |
+|[Don’t blame search engines for sending users to unreliable sites.](https://www.nature.com/articles/d41586-024-03574-0) |Analysis of billions of pages of results from searches using the Bing algorithm suggests that reliable sites appear in search results 19 to 45 times more often than do sites with low-quality content. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
