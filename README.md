@@ -56,6 +56,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI co-founder Greg Brockman returns after three months of leave.](https://www.cnbc.com/2024/11/12/openai-co-founder-greg-brockman-returns-after-three-months-of-leave.html) | In the midst of major management departures and controversy over OpenAI's transition to a for-profit business model, co-founder Greg Brockman has returned to the company as president after taking a sabbatical. In its most recent fundraising round, OpenAI was valued at $157 billion. Due to the departure of executives like Lilian Weng, Bob McGrew, and Mira Murati, the company is experiencing internal issues.|
 |[European Google rivals partner on search engine infrastructure to counter Big Tech.](https://www.cnbc.com/2024/11/12/ecosia-qwant-partner-on-search-engine-tech-to-counter-googles-power.html) |To improve AI skills and lessen dependency on U.S. Big Tech, Ecosia and Qwant are collaborating to create a European search index. Using a "privacy-first" strategy, the project seeks to promote AI developments by developing a new search infrastructure. Since generative AI is becoming more and more prevalent in search, alternative search providers are better positioned to compete as a result of the rising API expenses. |
 |[Robotic exoskeleton adapts to changes in leg movements in real time.](https://www.nature.com/articles/d41586-024-03546-4) |Wearable robots that assist leg movements could transform the lives of people with reduced mobility — but only if the devices can adapt in real time to support a vast range of human activities. Machine learning provides a way forward. |
+|[OpenAI’s take on AI agents could come in January.](https://techcrunch.com/2024/11/13/openais-take-on-ai-agents-could-come-in-january/) | OpenAI is reportedly preparing to launch "Operator," an AI agent tool, as early as January. Bloomberg states that Operator may be able to execute tasks directly on a user's computer. It will initially be accessible as a research preview through OpenAI's developer API.|
+|[Google's AI Initiative to Boost MENA Economy by $320 Billion.](https://blog.google/around-the-globe/google-middle-east/ai-opportunity-initiative-middle-east-north-africa/) |Google.org has launched the AI Opportunity Initiative, its largest AI investment in the Middle East and North Africa (MENA) region, aiming to develop essential AI skills, fund research, and expand AI access. This initiative is projected to contribute $320 billion to MENA's economy by 2030 |
+|[Two Trillion Token Common Corpus.](https://huggingface.co/blog/Pclanglais/two-trillion-tokens-open) | the release of Common Corpus (part of the AI Alliance Open Trusted Data Initiative)—the largest fully open multilingual dataset for training LLMs, containing over 2 trillion tokens of permissibly licensed content with provenance information (2,003,039,184,047 tokens).|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
