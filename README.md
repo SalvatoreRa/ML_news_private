@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Baidu announces its own pair of AI smart glasses.](https://www.engadget.com/ai/baidu-announces-its-own-pair-of-ai-smart-glasses-143044805.html) |Baidu, which is often called China's answer to Google, has launched its own pair of AI-powered smart glasses at its annual World Conference event in Shanghai. |
 |[OpenAI co-founder Greg Brockman returns after three months of leave.](https://www.cnbc.com/2024/11/12/openai-co-founder-greg-brockman-returns-after-three-months-of-leave.html) | In the midst of major management departures and controversy over OpenAI's transition to a for-profit business model, co-founder Greg Brockman has returned to the company as president after taking a sabbatical. In its most recent fundraising round, OpenAI was valued at $157 billion. Due to the departure of executives like Lilian Weng, Bob McGrew, and Mira Murati, the company is experiencing internal issues.|
 |[European Google rivals partner on search engine infrastructure to counter Big Tech.](https://www.cnbc.com/2024/11/12/ecosia-qwant-partner-on-search-engine-tech-to-counter-googles-power.html) |To improve AI skills and lessen dependency on U.S. Big Tech, Ecosia and Qwant are collaborating to create a European search index. Using a "privacy-first" strategy, the project seeks to promote AI developments by developing a new search infrastructure. Since generative AI is becoming more and more prevalent in search, alternative search providers are better positioned to compete as a result of the rising API expenses. |
-|[.]() | |
+|[Robotic exoskeleton adapts to changes in leg movements in real time.](https://www.nature.com/articles/d41586-024-03546-4) |Wearable robots that assist leg movements could transform the lives of people with reduced mobility — but only if the devices can adapt in real time to support a vast range of human activities. Machine learning provides a way forward. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Don’t blame search engines for sending users to unreliable sites.](https://www.nature.com/articles/d41586-024-03574-0) |Analysis of billions of pages of results from searches using the Bing algorithm suggests that reliable sites appear in search results 19 to 45 times more often than do sites with low-quality content. |
 |[AI-generated images threaten science — here’s how researchers hope to spot them.](https://www.nature.com/articles/d41586-024-03542-8) | Generative-AI technologies can create convincing scientific data with ease — publishers and integrity specialists fear a torrent of faked science.|
 |[The quest to build bionic limbs that feel like the real thing.](https://www.nature.com/articles/d41586-024-03675-w) | Through brain implants, neural interfaces and skin grafts, researchers are starting to restore sensation for paralysed or amputated limbs.|
-|[.]() | |
+|[How AI is reshaping science and society.](https://www.nature.com/articles/d41586-024-03679-6) | Artificial-intelligence tools such as ChatGPT might soon become fully autonomous by learning to perceive and interact with their environment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
