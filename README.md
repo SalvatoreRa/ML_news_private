@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-generated images threaten science — here’s how researchers hope to spot them.](https://www.nature.com/articles/d41586-024-03542-8) | Generative-AI technologies can create convincing scientific data with ease — publishers and integrity specialists fear a torrent of faked science.|
 |[The quest to build bionic limbs that feel like the real thing.](https://www.nature.com/articles/d41586-024-03675-w) | Through brain implants, neural interfaces and skin grafts, researchers are starting to restore sensation for paralysed or amputated limbs.|
 |[How AI is reshaping science and society.](https://www.nature.com/articles/d41586-024-03679-6) | Artificial-intelligence tools such as ChatGPT might soon become fully autonomous by learning to perceive and interact with their environment.|
-|[.]() | |
+|[‘It gets more and more confused’: can AI replace translators?](https://www.theguardian.com/books/2024/nov/11/it-gets-more-and-more-confused-can-ai-replace-translators) |A Dutch publisher has announced that it will use AI to translate some of its books – but those in the industry are worried about the consequences if this becomes the norm |
 |[.]() | |
 |[.]() | |
 |[.]() | |
