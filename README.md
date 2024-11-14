@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s take on AI agents could come in January.](https://techcrunch.com/2024/11/13/openais-take-on-ai-agents-could-come-in-january/) | OpenAI is reportedly preparing to launch "Operator," an AI agent tool, as early as January. Bloomberg states that Operator may be able to execute tasks directly on a user's computer. It will initially be accessible as a research preview through OpenAI's developer API.|
 |[Google's AI Initiative to Boost MENA Economy by $320 Billion.](https://blog.google/around-the-globe/google-middle-east/ai-opportunity-initiative-middle-east-north-africa/) |Google.org has launched the AI Opportunity Initiative, its largest AI investment in the Middle East and North Africa (MENA) region, aiming to develop essential AI skills, fund research, and expand AI access. This initiative is projected to contribute $320 billion to MENA's economy by 2030 |
 |[Two Trillion Token Common Corpus.](https://huggingface.co/blog/Pclanglais/two-trillion-tokens-open) | the release of Common Corpus (part of the AI Alliance Open Trusted Data Initiative)—the largest fully open multilingual dataset for training LLMs, containing over 2 trillion tokens of permissibly licensed content with provenance information (2,003,039,184,047 tokens).|
-|[.]() | |
+|[Lume raises $4.2M Seed Round led by General Catalyst.](https://lume.ai/blog/lume-raises-4-2m-seed-round-led-by-general-catalyst) | Lume automates data mapping with AI, streamlining mapping, cleaning, and validation of data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Link Conversation with Reference Materials.](https://github.com/rosewang2008/posr) |Problem-Oriented Segmentation & Retrieval (POSR) is a method that breaks conversations into meaningful segments and connects each segment to relevant reference materials, like worksheets or meeting notes. |
 |[MureObjectStitch: Multi-reference Image Composition.](https://arxiv.org/abs/2411.07462v1) |Researchers have presented an improved fine-tuning method for generative image composition, which seamlessly merges a specified foreground object with a new background to generate realistic images. |
 |[StoryTeller.](https://github.com/hyc2026/StoryTeller) | StoryTeller is a system created to generate coherent descriptions for long videos, tackling issues like plot consistency and character tracking throughout different scenes.|
-|[.]() | |
+|[SAMPart3D: Segment Any Part in 3D Objects.](https://yhyang-myron.github.io/SAMPart3D-website/) | SAMPart3D, developed by the University of Hong Kong, is a robust method for segmenting 3D objects into semantically meaningful components.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How AI is reshaping science and society.](https://www.nature.com/articles/d41586-024-03679-6) | Artificial-intelligence tools such as ChatGPT might soon become fully autonomous by learning to perceive and interact with their environment.|
 |[‘It gets more and more confused’: can AI replace translators?](https://www.theguardian.com/books/2024/nov/11/it-gets-more-and-more-confused-can-ai-replace-translators) |A Dutch publisher has announced that it will use AI to translate some of its books – but those in the industry are worried about the consequences if this becomes the norm |
 |[StackBlitz achieves $4M ARR in 4 weeks for their AI web development platform with Claude.](https://www.anthropic.com/customers/stackblitz) |StackBlitz developed an online developer tool that integrates closely with Claude 3.5 Sonnet. This post details how the company achieved $4 million in annual recurring revenue within a few months. |
-|[.]() | |
+|[Why the deep learning boom caught almost everyone by surprise.](https://www.understandingai.org/p/why-the-deep-learning-boom-caught) |Fei-Fei Li's development of the extensive ImageNet dataset played a crucial role in the revival of neural networks. It supplied the training data essential for landmark models such as AlexNet. Using GPUs and Geoffrey Hinton's backpropagation method, AlexNet showcased the potential of deep learning on large datasets, igniting the current AI revolution. This key event highlighted the significance of integrating neural networks, big data, and GPU computing to drive AI advancements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
