@@ -100,8 +100,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DataChain.](https://github.com/iterative/datachain) |Without abstracting AI models, DataChain is a Pythonic data-frame toolkit for AI that enables effective processing and dataset structuring of unstructured data. It facilitates the creation of metadata, filtering, and vector search by integrating with AI tools like PyTorch, TensorFlow, and LLM APIs. Additionally, the library has built-in vectorized operations on Python object fields, out-of-memory computation, and parallelization. |
 |[browser-use.](https://github.com/gregpr07/browser-use) |Through a streamlined UI, this open-source web automation application enables LLMs to communicate with websites. It is compatible with models such as Claude 3.5 Sonnet and GPT-4o. XPath extraction, customisable actions, and multi-tab management are important features. Data extraction and smooth web navigation are made possible by the program. Message length is one of its drawbacks, as it impacts task repetition and LLM speed. Robustness and cost reduction will be the main goals of further development. |
 |[CUDA Programming Course – High-Performance Computing with GPUs.](https://www.youtube.com/watch?v=86FAWCzIe_4&ab_channel=freeCodeCamp.org) |A great course from freeCodeCamp on CUDA programming from start to finish. |
-|[.]() | |
-|[.]() | |
+|[Masked Token Modeling for Zero-Shot Anything-to-Drums Conversion.](https://oreillyp.github.io/tria/) |Zero-shot drum style transfer for any input rhythm presents an exciting music application for artists. This is achieved using a masked token modeling objective, which is particularly effective for audio. |
+|[HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting.](https://arxiv.org/abs/2411.07541v1) |HiCoM is a cutting-edge framework designed to enhance real-time 3D reconstruction from multi-view streaming videos. It effectively addresses key challenges in storage, training speed, and rendering quality, making it a significant advancement in the field. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
