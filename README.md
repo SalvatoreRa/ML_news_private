@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘It gets more and more confused’: can AI replace translators?](https://www.theguardian.com/books/2024/nov/11/it-gets-more-and-more-confused-can-ai-replace-translators) |A Dutch publisher has announced that it will use AI to translate some of its books – but those in the industry are worried about the consequences if this becomes the norm |
 |[StackBlitz achieves $4M ARR in 4 weeks for their AI web development platform with Claude.](https://www.anthropic.com/customers/stackblitz) |StackBlitz developed an online developer tool that integrates closely with Claude 3.5 Sonnet. This post details how the company achieved $4 million in annual recurring revenue within a few months. |
 |[Why the deep learning boom caught almost everyone by surprise.](https://www.understandingai.org/p/why-the-deep-learning-boom-caught) |Fei-Fei Li's development of the extensive ImageNet dataset played a crucial role in the revival of neural networks. It supplied the training data essential for landmark models such as AlexNet. Using GPUs and Geoffrey Hinton's backpropagation method, AlexNet showcased the potential of deep learning on large datasets, igniting the current AI revolution. This key event highlighted the significance of integrating neural networks, big data, and GPU computing to drive AI advancements. |
-|[.]() | |
+|[Just Have AI Build an App for That.](https://davidgomes.com/just-have-ai-build-an-app-for-that/) | AI agents are increasingly being used to quickly create functional apps for tasks like resizing SVGs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
