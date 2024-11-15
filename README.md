@@ -141,8 +141,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MureObjectStitch: Multi-reference Image Composition.](https://arxiv.org/abs/2411.07462v1) |Researchers have presented an improved fine-tuning method for generative image composition, which seamlessly merges a specified foreground object with a new background to generate realistic images. |
 |[StoryTeller.](https://github.com/hyc2026/StoryTeller) | StoryTeller is a system created to generate coherent descriptions for long videos, tackling issues like plot consistency and character tracking throughout different scenes.|
 |[SAMPart3D: Segment Any Part in 3D Objects.](https://yhyang-myron.github.io/SAMPart3D-website/) | SAMPart3D, developed by the University of Hong Kong, is a robust method for segmenting 3D objects into semantically meaningful components.|
-|[.]() | |
-|[.]() | |
+|[Convolutional Differentiable Logic Gate Networks.](https://arxiv.org/abs/2411.04732) | 
+Researchers have developed a method to train image recognition networks that are 29 times smaller and more efficient than traditional convolutional neural networks (CNNs) by making logic gates differentiable. They have also provided efficient CUDA kernels in their paper release|
+|[Physics Informed Distillation for Diffusion Models.](https://arxiv.org/abs/2411.08378v1) |Physics Informed Distillation (PID) is a method that employs a student model to simplify and accelerate diffusion models by framing them as solutions to differential equations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
