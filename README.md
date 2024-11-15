@@ -57,8 +57,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Compressing Mesh Data for 3D Generation.](https://whaohan.github.io/bpt/) | By reducing the mesh sequence length by about 75%, a mesh compression method known as Blocked and Patchified Tokenization (BPT) effectively produces meshes with more than 8k faces.|
 |[Successor Feature Matching.](https://github.com/arnavkj1995/sfm) |A new non-adversarial method for inverse reinforcement learning that avoids reward function learning is called Successor Feature Matching. |
 |[Oasis: A Universe in a Transformer.](https://oasis-model.github.io/) | A 500M parameter foundation model without a game engine powers Oasis, a fully AI-generated, real-time open-world video game model. It is tailored for Etched's Sohu ASIC to achieve great frame rate efficiencies and uses quick transformer inference to generate gameplay. Despite showing great promise, issues like long-context consistency and domain generalization still exist.|
-|[.]() | |
-|[.]() | |
+|[OpenAI to present plans for U.S. AI strategy and an alliance to compete with China.](https://www.cnbc.com/2024/11/13/openai-to-present-plans-for-us-ai-strategy-and-an-alliance-to-compete-with-china.html) | OpenAI's AI infrastructure blueprint suggests establishing AI economic zones and collaborating with the U.S. Navy on nuclear energy to promote AI-driven economic growth and innovation. The proposal features a North American AI alliance and initiatives modeled after the National Interstate and Defense Highways Act to address infrastructure demands. It stresses the importance of investing in U.S. data centers and energy projects to stay competitive with China.|
+|[Introducing Athene-V2: Advancing Beyond the Limits of Scaling with Targeted Post-training.](https://nexusflow.ai/blogs/athene-v2) | Athene V2 consists of models built upon Qwen 2.5 72B, optimized for agentic and chat-based workflows, and outperform GPT-4o on several key benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
