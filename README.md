@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon launches under-$20 online storefront to compete with Temu.](https://www.theguardian.com/technology/2024/nov/13/amazon-haul-low-cost-storefront-temu-shein) | Company says Amazon Haul will mostly feature products under $10, which it plans to ship from China warehouse|
 |[Francois Chollet leaves Google.](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/) |The founder of Keras and Arc eval, among other contributions, has departed from Google. He will continue to support the Jax and Keras communities while exploring new opportunities. |
 |[OpenAI launches ChatGPT desktop integrations, rivaling Copilot.](https://venturebeat.com/ai/openai-launches-chatgpt-desktop-integrations-rivaling-copilot/) | When OpenAI released desktop app versions of ChatGPT, it was clear the goal was to get more users to bring ChatGPT into their daily workflows. Now, new updates to Mac OS and Windows PC versions encourage users to stay in the ChatGPT apps for most of their tasks. |
-|[.]() | |
-|[.]() | |
+|[Supermaven joins Cursor.](https://supermaven.com/blog/cursor-announcement) |The team behind the code editing plugin is joining Cursor to further enhance the user experience. |
+|[Google’s AI ‘learning companion’ takes chatbot answers a step further.](https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational) |Google’s Learn About AI tool has more educational, textbook-style responses to guide you through new topics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
