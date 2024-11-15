@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Two Trillion Token Common Corpus.](https://huggingface.co/blog/Pclanglais/two-trillion-tokens-open) | the release of Common Corpus (part of the AI Alliance Open Trusted Data Initiative)—the largest fully open multilingual dataset for training LLMs, containing over 2 trillion tokens of permissibly licensed content with provenance information (2,003,039,184,047 tokens).|
 |[Lume raises $4.2M Seed Round led by General Catalyst.](https://lume.ai/blog/lume-raises-4-2m-seed-round-led-by-general-catalyst) | Lume automates data mapping with AI, streamlining mapping, cleaning, and validation of data.|
 |[Amazon launches under-$20 online storefront to compete with Temu.](https://www.theguardian.com/technology/2024/nov/13/amazon-haul-low-cost-storefront-temu-shein) | Company says Amazon Haul will mostly feature products under $10, which it plans to ship from China warehouse|
-|[.]() | |
-|[.]() | |
+|[Francois Chollet leaves Google.](https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/) |The founder of Keras and Arc eval, among other contributions, has departed from Google. He will continue to support the Jax and Keras communities while exploring new opportunities. |
+|[OpenAI launches ChatGPT desktop integrations, rivaling Copilot.](https://venturebeat.com/ai/openai-launches-chatgpt-desktop-integrations-rivaling-copilot/) | When OpenAI released desktop app versions of ChatGPT, it was clear the goal was to get more users to bring ChatGPT into their daily workflows. Now, new updates to Mac OS and Windows PC versions encourage users to stay in the ChatGPT apps for most of their tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
