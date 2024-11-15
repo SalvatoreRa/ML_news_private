@@ -147,6 +147,11 @@ Researchers have developed a method to train image recognition networks that are
 |[MinerU: high-quality data extraction tool.](https://github.com/opendatalab/MinerU) | MinerU is a robust tool built on StructTable-InternVL2-1B, enabling the extraction of information from PDFs into various machine-readable formats.|
 |[Isotonic regression.](https://josephsalmon.eu/blog/isotonic/) |A powerful technique for fitting a monotonic function to data. It can be differentiated really well for a number of applications outside of curve fitting. |
 |[Text-to-SQL Query.](https://github.com/XGenerationLab/XiYan-SQL) |XiYan-SQL is an innovative framework aimed at enhancing both the accuracy and diversity of SQL queries produced from natural language input. |
+|[X-Portrait 2: Highly Expressive Portrait Animation.](https://byteaigc.github.io/X-Portrait2/) | ByteDance's AI group has unveiled X-Portrait 2, an advanced portrait animation technology that transforms static images into highly expressive, realistic videos. Building upon its predecessor, X-Portrait, this new model excels in capturing subtle facial expressions and complex movements, such as pouting, tongue-out gestures, cheek-puffing, and frowning. It achieves high fidelity in emotion preservation, ensuring the generated videos maintain the subject's identity and emotional nuances.|
+|[MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views.](https://donydchen.github.io/mvsplat360/) |The MVSplat360 model offers a new way to create realistic 360° views of real-world scenes, even from just a few sparse images. |
+|[Improved Multi-Task Brain Tumour Segmentation with Synthetic Data Augmentation.](https://arxiv.org/abs/2411.04632v1) | This paper presents the leading approach for brain tumor segmentation in the BraTS challenge, demonstrating how synthetic data can improve AI models for medical imaging applications.|
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
