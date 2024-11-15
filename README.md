@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's AI Initiative to Boost MENA Economy by $320 Billion.](https://blog.google/around-the-globe/google-middle-east/ai-opportunity-initiative-middle-east-north-africa/) |Google.org has launched the AI Opportunity Initiative, its largest AI investment in the Middle East and North Africa (MENA) region, aiming to develop essential AI skills, fund research, and expand AI access. This initiative is projected to contribute $320 billion to MENA's economy by 2030 |
 |[Two Trillion Token Common Corpus.](https://huggingface.co/blog/Pclanglais/two-trillion-tokens-open) | the release of Common Corpus (part of the AI Alliance Open Trusted Data Initiative)—the largest fully open multilingual dataset for training LLMs, containing over 2 trillion tokens of permissibly licensed content with provenance information (2,003,039,184,047 tokens).|
 |[Lume raises $4.2M Seed Round led by General Catalyst.](https://lume.ai/blog/lume-raises-4-2m-seed-round-led-by-general-catalyst) | Lume automates data mapping with AI, streamlining mapping, cleaning, and validation of data.|
-|[.]() | |
+|[Amazon launches under-$20 online storefront to compete with Temu.](https://www.theguardian.com/technology/2024/nov/13/amazon-haul-low-cost-storefront-temu-shein) | Company says Amazon Haul will mostly feature products under $10, which it plans to ship from China warehouse|
 |[.]() | |
 |[.]() | |
 |[.]() | |
