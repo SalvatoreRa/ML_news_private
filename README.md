@@ -38,7 +38,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 #############################################
 # On working 
 
-# ML news: 
+# ML news: Week 11 - 17 November
 
 ## Research
 |Link|description|
