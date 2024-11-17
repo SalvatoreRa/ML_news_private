@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI could cause ‘social ruptures’ between people who disagree on its sentience.](https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience) |AI could cause ‘social ruptures’ between people who disagree on its sentience |
 |[Is this (finally) the end for X? Delicate Musk-Trump relationship and growing rivals spell trouble for platform.](https://www.theguardian.com/technology/2024/nov/17/bluesky-musk-trump-x-twitter-authoritarian-world) | The former Twitter could fade away, or help shape a dark future hosting voices of a new authoritarian world|
-|[.]() | |
+|[‘Have your bot speak to my bot’: can AI productivity apps turbocharge my life?](https://www.theguardian.com/technology/2024/nov/17/have-your-bot-speak-to-my-bot-can-ai-productivity-apps-turbocharge-my-life) |I tried out organisational software to help streamline my work and build a ‘second brain’. I never knew there were so many different ways to take notes… |
 |[.]() | |
 |[.]() | |
 |[.]() | |
