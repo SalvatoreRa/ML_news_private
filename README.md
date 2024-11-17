@@ -133,8 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[AI could cause ‘social ruptures’ between people who disagree on its sentience.](https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience) |AI could cause ‘social ruptures’ between people who disagree on its sentience |
+|[Is this (finally) the end for X? Delicate Musk-Trump relationship and growing rivals spell trouble for platform.](https://www.theguardian.com/technology/2024/nov/17/bluesky-musk-trump-x-twitter-authoritarian-world) | The former Twitter could fade away, or help shape a dark future hosting voices of a new authoritarian world|
 |[.]() | |
 |[.]() | |
 |[.]() | |
