@@ -182,16 +182,7 @@ Researchers have developed a method to train image recognition networks that are
 |[Just Have AI Build an App for That.](https://davidgomes.com/just-have-ai-build-an-app-for-that/) | AI agents are increasingly being used to quickly create functional apps for tasks like resizing SVGs.|
 |[AI isn’t about unleashing our imaginations, it’s about outsourcing them. The real purpose is profit.](https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit) |Artificial intelligence doesn’t just incrementally erode the rights of authors and other creators. These technologies are designed to replace creative workers altogether |
 |[Companies building AI-powered tech are using your posts. Here’s how to opt out.](https://www.theguardian.com/technology/2024/nov/15/x-ai-gmail-meta-privacy-settings) | ven if you haven’t knowingly opted in, companies are still scraping your personal information to train their systems|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 
 
