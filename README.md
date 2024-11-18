@@ -43,8 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Artificial Intelligence, Scientific Discovery, and Product Innovation.](https://aidantr.github.io/files/AI_innovation.pdf) |indicates that leading scientists use their expertise to focus on the most promising AI-generated suggestions, while others often expend considerable resources on false positives; shows that adopting AI technology for materials discovery boosts productivity, resulting in 44% more materials discovered, a 39% increase in patent filings, and 17% greater product innovation; notes that these improvements come with drawbacks, as 82% of scientists experienced lower job satisfaction, citing reduced creativity and underutilization of their skills. |
+|[Scaling Laws for Precision.](https://arxiv.org/abs/2411.04330) | presents "precision-aware" scaling laws that forecast how both training and inference precision impact LLM performance; key insights include: 1) post-training quantization becomes increasingly detrimental as models are trained on larger datasets, to the point where more pretraining may harm performance, 2) training with lower precision necessitates a larger model size to sustain performance levels, and 3) when optimizing model size, data, and precision together, the ideal training precision is around 7-8 bits, independent of compute availability; further notes that with a fixed model size, the optimal precision for compute increases roughly logarithmically with data size; the authors confirm their predictions on models up to 1.7B parameters trained on up to 26B tokens, demonstrating that both very high (16-bit) and very low (under 4-bit) training precisions may be inefficient.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
