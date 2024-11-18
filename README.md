@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Hi-tech recreation of Richard III’s voice has a Yorkshire accent.](https://www.theguardian.com/uk-news/2024/nov/17/technology-used-to-recreate-richard-iiis-voice-with-yorkshire-accent) |A digital avatar of the king’s head, complete with ‘meticulously researched’ voice, is on display in York |
 |[.]() | |
 |[.]() | |
 |[.]() | |
