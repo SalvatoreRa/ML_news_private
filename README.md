@@ -71,8 +71,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Hi-tech recreation of Richard III’s voice has a Yorkshire accent.](https://www.theguardian.com/uk-news/2024/nov/17/technology-used-to-recreate-richard-iiis-voice-with-yorkshire-accent) |A digital avatar of the king’s head, complete with ‘meticulously researched’ voice, is on display in York |
-|[.]() | |
-|[.]() | |
+|[OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others.](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) | Elon Musk's lawsuit against OpenAI has unveiled emails from the startup's early days, exposing internal conflicts.|
+|[Spotify’s Plans For AI Generated Music, Podcasts, and Recommendations, According To Its Co-President, CTO, and CPO Gustav Söderström.](https://www.bigtechnology.com/p/spotifys-plans-for-ai-generated-music) | Spotify's Gustav Söderström talks about AI music, Notebook LM podcasts, and the nuance of building better discovery using LLMs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI could cause ‘social ruptures’ between people who disagree on its sentience.](https://www.theguardian.com/technology/2024/nov/17/ai-could-cause-social-ruptures-between-people-who-disagree-on-its-sentience) |AI could cause ‘social ruptures’ between people who disagree on its sentience |
 |[Is this (finally) the end for X? Delicate Musk-Trump relationship and growing rivals spell trouble for platform.](https://www.theguardian.com/technology/2024/nov/17/bluesky-musk-trump-x-twitter-authoritarian-world) | The former Twitter could fade away, or help shape a dark future hosting voices of a new authoritarian world|
 |[‘Have your bot speak to my bot’: can AI productivity apps turbocharge my life?](https://www.theguardian.com/technology/2024/nov/17/have-your-bot-speak-to-my-bot-can-ai-productivity-apps-turbocharge-my-life) |I tried out organisational software to help streamline my work and build a ‘second brain’. I never knew there were so many different ways to take notes… |
-|[.]() | |
+|[Is “AI welfare” the new frontier in ethics?](https://arstechnica.com/ai/2024/11/anthropic-hires-its-first-ai-welfare-researcher) | A few months ago, Anthropic quietly hired its first dedicated "AI welfare" researcher, Kyle Fish, to explore whether future AI models might deserve moral consideration and protection, reports AI newsletter Transformer. While sentience in AI models is an extremely controversial and contentious topic, the hire could signal a shift toward AI companies examining ethical questions about the consciousness and rights of AI systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
