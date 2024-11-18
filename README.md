@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement.](https://github.com/NJU-PCALab/RAG-Diffusion) |An improved technique for generating images with improved control based on chosen regions. |
 |[Accurate Image Matching.](https://github.com/fb82/miho) |MOP+MiHo+NCC is a non-deep, modular method for improving image matches using a combination of three techniques. Multiple Overlapping Planes (MOP) clusters inlier matches and uses RANSAC to remove outliers. Middle Homography (MiHo) minimizes distortion during planar reprojection. Normalized Cross Correlation (NCC) adjusts keypoint positions post-transformation. |
 |[The Beginner's Guide to Visual Prompt Injections.](https://www.lakera.ai/blog/visual-prompt-injections) |Visual prompt injections present security threats to LLMs like GPT-4V by embedding harmful instructions within images, potentially causing unintended model behavior. These vulnerabilities can manipulate outputs, for instance, by causing the model to overlook certain individuals in images or misrepresent described contexts. With the increasing adoption of generative AI, companies must implement strong security measures to address these risks. |
-|[.]() | |
-|[.]() | |
+|[PyGen: Turning Your Ideas into Python Package.](https://github.com/GitsSaikat/Pygen) | PyGen simplifies the process of turning your ideas into software, making coding more accessible and enjoyable. Leveraging advanced language models, PyGen acts like a tech-savvy assistant, transforming abstract concepts into complete Python tools, including testing and documentation. |
+|[UltraVox Audio Language Models.](https://huggingface.co/collections/reach-vb/ultravox-audio-language-model-release-67373b602af0a52b2a88ae71) |A suite of open weight models that can take text and audio as input modalities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Have your bot speak to my bot’: can AI productivity apps turbocharge my life?](https://www.theguardian.com/technology/2024/nov/17/have-your-bot-speak-to-my-bot-can-ai-productivity-apps-turbocharge-my-life) |I tried out organisational software to help streamline my work and build a ‘second brain’. I never knew there were so many different ways to take notes… |
 |[Is “AI welfare” the new frontier in ethics?](https://arstechnica.com/ai/2024/11/anthropic-hires-its-first-ai-welfare-researcher) | A few months ago, Anthropic quietly hired its first dedicated "AI welfare" researcher, Kyle Fish, to explore whether future AI models might deserve moral consideration and protection, reports AI newsletter Transformer. While sentience in AI models is an extremely controversial and contentious topic, the hire could signal a shift toward AI companies examining ethical questions about the consciousness and rights of AI systems.|
 |[What if AI doesn’t just keep getting better forever?](https://arstechnica.com/ai/2024/11/what-if-ai-doesnt-just-keep-getting-better-forever/) |Recent reports suggest that traditional large language model (LLM) training is encountering diminishing returns, with newer models like OpenAI's Orion showing only modest improvements over predecessors. Experts are concerned about the scarcity of high-quality textual data for LLM training, leading to a shift towards synthetic data and specialized AI models. Future advancements may prioritize enhancing reasoning capabilities and developing task-specific models over general scaling. |
-|[.]() | |
+|[AI Makes Tech Debt More Expensive.](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive) |AI amplifies the cost of tech debt by widening the velocity gap between low-debt and high-debt codebases. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
