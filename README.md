@@ -141,8 +141,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Makes Tech Debt More Expensive.](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive) |AI amplifies the cost of tech debt by widening the velocity gap between low-debt and high-debt codebases. |
 |[Where's My Robot Butler?](https://spectrum.ieee.org/ai-robots) | Advancements in AI and robotics are speeding up the creation of humanoid robots like Atlas, Optimus, and Neo, designed to handle domestic tasks similar to Rosie from "The Jetsons." However, developing cost-effective, safe, and efficient actuators remains a challenge. AI models play a vital role in training these robots for autonomous, complex tasks. Although there has been notable progress, these robots are currently better suited for industrial applications and may only become practical for home use with major breakthroughs.|
 |[Google's head of research on whether 'learn to code' is still good advice in the age of AI.](https://www.businessinsider.com/google-research-head-career-advice-learn-to-code-2024-11) |Even though AI can manage some coding tasks, having a fundamental understanding of coding remains essential and opens up new opportunities in various fields, such as healthcare and education. |
-|[.]() | |
-|[.]() | |
+|[Why are we using LLMs as calculators?](https://vickiboykis.com/2024/11/09/why-are-we-using-llms-as-calculators/) |Researchers are experimenting with LLMs' ability to solve math problems to assess their reasoning capabilities. |
+|[GPTs Are Maxed Out.](https://www.thealgorithmicbridge.com/p/gpts-are-maxed-out) | OpenAI's next-generation model, internally called Orion, is said to fall short of expectations set by Sam Altman, hinting at a possible limit to the scalability of AI model improvements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
