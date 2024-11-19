@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Spotify’s Plans For AI Generated Music, Podcasts, and Recommendations, According To Its Co-President, CTO, and CPO Gustav Söderström.](https://www.bigtechnology.com/p/spotifys-plans-for-ai-generated-music) | Spotify's Gustav Söderström talks about AI music, Notebook LM podcasts, and the nuance of building better discovery using LLMs.|
 |[AI cloning of celebrity voices outpacing the law, experts warn.](https://www.theguardian.com/technology/2024/nov/19/ai-cloning-of-celebrity-voices-outpacing-the-law-experts-warn) | David Attenborough among famous people whose voices have been exploited by fraudsters|
 |[John Oliver on potential US TikTok ban: ‘May not be necessary, but it isn’t sufficient’.](https://www.theguardian.com/tv-and-radio/2024/nov/18/john-oliver-last-week-tonight-tiktok-ban) | Last Week Tonight host looks into looming US ban over privacy concerns and fear of its Chinese parent company|
-|[.]() | |
-|[.]() | |
+|[Shop like a Pro: Perplexity’s new AI-powered shopping assistant.](https://www.perplexity.ai/hub/blog/shop-like-a-pro) | Perplexity has introduced a shopping feature for Pro users in the U.S., enabling them to research and purchase products directly within the platform. This feature includes a "Buy with Pro" button that allows users to order items using saved billing and shipping information, with free shipping on all purchases. |
+|[Ben Affleck Shares Candid Take on the Positive Use of AI in Hollywood, but Doesn't See It Threatening Creativity.](https://movieweb.com/ben-affleck-ai-role-in-hollywood/) |During an interview, Ben Affleck reassured Hollywood actors and writers, stating that AI currently poses minimal risk to their jobs because of its existing limitations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Beginner's Guide to Visual Prompt Injections.](https://www.lakera.ai/blog/visual-prompt-injections) |Visual prompt injections present security threats to LLMs like GPT-4V by embedding harmful instructions within images, potentially causing unintended model behavior. These vulnerabilities can manipulate outputs, for instance, by causing the model to overlook certain individuals in images or misrepresent described contexts. With the increasing adoption of generative AI, companies must implement strong security measures to address these risks. |
 |[PyGen: Turning Your Ideas into Python Package.](https://github.com/GitsSaikat/Pygen) | PyGen simplifies the process of turning your ideas into software, making coding more accessible and enjoyable. Leveraging advanced language models, PyGen acts like a tech-savvy assistant, transforming abstract concepts into complete Python tools, including testing and documentation. |
 |[UltraVox Audio Language Models.](https://huggingface.co/collections/reach-vb/ultravox-audio-language-model-release-67373b602af0a52b2a88ae71) |A suite of open weight models that can take text and audio as input modalities. |
-|[.]() | |
+|[https://arxiv.org/abs/2410.17758.](https://mistral.ai/news/pixtral-large/) | Pixtral Large is a 124B open-weight multimodal model built upon Mistral Large 2. As the second model in this multimodal series, it showcases advanced image comprehension, capable of interpreting documents, charts, and natural images, while retaining the top-tier text understanding of Mistral Large 2.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
