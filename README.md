@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Shop like a Pro: Perplexity’s new AI-powered shopping assistant.](https://www.perplexity.ai/hub/blog/shop-like-a-pro) | Perplexity has introduced a shopping feature for Pro users in the U.S., enabling them to research and purchase products directly within the platform. This feature includes a "Buy with Pro" button that allows users to order items using saved billing and shipping information, with free shipping on all purchases. |
 |[Ben Affleck Shares Candid Take on the Positive Use of AI in Hollywood, but Doesn't See It Threatening Creativity.](https://movieweb.com/ben-affleck-ai-role-in-hollywood/) |During an interview, Ben Affleck reassured Hollywood actors and writers, stating that AI currently poses minimal risk to their jobs because of its existing limitations. |
 |[The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use.](https://arxiv.org/abs/2411.10323) |This work seeks to systematically evaluate the capabilities of new autonomous computer use agents, revealing that Claude is particularly strong at handling traditional linear tasks. |
-|[.]() | |
+|[Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference.](https://cerebras.ai/blog/llama-405b-inference) |Cerebras has developed a 405-billion-parameter Llama 3.1 model, the largest in its class, capable of processing nearly 1,000 tokens per second. This performance is approximately 12 times faster than comparable systems and 18 times faster than some closed-model API providers. The model is expected to be accessible via API at the beginning of next year. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UltraVox Audio Language Models.](https://huggingface.co/collections/reach-vb/ultravox-audio-language-model-release-67373b602af0a52b2a88ae71) |A suite of open weight models that can take text and audio as input modalities. |
 |[https://arxiv.org/abs/2410.17758.](https://mistral.ai/news/pixtral-large/) | Pixtral Large is a 124B open-weight multimodal model built upon Mistral Large 2. As the second model in this multimodal series, it showcases advanced image comprehension, capable of interpreting documents, charts, and natural images, while retaining the top-tier text understanding of Mistral Large 2.|
 |[LLaVA-o1: Let Vision Language Models Reason Step-by-Step.](https://arxiv.org/abs/2411.10440) |Although this isn't an exact replication of the training process used for o1, it remains a robust VLM trained on reasoning traces. |
-|[.]() | |
+|[CLIP for Semantic Segmentation.](https://github.com/YuHengsss/Trident) |Although CLIP has excelled in open-vocabulary tasks, it faces challenges in semantic segmentation due to noisy features and limited resolution. Trident tackles the resolution problem with a training-free framework, integrating CLIP and DINO features from sub-images and employing SAM's encoder for global feature aggregation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
