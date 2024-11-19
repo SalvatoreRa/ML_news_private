@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[https://arxiv.org/abs/2410.17758.](https://mistral.ai/news/pixtral-large/) | Pixtral Large is a 124B open-weight multimodal model built upon Mistral Large 2. As the second model in this multimodal series, it showcases advanced image comprehension, capable of interpreting documents, charts, and natural images, while retaining the top-tier text understanding of Mistral Large 2.|
 |[LLaVA-o1: Let Vision Language Models Reason Step-by-Step.](https://arxiv.org/abs/2411.10440) |Although this isn't an exact replication of the training process used for o1, it remains a robust VLM trained on reasoning traces. |
 |[CLIP for Semantic Segmentation.](https://github.com/YuHengsss/Trident) |Although CLIP has excelled in open-vocabulary tasks, it faces challenges in semantic segmentation due to noisy features and limited resolution. Trident tackles the resolution problem with a training-free framework, integrating CLIP and DINO features from sub-images and employing SAM's encoder for global feature aggregation. |
-|[.]() | |
-|[.]() | |
+|[Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness.](https://github.com/suhyeok24/ft-cadis) |This work focuses on improving the certified robustness of smoothed classifiers by fine-tuning off-the-shelf models |
+|[ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning.](https://generative-video-camera-controls.github.io/) | This paper from Google demonstrates a method for altering the camera viewpoint of an existing video.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
