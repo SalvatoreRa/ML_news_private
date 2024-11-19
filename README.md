@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hi-tech recreation of Richard III’s voice has a Yorkshire accent.](https://www.theguardian.com/uk-news/2024/nov/17/technology-used-to-recreate-richard-iiis-voice-with-yorkshire-accent) |A digital avatar of the king’s head, complete with ‘meticulously researched’ voice, is on display in York |
 |[OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others.](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/) | Elon Musk's lawsuit against OpenAI has unveiled emails from the startup's early days, exposing internal conflicts.|
 |[Spotify’s Plans For AI Generated Music, Podcasts, and Recommendations, According To Its Co-President, CTO, and CPO Gustav Söderström.](https://www.bigtechnology.com/p/spotifys-plans-for-ai-generated-music) | Spotify's Gustav Söderström talks about AI music, Notebook LM podcasts, and the nuance of building better discovery using LLMs.|
-|[.]() | |
-|[.]() | |
+|[AI cloning of celebrity voices outpacing the law, experts warn.](https://www.theguardian.com/technology/2024/nov/19/ai-cloning-of-celebrity-voices-outpacing-the-law-experts-warn) | David Attenborough among famous people whose voices have been exploited by fraudsters|
+|[John Oliver on potential US TikTok ban: ‘May not be necessary, but it isn’t sufficient’.](https://www.theguardian.com/tv-and-radio/2024/nov/18/john-oliver-last-week-tonight-tiktok-ban) | Last Week Tonight host looks into looming US ban over privacy concerns and fear of its Chinese parent company|
 |[.]() | |
 |[.]() | |
 |[.]() | |
