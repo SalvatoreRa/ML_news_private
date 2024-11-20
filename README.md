@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Solving the Travelling Salesman Problem.](https://arxiv.org/abs/2411.09238v1) |This study highlights the often underestimated value of the "heatmap + Monte Carlo Tree Search (MCTS)" method, demonstrating that well-tuned, straightforward heatmaps can surpass more sophisticated models. |
 |[Graph-based AI model maps the future of innovation.](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112) | MIT researchers created an AI model that employs generative knowledge extraction and graph reasoning to detect intricate patterns across varied domains such as biology and music. The model efficiently generates knowledge maps from scientific literature, uncovering connections and proposing novel materials inspired by art. This method boosts interdisciplinary research by uncovering hidden insights and fostering innovative concepts for material design.|
 |[Teaching Video Models to Understand Time Like a Story.](https://arxiv.org/abs/2411.10332v1) | This paper presents NumPro, an innovative approach designed to assist Video Large Language Models in managing Video Temporal Grounding tasks.|
-|[.]() | |
+|[Generative World Explorer.](https://generative-world-explorer.github.io/) |The Generative World Explorer (Genex) is a system capable of simulating exploration in 3D spaces through generation and leveraging those simulations to enhance planning. It employs an ST-VAE and a diffusion pass for its imagination process, leading to better planning outcomes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta pushes AI bid for UK public sector forward with technology aimed at NHS.](https://www.theguardian.com/technology/2024/nov/19/meta-hackathon-devises-ways-to-use-ai-system-in-uk-public-services) | Tech giant awards funding to project to shorten waits in A&E, after ‘hackathon’ on using Llama system in Britain|
 |[Meta hires Salesforce's CEO of AI, Clara Shih.](https://www.axios.com/2024/11/19/meta-new-ai-tools-businesses) | Meta is creating a new product unit to develop AI tools for the 200 million businesses that use its apps.|
 |[Rox's Public Beta and $50M Raise.](https://docs.rox.com/development/about-rox/founder-note/make-the-best-better) |Rox, an AI-powered sales productivity platform, boosts enterprise sales reps' performance by over 30% through AI analyst teams that handle tasks like planning and engagement. It integrates effortlessly with existing systems, eliminating the inefficiencies of traditional CRMs, and is already used by leading companies. Rox recently secured $50M in funding, led by Sequoia and other prominent investors, to expand its market presence. |
-|[.]() | |
+|[Genies launches Parties for brands and creators to launch their own ‘AI Roblox’.](https://venturebeat.com/games/genies-launches-parties-for-brands-and-creators-to-launch-their-own-ai-roblox/) | Genies, a culture-focused avatar technology company, has launched Parties after developing its foundational technology stack since the last fundraise.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
