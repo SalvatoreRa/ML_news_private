@@ -87,6 +87,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Genies launches Parties for brands and creators to launch their own ‘AI Roblox’.](https://venturebeat.com/games/genies-launches-parties-for-brands-and-creators-to-launch-their-own-ai-roblox/) | Genies, a culture-focused avatar technology company, has launched Parties after developing its foundational technology stack since the last fundraise.|
 |[Generative AI taught a robot dog to scramble around a new environment.](https://www.technologyreview.com/2024/11/12/1106811/generative-ai-taught-a-robot-dog-to-scramble-around-a-new-environment) |Teaching robots to navigate new environments is tough. You can train them on physical, real-world data taken from recordings made by humans, but that’s scarce and expensive to collect. Digital simulations are a rapid, scalable way to teach them to do new things, but the robots often fail when they’re pulled out of virtual worlds and asked to do the same tasks in the real one.  |
 |[Breakthrough robot nails surgery like a human doctor after watching videos.](https://interestingengineering.com/innovation/robot-nails-surgery-lik-human-doctor) | The model can quickly train robots for diverse surgeries, from basic tasks to full procedures, advancing robotic medical capabilities.|
+|[DeepL launches DeepL Voice, real-time, text-based translations from voices and videos.](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) | DeepL has made a name for itself with online text translation it claims is more nuanced and precise than services from the likes of Google — a pitch that has catapulted the German startup to a valuation of $2 billion and more than 100,000 paying customers. Users will now be able to use DeepL Voice to listen to someone speaking in one language and automatically translate it to another, in real time.|
+|[Google releases standalone Gemini app for iPhone.](https://www.macworld.com/article/2521235/google-releases-standalone-gemini-app-for-iphone.html) | You've always been able to access this in the Google app, but now there's another way.|
+|[ChatGPT can now read some of your Mac’s desktop apps.](https://techcrunch.com/2024/11/14/chatgpt-can-now-read-some-of-your-macs-desktop-apps/) |On Thursday, the startup announced the ChatGPT desktop app for macOS can now read code in a handful of developer-focused coding apps, such as VS Code, Xcode, TextEdit, Terminal, and iTerm2. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
