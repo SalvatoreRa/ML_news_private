@@ -53,8 +53,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Graph-based AI model maps the future of innovation.](https://news.mit.edu/2024/graph-based-ai-model-maps-future-innovation-1112) | MIT researchers created an AI model that employs generative knowledge extraction and graph reasoning to detect intricate patterns across varied domains such as biology and music. The model efficiently generates knowledge maps from scientific literature, uncovering connections and proposing novel materials inspired by art. This method boosts interdisciplinary research by uncovering hidden insights and fostering innovative concepts for material design.|
 |[Teaching Video Models to Understand Time Like a Story.](https://arxiv.org/abs/2411.10332v1) | This paper presents NumPro, an innovative approach designed to assist Video Large Language Models in managing Video Temporal Grounding tasks.|
 |[Generative World Explorer.](https://generative-world-explorer.github.io/) |The Generative World Explorer (Genex) is a system capable of simulating exploration in 3D spaces through generation and leveraging those simulations to enhance planning. It employs an ST-VAE and a diffusion pass for its imagination process, leading to better planning outcomes. |
-|[.]() | |
-|[.]() | |
+|[Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering.](https://arxiv.org/abs/2411.11504) |The Generative World Explorer (Genex) is a system capable of simulating exploration in 3D spaces through generation and leveraging those simulations to enhance planning. It employs an ST-VAE and a diffusion pass for its imagination process, leading to better planning outcomes. |
+|[OneNet: A Channel-Wise 1D Convolutional U-Net.](https://arxiv.org/abs/2411.09838v1) |OneNet is a 1D convolutional encoder optimized for efficient image segmentation, making it well-suited for edge devices. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
