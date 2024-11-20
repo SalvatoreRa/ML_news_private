@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta hires Salesforce's CEO of AI, Clara Shih.](https://www.axios.com/2024/11/19/meta-new-ai-tools-businesses) | Meta is creating a new product unit to develop AI tools for the 200 million businesses that use its apps.|
 |[Rox's Public Beta and $50M Raise.](https://docs.rox.com/development/about-rox/founder-note/make-the-best-better) |Rox, an AI-powered sales productivity platform, boosts enterprise sales reps' performance by over 30% through AI analyst teams that handle tasks like planning and engagement. It integrates effortlessly with existing systems, eliminating the inefficiencies of traditional CRMs, and is already used by leading companies. Rox recently secured $50M in funding, led by Sequoia and other prominent investors, to expand its market presence. |
 |[Genies launches Parties for brands and creators to launch their own ‘AI Roblox’.](https://venturebeat.com/games/genies-launches-parties-for-brands-and-creators-to-launch-their-own-ai-roblox/) | Genies, a culture-focused avatar technology company, has launched Parties after developing its foundational technology stack since the last fundraise.|
-|[.]() | |
+|[Generative AI taught a robot dog to scramble around a new environment.](https://www.technologyreview.com/2024/11/12/1106811/generative-ai-taught-a-robot-dog-to-scramble-around-a-new-environment) |Teaching robots to navigate new environments is tough. You can train them on physical, real-world data taken from recordings made by humans, but that’s scarce and expensive to collect. Digital simulations are a rapid, scalable way to teach them to do new things, but the robots often fail when they’re pulled out of virtual worlds and asked to do the same tasks in the real one.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning.](https://generative-video-camera-controls.github.io/) | This paper from Google demonstrates a method for altering the camera viewpoint of an existing video.|
 |[Evaluating-Constitutions.](https://github.com/saskia-rr/Evaluating-Constitutions) | Code to assist in evaluating constitutions based on human feedback.|
 |[StableV2V: Stablizing Shape Consistency in Video-to-Video Editing.](https://alonzoleeeooo.github.io/StableV2V) | StableV2V is a novel video editing framework that maintains shape consistency across frames, even when user prompts require significant transformations. This method ensures smooth and precise modifications throughout the video, preserving structural integrity|
-|[.]() | |
+|[CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset.](https://github.com/meize0729/ccexpert) |CCExpert is an AI model developed to describe changes in images using natural language. It can identify what has changed, where the change occurred, and how it happened. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
