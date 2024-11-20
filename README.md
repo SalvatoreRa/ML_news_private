@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nous Research Forge.](https://nousresearch.com/introducing-the-forge-reasoning-api-beta-and-nous-chat-an-evolution-in-llm-inference/) |The Forge Reasoning API enhances popular language models by integrating a code interpreter and advanced reasoning capabilities, leading to improved performance. |
 |[US justice department plans to push Google to sell off Chrome browser.](https://www.theguardian.com/technology/2024/nov/19/us-doj-sell-chrome-browser-ai-android) |Authorities seek to dismantle monopoly on search market and also want action related to AI and Android |
 |[Meta pushes AI bid for UK public sector forward with technology aimed at NHS.](https://www.theguardian.com/technology/2024/nov/19/meta-hackathon-devises-ways-to-use-ai-system-in-uk-public-services) | Tech giant awards funding to project to shorten waits in A&E, after ‘hackathon’ on using Llama system in Britain|
-|[.]() | |
-|[.]() | |
+|[Meta hires Salesforce's CEO of AI, Clara Shih.](https://www.axios.com/2024/11/19/meta-new-ai-tools-businesses) | Meta is creating a new product unit to develop AI tools for the 200 million businesses that use its apps.|
+|[Rox's Public Beta and $50M Raise.](https://docs.rox.com/development/about-rox/founder-note/make-the-best-better) |Rox, an AI-powered sales productivity platform, boosts enterprise sales reps' performance by over 30% through AI analyst teams that handle tasks like planning and engagement. It integrates effortlessly with existing systems, eliminating the inefficiencies of traditional CRMs, and is already used by leading companies. Rox recently secured $50M in funding, led by Sequoia and other prominent investors, to expand its market presence. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
