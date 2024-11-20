@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use.](https://arxiv.org/abs/2411.10323) |This work seeks to systematically evaluate the capabilities of new autonomous computer use agents, revealing that Claude is particularly strong at handling traditional linear tasks. |
 |[Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference.](https://cerebras.ai/blog/llama-405b-inference) |Cerebras has developed a 405-billion-parameter Llama 3.1 model, the largest in its class, capable of processing nearly 1,000 tokens per second. This performance is approximately 12 times faster than comparable systems and 18 times faster than some closed-model API providers. The model is expected to be accessible via API at the beginning of next year. |
 |[Nous Research Forge.](https://nousresearch.com/introducing-the-forge-reasoning-api-beta-and-nous-chat-an-evolution-in-llm-inference/) |The Forge Reasoning API enhances popular language models by integrating a code interpreter and advanced reasoning capabilities, leading to improved performance. |
-|[.]() | |
-|[.]() | |
+|[US justice department plans to push Google to sell off Chrome browser.](https://www.theguardian.com/technology/2024/nov/19/us-doj-sell-chrome-browser-ai-android) |Authorities seek to dismantle monopoly on search market and also want action related to AI and Android |
+|[Meta pushes AI bid for UK public sector forward with technology aimed at NHS.](https://www.theguardian.com/technology/2024/nov/19/meta-hackathon-devises-ways-to-use-ai-system-in-uk-public-services) | Tech giant awards funding to project to shorten waits in A&E, after ‘hackathon’ on using Llama system in Britain|
 |[.]() | |
 |[.]() | |
 |[.]() | |
