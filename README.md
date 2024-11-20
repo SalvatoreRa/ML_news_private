@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CLIP for Semantic Segmentation.](https://github.com/YuHengsss/Trident) |Although CLIP has excelled in open-vocabulary tasks, it faces challenges in semantic segmentation due to noisy features and limited resolution. Trident tackles the resolution problem with a training-free framework, integrating CLIP and DINO features from sub-images and employing SAM's encoder for global feature aggregation. |
 |[Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness.](https://github.com/suhyeok24/ft-cadis) |This work focuses on improving the certified robustness of smoothed classifiers by fine-tuning off-the-shelf models |
 |[ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning.](https://generative-video-camera-controls.github.io/) | This paper from Google demonstrates a method for altering the camera viewpoint of an existing video.|
-|[.]() | |
-|[.]() | |
+|[Evaluating-Constitutions.](https://github.com/saskia-rr/Evaluating-Constitutions) | Code to assist in evaluating constitutions based on human feedback.|
+|[StableV2V: Stablizing Shape Consistency in Video-to-Video Editing.](https://alonzoleeeooo.github.io/StableV2V) | StableV2V is a novel video editing framework that maintains shape consistency across frames, even when user prompts require significant transformations. This method ensures smooth and precise modifications throughout the video, preserving structural integrity|
 |[.]() | |
 |[.]() | |
 |[.]() | |
