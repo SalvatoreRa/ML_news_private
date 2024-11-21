@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing AI Backgrounds, HD Video Calls, Noise Suppression and More for Messenger Calling.](https://about.fb.com/news/2024/11/introducing-ai-backgrounds-noise-suppression-and-more-messenger-calling/) |Meta has announced new updates for its Messenger app, including HD video calling, noise suppression, and AI-generated backgrounds. HD video calling will be enabled by default on Wi-Fi, but can also be activated using a cell data plan through call settings.  |
 |[A.I. Chatbots Defeated Doctors at Diagnosing Illness.](https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html?unlocked_article_code=1.a04.Pypn.jAqrCrVkp6Z3&smid=url-share) |A small study found ChatGPT outdid human physicians when assessing medical case histories, even when those doctors were using a chatbot. |
 |[AlphaQubit tackles one of quantum computing’s biggest challenges.](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/) |Deepmind and Google Quantum have trained a model that can identify errors in quantum computations and correct them as needed. |
-|[.]() | |
+|[Superhuman vision lets robots see through walls, smoke with new LiDAR-like eyes.](https://interestingengineering.com/innovation/superhuman-vision-lets-robots-see-through-walls-smoke) | PanoRadar, developed by researchers at the University of Pennsylvania, is an AI-driven system that transforms radio waves into 3D views, offering robots LiDAR-like vision at a reduced cost. By leveraging AI to process radio wave reflections, it overcomes challenges faced by traditional sensors in conditions like smoke, fog, and glass. The team plans to integrate PanoRadar with existing sensing technologies to enhance multi-modal perception in robotics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -165,7 +165,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can Google Scholar survive the AI revolution?](https://www.nature.com/articles/d41586-024-03746-y) |The largest scholarly search engine is celebrating its 20th birthday, but AI-driven competitors offer advantages. |
 |[Computational technologies of the Human Cell Atlas.](https://www.nature.com/articles/d41586-024-03762-y) |As the international effort reaches a ‘critical mass’ of achievements, Nature highlights seven tools that are poised to enable the next set of discoveries. |
 |[Can a fluffy robot really replace a cat or dog? My weird, emotional week with an AI pet.](https://www.theguardian.com/technology/2024/nov/20/fluffy-robot-weird-emotional-week-ai-pet-moflin) |Casio says Moflin can develop its own personality and build a rapport with its owner – and it doesn’t need food, exercise or a litter tray. But is it essentially comforting or alienating? |
-|[.]() | |
+|[The Evolution of the Creator.](https://www.digitalnative.tech/p/the-evolution-of-the-creator) |Generative AI is transforming the creator economy by reducing production barriers, allowing creators to produce high-quality content effortlessly. Innovations like digital clones are reshaping content distribution and engagement, unlocking new monetization opportunities by scaling interactions and fan transactions. With AI revolutionizing creation, distribution, and monetization, the creator economy is poised to give rise to a new generation of major tech companies. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
