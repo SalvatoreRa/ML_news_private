@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia earnings: AI chip leader shows no signs of stopping mammoth growth.](https://www.theguardian.com/technology/2024/nov/20/nvidia-earnings-ai-chipmaker) |World’s most valuable company delights investors as it reports $35bn of revenue in quarterly results |
 |[DeepSeek r1 reasoning model.](https://threadreaderapp.com/thread/1859200141355536422.html) | DeepSeek has replicated o1 with its r1 Deep Think model, a highly powerful system that the company plans to make fully open-source. The model was trained using reinforcement learning with reasoning traces.|
 |[Introducing AI Backgrounds, HD Video Calls, Noise Suppression and More for Messenger Calling.](https://about.fb.com/news/2024/11/introducing-ai-backgrounds-noise-suppression-and-more-messenger-calling/) |Meta has announced new updates for its Messenger app, including HD video calling, noise suppression, and AI-generated backgrounds. HD video calling will be enabled by default on Wi-Fi, but can also be activated using a cell data plan through call settings.  |
-|[.]() | |
+|[A.I. Chatbots Defeated Doctors at Diagnosing Illness.](https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html?unlocked_article_code=1.a04.Pypn.jAqrCrVkp6Z3&smid=url-share) |A small study found ChatGPT outdid human physicians when assessing medical case histories, even when those doctors were using a chatbot. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
