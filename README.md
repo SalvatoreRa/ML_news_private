@@ -97,6 +97,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A.I. Chatbots Defeated Doctors at Diagnosing Illness.](https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html?unlocked_article_code=1.a04.Pypn.jAqrCrVkp6Z3&smid=url-share) |A small study found ChatGPT outdid human physicians when assessing medical case histories, even when those doctors were using a chatbot. |
 |[AlphaQubit tackles one of quantum computing’s biggest challenges.](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/) |Deepmind and Google Quantum have trained a model that can identify errors in quantum computations and correct them as needed. |
 |[Superhuman vision lets robots see through walls, smoke with new LiDAR-like eyes.](https://interestingengineering.com/innovation/superhuman-vision-lets-robots-see-through-walls-smoke) | PanoRadar, developed by researchers at the University of Pennsylvania, is an AI-driven system that transforms radio waves into 3D views, offering robots LiDAR-like vision at a reduced cost. By leveraging AI to process radio wave reflections, it overcomes challenges faced by traditional sensors in conditions like smoke, fog, and glass. The team plans to integrate PanoRadar with existing sensing technologies to enhance multi-modal perception in robotics.|
+|[Google DeepMind has a new way to look inside an AI's “mind”.](https://www.technologyreview.com/2024/11/14/1106871/google-deepmind-has-a-new-way-to-look-inside-an-ais-mind/) |DeepMind has introduced Gemma Scope, a tool designed to enhance the understanding of AI models' internal mechanisms and decision-making processes. By employing sparse autoencoders, Gemma Scope dissects and analyzes data layers, aiding in the identification of biases or errors, such as incorrect numerical interpretations. This advancement in model transparency aims to improve AI control and alignment, thereby reducing deployment risks. |
+|[AI model identifies overlooked brain tumors in just 10 seconds.](https://newatlas.com/brain/fastglioma-ai-identifies-brain-tumors/) | FastGlioma is an AI model that rapidly detects residual brain tumor tissues during surgery with high accuracy.|
+|[It's Surprisingly Easy to Jailbreak LLM-Driven Robots.](https://spectrum.ieee.org/jailbreak-llm) | Researchers induced bots to ignore their safeguards without exception|
+|[Nvidia to fuel humanoid robots with ‘Jetson Thor’.](https://iottechnews.com/news/nvidia-fuel-humanoid-robots-jetson-thor/) |Nvidia plans to launch its “Jetson Thor” computing platform in the first half of 2025, providing the processing power needed to bring sophisticated humanoid robots to life. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,6 +108,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Resources
 |Link|description|
