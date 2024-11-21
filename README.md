@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek r1 reasoning model.](https://threadreaderapp.com/thread/1859200141355536422.html) | DeepSeek has replicated o1 with its r1 Deep Think model, a highly powerful system that the company plans to make fully open-source. The model was trained using reinforcement learning with reasoning traces.|
 |[Introducing AI Backgrounds, HD Video Calls, Noise Suppression and More for Messenger Calling.](https://about.fb.com/news/2024/11/introducing-ai-backgrounds-noise-suppression-and-more-messenger-calling/) |Meta has announced new updates for its Messenger app, including HD video calling, noise suppression, and AI-generated backgrounds. HD video calling will be enabled by default on Wi-Fi, but can also be activated using a cell data plan through call settings.  |
 |[A.I. Chatbots Defeated Doctors at Diagnosing Illness.](https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html?unlocked_article_code=1.a04.Pypn.jAqrCrVkp6Z3&smid=url-share) |A small study found ChatGPT outdid human physicians when assessing medical case histories, even when those doctors were using a chatbot. |
-|[.]() | |
+|[AlphaQubit tackles one of quantum computing’s biggest challenges.](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/) |Deepmind and Google Quantum have trained a model that can identify errors in quantum computations and correct them as needed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,9 +128,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Evaluating-Constitutions.](https://github.com/saskia-rr/Evaluating-Constitutions) | Code to assist in evaluating constitutions based on human feedback.|
 |[StableV2V: Stablizing Shape Consistency in Video-to-Video Editing.](https://alonzoleeeooo.github.io/StableV2V) | StableV2V is a novel video editing framework that maintains shape consistency across frames, even when user prompts require significant transformations. This method ensures smooth and precise modifications throughout the video, preserving structural integrity|
 |[CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset.](https://github.com/meize0729/ccexpert) |CCExpert is an AI model developed to describe changes in images using natural language. It can identify what has changed, where the change occurred, and how it happened. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[SAM Decoding: Speculative Decoding via Suffix Automaton.](https://arxiv.org/abs/2411.10666v1) | SAM-Decoding offers a faster method for text generation in LLMs by utilizing a suffix automaton to create drafts efficiently and accurately.|
+|[That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design.](https://arxiv.org/abs/2411.10053) |DeepMind has issued a robust defense of its AlphaChip project, which has faced criticism from some academic circles despite widespread industry adoption. In a recent paper titled "That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design," DeepMind addresses these critiques, emphasizing AlphaChip's significant contributions to chip design. The paper highlights AlphaChip's role in creating superhuman chip layouts for Google's Tensor Processing Units (TPUs) and its influence on hardware used globally. |
+|[PoM: Efficient Image and Video Generation with the Polynomial Mixer.](https://arxiv.org/abs/2411.12663v1) |Polynomial Mixer offers a faster and more memory-efficient alternative to Multi-Head Attention (MHA) in diffusion models used for image and video generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
