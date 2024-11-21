@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT can now read some of your Mac’s desktop apps.](https://techcrunch.com/2024/11/14/chatgpt-can-now-read-some-of-your-macs-desktop-apps/) |On Thursday, the startup announced the ChatGPT desktop app for macOS can now read code in a handful of developer-focused coding apps, such as VS Code, Xcode, TextEdit, Terminal, and iTerm2. |
 |[Google must sell Chrome to end search monopoly, justice department argues in court filing.](https://www.theguardian.com/technology/2024/nov/21/google-sell-chrome-us-court-filing-demand-competition-laws) |Justice department urges court to force Google to share data with rivals as part of wide-ranging changes to end online giant’s monopoly on web searching |
 |[Nvidia earnings: AI chip leader shows no signs of stopping mammoth growth.](https://www.theguardian.com/technology/2024/nov/20/nvidia-earnings-ai-chipmaker) |World’s most valuable company delights investors as it reports $35bn of revenue in quarterly results |
-|[.]() | |
-|[.]() | |
+|[DeepSeek r1 reasoning model.](https://threadreaderapp.com/thread/1859200141355536422.html) | DeepSeek has replicated o1 with its r1 Deep Think model, a highly powerful system that the company plans to make fully open-source. The model was trained using reinforcement learning with reasoning traces.|
+|[Introducing AI Backgrounds, HD Video Calls, Noise Suppression and More for Messenger Calling.](https://about.fb.com/news/2024/11/introducing-ai-backgrounds-noise-suppression-and-more-messenger-calling/) |Meta has announced new updates for its Messenger app, including HD video calling, noise suppression, and AI-generated backgrounds. HD video calling will be enabled by default on Wi-Fi, but can also be activated using a cell data plan through call settings.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
