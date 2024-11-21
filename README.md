@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why are we using LLMs as calculators?](https://vickiboykis.com/2024/11/09/why-are-we-using-llms-as-calculators/) |Researchers are experimenting with LLMs' ability to solve math problems to assess their reasoning capabilities. |
 |[GPTs Are Maxed Out.](https://www.thealgorithmicbridge.com/p/gpts-are-maxed-out) | OpenAI's next-generation model, internally called Orion, is said to fall short of expectations set by Sam Altman, hinting at a possible limit to the scalability of AI model improvements.|
 |[Can Google Scholar survive the AI revolution?](https://www.nature.com/articles/d41586-024-03746-y) |The largest scholarly search engine is celebrating its 20th birthday, but AI-driven competitors offer advantages. |
-|[.]() | |
+|[Computational technologies of the Human Cell Atlas.](https://www.nature.com/articles/d41586-024-03762-y) |As the international effort reaches a ‘critical mass’ of achievements, Nature highlights seven tools that are poised to enable the next set of discoveries. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
