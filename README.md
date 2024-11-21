@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering.](https://arxiv.org/abs/2411.11504) |The Generative World Explorer (Genex) is a system capable of simulating exploration in 3D spaces through generation and leveraging those simulations to enhance planning. It employs an ST-VAE and a diffusion pass for its imagination process, leading to better planning outcomes. |
 |[OneNet: A Channel-Wise 1D Convolutional U-Net.](https://arxiv.org/abs/2411.09838v1) |OneNet is a 1D convolutional encoder optimized for efficient image segmentation, making it well-suited for edge devices. |
 |[AI’s math problem: FrontierMath benchmark shows how far technology still has to go.](https://venturebeat.com/ai/ais-math-problem-frontiermath-benchmark-shows-how-far-technology-still-has-to-go/) |Artificial intelligence systems may be good at generating text, recognizing images, and even solving basic math problems—but when it comes to advanced mathematical reasoning, they are hitting a wall. A groundbreaking new benchmark, FrontierMath, is exposing just how far today’s AI is from mastering the complexities of higher mathematics. |
-|[.]() | |
+|[Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus.](https://arxiv.org/abs/2411.12498v1) |Researchers have proposed Additional Logic Training to enhance reasoning in LLMs, focusing on teaching them to manage complex deductions involving varied rules and distractions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,6 +131,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SAM Decoding: Speculative Decoding via Suffix Automaton.](https://arxiv.org/abs/2411.10666v1) | SAM-Decoding offers a faster method for text generation in LLMs by utilizing a suffix automaton to create drafts efficiently and accurately.|
 |[That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design.](https://arxiv.org/abs/2411.10053) |DeepMind has issued a robust defense of its AlphaChip project, which has faced criticism from some academic circles despite widespread industry adoption. In a recent paper titled "That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design," DeepMind addresses these critiques, emphasizing AlphaChip's significant contributions to chip design. The paper highlights AlphaChip's role in creating superhuman chip layouts for Google's Tensor Processing Units (TPUs) and its influence on hardware used globally. |
 |[PoM: Efficient Image and Video Generation with the Polynomial Mixer.](https://arxiv.org/abs/2411.12663v1) |Polynomial Mixer offers a faster and more memory-efficient alternative to Multi-Head Attention (MHA) in diffusion models used for image and video generation. |
+|[Cross-View Geo-Localization.](https://github.com/gaoshuang98/cvcities) | Researchers have created a framework to address the challenges of cross-view geo-localization, including variations in viewpoints and large-scale global contexts.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
