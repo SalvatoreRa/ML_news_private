@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepL launches DeepL Voice, real-time, text-based translations from voices and videos.](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/) | DeepL has made a name for itself with online text translation it claims is more nuanced and precise than services from the likes of Google — a pitch that has catapulted the German startup to a valuation of $2 billion and more than 100,000 paying customers. Users will now be able to use DeepL Voice to listen to someone speaking in one language and automatically translate it to another, in real time.|
 |[Google releases standalone Gemini app for iPhone.](https://www.macworld.com/article/2521235/google-releases-standalone-gemini-app-for-iphone.html) | You've always been able to access this in the Google app, but now there's another way.|
 |[ChatGPT can now read some of your Mac’s desktop apps.](https://techcrunch.com/2024/11/14/chatgpt-can-now-read-some-of-your-macs-desktop-apps/) |On Thursday, the startup announced the ChatGPT desktop app for macOS can now read code in a handful of developer-focused coding apps, such as VS Code, Xcode, TextEdit, Terminal, and iTerm2. |
-|[.]() | |
-|[.]() | |
+|[Google must sell Chrome to end search monopoly, justice department argues in court filing.](https://www.theguardian.com/technology/2024/nov/21/google-sell-chrome-us-court-filing-demand-competition-laws) |Justice department urges court to force Google to share data with rivals as part of wide-ranging changes to end online giant’s monopoly on web searching |
+|[Nvidia earnings: AI chip leader shows no signs of stopping mammoth growth.](https://www.theguardian.com/technology/2024/nov/20/nvidia-earnings-ai-chipmaker) |World’s most valuable company delights investors as it reports $35bn of revenue in quarterly results |
 |[.]() | |
 |[.]() | |
 |[.]() | |
