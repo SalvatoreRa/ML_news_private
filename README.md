@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPTs Are Maxed Out.](https://www.thealgorithmicbridge.com/p/gpts-are-maxed-out) | OpenAI's next-generation model, internally called Orion, is said to fall short of expectations set by Sam Altman, hinting at a possible limit to the scalability of AI model improvements.|
 |[Can Google Scholar survive the AI revolution?](https://www.nature.com/articles/d41586-024-03746-y) |The largest scholarly search engine is celebrating its 20th birthday, but AI-driven competitors offer advantages. |
 |[Computational technologies of the Human Cell Atlas.](https://www.nature.com/articles/d41586-024-03762-y) |As the international effort reaches a ‘critical mass’ of achievements, Nature highlights seven tools that are poised to enable the next set of discoveries. |
-|[.]() | |
+|[Can a fluffy robot really replace a cat or dog? My weird, emotional week with an AI pet.](https://www.theguardian.com/technology/2024/nov/20/fluffy-robot-weird-emotional-week-ai-pet-moflin) |Casio says Moflin can develop its own personality and build a rapport with its owner – and it doesn’t need food, exercise or a litter tray. But is it essentially comforting or alienating? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
