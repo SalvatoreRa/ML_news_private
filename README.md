@@ -173,7 +173,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Computational technologies of the Human Cell Atlas.](https://www.nature.com/articles/d41586-024-03762-y) |As the international effort reaches a ‘critical mass’ of achievements, Nature highlights seven tools that are poised to enable the next set of discoveries. |
 |[Can a fluffy robot really replace a cat or dog? My weird, emotional week with an AI pet.](https://www.theguardian.com/technology/2024/nov/20/fluffy-robot-weird-emotional-week-ai-pet-moflin) |Casio says Moflin can develop its own personality and build a rapport with its owner – and it doesn’t need food, exercise or a litter tray. But is it essentially comforting or alienating? |
 |[The Evolution of the Creator.](https://www.digitalnative.tech/p/the-evolution-of-the-creator) |Generative AI is transforming the creator economy by reducing production barriers, allowing creators to produce high-quality content effortlessly. Innovations like digital clones are reshaping content distribution and engagement, unlocking new monetization opportunities by scaling interactions and fan transactions. With AI revolutionizing creation, distribution, and monetization, the creator economy is poised to give rise to a new generation of major tech companies. |
-|[.]() | |
+|[‘A place of joy’: why scientists are joining the rush to Bluesky.](https://www.nature.com/articles/d41586-024-03784-6) | Researchers say the social-media platform — an alternative to X — offers more control over the content they see and the people they engage with.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
