@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design.](https://arxiv.org/abs/2411.10053) |DeepMind has issued a robust defense of its AlphaChip project, which has faced criticism from some academic circles despite widespread industry adoption. In a recent paper titled "That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design," DeepMind addresses these critiques, emphasizing AlphaChip's significant contributions to chip design. The paper highlights AlphaChip's role in creating superhuman chip layouts for Google's Tensor Processing Units (TPUs) and its influence on hardware used globally. |
 |[PoM: Efficient Image and Video Generation with the Polynomial Mixer.](https://arxiv.org/abs/2411.12663v1) |Polynomial Mixer offers a faster and more memory-efficient alternative to Multi-Head Attention (MHA) in diffusion models used for image and video generation. |
 |[Cross-View Geo-Localization.](https://github.com/gaoshuang98/cvcities) | Researchers have created a framework to address the challenges of cross-view geo-localization, including variations in viewpoints and large-scale global contexts.|
-|[.]() | |
+|[A statistical approach to model evaluations.](https://www.anthropic.com/research/statistical-approach-to-model-evals) | When two models are evaluated on a benchmark, declaring one as superior to the other often lacks strong confidence. This research from Anthropic introduces robust statistical methods to reliably determine when one model genuinely outperforms the other.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -181,7 +181,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can a fluffy robot really replace a cat or dog? My weird, emotional week with an AI pet.](https://www.theguardian.com/technology/2024/nov/20/fluffy-robot-weird-emotional-week-ai-pet-moflin) |Casio says Moflin can develop its own personality and build a rapport with its owner – and it doesn’t need food, exercise or a litter tray. But is it essentially comforting or alienating? |
 |[The Evolution of the Creator.](https://www.digitalnative.tech/p/the-evolution-of-the-creator) |Generative AI is transforming the creator economy by reducing production barriers, allowing creators to produce high-quality content effortlessly. Innovations like digital clones are reshaping content distribution and engagement, unlocking new monetization opportunities by scaling interactions and fan transactions. With AI revolutionizing creation, distribution, and monetization, the creator economy is poised to give rise to a new generation of major tech companies. |
 |[‘A place of joy’: why scientists are joining the rush to Bluesky.](https://www.nature.com/articles/d41586-024-03784-6) | Researchers say the social-media platform — an alternative to X — offers more control over the content they see and the people they engage with.|
-|[.]() | |
+|[Tülu 3: The next era in open post-training.](https://www.interconnects.ai/p/tulu-3) |An open-source, cutting-edge post-training framework offering open data, training code, model weights, and scientific insights. It may be the most comprehensive resource for understanding modern post-training techniques for large language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
