@@ -57,9 +57,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OneNet: A Channel-Wise 1D Convolutional U-Net.](https://arxiv.org/abs/2411.09838v1) |OneNet is a 1D convolutional encoder optimized for efficient image segmentation, making it well-suited for edge devices. |
 |[AI’s math problem: FrontierMath benchmark shows how far technology still has to go.](https://venturebeat.com/ai/ais-math-problem-frontiermath-benchmark-shows-how-far-technology-still-has-to-go/) |Artificial intelligence systems may be good at generating text, recognizing images, and even solving basic math problems—but when it comes to advanced mathematical reasoning, they are hitting a wall. A groundbreaking new benchmark, FrontierMath, is exposing just how far today’s AI is from mastering the complexities of higher mathematics. |
 |[Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus.](https://arxiv.org/abs/2411.12498v1) |Researchers have proposed Additional Logic Training to enhance reasoning in LLMs, focusing on teaching them to manage complex deductions involving varied rules and distractions. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Solving Cold Starts in Adaptive Testing.](https://arxiv.org/abs/2411.12182v1) | The "cold start" issue in adaptive testing arises when initial questions fail to align with examinees' abilities. Researchers have addressed this with the Diffusion Cognitive States Transfer Framework (DCSR), which employs diffusion models to utilize prior learning data across different domains.|
+|[samurai.](https://github.com/yangchris11/samurai) | Tracking a consistent object over an extended period is a challenging task. This work enhances SAM 2 by integrating motion-aware memory banks, ensuring consistency over time and through occlusions. It stands out as one of the most effective visual tracking systems developed so far.|
+|[Compress and Reconstruct Images.](https://github.com/guaishou74851/pcnet) |PCNet is a new compact network for image-compressed sensing. It reduces sampling costs while delivering high-quality reconstructions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
