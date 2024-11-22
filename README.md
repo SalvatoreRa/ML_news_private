@@ -102,6 +102,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[It's Surprisingly Easy to Jailbreak LLM-Driven Robots.](https://spectrum.ieee.org/jailbreak-llm) | Researchers induced bots to ignore their safeguards without exception|
 |[Nvidia to fuel humanoid robots with ‘Jetson Thor’.](https://iottechnews.com/news/nvidia-fuel-humanoid-robots-jetson-thor/) |Nvidia plans to launch its “Jetson Thor” computing platform in the first half of 2025, providing the processing power needed to bring sophisticated humanoid robots to life. |
 |[Introducing FLUX.1 Tools.](https://blackforestlabs.ai/flux-1-tools/) |FLUX.1 Tools is a collection of models designed to enhance control and steerability in the FLUX.1 text-to-image model. It includes utilities and model checkpoints that enable features like inpainting, outpainting, and certain controlnets. These tools are ideal for users looking to expand their creative capabilities using one of the leading models available. |
+|[Elon Musk Asked People to Upload Their Health Data. X Users Obliged.](https://www.nytimes.com/2024/11/18/well/x-grok-health-privacy.html?unlocked_article_code=1.a04.k65h.c7aN7-TAu-PB&smid=url-share) |Users are uploading medical images to X's AI chatbot Grok for diagnostic purposes, a practice endorsed by Elon Musk despite concerns about accuracy and privacy. Unlike regulated medical platforms, Grok lacks HIPAA compliance, raising ethical questions about data security. While AI shows promise in healthcare, experts warn of risks related to inaccurate diagnoses and privacy violations. |
+|[ElevenLabs now offers ability to build conversational AI agents.](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) | ElevenLabs, a startup that provides AI voice cloning and a text-to-speech API, launched the ability to build conversational AI bots on Monday.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
