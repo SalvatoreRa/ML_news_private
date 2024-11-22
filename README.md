@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Solving Cold Starts in Adaptive Testing.](https://arxiv.org/abs/2411.12182v1) | The "cold start" issue in adaptive testing arises when initial questions fail to align with examinees' abilities. Researchers have addressed this with the Diffusion Cognitive States Transfer Framework (DCSR), which employs diffusion models to utilize prior learning data across different domains.|
 |[samurai.](https://github.com/yangchris11/samurai) | Tracking a consistent object over an extended period is a challenging task. This work enhances SAM 2 by integrating motion-aware memory banks, ensuring consistency over time and through occlusions. It stands out as one of the most effective visual tracking systems developed so far.|
 |[Compress and Reconstruct Images.](https://github.com/guaishou74851/pcnet) |PCNet is a new compact network for image-compressed sensing. It reduces sampling costs while delivering high-quality reconstructions. |
-|[.]() | |
+|[LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression.](https://arxiv.org/abs/2411.13033v1) |Large multi-modal models can generate captions and compress images simultaneously within a single system |
 |[.]() | |
 |[.]() | |
 |[.]() | |
