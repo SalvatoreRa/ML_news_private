@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI model identifies overlooked brain tumors in just 10 seconds.](https://newatlas.com/brain/fastglioma-ai-identifies-brain-tumors/) | FastGlioma is an AI model that rapidly detects residual brain tumor tissues during surgery with high accuracy.|
 |[It's Surprisingly Easy to Jailbreak LLM-Driven Robots.](https://spectrum.ieee.org/jailbreak-llm) | Researchers induced bots to ignore their safeguards without exception|
 |[Nvidia to fuel humanoid robots with ‘Jetson Thor’.](https://iottechnews.com/news/nvidia-fuel-humanoid-robots-jetson-thor/) |Nvidia plans to launch its “Jetson Thor” computing platform in the first half of 2025, providing the processing power needed to bring sophisticated humanoid robots to life. |
-|[.]() | |
+|[Introducing FLUX.1 Tools.](https://blackforestlabs.ai/flux-1-tools/) |FLUX.1 Tools is a collection of models designed to enhance control and steerability in the FLUX.1 text-to-image model. It includes utilities and model checkpoints that enable features like inpainting, outpainting, and certain controlnets. These tools are ideal for users looking to expand their creative capabilities using one of the leading models available. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
