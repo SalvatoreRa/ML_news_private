@@ -183,7 +183,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘A place of joy’: why scientists are joining the rush to Bluesky.](https://www.nature.com/articles/d41586-024-03784-6) | Researchers say the social-media platform — an alternative to X — offers more control over the content they see and the people they engage with.|
 |[Tülu 3: The next era in open post-training.](https://www.interconnects.ai/p/tulu-3) |An open-source, cutting-edge post-training framework offering open data, training code, model weights, and scientific insights. It may be the most comprehensive resource for understanding modern post-training techniques for large language models. |
 |[We can all be AI engineers – and we can do it with open source models.](https://blog.helix.ml/p/we-can-all-be-ai-engineers) |The barriers to AI engineering are quickly lowering as improved tools and standardized workflows streamline complex processes. Creating AI applications now involves applying basic engineering skills to utilize models, prompts, integrations, testing, and deployment. Open-source models ensure data privacy, while existing DevOps tools support the development and management of AI applications. |
-|[.]() | |
+|[‘An AI Fukushima is inevitable’: scientists discuss technology’s immense potential and dangers.](https://www.theguardian.com/science/2024/nov/22/an-ai-fukushima-is-inevitable-scientists-discuss-technologys-immense-potential-and-dangers) |Experts are optimistic about energy and drug production breakthroughs but also fear its potential misuse |
 |[.]() | |
 |[.]() | |
 |[.]() | |
