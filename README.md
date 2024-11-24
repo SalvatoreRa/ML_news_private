@@ -61,11 +61,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[samurai.](https://github.com/yangchris11/samurai) | Tracking a consistent object over an extended period is a challenging task. This work enhances SAM 2 by integrating motion-aware memory banks, ensuring consistency over time and through occlusions. It stands out as one of the most effective visual tracking systems developed so far.|
 |[Compress and Reconstruct Images.](https://github.com/guaishou74851/pcnet) |PCNet is a new compact network for image-compressed sensing. It reduces sampling costs while delivering high-quality reconstructions. |
 |[LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression.](https://arxiv.org/abs/2411.13033v1) |Large multi-modal models can generate captions and compress images simultaneously within a single system |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -106,18 +101,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ElevenLabs now offers ability to build conversational AI agents.](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/) | ElevenLabs, a startup that provides AI voice cloning and a text-to-speech API, launched the ability to build conversational AI bots on Monday.|
 |[New OpenAI emails reveal a long history of mistrust.](https://www.transformernews.ai/p/openai-emails-altman-trust) | Greg Brockman and Ilya Sutskever had questions about Sam Altman's intentions as early as 2017|
 |[Musk’s amended lawsuit against OpenAI names Microsoft as defendant.](https://techcrunch.com/2024/11/14/musks-amended-lawsuit-against-openai-names-microsoft-as-defendant/) |Elon Musk’s lawsuit against OpenAI accusing the company of abandoning its nonprofit mission was withdrawn in July, only to be revived in August. Now, in an amended complaint, the suit names new defendants, including Microsoft, LinkedIn co-founder Reid Hoffman, and former OpenAI board member and Microsoft VP Dee Templeton. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-
 
 ## Resources
 |Link|description|
@@ -149,19 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A statistical approach to model evaluations.](https://www.anthropic.com/research/statistical-approach-to-model-evals) | When two models are evaluated on a benchmark, declaring one as superior to the other often lacks strong confidence. This research from Anthropic introduces robust statistical methods to reliably determine when one model genuinely outperforms the other.|
 |[Software is a team sport.](https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/) | GitHub Copilot, utilized by over 2.8 million developers, enhances the development experience with AI-powered features such as code completion, debugging, and secure code reviews. Developers can select AI models from providers like OpenAI and Google within Visual Studio Code. Integration with Azure and tools like GitHub Actions streamlines cloud deployments and continuous integration/continuous deployment (CI/CD) processes. |
 |[Prompt Injecting Your Way To Shell: OpenAI's Containerized ChatGPT Environment.](https://0din.ai/blog/prompt-injecting-your-way-to-shell-openai-s-containerized-chatgpt-environment) |This article examines the interactive features of OpenAI's Debian-based sandbox environment for ChatGPT, revealing surprising details about its structure. Users can run Python scripts, manage files, and possibly expose core instructions through prompt engineering. These capabilities have sparked debates around transparency and privacy. While designed as intentional features, OpenAI does not consider them security vulnerabilities unless they result in breaches of the sandbox environment. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -184,15 +155,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tülu 3: The next era in open post-training.](https://www.interconnects.ai/p/tulu-3) |An open-source, cutting-edge post-training framework offering open data, training code, model weights, and scientific insights. It may be the most comprehensive resource for understanding modern post-training techniques for large language models. |
 |[We can all be AI engineers – and we can do it with open source models.](https://blog.helix.ml/p/we-can-all-be-ai-engineers) |The barriers to AI engineering are quickly lowering as improved tools and standardized workflows streamline complex processes. Creating AI applications now involves applying basic engineering skills to utilize models, prompts, integrations, testing, and deployment. Open-source models ensure data privacy, while existing DevOps tools support the development and management of AI applications. |
 |[‘An AI Fukushima is inevitable’: scientists discuss technology’s immense potential and dangers.](https://www.theguardian.com/science/2024/nov/22/an-ai-fukushima-is-inevitable-scientists-discuss-technologys-immense-potential-and-dangers) |Experts are optimistic about energy and drug production breakthroughs but also fear its potential misuse |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 11 - 17 November
 
