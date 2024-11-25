@@ -73,7 +73,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Don’t know what to buy your loved ones for Christmas? Just ask ChatGPT.](https://www.theguardian.com/technology/2024/nov/24/dont-know-what-to-buy-your-loved-ones-for-christmas-just-ask-chatgpt) |Santa has a new little helper. But can an AI-powered shopping assistant really master the subtle art of gift giving? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Jeff Jarvis: ‘Elon Musk’s investment in Twitter seemed insane, but it gave him this power’.](https://www.theguardian.com/technology/2024/nov/23/jeff-jarvis-elon-musks-investment-in-twitter-seemed-insane-but-it-gave-him-this-power) | The US media pundit on the dangers of overregulation online, why he’s more frightened of the tech bros than AI itself, and how to reclaim the web by getting rid of the geeks|
 |[.]() | |
 |[.]() | |
 |[.]() | |
