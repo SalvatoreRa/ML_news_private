@@ -43,8 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Learning high-accuracy error decoding for quantum processors.](https://www.nature.com/articles/s41586-024-08148-8) | A new AI-driven decoder has established a state-of-the-art benchmark for detecting errors in quantum computers. Leveraging transformer architecture, AlphaQubit achieved a 6% reduction in errors compared to tensor network methods and a 30% reduction compared to correlated matching on the Sycamore data. It also demonstrated promising performance in simulations with larger systems of up to 241 qubits. While this marks substantial progress in quantum error correction, the system requires speed enhancements to enable real-time error correction for practical quantum computing applications.|
+|[The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use.](https://arxiv.org/abs/2411.10323) |This work examines Claude 3.5's computer use capabilities across various domains and software, offering a ready-to-use agent framework for deploying API-based GUI automation models. Claude 3.5 showcases an exceptional ability to perform end-to-end tasks, translating language inputs into desktop actions seamlessly. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
