@@ -113,9 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Detecting Human Artifacts from Text-to-Image Models.](https://arxiv.org/abs/2411.13842v1) | This study addresses the issue of distorted human figures in text-to-image models by presenting the Human Artifact Dataset (HAD), a comprehensive dataset containing more than 37,000 annotated images.|
 |[UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages.](https://arxiv.org/abs/2411.14343v1) | UnifiedCrawl is a method that efficiently gathers extensive text data for low-resource languages from the Common Crawl corpus, utilizing minimal computational resources. This approach filters and extracts relevant data, resulting in monolingual datasets significantly larger than previously available sources.|
 |[A New Image-to-Video Model.](https://arxiv.org/abs/2411.13975v1) |Researchers have created image-to-video diffusion models capable of generating realistic motion transformations from static images, overcoming the constraints of traditional approaches such as affine transformations. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AIMv2: New Vision Models.](https://github.com/apple/ml-aim) | The AIMv2 vision model family employs a multimodal autoregressive training approach, delivering remarkable performance across various tasks.|
+|[A New Attention Mechanism for Training LLMs.](https://github.com/haonan3/anchorcontext) |AnchorAttention: Improved attention for LLMs long-context training |
+|[Combining Convolutions and Self-Attentions for Efficient Vision Models.](https://github.com/rayleizhu/glmix) |GLMix is a novel approach that combines convolutions and multi-head self-attentions (MHSAs) at varying granularity levels for vision tasks. Convolutions capture fine-grained local details, while MHSAs focus on coarse-grained semantic slots to provide global context. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
