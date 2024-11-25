@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Combining Convolutions and Self-Attentions for Efficient Vision Models.](https://github.com/rayleizhu/glmix) |GLMix is a novel approach that combines convolutions and multi-head self-attentions (MHSAs) at varying granularity levels for vision tasks. Convolutions capture fine-grained local details, while MHSAs focus on coarse-grained semantic slots to provide global context. |
 |[Echo Mimic v2.](https://antgroup.github.io/ai/echomimic_v2) |Open weights system to animate partial human bodies with a reference image and audio input. It uses pose specific VAEs to combine the information from various channels and a reference image to animate.|
 |[LTX-Video.](https://github.com/Lightricks/LTX-Video) |LTX-Video is the first DiT-based video generation model that can generate high-quality videos in real-time. It can generate 24 FPS videos at 768x512 resolution, faster than it takes to watch them. The model is trained on a large-scale dataset of diverse videos and can generate high-resolution videos with realistic and diverse content. |
-|[.]() | |
+|[Documind.](https://github.com/DocumindHQ/documind) | Documind utilizes AI to extract structured data from PDFs by converting them into images and leveraging OpenAI's API.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Passwords are giving way to better security methods – until those are hacked too, that is.](https://www.theguardian.com/business/2024/nov/24/small-business-data-security-methods) | It’s a war that will never end. But for small-business owners, it’s all about managing risk while reaping rewards|
 |[Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory.](https://www.dwarkeshpatel.com/p/gwern-branwen) |In this post, Gwern Branwen, an early advocate of LLM scaling, explores AI advancements and their influence on the path to AGI. He highlights the significance of scaling and computational power over traditional algorithmic innovations. Branwen reflects on the interplay between human intelligence and AI, as well as the societal implications of upcoming technologies like weight-loss drugs on behavior. Additionally, he offers thoughts on his writing process and the transformative effects of AI on creative endeavors |
 |[The Bitter Religion: AI’s Holy War Over Scaling Laws.](https://www.generalist.com/briefing/the-bitter-religion) | The AI community is currently divided over the emphasis on scaling computation as the primary driver of AI performance, a concept often referred to as "The Bitter Lesson." Proponents, including leaders at OpenAI, believe that achieving artificial general intelligence (AGI) is possible in the near future through continued scaling of computational resources. However, others argue that alternative scientific advancements are necessary, as scaling laws may not be sustainable in the long term. This debate significantly influences investment and development strategies within AI and related fields. |
-|[.]() | |
+|[Why LLMs Within Software Development May Be a Dead End.](https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/) |LLMs in software development face challenges due to their lack of decomposability and explainability. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
