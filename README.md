@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[An Empirical Study on LLM-based Agents for Automated Bug Fixing.](https://arxiv.org/abs/2411.10213) |The study evaluates seven top LLM-based bug fixing systems on the SWE-bench Lite benchmark, identifying MarsCode Agent by ByteDance as the best performer with a 39.33% success rate. It highlights that line-level fault localization accuracy is more crucial than file-level accuracy for error localization, and bug reproduction capabilities play a significant role in fixing success. Notably, 24 out of 168 resolved issues required reproduction techniques, though these sometimes misled LLMs when issue descriptions were already clear. The study concludes that improving LLM reasoning abilities and refining agent workflows are essential for advancing automated bug fixing. |
-|[.]() | |
-|[.]() | |
+|[FinRobot: AI Agent for Equity Research and Valuation with Large Language Models.](https://arxiv.org/abs/2411.08804) |The framework introduces an AI agent system for equity research that utilizes multi-agent Chain-of-Thought (CoT) prompting to integrate data analysis with human-like reasoning, producing professional investment reports comparable to those from major brokerages. It employs three specialized agents: the Data-CoT Agent, which aggregates diverse data sources for comprehensive financial integration; the Concept-CoT Agent, which mimics an analyst's reasoning to derive actionable insights; and the Thesis-CoT Agent, which synthesizes these insights into a cohesive investment thesis and report. |
+|[Bi-Mamba: Towards Accurate 1-Bit State Space Models.](https://arxiv.org/abs/2411.11843) | The scalable 1-bit Mamba architecture is designed to optimize LLM efficiency across multiple model sizes (780M, 1.3B, and 2.7B). Bi-Mamba delivers performance comparable to full-precision formats like FP16 and BF16, while drastically reducing memory usage. It also achieves higher accuracy than post-training binarization Mamba baselines.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
