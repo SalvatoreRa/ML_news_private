@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AIMv2: New Vision Models.](https://github.com/apple/ml-aim) | The AIMv2 vision model family employs a multimodal autoregressive training approach, delivering remarkable performance across various tasks.|
 |[A New Attention Mechanism for Training LLMs.](https://github.com/haonan3/anchorcontext) |AnchorAttention: Improved attention for LLMs long-context training |
 |[Combining Convolutions and Self-Attentions for Efficient Vision Models.](https://github.com/rayleizhu/glmix) |GLMix is a novel approach that combines convolutions and multi-head self-attentions (MHSAs) at varying granularity levels for vision tasks. Convolutions capture fine-grained local details, while MHSAs focus on coarse-grained semantic slots to provide global context. |
-|[.]() | |
+|[Echo Mimic v2.](https://antgroup.github.io/ai/echomimic_v2) |Open weights system to animate partial human bodies with a reference image and audio input. It uses pose specific VAEs to combine the information from various channels and a reference image to animate.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Jeff Jarvis: ‘Elon Musk’s investment in Twitter seemed insane, but it gave him this power’.](https://www.theguardian.com/technology/2024/nov/23/jeff-jarvis-elon-musks-investment-in-twitter-seemed-insane-but-it-gave-him-this-power) | The US media pundit on the dangers of overregulation online, why he’s more frightened of the tech bros than AI itself, and how to reclaim the web by getting rid of the geeks|
 |[Passwords are giving way to better security methods – until those are hacked too, that is.](https://www.theguardian.com/business/2024/nov/24/small-business-data-security-methods) | It’s a war that will never end. But for small-business owners, it’s all about managing risk while reaping rewards|
-|[.]() | |
+|[Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory.](https://www.dwarkeshpatel.com/p/gwern-branwen) |In this post, Gwern Branwen, an early advocate of LLM scaling, explores AI advancements and their influence on the path to AGI. He highlights the significance of scaling and computational power over traditional algorithmic innovations. Branwen reflects on the interplay between human intelligence and AI, as well as the societal implications of upcoming technologies like weight-loss drugs on behavior. Additionally, he offers thoughts on his writing process and the transformative effects of AI on creative endeavors |
 |[.]() | |
 |[.]() | |
 |[.]() | |
