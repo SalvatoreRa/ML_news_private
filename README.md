@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Jeff Jarvis: ‘Elon Musk’s investment in Twitter seemed insane, but it gave him this power’.](https://www.theguardian.com/technology/2024/nov/23/jeff-jarvis-elon-musks-investment-in-twitter-seemed-insane-but-it-gave-him-this-power) | The US media pundit on the dangers of overregulation online, why he’s more frightened of the tech bros than AI itself, and how to reclaim the web by getting rid of the geeks|
-|[.]() | |
+|[Passwords are giving way to better security methods – until those are hacked too, that is.](https://www.theguardian.com/business/2024/nov/24/small-business-data-security-methods) | It’s a war that will never end. But for small-business owners, it’s all about managing risk while reaping rewards|
 |[.]() | |
 |[.]() | |
 |[.]() | |
