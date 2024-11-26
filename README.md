@@ -76,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Don’t know what to buy your loved ones for Christmas? Just ask ChatGPT.](https://www.theguardian.com/technology/2024/nov/24/dont-know-what-to-buy-your-loved-ones-for-christmas-just-ask-chatgpt) |Santa has a new little helper. But can an AI-powered shopping assistant really master the subtle art of gift giving? |
 |[Anthropic x AWS trainium collaboration.](https://www.anthropic.com/news/anthropic-amazon-trainium) |Anthropic is collaborating with AWS to enhance trainium inference and tooling capabilities as part of a recent investment initiative.|
 |[Will Sam Altman always win the OpenAI board fight in an AI agent simulation?](https://venturebeat.com/games/can-sam-altman-win-the-openai-board-fight-in-an-ai-agent-simulation/) | Fable, a company specializing in games and AI simulations, used its AI decision-making framework SIM-1 to simulate the OpenAI board dispute involving Sam Altman. The simulation, which incorporated multi-agent competition and GPT-4o, suggested Altman’s return as CEO in only 4 out of 20 scenarios. This research highlights AI's ability to model complex decision-making scenarios.|
-|[.]() | |
-|[.]() | |
+|[Anthropic Announces Model Context Protocol.](https://www.anthropic.com/news/model-context-protocol) |The Model Context Protocol (MCP) is an open standard that enables AI systems to connect directly to data sources, such as business tools and content repositories. It streamlines data access by replacing fragmented, custom integrations with a universal protocol, enhancing scalability and efficiency. |
+|[OpenAI Shares Insights on Red Teaming for Safer AI.](https://openai.com/index/advancing-red-teaming-with-people-and-ai/) | OpenAI has enhanced its red teaming initiatives by publishing two papers: one outlining the involvement of external experts in red teaming, and another presenting a novel approach to automated testing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
