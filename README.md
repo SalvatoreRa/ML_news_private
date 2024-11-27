@@ -83,8 +83,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s Sora video generator appears to have leaked.](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/) |A group leaked access to OpenAI's unreleased video generator, Sora, in protest against perceived unfair practices and "art washing." They launched a frontend on Hugging Face that enabled users to generate videos, but OpenAI reportedly took it down within hours. OpenAI states that Sora remains in a research preview phase. |
 |[Now Hear This: World’s Most Flexible Sound Machine Debuts.](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/) |A team of generative AI researchers created a Swiss Army knife for sound, one that allows users to control the audio output simply using text. While some AI models can compose a song or modify a voice, none have the dexterity of the new offering. |
 |[OLMo 2: The best fully open language model to date.](https://allenai.org/blog/olmo2) | Building on its commitment to fully open-source training, Allen AI has introduced a new generation of language models that are entirely transparent and rival or exceed the performance of the best open-weight models available.|
-|[.]() | |
-|[.]() | |
+|[Amazon to invest another $4 billion in Anthropic, OpenAI’s biggest rival.](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) |Amazon revealed a $4 billion investment in Anthropic, raising its total commitment to $8 billion and solidifying AWS as Anthropic's main cloud and training partner. |
+|[OpenAI is funding research into ‘AI morality’.](https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/) | OpenAI is funding academic research into algorithms that can predict humans’ moral judgements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Novel View Synthesis.](https://ewrfcas.github.io/MVGenMaster/) |MVGenMaster is a multi-view diffusion model that enhances Novel View Synthesis tasks by incorporating 3D priors. |
 |[FlowMol: Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation.](https://github.com/dunni3/flowmol) |This work benchmarks discrete flow matching methods for generating novel 3D molecular structures, critical for chemical discovery. |
 |[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge.](https://llm-as-a-judge.github.io/) | This project investigates the growing "LLM-as-a-judge" approach, where large language models are utilized for scoring, ranking, and selection tasks in diverse AI and NLP applications.|
-|[.]() | |
+|[aisuite.](https://github.com/andrewyng/aisuite) |An easy way to work with a variety of API based models in a single packaged environment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
