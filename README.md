@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic Introduces Custom Styles for Personalized Responses.](https://www.anthropic.com/news/styles) |Anthropic now offers custom styles, enabling users to adapt the AI's responses to suit their communication preferences and workflows. |
 |[OpenAI’s Sora video generator appears to have leaked.](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/) |A group leaked access to OpenAI's unreleased video generator, Sora, in protest against perceived unfair practices and "art washing." They launched a frontend on Hugging Face that enabled users to generate videos, but OpenAI reportedly took it down within hours. OpenAI states that Sora remains in a research preview phase. |
 |[Now Hear This: World’s Most Flexible Sound Machine Debuts.](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/) |A team of generative AI researchers created a Swiss Army knife for sound, one that allows users to control the audio output simply using text. While some AI models can compose a song or modify a voice, none have the dexterity of the new offering. |
-|[.]() | |
+|[OLMo 2: The best fully open language model to date.](https://allenai.org/blog/olmo2) | Building on its commitment to fully open-source training, Allen AI has introduced a new generation of language models that are entirely transparent and rival or exceed the performance of the best open-weight models available.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,8 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building an AI-Powered Game.](https://www.deeplearning.ai/short-courses/building-an-ai-powered-game/) | This is a course by Andrew Ng, Latitude, and Together AI on how to make an AI powered game.|
 |[Sharper Infrared Images.](https://github.com/hey-it-s-me/corple) | This project improves image super-resolution for infrared images, addressing issues where traditional methods distort spectral fidelity.|
 |[Mochi 1 LoRA Fine-tuner.](https://github.com/genmoai/mochi/blob/main/demos/fine_tuner/README.md) |Mochi 1, a top open-source video model, supports LoRA fine-tuning and operates on a single GPU. The repository demonstrates various applications, such as creating custom effects and ensuring character consistency. |
-|[.]() | |
-|[.]() | |
+|[OneDiffusion.](https://github.com/lehduong/onediffusion) |OneDiffusion is a versatile large-scale diffusion model capable of handling various tasks, including text-to-image generation, image editing, and reverse processes such as depth estimation and segmentation. |
+|[customized-flash-attention.](https://github.com/xiayuqing0622/customized-flash-attention) | New flash attention fork that can have ragged Q/V matrix sizes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
