@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic Announces Model Context Protocol.](https://www.anthropic.com/news/model-context-protocol) |The Model Context Protocol (MCP) is an open standard that enables AI systems to connect directly to data sources, such as business tools and content repositories. It streamlines data access by replacing fragmented, custom integrations with a universal protocol, enhancing scalability and efficiency. |
 |[OpenAI Shares Insights on Red Teaming for Safer AI.](https://openai.com/index/advancing-red-teaming-with-people-and-ai/) | OpenAI has enhanced its red teaming initiatives by publishing two papers: one outlining the involvement of external experts in red teaming, and another presenting a novel approach to automated testing.|
 |[Nvidia’s CEO defends his moat as AI labs change how they improve their AI models.](https://techcrunch.com/2024/11/20/nvidias-ceo-defends-his-moat-as-ai-labs-change-how-they-improve-their-ai-models/) | "Test-time scaling" is gaining significance with the advancement of AI models, and Nvidia is prepared for this transition. This approach, which boosts AI inference by increasing computational power, introduces competitive pressure as startups create faster AI inference chips. While there are concerns about diminishing returns, Nvidia is determined to capitalize on its strong platform advantage for pretraining and expects substantial growth in AI inference.|
-|[.]() | |
+|[Anthropic Introduces Custom Styles for Personalized Responses.](https://www.anthropic.com/news/styles) |Anthropic now offers custom styles, enabling users to adapt the AI's responses to suit their communication preferences and workflows. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,6 +126,20 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Flow Models.](https://drscotthawley.github.io/blog/posts/FlowModels.html) |A great introduction to flow based modeling, which is a theoretical improvement over diffusion. |
 |[Building an AI-Powered Game.](https://www.deeplearning.ai/short-courses/building-an-ai-powered-game/) | This is a course by Andrew Ng, Latitude, and Together AI on how to make an AI powered game.|
 |[Sharper Infrared Images.](https://github.com/hey-it-s-me/corple) | This project improves image super-resolution for infrared images, addressing issues where traditional methods distort spectral fidelity.|
+|[Mochi 1 LoRA Fine-tuner.](https://github.com/genmoai/mochi/blob/main/demos/fine_tuner/README.md) |Mochi 1, a top open-source video model, supports LoRA fine-tuning and operates on a single GPU. The repository demonstrates various applications, such as creating custom effects and ensuring character consistency. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
