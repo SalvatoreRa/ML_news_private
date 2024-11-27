@@ -100,7 +100,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -129,8 +128,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mochi 1 LoRA Fine-tuner.](https://github.com/genmoai/mochi/blob/main/demos/fine_tuner/README.md) |Mochi 1, a top open-source video model, supports LoRA fine-tuning and operates on a single GPU. The repository demonstrates various applications, such as creating custom effects and ensuring character consistency. |
 |[OneDiffusion.](https://github.com/lehduong/onediffusion) |OneDiffusion is a versatile large-scale diffusion model capable of handling various tasks, including text-to-image generation, image editing, and reverse processes such as depth estimation and segmentation. |
 |[customized-flash-attention.](https://github.com/xiayuqing0622/customized-flash-attention) | New flash attention fork that can have ragged Q/V matrix sizes.|
-|[.]() | |
-|[.]() | |
+|[Novel View Synthesis.](https://ewrfcas.github.io/MVGenMaster/) |MVGenMaster is a multi-view diffusion model that enhances Novel View Synthesis tasks by incorporating 3D priors. |
+|[FlowMol: Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation.](https://github.com/dunni3/flowmol) |This work benchmarks discrete flow matching methods for generating novel 3D molecular structures, critical for chemical discovery. |
+|[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge.](https://llm-as-a-judge.github.io/) | This project investigates the growing "LLM-as-a-judge" approach, where large language models are utilized for scoring, ranking, and selection tasks in diverse AI and NLP applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
