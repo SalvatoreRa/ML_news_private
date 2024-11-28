@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/abs/2411.10541) |The study investigates how different prompt formats (plain text, Markdown, JSON, and YAML) influence GPT model performance across various tasks. It finds that GPT-3.5-turbo's performance can vary by up to 40% depending on the format, whereas larger models like GPT-4 are more resilient to such changes. There is no universally optimal format across models or tasks; for example, GPT-3.5-turbo performed better with JSON, while GPT-4 favored Markdown. Models within the same family exhibited similar format preferences, but these preferences did not translate well to different model families. The findings highlight the significant impact of prompt formatting on model performance, emphasizing the importance of considering format choice during prompt engineering, model evaluation, and application development. |
 |[Juna.ai wants to use AI agents to make factories more energy-efficient.](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) | AI agents are all the rage, a trend driven by the generative AI and large language model (LLM) boom these past few years. Getting people to agree on what exactly AI agents are is a challenge, but most contend they are software programs that can be assigned tasks and given decisions to make — with varying degrees of autonomy.|
 |[Why ‘open’ AI systems are actually closed, and why this matters.](https://www.nature.com/articles/s41586-024-08141-1) | This paper examines ‘open’ artificial intelligence (AI). Claims about ‘open’ AI often lack precision|
-|[.]() | |
+|[Qwen's first reasoning inspired model QwQ.](https://qwenlm.github.io/blog/qwq-32b-preview/) | Qwen has introduced a 32B parameter reasoning model that rivals OpenAI's o1 series in performance. The model demonstrates scalability when generating extended reasoning traces and is particularly proficient in mathematics and coding. It is now available for use.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,8 +86,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon to invest another $4 billion in Anthropic, OpenAI’s biggest rival.](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) |Amazon revealed a $4 billion investment in Anthropic, raising its total commitment to $8 billion and solidifying AWS as Anthropic's main cloud and training partner. |
 |[OpenAI is funding research into ‘AI morality’.](https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/) | OpenAI is funding academic research into algorithms that can predict humans’ moral judgements.|
 |[Quantum computing: physics–AI collaboration quashes quantum errors.](https://www.nature.com/articles/d41586-024-03557-1) |A neural network has learnt to correct the errors that arise during quantum computation, outperforming algorithms that were designed by humans. The strategy sets out a promising path towards practical quantum computers. |
-|[.]() | |
-|[.]() | |
+|[OpenAI moves to trademark its o1 ‘reasoning’ models.](https://techcrunch.com/2024/11/27/openai-moves-to-trademark-its-reasoning-models/) | OpenAI has filed a trademark application for its latest AI model, o1, as the firm moves to shield its IP.|
+|[ElevenLabs’ new feature is a NotebookLM competitor for creating GenAI podcasts.](https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/) | Voice AI startup ElevenLabs on Wednesday introduced a feature that lets you upload different types of content to create a multispeaker podcast for you, similar to Google’s NotebookLM.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
