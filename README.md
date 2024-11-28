@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quantum computing: physics–AI collaboration quashes quantum errors.](https://www.nature.com/articles/d41586-024-03557-1) |A neural network has learnt to correct the errors that arise during quantum computation, outperforming algorithms that were designed by humans. The strategy sets out a promising path towards practical quantum computers. |
 |[OpenAI moves to trademark its o1 ‘reasoning’ models.](https://techcrunch.com/2024/11/27/openai-moves-to-trademark-its-reasoning-models/) | OpenAI has filed a trademark application for its latest AI model, o1, as the firm moves to shield its IP.|
 |[ElevenLabs’ new feature is a NotebookLM competitor for creating GenAI podcasts.](https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/) | Voice AI startup ElevenLabs on Wednesday introduced a feature that lets you upload different types of content to create a multispeaker podcast for you, similar to Google’s NotebookLM.|
-|[.]() | |
-|[.]() | |
+|[Cradle raises $73M Series B to Put AI-Powered Protein Engineering in Every Lab.](https://www.cradle.bio/blog/series-b) |Cradle has solved a critical challenge in optimizing protein shapes. It is now expanding its team and efforts to land this technology in the hands of practitioners everywhere. |
+|[Teach mode, Rabbit's tool for automating R1 tasks, is now available to all users.](https://www.engadget.com/ai/teach-mode-rabbits-tool-for-automating-r1-tasks-is-now-available-to-all-users-170036677.html) |Rabbit R1 has launched a teach mode feature that enables users to train its AI to automate tasks across various websites. This enhancement aims to boost functionality and productivity by supporting intricate multi-platform interactions, potentially providing a superior experience compared to dedicated apps. Rabbit plans to establish a marketplace for user-created automations and seeks widespread adoption, despite possible platform challenges. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
