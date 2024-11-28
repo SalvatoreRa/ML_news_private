@@ -53,8 +53,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Juna.ai wants to use AI agents to make factories more energy-efficient.](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/) | AI agents are all the rage, a trend driven by the generative AI and large language model (LLM) boom these past few years. Getting people to agree on what exactly AI agents are is a challenge, but most contend they are software programs that can be assigned tasks and given decisions to make — with varying degrees of autonomy.|
 |[Why ‘open’ AI systems are actually closed, and why this matters.](https://www.nature.com/articles/s41586-024-08141-1) | This paper examines ‘open’ artificial intelligence (AI). Claims about ‘open’ AI often lack precision|
 |[Qwen's first reasoning inspired model QwQ.](https://qwenlm.github.io/blog/qwq-32b-preview/) | Qwen has introduced a 32B parameter reasoning model that rivals OpenAI's o1 series in performance. The model demonstrates scalability when generating extended reasoning traces and is particularly proficient in mathematics and coding. It is now available for use.|
-|[.]() | |
-|[.]() | |
+|[Pathways on the Image Manifold: Image Editing via Video Generation.](https://arxiv.org/abs/2411.16819) | In the early days of image synthesis, exploring the latent space was an effective method for creating diverse images. This concept has now extended to video, enabling sequential edits to a single image while preserving semantic consistency.|
+|[Low-Bit Quantization Favors Undertrained LLMs.](https://arxiv.org/abs/2411.17691) | Models trained for shorter durations on fewer tokens show less performance degradation when quantized after training. This aligns with findings from other research, suggesting that extended training allows models to utilize higher precision to compress increasingly complex information.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
