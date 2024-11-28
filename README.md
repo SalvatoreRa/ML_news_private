@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OLMo 2: The best fully open language model to date.](https://allenai.org/blog/olmo2) | Building on its commitment to fully open-source training, Allen AI has introduced a new generation of language models that are entirely transparent and rival or exceed the performance of the best open-weight models available.|
 |[Amazon to invest another $4 billion in Anthropic, OpenAI’s biggest rival.](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html) |Amazon revealed a $4 billion investment in Anthropic, raising its total commitment to $8 billion and solidifying AWS as Anthropic's main cloud and training partner. |
 |[OpenAI is funding research into ‘AI morality’.](https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/) | OpenAI is funding academic research into algorithms that can predict humans’ moral judgements.|
-|[.]() | |
+|[Quantum computing: physics–AI collaboration quashes quantum errors.](https://www.nature.com/articles/d41586-024-03557-1) |A neural network has learnt to correct the errors that arise during quantum computation, outperforming algorithms that were designed by humans. The strategy sets out a promising path towards practical quantum computers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +166,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Alone Isn't Ready for Chip Design.](https://spectrum.ieee.org/chip-design-ai) |Hybrid methods blending classical search techniques with machine learning are proving effective in addressing the challenges of chip design, especially in floorplanning. While AI alone faces difficulties with multi-constraint scenarios, incorporating AI to guide search-based algorithms, such as simulated annealing, improves both efficiency and performance. This synergy accelerates the design process and facilitates the development of more intricate chip solutions. |
 |[In the big data era, prioritize statistical significance in study design.](https://www.nature.com/articles/d41586-024-03843-y) |Analysis of neuroimaging studies shows that close attention to experimental design can increase the statistical robustness of research results. |
 |[AI could pose pandemic-scale biosecurity risks. Here’s how to make it safer.](https://www.nature.com/articles/d41586-024-03815-2) |AI-enabled research might cause immense harm if it is used to design pathogens with worrying new properties. To prevent this, we need better collaboration between governments, AI developers and experts in biosafety and biosecurity. |
-|[.]() | |
+|[Don’t let watermarks stigmatize AI-generated research content.](https://www.nature.com/articles/d41586-024-03869-2) | Given the increasing integration of LLMs into research processes, identifying their contributions transparently is ever more urgent. But watermarking risks fostering a reductive and binary view of content as either ‘pure’ or ‘tainted’ depending on whether it is human- or LLM-generated.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
