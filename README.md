@@ -132,8 +132,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FlowMol: Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation.](https://github.com/dunni3/flowmol) |This work benchmarks discrete flow matching methods for generating novel 3D molecular structures, critical for chemical discovery. |
 |[From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge.](https://llm-as-a-judge.github.io/) | This project investigates the growing "LLM-as-a-judge" approach, where large language models are utilized for scoring, ranking, and selection tasks in diverse AI and NLP applications.|
 |[aisuite.](https://github.com/andrewyng/aisuite) |An easy way to work with a variety of API based models in a single packaged environment. |
-|[.]() | |
-|[.]() | |
+|[UK government failing to list use of AI on mandatory register.](https://www.theguardian.com/technology/2024/nov/28/uk-government-failing-to-list-use-of-ai-on-mandatory-register) | Technology secretary admits Whitehall departments are not being transparent over way they use AI and algorithms|
+|[Reddit overtakes X in popularity of social media platforms in UK.](https://www.theguardian.com/technology/2024/nov/28/reddit-overtakes-x-in-popularity-of-social-media-platforms-in-uk) | Discussion platform takes fifth place in rankings and is the fastest growing large social media platform in the UK|
 |[.]() | |
 |[.]() | |
 |[.]() | |
