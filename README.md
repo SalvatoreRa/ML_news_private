@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla owners turn against Musk: ‘I’m embarrassed driving this car around’.](https://www.theguardian.com/technology/2024/nov/29/tesla-owners-elon-musk) | The electric car brand was once a liberal favourite – but the CEO’s embrace of Trump has led to an angry backlash|
 |[Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model.](https://oodaloop.com/briefs/technology/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/) | Alibaba has released QwQ-32B-Preview, an ‘open' challenger to OpenAI's o1 reasoning model.|
 |[Ai2 releases new language models competitive with Meta’s Llama.](https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/) |Ai2 has launched OLMo 2, an open-source language model series featuring 7- and 13-billion-parameter models. Built using publicly available training data and code, OLMo 2 aims to advance open-source AI innovation. Ai2 asserts that these models surpass comparable open models, such as Meta's Llama 3.1. The models are licensed under Apache 2.0, allowing for commercial use. |
-|[.]() | |
+|[xAI could soon have its own app.](https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report) |Elon Musk’s xAI is reportedly about to take its next step to compete with OpenAI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
