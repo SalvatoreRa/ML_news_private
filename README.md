@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cradle raises $73M Series B to Put AI-Powered Protein Engineering in Every Lab.](https://www.cradle.bio/blog/series-b) |Cradle has solved a critical challenge in optimizing protein shapes. It is now expanding its team and efforts to land this technology in the hands of practitioners everywhere. |
 |[Teach mode, Rabbit's tool for automating R1 tasks, is now available to all users.](https://www.engadget.com/ai/teach-mode-rabbits-tool-for-automating-r1-tasks-is-now-available-to-all-users-170036677.html) |Rabbit R1 has launched a teach mode feature that enables users to train its AI to automate tasks across various websites. This enhancement aims to boost functionality and productivity by supporting intricate multi-platform interactions, potentially providing a superior experience compared to dedicated apps. Rabbit plans to establish a marketplace for user-created automations and seeks widespread adoption, despite possible platform challenges. |
 |[Use robots instead of hiring low-paid migrants, says shadow home secretary.](https://www.theguardian.com/uk-news/2024/nov/28/use-robots-instead-of-hiring-low-paid-migrants-says-shadow-home-secretary) |Tory MP Chris Philp calls for more investment in technology to reduce UK’s net migration figures |
-|[.]() | |
+|[Tesla owners turn against Musk: ‘I’m embarrassed driving this car around’.](https://www.theguardian.com/technology/2024/nov/29/tesla-owners-elon-musk) | The electric car brand was once a liberal favourite – but the CEO’s embrace of Trump has led to an angry backlash|
 |[.]() | |
 |[.]() | |
 |[.]() | |
