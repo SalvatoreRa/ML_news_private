@@ -142,6 +142,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving.](https://arxiv.org/abs/2411.15139) | Diffusion models for End-to-End driving of autonomous vehicles which can operate at 45 FPS on a 4090 chip.|
 |[PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution.](https://arxiv.org/abs/2411.17106v1) |PassionSR introduces an approach that makes diffusion-based image super-resolution (SR) models more hardware-friendly. |
 |[Training Open Instruction-Following Language Models.](https://github.com/allenai/open-instruct) |This repo serves as an open effort on instruction-tuning popular pretrained language models on publicly available datasets.  |
+|[Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment.](https://zhengchen1999.github.io/Grounding-IQA-Web/) | Grounding-IQA is an innovative method for image quality assessment (IQA) that combines location-specific grounding with multimodal descriptions.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -167,8 +177,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[In the big data era, prioritize statistical significance in study design.](https://www.nature.com/articles/d41586-024-03843-y) |Analysis of neuroimaging studies shows that close attention to experimental design can increase the statistical robustness of research results. |
 |[AI could pose pandemic-scale biosecurity risks. Here’s how to make it safer.](https://www.nature.com/articles/d41586-024-03815-2) |AI-enabled research might cause immense harm if it is used to design pathogens with worrying new properties. To prevent this, we need better collaboration between governments, AI developers and experts in biosafety and biosecurity. |
 |[Don’t let watermarks stigmatize AI-generated research content.](https://www.nature.com/articles/d41586-024-03869-2) | Given the increasing integration of LLMs into research processes, identifying their contributions transparently is ever more urgent. But watermarking risks fostering a reductive and binary view of content as either ‘pure’ or ‘tainted’ depending on whether it is human- or LLM-generated.|
-|[.]() | |
-|[.]() | |
+|[It's Surprisingly Easy to Jailbreak LLM-Driven Robots.](https://spectrum.ieee.org/jailbreak-llm) |RoboPAIR is an algorithm capable of bypassing safety guardrails in robots powered by LLMs, effectively jailbreaks these systems. Tests demonstrated a 100% success rate in compromising platforms like the Go2 self-driving simulator and robot dogs. This highlights critical security vulnerabilities, underscoring the urgent need for stronger defenses against LLM-based robot hacking. |
+|[A new AI scaling law shell game?](https://garymarcus.substack.com/p/a-new-ai-scaling-law-shell-game) | Recent changes in AI scaling laws have exposed limits in predictability and effectiveness, with newer models falling short of previous expectations. Microsoft CEO Satya Nadella emphasizes "inference time compute" as a key area to address, though issues of cost and reliability remain. Advancing beyond scaling is essential, and LLMs should be integrated into a more comprehensive AI strategy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
