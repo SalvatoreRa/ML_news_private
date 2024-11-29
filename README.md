@@ -143,7 +143,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution.](https://arxiv.org/abs/2411.17106v1) |PassionSR introduces an approach that makes diffusion-based image super-resolution (SR) models more hardware-friendly. |
 |[Training Open Instruction-Following Language Models.](https://github.com/allenai/open-instruct) |This repo serves as an open effort on instruction-tuning popular pretrained language models on publicly available datasets.  |
 |[Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment.](https://zhengchen1999.github.io/Grounding-IQA-Web/) | Grounding-IQA is an innovative method for image quality assessment (IQA) that combines location-specific grounding with multimodal descriptions.|
-|[.]() | |
+|[Steel Browser API for AI Agents.](https://github.com/steel-dev/steel-browser) |The open-source browser API built for AI agents. Steel provides a REST API to control headless browsers with session management, proxy support, and anti-detection features. Perfect for web automation, scraping, and building AI agents that can interact with the web. |
+|[PixMo dataset.](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b) | Allen AI has released several datasets that were used to train its visual language models.|
+|[StableAnimator: High-Quality Identity-Preserving Human Image Animation.](https://francis-rings.github.io/StableAnimator/) |StableAnimator introduces a breakthrough in human image animation by ensuring identity consistency in generated videos. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -179,9 +181,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Don’t let watermarks stigmatize AI-generated research content.](https://www.nature.com/articles/d41586-024-03869-2) | Given the increasing integration of LLMs into research processes, identifying their contributions transparently is ever more urgent. But watermarking risks fostering a reductive and binary view of content as either ‘pure’ or ‘tainted’ depending on whether it is human- or LLM-generated.|
 |[It's Surprisingly Easy to Jailbreak LLM-Driven Robots.](https://spectrum.ieee.org/jailbreak-llm) |RoboPAIR is an algorithm capable of bypassing safety guardrails in robots powered by LLMs, effectively jailbreaks these systems. Tests demonstrated a 100% success rate in compromising platforms like the Go2 self-driving simulator and robot dogs. This highlights critical security vulnerabilities, underscoring the urgent need for stronger defenses against LLM-based robot hacking. |
 |[A new AI scaling law shell game?](https://garymarcus.substack.com/p/a-new-ai-scaling-law-shell-game) | Recent changes in AI scaling laws have exposed limits in predictability and effectiveness, with newer models falling short of previous expectations. Microsoft CEO Satya Nadella emphasizes "inference time compute" as a key area to address, though issues of cost and reliability remain. Advancing beyond scaling is essential, and LLMs should be integrated into a more comprehensive AI strategy.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
