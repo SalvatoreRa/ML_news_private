@@ -44,7 +44,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Large language models surpass human experts in predicting neuroscience results.](https://www.nature.com/articles/s41562-024-02046-9) | Researchers have introduced BrainBench, a tool designed to evaluate large language models' (LLMs) ability to predict outcomes in neuroscience experiments. By fine-tuning an LLM on neuroscience literature, they developed BrainGPT, which achieved an 86% accuracy rate in forecasting study results, surpassing human experts who averaged 63%.  Notably, when BrainGPT expressed high confidence in its predictions, its accuracy increased, indicating a strong correlation between confidence levels and correctness.|
-|[.]() | |
+|[Foundational Generative Audio Transformer Opus 1.](https://d1qx31qr3h6wln.cloudfront.net/publications/FUGATTO.pdf) | NVIDIA has introduced a generative AI sound model capable of creating and transforming music, voices, and sounds through text and audio inputs. Trained on 2.5 billion parameters, the model can produce unique audio outputs, such as trumpets barking or saxophones meowing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
