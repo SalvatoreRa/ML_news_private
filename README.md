@@ -50,8 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generative Agent Simulations of 1,000 People.](https://arxiv.org/abs/2411.10109) | Presents a novel agent architecture leveraging LLMs to simulate real individuals' behaviors, achieving 85% accuracy in replicating human responses on the General Social Survey and reducing demographic biases compared to traditional methods.|
 |[Measuring Bullshit in the Language Games played by ChatGPT.](https://arxiv.org/abs/2411.15129) | Suggests that LLM-based chatbots engage in the "language game of bullshit." By instructing ChatGPT to produce scientific articles on topics it lacks knowledge or expertise in, the authors created a reference set illustrating how this "bullshit" manifests.|
 |[Study: 94% Of AI-Generated College Writing Is Undetected By Teachers.](https://www.forbes.com/sites/dereknewton/2024/11/30/study-94-of-ai-generated-college-writing-is-undetected-by-teachers/) | Increasingly, homework and exam writing are being done by generative AI instead of students, turned in and passed off as authentic work for grades, credit, and degrees. |
-|[.]() | |
-|[.]() | |
+|[Mapping the ionosphere with the power of Android.](https://research.google/blog/mapping-the-ionosphere-with-the-power-of-android/) | Google researchers successfully mapped the Ionosphere using GPS fluctuations combined with innovative algorithms. This approach, which is typically costly and time-intensive, offers potential benefits for various climate solutions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey on LLM-as-a-Judge.](https://arxiv.org/abs/2411.15594) |Offers an in-depth survey of the LLM-as-a-Judge paradigm, with a detailed exploration of strategies for developing reliable LLM-as-a-Judge systems. |
 |[TÜLU 3: Pushing Frontiers in Open Language Model Post-Training.](https://arxiv.org/abs/2411.15124) | Introduces a suite of fully open state-of-the-art post-trained models, along with their accompanying data, code, and training methodologies, providing a detailed guide to contemporary post-training techniques.|
 |[INTELLECT-1 Release: The First Globally Trained 10B Parameter Model.](https://www.primeintellect.ai/blog/intellect-1-release) | INTELLECT-1 is a 10B parameter model trained on 1 trillion tokens using globally distributed hardware. Its benchmarks are solid, and achieving an MFU of over 30% is remarkable considering the distributed training setup. If these results are validated, it represents a significant advancement in decentralized large model training.|
-|[.]() | |
+|[From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects.](https://arxiv.org/abs/2411.18207v1) |This framework advances object detection into open-world settings by enabling AI to recognize and learn from previously unseen objects. |
+|[HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning.](https://arxiv.org/abs/2411.18296v1) |HUPE is an AI-driven technique that enhances underwater image clarity while maintaining essential details for tasks such as object detection. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
