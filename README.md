@@ -74,8 +74,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TSMC bets big on 2nm by 2025 – but can it deliver?](https://www.theregister.com/2024/11/29/tsmc_2nm_mass_production/) |Ambition meets reality as geopolitical, technical, and logistical challenges loom |
 |[The AI Effect: Amazon Sees Nearly 1 Billion Cyber Threats a Day.](https://www.wsj.com/articles/the-ai-effect-amazon-sees-nearly-1-billion-cyber-threats-a-day-15434edd) |The technology has spawned a surge in hacking attempts, says cyber chief CJ Moses, while Amazon is also using it to powerfully amp up its threat-analysis capability |
 |[Meet 'Chameleon' – an AI model that can protect you from facial recognition thanks to a sophisticated digital mask.](https://www.livescience.com/technology/artificial-intelligence/meet-chameleon-an-ai-model-that-can-protect-you-from-facial-recognition-thanks-to-a-sophisticated-digital-mask) | A new AI model can mask a personal image without destroying its quality, which will help to protect your privacy.|
-|[.]() | |
-|[.]() | |
+|[Elon Musk targets OpenAI’s for-profit transition in a new filing.](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction) |Musk’s attorneys say if OpenAI goes for-profit, it could ‘lack sufficient funds’ for damages if Musk wins his lawsuit. |
+|[Perplexity mulls getting into hardware.](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) |Perplexity's CEO aims to create an affordable AI device, priced under $50, for voice-to-voice interactions. This reflects a growing interest among AI startups in developing hardware for novel interaction methods, though past challenges in AI hardware development pose risks. Backed by significant funding, Perplexity seeks to overcome obstacles encountered by others, such as Humane's Ai Pin. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
