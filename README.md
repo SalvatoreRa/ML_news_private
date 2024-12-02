@@ -106,9 +106,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[INTELLECT-1 Release: The First Globally Trained 10B Parameter Model.](https://www.primeintellect.ai/blog/intellect-1-release) | INTELLECT-1 is a 10B parameter model trained on 1 trillion tokens using globally distributed hardware. Its benchmarks are solid, and achieving an MFU of over 30% is remarkable considering the distributed training setup. If these results are validated, it represents a significant advancement in decentralized large model training.|
 |[From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects.](https://arxiv.org/abs/2411.18207v1) |This framework advances object detection into open-world settings by enabling AI to recognize and learn from previously unseen objects. |
 |[HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning.](https://arxiv.org/abs/2411.18296v1) |HUPE is an AI-driven technique that enhances underwater image clarity while maintaining essential details for tasks such as object detection. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LTNtorch: PyTorch Implementation of Logic Tensor Networks.](https://arxiv.org/abs/2409.16045v1) | Logic Tensor Networks (LTN) combine deep learning with logical reasoning, enabling neural models to learn by optimizing a knowledge base constructed from logical formulas.|
+|[Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale.](https://gair-nlp.github.io/ProX/homepage.html) |ProX is a framework that approaches data refinement as a programming task, enabling models to perform detailed operations on individual examples at scale. It enhances pre-training corpus quality by utilizing small language models to generate programs. |
+|[MMDuet.](https://huggingface.co/wangyueqian/MMDuet) |MMDuet introduces a unique "video-text duet" interaction format for VideoLLMs, enabling AI to deliver real-time responses as videos play. This method simulates a dialogue where users and AI can exchange messages during video playback. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
