@@ -70,8 +70,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Googling Is for Old People. That’s a Problem for Google.](https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed?st=GrEFVZ&reflink=desktopwebshare_permalink) |And it’s not just demographics that are weighing on the search giant. Its core business is under siege from pressures that threaten to dismantle its ecosystem of search dominance and digital advertising. |
+|[TSMC bets big on 2nm by 2025 – but can it deliver?](https://www.theregister.com/2024/11/29/tsmc_2nm_mass_production/) |Ambition meets reality as geopolitical, technical, and logistical challenges loom |
 |[.]() | |
 |[.]() | |
 |[.]() | |
