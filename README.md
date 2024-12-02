@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Googling Is for Old People. That’s a Problem for Google.](https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed?st=GrEFVZ&reflink=desktopwebshare_permalink) |And it’s not just demographics that are weighing on the search giant. Its core business is under siege from pressures that threaten to dismantle its ecosystem of search dominance and digital advertising. |
 |[TSMC bets big on 2nm by 2025 – but can it deliver?](https://www.theregister.com/2024/11/29/tsmc_2nm_mass_production/) |Ambition meets reality as geopolitical, technical, and logistical challenges loom |
-|[.]() | |
-|[.]() | |
+|[The AI Effect: Amazon Sees Nearly 1 Billion Cyber Threats a Day.](https://www.wsj.com/articles/the-ai-effect-amazon-sees-nearly-1-billion-cyber-threats-a-day-15434edd) |The technology has spawned a surge in hacking attempts, says cyber chief CJ Moses, while Amazon is also using it to powerfully amp up its threat-analysis capability |
+|[Meet 'Chameleon' – an AI model that can protect you from facial recognition thanks to a sophisticated digital mask.](https://www.livescience.com/technology/artificial-intelligence/meet-chameleon-an-ai-model-that-can-protect-you-from-facial-recognition-thanks-to-a-sophisticated-digital-mask) | A new AI model can mask a personal image without destroying its quality, which will help to protect your privacy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
