@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Large language models surpass human experts in predicting neuroscience results.](https://www.nature.com/articles/s41562-024-02046-9) | Researchers have introduced BrainBench, a tool designed to evaluate large language models' (LLMs) ability to predict outcomes in neuroscience experiments. By fine-tuning an LLM on neuroscience literature, they developed BrainGPT, which achieved an 86% accuracy rate in forecasting study results, surpassing human experts who averaged 63%.  Notably, when BrainGPT expressed high confidence in its predictions, its accuracy increased, indicating a strong correlation between confidence levels and correctness.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
