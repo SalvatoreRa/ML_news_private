@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meet 'Chameleon' – an AI model that can protect you from facial recognition thanks to a sophisticated digital mask.](https://www.livescience.com/technology/artificial-intelligence/meet-chameleon-an-ai-model-that-can-protect-you-from-facial-recognition-thanks-to-a-sophisticated-digital-mask) | A new AI model can mask a personal image without destroying its quality, which will help to protect your privacy.|
 |[Elon Musk targets OpenAI’s for-profit transition in a new filing.](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction) |Musk’s attorneys say if OpenAI goes for-profit, it could ‘lack sufficient funds’ for damages if Musk wins his lawsuit. |
 |[Perplexity mulls getting into hardware.](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) |Perplexity's CEO aims to create an affordable AI device, priced under $50, for voice-to-voice interactions. This reflects a growing interest among AI startups in developing hardware for novel interaction methods, though past challenges in AI hardware development pose risks. Backed by significant funding, Perplexity seeks to overcome obstacles encountered by others, such as Humane's Ai Pin. |
-|[.]() | |
+|[Inflection AI CEO says it’s done trying to make next-generation AI models.](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) |Inflection AI has transitioned from creating advanced AI models to offering AI tools tailored for enterprise customers, utilizing existing AI models. To enhance its capabilities, it has acquired three AI startups and is open to licensing models from previous competitors. CEO Sean White emphasizes the company's shift toward practical applications, prioritizing on-premise AI solutions to ensure enterprise data security over frontier model innovation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large Language Model-Brained GUI Agents: A Survey.](https://arxiv.org/abs/2411.18279) | Provides an overview of LLM-powered GUI Agents, covering their techniques and applications.|
 |[A Survey on LLM-as-a-Judge.](https://arxiv.org/abs/2411.15594) |Offers an in-depth survey of the LLM-as-a-Judge paradigm, with a detailed exploration of strategies for developing reliable LLM-as-a-Judge systems. |
 |[TÜLU 3: Pushing Frontiers in Open Language Model Post-Training.](https://arxiv.org/abs/2411.15124) | Introduces a suite of fully open state-of-the-art post-trained models, along with their accompanying data, code, and training methodologies, providing a detailed guide to contemporary post-training techniques.|
-|[.]() | |
+|[INTELLECT-1 Release: The First Globally Trained 10B Parameter Model.](https://www.primeintellect.ai/blog/intellect-1-release) | INTELLECT-1 is a 10B parameter model trained on 1 trillion tokens using globally distributed hardware. Its benchmarks are solid, and achieving an MFU of over 30% is remarkable considering the distributed training setup. If these results are validated, it represents a significant advancement in decentralized large model training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
