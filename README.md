@@ -76,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk targets OpenAI’s for-profit transition in a new filing.](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction) |Musk’s attorneys say if OpenAI goes for-profit, it could ‘lack sufficient funds’ for damages if Musk wins his lawsuit. |
 |[Perplexity mulls getting into hardware.](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/) |Perplexity's CEO aims to create an affordable AI device, priced under $50, for voice-to-voice interactions. This reflects a growing interest among AI startups in developing hardware for novel interaction methods, though past challenges in AI hardware development pose risks. Backed by significant funding, Perplexity seeks to overcome obstacles encountered by others, such as Humane's Ai Pin. |
 |[Inflection AI CEO says it’s done trying to make next-generation AI models.](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/) |Inflection AI has transitioned from creating advanced AI models to offering AI tools tailored for enterprise customers, utilizing existing AI models. To enhance its capabilities, it has acquired three AI startups and is open to licensing models from previous competitors. CEO Sean White emphasizes the company's shift toward practical applications, prioritizing on-premise AI solutions to ensure enterprise data security over frontier model innovation. |
-|[.]() | |
-|[.]() | |
+|[PlayAI's $21M Funding and The Release of a New Multi-Turn Speech Model.](https://blog.play.ai/blog/21m-funding) | PlayAI secured $21 million to enhance voice-first AI interfaces and models, launching Play Dialog, an advanced multi-turn speech model.|
+|[Anthropic says Claude AI can match your unique writing style.](https://www.theverge.com/2024/11/26/24306575/anthropic-claude-ai-custom-style-presets) | Three style presets are available alongside the ability to create personalized styles for the chatbot to mimic.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
