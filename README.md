@@ -135,8 +135,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI expert Marietje Schaake: ‘The way we think about technology is shaped by the tech companies themselves’.](https://www.theguardian.com/technology/2024/nov/30/marietje-schaake-tech-coup-save-democracy-silicon-valley) | The Dutch policy director and former MEP on the unprecedented reach of big tech, the need for confident governments, and why the election of Trump changes everything|
 |[If AI can provide a better diagnosis than a doctor, what’s the prognosis for medics?](https://www.theguardian.com/commentisfree/2024/nov/30/if-ai-can-provide-a-better-diagnosis-than-a-doctor-whats-the-prognosis-for-medics) | Studies in which ChatGPT outperformed scientists and GPs raise troubling questions for the future of professional work|
-|[.]() | |
-|[.]() | |
+|[Building LLMs is probably not going be a brilliant business.](https://calpaterson.com/porter.html) | LLM developers, including OpenAI, face major hurdles due to the industry's structure, particularly NVIDIA's dominance as a critical chip supplier and the intense price sensitivity and competition among buyers. While many AI companies secure significant funding, they often face profitability challenges, reminiscent of past tech firms like Netscape. Nonetheless, the technology is likely to continue progressing. AI businesses may find success by focusing on leveraging existing models instead of creating new ones.|
+|[Rox: How to Manufacture Path Dependence in Applied AI.](https://www.notboring.co/p/rox) |like Salesforce by leveraging AI to manage unstructured data and integrate seamlessly with data warehouses. Its strategy focuses on enhancing the productivity of top sales performers through AI-powered agents, while ensuring customer data security for future AI developments. This approach has attracted significant investor confidence, with Rox securing $50 million in funding from Sequoia Capital, GV, and General Catalyst across its seed and Series A rounds.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
