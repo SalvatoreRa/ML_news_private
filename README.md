@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LTNtorch: PyTorch Implementation of Logic Tensor Networks.](https://arxiv.org/abs/2409.16045v1) | Logic Tensor Networks (LTN) combine deep learning with logical reasoning, enabling neural models to learn by optimizing a knowledge base constructed from logical formulas.|
 |[Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale.](https://gair-nlp.github.io/ProX/homepage.html) |ProX is a framework that approaches data refinement as a programming task, enabling models to perform detailed operations on individual examples at scale. It enhances pre-training corpus quality by utilizing small language models to generate programs. |
 |[MMDuet.](https://huggingface.co/wangyueqian/MMDuet) |MMDuet introduces a unique "video-text duet" interaction format for VideoLLMs, enabling AI to deliver real-time responses as videos play. This method simulates a dialogue where users and AI can exchange messages during video playback. |
-|[.]() | |
+|[Converting GPT to Llama.](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/07_gpt_to_llama) | This repository contains code for converting a GPT implementation to Meta AI's Llama.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
