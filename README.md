@@ -45,8 +45,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Large language models surpass human experts in predicting neuroscience results.](https://www.nature.com/articles/s41562-024-02046-9) | Researchers have introduced BrainBench, a tool designed to evaluate large language models' (LLMs) ability to predict outcomes in neuroscience experiments. By fine-tuning an LLM on neuroscience literature, they developed BrainGPT, which achieved an 86% accuracy rate in forecasting study results, surpassing human experts who averaged 63%.  Notably, when BrainGPT expressed high confidence in its predictions, its accuracy increased, indicating a strong correlation between confidence levels and correctness.|
 |[Foundational Generative Audio Transformer Opus 1.](https://d1qx31qr3h6wln.cloudfront.net/publications/FUGATTO.pdf) | NVIDIA has introduced a generative AI sound model capable of creating and transforming music, voices, and sounds through text and audio inputs. Trained on 2.5 billion parameters, the model can produce unique audio outputs, such as trumpets barking or saxophones meowing.|
-|[.]() | |
-|[.]() | |
+|[o1 Replication Journey - Part 2.](https://arxiv.org/abs/2411.16489) | The study demonstrates that combining simple distillation from o1's API with supervised fine-tuning significantly enhances performance on complex mathematical reasoning tasks. A base model fine-tuned on just tens of thousands of o1-distilled long-thought chains outperforms o1-preview on the American Invitational Mathematics Examination (AIME).|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -102,6 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
+|[Large Language Model-Brained GUI Agents: A Survey.](https://arxiv.org/abs/2411.18279) | Provides an overview of LLM-powered GUI Agents, covering their techniques and applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
