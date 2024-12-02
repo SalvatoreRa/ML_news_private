@@ -102,8 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Large Language Model-Brained GUI Agents: A Survey.](https://arxiv.org/abs/2411.18279) | Provides an overview of LLM-powered GUI Agents, covering their techniques and applications.|
-|[.]() | |
-|[.]() | |
+|[A Survey on LLM-as-a-Judge.](https://arxiv.org/abs/2411.15594) |Offers an in-depth survey of the LLM-as-a-Judge paradigm, with a detailed exploration of strategies for developing reliable LLM-as-a-Judge systems. |
+|[TÜLU 3: Pushing Frontiers in Open Language Model Post-Training.](https://arxiv.org/abs/2411.15124) | Introduces a suite of fully open state-of-the-art post-trained models, along with their accompanying data, code, and training methodologies, providing a detailed guide to contemporary post-training techniques.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
