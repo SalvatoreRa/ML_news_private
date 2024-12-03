@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Measuring Bullshit in the Language Games played by ChatGPT.](https://arxiv.org/abs/2411.15129) | Suggests that LLM-based chatbots engage in the "language game of bullshit." By instructing ChatGPT to produce scientific articles on topics it lacks knowledge or expertise in, the authors created a reference set illustrating how this "bullshit" manifests.|
 |[Study: 94% Of AI-Generated College Writing Is Undetected By Teachers.](https://www.forbes.com/sites/dereknewton/2024/11/30/study-94-of-ai-generated-college-writing-is-undetected-by-teachers/) | Increasingly, homework and exam writing are being done by generative AI instead of students, turned in and passed off as authentic work for grades, credit, and degrees. |
 |[Mapping the ionosphere with the power of Android.](https://research.google/blog/mapping-the-ionosphere-with-the-power-of-android/) | Google researchers successfully mapped the Ionosphere using GPS fluctuations combined with innovative algorithms. This approach, which is typically costly and time-intensive, offers potential benefits for various climate solutions.|
-|[.]() | |
+|[DeMo: Decoupled Momentum Optimization.](https://arxiv.org/abs/2411.19870) |2.5x faster and requiring 100x less communication, this new optimizer, developed by the original Adam author, delivers significant performance gains for language model training, surpassing existing optimization methods. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale.](https://gair-nlp.github.io/ProX/homepage.html) |ProX is a framework that approaches data refinement as a programming task, enabling models to perform detailed operations on individual examples at scale. It enhances pre-training corpus quality by utilizing small language models to generate programs. |
 |[MMDuet.](https://huggingface.co/wangyueqian/MMDuet) |MMDuet introduces a unique "video-text duet" interaction format for VideoLLMs, enabling AI to deliver real-time responses as videos play. This method simulates a dialogue where users and AI can exchange messages during video playback. |
 |[Converting GPT to Llama.](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/07_gpt_to_llama) | This repository contains code for converting a GPT implementation to Meta AI's Llama.|
-|[.]() | |
+|[DeMo training run.](https://distro.nousresearch.com/) | Nous is training a 15B distributed model using the DeMo optimizer. All of the training can be followed live at this link.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Rox: How to Manufacture Path Dependence in Applied AI.](https://www.notboring.co/p/rox) |like Salesforce by leveraging AI to manage unstructured data and integrate seamlessly with data warehouses. Its strategy focuses on enhancing the productivity of top sales performers through AI-powered agents, while ensuring customer data security for future AI developments. This approach has attracted significant investor confidence, with Rox securing $50 million in funding from Sequoia Capital, GV, and General Catalyst across its seed and Series A rounds.  |
 |[How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1) |Large language models such as OpenAI’s o1 have electrified the debate over achieving artificial general intelligence, or AGI. But they are unlikely to reach this milestone on their own. |
 |[The race is on to make AI agents do your online shopping for you.](https://techcrunch.com/2024/12/02/the-race-is-on-to-make-ai-agents-do-your-online-shopping-for-you/) |Tech companies are creating AI shopping agents to automate online purchases, which could transform the retail industry. Perplexity's model faces operational hurdles, while OpenAI, Google, and Amazon are also working on AI purchasing tools. These advancements aim to simplify shopping but raise concerns about privacy, retailer dynamics, and the future of online shopping. |
-|[.]() | |
+|[Salesforce CEO Marc Benioff Has Thoughts on AI Agents, Automation, And The Future of Your Job.](https://www.bigtechnology.com/p/salesforce-ceo-marc-benioff-has-thoughts) |Salesforce CEO Marc Benioff foresees companies using AI agents to manage customer service and sales by utilizing their existing data and policies, with Salesforce serving as a central enabler of this change. He contends that AI-driven automation will boost productivity rather than replace jobs, enabling businesses to grow and operate more efficiently without adding human labor. Benioff emphasizes this transition as a pivotal moment in business evolution, offering a competitive advantage and transforming traditional workflows. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
