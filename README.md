@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic says Claude AI can match your unique writing style.](https://www.theverge.com/2024/11/26/24306575/anthropic-claude-ai-custom-style-presets) | Three style presets are available alongside the ability to create personalized styles for the chatbot to mimic.|
 |[Intel CEO Pat Gelsinger retires amid chipmaker’s struggles.](https://www.theguardian.com/technology/2024/dec/02/intel-ceo-pat-gelsinger) | David Zinsner and Michelle Johnson Holthaus named interim co-CEOs of company fighting to keep up with rivals|
 |[ChatGPT turns two: how the AI chatbot has changed scientists’ lives.](https://www.nature.com/articles/d41586-024-03940-y) | How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community.|
-|[.]() | |
+|[Ads might be coming to ChatGPT — despite Sam Altman not being a fan.](https://techcrunch.com/2024/12/02/ads-might-be-coming-to-chatgpt-despite-sam-altman-not-being-a-fan/) | OpenAI is exploring advertising as a potential business model to fund its expensive AI tool development. While there are no active plans for ads, the option remains under consideration. CEO Sam Altman views ads as a last resort and has expressed unease about merging ads with AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building LLMs is probably not going be a brilliant business.](https://calpaterson.com/porter.html) | LLM developers, including OpenAI, face major hurdles due to the industry's structure, particularly NVIDIA's dominance as a critical chip supplier and the intense price sensitivity and competition among buyers. While many AI companies secure significant funding, they often face profitability challenges, reminiscent of past tech firms like Netscape. Nonetheless, the technology is likely to continue progressing. AI businesses may find success by focusing on leveraging existing models instead of creating new ones.|
 |[Rox: How to Manufacture Path Dependence in Applied AI.](https://www.notboring.co/p/rox) |like Salesforce by leveraging AI to manage unstructured data and integrate seamlessly with data warehouses. Its strategy focuses on enhancing the productivity of top sales performers through AI-powered agents, while ensuring customer data security for future AI developments. This approach has attracted significant investor confidence, with Rox securing $50 million in funding from Sequoia Capital, GV, and General Catalyst across its seed and Series A rounds.  |
 |[How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1) |Large language models such as OpenAI’s o1 have electrified the debate over achieving artificial general intelligence, or AGI. But they are unlikely to reach this milestone on their own. |
-|[.]() | |
+|[The race is on to make AI agents do your online shopping for you.](https://techcrunch.com/2024/12/02/the-race-is-on-to-make-ai-agents-do-your-online-shopping-for-you/) |Tech companies are creating AI shopping agents to automate online purchases, which could transform the retail industry. Perplexity's model faces operational hurdles, while OpenAI, Google, and Amazon are also working on AI purchasing tools. These advancements aim to simplify shopping but raise concerns about privacy, retailer dynamics, and the future of online shopping. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
