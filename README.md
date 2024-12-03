@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MMDuet.](https://huggingface.co/wangyueqian/MMDuet) |MMDuet introduces a unique "video-text duet" interaction format for VideoLLMs, enabling AI to deliver real-time responses as videos play. This method simulates a dialogue where users and AI can exchange messages during video playback. |
 |[Converting GPT to Llama.](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/07_gpt_to_llama) | This repository contains code for converting a GPT implementation to Meta AI's Llama.|
 |[DeMo training run.](https://distro.nousresearch.com/) | Nous is training a 15B distributed model using the DeMo optimizer. All of the training can be followed live at this link.|
-|[.]() | |
-|[.]() | |
+|[Fine-Tune Models with LoRA-SB.](https://github.com/raghavsinghal10/lora-sb) |LoRA-SB is a new method that brings full fine-tuning performance to low-rank adapters for large language models. |
+|[Making AI Datasets More Diverse.](https://github.com/vila-lab/delt) |Researchers proposed a new approach, Diversity-driven EarlyLate Training (DELT), to enhance dataset distillation for large-scale tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
