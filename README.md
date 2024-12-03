@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PlayAI's $21M Funding and The Release of a New Multi-Turn Speech Model.](https://blog.play.ai/blog/21m-funding) | PlayAI secured $21 million to enhance voice-first AI interfaces and models, launching Play Dialog, an advanced multi-turn speech model.|
 |[Anthropic says Claude AI can match your unique writing style.](https://www.theverge.com/2024/11/26/24306575/anthropic-claude-ai-custom-style-presets) | Three style presets are available alongside the ability to create personalized styles for the chatbot to mimic.|
 |[Intel CEO Pat Gelsinger retires amid chipmaker’s struggles.](https://www.theguardian.com/technology/2024/dec/02/intel-ceo-pat-gelsinger) | David Zinsner and Michelle Johnson Holthaus named interim co-CEOs of company fighting to keep up with rivals|
-|[.]() | |
+|[ChatGPT turns two: how the AI chatbot has changed scientists’ lives.](https://www.nature.com/articles/d41586-024-03940-y) | How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
