@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT turns two: how the AI chatbot has changed scientists’ lives.](https://www.nature.com/articles/d41586-024-03940-y) | How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community.|
 |[Ads might be coming to ChatGPT — despite Sam Altman not being a fan.](https://techcrunch.com/2024/12/02/ads-might-be-coming-to-chatgpt-despite-sam-altman-not-being-a-fan/) | OpenAI is exploring advertising as a potential business model to fund its expensive AI tool development. While there are no active plans for ads, the option remains under consideration. CEO Sam Altman views ads as a last resort and has expressed unease about merging ads with AI.|
 |[OpenAI targets 1bn users in next phase of growth.](https://www.ft.com/content/e91cb018-873c-4388-84c0-46e9f82146b4) |OpenAI plans to attract 1 billion users by introducing new AI agents, enhancing AI infrastructure, and integrating ChatGPT with Apple devices. The company is heavily investing in AI development to stay competitive against rivals like Google and Microsoft, while navigating political challenges to promote US leadership in AI over China's growing influence. |
-|[.]() | |
-|[.]() | |
+|[AI company Mistral is latest European startup to eye expansion in Silicon Valley.](https://www.semafor.com/article/11/27/2024/ai-company-mistral-is-latest-european-startup-to-eye-expansion-in-silicon-valley) | Mistral AI, a leading European AI startup known for its open-weight large language models, is expanding into the U.S. by establishing an office in Palo Alto, California. This move aims to attract top AI talent and enhance its U.S. sales operations. One of Mistral's co-founders, Guillaume Lample, is considering relocating from Paris to support this expansion|
+|[OpenAI gets new $1.5 billion investment from SoftBank, allowing employees to sell shares in a tender offer.](https://www.cnbc.com/2024/11/26/openai-gets-1point5-billion-investment-from-softbank-in-tender-offer.html) |OpenAI is allowing employees to sell about $1.5 billion worth of shares in a new tender offer to SoftBank, CNBC has learned. SoftBank’s latest investment adds to OpenAI’s recent $6.6 billion funding round at a $157 billion valuation. The deal was spurred by SoftBank billionaire founder and CEO Masayoshi Son, who was persistent in asking for a larger stake in the company, a person familiar with the matter said.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fine-Tune Models with LoRA-SB.](https://github.com/raghavsinghal10/lora-sb) |LoRA-SB is a new method that brings full fine-tuning performance to low-rank adapters for large language models. |
 |[Making AI Datasets More Diverse.](https://github.com/vila-lab/delt) |Researchers proposed a new approach, Diversity-driven EarlyLate Training (DELT), to enhance dataset distillation for large-scale tasks. |
 |[Google’s plan to keep AI out of search trial remedies isn’t going very well.](https://arstechnica.com/tech-policy/2024/11/google-drags-ai-rivals-into-search-trial-as-judge-entertains-ai-remedies/) | US District Judge Amit Mehta indicates that AI could be pivotal in shaping remedies after the government's win in the Google search monopoly trial, potentially impacting Google's AI products. The DOJ has proposed measures to prevent Google from leveraging AI to maintain market dominance, including limits on exclusive agreements and AI investments. Microsoft opposes Google's requests for confidential AI deal details, citing irrelevance, while OpenAI may face pressure to disclose data in this context.|
-|[.]() | |
+|[Using uv with PyTorch.](https://docs.astral.sh/uv/guides/integration/pytorch/) |Documentation on how to use the new package manager UV to install PyTorch. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
