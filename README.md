@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Eleven Labs Conversational AI.](https://elevenlabs.io/conversational-ai) | Eleven Labs has introduced a new conversational AI service designed as a comprehensive solution for creating conversational agents. It employs multiple LLMs on the backend and integrates smoothly with a diverse range of specialized voices.|
 |[Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock.](https://www.anthropic.com/news/trainium2-and-distillation) | Claude models are being tailored for AWS's advanced Trainium2 AI chips, allowing for faster and more efficient performance. Claude 3.5 Haiku is now accessible on AWS Trainium2 and supports model distillation in Amazon Bedrock.|
 |[AI Music Is More Realistic Than Ever: Meet Suno's New Model.](https://www.rollingstone.com/music/music-features/ai-music-generator-new-model-suno-1235172581/) |Suno has become the fifth most-used generative AI service with its realistic AI music model V4, despite facing a copyright lawsuit. The model improves user experience by focusing on human preferences, offering enhanced sound quality and advanced composition skills. Suno aims to advance AI-human music collaboration while addressing copyright concerns with the recording industry. |
-|[.]() | |
-|[.]() | |
+|[Bluesky’s open API means anyone can scrape your data for AI training.](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) |Bluesky might not be training AI systems on user content as other social networks are doing, but there’s little stopping third parties from doing so. |
+|[Google launches the London AI Campus.](https://blog.google/around-the-globe/google-europe/united-kingdom/google-launches-ai-campus-london/) | The AI Campus is a pilot program aimed at fostering and diversifying the next generation of local AI talent.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -130,6 +130,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hunyuan Video Model.](https://github.com/Tencent/HunyuanVideo) |Tencent's state-of-the-art open video model stands out for its realistic motion and dual training as both a video and image generation model. This dual approach enhances the aesthetic quality of its output, making it comparable to image generation models like Flux. |
 |[Scene Text Recognition.](https://github.com/YesianRohn/TextSSR) |TextSSR is a framework leveraging diffusion-based techniques to produce precise and realistic synthetic text images for scene text recognition. |
 |[T2Vid: Efficient Video Fine-tuning Scheme for MLLMs.](https://github.com/xjtupanda/t2vid) |T2Vid is a novel approach aimed at enhancing video comprehension in Multimodal Large Language Models (MLLMs). It creates video-like samples to diversify training instructions. |
+|[aisuite.](https://github.com/andrewyng/aisuite) | aisuite offers a unified interface for seamless interaction with multiple LLM providers, enabling developers to test and compare outputs without modifying their code.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -153,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Create JSONL dataset from API chat logs.](https://github.com/cognitivecomputations/chat-logger) |A straightforward utility that enables the creation of a JSONL dataset from messages exchanged between the user and the API. |
 |[The ChatGPT secret: is that text message from your friend, your lover – or a robot?](https://www.theguardian.com/technology/2024/dec/03/the-chatgpt-secret-is-that-text-message-from-your-friend-your-lover-or-a-robot) | People are turning to chatbots to solve all their life problems, and they like its answers. But are they on a very slippery slope?|
 |[A System of Agents brings Service-as-Software to life.](https://foundationcapital.com/system-of-agents/) |AI is evolving software from a tool into autonomous agents capable of performing tasks traditionally handled by humans, representing a projected $4.6 trillion market opportunity. Advancements like LLMs and agents empower AI systems to handle unstructured data, make decisions, and operate independently in sectors such as sales and healthcare. The future of AI envisions Systems of Agents working collaboratively and learning from one another, akin to a highly skilled team delivering seamless services. |
-|[.]() | |
+|[Over ½ of Long Posts on LinkedIn are Likely AI-Generated Since ChatGPT Launched.](https://originality.ai/blog/ai-content-published-linkedin) | Since the launch of ChatGPT, LinkedIn has experienced a 189% increase in AI-generated content, with more than half of long-form posts now probably AI-created.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
