@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chip war ramps up with new US semiconductor restrictions on China.](https://www.theguardian.com/us-news/2024/dec/03/joe-biden-china-microchip-export-restrictions-law-changes) | Biden administration broadens limits on Chinese access to advanced microchip technology, with Donald Trump expected to go even further|
 |[Eleven Labs Conversational AI.](https://elevenlabs.io/conversational-ai) | Eleven Labs has introduced a new conversational AI service designed as a comprehensive solution for creating conversational agents. It employs multiple LLMs on the backend and integrates smoothly with a diverse range of specialized voices.|
 |[Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock.](https://www.anthropic.com/news/trainium2-and-distillation) | Claude models are being tailored for AWS's advanced Trainium2 AI chips, allowing for faster and more efficient performance. Claude 3.5 Haiku is now accessible on AWS Trainium2 and supports model distillation in Amazon Bedrock.|
-|[.]() | |
+|[AI Music Is More Realistic Than Ever: Meet Suno's New Model.](https://www.rollingstone.com/music/music-features/ai-music-generator-new-model-suno-1235172581/) |Suno has become the fifth most-used generative AI service with its realistic AI music model V4, despite facing a copyright lawsuit. The model improves user experience by focusing on human preferences, offering enhanced sound quality and advanced composition skills. Suno aims to advance AI-human music collaboration while addressing copyright concerns with the recording industry. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reward Hacking in Reinforcement Learning.](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/) | Lilian Weng has published an insightful blog post on the issue of Reward Hacking in language model alignment, a key challenge hindering the deployment of models in production environments.|
 |[Create JSONL dataset from API chat logs.](https://github.com/cognitivecomputations/chat-logger) |A straightforward utility that enables the creation of a JSONL dataset from messages exchanged between the user and the API. |
 |[The ChatGPT secret: is that text message from your friend, your lover – or a robot?](https://www.theguardian.com/technology/2024/dec/03/the-chatgpt-secret-is-that-text-message-from-your-friend-your-lover-or-a-robot) | People are turning to chatbots to solve all their life problems, and they like its answers. But are they on a very slippery slope?|
-|[.]() | |
+|[A System of Agents brings Service-as-Software to life.](https://foundationcapital.com/system-of-agents/) |AI is evolving software from a tool into autonomous agents capable of performing tasks traditionally handled by humans, representing a projected $4.6 trillion market opportunity. Advancements like LLMs and agents empower AI systems to handle unstructured data, make decisions, and operate independently in sectors such as sales and healthcare. The future of AI envisions Systems of Agents working collaboratively and learning from one another, akin to a highly skilled team delivering seamless services. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
