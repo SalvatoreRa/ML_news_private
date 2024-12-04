@@ -86,6 +86,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI gets new $1.5 billion investment from SoftBank, allowing employees to sell shares in a tender offer.](https://www.cnbc.com/2024/11/26/openai-gets-1point5-billion-investment-from-softbank-in-tender-offer.html) |OpenAI is allowing employees to sell about $1.5 billion worth of shares in a new tender offer to SoftBank, CNBC has learned. SoftBank’s latest investment adds to OpenAI’s recent $6.6 billion funding round at a $157 billion valuation. The deal was spurred by SoftBank billionaire founder and CEO Masayoshi Son, who was persistent in asking for a larger stake in the company, a person familiar with the matter said.|
 |[ChatGPT’s refusal to acknowledge ‘David Mayer’ down to glitch, says OpenAI.](https://www.theguardian.com/technology/2024/dec/03/chatgpts-refusal-to-acknowledge-david-mayer-down-to-glitch-says-openai) | Name was mistakenly flagged and prevented from appearing in responses, says chatbot’s developer|
 |[Smartphones should carry health warning, Spanish government told.](https://www.theguardian.com/technology/2024/dec/03/smartphones-should-carry-health-warning-spanish-government-told) |Report by committee of experts also calls for doctors to ask about screen time during checkups |
+|[Meta says it has taken down about 20 covert influence operations in 2024.](https://www.theguardian.com/technology/2024/dec/03/meta-says-it-has-taken-down-about-20-covert-influence-operations-in-2024) | Firm names Russia as top source of such activity but says it is ‘striking’ how little AI was used to try to trick voters|
+|[Why Silicon Valley panicked over Australia’s under-16 social media ban.](https://www.theguardian.com/technology/2024/dec/02/australia-social-media-children-ban) |Australia’s children account for a tiny portion of users but tech companies worry about the law setting a precedent |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
