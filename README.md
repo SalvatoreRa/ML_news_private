@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta says it has taken down about 20 covert influence operations in 2024.](https://www.theguardian.com/technology/2024/dec/03/meta-says-it-has-taken-down-about-20-covert-influence-operations-in-2024) | Firm names Russia as top source of such activity but says it is ‘striking’ how little AI was used to try to trick voters|
 |[Why Silicon Valley panicked over Australia’s under-16 social media ban.](https://www.theguardian.com/technology/2024/dec/02/australia-social-media-children-ban) |Australia’s children account for a tiny portion of users but tech companies worry about the law setting a precedent |
 |[Chip war ramps up with new US semiconductor restrictions on China.](https://www.theguardian.com/us-news/2024/dec/03/joe-biden-china-microchip-export-restrictions-law-changes) | Biden administration broadens limits on Chinese access to advanced microchip technology, with Donald Trump expected to go even further|
-|[.]() | |
-|[.]() | |
+|[Eleven Labs Conversational AI.](https://elevenlabs.io/conversational-ai) | Eleven Labs has introduced a new conversational AI service designed as a comprehensive solution for creating conversational agents. It employs multiple LLMs on the backend and integrates smoothly with a diverse range of specialized voices.|
+|[Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock.](https://www.anthropic.com/news/trainium2-and-distillation) | Claude models are being tailored for AWS's advanced Trainium2 AI chips, allowing for faster and more efficient performance. Claude 3.5 Haiku is now accessible on AWS Trainium2 and supports model distillation in Amazon Bedrock.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
