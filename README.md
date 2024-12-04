@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Smartphones should carry health warning, Spanish government told.](https://www.theguardian.com/technology/2024/dec/03/smartphones-should-carry-health-warning-spanish-government-told) |Report by committee of experts also calls for doctors to ask about screen time during checkups |
 |[Meta says it has taken down about 20 covert influence operations in 2024.](https://www.theguardian.com/technology/2024/dec/03/meta-says-it-has-taken-down-about-20-covert-influence-operations-in-2024) | Firm names Russia as top source of such activity but says it is ‘striking’ how little AI was used to try to trick voters|
 |[Why Silicon Valley panicked over Australia’s under-16 social media ban.](https://www.theguardian.com/technology/2024/dec/02/australia-social-media-children-ban) |Australia’s children account for a tiny portion of users but tech companies worry about the law setting a precedent |
-|[.]() | |
+|[Chip war ramps up with new US semiconductor restrictions on China.](https://www.theguardian.com/us-news/2024/dec/03/joe-biden-china-microchip-export-restrictions-law-changes) | Biden administration broadens limits on Chinese access to advanced microchip technology, with Donald Trump expected to go even further|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Salesforce CEO Marc Benioff Has Thoughts on AI Agents, Automation, And The Future of Your Job.](https://www.bigtechnology.com/p/salesforce-ceo-marc-benioff-has-thoughts) |Salesforce CEO Marc Benioff foresees companies using AI agents to manage customer service and sales by utilizing their existing data and policies, with Salesforce serving as a central enabler of this change. He contends that AI-driven automation will boost productivity rather than replace jobs, enabling businesses to grow and operate more efficiently without adding human labor. Benioff emphasizes this transition as a pivotal moment in business evolution, offering a competitive advantage and transforming traditional workflows. |
 |[Reward Hacking in Reinforcement Learning.](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/) | Lilian Weng has published an insightful blog post on the issue of Reward Hacking in language model alignment, a key challenge hindering the deployment of models in production environments.|
 |[Create JSONL dataset from API chat logs.](https://github.com/cognitivecomputations/chat-logger) |A straightforward utility that enables the creation of a JSONL dataset from messages exchanged between the user and the API. |
-|[.]() | |
+|[The ChatGPT secret: is that text message from your friend, your lover – or a robot?](https://www.theguardian.com/technology/2024/dec/03/the-chatgpt-secret-is-that-text-message-from-your-friend-your-lover-or-a-robot) | People are turning to chatbots to solve all their life problems, and they like its answers. But are they on a very slippery slope?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
