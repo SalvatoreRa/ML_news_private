@@ -125,8 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s plan to keep AI out of search trial remedies isn’t going very well.](https://arstechnica.com/tech-policy/2024/11/google-drags-ai-rivals-into-search-trial-as-judge-entertains-ai-remedies/) | US District Judge Amit Mehta indicates that AI could be pivotal in shaping remedies after the government's win in the Google search monopoly trial, potentially impacting Google's AI products. The DOJ has proposed measures to prevent Google from leveraging AI to maintain market dominance, including limits on exclusive agreements and AI investments. Microsoft opposes Google's requests for confidential AI deal details, citing irrelevance, while OpenAI may face pressure to disclose data in this context.|
 |[Using uv with PyTorch.](https://docs.astral.sh/uv/guides/integration/pytorch/) |Documentation on how to use the new package manager UV to install PyTorch. |
 |[Amazon Launches Nova.](https://aws.amazon.com/it/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/) | Amazon Nova unveils a series of multimodal models tailored for tasks such as document analysis, visual comprehension, and creative content generation. Prioritizing customization and efficiency, Nova models address various enterprise needs and excel in handling text, image, and video inputs.|
-|[.]() | |
-|[.]() | |
+|[Restructuring Vector Quantization with the Rotation Trick.](https://arxiv.org/abs/2410.06424) |Vector Quantization uses the Straight Through Gradient estimator for gradient estimation, though its direction can occasionally be inaccurate. This paper proposes using rotation to correct the gradients and enhance codebook utilization. |
+|[Layout Generation with Diffusion GANs.](https://arxiv.org/abs/2412.00381v1) | DogLayout is a hybrid model integrating GANs with diffusion processes to address challenges in layout generation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
