@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Study: 94% Of AI-Generated College Writing Is Undetected By Teachers.](https://www.forbes.com/sites/dereknewton/2024/11/30/study-94-of-ai-generated-college-writing-is-undetected-by-teachers/) | Increasingly, homework and exam writing are being done by generative AI instead of students, turned in and passed off as authentic work for grades, credit, and degrees. |
 |[Mapping the ionosphere with the power of Android.](https://research.google/blog/mapping-the-ionosphere-with-the-power-of-android/) | Google researchers successfully mapped the Ionosphere using GPS fluctuations combined with innovative algorithms. This approach, which is typically costly and time-intensive, offers potential benefits for various climate solutions.|
 |[DeMo: Decoupled Momentum Optimization.](https://arxiv.org/abs/2411.19870) |2.5x faster and requiring 100x less communication, this new optimizer, developed by the original Adam author, delivers significant performance gains for language model training, surpassing existing optimization methods. |
-|[.]() | |
+|[Diffusion Meets Flow Matching: Two Sides of the Same Coin.](https://diffusionflow.github.io/) |This post explores the literature and demonstrates that, mathematically, flow matching and diffusion models are equivalent. However, flow matching appears to scale more effectively in practice. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Making AI Datasets More Diverse.](https://github.com/vila-lab/delt) |Researchers proposed a new approach, Diversity-driven EarlyLate Training (DELT), to enhance dataset distillation for large-scale tasks. |
 |[Google’s plan to keep AI out of search trial remedies isn’t going very well.](https://arstechnica.com/tech-policy/2024/11/google-drags-ai-rivals-into-search-trial-as-judge-entertains-ai-remedies/) | US District Judge Amit Mehta indicates that AI could be pivotal in shaping remedies after the government's win in the Google search monopoly trial, potentially impacting Google's AI products. The DOJ has proposed measures to prevent Google from leveraging AI to maintain market dominance, including limits on exclusive agreements and AI investments. Microsoft opposes Google's requests for confidential AI deal details, citing irrelevance, while OpenAI may face pressure to disclose data in this context.|
 |[Using uv with PyTorch.](https://docs.astral.sh/uv/guides/integration/pytorch/) |Documentation on how to use the new package manager UV to install PyTorch. |
-|[.]() | |
+|[Amazon Launches Nova.](https://aws.amazon.com/it/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/) | Amazon Nova unveils a series of multimodal models tailored for tasks such as document analysis, visual comprehension, and creative content generation. Prioritizing customization and efficiency, Nova models address various enterprise needs and excel in handling text, image, and video inputs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
