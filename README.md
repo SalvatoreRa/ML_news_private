@@ -127,9 +127,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon Launches Nova.](https://aws.amazon.com/it/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/) | Amazon Nova unveils a series of multimodal models tailored for tasks such as document analysis, visual comprehension, and creative content generation. Prioritizing customization and efficiency, Nova models address various enterprise needs and excel in handling text, image, and video inputs.|
 |[Restructuring Vector Quantization with the Rotation Trick.](https://arxiv.org/abs/2410.06424) |Vector Quantization uses the Straight Through Gradient estimator for gradient estimation, though its direction can occasionally be inaccurate. This paper proposes using rotation to correct the gradients and enhance codebook utilization. |
 |[Layout Generation with Diffusion GANs.](https://arxiv.org/abs/2412.00381v1) | DogLayout is a hybrid model integrating GANs with diffusion processes to address challenges in layout generation.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Hunyuan Video Model.](https://github.com/Tencent/HunyuanVideo) |Tencent's state-of-the-art open video model stands out for its realistic motion and dual training as both a video and image generation model. This dual approach enhances the aesthetic quality of its output, making it comparable to image generation models like Flux. |
+|[Scene Text Recognition.](https://github.com/YesianRohn/TextSSR) |TextSSR is a framework leveraging diffusion-based techniques to produce precise and realistic synthetic text images for scene text recognition. |
+|[T2Vid: Efficient Video Fine-tuning Scheme for MLLMs.](https://github.com/xjtupanda/t2vid) |T2Vid is a novel approach aimed at enhancing video comprehension in Multimodal Large Language Models (MLLMs). It creates video-like samples to diversify training instructions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
