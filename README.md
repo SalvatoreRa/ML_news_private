@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scene Text Recognition.](https://github.com/YesianRohn/TextSSR) |TextSSR is a framework leveraging diffusion-based techniques to produce precise and realistic synthetic text images for scene text recognition. |
 |[T2Vid: Efficient Video Fine-tuning Scheme for MLLMs.](https://github.com/xjtupanda/t2vid) |T2Vid is a novel approach aimed at enhancing video comprehension in Multimodal Large Language Models (MLLMs). It creates video-like samples to diversify training instructions. |
 |[aisuite.](https://github.com/andrewyng/aisuite) | aisuite offers a unified interface for seamless interaction with multiple LLM providers, enabling developers to test and compare outputs without modifying their code.|
-|[.]() | |
-|[.]() | |
+|[Motion Prompting: Controlling Video Generation with Motion Trajectories.](https://motion-prompting.github.io/) |Motion Prompting is a technique for training video generation models using novel input types, including text, the first image frame, and a pixel tracking field. This enables innovative control during inference, allowing for new pixel fields (e.g., indicating an object moving in a different direction) to generate corresponding videos. While highly compelling, the method is not open source. |
+|[Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey.](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm) |This repository provides an extensive survey on the use of Vision-Language Models (VLMs) in remote sensing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
