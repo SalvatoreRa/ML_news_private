@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The ChatGPT secret: is that text message from your friend, your lover – or a robot?](https://www.theguardian.com/technology/2024/dec/03/the-chatgpt-secret-is-that-text-message-from-your-friend-your-lover-or-a-robot) | People are turning to chatbots to solve all their life problems, and they like its answers. But are they on a very slippery slope?|
 |[A System of Agents brings Service-as-Software to life.](https://foundationcapital.com/system-of-agents/) |AI is evolving software from a tool into autonomous agents capable of performing tasks traditionally handled by humans, representing a projected $4.6 trillion market opportunity. Advancements like LLMs and agents empower AI systems to handle unstructured data, make decisions, and operate independently in sectors such as sales and healthcare. The future of AI envisions Systems of Agents working collaboratively and learning from one another, akin to a highly skilled team delivering seamless services. |
 |[Over ½ of Long Posts on LinkedIn are Likely AI-Generated Since ChatGPT Launched.](https://originality.ai/blog/ai-content-published-linkedin) | Since the launch of ChatGPT, LinkedIn has experienced a 189% increase in AI-generated content, with more than half of long-form posts now probably AI-created.|
-|[.]() | |
+|[AI’s computing gap: academics lack access to powerful chips needed for research.](https://www.nature.com/articles/d41586-024-03792-6) | Survey highlights disparity between academic and industry scientists’ access to computing power needed to train machine-learning models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
