@@ -141,9 +141,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[aisuite.](https://github.com/andrewyng/aisuite) | aisuite offers a unified interface for seamless interaction with multiple LLM providers, enabling developers to test and compare outputs without modifying their code.|
 |[Motion Prompting: Controlling Video Generation with Motion Trajectories.](https://motion-prompting.github.io/) |Motion Prompting is a technique for training video generation models using novel input types, including text, the first image frame, and a pixel tracking field. This enables innovative control during inference, allowing for new pixel fields (e.g., indicating an object moving in a different direction) to generate corresponding videos. While highly compelling, the method is not open source. |
 |[Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey.](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm) |This repository provides an extensive survey on the use of Vision-Language Models (VLMs) in remote sensing. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ImplicitPRM.](https://github.com/lifan-yuan/ImplicitPRM) |Process reward models (PRMs) provide detailed feedback by assessing reasoning step-by-step, unlike outcome reward models (ORMs), which evaluate complete responses. However, training PRMs demands detailed intermediate annotations, making it challenging. This paper demonstrates that an implicit PRM can be obtained at no extra cost by training an ORM on response-level labels, utilizing log-likelihood ratios between policy and reference models, thereby enabling optimization without specific loss objectives. |
+|[Unsloth - Dynamic 4-bit Quantization.](https://unsloth.ai/blog/dynamic-4bit) | The Unsloth team seeks to compress a 20GB language model into 5GB while maintaining accuracy. Although various algorithms attempt this, challenges arise with outliers and compressibility. Llama, known for its difficulty in quantization, is addressed by selectively avoiding the quantization of specific parameters, significantly enhancing overall accuracy.|
+|[AccDiffusion v2: Tackling Repetitive Image Generation.](https://github.com/lzhxmu/accdiffusion_v2) |AccDiffusion v2 enhances diffusion models for generating high-resolution images without requiring additional training, resolving issues such as object repetition and local distortions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
