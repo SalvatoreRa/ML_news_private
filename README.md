@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta's Nuclear Energy Plans.](https://sustainability.atmeta.com/blog/2024/12/03/accelerating-the-next-wave-of-nuclear-to-power-ai-innovation/) |Meta revealed plans to partner with nuclear energy developers through a new request for proposals, aiming to add 1-4 gigawatts of nuclear capacity in the U.S. to bolster its AI innovation and sustainability initiatives. |
 |[AWS Reinvent Top Announcements.](https://aws.amazon.com/it/blogs/aws/top-announcements-of-aws-reinvent-2024/) |At AWS re:Invent 2024, AWS announced enhancements to its Bedrock LLM service, including the introduction of prompt routing and caching features. |
 |[Certain names make ChatGPT grind to a halt, and we know why.](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/) |OpenAI's ChatGPT uses hard-coded filters to prevent generating false statements about certain individuals, causing disruptions in conversations when those names are mentioned. This measure, introduced after incidents like defamation lawsuits against OpenAI, restricts outputs related to sensitive names. However, these filters limit ChatGPT's functionality and make it susceptible to adversarial attacks. |
-|[.]() | |
+|[World Labs’ AI can generate interactive 3D scenes from a single photo.](https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/) |World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled its first project: an AI system that can generate video game-like, 3D scenes from a single image. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
