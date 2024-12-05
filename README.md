@@ -94,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Music Is More Realistic Than Ever: Meet Suno's New Model.](https://www.rollingstone.com/music/music-features/ai-music-generator-new-model-suno-1235172581/) |Suno has become the fifth most-used generative AI service with its realistic AI music model V4, despite facing a copyright lawsuit. The model improves user experience by focusing on human preferences, offering enhanced sound quality and advanced composition skills. Suno aims to advance AI-human music collaboration while addressing copyright concerns with the recording industry. |
 |[Bluesky’s open API means anyone can scrape your data for AI training.](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/) |Bluesky might not be training AI systems on user content as other social networks are doing, but there’s little stopping third parties from doing so. |
 |[Google launches the London AI Campus.](https://blog.google/around-the-globe/google-europe/united-kingdom/google-launches-ai-campus-london/) | The AI Campus is a pilot program aimed at fostering and diversifying the next generation of local AI talent.|
-|[.]() | |
-|[.]() | |
+|[OpenAI 12 days of Shipmas.](https://threadreaderapp.com/thread/1864335461268754712.html) |OpenAI will be having 12 live streams over the next 12 days to ship new product and model features. |
+|[Meta's Nuclear Energy Plans.](https://sustainability.atmeta.com/blog/2024/12/03/accelerating-the-next-wave-of-nuclear-to-power-ai-innovation/) |Meta revealed plans to partner with nuclear energy developers through a new request for proposals, aiming to add 1-4 gigawatts of nuclear capacity in the U.S. to bolster its AI innovation and sustainability initiatives. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
