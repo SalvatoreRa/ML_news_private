@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mapping the ionosphere with the power of Android.](https://research.google/blog/mapping-the-ionosphere-with-the-power-of-android/) | Google researchers successfully mapped the Ionosphere using GPS fluctuations combined with innovative algorithms. This approach, which is typically costly and time-intensive, offers potential benefits for various climate solutions.|
 |[DeMo: Decoupled Momentum Optimization.](https://arxiv.org/abs/2411.19870) |2.5x faster and requiring 100x less communication, this new optimizer, developed by the original Adam author, delivers significant performance gains for language model training, surpassing existing optimization methods. |
 |[Diffusion Meets Flow Matching: Two Sides of the Same Coin.](https://diffusionflow.github.io/) |This post explores the literature and demonstrates that, mathematically, flow matching and diffusion models are equivalent. However, flow matching appears to scale more effectively in practice. |
-|[.]() | |
+|[Genie 2: A large-scale foundation world model.](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |Genie 2 is a large-scale latent diffusion model designed for world generation. It accepts character control as input, operates without a classifier, and produces stunning outputs with consistent control over time. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,6 +96,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google launches the London AI Campus.](https://blog.google/around-the-globe/google-europe/united-kingdom/google-launches-ai-campus-london/) | The AI Campus is a pilot program aimed at fostering and diversifying the next generation of local AI talent.|
 |[OpenAI 12 days of Shipmas.](https://threadreaderapp.com/thread/1864335461268754712.html) |OpenAI will be having 12 live streams over the next 12 days to ship new product and model features. |
 |[Meta's Nuclear Energy Plans.](https://sustainability.atmeta.com/blog/2024/12/03/accelerating-the-next-wave-of-nuclear-to-power-ai-innovation/) |Meta revealed plans to partner with nuclear energy developers through a new request for proposals, aiming to add 1-4 gigawatts of nuclear capacity in the U.S. to bolster its AI innovation and sustainability initiatives. |
+|[AWS Reinvent Top Announcements.](https://aws.amazon.com/it/blogs/aws/top-announcements-of-aws-reinvent-2024/) |At AWS re:Invent 2024, AWS announced enhancements to its Bedrock LLM service, including the introduction of prompt routing and caching features. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
