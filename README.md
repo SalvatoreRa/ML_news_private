@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI 12 days of Shipmas.](https://threadreaderapp.com/thread/1864335461268754712.html) |OpenAI will be having 12 live streams over the next 12 days to ship new product and model features. |
 |[Meta's Nuclear Energy Plans.](https://sustainability.atmeta.com/blog/2024/12/03/accelerating-the-next-wave-of-nuclear-to-power-ai-innovation/) |Meta revealed plans to partner with nuclear energy developers through a new request for proposals, aiming to add 1-4 gigawatts of nuclear capacity in the U.S. to bolster its AI innovation and sustainability initiatives. |
 |[AWS Reinvent Top Announcements.](https://aws.amazon.com/it/blogs/aws/top-announcements-of-aws-reinvent-2024/) |At AWS re:Invent 2024, AWS announced enhancements to its Bedrock LLM service, including the introduction of prompt routing and caching features. |
-|[.]() | |
+|[Certain names make ChatGPT grind to a halt, and we know why.](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/) |OpenAI's ChatGPT uses hard-coded filters to prevent generating false statements about certain individuals, causing disruptions in conversations when those names are mentioned. This measure, introduced after incidents like defamation lawsuits against OpenAI, restricts outputs related to sensitive names. However, these filters limit ChatGPT's functionality and make it susceptible to adversarial attacks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,6 +144,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ImplicitPRM.](https://github.com/lifan-yuan/ImplicitPRM) |Process reward models (PRMs) provide detailed feedback by assessing reasoning step-by-step, unlike outcome reward models (ORMs), which evaluate complete responses. However, training PRMs demands detailed intermediate annotations, making it challenging. This paper demonstrates that an implicit PRM can be obtained at no extra cost by training an ORM on response-level labels, utilizing log-likelihood ratios between policy and reference models, thereby enabling optimization without specific loss objectives. |
 |[Unsloth - Dynamic 4-bit Quantization.](https://unsloth.ai/blog/dynamic-4bit) | The Unsloth team seeks to compress a 20GB language model into 5GB while maintaining accuracy. Although various algorithms attempt this, challenges arise with outliers and compressibility. Llama, known for its difficulty in quantization, is addressed by selectively avoiding the quantization of specific parameters, significantly enhancing overall accuracy.|
 |[AccDiffusion v2: Tackling Repetitive Image Generation.](https://github.com/lzhxmu/accdiffusion_v2) |AccDiffusion v2 enhances diffusion models for generating high-resolution images without requiring additional training, resolving issues such as object repetition and local distortions. |
+|[Optimizing AI Inference at Character.AI.](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/) | Character AI features a robust inference pipeline. This post explores their implementation of int8 quantization and flash attention 3, offering valuable insights for those interested in scaling large language models.|
+|[Flow.](https://github.com/lmnr-ai/flow) |Flow is a lightweight engine for creating flexible AI workflows using dynamic task scheduling and concurrent execution. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -171,7 +177,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Over ½ of Long Posts on LinkedIn are Likely AI-Generated Since ChatGPT Launched.](https://originality.ai/blog/ai-content-published-linkedin) | Since the launch of ChatGPT, LinkedIn has experienced a 189% increase in AI-generated content, with more than half of long-form posts now probably AI-created.|
 |[AI’s computing gap: academics lack access to powerful chips needed for research.](https://www.nature.com/articles/d41586-024-03792-6) | Survey highlights disparity between academic and industry scientists’ access to computing power needed to train machine-learning models.|
 |['Brutal’ math test stumps AI but not human experts.](https://www.science.org/content/article/brutal-math-test-stumps-ai-not-human-experts) |Benchmark shows humans can still top machines—but for how much longer? |
-|[.]() | |
+|[Finetuning LLM Judges for Evaluation.](https://cameronrwolfe.substack.com/p/finetuned-judge) |Evaluating LLMs is challenging due to their complex, open-ended outputs. While traditional human evaluation provides detailed insights, it is inefficient. Therefore, scalable assessments using automatic metrics and model-based approaches like LLM-as-a-Judge are essential. Innovations such as fine-tuned judges (e.g., Prometheus) and synthetic data generation are improving evaluation precision and adaptability across various tasks and domains. |
+|[The Gen AI Bridge to the Future.](https://stratechery.com/2024/the-gen-ai-bridge-to-the-future/) |Generative AI is set to revolutionize wearable technology by creating on-demand UI interfaces that adapt to user needs and context. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
