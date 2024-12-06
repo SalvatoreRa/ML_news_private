@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[World Labs’ AI can generate interactive 3D scenes from a single photo.](https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/) |World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled its first project: an AI system that can generate video game-like, 3D scenes from a single image. |
 |[bias found in AI system used to detect UK benefits fraud.](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits) |Age, disability, marital status and nationality influence decisions to investigate claims, prompting fears of ‘hurt first, fix later’ approach |
 |[How AI monitoring is cutting stillbirths and neonatal deaths in a clinic in Malawi.](https://www.theguardian.com/global-development/2024/dec/06/how-ai-monitoring-is-cutting-stillbirths-and-neonatal-deaths-in-a-clinic-in-malawi) |The only hospital in the country using foetal safety software has seen baby fatalities drop by 82% in three years |
-|[.]() | |
-|[.]() | |
+|[Windows 11 loses customers amid the world's most popular OS gaining traction.](https://www.tweaktown.com/news/101966/windows-11-loses-customers-amid-the-worlds-most-popular-os-gaining-traction/index.html) | Despite Microsoft's push to move Windows 10 users to Windows 11, Redmond's latest operating system is losing marketshare to its predecessor.|
+|[Stop using generative AI as a search engine.](https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire) |A fake presidential pardon explains why you can’t trust robots with the news. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
