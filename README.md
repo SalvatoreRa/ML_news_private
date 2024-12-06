@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How AI monitoring is cutting stillbirths and neonatal deaths in a clinic in Malawi.](https://www.theguardian.com/global-development/2024/dec/06/how-ai-monitoring-is-cutting-stillbirths-and-neonatal-deaths-in-a-clinic-in-malawi) |The only hospital in the country using foetal safety software has seen baby fatalities drop by 82% in three years |
 |[Windows 11 loses customers amid the world's most popular OS gaining traction.](https://www.tweaktown.com/news/101966/windows-11-loses-customers-amid-the-worlds-most-popular-os-gaining-traction/index.html) | Despite Microsoft's push to move Windows 10 users to Windows 11, Redmond's latest operating system is losing marketshare to its predecessor.|
 |[Stop using generative AI as a search engine.](https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire) |A fake presidential pardon explains why you can’t trust robots with the news. |
-|[.]() | |
-|[.]() | |
+|[Soon, the tech behind ChatGPT may help drone operators decide which enemies to kill.](https://arstechnica.com/ai/2024/12/openai-and-anduril-team-up-to-build-ai-powered-drone-defense-systems/) |OpenAI and Palmer Luckey's weapons company sign agreement to explore lethal drone defense for military use. |
+|[Google Says AI Weather Model Masters 15-day Forecast.](https://www.barrons.com/news/google-says-ai-weather-model-masters-15-day-forecast-cdc5793d) |A new artificial intelligence-based weather model can deliver 15-day forecasts with unrivaled accuracy and speed, a Google lab said, with potentially life-saving applications as climate change ramps up. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
