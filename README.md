@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeMo: Decoupled Momentum Optimization.](https://arxiv.org/abs/2411.19870) |2.5x faster and requiring 100x less communication, this new optimizer, developed by the original Adam author, delivers significant performance gains for language model training, surpassing existing optimization methods. |
 |[Diffusion Meets Flow Matching: Two Sides of the Same Coin.](https://diffusionflow.github.io/) |This post explores the literature and demonstrates that, mathematically, flow matching and diffusion models are equivalent. However, flow matching appears to scale more effectively in practice. |
 |[Genie 2: A large-scale foundation world model.](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |Genie 2 is a large-scale latent diffusion model designed for world generation. It accepts character control as input, operates without a classifier, and produces stunning outputs with consistent control over time. |
-|[.]() | |
+|[Virtual lab powered by ‘AI scientists’ super-charges biomedical research.](https://www.nature.com/articles/d41586-024-01684-3) |Could human–AI collaborations be the future of interdisciplinary studies? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
