@@ -105,6 +105,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stop using generative AI as a search engine.](https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire) |A fake presidential pardon explains why you can’t trust robots with the news. |
 |[Soon, the tech behind ChatGPT may help drone operators decide which enemies to kill.](https://arstechnica.com/ai/2024/12/openai-and-anduril-team-up-to-build-ai-powered-drone-defense-systems/) |OpenAI and Palmer Luckey's weapons company sign agreement to explore lethal drone defense for military use. |
 |[Google Says AI Weather Model Masters 15-day Forecast.](https://www.barrons.com/news/google-says-ai-weather-model-masters-15-day-forecast-cdc5793d) |A new artificial intelligence-based weather model can deliver 15-day forecasts with unrivaled accuracy and speed, a Google lab said, with potentially life-saving applications as climate change ramps up. |
+|[Perplexity Expanding It's Publisher's Program.](https://www.perplexity.ai/hub/blog/perplexity-expands-publisher-program-with-15-new-media-partners) |Perplexity has expanded its Publishers' Program by partnering with over a dozen international news organizations, providing tools, revenue sharing, and support to enhance collaboration with global media. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -146,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AccDiffusion v2: Tackling Repetitive Image Generation.](https://github.com/lzhxmu/accdiffusion_v2) |AccDiffusion v2 enhances diffusion models for generating high-resolution images without requiring additional training, resolving issues such as object repetition and local distortions. |
 |[Optimizing AI Inference at Character.AI.](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/) | Character AI features a robust inference pipeline. This post explores their implementation of int8 quantization and flash attention 3, offering valuable insights for those interested in scaling large language models.|
 |[Flow.](https://github.com/lmnr-ai/flow) |Flow is a lightweight engine for creating flexible AI workflows using dynamic task scheduling and concurrent execution. |
-|[.]() | |
+|[OpenAI o1 System Card.](https://openai.com/index/openai-o1-system-card/) | This report details the safety measures undertaken before releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk assessments aligned with OpenAI's Preparedness Framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
