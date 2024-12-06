@@ -192,7 +192,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |['Brutal’ math test stumps AI but not human experts.](https://www.science.org/content/article/brutal-math-test-stumps-ai-not-human-experts) |Benchmark shows humans can still top machines—but for how much longer? |
 |[Finetuning LLM Judges for Evaluation.](https://cameronrwolfe.substack.com/p/finetuned-judge) |Evaluating LLMs is challenging due to their complex, open-ended outputs. While traditional human evaluation provides detailed insights, it is inefficient. Therefore, scalable assessments using automatic metrics and model-based approaches like LLM-as-a-Judge are essential. Innovations such as fine-tuned judges (e.g., Prometheus) and synthetic data generation are improving evaluation precision and adaptability across various tasks and domains. |
 |[The Gen AI Bridge to the Future.](https://stratechery.com/2024/the-gen-ai-bridge-to-the-future/) |Generative AI is set to revolutionize wearable technology by creating on-demand UI interfaces that adapt to user needs and context. |
-|[.]() | |
+|[Sam Altman Says Artificial General Intelligence Is on the Horizon.](https://www.nytimes.com/video/business/100000009858580/sam-altman-openai-dealbook.html) |Speaking at The New York Times DealBook Summit, Sam Altman, the chief executive of OpenAI, said that the arrival of artificial general intelligence would “matter much less” to the average person than currently thought. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
