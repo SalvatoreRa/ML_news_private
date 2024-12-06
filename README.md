@@ -161,8 +161,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anagram-MTL.](https://github.com/pixtella/anagram-mtl) | visual anagram generation - images that change appearance when flipped or rotated -using diffusion models|
 |[ScoreLiDAR.](https://github.com/happyw1nd/scorelidar) |ScoreLiDAR is a new method that speeds up 3D LiDAR scene completion for autonomous vehicles. |
 |[New Fish Audio Model.](https://threadreaderapp.com/thread/1864370933496205728.html) | Fish Audio 1.5 is currently ranked #2 on the Text-to-Speech Leaderboards, just behind ElevenLabs. It supports voice cloning and runs quickly, though the output quality can be inconsistent.|
-|[.]() | |
-|[.]() | |
+|[Deepthought-8B.](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha) |Deepthought-8B is a small and capable reasoning model built on LLaMA-3.1 8B, designed to make AI reasoning more transparent and controllable. Despite its relatively small size, it achieves sophisticated reasoning capabilities that rival much larger models. |
+|[LLM-Brained GUI Agents.](https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/) |A Collection of Research Papers and Projects in: Large Language Model-Brained GUI Agents: A Survey. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
