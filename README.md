@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Says AI Weather Model Masters 15-day Forecast.](https://www.barrons.com/news/google-says-ai-weather-model-masters-15-day-forecast-cdc5793d) |A new artificial intelligence-based weather model can deliver 15-day forecasts with unrivaled accuracy and speed, a Google lab said, with potentially life-saving applications as climate change ramps up. |
 |[Perplexity Expanding It's Publisher's Program.](https://www.perplexity.ai/hub/blog/perplexity-expands-publisher-program-with-15-new-media-partners) |Perplexity has expanded its Publishers' Program by partnering with over a dozen international news organizations, providing tools, revenue sharing, and support to enhance collaboration with global media. |
 |[DeepMind’s Genie 2 can generate interactive worlds that look like video games.](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/) |DeepMind, Google’s AI research org, has unveiled a model that can generate an “endless” variety of playable 3D worlds. Called Genie 2, the model — the successor to DeepMind’s Genie, which was released earlier this year — can generate an interactive, real-time scene from a single image and text description (e.g. “A cute humanoid robot in the woods”). |
-|[.]() | |
+|[Key leaders behind Google’s viral NotebookLM are leaving to create their own startup.](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) |Three core members of Google NotebookLM have departed to launch a new stealth AI startup. The venture intends to use cutting-edge AI models to develop consumer-oriented, user-focused AI products. It is still in its early stages, with no defined focus or disclosed funding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -160,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google DeepMind GraphCast and GenCast.](https://github.com/google-deepmind/graphcast) |DeepMind has open-sourced its GraphCast algorithm, which significantly outperforms and accelerates localized weather predictions for up to 36 hours, operating in a fraction of the time required by other methods. |
 |[Anagram-MTL.](https://github.com/pixtella/anagram-mtl) | visual anagram generation - images that change appearance when flipped or rotated -using diffusion models|
 |[ScoreLiDAR.](https://github.com/happyw1nd/scorelidar) |ScoreLiDAR is a new method that speeds up 3D LiDAR scene completion for autonomous vehicles. |
-|[.]() | |
+|[New Fish Audio Model.](https://threadreaderapp.com/thread/1864370933496205728.html) | Fish Audio 1.5 is currently ranked #2 on the Text-to-Speech Leaderboards, just behind ElevenLabs. It supports voice cloning and runs quickly, though the output quality can be inconsistent.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
