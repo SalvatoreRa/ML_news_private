@@ -155,8 +155,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Flow.](https://github.com/lmnr-ai/flow) |Flow is a lightweight engine for creating flexible AI workflows using dynamic task scheduling and concurrent execution. |
 |[OpenAI o1 System Card.](https://openai.com/index/openai-o1-system-card/) | This report details the safety measures undertaken before releasing OpenAI o1 and o1-mini, including external red teaming and frontier risk assessments aligned with OpenAI's Preparedness Framework.|
 |[PaliGemma 2: A Family of Versatile VLMs for Transfer.](https://arxiv.org/abs/2412.03555) |Paligemma 2 is among the top Vision-Language Models (VLMs) available today, utilizing SigLIP and Gemma technologies. |
-|[.]() | |
-|[.]() | |
+|[ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification.](https://arxiv.org/abs/2412.02044v1) |The Asymmetric Semantic Aligning Network (ASANet) improves land cover classification using both SAR and RGB images. |
+|[AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning.](https://arxiv.org/abs/2412.03248v1) | Researchers have created a training-free method to enhance the efficiency of multi-modal language models (LLMs) with minimal performance loss. Their technique reduces computational demands by up to sevenfold through strategic merging and pruning of visual data tokens.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
