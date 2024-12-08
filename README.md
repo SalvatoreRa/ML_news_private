@@ -55,16 +55,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion Meets Flow Matching: Two Sides of the Same Coin.](https://diffusionflow.github.io/) |This post explores the literature and demonstrates that, mathematically, flow matching and diffusion models are equivalent. However, flow matching appears to scale more effectively in practice. |
 |[Genie 2: A large-scale foundation world model.](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |Genie 2 is a large-scale latent diffusion model designed for world generation. It accepts character control as input, operates without a classifier, and produces stunning outputs with consistent control over time. |
 |[Virtual lab powered by ‘AI scientists’ super-charges biomedical research.](https://www.nature.com/articles/d41586-024-01684-3) |Could human–AI collaborations be the future of interdisciplinary studies? |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -109,17 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMind’s Genie 2 can generate interactive worlds that look like video games.](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/) |DeepMind, Google’s AI research org, has unveiled a model that can generate an “endless” variety of playable 3D worlds. Called Genie 2, the model — the successor to DeepMind’s Genie, which was released earlier this year — can generate an interactive, real-time scene from a single image and text description (e.g. “A cute humanoid robot in the woods”). |
 |[Key leaders behind Google’s viral NotebookLM are leaving to create their own startup.](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) |Three core members of Google NotebookLM have departed to launch a new stealth AI startup. The venture intends to use cutting-edge AI models to develop consumer-oriented, user-focused AI products. It is still in its early stages, with no defined focus or disclosed funding. |
 |[Bezos says he is ‘very optimistic’ about Trump’s plan to roll back regulations.](https://www.theguardian.com/technology/2024/dec/05/jeff-bezos-trump-regulations-tech) | Amazon billionaire known for previously frosty relations with president-elect signals willingness to collaborate|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -163,15 +143,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New Fish Audio Model.](https://threadreaderapp.com/thread/1864370933496205728.html) | Fish Audio 1.5 is currently ranked #2 on the Text-to-Speech Leaderboards, just behind ElevenLabs. It supports voice cloning and runs quickly, though the output quality can be inconsistent.|
 |[Deepthought-8B.](https://huggingface.co/ruliad/deepthought-8b-llama-v0.01-alpha) |Deepthought-8B is a small and capable reasoning model built on LLaMA-3.1 8B, designed to make AI reasoning more transparent and controllable. Despite its relatively small size, it achieves sophisticated reasoning capabilities that rival much larger models. |
 |[LLM-Brained GUI Agents.](https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/) |A Collection of Research Papers and Projects in: Large Language Model-Brained GUI Agents: A Survey. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -193,17 +164,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Finetuning LLM Judges for Evaluation.](https://cameronrwolfe.substack.com/p/finetuned-judge) |Evaluating LLMs is challenging due to their complex, open-ended outputs. While traditional human evaluation provides detailed insights, it is inefficient. Therefore, scalable assessments using automatic metrics and model-based approaches like LLM-as-a-Judge are essential. Innovations such as fine-tuned judges (e.g., Prometheus) and synthetic data generation are improving evaluation precision and adaptability across various tasks and domains. |
 |[The Gen AI Bridge to the Future.](https://stratechery.com/2024/the-gen-ai-bridge-to-the-future/) |Generative AI is set to revolutionize wearable technology by creating on-demand UI interfaces that adapt to user needs and context. |
 |[Sam Altman Says Artificial General Intelligence Is on the Horizon.](https://www.nytimes.com/video/business/100000009858580/sam-altman-openai-dealbook.html) |Speaking at The New York Times DealBook Summit, Sam Altman, the chief executive of OpenAI, said that the arrival of artificial general intelligence would “matter much less” to the average person than currently thought. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 # ML news: Week 25 November - 1 December
 
