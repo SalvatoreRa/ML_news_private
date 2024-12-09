@@ -76,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google CEO: AI development is finally slowing down—‘the low-hanging fruit is gone’.](https://www.cnbc.com/2024/12/08/google-ceo-sundar-pichai-ai-development-is-finally-slowing-down.html) | Generative artificial intelligence probably won’t change your life in 2025 — at least, not more than it already has, according to Google CEO Sundar Pichai.|
 |[Nobel recipient Geoffrey Hinton wishes he thought of AI safety sooner.](https://www.ctvnews.ca/sci-tech/nobel-recipient-geoffrey-hinton-wishes-he-thought-of-ai-safety-sooner-1.7137867) | Geoffrey Hinton says he doesn’t regret the work he did that laid the foundations of artificial intelligence, but wishes he thought of safety sooner.|
 |[Landlords Are Using AI to Raise Rents—and Cities Are Starting to Push Back.](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519) |If you’ve hunted for apartments recently and felt like all the rents were equally high, you’re not crazy: Many landlords now use a single company’s software — which uses an algorithm based on proprietary lease information — to help set rent prices. |
-|[.]() | |
-|[.]() | |
+|[xAI's Image Generator.](https://kingy.ai/news/grok-2-aurora-a-new-image-generator-for-the-masses/) | xAI's Aurora is an advanced image generation model integrated into Grok 2.|
+|[OpenAI's Reinforcement Fine-Tuning Research Program.](https://openai.com/form/rft-research-program/) |We’re expanding our Reinforcement Fine-Tuning Research Program to enable developers and machine learning engineers to create expert models fine-tuned to excel at specific sets of complex, domain-specific tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
