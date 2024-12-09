@@ -47,6 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reverse Thinking Makes LLMs Stronger Reasoners.](https://arxiv.org/abs/2411.19865) |Training LLMs in "reverse thinking" improves performance in commonsense, math, and logical reasoning tasks, reportedly surpassing standard fine-tuning methods trained on ten times more forward reasoning data. |
 |[Towards Adaptive Mechanism Activation in Language Agent.](https://arxiv.org/abs/2412.00722) | A new framework enables language agents to automatically determine when to use various mechanisms (ReAct, CoT, Reflection, etc.) for task completion, improving on methods that rely on fixed or predefined strategies. The framework adaptively selects the appropriate mechanism based on the task's characteristics. Experimental results show substantial improvements in downstream tasks, such as mathematical reasoning and knowledge-intensive reasoning.|
 |[Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models.](https://arxiv.org/abs/2411.19443) |Auto-RAG is an autonomous iterative retrieval model that achieves outstanding performance across various datasets. It is a fine-tuned LLM that utilizes the decision-making abilities of an LLM to engage in multiturn dialogues with the retriever, systematically planning retrievals and refining queries to gather relevant information. This process continues until adequate external knowledge is obtained. The authors also demonstrate that the model can adjust the number of iterations based on question difficulty without requiring human intervention. |
+|[https://www.microsoft.com/en-us/research/uploads/prod/2024/12/HCAI_Agents.pdf.](https://www.microsoft.com/en-us/research/uploads/prod/2024/12/HCAI_Agents.pdf) |This work provides a detailed analysis of the main challenges in human-agent communication, emphasizing how humans and AI agents can build common ground and mutual understanding. It identifies 12 core challenges grouped into three categories: conveying information from agents to users, enabling users to communicate with agents, and overarching communication issues that impact all interactions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -72,7 +73,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Facebook UK cut 700 staff and reduced tax bill last year, accounts show.](https://www.theguardian.com/business/2024/dec/08/facebook-cuts-uk-staff-reduces-tax-bill-accounts) | 10% of Facebook’s UK workforce was axed while revenue fell slightly but pre-tax profits rose despite advertising slowdown|
 |[US appeals court upholds law forcing sale or ban of TikTok.](https://www.theguardian.com/technology/2024/dec/06/tiktok-sale-ban-us) |Decision is latest twist in a years-long battle between the social media company and the US government |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
