@@ -43,7 +43,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Genie 2: A large-scale foundation world model.](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |A foundation world model generates playable 3D environments from single prompt images, offering endless training scenarios for AI agents with features like physics simulation, character animation, and object interactions. Genie 2, trained on video data using a combination of autoencoder and transformer, creates virtual worlds capable of real-time interactivity. A faster, lower-quality version is also available for immediate play. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
