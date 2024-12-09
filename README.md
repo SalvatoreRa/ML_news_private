@@ -44,8 +44,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Genie 2: A large-scale foundation world model.](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) |A foundation world model generates playable 3D environments from single prompt images, offering endless training scenarios for AI agents with features like physics simulation, character animation, and object interactions. Genie 2, trained on video data using a combination of autoencoder and transformer, creates virtual worlds capable of real-time interactivity. A faster, lower-quality version is also available for immediate play. |
-|[.]() | |
-|[.]() | |
+|[Reverse Thinking Makes LLMs Stronger Reasoners.](https://arxiv.org/abs/2411.19865) |Training LLMs in "reverse thinking" improves performance in commonsense, math, and logical reasoning tasks, reportedly surpassing standard fine-tuning methods trained on ten times more forward reasoning data. |
+|[Towards Adaptive Mechanism Activation in Language Agent.](https://arxiv.org/abs/2412.00722) | A new framework enables language agents to automatically determine when to use various mechanisms (ReAct, CoT, Reflection, etc.) for task completion, improving on methods that rely on fixed or predefined strategies. The framework adaptively selects the appropriate mechanism based on the task's characteristics. Experimental results show substantial improvements in downstream tasks, such as mathematical reasoning and knowledge-intensive reasoning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
