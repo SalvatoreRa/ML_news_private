@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI's Reinforcement Fine-Tuning Research Program.](https://openai.com/form/rft-research-program/) |We’re expanding our Reinforcement Fine-Tuning Research Program to enable developers and machine learning engineers to create expert models fine-tuned to excel at specific sets of complex, domain-specific tasks. |
 |[OpenAI’s 12 days of ‘ship-mas’: all the new announcements.](https://www.theverge.com/24314146/openai-12-days-ship-mas-chatgpt-sora-o1-update) | OpenAI’s 12 days of “ship-mas” have officially begun, with the company set to reveal some new features, products, and demos during all 12 days starting December 5th, just a few days shy of the second anniversary of ChatGPT’s explosive launch in 2022.|
 |[AWS brings prompt routing and caching to its Bedrock LLM service.](https://techcrunch.com/2024/12/04/aws-brings-prompt-routing-and-caching-to-its-bedrock-llm-service/) |  At its re:Invent conference in Las Vegas, AWS on Wednesday announced both of these features for its Bedrock LLM hosting service.|
-|[.]() | |
-|[.]() | |
+|[OpenAI may launch Sora, its text-to-video model, very soon.](https://www.engadget.com/ai/openai-may-launch-sora-its-text-to-video-model-very-soon-171434280.html) |OpenAI is set to launch new AI features, including a text-to-video tool called Sora and a reasoning model, during a 12-day livestream event. Sora has drawn criticism over data provenance, raising concerns about the possible use of YouTube content without authorization. Meanwhile, Google is working on its own text-to-video tool, Veo, which is currently in private review. |
+|[Google’s new generative AI video model is now available.](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview) | Google's Veo, a generative AI video model, is now accessible to businesses through Vertex AI, enabling the creation of high-quality 1080p videos from text or images. It incorporates safeguards and DeepMind's SynthID digital watermark to tackle issues related to copyright and misinformation. Additionally, Google has expanded access to Imagen 3 for text-to-image generation on Google Cloud, introducing new features for brand customization.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Align3R: Aligned Monocular Depth Estimation for Dynamic Videos.](https://igl-hkust.github.io/Align3R.github.io/) |A refined alignment technique offering consistent depth estimation in videos, based on Dust3r, and excelling in 3D estimation performance. |
 |[ClearVoice.](https://github.com/modelscope/ClearerVoice-Studio/tree/main/clearvoice) | Unified platform for audio separation, speech understanding, and speech enhancement.|
 |[DocOwl.](https://github.com/X-PLUG/mPLUG-DocOwl) | OCR-free document understanding with multimodal LLMs. It has strong chart understanding, table extraction, and more.|
-|[.]() | |
+|[TRELLIS.](https://github.com/Microsoft/TRELLIS) | Microsoft's 3D image and text generation models are currently the most advanced in the field, excelling in handling 3D occlusions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
