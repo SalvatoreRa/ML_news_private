@@ -70,8 +70,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Facebook UK cut 700 staff and reduced tax bill last year, accounts show.](https://www.theguardian.com/business/2024/dec/08/facebook-cuts-uk-staff-reduces-tax-bill-accounts) | 10% of Facebook’s UK workforce was axed while revenue fell slightly but pre-tax profits rose despite advertising slowdown|
+|[US appeals court upholds law forcing sale or ban of TikTok.](https://www.theguardian.com/technology/2024/dec/06/tiktok-sale-ban-us) |Decision is latest twist in a years-long battle between the social media company and the US government |
 |[.]() | |
 |[.]() | |
 |[.]() | |
