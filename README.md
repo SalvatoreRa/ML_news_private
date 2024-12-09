@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) |Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
