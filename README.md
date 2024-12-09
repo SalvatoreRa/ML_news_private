@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[US appeals court upholds law forcing sale or ban of TikTok.](https://www.theguardian.com/technology/2024/dec/06/tiktok-sale-ban-us) |Decision is latest twist in a years-long battle between the social media company and the US government |
 |[Google CEO: AI development is finally slowing down—‘the low-hanging fruit is gone’.](https://www.cnbc.com/2024/12/08/google-ceo-sundar-pichai-ai-development-is-finally-slowing-down.html) | Generative artificial intelligence probably won’t change your life in 2025 — at least, not more than it already has, according to Google CEO Sundar Pichai.|
 |[Nobel recipient Geoffrey Hinton wishes he thought of AI safety sooner.](https://www.ctvnews.ca/sci-tech/nobel-recipient-geoffrey-hinton-wishes-he-thought-of-ai-safety-sooner-1.7137867) | Geoffrey Hinton says he doesn’t regret the work he did that laid the foundations of artificial intelligence, but wishes he thought of safety sooner.|
-|[.]() | |
+|[Landlords Are Using AI to Raise Rents—and Cities Are Starting to Push Back.](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519) |If you’ve hunted for apartments recently and felt like all the rents were equally high, you’re not crazy: Many landlords now use a single company’s software — which uses an algorithm based on proprietary lease information — to help set rent prices. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
