@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Landlords Are Using AI to Raise Rents—and Cities Are Starting to Push Back.](https://gizmodo.com/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back-2000535519) |If you’ve hunted for apartments recently and felt like all the rents were equally high, you’re not crazy: Many landlords now use a single company’s software — which uses an algorithm based on proprietary lease information — to help set rent prices. |
 |[xAI's Image Generator.](https://kingy.ai/news/grok-2-aurora-a-new-image-generator-for-the-masses/) | xAI's Aurora is an advanced image generation model integrated into Grok 2.|
 |[OpenAI's Reinforcement Fine-Tuning Research Program.](https://openai.com/form/rft-research-program/) |We’re expanding our Reinforcement Fine-Tuning Research Program to enable developers and machine learning engineers to create expert models fine-tuned to excel at specific sets of complex, domain-specific tasks. |
-|[.]() | |
+|[OpenAI’s 12 days of ‘ship-mas’: all the new announcements.](https://www.theverge.com/24314146/openai-12-days-ship-mas-chatgpt-sora-o1-update) | OpenAI’s 12 days of “ship-mas” have officially begun, with the company set to reveal some new features, products, and demos during all 12 days starting December 5th, just a few days shy of the second anniversary of ChatGPT’s explosive launch in 2022.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Align3R: Aligned Monocular Depth Estimation for Dynamic Videos.](https://igl-hkust.github.io/Align3R.github.io/) |A refined alignment technique offering consistent depth estimation in videos, based on Dust3r, and excelling in 3D estimation performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
