@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Facebook UK cut 700 staff and reduced tax bill last year, accounts show.](https://www.theguardian.com/business/2024/dec/08/facebook-cuts-uk-staff-reduces-tax-bill-accounts) | 10% of Facebook’s UK workforce was axed while revenue fell slightly but pre-tax profits rose despite advertising slowdown|
 |[US appeals court upholds law forcing sale or ban of TikTok.](https://www.theguardian.com/technology/2024/dec/06/tiktok-sale-ban-us) |Decision is latest twist in a years-long battle between the social media company and the US government |
-|[.]() | |
-|[.]() | |
+|[Google CEO: AI development is finally slowing down—‘the low-hanging fruit is gone’.](https://www.cnbc.com/2024/12/08/google-ceo-sundar-pichai-ai-development-is-finally-slowing-down.html) | Generative artificial intelligence probably won’t change your life in 2025 — at least, not more than it already has, according to Google CEO Sundar Pichai.|
+|[Nobel recipient Geoffrey Hinton wishes he thought of AI safety sooner.](https://www.ctvnews.ca/sci-tech/nobel-recipient-geoffrey-hinton-wishes-he-thought-of-ai-safety-sooner-1.7137867) | Geoffrey Hinton says he doesn’t regret the work he did that laid the foundations of artificial intelligence, but wishes he thought of safety sooner.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
