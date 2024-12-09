@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[xAI's Image Generator.](https://kingy.ai/news/grok-2-aurora-a-new-image-generator-for-the-masses/) | xAI's Aurora is an advanced image generation model integrated into Grok 2.|
 |[OpenAI's Reinforcement Fine-Tuning Research Program.](https://openai.com/form/rft-research-program/) |We’re expanding our Reinforcement Fine-Tuning Research Program to enable developers and machine learning engineers to create expert models fine-tuned to excel at specific sets of complex, domain-specific tasks. |
 |[OpenAI’s 12 days of ‘ship-mas’: all the new announcements.](https://www.theverge.com/24314146/openai-12-days-ship-mas-chatgpt-sora-o1-update) | OpenAI’s 12 days of “ship-mas” have officially begun, with the company set to reveal some new features, products, and demos during all 12 days starting December 5th, just a few days shy of the second anniversary of ChatGPT’s explosive launch in 2022.|
-|[.]() | |
+|[AWS brings prompt routing and caching to its Bedrock LLM service.](https://techcrunch.com/2024/12/04/aws-brings-prompt-routing-and-caching-to-its-bedrock-llm-service/) |  At its re:Invent conference in Las Vegas, AWS on Wednesday announced both of these features for its Bedrock LLM hosting service.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Align3R: Aligned Monocular Depth Estimation for Dynamic Videos.](https://igl-hkust.github.io/Align3R.github.io/) |A refined alignment technique offering consistent depth estimation in videos, based on Dust3r, and excelling in 3D estimation performance. |
-|[.]() | |
-|[.]() | |
+|[ClearVoice.](https://github.com/modelscope/ClearerVoice-Studio/tree/main/clearvoice) | Unified platform for audio separation, speech understanding, and speech enhancement.|
+|[DocOwl.](https://github.com/X-PLUG/mPLUG-DocOwl) | OCR-free document understanding with multimodal LLMs. It has strong chart understanding, table extraction, and more.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
