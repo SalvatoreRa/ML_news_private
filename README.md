@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk's xAI to Expand Colossus Supercomputer, Boosting Memphis as Emerging AI Hub.](https://hoodline.com/2024/12/elon-musk-s-xai-to-expand-colossus-supercomputer-boosting-memphis-as-emerging-ai-hub/) |xAI is enhancing its Colossus supercomputer facility in Memphis by adding one million GPUs to boost its AI capabilities. This expansion positions Memphis as a potential global AI innovation hub, drawing interest from major companies like Nvidia and Dell. The Greater Memphis Chamber is backing this growth and has formed a dedicated team to accelerate xAI's expansion. |
 |[OpenAI and Anduril Partner on Defense AI Applications.](https://www.maginative.com/article/openai-and-anduril-partner-on-defense-ai-applications/) | OpenAI has collaborated with Anduril Industries to create AI-driven solutions for military use, with an emphasis on counter-drone defense systems.|
 |[Meta quietly leans on rival GPT-4 despite Zuckerberg’s bold Llama claims.](https://www.infoworld.com/article/3617048/meta-quietly-leans-on-rival-gpt-4-despite-zuckerbergs-bold-llama-claims.html) |Even as Meta touts its Llama model, the company is incorporating OpenAI’s GPT-4 to enhance internal tools and philanthropic ventures. |
-|[.]() | |
+|[Google unveils ‘mindboggling’ quantum computing chip.](https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip) |Chip takes minutes to complete tasks that would otherwise take 10,000,000,000,000,000,000,000,000 years |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) |Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them. |
-|[.]() | |
+|[Is doom scrolling really rotting our brains? The evidence is getting harder to ignore.](https://www.theguardian.com/commentisfree/2024/dec/09/brain-rot-word-of-the-year-reality-internet-cognitive-function) | ‘Brain rot’ is the Oxford word of the year – a fitting choice, given the startling impact the internet is having on our grey matter|
 |[.]() | |
 |[.]() | |
 |[.]() | |
