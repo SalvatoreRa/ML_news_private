@@ -86,8 +86,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI and Anduril Partner on Defense AI Applications.](https://www.maginative.com/article/openai-and-anduril-partner-on-defense-ai-applications/) | OpenAI has collaborated with Anduril Industries to create AI-driven solutions for military use, with an emphasis on counter-drone defense systems.|
 |[Meta quietly leans on rival GPT-4 despite Zuckerberg’s bold Llama claims.](https://www.infoworld.com/article/3617048/meta-quietly-leans-on-rival-gpt-4-despite-zuckerbergs-bold-llama-claims.html) |Even as Meta touts its Llama model, the company is incorporating OpenAI’s GPT-4 to enhance internal tools and philanthropic ventures. |
 |[Google unveils ‘mindboggling’ quantum computing chip.](https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip) |Chip takes minutes to complete tasks that would otherwise take 10,000,000,000,000,000,000,000,000 years |
-|[.]() | |
-|[.]() | |
+|[WaveForms $40M seed round.](https://www.waveforms.ai/about) |WaveForms is a pioneering audio AI company aiming to crack the Turing test for audio intelligence. Founded by Alexis Conneau, the mind behind ChatGPT's Advanced Voice Mode, WaveForms has secured $40M in seed funding at a $200M valuation. The company's mission is to push the boundaries of audio AI, enabling hyper-realistic voice interactions and redefining the future of auditory machine intelligence. |
+|[Sora is here.](https://openai.com/index/sora-is-here/) | OpenAI's video generation model has launched and is available to Pro subscribers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
