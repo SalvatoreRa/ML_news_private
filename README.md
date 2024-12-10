@@ -114,9 +114,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cohere releases state-of-the-art Rerank AI search model.](https://cohere.com/blog/rerank-3pt5) |Cohere has unveiled Rerank 3.5, its latest state-of-the-art AI search model, designed to enhance reasoning and multilingual search capabilities. Tailored for enterprises, Rerank 3.5 enables precise navigation through complex data. With minimal coding effort, businesses can integrate it to significantly improve search relevance and optimize Retrieval-Augmented Generation (RAG) systems, driving smarter and more efficient data discovery. |
 |[Reinforcement Learning: An Overview.](https://arxiv.org/abs/2412.05265) |
 Kevin Murphy has written a modern introduction and overview to Reinforcement Learning in the modern era. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Reconstruct Large 3D Scenes.](https://jixuan-fan.github.io/Momentum-GS_Page/) |Momentum-GS is a cutting-edge method designed to improve 3D Gaussian Splatting, enabling more accurate and efficient reconstruction of large-scale scenes. |
+|[Open Alignment.](https://github.com/sail-sg/oat) | Open Alignment for Transformers (OAT) is a toolkit for aligning language models.|
+|[PanoDreamer: 3D Panorama Synthesis from a Single Image.](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | The PanoDreamer method converts a single image into a fully immersive 360° 3D scene by seamlessly integrating panorama generation and depth estimation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
