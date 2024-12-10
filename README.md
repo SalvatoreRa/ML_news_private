@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs may have a killer enterprise app: ‘digital labor’ — at least if Salesforce Agentforce is any indicator.](https://techcrunch.com/2024/12/04/llms-may-have-a-killer-enterprise-app-digital-labor-at-least-if-salesforce-agentforce-is-any-indicator/) |If Don Draper from “Mad Men” was quintessentially, at his deepest self, an ad man, then Salesforce CEO Marc Benioff is likewise a sales guy. Lately he’s been selling — or more like singing the gospel — about AI agents and Salesforce’s recently released agent-maker platform, Agentforce. |
 |[DeepMind's GenCast AI is really good at forecasting the weather.](https://www.engadget.com/ai/deepminds-gencast-ai-is-really-good-at-forecasting-the-weather-184751414.html) |DeepMind's GenCast AI sets a new benchmark in weather forecasting, surpassing systems like ECMWF's with notable gains in accuracy and efficiency. Powered by a diffusion model trained on 40 years of data, GenCast uses probabilistic predictions and operates with lower computational demands than traditional approaches. While it excels in general forecasts, it faces challenges in predicting hurricane intensity. Open-source and soon integrating with Google Earth, GenCast aims to revolutionize weather prediction accessibility. |
 |[AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells.](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/) | Undocumented orphaned wells pose hazards to both the environment and the climate. Scientists are building modern tools to help locate, assess, and pave the way for ultimately plugging these forgotten relics.|
-|[.]() | |
+|[Ai Pin maker Humane demos AI software for cars, phones, and smart speakers.](https://techcrunch.com/2024/12/05/ai-pin-maker-humane-is-developing-ai-software-for-cars-phones-and-smart-speakers/) |Humane revealed CosmOS, an AI operating system that enhances tech devices with agent-like capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Open Alignment.](https://github.com/sail-sg/oat) | Open Alignment for Transformers (OAT) is a toolkit for aligning language models.|
 |[PanoDreamer: 3D Panorama Synthesis from a Single Image.](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | The PanoDreamer method converts a single image into a fully immersive 360° 3D scene by seamlessly integrating panorama generation and depth estimation.|
 |[Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail.](https://stereoanywhere.github.io/) | Stereo Anywhere is an innovative framework that combines stereo-matching techniques with priors from monocular depth models, effectively tackling challenges such as textureless regions and occlusions in depth estimation.|
-|[.]() | |
+|[MageBench Leaderboard.](https://huggingface.co/spaces/microsoft/MageBench-Leaderboard) | MageBench has launched a benchmark designed to assess multimodal agents' reasoning and planning capabilities in dynamic scenarios where visual signals are continuously updated, pushing the boundaries of AI performance evaluation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,7 +140,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |---|---|
 |[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) |Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them. |
 |[Is doom scrolling really rotting our brains? The evidence is getting harder to ignore.](https://www.theguardian.com/commentisfree/2024/dec/09/brain-rot-word-of-the-year-reality-internet-cognitive-function) | ‘Brain rot’ is the Oxford word of the year – a fitting choice, given the startling impact the internet is having on our grey matter|
-|[.]() | |
+|[People not AI will make games, PlayStation boss says.](https://www.bbc.com/news/articles/c4gpz291z59o) | PlayStation CEO Hermen Hulst emphasizes that while AI has the potential to revolutionize gaming by automating repetitive tasks, it cannot replace the creativity and human touch essential to game development.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
