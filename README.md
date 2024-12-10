@@ -89,9 +89,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[WaveForms $40M seed round.](https://www.waveforms.ai/about) |WaveForms is a pioneering audio AI company aiming to crack the Turing test for audio intelligence. Founded by Alexis Conneau, the mind behind ChatGPT's Advanced Voice Mode, WaveForms has secured $40M in seed funding at a $200M valuation. The company's mission is to push the boundaries of audio AI, enabling hyper-realistic voice interactions and redefining the future of auditory machine intelligence. |
 |[Sora is here.](https://openai.com/index/sora-is-here/) | OpenAI's video generation model has launched and is available to Pro subscribers.|
 |[LG's new on device language models.](https://www.lgresearch.ai/blog/view?seq=507) |LG has developed a suite of small AI models that demonstrate strong performance on standard benchmarks. These models are notably positioned as competitors to the Qwen series, highlighting their efficiency and capability in the evolving AI landscape. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LLMs may have a killer enterprise app: ‘digital labor’ — at least if Salesforce Agentforce is any indicator.](https://techcrunch.com/2024/12/04/llms-may-have-a-killer-enterprise-app-digital-labor-at-least-if-salesforce-agentforce-is-any-indicator/) |If Don Draper from “Mad Men” was quintessentially, at his deepest self, an ad man, then Salesforce CEO Marc Benioff is likewise a sales guy. Lately he’s been selling — or more like singing the gospel — about AI agents and Salesforce’s recently released agent-maker platform, Agentforce. |
+|[DeepMind's GenCast AI is really good at forecasting the weather.](https://www.engadget.com/ai/deepminds-gencast-ai-is-really-good-at-forecasting-the-weather-184751414.html) |DeepMind's GenCast AI sets a new benchmark in weather forecasting, surpassing systems like ECMWF's with notable gains in accuracy and efficiency. Powered by a diffusion model trained on 40 years of data, GenCast uses probabilistic predictions and operates with lower computational demands than traditional approaches. While it excels in general forecasts, it faces challenges in predicting hurricane intensity. Open-source and soon integrating with Google Earth, GenCast aims to revolutionize weather prediction accessibility. |
+|[AI Helps Researchers Dig Through Old Maps to Find Lost Oil and Gas Wells.](https://newscenter.lbl.gov/2024/12/04/ai-helps-researchers-dig-through-old-maps-to-find-lost-oil-and-gas-wells/) | Undocumented orphaned wells pose hazards to both the environment and the climate. Scientists are building modern tools to help locate, assess, and pave the way for ultimately plugging these forgotten relics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Reconstruct Large 3D Scenes.](https://jixuan-fan.github.io/Momentum-GS_Page/) |Momentum-GS is a cutting-edge method designed to improve 3D Gaussian Splatting, enabling more accurate and efficient reconstruction of large-scale scenes. |
 |[Open Alignment.](https://github.com/sail-sg/oat) | Open Alignment for Transformers (OAT) is a toolkit for aligning language models.|
 |[PanoDreamer: 3D Panorama Synthesis from a Single Image.](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | The PanoDreamer method converts a single image into a fully immersive 360° 3D scene by seamlessly integrating panorama generation and depth estimation.|
-|[.]() | |
+|[Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail.](https://stereoanywhere.github.io/) | Stereo Anywhere is an innovative framework that combines stereo-matching techniques with priors from monocular depth models, effectively tackling challenges such as textureless regions and occlusions in depth estimation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
