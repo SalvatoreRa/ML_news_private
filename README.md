@@ -88,6 +88,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google unveils ‘mindboggling’ quantum computing chip.](https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip) |Chip takes minutes to complete tasks that would otherwise take 10,000,000,000,000,000,000,000,000 years |
 |[WaveForms $40M seed round.](https://www.waveforms.ai/about) |WaveForms is a pioneering audio AI company aiming to crack the Turing test for audio intelligence. Founded by Alexis Conneau, the mind behind ChatGPT's Advanced Voice Mode, WaveForms has secured $40M in seed funding at a $200M valuation. The company's mission is to push the boundaries of audio AI, enabling hyper-realistic voice interactions and redefining the future of auditory machine intelligence. |
 |[Sora is here.](https://openai.com/index/sora-is-here/) | OpenAI's video generation model has launched and is available to Pro subscribers.|
+|[LG's new on device language models.](https://www.lgresearch.ai/blog/view?seq=507) |LG has developed a suite of small AI models that demonstrate strong performance on standard benchmarks. These models are notably positioned as competitors to the Qwen series, highlighting their efficiency and capability in the evolving AI landscape. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,8 +111,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ClearVoice.](https://github.com/modelscope/ClearerVoice-Studio/tree/main/clearvoice) | Unified platform for audio separation, speech understanding, and speech enhancement.|
 |[DocOwl.](https://github.com/X-PLUG/mPLUG-DocOwl) | OCR-free document understanding with multimodal LLMs. It has strong chart understanding, table extraction, and more.|
 |[TRELLIS.](https://github.com/Microsoft/TRELLIS) | Microsoft's 3D image and text generation models are currently the most advanced in the field, excelling in handling 3D occlusions.|
-|[.]() | |
-|[.]() | |
+|[Cohere releases state-of-the-art Rerank AI search model.](https://cohere.com/blog/rerank-3pt5) |Cohere has unveiled Rerank 3.5, its latest state-of-the-art AI search model, designed to enhance reasoning and multilingual search capabilities. Tailored for enterprises, Rerank 3.5 enables precise navigation through complex data. With minimal coding effort, businesses can integrate it to significantly improve search relevance and optimize Retrieval-Augmented Generation (RAG) systems, driving smarter and more efficient data discovery. |
+|[Reinforcement Learning: An Overview.](https://arxiv.org/abs/2412.05265) |
+Kevin Murphy has written a modern introduction and overview to Reinforcement Learning in the modern era. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
