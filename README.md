@@ -95,6 +95,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ai Pin maker Humane demos AI software for cars, phones, and smart speakers.](https://techcrunch.com/2024/12/05/ai-pin-maker-humane-is-developing-ai-software-for-cars-phones-and-smart-speakers/) |Humane revealed CosmOS, an AI operating system that enhances tech devices with agent-like capabilities. |
 |[‘It’s beyond human scale’: AFP defends use of artificial intelligence to search seized phones and emails.](https://www.theguardian.com/technology/2024/dec/11/australia-police-using-ai-search-phones-emails-ntwnfb) | Australian federal police says it has ‘no choice’ due to the vast amount of data examined in investigations|
 |[‘What does AI mean?’: Amazon reveals UK’s most asked Alexa questions of 2024.](https://www.theguardian.com/technology/2024/dec/10/amazon-reveals-uk-most-asked-alexa-questions-of-2024) | From football to food to Taylor Swift, many of the most common subjects were what you expect – but others less so|
+|[Amazon AGI.](https://www.amazon.science/blog/amazon-opens-new-ai-lab-in-san-francisco-focused-on-long-term-research-bets) | The Adept team, alongside Pieter Abbeel, has established a new lab within Amazon focused on AGI development. Their work includes training advanced language and multimodal models, with a vision to integrate these technologies into AWS products.|
+|[OpenAI Makes Canvas Available to Everyone.](https://openai.com/12-days/) |Canvas, OpenAI's editing tool first launched in October, is now accessible to all users. The tool has been enhanced with features for receiving feedback and making edits through comments. |
+|[Yelp releases new AI-powered discovery and connection features.](https://blog.yelp.com/news/end-of-year-product-release-2024/) |Yelp’s end-of-year release rolls out new AI-powered Review Insights, enhancements to business discovery, and updates for more seamless connections with service pros, plus AI-enhanced ad optimization for business owners |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
