@@ -53,9 +53,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models.](https://arxiv.org/abs/2411.12580) | This study examines which documents in pretraining data influence model outputs, aiming to better understand the generalization strategies LLMs use for reasoning tasks. It finds that during reasoning, influential documents often contain procedural knowledge, such as examples of solving problems using formulae or code.|
 |[Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video.](https://arxiv.org/abs/2310.08584) | By training an image encoder unsupervised on a single long walking video, this study illustrates how innovative model adjustments can lead to highly powerful representations.|
 |[FlashAttention on a Napkin: A Diagrammatic Approach to Deep Learning IO-Awareness.](https://arxiv.org/abs/2412.03317) |FlashAttention is a highly efficient software implementation of attention, designed to be hardware-aware and minimize unnecessary I/O. However, its complexity can make it difficult to grasp. This paper seeks to demystify and simplify the algorithm through diagrams and explanations. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[An Evolved Universal Transformer Memory.](https://sakana.ai/namm/) |Sakana AI has introduced a transferable memory module that compresses attention information for seamless transfer between models. The module offers slight performance improvements on certain long-context benchmarks. |
+|[MASK is All You Need.](https://arxiv.org/abs/2412.06787) |This work takes a step toward unifying autoregressive modeling and flow-based methods for data generation by using masking over discrete data as its generative objective. While the results are promising, they are currently demonstrated only on smaller-scale datasets. |
+|[From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding.](https://arxiv.org/abs/2412.06474v1) | Dropout Decoding is a technique designed to enhance large vision-language models, effectively reducing errors such as object hallucinations in multimodal tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
