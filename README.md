@@ -126,9 +126,9 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[PanoDreamer: 3D Panorama Synthesis from a Single Image.](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | The PanoDreamer method converts a single image into a fully immersive 360° 3D scene by seamlessly integrating panorama generation and depth estimation.|
 |[Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail.](https://stereoanywhere.github.io/) | Stereo Anywhere is an innovative framework that combines stereo-matching techniques with priors from monocular depth models, effectively tackling challenges such as textureless regions and occlusions in depth estimation.|
 |[MageBench Leaderboard.](https://huggingface.co/spaces/microsoft/MageBench-Leaderboard) | MageBench has launched a benchmark designed to assess multimodal agents' reasoning and planning capabilities in dynamic scenarios where visual signals are continuously updated, pushing the boundaries of AI performance evaluation.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Awesome Open (Source) Language Models.](https://github.com/allenai/awesome-open-source-lms) | OLMo and Friends of OLMo models that are completely open. This list includes data, training code, and model weights.|
+|[Flow Matching.](https://github.com/facebookresearch/flow_matching) |Facebook Research has published a detailed tutorial and code for flow matching, a technique utilized in its Meta Movie Gen project. The resource provides a thorough breakdown of the mathematics and algorithmic intricacies, making it ideal for those seeking a quick and comprehensive understanding of the field. |
+|[EMOv2: Pushing 5M Vision Model Frontier.](https://github.com/zhangzjn/EMOv2) |EMOv2 is a new lightweight model design optimized for mobile and bandwidth-efficient applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) |Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them. |
 |[Is doom scrolling really rotting our brains? The evidence is getting harder to ignore.](https://www.theguardian.com/commentisfree/2024/dec/09/brain-rot-word-of-the-year-reality-internet-cognitive-function) | ‘Brain rot’ is the Oxford word of the year – a fitting choice, given the startling impact the internet is having on our grey matter|
 |[People not AI will make games, PlayStation boss says.](https://www.bbc.com/news/articles/c4gpz291z59o) | PlayStation CEO Hermen Hulst emphasizes that while AI has the potential to revolutionize gaming by automating repetitive tasks, it cannot replace the creativity and human touch essential to game development.|
-|[.]() | |
+|[Late Takes on OpenAI o1.](https://www.alexirpan.com/2024/12/04/late-o1-thoughts.html) |OpenAI's o1 model, likely a post-trained version of GPT-4o, enhances performance in complex domains like math and coding by leveraging increased test-time computation. This method encourages the use of more tokens for internal processing, boosting reasoning abilities but with slower response times. While o1 demonstrates promise in tasks requiring deep thought, its reliance on reinforcement learning and search methods raises concerns about alignment and interpretability. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
