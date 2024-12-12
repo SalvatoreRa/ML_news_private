@@ -145,9 +145,9 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models.](https://arxiv.org/abs/2412.07214v1) |This research investigates leveraging dense retrieval techniques to improve machine translation quality by integrating relevant contextual information into the translation process. |
 |[A New Federated Learning Framework Against Gradient Inversion Attacks.](https://arxiv.org/abs/2412.07187v1) |This paper presents a new graph expansion method for contrastive representation learning, designed to preserve global topology while enhancing feature discrimination. |
 |[Synthetic Data Generation for Camera Systems.](https://jianhongbai.github.io/SynCamMaster) | A tool designed to create high-quality synthetic datasets optimized for training and testing camera-based AI systems under various environmental and operational conditions.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Maya: Multimodal Multilingual LLM.](https://github.com/nahidalam/maya) |An open-source AI assistant offering seamless integration across platforms, delivering a customizable and scalable solution tailored for developers' needs. |
+|[QRNet.](https://github.com/zhaoyuzhi/QRNet) |QRNet introduces a cutting-edge method for image reconstruction, emphasizing quality preservation through the use of advanced neural architectures. |
+|[VOPy: A Framework for Black-box Vector Optimization.](https://github.com/bilkent-cyborg/vopy) |VOPy is an open-source Python library designed to tackle noisy black-box vector optimization problems, incorporating user preferences through a cone order framework. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
