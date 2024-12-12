@@ -151,8 +151,8 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Late Takes on OpenAI o1.](https://www.alexirpan.com/2024/12/04/late-o1-thoughts.html) |OpenAI's o1 model, likely a post-trained version of GPT-4o, enhances performance in complex domains like math and coding by leveraging increased test-time computation. This method encourages the use of more tokens for internal processing, boosting reasoning abilities but with slower response times. While o1 demonstrates promise in tasks requiring deep thought, its reliance on reinforcement learning and search methods raises concerns about alignment and interpretability. |
 |[The AI revolution is running out of data. What can researchers do?](https://www.nature.com/articles/d41586-024-03990-2) | AI developers are rapidly picking the Internet clean to train large language models such as those behind ChatGPT. Here’s how they are trying to get around the problem.|
 |[More-powerful AI is coming. Academia and industry must oversee it — together.](https://www.nature.com/articles/d41586-024-03911-3) |AI companies want to give machines human-level intelligence, or AGI. The safest and best results will come when academic and industry scientists collaborate to guide its development.|
-|[.]() | |
-|[.]() | |
+|[Better data sets won’t solve the problem — we need AI for Africa to be developed in Africa.](https://www.nature.com/articles/d41586-024-03988-w) | Language models developed by big technology companies consistently underperform in African languages. It’s time to focus on local solutions.|
+|[ChatGPT turns two: how the AI chatbot has changed scientists’ lives.](https://www.nature.com/articles/d41586-024-03940-y) |How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
