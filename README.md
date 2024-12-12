@@ -142,9 +142,9 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Awesome Open (Source) Language Models.](https://github.com/allenai/awesome-open-source-lms) | OLMo and Friends of OLMo models that are completely open. This list includes data, training code, and model weights.|
 |[Flow Matching.](https://github.com/facebookresearch/flow_matching) |Facebook Research has published a detailed tutorial and code for flow matching, a technique utilized in its Meta Movie Gen project. The resource provides a thorough breakdown of the mathematics and algorithmic intricacies, making it ideal for those seeking a quick and comprehensive understanding of the field. |
 |[EMOv2: Pushing 5M Vision Model Frontier.](https://github.com/zhangzjn/EMOv2) |EMOv2 is a new lightweight model design optimized for mobile and bandwidth-efficient applications. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models.](https://arxiv.org/abs/2412.07214v1) |This research investigates leveraging dense retrieval techniques to improve machine translation quality by integrating relevant contextual information into the translation process. |
+|[A New Federated Learning Framework Against Gradient Inversion Attacks.](https://arxiv.org/abs/2412.07187v1) |This paper presents a new graph expansion method for contrastive representation learning, designed to preserve global topology while enhancing feature discrimination. |
+|[Synthetic Data Generation for Camera Systems.](https://jianhongbai.github.io/SynCamMaster) | A tool designed to create high-quality synthetic datasets optimized for training and testing camera-based AI systems under various environmental and operational conditions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
