@@ -149,8 +149,8 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Is doom scrolling really rotting our brains? The evidence is getting harder to ignore.](https://www.theguardian.com/commentisfree/2024/dec/09/brain-rot-word-of-the-year-reality-internet-cognitive-function) | ‘Brain rot’ is the Oxford word of the year – a fitting choice, given the startling impact the internet is having on our grey matter|
 |[People not AI will make games, PlayStation boss says.](https://www.bbc.com/news/articles/c4gpz291z59o) | PlayStation CEO Hermen Hulst emphasizes that while AI has the potential to revolutionize gaming by automating repetitive tasks, it cannot replace the creativity and human touch essential to game development.|
 |[Late Takes on OpenAI o1.](https://www.alexirpan.com/2024/12/04/late-o1-thoughts.html) |OpenAI's o1 model, likely a post-trained version of GPT-4o, enhances performance in complex domains like math and coding by leveraging increased test-time computation. This method encourages the use of more tokens for internal processing, boosting reasoning abilities but with slower response times. While o1 demonstrates promise in tasks requiring deep thought, its reliance on reinforcement learning and search methods raises concerns about alignment and interpretability. |
-|[.]() | |
-|[.]() | |
+|[The AI revolution is running out of data. What can researchers do?](https://www.nature.com/articles/d41586-024-03990-2) | AI developers are rapidly picking the Internet clean to train large language models such as those behind ChatGPT. Here’s how they are trying to get around the problem.|
+|[More-powerful AI is coming. Academia and industry must oversee it — together.](https://www.nature.com/articles/d41586-024-03911-3) |AI companies want to give machines human-level intelligence, or AGI. The safest and best results will come when academic and industry scientists collaborate to guide its development.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
