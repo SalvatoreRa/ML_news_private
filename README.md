@@ -148,7 +148,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Maya: Multimodal Multilingual LLM.](https://github.com/nahidalam/maya) |An open-source AI assistant offering seamless integration across platforms, delivering a customizable and scalable solution tailored for developers' needs. |
 |[QRNet.](https://github.com/zhaoyuzhi/QRNet) |QRNet introduces a cutting-edge method for image reconstruction, emphasizing quality preservation through the use of advanced neural architectures. |
 |[VOPy: A Framework for Black-box Vector Optimization.](https://github.com/bilkent-cyborg/vopy) |VOPy is an open-source Python library designed to tackle noisy black-box vector optimization problems, incorporating user preferences through a cone order framework. |
-|[.]() | |
+|[meta-llama/Llama-3.3-70B-Instruct.](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) |The new post-trained Llama 3.3 model delivers enhanced performance, particularly in math and coding tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
