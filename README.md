@@ -153,7 +153,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[More-powerful AI is coming. Academia and industry must oversee it — together.](https://www.nature.com/articles/d41586-024-03911-3) |AI companies want to give machines human-level intelligence, or AGI. The safest and best results will come when academic and industry scientists collaborate to guide its development.|
 |[Better data sets won’t solve the problem — we need AI for Africa to be developed in Africa.](https://www.nature.com/articles/d41586-024-03988-w) | Language models developed by big technology companies consistently underperform in African languages. It’s time to focus on local solutions.|
 |[ChatGPT turns two: how the AI chatbot has changed scientists’ lives.](https://www.nature.com/articles/d41586-024-03940-y) |How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community. |
-|[.]() | |
+|[Huge randomized trial of AI boosts discovery — at least for good scientists.](https://www.nature.com/articles/d41586-024-03939-5) |A controlled study at a firm measured the effects of using AI to assist research, and saw increases in discoveries and patents. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
