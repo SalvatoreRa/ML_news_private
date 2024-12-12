@@ -154,7 +154,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[Better data sets won’t solve the problem — we need AI for Africa to be developed in Africa.](https://www.nature.com/articles/d41586-024-03988-w) | Language models developed by big technology companies consistently underperform in African languages. It’s time to focus on local solutions.|
 |[ChatGPT turns two: how the AI chatbot has changed scientists’ lives.](https://www.nature.com/articles/d41586-024-03940-y) |How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community. |
 |[Huge randomized trial of AI boosts discovery — at least for good scientists.](https://www.nature.com/articles/d41586-024-03939-5) |A controlled study at a firm measured the effects of using AI to assist research, and saw increases in discoveries and patents. |
-|[.]() | |
+|[Large language models can help to translate science into real-world impact.](https://www.nature.com/articles/d41586-024-04059-w) |Discussions around large language models (LLMs) in the scientific community are largely centred on issues of intellectual property, and how they should best be used in scientific writing, evidence synthesis and scientific discovery. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
