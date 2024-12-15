@@ -108,9 +108,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon's AI Self Sufficiency.](https://semianalysis.com/2024/12/03/amazons-ai-self-sufficiency-trainium2-architecture-networking/) |Amazon is ramping up its AI infrastructure with global deployments of Trainium2 AI clusters and Nvidia-based systems. The new AWS Trainium2 chips aim to improve competitiveness in GenAI workloads, overcoming limitations of earlier versions. A key investment includes a 400,000 Trainium2 chip cluster for Anthropic under "Project Rainier," showcasing Amazon's strategic focus and dedication to advancing its AI capabilities. |
 |[Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions.](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/) | xAI, Elon Musk's AI company, raised $6 billion and launched Grok, a generative AI model with unique features.|
 |[Google says its new AI models can identify emotions — and that has experts worried.](https://techcrunch.com/2024/12/05/google-says-its-new-open-models-can-identify-emotions-and-that-has-experts-worried/) |Google's new PaliGemma 2 model analyzes images to generate captions and detect emotions, offering advanced capabilities. However, concerns have been raised about its reliability and potential biases. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[$1m K Prize launches.](https://kprize.ai/) | Andy Konwinski has announced a new prize for an open-source AI agent capable of achieving 90% on a private, contamination-free software engineering agent benchmark. The competition, hosted on Kaggle, will run for the next three months.|
+|[OpenAI Introduces Advanced Video Mode.](https://www.youtube.com/watch?v=NIQDnWlwYyQ&ab_channel=OpenAI) |OpenAI's 6th announcement day unveils video capabilities in advanced voice mode, enabling users to share live videos and screens directly with ChatGPT. |
+|[AI's Role in Safeguarding 2024 Elections.](https://www.anthropic.com/news/elections-ai-2024) | Anthropic explores how AI can help safeguard the integrity of the 2024 elections by detecting disinformation and strengthening cybersecurity measures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
