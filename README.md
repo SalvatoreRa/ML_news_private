@@ -57,14 +57,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MASK is All You Need.](https://arxiv.org/abs/2412.06787) |This work takes a step toward unifying autoregressive modeling and flow-based methods for data generation by using masking over discrete data as its generative objective. While the results are promising, they are currently demonstrated only on smaller-scale datasets. |
 |[From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding.](https://arxiv.org/abs/2412.06474v1) | Dropout Decoding is a technique designed to enhance large vision-language models, effectively reducing errors such as object hallucinations in multimodal tasks.|
 |[GenCast predicts weather and the risks of extreme conditions with state-of-the-art accuracy.](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/) | New AI model advances the prediction of weather uncertainties and risks, delivering faster, more accurate forecasts up to 15 days ahead|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## News
 |Link|description|
@@ -112,16 +104,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Introduces Advanced Video Mode.](https://www.youtube.com/watch?v=NIQDnWlwYyQ&ab_channel=OpenAI) |OpenAI's 6th announcement day unveils video capabilities in advanced voice mode, enabling users to share live videos and screens directly with ChatGPT. |
 |[AI's Role in Safeguarding 2024 Elections.](https://www.anthropic.com/news/elections-ai-2024) | Anthropic explores how AI can help safeguard the integrity of the 2024 elections by detecting disinformation and strengthening cybersecurity measures.|
 |[OpenAI considers ditching provision that would prevent AGI from being used for commercial gain.](https://techcrunch.com/2024/12/06/openai-considers-ditching-provision-that-would-prevent-agi-from-being-used-for-commercial-gain/) | According to the Financial Times, OpenAI is considering ditching a provision that would shut Microsoft, a major partner and investor, out of its most advanced technology when OpenAI achieves artificial general intelligence (AGI).|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -158,11 +140,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[GPD-1: Generative Pre-training for Driving.](https://wzzheng.net/GPD/) | GPD is a new framework that leverages GPT models to simplify software development tasks like code generation and debugging, emphasizing intuitive and user-friendly workflows.|
 |[24 of our favorite AI tips from 2024.](https://blog.google/technology/ai/google-ai-tips-tricks-2024/) |Google shares practical tips and best practices for integrating AI into daily workflows. |
 |[Summarization Tool for Compressed Recaps.](https://huggingface.co/datasets/FanLu31/CompreCap) | A tool leveraging advanced summarization techniques to create compressed recaps, designed to minimize reading time while preserving essential content.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -180,19 +158,7 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[.](https://lsvp.com/stories/generative-sf-how-anthropic-is-building-better-safer-ai-models/) |Anthropic, founded by siblings Daniela and Dario Amodei, has grown to over 800 employees, cementing its position as a leader in AI. Its latest product, Claude Sonnet, excels in coding, summarization, and content generation. With a focus on safety, talent acquisition, and active collaboration with the developer community, Anthropic continues to drive innovation in the AI sector. |
 |[Anthropic’s Dario Amodei: Democracies must maintain the lead in AI.](https://www.ft.com/content/e75e3388-4700-413d-ab67-778410c2d977) | Dario Amodei, co-founder of Anthropic, emphasizes the company’s commitment to AI interpretability and tackling biological challenges with AI. He addresses the complexities of AI agent safety and scaling laws, advocating for responsible scaling and collaboration with hyperscalers. Amodei also highlights the importance of balancing economic viability in AI funding while preserving operational control and core values.|
 |[First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin).](https://simonwillison.net/2024/Dec/4/amazon-nova/) |Amazon introduced the Nova family of LLMs at AWS re:Invent, offering competitive pricing and multimodal capabilities, including support for images, video, and PDFs. The Nova series, especially Nova Micro, stands out for its cost-effectiveness, surpassing Google's Gemini models in affordability while providing large context handling. With these advancements, Amazon strengthens its position as a major contender in the AI landscape. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: Week 2 - 8 December
 
