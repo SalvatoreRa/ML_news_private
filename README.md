@@ -152,6 +152,11 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations.](https://arxiv.org/abs/2412.08580v1) | This research examines how contrastive learning techniques enhance text representation models, achieving superior results across multiple NLP benchmarks.|
 |[Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering.](https://arxiv.org/abs/2412.08263v1)  |This paper introduces a hierarchical transformer model optimized for long-context understanding, providing significant efficiency improvements over traditional transformers in handling extensive text and data. |
 |[Stylize Your Video with Artistic Generation and Translation.](https://zixuan-ye.github.io/stylemaster/) | A surprisingly robust video style transfer method that ensures strong temporal consistency while offering a diverse range of styles, all customizable through text prompts.|
+|[LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations.](https://github.com/mengcye/LAION-SG) | This work enhances the LAION Aesthetics dataset by incorporating structured prompting information, making it a valuable resource for training multimodal generative models with improved performance.|
+|[BrowserGym.](https://github.com/ServiceNow/BrowserGym) |An open toolkit designed to accelerate browser-based agentic research, featuring a unified interface, support for key tasks, and functionality to capture browser output through screenshots. |
+|[Leffa: Learning Flow Fields in Attention for Controllable Person Image Generation.](https://github.com/franciszzj/leffa) |A framework designed to streamline fine-tuning for multilingual NLP models, enabling faster and more efficient adaptation across multiple languages. |
+|[GPD-1: Generative Pre-training for Driving.](https://wzzheng.net/GPD/) | GPD is a new framework that leverages GPT models to simplify software development tasks like code generation and debugging, emphasizing intuitive and user-friendly workflows.|
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
