@@ -149,6 +149,10 @@ Kevin Murphy has written a modern introduction and overview to Reinforcement Lea
 |[QRNet.](https://github.com/zhaoyuzhi/QRNet) |QRNet introduces a cutting-edge method for image reconstruction, emphasizing quality preservation through the use of advanced neural architectures. |
 |[VOPy: A Framework for Black-box Vector Optimization.](https://github.com/bilkent-cyborg/vopy) |VOPy is an open-source Python library designed to tackle noisy black-box vector optimization problems, incorporating user preferences through a cone order framework. |
 |[meta-llama/Llama-3.3-70B-Instruct.](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) |The new post-trained Llama 3.3 model delivers enhanced performance, particularly in math and coding tasks. |
+|[LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations.](https://arxiv.org/abs/2412.08580v1) | This research examines how contrastive learning techniques enhance text representation models, achieving superior results across multiple NLP benchmarks.|
+|[Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering.](https://arxiv.org/abs/2412.08263v1)  |This paper introduces a hierarchical transformer model optimized for long-context understanding, providing significant efficiency improvements over traditional transformers in handling extensive text and data. |
+|[Stylize Your Video with Artistic Generation and Translation.](https://zixuan-ye.github.io/stylemaster/) | A surprisingly robust video style transfer method that ensures strong temporal consistency while offering a diverse range of styles, all customizable through text prompts.|
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
