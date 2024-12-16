@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Does RLHF Scale? Exploring the Impacts From Data, Model, and Method.](https://arxiv.org/abs/2412.06000) | This paper examines the key components of the RLHF framework and their impacts, revealing the following insights: RLHF scales less effectively than pretraining for LLMs, with larger policy models benefiting less when using a fixed reward model. Increasing the number of responses sampled per prompt during training improves performance initially but plateaus at 4-8 samples. Larger reward models enhance reasoning task performance, but gains are inconsistent across task types. Increasing training data diversity for reward models is more impactful than boosting response diversity per prompt, though policy training shows diminishing returns beyond the early stages.|
 |[Granite Guardian.](https://arxiv.org/abs/2412.07724) | IBM has open-sourced Granite Guardian, a suite of safeguards for detecting risks in LLMs. With AUC scores of 0.871 on harmful content and 0.854 on RAG-hallucination benchmarks, the authors claim it is the most generalizable and competitive model in the field.|
 |[Liquid AI Raises $250m.](https://www.liquid.ai/blog/we-raised-250m-to-scale-capable-and-efficient-general-purpose-ai) |Liquid AI has secured significant funding to advance the training of its efficient, general-purpose liquid-style foundation models. |
-|[.]() | |
-|[.]() | |
+|[Projects in OpenAI.](https://www.youtube.com/watch?v=FcB97h3vrzk) | OpenAI has introduced “Projects”, a new way to organize chats and conversations.|
+|[AI Godmother Fei-Fei Li Has a Vision for Computer Vision.](https://spectrum.ieee.org/fei-fei-li-world-labs) |Her startup, World Labs, is giving machines 3D spatial intelligence |
 |[.]() | |
 |[.]() | |
 |[.]() | |
