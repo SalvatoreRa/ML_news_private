@@ -107,10 +107,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Phi-4 Technical Report.](https://arxiv.org/abs/2412.08905) |Phi-4, a 14B model, outperforms its teacher model in STEM-QA capabilities and demonstrates strong results on reasoning-focused benchmarks. These advancements are attributed to improved data quality, an optimized training curriculum, and innovations in the post-training process. |
 |[Clio: Privacy-Preserving Insights into Real-World AI Use.](https://assets.anthropic.com/m/7e1ab885d1b24176/original/Clio-Privacy-Preserving-Insights-into-Real-World-AI-Use.pdf) |This platform leverages AI assistants to analyze and aggregate usage patterns from millions of Claude.ai conversations while preserving user privacy. It provides insights into real-world AI usage, identifying trends, safety risks, and coordinated misuse attempts without requiring human reviewers to access raw conversation data. |
 |[LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods.](https://arxiv.org/abs/2412.05579) | This work presents a comprehensive survey of the LLMs-as-judges paradigm, exploring it through five key perspectives: functionality, methodology, applications, meta-evaluation, and limitations.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM.](https://arxiv.org/abs/2412.09530) | A new modular framework improves scene understanding by breaking tasks into specialized modules, offering greater efficiency and enhanced interpretability in complex environments.|
+|[DeepSeek-VL2.](https://github.com/deepseek-ai/DeepSeek-VL2) |DeepSeek has unveiled a new MoE vision-language model that delivers exceptional efficiency and surpasses the performance of several dense models. |
+|[BoN Jailbreaking.](https://github.com/jplhughes/bon-jailbreaking) |Jailbreaking occurs when a model's built-in refusals are bypassed, enabling it to generate responses for inappropriate requests. This can be surprisingly easy, often achieved by brute-forcing random capitalization and punctuation in the input prompt until the desired output is generated. |
+|[MarkItDown.](https://github.com/microsoft/markitdown) |Microsoft has released a package that can convert any docx, xslx, or ppt files to markdown for efficient use as context for a language model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
