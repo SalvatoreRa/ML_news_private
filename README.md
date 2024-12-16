@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[BBC says it has complained to Apple over AI-generated fake news attributed to broadcaster.](https://www.theguardian.com/media/2024/dec/14/bbc-says-it-has-complained-to-apple-over-ai-generated-fake-news-attributed-to-broadcaster) | Notifications from a new Apple product falsely suggested the BBC claimed the New York gunman Luigi Mangione had killed himself|
 |[She didn’t get an apartment because of an AI-generated score – and sued to help others avoid the same fate.](https://www.theguardian.com/technology/2024/dec/14/saferent-ai-tenant-screening-lawsuit) |Despite a stellar reference from a landlord of 17 years, Mary Louis was rejected after being screened by firm SafeRent |
-|[.]() | |
-|[.]() | |
+|[Does RLHF Scale? Exploring the Impacts From Data, Model, and Method.](https://arxiv.org/abs/2412.06000) | This paper examines the key components of the RLHF framework and their impacts, revealing the following insights: RLHF scales less effectively than pretraining for LLMs, with larger policy models benefiting less when using a fixed reward model. Increasing the number of responses sampled per prompt during training improves performance initially but plateaus at 4-8 samples. Larger reward models enhance reasoning task performance, but gains are inconsistent across task types. Increasing training data diversity for reward models is more impactful than boosting response diversity per prompt, though policy training shows diminishing returns beyond the early stages.|
+|[Granite Guardian.](https://arxiv.org/abs/2412.07724) | IBM has open-sourced Granite Guardian, a suite of safeguards for detecting risks in LLMs. With AUC scores of 0.871 on harmful content and 0.854 on RAG-hallucination benchmarks, the authors claim it is the most generalizable and competitive model in the field.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
