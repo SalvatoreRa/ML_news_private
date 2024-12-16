@@ -44,7 +44,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Training Large Language Models to Reason in a Continuous Latent Space.](https://arxiv.org/abs/2412.06769) |Coconut (Chain of Continuous Thought) introduces a novel paradigm enabling LLMs to reason in continuous latent space instead of natural language. By using the LLM's last hidden state as the reasoning state and feeding it back directly as the next input embedding, Coconut achieves "continuous thought." This approach enhances LLM performance on complex reasoning tasks, leveraging emergent breadth-first search capabilities for more effective reasoning. |
-|[Phi-4 Technical Report.](https://arxiv.org/abs/2412.08905) |Phi-4, a 14B model, outperforms its teacher model in STEM-QA capabilities and demonstrates strong results on reasoning-focused benchmarks. These advancements are attributed to improved data quality, an optimized training curriculum, and innovations in the post-training process. |
 |[Asynchronous LLM Function Calling.](https://arxiv.org/abs/2412.07017) | AsyncLM introduces a system for asynchronous LLM function calling, featuring an in-context protocol for function calls and interrupts, along with a fine-tuning strategy to adapt LLMs to interrupt semantics. Efficiently integrated into the LLM inference process, AsyncLM enables concurrent generation and execution of function calls, reducing task completion latency by 1.6x-5.4x compared to synchronous approaches.|
 |[MAG-V: A Multi-Agent Framework for Synthetic Data Generation and Verification.](https://arxiv.org/abs/2412.04494) |This multi-agent framework generates datasets of questions resembling customer queries and reverse engineers alternate questions from responses to verify agent trajectories. The synthetic data improves agent performance on real customer queries. For trajectory verification, it finds that simple ML baselines with feature engineering can achieve comparable performance to more advanced, resource-intensive models. |
 |[.]() | |
@@ -105,8 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Phi-4 Technical Report.](https://arxiv.org/abs/2412.08905) |Phi-4, a 14B model, outperforms its teacher model in STEM-QA capabilities and demonstrates strong results on reasoning-focused benchmarks. These advancements are attributed to improved data quality, an optimized training curriculum, and innovations in the post-training process. |
+|[Clio: Privacy-Preserving Insights into Real-World AI Use.](https://assets.anthropic.com/m/7e1ab885d1b24176/original/Clio-Privacy-Preserving-Insights-into-Real-World-AI-Use.pdf) |This platform leverages AI assistants to analyze and aggregate usage patterns from millions of Claude.ai conversations while preserving user privacy. It provides insights into real-world AI usage, identifying trends, safety risks, and coordinated misuse attempts without requiring human reviewers to access raw conversation data. |
+|[LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods.](https://arxiv.org/abs/2412.05579) | This work presents a comprehensive survey of the LLMs-as-judges paradigm, exploring it through five key perspectives: functionality, methodology, applications, meta-evaluation, and limitations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
