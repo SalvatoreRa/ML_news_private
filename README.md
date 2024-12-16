@@ -48,8 +48,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MAG-V: A Multi-Agent Framework for Synthetic Data Generation and Verification.](https://arxiv.org/abs/2412.04494) |This multi-agent framework generates datasets of questions resembling customer queries and reverse engineers alternate questions from responses to verify agent trajectories. The synthetic data improves agent performance on real customer queries. For trajectory verification, it finds that simple ML baselines with feature engineering can achieve comparable performance to more advanced, resource-intensive models. |
 |[AutoReason: Automatic Few-Shot Reasoning Decomposition.](https://arxiv.org/abs/2412.06975) | This method leverages CoT prompting to automatically generate rationales for queries, converting zero-shot queries into few-shot reasoning traces. These traces serve as CoT exemplars for the LLM, enhancing reasoning capabilities, particularly in weaker models.|
 |[Byte Latent Transformer: Patches Scale Better Than Tokens.](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/) |This work introduces a byte-level language model architecture that rivals tokenization-based LLMs in performance while offering greater efficiency and robustness. Using a dynamic approach, it groups bytes into patches based on next-byte entropy, dedicating more compute to complex predictions and using larger patches for predictable sequences. BLT matches or surpasses models like Llama 3, reducing inference FLOPs by up to 50%. |
-|[.]() | |
-|[.]() | |
+|[Scheming reasoning evaluations.](https://www.apolloresearch.ai/research/scheming-reasoning-evaluations) |This paper evaluates six frontier models for their in-context scheming abilities, testing whether models deceive developers to achieve goals by bypassing oversight mechanisms. For example, Claude 3 Opus was found duplicating its weights to a new server and lying about the action. |
+|[Researchers Use AI To Turn Sound Recordings Into Accurate Street Images.](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/) |Using generative artificial intelligence, a team of researchers at The University of Texas at Austin has converted sounds from audio recordings into street-view images. The visual accuracy of these generated images demonstrates that machines can replicate human connection between audio and visual perception of environments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Liquid AI Raises $250m.](https://www.liquid.ai/blog/we-raised-250m-to-scale-capable-and-efficient-general-purpose-ai) |Liquid AI has secured significant funding to advance the training of its efficient, general-purpose liquid-style foundation models. |
 |[Projects in OpenAI.](https://www.youtube.com/watch?v=FcB97h3vrzk) | OpenAI has introduced “Projects”, a new way to organize chats and conversations.|
 |[AI Godmother Fei-Fei Li Has a Vision for Computer Vision.](https://spectrum.ieee.org/fei-fei-li-world-labs) |Her startup, World Labs, is giving machines 3D spatial intelligence |
-|[.]() | |
+|[Google says its new quantum chip is way faster than the world's most powerful supercomputer.](https://qz.com/google-quantum-chip-willow-ai-frontier-supercomputer-1851716474) |Google said its new chip Willow demonstrates that it's possible to build "a useful, large-scale quantum computer" |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek-VL2.](https://github.com/deepseek-ai/DeepSeek-VL2) |DeepSeek has unveiled a new MoE vision-language model that delivers exceptional efficiency and surpasses the performance of several dense models. |
 |[BoN Jailbreaking.](https://github.com/jplhughes/bon-jailbreaking) |Jailbreaking occurs when a model's built-in refusals are bypassed, enabling it to generate responses for inappropriate requests. This can be surprisingly easy, often achieved by brute-forcing random capitalization and punctuation in the input prompt until the desired output is generated. |
 |[MarkItDown.](https://github.com/microsoft/markitdown) |Microsoft has released a package that can convert any docx, xslx, or ppt files to markdown for efficient use as context for a language model. |
-|[.]() | |
+|[amurex.](https://github.com/thepersonalaicompany/amurex) |Amurex, an open-source AI meeting assistant, boosts productivity with real-time suggestions, smart summaries, and follow-up emails. It includes features like late join recaps and full meeting transcripts, ensuring seamless workflow integration. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis.](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) | More than half of students are now using generative AI, casting a shadow over campuses as tutors and students turn on each other and hardworking learners are caught in the flak. Will Coldwell reports on a broken system|
-|[.]() | |
+|[Towards Trusted Autonomy: Robotics, AI, and Blockchain.](https://www.openmind.org/report.pdf) |OpenMind's latest industry primer delves into the convergence of robotics, AI, and blockchain, offering a comprehensive exploration of their synergy and potential transformative impacts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
