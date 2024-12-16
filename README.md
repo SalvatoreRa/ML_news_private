@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[BBC says it has complained to Apple over AI-generated fake news attributed to broadcaster.](https://www.theguardian.com/media/2024/dec/14/bbc-says-it-has-complained-to-apple-over-ai-generated-fake-news-attributed-to-broadcaster) | Notifications from a new Apple product falsely suggested the BBC claimed the New York gunman Luigi Mangione had killed himself|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis.](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) | More than half of students are now using generative AI, casting a shadow over campuses as tutors and students turn on each other and hardworking learners are caught in the flak. Will Coldwell reports on a broken system|
 |[.]() | |
 |[.]() | |
 |[.]() | |
