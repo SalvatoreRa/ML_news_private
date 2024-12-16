@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[BBC says it has complained to Apple over AI-generated fake news attributed to broadcaster.](https://www.theguardian.com/media/2024/dec/14/bbc-says-it-has-complained-to-apple-over-ai-generated-fake-news-attributed-to-broadcaster) | Notifications from a new Apple product falsely suggested the BBC claimed the New York gunman Luigi Mangione had killed himself|
-|[.]() | |
+|[She didn’t get an apartment because of an AI-generated score – and sued to help others avoid the same fate.](https://www.theguardian.com/technology/2024/dec/14/saferent-ai-tenant-screening-lawsuit) |Despite a stellar reference from a landlord of 17 years, Mary Louis was rejected after being screened by firm SafeRent |
 |[.]() | |
 |[.]() | |
 |[.]() | |
