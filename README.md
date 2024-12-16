@@ -43,8 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Training Large Language Models to Reason in a Continuous Latent Space.](https://arxiv.org/abs/2412.06769) |Coconut (Chain of Continuous Thought) introduces a novel paradigm enabling LLMs to reason in continuous latent space instead of natural language. By using the LLM's last hidden state as the reasoning state and feeding it back directly as the next input embedding, Coconut achieves "continuous thought." This approach enhances LLM performance on complex reasoning tasks, leveraging emergent breadth-first search capabilities for more effective reasoning. |
+|[Phi-4 Technical Report.](https://arxiv.org/abs/2412.08905) |Phi-4, a 14B model, outperforms its teacher model in STEM-QA capabilities and demonstrates strong results on reasoning-focused benchmarks. These advancements are attributed to improved data quality, an optimized training curriculum, and innovations in the post-training process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
