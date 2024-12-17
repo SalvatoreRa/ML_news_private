@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Godmother Fei-Fei Li Has a Vision for Computer Vision.](https://spectrum.ieee.org/fei-fei-li-world-labs) |Her startup, World Labs, is giving machines 3D spatial intelligence |
 |[Google says its new quantum chip is way faster than the world's most powerful supercomputer.](https://qz.com/google-quantum-chip-willow-ai-frontier-supercomputer-1851716474) |Google said its new chip Willow demonstrates that it's possible to build "a useful, large-scale quantum computer" |
 |[EU launches €10bn space programme to rival Musk’s Starlink.](https://www.theguardian.com/business/2024/dec/16/eu-launches-iris2-space-programme-to-rival-musk-starlink) | UK not part of Iris2 project, described as ‘a significant step towards Europe’s sovereignty and secure connectivity’|
-|[.]() | |
-|[.]() | |
+|[TikTok turns to US supreme court in last-ditch bid to avert divest-or-ban law.](https://www.theguardian.com/technology/2024/dec/16/tiktok-ban-supreme-court) |Firm and parent company ByteDance file request for an injunction to halt ban of the app used by 170 million Americans|
+|[Potential payouts for up to 300,000 Australian Facebook users in Cambridge Analytica settlement.](https://www.theguardian.com/australia-news/2024/dec/17/facebook-cambridge-analytica-scandal-settlement-australia) | Office of the Australian Information Commissioner announces deal with Meta over scandal that may have affected 300,000 users|
 |[.]() | |
 |[.]() | |
 |[.]() | |
