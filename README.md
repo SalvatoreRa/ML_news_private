@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon forms an AI agent-focused lab led by Adept’s co-founder.](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/) |Amazon says that it’s establishing a new R&D lab in San Francisco, the Amazon AGI SF Lab, to focus on building “foundational” capabilities for AI agents. |
 |[NVIDIA's GenAI Supercomputer.](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/) |NVIDIA has unveiled its most affordable generative AI supercomputer, “Jetson Orin Nano Super Developer Kit”. |
 |[OpenAI's Developer APIs.](https://www.youtube.com/watch?v=14leJ1fg4Pw) |OpenAI introduces demo developers and updates APIs. |
-|[.]() | |
+|[Grok for Everyone.](https://x.ai/blog/grok-1212) |Grok has a new version and a new efficient model that is available for all users. It also has an improved image generation model and API. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[40+ Years of Satellite Data for ML Research.](https://arxiv.org/abs/2411.16421v1) |The Digital Typhoon Dataset is the longest satellite image dataset for typhoons, spanning over 40 years. |
 |[RetroLLM: Empowering LLMs to Retrieve Fine-grained Evidence within Generation.](https://github.com/sunnynexus/retrollm) | |
 |[Iteration of Thought: LLM based Multi-Agent methods.](https://github.com/AgnostiqHQ/multi-agent-llm) |Iteration of Thought (IoT) introduces dynamic, adaptive prompts to enhance LLM performance. Unlike static methods like Chain of Thought (CoT), IoT adjusts to the specific context of each interaction for improved reasoning. |
-|[.]() | |
+|[A Cost-Effective Architecture with TokenFormer.](https://haiyang-w.github.io/tokenformer.github.io/) |TokenFormer is an innovative architecture developed to address the high computational demands of scaling transformer models, offering a more efficient alternative. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
