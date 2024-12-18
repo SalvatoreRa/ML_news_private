@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK proposes letting tech firms use copyrighted work to train AI.](https://www.theguardian.com/technology/2024/dec/17/uk-proposes-letting-tech-firms-use-copyrighted-work-to-train-ai) |Consultation suggests opt-out scheme for creatives who don’t want their work used by Google, OpenAI and others |
 |[Will the future of transportation be robotaxis – or your own self-driving car?](https://www.theguardian.com/technology/2024/dec/16/robotaxis-general-motors-self-driving) |GM is shutting down its robotaxi business, Tesla is creating one of its own – what does the future hold for self-driving? |
 |[Amazon-hosted AI tool for UK military recruitment ‘carries risk of data breach’.](https://www.theguardian.com/technology/2024/dec/17/amazon-hosted-ai-tool-for-uk-military-recruitment-carries-risk-of-data-breach) | Ministry of Defence says risk with Textio tool is low and ‘robust safeguards’ have been put in place by suppliers|
-|[.]() | |
-|[.]() | |
+|[State-of-the-art video and image generation with Veo 2 and Imagen 3.](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/) | Google has announced a new video model and a new image generation model. Both are stunning improvements over the previous iterations.|
+|[OpenAI Search.](https://www.youtube.com/watch?v=OzgNJJ2ErEE) |OpenAI explores the potential of ChatGPT Search on the 8th day of its announcements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis.](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) | More than half of students are now using generative AI, casting a shadow over campuses as tutors and students turn on each other and hardworking learners are caught in the flak. Will Coldwell reports on a broken system|
 |[Towards Trusted Autonomy: Robotics, AI, and Blockchain.](https://www.openmind.org/report.pdf) |OpenMind's latest industry primer delves into the convergence of robotics, AI, and blockchain, offering a comprehensive exploration of their synergy and potential transformative impacts. |
-|[.]() | |
+|[The AI We Deserve.](https://www.bostonreview.net/forum/the-ai-we-deserve/) |Generative AI is revolutionizing industries such as healthcare, creative fields, and education with powerful tools, while sparking concerns about privacy, bias, and accountability. The debate centers on AI democratization, emphasizing transparency, open-source solutions, and reducing power concentration among tech giants. Advocates for systemic change propose leveraging AI to amplify human intelligence and uphold democratic values beyond market-driven approaches. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
