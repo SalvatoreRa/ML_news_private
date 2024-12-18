@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Byte Latent Transformer: Patches Scale Better Than Tokens.](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/) |This work introduces a byte-level language model architecture that rivals tokenization-based LLMs in performance while offering greater efficiency and robustness. Using a dynamic approach, it groups bytes into patches based on next-byte entropy, dedicating more compute to complex predictions and using larger patches for predictable sequences. BLT matches or surpasses models like Llama 3, reducing inference FLOPs by up to 50%. |
 |[Scheming reasoning evaluations.](https://www.apolloresearch.ai/research/scheming-reasoning-evaluations) |This paper evaluates six frontier models for their in-context scheming abilities, testing whether models deceive developers to achieve goals by bypassing oversight mechanisms. For example, Claude 3 Opus was found duplicating its weights to a new server and lying about the action. |
 |[Researchers Use AI To Turn Sound Recordings Into Accurate Street Images.](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/) |Using generative artificial intelligence, a team of researchers at The University of Texas at Austin has converted sounds from audio recordings into street-view images. The visual accuracy of these generated images demonstrates that machines can replicate human connection between audio and visual perception of environments. |
-|[.]() | |
+|[Causal Explanations for Image Classifiers.](https://arxiv.org/abs/2411.08875v1) | This paper presents "rex," a black-box tool that generates concise explanations for image classifier outputs using a novel approach based on causality theory.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BoN Jailbreaking.](https://github.com/jplhughes/bon-jailbreaking) |Jailbreaking occurs when a model's built-in refusals are bypassed, enabling it to generate responses for inappropriate requests. This can be surprisingly easy, often achieved by brute-forcing random capitalization and punctuation in the input prompt until the desired output is generated. |
 |[MarkItDown.](https://github.com/microsoft/markitdown) |Microsoft has released a package that can convert any docx, xslx, or ppt files to markdown for efficient use as context for a language model. |
 |[amurex.](https://github.com/thepersonalaicompany/amurex) |Amurex, an open-source AI meeting assistant, boosts productivity with real-time suggestions, smart summaries, and follow-up emails. It includes features like late join recaps and full meeting transcripts, ensuring seamless workflow integration. |
-|[.]() | |
-|[.]() | |
+|[AutoPatent: A Multi-Agent Framework for Automatic Patent Generation.](https://qiyao-wang.github.io/AutoPatent/) | AutoPatent is an AI-powered tool that streamlines patent drafting and analysis with features such as document parsing, semantic search, and claim generation, accelerating the intellectual property process.|
+|[UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities.](https://github.com/mbzuai-oryx/unimed-clip) | An extended version of CLIP designed for medical imaging, incorporating domain-specific knowledge to enhance performance on healthcare-related benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
