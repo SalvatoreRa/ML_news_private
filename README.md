@@ -84,10 +84,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EU launches €10bn space programme to rival Musk’s Starlink.](https://www.theguardian.com/business/2024/dec/16/eu-launches-iris2-space-programme-to-rival-musk-starlink) | UK not part of Iris2 project, described as ‘a significant step towards Europe’s sovereignty and secure connectivity’|
 |[TikTok turns to US supreme court in last-ditch bid to avert divest-or-ban law.](https://www.theguardian.com/technology/2024/dec/16/tiktok-ban-supreme-court) |Firm and parent company ByteDance file request for an injunction to halt ban of the app used by 170 million Americans|
 |[Potential payouts for up to 300,000 Australian Facebook users in Cambridge Analytica settlement.](https://www.theguardian.com/australia-news/2024/dec/17/facebook-cambridge-analytica-scandal-settlement-australia) | Office of the Australian Information Commissioner announces deal with Meta over scandal that may have affected 300,000 users|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Chinese AI chip firms blacklisted over weapons concerns gained access to UK technology.](https://www.theguardian.com/technology/2024/dec/18/concerns-chinese-access-uk-microchip-firm-imagination-technologies) | Imagination Technologies had licences with two Chinese firms – but said it had not ‘implemented transactions’ that would enable the use of technology for military purposes|
+|[UK proposes letting tech firms use copyrighted work to train AI.](https://www.theguardian.com/technology/2024/dec/17/uk-proposes-letting-tech-firms-use-copyrighted-work-to-train-ai) |Consultation suggests opt-out scheme for creatives who don’t want their work used by Google, OpenAI and others |
+|[Will the future of transportation be robotaxis – or your own self-driving car?](https://www.theguardian.com/technology/2024/dec/16/robotaxis-general-motors-self-driving) |GM is shutting down its robotaxi business, Tesla is creating one of its own – what does the future hold for self-driving? |
+|[Amazon-hosted AI tool for UK military recruitment ‘carries risk of data breach’.](https://www.theguardian.com/technology/2024/dec/17/amazon-hosted-ai-tool-for-uk-military-recruitment-carries-risk-of-data-breach) | Ministry of Defence says risk with Textio tool is low and ‘robust safeguards’ have been put in place by suppliers|
 |[.]() | |
 |[.]() | |
 |[.]() | |
