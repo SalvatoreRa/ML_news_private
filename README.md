@@ -51,8 +51,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scheming reasoning evaluations.](https://www.apolloresearch.ai/research/scheming-reasoning-evaluations) |This paper evaluates six frontier models for their in-context scheming abilities, testing whether models deceive developers to achieve goals by bypassing oversight mechanisms. For example, Claude 3 Opus was found duplicating its weights to a new server and lying about the action. |
 |[Researchers Use AI To Turn Sound Recordings Into Accurate Street Images.](https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/) |Using generative artificial intelligence, a team of researchers at The University of Texas at Austin has converted sounds from audio recordings into street-view images. The visual accuracy of these generated images demonstrates that machines can replicate human connection between audio and visual perception of environments. |
 |[Causal Explanations for Image Classifiers.](https://arxiv.org/abs/2411.08875v1) | This paper presents "rex," a black-box tool that generates concise explanations for image classifier outputs using a novel approach based on causality theory.|
-|[.]() | |
-|[.]() | |
+|[Aligning Visual and Semantic Interpretability through Visually Grounded Concept Bottleneck Models.](https://arxiv.org/abs/2412.11576v1) | Giraffe introduces a transformer-based architecture that extends the ability to process significantly longer input contexts, setting new benchmarks for context length in open-weight models.|
+|[Adaptive Caching for Faster Video Generation with Diffusion Transformers.](https://adacache-dit.github.io/) | Meta researchers have introduced Adaptive Caching (AdaCache), a training-free approach that accelerates video generation for Diffusion Transformers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,9 +124,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AutoPatent: A Multi-Agent Framework for Automatic Patent Generation.](https://qiyao-wang.github.io/AutoPatent/) | AutoPatent is an AI-powered tool that streamlines patent drafting and analysis with features such as document parsing, semantic search, and claim generation, accelerating the intellectual property process.|
 |[UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities.](https://github.com/mbzuai-oryx/unimed-clip) | An extended version of CLIP designed for medical imaging, incorporating domain-specific knowledge to enhance performance on healthcare-related benchmarks.|
 |[Simple Guidance Mechanisms for Discrete Diffusion Models.](https://discrete-diffusion-guidance.github.io/) |A novel method for improving diffusion models that introduces discrete token guidance to enhance controllability and quality in generative tasks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[40+ Years of Satellite Data for ML Research.](https://arxiv.org/abs/2411.16421v1) |The Digital Typhoon Dataset is the longest satellite image dataset for typhoons, spanning over 40 years. |
+|[RetroLLM: Empowering LLMs to Retrieve Fine-grained Evidence within Generation.](https://github.com/sunnynexus/retrollm) | |
+|[Iteration of Thought: LLM based Multi-Agent methods.](https://github.com/AgnostiqHQ/multi-agent-llm) |Iteration of Thought (IoT) introduces dynamic, adaptive prompts to enhance LLM performance. Unlike static methods like Chain of Thought (CoT), IoT adjusts to the specific context of each interaction for improved reasoning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why Generative AI Still Doesn't Truly "Understand" the World.](https://news.mit.edu/2024/generative-ai-lacks-coherent-world-understanding-1105) | Researchers show that even the best-performing large language models don’t form a true model of the world and its rules, and can thus fail unexpectedly on similar tasks.|
 |[Microsoft AI chief Mustafa Suleyman says conversational AI is the next web browser.](https://www.theverge.com/24314821/microsoft-ai-ceo-mustafa-suleyman-google-deepmind-openai-inflection-agi-decoder-podcast) | The company’s new AI chief on working for Microsoft, the OpenAI relationship, and when superintelligence might actually arrive. |
 |[Huge randomized trial of AI boosts discovery — at least for good scientists.](https://www.nature.com/articles/d41586-024-03939-5) |A controlled study at a firm measured the effects of using AI to assist research, and saw increases in discoveries and patents. |
-|[.]() | |
+|[Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech.](https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech) | The head of the ubiquitous chip design firm on the ‘breathtaking’ pace of AI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
