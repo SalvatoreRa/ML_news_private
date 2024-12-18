@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reddit tests a conversational AI search tool.](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/) |As more AI companies gobble up Reddit’s data to fuel their own chatbots, the popular online forum site has begun testing a new conversational AI feature of its own.  |
 |[Study claims AI could boost detection of breast cancer by 21%.](https://techcrunch.com/2024/12/09/study-claims-ai-could-boost-detection-of-breast-cancer-by-21/) |A U.S. breast-screening program claims to demonstrate the potential benefits of using artificial intelligence (AI) in mammography screening, with women who paid for AI-enhanced scans 21% more likely to have cancer detected. |
 |[Amazon forms an AI agent-focused lab led by Adept’s co-founder.](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/) |Amazon says that it’s establishing a new R&D lab in San Francisco, the Amazon AGI SF Lab, to focus on building “foundational” capabilities for AI agents. |
-|[.]() | |
-|[.]() | |
+|[NVIDIA's GenAI Supercomputer.](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/) |NVIDIA has unveiled its most affordable generative AI supercomputer, “Jetson Orin Nano Super Developer Kit”. |
+|[OpenAI's Developer APIs.](https://www.youtube.com/watch?v=14leJ1fg4Pw) |OpenAI introduces demo developers and updates APIs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
