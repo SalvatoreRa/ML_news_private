@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NVIDIA's GenAI Supercomputer.](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/) |NVIDIA has unveiled its most affordable generative AI supercomputer, “Jetson Orin Nano Super Developer Kit”. |
 |[OpenAI's Developer APIs.](https://www.youtube.com/watch?v=14leJ1fg4Pw) |OpenAI introduces demo developers and updates APIs. |
 |[Grok for Everyone.](https://x.ai/blog/grok-1212) |Grok has a new version and a new efficient model that is available for all users. It also has an improved image generation model and API. |
-|[.]() | |
-|[.]() | |
+|[YouTube’s new auto-dubbing feature is now available for knowledge-focused content.](https://techcrunch.com/2024/12/10/youtubes-new-auto-dubbing-feature-is-now-available-for-knowledge-focused-content/) | YouTube's auto-dubbing feature is now available to hundreds of thousands more channels, focusing initially on informational content.|
+|[Google kicks off $20B renewable energy building spree to power AI.](https://techcrunch.com/2024/12/10/google-kicks-off-20b-renewable-energy-building-spree-to-power-ai/) | Nuclear power may have received the lion’s share of attention from energy hungry tech companies over the past few months, with Google among them. But it appears that those new reactors won’t be enough for their AI ambitions: Google is now working with partners to build gigawatts of renewable power, battery storage, and grid upgrades to power its data centers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,8 +152,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft AI chief Mustafa Suleyman says conversational AI is the next web browser.](https://www.theverge.com/24314821/microsoft-ai-ceo-mustafa-suleyman-google-deepmind-openai-inflection-agi-decoder-podcast) | The company’s new AI chief on working for Microsoft, the OpenAI relationship, and when superintelligence might actually arrive. |
 |[Huge randomized trial of AI boosts discovery — at least for good scientists.](https://www.nature.com/articles/d41586-024-03939-5) |A controlled study at a firm measured the effects of using AI to assist research, and saw increases in discoveries and patents. |
 |[Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech.](https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech) | The head of the ubiquitous chip design firm on the ‘breathtaking’ pace of AI. |
-|[.]() | |
-|[.]() | |
+|[What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/) |World models, also known as world simulators, are being touted by some as the next big thing in AI. |
+|[15 Times to use AI, and 5 Not to.](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to) | AI is valuable for tasks like idea generation, summarization, and translation, where diverse perspectives or large outputs are beneficial. It performs well when humans can easily evaluate its results and in low-risk scenarios. However, in high-stakes or unfamiliar situations, AI may hinder learning or accuracy, requiring thoughtful judgment to balance its advantages and limitations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
