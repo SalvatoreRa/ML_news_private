@@ -90,6 +90,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon-hosted AI tool for UK military recruitment ‘carries risk of data breach’.](https://www.theguardian.com/technology/2024/dec/17/amazon-hosted-ai-tool-for-uk-military-recruitment-carries-risk-of-data-breach) | Ministry of Defence says risk with Textio tool is low and ‘robust safeguards’ have been put in place by suppliers|
 |[State-of-the-art video and image generation with Veo 2 and Imagen 3.](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/) | Google has announced a new video model and a new image generation model. Both are stunning improvements over the previous iterations.|
 |[OpenAI Search.](https://www.youtube.com/watch?v=OzgNJJ2ErEE) |OpenAI explores the potential of ChatGPT Search on the 8th day of its announcements. |
+|[Reddit tests a conversational AI search tool.](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/) |As more AI companies gobble up Reddit’s data to fuel their own chatbots, the popular online forum site has begun testing a new conversational AI feature of its own.  |
+|[Study claims AI could boost detection of breast cancer by 21%.](https://techcrunch.com/2024/12/09/study-claims-ai-could-boost-detection-of-breast-cancer-by-21/) |A U.S. breast-screening program claims to demonstrate the potential benefits of using artificial intelligence (AI) in mammography screening, with women who paid for AI-enhanced scans 21% more likely to have cancer detected. |
+|[Amazon forms an AI agent-focused lab led by Adept’s co-founder.](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/) |Amazon says that it’s establishing a new R&D lab in San Francisco, the Amazon AGI SF Lab, to focus on building “foundational” capabilities for AI agents. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[amurex.](https://github.com/thepersonalaicompany/amurex) |Amurex, an open-source AI meeting assistant, boosts productivity with real-time suggestions, smart summaries, and follow-up emails. It includes features like late join recaps and full meeting transcripts, ensuring seamless workflow integration. |
 |[AutoPatent: A Multi-Agent Framework for Automatic Patent Generation.](https://qiyao-wang.github.io/AutoPatent/) | AutoPatent is an AI-powered tool that streamlines patent drafting and analysis with features such as document parsing, semantic search, and claim generation, accelerating the intellectual property process.|
 |[UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities.](https://github.com/mbzuai-oryx/unimed-clip) | An extended version of CLIP designed for medical imaging, incorporating domain-specific knowledge to enhance performance on healthcare-related benchmarks.|
-|[.]() | |
+|[Simple Guidance Mechanisms for Discrete Diffusion Models.](https://discrete-diffusion-guidance.github.io/) |A novel method for improving diffusion models that introduces discrete token guidance to enhance controllability and quality in generative tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,9 +148,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis.](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) | More than half of students are now using generative AI, casting a shadow over campuses as tutors and students turn on each other and hardworking learners are caught in the flak. Will Coldwell reports on a broken system|
 |[Towards Trusted Autonomy: Robotics, AI, and Blockchain.](https://www.openmind.org/report.pdf) |OpenMind's latest industry primer delves into the convergence of robotics, AI, and blockchain, offering a comprehensive exploration of their synergy and potential transformative impacts. |
 |[The AI We Deserve.](https://www.bostonreview.net/forum/the-ai-we-deserve/) |Generative AI is revolutionizing industries such as healthcare, creative fields, and education with powerful tools, while sparking concerns about privacy, bias, and accountability. The debate centers on AI democratization, emphasizing transparency, open-source solutions, and reducing power concentration among tech giants. Advocates for systemic change propose leveraging AI to amplify human intelligence and uphold democratic values beyond market-driven approaches. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Why Generative AI Still Doesn't Truly "Understand" the World.](https://news.mit.edu/2024/generative-ai-lacks-coherent-world-understanding-1105) | Researchers show that even the best-performing large language models don’t form a true model of the world and its rules, and can thus fail unexpectedly on similar tasks.|
+|[Microsoft AI chief Mustafa Suleyman says conversational AI is the next web browser.](https://www.theverge.com/24314821/microsoft-ai-ceo-mustafa-suleyman-google-deepmind-openai-inflection-agi-decoder-podcast) | The company’s new AI chief on working for Microsoft, the OpenAI relationship, and when superintelligence might actually arrive. |
+|[Huge randomized trial of AI boosts discovery — at least for good scientists.](https://www.nature.com/articles/d41586-024-03939-5) |A controlled study at a firm measured the effects of using AI to assist research, and saw increases in discoveries and patents. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
