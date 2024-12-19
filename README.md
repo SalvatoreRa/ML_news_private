@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok for Everyone.](https://x.ai/blog/grok-1212) |Grok has a new version and a new efficient model that is available for all users. It also has an improved image generation model and API. |
 |[YouTube’s new auto-dubbing feature is now available for knowledge-focused content.](https://techcrunch.com/2024/12/10/youtubes-new-auto-dubbing-feature-is-now-available-for-knowledge-focused-content/) | YouTube's auto-dubbing feature is now available to hundreds of thousands more channels, focusing initially on informational content.|
 |[Google kicks off $20B renewable energy building spree to power AI.](https://techcrunch.com/2024/12/10/google-kicks-off-20b-renewable-energy-building-spree-to-power-ai/) | Nuclear power may have received the lion’s share of attention from energy hungry tech companies over the past few months, with Google among them. But it appears that those new reactors won’t be enough for their AI ambitions: Google is now working with partners to build gigawatts of renewable power, battery storage, and grid upgrades to power its data centers.|
-|[.]() | |
-|[.]() | |
+|[‘A truly remarkable breakthrough’: Google’s new quantum chip achieves accuracy milestone.](https://www.nature.com/articles/d41586-024-04028-3) |Error-correction feat shows quantum computers will get more accurate as they grow larger. |
+|[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) | Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
