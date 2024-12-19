@@ -102,8 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) | Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them.|
 |[AI weatherman: the DeepMind researcher making faster, more accurate forecasts.](https://www.nature.com/articles/d41586-024-03898-x) | Rémi Lam is part of Nature’s 10, a list of people who shaped science in 2024.|
 |[Amazon workers across US gear up to strike this week.](https://www.theguardian.com/us-news/2024/dec/17/amazon-worker-strike) |Move comes after company fails to meet deadline to begin contract talks with workers in Staten Island, New York |
-|[.]() | |
-|[.]() | |
+|[OpenAI makes ChatGPT available for phone calls and texts.](https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html) | On day 10, OpenAI announced free voice mode and texting via WhatsApp, available globally for a limited number of minutes per month. The service leverages the Advanced Voice Mode API.|
+|[GitHub Copilot Now Free for VS Code.](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) |Now automatically integrated into VS Code, all of you have access to 2,000 code completions and 50 chat messages per month, simply by signing in with your personal GitHub account. Or by creating a new one. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -164,7 +164,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What should we do if AI becomes conscious? These scientists say it’s time for a plan.](https://www.nature.com/articles/d41586-024-04023-8) |Researchers call on technology companies to test their systems for consciousness and create AI welfare policies. |
 |[Sci-fi icon Kim Stanley Robinson: ‘there’s so much bad fiction about anthropomorphizing AI’.](https://www.nature.com/articles/d41586-024-04116-4) | The influential writer talks about frighteningly accurate predictions, the creative act of reading, AI consciousness — and hope.|
 |[Why probability probably doesn’t exist (but it is useful to act like it does).](https://www.nature.com/articles/d41586-024-04096-5) | All of statistics and much of science depends on probability — an astonishing achievement, considering no one’s really sure what it is.|
-|[.]() | |
+|[The Second Gemini.](https://thezvi.substack.com/p/the-second-gemini) |Google has launched Gemini Flash 2.0, offering advanced features such as deep research capabilities, a real-time multimodal API, and a functional code interpreter. Experimental projects like Astra, Mariner, and Jules focus on universal AI assistance, web reasoning, and code automation. Despite these innovations, clearer communication about their capabilities is needed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
