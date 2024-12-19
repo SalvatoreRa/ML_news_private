@@ -135,9 +135,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RetroLLM: Empowering LLMs to Retrieve Fine-grained Evidence within Generation.](https://github.com/sunnynexus/retrollm) | |
 |[Iteration of Thought: LLM based Multi-Agent methods.](https://github.com/AgnostiqHQ/multi-agent-llm) |Iteration of Thought (IoT) introduces dynamic, adaptive prompts to enhance LLM performance. Unlike static methods like Chain of Thought (CoT), IoT adjusts to the specific context of each interaction for improved reasoning. |
 |[A Cost-Effective Architecture with TokenFormer.](https://haiyang-w.github.io/tokenformer.github.io/) |TokenFormer is an innovative architecture developed to address the high computational demands of scaling transformer models, offering a more efficient alternative. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[BrushEdit.](https://github.com/TencentARC/BrushEdit) | An all-in-one model and system for image inpainting and editing that divides the process into sequences for editing, masking, and inpainting. It leverages pre-trained vision-language models (like GPT-4o) to enhance object understanding and masking accuracy. |
+|[Attentive Eraser: Unleashing Diffusion Model’s Object Removal Potential via Self-Attention Redirection Guidance.](https://github.com/anonym0u3/attentiveeraser) |A tool for selectively erasing tokens from text while maintaining context, optimized for enhancing text anonymization workflows. |
+|[VidTok: A Versatile and Open-Source Video Tokenizer.](https://arxiv.org/abs/2412.13061v1) | VidTok is a powerful video tokenizer offering state-of-the-art performance in both continuous and discrete tokenization tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
