@@ -155,8 +155,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/) |World models, also known as world simulators, are being touted by some as the next big thing in AI. |
 |[15 Times to use AI, and 5 Not to.](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to) | AI is valuable for tasks like idea generation, summarization, and translation, where diverse perspectives or large outputs are beneficial. It performs well when humans can easily evaluate its results and in low-risk scenarios. However, in high-stakes or unfamiliar situations, AI may hinder learning or accuracy, requiring thoughtful judgment to balance its advantages and limitations.|
 |[What should we do if AI becomes conscious? These scientists say it’s time for a plan.](https://www.nature.com/articles/d41586-024-04023-8) |Researchers call on technology companies to test their systems for consciousness and create AI welfare policies. |
-|[.]() | |
-|[.]() | |
+|[Sci-fi icon Kim Stanley Robinson: ‘there’s so much bad fiction about anthropomorphizing AI’.](https://www.nature.com/articles/d41586-024-04116-4) | The influential writer talks about frighteningly accurate predictions, the creative act of reading, AI consciousness — and hope.|
+|[Why probability probably doesn’t exist (but it is useful to act like it does).](https://www.nature.com/articles/d41586-024-04096-5) | All of statistics and much of science depends on probability — an astonishing achievement, considering no one’s really sure what it is.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
