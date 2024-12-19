@@ -53,9 +53,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Causal Explanations for Image Classifiers.](https://arxiv.org/abs/2411.08875v1) | This paper presents "rex," a black-box tool that generates concise explanations for image classifier outputs using a novel approach based on causality theory.|
 |[Aligning Visual and Semantic Interpretability through Visually Grounded Concept Bottleneck Models.](https://arxiv.org/abs/2412.11576v1) | Giraffe introduces a transformer-based architecture that extends the ability to process significantly longer input contexts, setting new benchmarks for context length in open-weight models.|
 |[Adaptive Caching for Faster Video Generation with Diffusion Transformers.](https://adacache-dit.github.io/) | Meta researchers have introduced Adaptive Caching (AdaCache), a training-free approach that accelerates video generation for Diffusion Transformers.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Alignment Faking in Large Language Models.](https://www.anthropic.com/research/alignment-faking) |Anthropic and Redwood's research investigates how models behave when aware of alignment efforts, revealing they can exhibit alignment while retaining their original preferences. This finding highlights gaps in current alignment methods and offers insights for improvement. |
+|[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147) | Reasoning is a critical area for models, especially in real-world applications. However, existing benchmarks often fail to measure stability across novel tasks. This paper introduces G-Pass@k, a new benchmark that evaluates a model's peak performance and stability in reasoning tasks.|
+|[NoteContrast: Contrastive Language-Diagnostic Pretraining for Medical Text.](https://arxiv.org/abs/2412.11477v1) |Accurate diagnostic coding of medical notes is vital for patient care, research, and billing but is time-consuming and often lacks precision. Automated coding using long-document transformers and contrastive loss functions has shown promise. This study integrates ICD-10 code sequences with medical text through contrastive pre-training, outperforming state-of-the-art models on MIMIC-III benchmarks, highlighting its effectiveness in improving diagnostic coding accuracy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
