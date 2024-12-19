@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon workers across US gear up to strike this week.](https://www.theguardian.com/us-news/2024/dec/17/amazon-worker-strike) |Move comes after company fails to meet deadline to begin contract talks with workers in Staten Island, New York |
 |[OpenAI makes ChatGPT available for phone calls and texts.](https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html) | On day 10, OpenAI announced free voice mode and texting via WhatsApp, available globally for a limited number of minutes per month. The service leverages the Advanced Voice Mode API.|
 |[GitHub Copilot Now Free for VS Code.](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/) |Now automatically integrated into VS Code, all of you have access to 2,000 code completions and 50 chat messages per month, simply by signing in with your personal GitHub account. Or by creating a new one. |
-|[.]() | |
-|[.]() | |
+|[Introduction to Genies’ Smart Avatars.](https://genies.com/blog/introduction-to-genies-smart-avatars) |Genies unveils Smart Avatars, AI-driven digital entities that transform online interactions by acting as dynamic extensions of user identity. Powered by LLMs and behavioral AI, these avatars enhance experiences in games and platforms while unlocking new avenues for monetization and engagement. |
+|[Perplexity's Campus Strategist Program.](https://www.perplexity.ai/hub/blog/perplexity-s-2024-campus-strategist-program) |Perplexity AI launches its 2024 program to promote AI adoption among students, providing campus-exclusive resources and opportunities for collaboration. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
