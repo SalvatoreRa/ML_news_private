@@ -101,6 +101,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘A truly remarkable breakthrough’: Google’s new quantum chip achieves accuracy milestone.](https://www.nature.com/articles/d41586-024-04028-3) |Error-correction feat shows quantum computers will get more accurate as they grow larger. |
 |[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) | Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them.|
 |[AI weatherman: the DeepMind researcher making faster, more accurate forecasts.](https://www.nature.com/articles/d41586-024-03898-x) | Rémi Lam is part of Nature’s 10, a list of people who shaped science in 2024.|
+|[Amazon workers across US gear up to strike this week.](https://www.theguardian.com/us-news/2024/dec/17/amazon-worker-strike) |Move comes after company fails to meet deadline to begin contract talks with workers in Staten Island, New York |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
