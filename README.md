@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google kicks off $20B renewable energy building spree to power AI.](https://techcrunch.com/2024/12/10/google-kicks-off-20b-renewable-energy-building-spree-to-power-ai/) | Nuclear power may have received the lion’s share of attention from energy hungry tech companies over the past few months, with Google among them. But it appears that those new reactors won’t be enough for their AI ambitions: Google is now working with partners to build gigawatts of renewable power, battery storage, and grid upgrades to power its data centers.|
 |[‘A truly remarkable breakthrough’: Google’s new quantum chip achieves accuracy milestone.](https://www.nature.com/articles/d41586-024-04028-3) |Error-correction feat shows quantum computers will get more accurate as they grow larger. |
 |[Publishers are selling papers to train AIs — and making millions of dollars.](https://www.nature.com/articles/d41586-024-04018-5) | Generative-AI models require massive amounts of data — scholarly publishers are licensing their content to train them.|
-|[.]() | |
+|[AI weatherman: the DeepMind researcher making faster, more accurate forecasts.](https://www.nature.com/articles/d41586-024-03898-x) | Rémi Lam is part of Nature’s 10, a list of people who shaped science in 2024.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Arm CEO Rene Haas on the AI chip race, Intel, and what Trump means for tech.](https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech) | The head of the ubiquitous chip design firm on the ‘breathtaking’ pace of AI. |
 |[What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/) |World models, also known as world simulators, are being touted by some as the next big thing in AI. |
 |[15 Times to use AI, and 5 Not to.](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to) | AI is valuable for tasks like idea generation, summarization, and translation, where diverse perspectives or large outputs are beneficial. It performs well when humans can easily evaluate its results and in low-risk scenarios. However, in high-stakes or unfamiliar situations, AI may hinder learning or accuracy, requiring thoughtful judgment to balance its advantages and limitations.|
-|[.]() | |
+|[What should we do if AI becomes conscious? These scientists say it’s time for a plan.](https://www.nature.com/articles/d41586-024-04023-8) |Researchers call on technology companies to test their systems for consciousness and create AI welfare policies. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
