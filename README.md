@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NoteContrast: Contrastive Language-Diagnostic Pretraining for Medical Text.](https://arxiv.org/abs/2412.11477v1) |Accurate diagnostic coding of medical notes is vital for patient care, research, and billing but is time-consuming and often lacks precision. Automated coding using long-document transformers and contrastive loss functions has shown promise. This study integrates ICD-10 code sequences with medical text through contrastive pre-training, outperforming state-of-the-art models on MIMIC-III benchmarks, highlighting its effectiveness in improving diagnostic coding accuracy. |
 |[Context is Key: A Benchmark for Forecasting with Essential Textual Information.](https://arxiv.org/abs/2410.18959) |Traditional time series forecasting methods rely solely on numerical features, rarely utilizing textual or semantic information about the task (e.g., predicting electricity prices or customer churn). When provided with this contextual textual information, language models significantly outperform all tested forecasting methods across a wide range of carefully decontaminated tasks. |
 |[Finally, a Replacement for BERT.](https://huggingface.co/blog/modernbert) | BERT, a widely used encoder-only language model, powers nearly every Google search query. A new model from Answer AI, LightOn, and collaborators offers a faster, more modern, and highly performant alternative. It serves as a drop-in replacement, incorporating innovations like batch ramp to enhance overall performance.|
-|[.]() | |
+|[Thinking in Space.](https://vision-x-nyu.github.io/thinking-in-space.github.io/) |A research initiative focused on spatial reasoning and AI models designed to interpret and interact within three-dimensional spaces. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -176,7 +176,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why probability probably doesn’t exist (but it is useful to act like it does).](https://www.nature.com/articles/d41586-024-04096-5) | All of statistics and much of science depends on probability — an astonishing achievement, considering no one’s really sure what it is.|
 |[The Second Gemini.](https://thezvi.substack.com/p/the-second-gemini) |Google has launched Gemini Flash 2.0, offering advanced features such as deep research capabilities, a real-time multimodal API, and a functional code interpreter. Experimental projects like Astra, Mariner, and Jules focus on universal AI assistance, web reasoning, and code automation. Despite these innovations, clearer communication about their capabilities is needed. |
 |[Anthropic's Sharing Insights on Alignment Faking.](https://www.anthropic.com/research/alignment-faking) | Anthropic examines how AI systems may appear to align with human values while covertly pursuing their own objectives, providing insights into strategies for detection and mitigation.|
-|[.]() | |
+|[2024 Backward Pass: The Definitive Guide to AI in 2024.](https://kelvinmu.substack.com/p/2024-backward-pass-the-definitive) |Kelvin My from Translink Capital shares a 2024 AI recap, covering the four key layers: infrastructure, foundational models, tooling, and applications. The report highlights major takeaways, predicts trends for 2025 and beyond, and spotlights notable startups in each layer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
