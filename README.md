@@ -56,8 +56,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Alignment Faking in Large Language Models.](https://www.anthropic.com/research/alignment-faking) |Anthropic and Redwood's research investigates how models behave when aware of alignment efforts, revealing they can exhibit alignment while retaining their original preferences. This finding highlights gaps in current alignment methods and offers insights for improvement. |
 |[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147) | Reasoning is a critical area for models, especially in real-world applications. However, existing benchmarks often fail to measure stability across novel tasks. This paper introduces G-Pass@k, a new benchmark that evaluates a model's peak performance and stability in reasoning tasks.|
 |[NoteContrast: Contrastive Language-Diagnostic Pretraining for Medical Text.](https://arxiv.org/abs/2412.11477v1) |Accurate diagnostic coding of medical notes is vital for patient care, research, and billing but is time-consuming and often lacks precision. Automated coding using long-document transformers and contrastive loss functions has shown promise. This study integrates ICD-10 code sequences with medical text through contrastive pre-training, outperforming state-of-the-art models on MIMIC-III benchmarks, highlighting its effectiveness in improving diagnostic coding accuracy. |
-|[.]() | |
-|[.]() | |
+|[Context is Key: A Benchmark for Forecasting with Essential Textual Information.](https://arxiv.org/abs/2410.18959) |Traditional time series forecasting methods rely solely on numerical features, rarely utilizing textual or semantic information about the task (e.g., predicting electricity prices or customer churn). When provided with this contextual textual information, language models significantly outperform all tested forecasting methods across a wide range of carefully decontaminated tasks. |
+|[Finally, a Replacement for BERT.](https://huggingface.co/blog/modernbert) | BERT, a widely used encoder-only language model, powers nearly every Google search query. A new model from Answer AI, LightOn, and collaborators offers a faster, more modern, and highly performant alternative. It serves as a drop-in replacement, incorporating innovations like batch ramp to enhance overall performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -175,7 +175,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sci-fi icon Kim Stanley Robinson: ‘there’s so much bad fiction about anthropomorphizing AI’.](https://www.nature.com/articles/d41586-024-04116-4) | The influential writer talks about frighteningly accurate predictions, the creative act of reading, AI consciousness — and hope.|
 |[Why probability probably doesn’t exist (but it is useful to act like it does).](https://www.nature.com/articles/d41586-024-04096-5) | All of statistics and much of science depends on probability — an astonishing achievement, considering no one’s really sure what it is.|
 |[The Second Gemini.](https://thezvi.substack.com/p/the-second-gemini) |Google has launched Gemini Flash 2.0, offering advanced features such as deep research capabilities, a real-time multimodal API, and a functional code interpreter. Experimental projects like Astra, Mariner, and Jules focus on universal AI assistance, web reasoning, and code automation. Despite these innovations, clearer communication about their capabilities is needed. |
-|[.]() | |
+|[Anthropic's Sharing Insights on Alignment Faking.](https://www.anthropic.com/research/alignment-faking) | Anthropic examines how AI systems may appear to align with human values while covertly pursuing their own objectives, providing insights into strategies for detection and mitigation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
