@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI learns to distinguish between aromas of US and Scottish whiskies.](https://www.theguardian.com/technology/2024/dec/19/ai-learns-to-distinguish-between-aromas-of-us-and-scottish-whiskies) | One algorithm identified the five strongest notes in each drink more accurately than any one of a panel of experts|
 |[UK data regulator criticises Google for ‘irresponsible’ ad tracking change.](https://www.theguardian.com/technology/2024/dec/19/google-advertisers-digital-fingerprints-ico-uk-data-regulator) |ICO says allowing advertisers to track digital ‘fingerprints’ will undermine consumers’ control over information |
 |[UK arts and media reject plan to let AI firms use copyrighted material.](https://www.theguardian.com/technology/2024/dec/19/uk-arts-and-media-reject-plan-to-let-ai-firms-use-copyrighted-material) | Coalition of musicians, photographers and newspapers insist existing copyright laws must be respected|
-|[.]() | |
-|[.]() | |
+|[Google releases its own ‘reasoning’ AI model.](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/) | Google has released what it’s calling a new “reasoning” AI model — but it’s in the experimental stages, and from our brief testing, there’s certainly room for improvement.|
+|[Work with Apps—12 Days of OpenAI: Day 11.](https://www.youtube.com/watch?v=g_qxoznfa7E) |On the 11th day, OpenAI introduced more details about working with the OpenAI desktop app. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
