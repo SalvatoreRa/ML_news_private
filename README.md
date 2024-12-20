@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft Unveils Zero-Water Data Centers to Reduce AI Climate Impact.](https://finance.yahoo.com/news/microsoft-unveils-zero-water-data-170002064.html) | Microsoft Corp., trying to mitigate the climate impact of its data center building boom, is starting to roll out a new design that uses zero water to cool the facilities’ chips and servers. |
 |[Surrey announces world's first AI model for near-instant image creation on consumer-grade hardware.](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware) |A groundbreaking AI model that creates images as the user types, using only modest and affordable hardware, has been announced by the Surrey Institute for People-Centred Artificial Intelligence (PAI) at the University of Surrey.   |
 |[AI learns to distinguish between aromas of US and Scottish whiskies.](https://www.theguardian.com/technology/2024/dec/19/ai-learns-to-distinguish-between-aromas-of-us-and-scottish-whiskies) | One algorithm identified the five strongest notes in each drink more accurately than any one of a panel of experts|
-|[.]() | |
-|[.]() | |
+|[UK data regulator criticises Google for ‘irresponsible’ ad tracking change.](https://www.theguardian.com/technology/2024/dec/19/google-advertisers-digital-fingerprints-ico-uk-data-regulator) |ICO says allowing advertisers to track digital ‘fingerprints’ will undermine consumers’ control over information |
+|[UK arts and media reject plan to let AI firms use copyrighted material.](https://www.theguardian.com/technology/2024/dec/19/uk-arts-and-media-reject-plan-to-let-ai-firms-use-copyrighted-material) | Coalition of musicians, photographers and newspapers insist existing copyright laws must be respected|
 |[.]() | |
 |[.]() | |
 |[.]() | |
