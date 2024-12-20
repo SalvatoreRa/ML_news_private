@@ -110,6 +110,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta launches open source Llama 3.3, shrinking powerful bigger model into smaller size.](https://venturebeat.com/ai/meta-launches-open-source-llama-3-3-shrinking-powerful-bigger-model-into-smaller-size/) | Meta's Llama 3.3 is a cost-efficient open-source LLM with 70 billion parameters that offers performance on par with larger models like the 405B Llama 3.1, but with significantly reduced GPU and power costs.|
 |[Microsoft Unveils Zero-Water Data Centers to Reduce AI Climate Impact.](https://finance.yahoo.com/news/microsoft-unveils-zero-water-data-170002064.html) | Microsoft Corp., trying to mitigate the climate impact of its data center building boom, is starting to roll out a new design that uses zero water to cool the facilities’ chips and servers. |
 |[Surrey announces world's first AI model for near-instant image creation on consumer-grade hardware.](https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware) |A groundbreaking AI model that creates images as the user types, using only modest and affordable hardware, has been announced by the Surrey Institute for People-Centred Artificial Intelligence (PAI) at the University of Surrey.   |
+|[AI learns to distinguish between aromas of US and Scottish whiskies.](https://www.theguardian.com/technology/2024/dec/19/ai-learns-to-distinguish-between-aromas-of-us-and-scottish-whiskies) | One algorithm identified the five strongest notes in each drink more accurately than any one of a panel of experts|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
