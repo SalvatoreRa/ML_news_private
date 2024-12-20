@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK arts and media reject plan to let AI firms use copyrighted material.](https://www.theguardian.com/technology/2024/dec/19/uk-arts-and-media-reject-plan-to-let-ai-firms-use-copyrighted-material) | Coalition of musicians, photographers and newspapers insist existing copyright laws must be respected|
 |[Google releases its own ‘reasoning’ AI model.](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/) | Google has released what it’s calling a new “reasoning” AI model — but it’s in the experimental stages, and from our brief testing, there’s certainly room for improvement.|
 |[Work with Apps—12 Days of OpenAI: Day 11.](https://www.youtube.com/watch?v=g_qxoznfa7E) |On the 11th day, OpenAI introduced more details about working with the OpenAI desktop app. |
-|[.]() | |
+|[AI is booming on the App Store, and developers are taking advantage of it.](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography) |Many high-ranking AI apps feel like an attempted cash grab, and it’s not easy to spot the trash from the treasure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,8 +150,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VidTok: A Versatile and Open-Source Video Tokenizer.](https://arxiv.org/abs/2412.13061v1) | VidTok is a powerful video tokenizer offering state-of-the-art performance in both continuous and discrete tokenization tasks.|
 |[Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation.](https://promptda.github.io/) |This method combines low-cost LiDAR, like that in modern iPhones, with a depth estimation foundation model to generate high-fidelity point clouds. The approach outperforms either method alone and rivals the quality of expensive LiDAR systems used in self-driving cars. |
 |[AniDoc.](https://yihao-meng.github.io/AniDoc_demo/) | AniDoc is a line-filling method for anime colorization that uses a character reference image and a series of line art keyframes to generate consistent and accurate coloring.|
-|[.]() | |
-|[.]() | |
+|[Gaussian Transformer for 3D Spatial Understanding.](https://arxiv.org/abs/2412.13193v1) | This paper presents GaussTR, an innovative Gaussian Transformer that aligns with foundation models to enhance self-supervised 3D spatial understanding.|
+|[CAD-Recode: Reverse Engineering CAD Code from Point Clouds.](https://github.com/filaPro/cad-recode) | An open-source tool for Computer-Aided Diagnosis, offering a modular and scalable platform for medical imaging research and development.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
