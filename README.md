@@ -148,8 +148,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BrushEdit.](https://github.com/TencentARC/BrushEdit) | An all-in-one model and system for image inpainting and editing that divides the process into sequences for editing, masking, and inpainting. It leverages pre-trained vision-language models (like GPT-4o) to enhance object understanding and masking accuracy. |
 |[Attentive Eraser: Unleashing Diffusion Model’s Object Removal Potential via Self-Attention Redirection Guidance.](https://github.com/anonym0u3/attentiveeraser) |A tool for selectively erasing tokens from text while maintaining context, optimized for enhancing text anonymization workflows. |
 |[VidTok: A Versatile and Open-Source Video Tokenizer.](https://arxiv.org/abs/2412.13061v1) | VidTok is a powerful video tokenizer offering state-of-the-art performance in both continuous and discrete tokenization tasks.|
-|[.]() | |
-|[.]() | |
+|[Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation.](https://promptda.github.io/) |This method combines low-cost LiDAR, like that in modern iPhones, with a depth estimation foundation model to generate high-fidelity point clouds. The approach outperforms either method alone and rivals the quality of expensive LiDAR systems used in self-driving cars. |
+|[AniDoc.](https://yihao-meng.github.io/AniDoc_demo/) | AniDoc is a line-filling method for anime colorization that uses a character reference image and a series of line art keyframes to generate consistent and accurate coloring.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
