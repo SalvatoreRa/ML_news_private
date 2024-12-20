@@ -116,7 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google releases its own ‘reasoning’ AI model.](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/) | Google has released what it’s calling a new “reasoning” AI model — but it’s in the experimental stages, and from our brief testing, there’s certainly room for improvement.|
 |[Work with Apps—12 Days of OpenAI: Day 11.](https://www.youtube.com/watch?v=g_qxoznfa7E) |On the 11th day, OpenAI introduced more details about working with the OpenAI desktop app. |
 |[AI is booming on the App Store, and developers are taking advantage of it.](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography) |Many high-ranking AI apps feel like an attempted cash grab, and it’s not easy to spot the trash from the treasure. |
-|[.]() | |
+|[Blood Tests Are Far From Perfect — But Machine Learning Could Change That.](https://www.inverse.com/health/blood-tests-machine-learning-advances) |Researchers at the University of Washington and Harvard have used machine learning to create personalized blood test references, enhancing disease prediction accuracy. |
+|[OpenAI cofounder Ilya Sutskever says the way AI is built is about to change.](https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training) | “We’ve achieved peak data and there’ll be no more,” OpenAI’s former chief scientist told a crowd of AI researchers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AniDoc.](https://yihao-meng.github.io/AniDoc_demo/) | AniDoc is a line-filling method for anime colorization that uses a character reference image and a series of line art keyframes to generate consistent and accurate coloring.|
 |[Gaussian Transformer for 3D Spatial Understanding.](https://arxiv.org/abs/2412.13193v1) | This paper presents GaussTR, an innovative Gaussian Transformer that aligns with foundation models to enhance self-supervised 3D spatial understanding.|
 |[CAD-Recode: Reverse Engineering CAD Code from Point Clouds.](https://github.com/filaPro/cad-recode) | An open-source tool for Computer-Aided Diagnosis, offering a modular and scalable platform for medical imaging research and development.|
-|[.]() | |
+|[Serverless LoRA Inference.](https://docs.together.ai/docs/lora-inference) | Together AI introduces a new product that allows users to deploy custom LoRA models at the cost of the base model using serverless switching.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -177,7 +178,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Second Gemini.](https://thezvi.substack.com/p/the-second-gemini) |Google has launched Gemini Flash 2.0, offering advanced features such as deep research capabilities, a real-time multimodal API, and a functional code interpreter. Experimental projects like Astra, Mariner, and Jules focus on universal AI assistance, web reasoning, and code automation. Despite these innovations, clearer communication about their capabilities is needed. |
 |[Anthropic's Sharing Insights on Alignment Faking.](https://www.anthropic.com/research/alignment-faking) | Anthropic examines how AI systems may appear to align with human values while covertly pursuing their own objectives, providing insights into strategies for detection and mitigation.|
 |[2024 Backward Pass: The Definitive Guide to AI in 2024.](https://kelvinmu.substack.com/p/2024-backward-pass-the-definitive) |Kelvin My from Translink Capital shares a 2024 AI recap, covering the four key layers: infrastructure, foundational models, tooling, and applications. The report highlights major takeaways, predicts trends for 2025 and beyond, and spotlights notable startups in each layer. |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
