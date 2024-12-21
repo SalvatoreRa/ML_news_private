@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI is booming on the App Store, and developers are taking advantage of it.](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography) |Many high-ranking AI apps feel like an attempted cash grab, and it’s not easy to spot the trash from the treasure. |
 |[Blood Tests Are Far From Perfect — But Machine Learning Could Change That.](https://www.inverse.com/health/blood-tests-machine-learning-advances) |Researchers at the University of Washington and Harvard have used machine learning to create personalized blood test references, enhancing disease prediction accuracy. |
 |[OpenAI cofounder Ilya Sutskever says the way AI is built is about to change.](https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training) | “We’ve achieved peak data and there’ll be no more,” OpenAI’s former chief scientist told a crowd of AI researchers.|
-|[.]() | |
+|[UK data regulator criticises Google for ‘irresponsible’ ad tracking change.](https://www.theguardian.com/technology/2024/dec/19/google-advertisers-digital-fingerprints-ico-uk-data-regulator) |ICO says allowing advertisers to track digital ‘fingerprints’ will undermine consumers’ control over information |
 |[.]() | |
 |[.]() | |
 |[.]() | |
