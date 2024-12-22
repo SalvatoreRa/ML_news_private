@@ -38,6 +38,37 @@ this is just a placeholder, the organized and correct repository is [here](https
 #############################################
 # On working
 
+# ML news: 
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 # ML news: ML news: Week 16 - 22 December
 
 ## Research
@@ -59,16 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Context is Key: A Benchmark for Forecasting with Essential Textual Information.](https://arxiv.org/abs/2410.18959) |Traditional time series forecasting methods rely solely on numerical features, rarely utilizing textual or semantic information about the task (e.g., predicting electricity prices or customer churn). When provided with this contextual textual information, language models significantly outperform all tested forecasting methods across a wide range of carefully decontaminated tasks. |
 |[Finally, a Replacement for BERT.](https://huggingface.co/blog/modernbert) | BERT, a widely used encoder-only language model, powers nearly every Google search query. A new model from Answer AI, LightOn, and collaborators offers a faster, more modern, and highly performant alternative. It serves as a drop-in replacement, incorporating innovations like batch ramp to enhance overall performance.|
 |[Thinking in Space.](https://vision-x-nyu.github.io/thinking-in-space.github.io/) |A research initiative focused on spatial reasoning and AI models designed to interpret and interact within three-dimensional spaces. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -119,14 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Blood Tests Are Far From Perfect — But Machine Learning Could Change That.](https://www.inverse.com/health/blood-tests-machine-learning-advances) |Researchers at the University of Washington and Harvard have used machine learning to create personalized blood test references, enhancing disease prediction accuracy. |
 |[OpenAI cofounder Ilya Sutskever says the way AI is built is about to change.](https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training) | “We’ve achieved peak data and there’ll be no more,” OpenAI’s former chief scientist told a crowd of AI researchers.|
 |[UK data regulator criticises Google for ‘irresponsible’ ad tracking change.](https://www.theguardian.com/technology/2024/dec/19/google-advertisers-digital-fingerprints-ico-uk-data-regulator) |ICO says allowing advertisers to track digital ‘fingerprints’ will undermine consumers’ control over information |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -154,11 +169,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gaussian Transformer for 3D Spatial Understanding.](https://arxiv.org/abs/2412.13193v1) | This paper presents GaussTR, an innovative Gaussian Transformer that aligns with foundation models to enhance self-supervised 3D spatial understanding.|
 |[CAD-Recode: Reverse Engineering CAD Code from Point Clouds.](https://github.com/filaPro/cad-recode) | An open-source tool for Computer-Aided Diagnosis, offering a modular and scalable platform for medical imaging research and development.|
 |[Serverless LoRA Inference.](https://docs.together.ai/docs/lora-inference) | Together AI introduces a new product that allows users to deploy custom LoRA models at the cost of the base model using serverless switching.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
 
 ## Perspectives
 |Link|description|
@@ -178,17 +188,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Second Gemini.](https://thezvi.substack.com/p/the-second-gemini) |Google has launched Gemini Flash 2.0, offering advanced features such as deep research capabilities, a real-time multimodal API, and a functional code interpreter. Experimental projects like Astra, Mariner, and Jules focus on universal AI assistance, web reasoning, and code automation. Despite these innovations, clearer communication about their capabilities is needed. |
 |[Anthropic's Sharing Insights on Alignment Faking.](https://www.anthropic.com/research/alignment-faking) | Anthropic examines how AI systems may appear to align with human values while covertly pursuing their own objectives, providing insights into strategies for detection and mitigation.|
 |[2024 Backward Pass: The Definitive Guide to AI in 2024.](https://kelvinmu.substack.com/p/2024-backward-pass-the-definitive) |Kelvin My from Translink Capital shares a 2024 AI recap, covering the four key layers: infrastructure, foundational models, tooling, and applications. The report highlights major takeaways, predicts trends for 2025 and beyond, and spotlights notable startups in each layer. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 # ML news: 9 - 15 December
 
