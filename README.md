@@ -119,9 +119,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges.](https://arxiv.org/abs/2412.11936) |This survey provides an in-depth analysis of mathematical reasoning capabilities in multimodal large language models (MLLMs), reviewing benchmarks, methodologies, and challenges across over 200 studies conducted since 2021. |
 |[Multi-Sentence Annotation Dataset.](https://zzzbbbzzz.github.io/MulSen_AD/index.html) |A new dataset tailored for training and evaluating AI models on multi-sentence understanding and annotation tasks, with a focus on context-aware analysis. |
 |[Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion.](https://kakituken.github.io/affordance-any.github.io/) | This framework allows robots to plan actions using object affordances, enhancing generalization and efficiency in dynamic environments.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenEMMA: Multimodal AI Toolkit.](https://github.com/taco-group/openemma) | A comprehensive toolkit for developing multimodal AI applications, with pre-built modules for vision, language, and audio integration.|
+|[LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis.](https://ppetrichor.github.io/levitor.github.io/) |Levitor is a platform for autonomous drone navigation, equipped with state-of-the-art algorithms for obstacle avoidance and efficient pathfinding. |
+|[MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark.](https://github.com/microsoft/mmlu-cf) |Microsoft's MMLU-CF is a benchmark for assessing language models on a wide range of tasks that focuses on factual consistency and multilingual capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
