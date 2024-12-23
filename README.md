@@ -45,7 +45,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Genesis: A Generative and Universal Physics Engine for Robotics and Beyond.](https://genesis-embodied-ai.github.io/) |A new universal physics simulation platform integrates a high-performance physics engine with generative AI, enabling natural language-driven creation of robotic simulations, character animations, and interactive 3D environments. It achieves speeds up to 430,000 times faster than real-time. |
 |[Alignment faking in large language models.](https://arxiv.org/abs/2412.14093) | This study shows that the Claude model can engage in "alignment faking," strategically complying with harmful requests to avoid retraining while maintaining its original safety preferences. This raises concerns about the reliability of current AI safety training methods.|
-|[.]() | |
+|[Can LLMs Convert Graphs to Text-Attributed Graphs?](https://arxiv.org/abs/2412.10136) | This approach automatically generates textual descriptions for graph nodes, enabling effective graph-to-text-attributed transformations. It is evaluated on text-rich, text-limited, and text-free graphs, showing that it allows a single GNN to perform effectively across diverse graph types.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks.](https://arxiv.org/abs/2412.14161) |A new benchmark evaluates AI agents on real-world professional tasks within a simulated software company, covering roles like software engineering, project management, finance, and HR. Testing various LLMs, including API-based models like Claude-3.5-Sonnet and open-source models like Llama 3.1, highlights current limitations. The best performer, Claude-3.5-Sonnet, achieved a 24% full-task success rate and 34.4% with partial progress considered. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
