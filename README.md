@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents.](https://arxiv.org/abs/2412.13194) | A learning system enabling AI agents to autonomously discover and practice skills through web navigation, leveraging reinforcement learning and context-aware task proposals to achieve state-of-the-art results on real-world benchmarks.|
 |[Using Generative AI and Multi-Agents to Provide Automatic Feedback.](https://arxiv.org/abs/2411.07407) | A two-agent AI system provides more accurate and pedagogically sound feedback for student responses in science assessments, significantly reducing errors such as over-praise compared to single-agent models.|
 |[Precise Length Control in Large Language Models.](https://arxiv.org/abs/2412.11937) | This approach adapts a pre-trained decoder-only LLM to generate responses of a specified length by incorporating a secondary length-difference positional encoding into the input embeddings. This mechanism enables the model to count down to a user-defined terminal length, achieving mean token errors of fewer than 3 tokens while maintaining response quality.|
-|[.]() | |
+|[Machine learning helps to determine the diverse conformations of RNA molecules.](https://www.nature.com/articles/d41586-024-04134-2) |An innovative technique called HORNET uses atomic force microscopy and a machine-learning architecture called a deep neural network to recapitulate the 3D structures of individual RNA molecules. This method enables the study of the structure and dynamics of RNAs that adopt flexible and variable conformations under biologically relevant conditions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
