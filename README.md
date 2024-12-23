@@ -148,9 +148,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[How to Build a Truly Useful AI Product.](https://every.to/thesis/how-to-build-a-truly-useful-ai-product) |Off-the-shelf evaluations often fail to effectively measure LLM performance for specific tasks. Useful metrics for classification include recall, precision, ROC-AUC, while summarization and translation can employ NLI-based consistency checks and chrF or BLEURT, respectively. Consider potential defects like copyright regurgitation and toxicity in models, using tests such as RealToxicityPrompts for comprehensive evaluation. |
+|[Task-Specific LLM Evals that Do & Don't Work.](https://eugeneyan.com/writing/evals/) |Standard evaluations often fall short in assessing LLM performance for specific tasks. Key metrics include recall, precision, and ROC-AUC for classification, while summarization and translation benefit from NLI-based consistency checks and metrics like chrF or BLEURT. Evaluations should also address defects such as copyright regurgitation and toxicity, using tools like RealToxicityPrompts for thorough analysis. |
+|[o1 Turns Pro.](https://thezvi.substack.com/p/o1-turns-pro) | OpenAI's o1 and o1 Pro updates bring notable advancements in coding, math, and complex problem-solving, excelling in deep reasoning and fact recall. The $200/month o1 Pro tier offers enhanced compute power for specialized tasks, while the $20/month option remains sufficient for most users' needs. Reactions are largely positive, with the Pro tier catering to those with advanced requirements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
