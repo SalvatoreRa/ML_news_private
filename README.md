@@ -122,9 +122,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenEMMA: Multimodal AI Toolkit.](https://github.com/taco-group/openemma) | A comprehensive toolkit for developing multimodal AI applications, with pre-built modules for vision, language, and audio integration.|
 |[LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis.](https://ppetrichor.github.io/levitor.github.io/) |Levitor is a platform for autonomous drone navigation, equipped with state-of-the-art algorithms for obstacle avoidance and efficient pathfinding. |
 |[MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark.](https://github.com/microsoft/mmlu-cf) |Microsoft's MMLU-CF is a benchmark for assessing language models on a wide range of tasks that focuses on factual consistency and multilingual capabilities. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Building Python tools with a one-shot prompt using uv run and Claude Projects.](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/) | A nice blog outlining a prompting strategy to make self contained, UV compatible Python scripts with Claude.|
+|[Google unveils Project Mariner: AI agents to use the web for you.](https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you/) |Google's DeepMind has unveiled Project Mariner, an AI agent that autonomously navigates and interacts with websites via Chrome. |
+|[Google is testing Gemini AI agents that help you in video games .](https://www.theverge.com/2024/12/11/24318530/google-gemini-2-0-understand-rules-video-games-genie) | Google is testing the agents, which can reason about what they see onscreen, with Supercell games like Clash of Clans.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
