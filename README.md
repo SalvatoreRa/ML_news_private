@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘We’re figuring out cool ways of storytelling’: how TikTok is changing the way we watch musicals.](https://www.theguardian.com/technology/2024/dec/21/were-figuring-out-cool-ways-of-storytelling-how-tiktok-is-changing-the-way-we-watch-musicals) | Jorge Rivera-Herrans’s musical sensation Epic is just one of a series of works making a splash on the online platform|
 |[.]() | |
 |[.]() | |
 |[.]() | |
