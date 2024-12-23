@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen2.5 Technical Report.](https://arxiv.org/abs/2412.15115) | A learning system enabling AI agents to autonomously discover and practice skills through web navigation, leveraging reinforcement learning and context-aware task proposals to achieve state-of-the-art results on real-world benchmarks.|
 |[DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding.](https://arxiv.org/abs/2412.10302) |A new series of vision-language models introduces dynamic tiling for high-resolution images and an efficient MoE architecture, delivering competitive or state-of-the-art performance across visual tasks. These models achieve similar or superior results with fewer activated parameters compared to existing open-source dense and MoE-based models. |
 |[A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges.](https://arxiv.org/abs/2412.11936) |This survey provides an in-depth analysis of mathematical reasoning capabilities in multimodal large language models (MLLMs), reviewing benchmarks, methodologies, and challenges across over 200 studies conducted since 2021. |
-|[.]() | |
-|[.]() | |
+|[Multi-Sentence Annotation Dataset.](https://zzzbbbzzz.github.io/MulSen_AD/index.html) |A new dataset tailored for training and evaluating AI models on multi-sentence understanding and annotation tasks, with a focus on context-aware analysis. |
+|[Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion.](https://kakituken.github.io/affordance-any.github.io/) | This framework allows robots to plan actions using object affordances, enhancing generalization and efficiency in dynamic environments.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
