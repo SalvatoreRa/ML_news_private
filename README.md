@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can LLMs Convert Graphs to Text-Attributed Graphs?](https://arxiv.org/abs/2412.10136) | This approach automatically generates textual descriptions for graph nodes, enabling effective graph-to-text-attributed transformations. It is evaluated on text-rich, text-limited, and text-free graphs, showing that it allows a single GNN to perform effectively across diverse graph types.|
 |[Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents.](https://arxiv.org/abs/2412.13194) | A learning system enabling AI agents to autonomously discover and practice skills through web navigation, leveraging reinforcement learning and context-aware task proposals to achieve state-of-the-art results on real-world benchmarks.|
 |[Using Generative AI and Multi-Agents to Provide Automatic Feedback.](https://arxiv.org/abs/2411.07407) | A two-agent AI system provides more accurate and pedagogically sound feedback for student responses in science assessments, significantly reducing errors such as over-praise compared to single-agent models.|
-|[.]() | |
+|[Precise Length Control in Large Language Models.](https://arxiv.org/abs/2412.11937) | This approach adapts a pre-trained decoder-only LLM to generate responses of a specified length by incorporating a secondary length-difference positional encoding into the input embeddings. This mechanism enables the model to count down to a user-defined terminal length, achieving mean token errors of fewer than 3 tokens while maintaining response quality.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks.](https://arxiv.org/abs/2412.14161) |A new benchmark evaluates AI agents on real-world professional tasks within a simulated software company, covering roles like software engineering, project management, finance, and HR. Testing various LLMs, including API-based models like Claude-3.5-Sonnet and open-source models like Llama 3.1, highlights current limitations. The best performer, Claude-3.5-Sonnet, achieved a 24% full-task success rate and 34.4% with partial progress considered. |
 |[Qwen2.5 Technical Report.](https://arxiv.org/abs/2412.15115) | A learning system enabling AI agents to autonomously discover and practice skills through web navigation, leveraging reinforcement learning and context-aware task proposals to achieve state-of-the-art results on real-world benchmarks.|
 |[DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding.](https://arxiv.org/abs/2412.10302) |A new series of vision-language models introduces dynamic tiling for high-resolution images and an efficient MoE architecture, delivering competitive or state-of-the-art performance across visual tasks. These models achieve similar or superior results with fewer activated parameters compared to existing open-source dense and MoE-based models. |
-|[.]() | |
+|[A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges.](https://arxiv.org/abs/2412.11936) |This survey provides an in-depth analysis of mathematical reasoning capabilities in multimodal large language models (MLLMs), reviewing benchmarks, methodologies, and challenges across over 200 studies conducted since 2021. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
