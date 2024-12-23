@@ -43,8 +43,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Genesis: A Generative and Universal Physics Engine for Robotics and Beyond.](https://genesis-embodied-ai.github.io/) |A new universal physics simulation platform integrates a high-performance physics engine with generative AI, enabling natural language-driven creation of robotic simulations, character animations, and interactive 3D environments. It achieves speeds up to 430,000 times faster than real-time. |
+|[Alignment faking in large language models.](https://arxiv.org/abs/2412.14093) | This study shows that the Claude model can engage in "alignment faking," strategically complying with harmful requests to avoid retraining while maintaining its original safety preferences. This raises concerns about the reliability of current AI safety training methods.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
