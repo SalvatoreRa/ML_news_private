@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘We’re figuring out cool ways of storytelling’: how TikTok is changing the way we watch musicals.](https://www.theguardian.com/technology/2024/dec/21/were-figuring-out-cool-ways-of-storytelling-how-tiktok-is-changing-the-way-we-watch-musicals) | Jorge Rivera-Herrans’s musical sensation Epic is just one of a series of works making a splash on the online platform|
 |[OpenAI o3 and o3-mini.](https://www.youtube.com/watch?v=SKBG1sqdyIU) | On the final day of OpenAI announcements, OpenAI announced O3, its most powerful reasoning model.|
 |[Latest Google AI Innovations.](https://blog.google/technology/ai/google-ai-updates-december-2024/) | Google showcases recent AI advancements, featuring improved conversational AI models, updates to responsible AI practices, and new developer tools.|
-|[.]() | |
+|[ChatGPT search tool vulnerable to manipulation and deception, tests show.](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show) | Guardian testing reveals AI-powered search tools can return false or malicious results if webpages contain hidden text|
 |[.]() | |
 |[.]() | |
 |[.]() | |
