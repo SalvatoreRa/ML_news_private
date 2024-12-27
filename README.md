@@ -132,10 +132,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving.](https://wzzheng.net/Driv3R/) |The Driv3R system transforms 4D reconstruction for autonomous vehicles by removing the need for slow global alignment processes, significantly enhancing efficiency. |
 |[Frontier Training Kernels for Transformers (FA2) and SSMs (Mamba2) on AMD Instinct MI300X Accelerators.](https://www.zyphra.com/post/training-transformers-and-hybrid-models-on-amd-mi300x) |Zyphra has written performant backwards kernels for AMD chips. |
 |[Accelerating Vision Diffusion Transformers with Skip Branches.](https://huggingface.co/GuanjieChen/Skip-DiT) |Skip-DiT is a new version of Diffusion Transformers (DiT) designed to address the computational challenges in image and video generation. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Bamba: Inference-Efficient Hybrid Mamba2 Model.](https://huggingface.co/blog/bamba) |Bamba is an efficient hybrid Mamba 2-style model with strong performance. |
+|[Multimodal Live API - Web console.](https://github.com/google-gemini/multimodal-live-api-web-console) |Google has a prebuilt application that uses its new extremely fast multimodal API. |
+|[Visualizing 6D Mesh Parallelism.](https://main-horse.github.io/posts/visualizing-6d/) | An amazingly detailed post exploring different training parallelism strategies for training deep models.|
+|[SCoralDet: Efficient real-time underwater soft coral detection with YOLO & SCoralDet Dataset.](https://github.com/RDXiaoLu/SCoralDet) |A dataset for detecting and classifying underwater coral species designed to facilitate marine conservation efforts using advanced AI models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
