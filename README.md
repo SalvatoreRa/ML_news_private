@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT now understands real-time video, seven months after OpenAI first demoed it.](https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/) | OpenAI has introduced real-time video capabilities for ChatGPT, enabling users to interact with objects in near real-time via Advanced Voice Mode with vision. The rollout is staggered, with Enterprise subscribers gaining access in January. Similarly, Google recently launched Project Astra, offering comparable functionality for trusted testers on Android.|
 |[Anthropic’s 3.5 Haiku model comes to Claude users.](https://techcrunch.com/2024/12/12/anthropics-3-5-haiku-model-comes-to-claude-users/) | Anthropic has introduced Claude 3.5 Haiku on its chatbot platform, surpassing Claude 3 Opus in coding and content moderation benchmarks. While capable of generating longer text, it lacks image analysis features. Pricing controversies emerged after Anthropic raised the API cost, despite earlier promises to match Claude 3 Haiku's pricing.|
 |[Report: Google told FTC Microsoft’s OpenAI deal is killing AI competition.](https://arstechnica.com/tech-policy/2024/12/report-microsofts-exclusive-deal-with-openai-harms-competition-google-told-ftc/) | Google has urged the FTC to end Microsoft's exclusive cloud deal with OpenAI, arguing it raises costs for competitors.|
-|[.]() | |
-|[.]() | |
+|[Google’s new Trillium AI chip delivers 4x speed and powers Gemini 2.0.](https://venturebeat.com/ai/google-new-trillium-ai-chip-delivers-4x-speed-and-powers-gemini-2-0/) |Google announced Trillium, its latest AI accelerator chip, boasting a 4x performance boost and significant energy efficiency improvements. |
+|[OpenAI introduces “Santa Mode” to ChatGPT for ho-ho-ho voice chats.](https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/) |An AI version of old St. Nick arrives as a seasonal character in popular chatbot app. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
