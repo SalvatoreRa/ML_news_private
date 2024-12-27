@@ -83,9 +83,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Latest Google AI Innovations.](https://blog.google/technology/ai/google-ai-updates-december-2024/) | Google showcases recent AI advancements, featuring improved conversational AI models, updates to responsible AI practices, and new developer tools.|
 |[ChatGPT search tool vulnerable to manipulation and deception, tests show.](https://www.theguardian.com/technology/2024/dec/24/chatgpt-search-tool-vulnerable-to-manipulation-and-deception-tests-show) | Guardian testing reveals AI-powered search tools can return false or malicious results if webpages contain hidden text|
 |[Older music has been getting a second life on TikTok, data shows.](https://www.theguardian.com/technology/2024/dec/25/older-music-has-been-getting-a-second-life-on-tiktok-data-shows) |Despite newer artists having viral moments, app users also enjoyed old school acts including Bronski Beat and Sade |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[New physics sim trains robots 430,000 times faster than reality.](https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/) | Genesis, an open-source simulation platform developed by a team led by Carnegie Mellon University, enables robot training 430,000 times faster than real-world conditions using text-generated 3D worlds. It processes physics calculations 80 times faster than existing simulators on standard GPUs, accelerating neural network training for robotics. Built in Python, Genesis provides a non-proprietary, user-friendly solution for creating dynamic, physics-based environments without manual programming.|
+|[Waymo still doing better than humans at preventing injuries and property damage.](https://www.theverge.com/2024/12/19/24324492/waymo-injury-property-damage-insurance-data-swiss-re) | Waymo’s autonomous vehicles cause less property damage and fewer bodily injuries when they crash than human-driven vehicles, according to a study that relies on an analysis of insurance data.|
+|[Microsoft’s growing AI health ambitions.](https://www.semafor.com/article/12/11/2024/microsofts-growing-ai-health-ambitions) | Google DeepMind and OpenAI are escalating their competition, with OpenAI adopting a stronger commercial focus. This rivalry is spurring innovation and advancing the boundaries of AI technology.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -125,9 +125,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building Python tools with a one-shot prompt using uv run and Claude Projects.](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/) | A nice blog outlining a prompting strategy to make self contained, UV compatible Python scripts with Claude.|
 |[Google unveils Project Mariner: AI agents to use the web for you.](https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you/) |Google's DeepMind has unveiled Project Mariner, an AI agent that autonomously navigates and interacts with websites via Chrome. |
 |[Google is testing Gemini AI agents that help you in video games .](https://www.theverge.com/2024/12/11/24318530/google-gemini-2-0-understand-rules-video-games-genie) | Google is testing the agents, which can reason about what they see onscreen, with Supercell games like Clash of Clans.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model.](https://wzzheng.net/Stag/) |Stag-1 is a 4D driving simulation platform that recreates real-world scenes and produces realistic videos from any chosen perspective. |
+|[Apollo: An Exploration of Video Understanding in Large Multimodal Models.](https://apollo-lmms.github.io/) |Meta has released a number of multimodal video understanding models with strong long context video performance. |
+|[TEXGen: a Generative Diffusion Model for Mesh Textures.](https://cvmi-lab.github.io/TEXGen/) |Most texture generation systems depend on pretrained 2D image diffusion models. This work tackles the problem directly in UV texture space, introducing inductive biases that significantly enhance system performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
