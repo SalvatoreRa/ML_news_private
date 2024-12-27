@@ -137,6 +137,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Visualizing 6D Mesh Parallelism.](https://main-horse.github.io/posts/visualizing-6d/) | An amazingly detailed post exploring different training parallelism strategies for training deep models.|
 |[SCoralDet: Efficient real-time underwater soft coral detection with YOLO & SCoralDet Dataset.](https://github.com/RDXiaoLu/SCoralDet) |A dataset for detecting and classifying underwater coral species designed to facilitate marine conservation efforts using advanced AI models. |
 |[MedDec: A Dataset for Extracting Medical Decisions from Discharge Summaries.](https://arxiv.org/abs/2408.12980v1) |MedDec is a dataset that helps improve the extraction of medical decisions from clinical notes. It covers eleven different diseases. The dataset is annotated with ten types of medical decisions. |
+|[ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.](https://arxiv.org/abs/2410.00425v1) | ManiSkill3 is an advanced, open-source robotics simulator designed for scalable learning and manipulation tasks.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
