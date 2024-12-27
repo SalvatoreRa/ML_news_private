@@ -108,7 +108,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -128,8 +127,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model.](https://wzzheng.net/Stag/) |Stag-1 is a 4D driving simulation platform that recreates real-world scenes and produces realistic videos from any chosen perspective. |
 |[Apollo: An Exploration of Video Understanding in Large Multimodal Models.](https://apollo-lmms.github.io/) |Meta has released a number of multimodal video understanding models with strong long context video performance. |
 |[TEXGen: a Generative Diffusion Model for Mesh Textures.](https://cvmi-lab.github.io/TEXGen/) |Most texture generation systems depend on pretrained 2D image diffusion models. This work tackles the problem directly in UV texture space, introducing inductive biases that significantly enhance system performance. |
-|[.]() | |
-|[.]() | |
+|[Everything we know about Muon Optimizer.](https://kellerjordan.github.io/posts/muon/) | A NanoGPT speed run record holder has published an in-depth blog post on the Muon optimizer, widely used in many winning runs for its efficiency and performance.|
+|[Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving.](https://wzzheng.net/Driv3R/) |The Driv3R system transforms 4D reconstruction for autonomous vehicles by removing the need for slow global alignment processes, significantly enhancing efficiency. |
+|[Frontier Training Kernels for Transformers (FA2) and SSMs (Mamba2) on AMD Instinct MI300X Accelerators.](https://www.zyphra.com/post/training-transformers-and-hybrid-models-on-amd-mi300x) |Zyphra has written performant backwards kernels for AMD chips. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
