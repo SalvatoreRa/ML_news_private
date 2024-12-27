@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Report: Google told FTC Microsoft’s OpenAI deal is killing AI competition.](https://arstechnica.com/tech-policy/2024/12/report-microsofts-exclusive-deal-with-openai-harms-competition-google-told-ftc/) | Google has urged the FTC to end Microsoft's exclusive cloud deal with OpenAI, arguing it raises costs for competitors.|
 |[Google’s new Trillium AI chip delivers 4x speed and powers Gemini 2.0.](https://venturebeat.com/ai/google-new-trillium-ai-chip-delivers-4x-speed-and-powers-gemini-2-0/) |Google announced Trillium, its latest AI accelerator chip, boasting a 4x performance boost and significant energy efficiency improvements. |
 |[OpenAI introduces “Santa Mode” to ChatGPT for ho-ho-ho voice chats.](https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/) |An AI version of old St. Nick arrives as a seasonal character in popular chatbot app. |
-|[.]() | |
-|[.]() | |
+|[Sriram Krishnan named Trump’s senior policy advisor for AI.](https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/) | President-elect Donald Trump has confirmed reports that Sriram Krishnan, until recently a general partner at Andreessen Horowitz (a16z), will serve as senior policy advisor for AI at the White House Office of Science and Technology Policy.|
+|[OpenAI trained o1 and o3 to ‘think’ about its safety policy.](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy/) | OpenAI's upcoming o3 model family, set for release in 2025, features enhanced reasoning and safety through a "deliberative alignment" process. This method aligns AI responses with OpenAI's safety values during inference, without relying on human-written data. Combined with synthetic data and reinforcement learning, it positions o3 as OpenAI's safest model to date.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Multimodal Live API - Web console.](https://github.com/google-gemini/multimodal-live-api-web-console) |Google has a prebuilt application that uses its new extremely fast multimodal API. |
 |[Visualizing 6D Mesh Parallelism.](https://main-horse.github.io/posts/visualizing-6d/) | An amazingly detailed post exploring different training parallelism strategies for training deep models.|
 |[SCoralDet: Efficient real-time underwater soft coral detection with YOLO & SCoralDet Dataset.](https://github.com/RDXiaoLu/SCoralDet) |A dataset for detecting and classifying underwater coral species designed to facilitate marine conservation efforts using advanced AI models. |
-|[.]() | |
+|[MedDec: A Dataset for Extracting Medical Decisions from Discharge Summaries.](https://arxiv.org/abs/2408.12980v1) |MedDec is a dataset that helps improve the extraction of medical decisions from clinical notes. It covers eleven different diseases. The dataset is annotated with ten types of medical decisions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
