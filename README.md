@@ -90,9 +90,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI expands ChatGPT Canvas to all users.](https://venturebeat.com/ai/openai-expands-chatgpt-canvas-to-all-users/) |OpenAI has launched Canvas, its digital editing space, for all ChatGPT users, integrated with GPT-4o. Canvas enhances the chat interface by enabling real-time editing and Python code execution. Now a default feature in custom GPTs, it offers advanced functionality for an improved user experience. |
 |[Gemini can now tell when a PDF is on your phone screen.](https://www.theverge.com/2024/12/21/24326767/google-gemini-ask-about-pdf-rolling-out-files-android) |Google’s Files app is rolling out a Gemini screen awareness feature that offers to answer questions about open PDFs. |
 |[Apple reportedly developing AI server chip with Broadcom.](https://techcrunch.com/2024/12/11/apple-reportedly-developing-ai-server-chip-with-broadcom/) | Apple is working with semiconductor company Broadcom on its first server chip designed to handle AI applications, according to The Information, which cited three people with knowledge of the project. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[NHTSA finally releases new rules for self-driving cars — but there’s a twist.](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework) | Regulators say they’ll ease rules allowing for fully driverless cars, but companies need to cough up the data.|
+|[Saudi Arabia invests in robots to help build its Neom desert megacity.](https://newatlas.com/architecture/neom-robotics-construction-saudi-arabia/) |As Saudi Arabia continues to reshape its desert landscape with an incredible number of ambitious construction projects, it has employed some high-tech robotic help to increase efficiency and speed things up. |
+|[Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z.](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/) |Emmett Shear, former Twitch CEO, has launched Stem AI, an AI startup focused on aligning AI with human behavior and ethics. Co-founded with Adam Goldstein and backed by a16z, the startup is in stealth mode but has been actively developing since mid-2023. Shear, known for his advocacy on AI regulation and safety, has frequently voiced concerns about AI's risks to humanity. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Everything we know about Muon Optimizer.](https://kellerjordan.github.io/posts/muon/) | A NanoGPT speed run record holder has published an in-depth blog post on the Muon optimizer, widely used in many winning runs for its efficiency and performance.|
 |[Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving.](https://wzzheng.net/Driv3R/) |The Driv3R system transforms 4D reconstruction for autonomous vehicles by removing the need for slow global alignment processes, significantly enhancing efficiency. |
 |[Frontier Training Kernels for Transformers (FA2) and SSMs (Mamba2) on AMD Instinct MI300X Accelerators.](https://www.zyphra.com/post/training-transformers-and-hybrid-models-on-amd-mi300x) |Zyphra has written performant backwards kernels for AMD chips. |
-|[.]() | |
+|[Accelerating Vision Diffusion Transformers with Skip Branches.](https://huggingface.co/GuanjieChen/Skip-DiT) |Skip-DiT is a new version of Diffusion Transformers (DiT) designed to address the computational challenges in image and video generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[o1 Turns Pro.](https://thezvi.substack.com/p/o1-turns-pro) | OpenAI's o1 and o1 Pro updates bring notable advancements in coding, math, and complex problem-solving, excelling in deep reasoning and fact recall. The $200/month o1 Pro tier offers enhanced compute power for specialized tasks, while the $20/month option remains sufficient for most users' needs. Reactions are largely positive, with the Pro tier catering to those with advanced requirements.|
 |[The Google Willow thing.](https://scottaaronson.blog/) | Google's Quantum group has introduced "Willow," a 105-qubit superconducting chip highlighting advancements in error correction and a new quantum supremacy experiment. With improved coherence times and gate fidelity, Willow represents a key step toward quantum fault-tolerance. However, achieving fully fault-tolerant operations and verifying results remain significant challenges.|
 |[Inside the AI drug discovery arms race.](https://www.cbinsights.com/research/ai-in-drug-discovery/) |AI is revolutionizing drug discovery, with biologics developers raising $1.6B in 2024, signaling a shift beyond small molecules. M&A activity is booming as big pharma acquires startups and enhances in-house AI capabilities, highlighting the drive to leverage AI for cost reduction and faster drug development. |
-|[.]() | |
+|[5 ways to explore chess during the 2024 World Chess Championship.](https://blog.google/technology/ai/world-chess-championships-2024/) |Google is celebrating chess' enduring influence on AI with global events and experiences that honor the game's impact on technology and creativity. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
