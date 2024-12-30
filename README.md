@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dating apps prepare to launch AI features to help users find love.](https://www.theguardian.com/technology/2024/dec/30/dating-apps-prepare-to-launch-ai-features-to-help-users-find-love) | Match Group’s digital assistant will tailor profiles and search for dates – but critics fear genuine connections are at risk|
 |[AI tools may soon manipulate people’s online decision-making, say researchers.](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers) | Study predicts an ‘intention economy’ where companies bid for accurate predictions of human behaviour|
 |[‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years.](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years) | Geoffrey Hinton says there is 10% to 20% chance AI will lead to human extinction in three decades, as change moves fast|
-|[.]() | |
+|[OpenAI lays out plan to shift to for-profit corporate structure.](https://www.theguardian.com/technology/2024/dec/27/openai-plan-for-profit-structure) | AI company, which makes ChatGPT, says in blogpost ‘we once again need to raise more capital than we’d imagined’|
 |[.]() | |
 |[.]() | |
 |[.]() | |
