@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[DeepSeek-V3.](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) | A 671B-parameter MoE language model activates 37B parameters per token, leveraging MLA and DeepSeekMoE architectures for efficiency. It features an auxiliary-loss-free load balancing approach and multi-token prediction during training to boost performance. Pre-trained on 14.8 trillion tokens, followed by SFT and RL stages, the model matches leading closed-source models and outperforms open-source alternatives. Training required only 2.788M H800 GPU hours with stable, spike-free progress.|
+|[Large Concept Models: Language Modeling in a Sentence Representation Space.](https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/) |This approach introduces sentence-level semantic representations, called concepts, moving beyond token-level processing in traditional LLMs. It utilizes SONAR sentence embeddings, supporting 200 languages across text and speech, with autoregressive training methods ranging from MSE regression to diffusion-based generation. Tested in 1.6B and 7B parameter variants on datasets of 1.3T and 7.7T tokens, the model excels in generative tasks such as summarization and summary expansion. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
