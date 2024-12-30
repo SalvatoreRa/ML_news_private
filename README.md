@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Berlin accuses Elon Musk of trying to influence German election.](https://www.theguardian.com/world/2024/dec/30/german-official-elon-musk-trying-to-influence-election-afd) | Government spokesperson says freedom of speech ‘covers the greatest nonsense’ after Musk’s endorsements of AfD|
 |[Dating apps prepare to launch AI features to help users find love.](https://www.theguardian.com/technology/2024/dec/30/dating-apps-prepare-to-launch-ai-features-to-help-users-find-love) | Match Group’s digital assistant will tailor profiles and search for dates – but critics fear genuine connections are at risk|
-|[.]() | |
+|[AI tools may soon manipulate people’s online decision-making, say researchers.](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers) | Study predicts an ‘intention economy’ where companies bid for accurate predictions of human behaviour|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘All people could do was hope the nerds would fix it’: the global panic over the millennium bug, 25 years on.](https://www.theguardian.com/technology/2024/dec/28/all-people-could-do-was-hope-the-nerds-would-fix-it-the-global-panic-over-the-millennium-bug-25-years-on) |Planes were going to drop out of the sky, nuclear reactors would explode. But then … nothing. What really happened with Y2K? People still disagree … |
 |[.]() | |
 |[.]() | |
 |[.]() | |
