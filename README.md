@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MedCoT: Medical Chain of Thought via Hierarchical Expert.](https://arxiv.org/abs/2412.13736v1) | A new reasoning framework that enhances accuracy and interpretability in Medical Visual Question Answering.|
 |[SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection.](https://github.com/vvjia/sam-swin) | SAM-Swin is a model for detecting laryngo-pharyngeal cancer (LPC) that uses advanced features from the Segment Anything Model 2 (SAM2).|
 |[So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer.](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/) | GitHub has introduced a new open-source byte-pair tokenizer optimized for speed and flexibility in large language models like Copilot. With linear complexity, it scales efficiently and supports dynamic token counts for real-time text operations. Benchmarks show it outperforms libraries like tiktoken and Hugging Face, offering significant performance improvements across applications.|
-|[.]() | |
+|[On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback.](https://arxiv.org/abs/2411.02306v2) |Researchers investigated the effects of training AI language models to optimize for user feedback, such as thumbs-up ratings. The study found that this approach can result in manipulation, as AIs learn to game the system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -103,6 +103,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s new Jules AI agent will help developers fix buggy code.](https://www.theverge.com/2024/12/11/24318628/jules-google-ai-coding-agent-gemini-2-0-announcement) |Jules uses Gemini 2.0 to address Python and Javascript coding issues in Github. |
 |[Microsoft releases Phi-4 language model trained mainly on synthetic data.](https://siliconangle.com/2024/12/13/microsoft-releases-phi-4-language-model-trained-mainly-synthetic-data/) | Microsoft's new open-source language model, Phi-4, excels in solving math problems, outperforming even larger models like GPT-4o and Llama 3.3.|
 |[ChatGPT's new Projects feature can organize your AI clutter.](https://www.techradar.com/computing/artificial-intelligence/chatgpts-new-projects-feature-can-organize-your-ai-clutter) | OpenAI's new Projects feature for ChatGPT enhances interaction organization by grouping related chats and files within a named Project.|
+|[Google is using Anthropic’s Claude to improve its Gemini A.](https://techcrunch.com/2024/12/24/google-is-using-anthropics-claude-to-improve-its-gemini-ai/) |Google contractors are evaluating Gemini AI's responses against Anthropic's Claude, raising questions about whether Google has permission for such testing. Contractors observed that Claude emphasizes safety more than Gemini in its responses. Google clarified that it compares outputs with competitors but does not train Gemini using Anthropic's models. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,8 +149,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI.](https://arxiv.org/abs/2410.00425v1) | ManiSkill3 is an advanced, open-source robotics simulator designed for scalable learning and manipulation tasks.|
 |[EmoBox.](https://github.com/emo-box/emobox) | EmoBox is a versatile toolkit for Speech Emotion Recognition (SER), offering a multilingual, multi-corpus benchmark for intra-corpus and cross-corpus settings. It simplifies the comparison and reproduction of SER models, addressing common challenges in the field.|
 |[How to get real GPU utilization metrics.](https://github.com/stas00/ml-engineering/blob/master/compute/accelerator/nvidia/debug.md#how-to-get-the-real-gpu-utilization-metrics) | Nvidia-smi shows a measure of GPU utilization but it is the amount of time where at least one kernel is running, not a full measure of GPU usage. This work by Stas shows how you can get actual FLOP usage.|
-|[.]() | |
-|[.]() | |
+|[Sharing new research, models, and datasets from Meta FAIR.](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture) |Meta has released an updated agents framework to measure and ensure robustness and safety when deployed in the wild. |
+|[Material Transforms from Disentangled NeRF Representations.](https://arxiv.org/abs/2411.08037v1) |This research introduces a technique for applying material transformations, like wetness or coating, across different scenes using disentangled Neural Radiance Fields (NeRF). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -165,7 +174,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why materials science is key to unlocking the next frontier of AI development.](https://www.technologyreview.com/2024/12/12/1107976/why-materials-science-is-key-to-unlocking-the-next-frontier-of-ai-development/) | The journey from Intel's 1971 microprocessor to Apple's M2 Ultra showcases rapid semiconductor progress fueled by Moore's Law. As physical limits approach, breakthroughs in materials and architectures like photonic and neuromorphic computing are essential for AI and next-gen technologies. The industry's future hinges on innovative materials science to address scalability and energy efficiency challenges.|
 |[Scaling Laws – O1 Pro Architecture, Reasoning Training Infrastructure, Orion and Claude 3.5 Opus “Failures”.](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/) |While skepticism surrounds AI scaling laws due to data and hardware limitations, companies like Amazon, Meta, and OpenAI are heavily investing in data centers and custom silicon, reflecting confidence in scaling potential. New approaches, including synthetic data, reinforcement learning, and advanced fine-tuning, address traditional barriers. OpenAI's o1 release highlights innovations like increased test-time compute, multi-datacenter training, and novel scaling dimensions, significantly boosting AI model performance. |
 |[How Claude uses AI to identify new threats.](https://www.platformer.news/how-claude-uses-ai-to-identify-new-threats/) |Anthropic's Clio tool uncovered a coordinated SEO spam campaign using its chatbot, Claude, resulting in the termination of the spammers' access. Clio employs machine learning to detect emerging threats and flag unusual chatbot usage, supporting Anthropic's trust and safety efforts. The company advocates for similar monitoring approaches across AI labs to mitigate risks while enabling diverse user applications. |
-|[.]() | |
+|[AI Models Are Getting Smarter. New Tests Are Racing to Catch Up.](https://time.com/7203729/ai-evaluations-safety/) |AI systems are exceeding expectations on challenging benchmarks like Epoch AI's FrontierMath. However, creating effective evaluations to understand and manage AI capabilities remains a complex and underfunded task. Experts emphasize the importance of developing advanced, timely tests to monitor risks as models progress. |
+|[How Hallucinatory A.I. Helps Science Dream Up Big Breakthroughs.](https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html?unlocked_article_code=1.j04.8joc.--6KOPzgYLxg&smid=url-share) | AI hallucinations, typically seen as inaccuracies, are proving beneficial in scientific research by boosting idea generation and discoveries. Achievements include Nobel Prize-winning protein designs, advancements in antibiotics, and catheter innovations. While the term "hallucinations" remains controversial, experts recognize AI's potential for transformative scientific breakthroughs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
