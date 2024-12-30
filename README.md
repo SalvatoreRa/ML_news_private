@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[‘All people could do was hope the nerds would fix it’: the global panic over the millennium bug, 25 years on.](https://www.theguardian.com/technology/2024/dec/28/all-people-could-do-was-hope-the-nerds-would-fix-it-the-global-panic-over-the-millennium-bug-25-years-on) |Planes were going to drop out of the sky, nuclear reactors would explode. But then … nothing. What really happened with Y2K? People still disagree … |
 |[How will AI reshape 2025? Well, it could be the spreadsheet of the 21st century.](https://www.theguardian.com/commentisfree/2024/dec/28/llms-large-language-models-gen-ai-agents-spreadsheets-corporations-work) | Large language models have changed how big corporations function, and the arrival of AI ‘agents’ – essentially automated Moneypennys – could prove irresistible|
-|[.]() | |
+|[How AI is unlocking ancient texts — and could rewrite history.](https://www.nature.com/articles/d41586-024-04161-z) | From deciphering burnt Roman scrolls to reading crumbling cuneiform tablets, neural networks could give researchers more data than they’ve had in centuries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
