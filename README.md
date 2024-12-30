@@ -75,6 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Berlin accuses Elon Musk of trying to influence German election.](https://www.theguardian.com/world/2024/dec/30/german-official-elon-musk-trying-to-influence-election-afd) | Government spokesperson says freedom of speech ‘covers the greatest nonsense’ after Musk’s endorsements of AfD|
 |[Dating apps prepare to launch AI features to help users find love.](https://www.theguardian.com/technology/2024/dec/30/dating-apps-prepare-to-launch-ai-features-to-help-users-find-love) | Match Group’s digital assistant will tailor profiles and search for dates – but critics fear genuine connections are at risk|
 |[AI tools may soon manipulate people’s online decision-making, say researchers.](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers) | Study predicts an ‘intention economy’ where companies bid for accurate predictions of human behaviour|
+|[‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years.](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years) | Geoffrey Hinton says there is 10% to 20% chance AI will lead to human extinction in three decades, as change moves fast|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,8 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘All people could do was hope the nerds would fix it’: the global panic over the millennium bug, 25 years on.](https://www.theguardian.com/technology/2024/dec/28/all-people-could-do-was-hope-the-nerds-would-fix-it-the-global-panic-over-the-millennium-bug-25-years-on) |Planes were going to drop out of the sky, nuclear reactors would explode. But then … nothing. What really happened with Y2K? People still disagree … |
-|[.]() | |
-|[.]() | |
+|[How will AI reshape 2025? Well, it could be the spreadsheet of the 21st century.](https://www.theguardian.com/commentisfree/2024/dec/28/llms-large-language-models-gen-ai-agents-spreadsheets-corporations-work) | Large language models have changed how big corporations function, and the arrival of AI ‘agents’ – essentially automated Moneypennys – could prove irresistible|
 |[.]() | |
 |[.]() | |
 |[.]() | |
