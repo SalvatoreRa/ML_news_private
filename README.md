@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Berlin accuses Elon Musk of trying to influence German election.](https://www.theguardian.com/world/2024/dec/30/german-official-elon-musk-trying-to-influence-election-afd) | Government spokesperson says freedom of speech ‘covers the greatest nonsense’ after Musk’s endorsements of AfD|
+|[Dating apps prepare to launch AI features to help users find love.](https://www.theguardian.com/technology/2024/dec/30/dating-apps-prepare-to-launch-ai-features-to-help-users-find-love) | Match Group’s digital assistant will tailor profiles and search for dates – but critics fear genuine connections are at risk|
 |[.]() | |
 |[.]() | |
 |[.]() | |
