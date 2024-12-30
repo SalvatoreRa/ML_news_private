@@ -151,9 +151,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to get real GPU utilization metrics.](https://github.com/stas00/ml-engineering/blob/master/compute/accelerator/nvidia/debug.md#how-to-get-the-real-gpu-utilization-metrics) | Nvidia-smi shows a measure of GPU utilization but it is the amount of time where at least one kernel is running, not a full measure of GPU usage. This work by Stas shows how you can get actual FLOP usage.|
 |[Sharing new research, models, and datasets from Meta FAIR.](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture) |Meta has released an updated agents framework to measure and ensure robustness and safety when deployed in the wild. |
 |[Material Transforms from Disentangled NeRF Representations.](https://arxiv.org/abs/2411.08037v1) |This research introduces a technique for applying material transformations, like wetness or coating, across different scenes using disentangled Neural Radiance Fields (NeRF). |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data.](https://github.com/1xbq1/fedmllm) | A new benchmark evaluates the federated fine-tuning of MLLMs across diverse scenarios, including two datasets, five baselines, and over ten types of multimodal heterogeneities.|
+|[LLM Prompt Tuning Playbook.](https://github.com/varungodbole/prompt-tuning-playbook) |A helpful guide for prompt engineering. |
+|[Metal Puzzles.](https://github.com/abeleinin/Metal-Puzzles) | A number of puzzles and tutorials to learn GPU programming on Mac Metal acceleration.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -176,8 +176,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Claude uses AI to identify new threats.](https://www.platformer.news/how-claude-uses-ai-to-identify-new-threats/) |Anthropic's Clio tool uncovered a coordinated SEO spam campaign using its chatbot, Claude, resulting in the termination of the spammers' access. Clio employs machine learning to detect emerging threats and flag unusual chatbot usage, supporting Anthropic's trust and safety efforts. The company advocates for similar monitoring approaches across AI labs to mitigate risks while enabling diverse user applications. |
 |[AI Models Are Getting Smarter. New Tests Are Racing to Catch Up.](https://time.com/7203729/ai-evaluations-safety/) |AI systems are exceeding expectations on challenging benchmarks like Epoch AI's FrontierMath. However, creating effective evaluations to understand and manage AI capabilities remains a complex and underfunded task. Experts emphasize the importance of developing advanced, timely tests to monitor risks as models progress. |
 |[How Hallucinatory A.I. Helps Science Dream Up Big Breakthroughs.](https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html?unlocked_article_code=1.j04.8joc.--6KOPzgYLxg&smid=url-share) | AI hallucinations, typically seen as inaccuracies, are proving beneficial in scientific research by boosting idea generation and discoveries. Achievements include Nobel Prize-winning protein designs, advancements in antibiotics, and catheter innovations. While the term "hallucinations" remains controversial, experts recognize AI's potential for transformative scientific breakthroughs.|
-|[.]() | |
-|[.]() | |
+|[AI Godmother Fei-Fei Li Has a Vision for Computer Vision.](https://spectrum.ieee.org/fei-fei-li-world-labs) |Fei-Fei Li's startup, World Labs, focuses on enhancing AI with 3D spatial intelligence to create and interact with 3D worlds. This advancement is key to improving AI capabilities in real and virtual environments, with potential to revolutionize fields such as robotics, design, and augmented reality. |
+|[The AI revolution is running out of data. What can researchers do?](https://www.nature.com/articles/d41586-024-03990-2) |AI development is heading toward a data shortage crisis by 2028, as training datasets near the limit of publicly available online text. Companies like OpenAI are addressing this challenge by generating synthetic data and using unconventional sources. This shift may lead to a focus on smaller, specialized AI models instead of large-scale LLMs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
