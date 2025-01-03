@@ -113,8 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FlowEdit.](https://github.com/fallenshock/FlowEdit) |Easy editing of images with flow based models. |
 |[Transfusion - Pytorch.](https://github.com/lucidrains/transfusion-pytorch) |Lucidrains has written up a great reimplementation of Meta's token + diffusion model Transfusion which can do images and text in a single model. |
 |[Fast LLM Inference From Scratch.](https://andrewkchan.dev/posts/yalm.html) |The article details the creation of an LLM inference engine using C++ and CUDA without external libraries, emphasizing speed optimization for consumer devices. It explores techniques like multithreading, vectorization, warp reductions, coalescing, and quantization, achieving better throughput than llama.cpp in specific cases. The piece also highlights opportunities for further optimization and discusses the benefits of established libraries for production-grade applications. |
-|[.]() | |
-|[.]() | |
+|[8 expert tips for getting started with NotebookLM.](https://blog.google/technology/ai/notebooklm-beginner-tips/) |This guide offers key insights from experts to help beginners get started with NotebookLM, making it easier to navigate and use effectively. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,9 +137,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How AI is unlocking ancient texts — and could rewrite history.](https://www.nature.com/articles/d41586-024-04161-z) | From deciphering burnt Roman scrolls to reading crumbling cuneiform tablets, neural networks could give researchers more data than they’ve had in centuries.|
 |[6G-AI Mashups Will Reshape the Telecom Industry.](https://spectrum.ieee.org/6g-ai-mashup) | The EU-U.S. 6G-XCEL project, along with efforts like ACCoRD and COSMOS, is driving 6G research through AI-integrated network architectures. Workshops at Rutgers showcased 6G innovations, emphasizing open-source initiatives and industry collaborations. These efforts aim to accelerate development and establish interoperability frameworks for next-generation wireless networks.|
 |[Why google bought Character AI.](https://manassaloi.com/2024/12/23/character-ai-goole.html) | Google acquired Character AI for its cost-efficient inference technology, enabling scalable AI interactions and supporting free model offerings via AI Studio without affecting unit economics. This move aligns with the shift toward optimizing inference as pre-training yields diminish.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Computing inside an AI.](https://willwhitney.com/computing-inside-ai.html) | Shifting from a model-as-person to a model-as-computer metaphor could make AI more effective by introducing graphical interfaces and direct manipulation, reducing reliance on slower conversational inputs. This paradigm enables users to interact with AI as a dynamic, customizable app, improving efficiency and versatility. Generative interfaces have the potential to revolutionize computing, allowing users to create and modify applications on demand for specific tasks.|
+|[How Claude Became Tech Insiders’ Chatbot of Choice.](https://www.nytimes.com/2024/12/13/technology/claude-ai-anthropic.html?unlocked_article_code=1.hk4.3jl5.A0jpWkmgaIff&smid=url-share) | Anthropic's AI chatbot Claude is gaining popularity among tech insiders for its perceived emotional intelligence and creative responses.|
+|[Desktop, Touch, Browser, Now AI? The Next OS in Computing.](https://tomtunguz.com/the-ai-os/) |Human-computer interaction is evolving from graphical interfaces to a more conversational AI-driven approach. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
