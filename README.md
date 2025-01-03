@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years.](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years) | Geoffrey Hinton says there is 10% to 20% chance AI will lead to human extinction in three decades, as change moves fast|
 |[OpenAI lays out plan to shift to for-profit corporate structure.](https://www.theguardian.com/technology/2024/dec/27/openai-plan-for-profit-structure) | AI company, which makes ChatGPT, says in blogpost ‘we once again need to raise more capital than we’d imagined’|
 |[ChatGPT search vs. Google: A deep dive analysis of 62 queries.](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676) | A study comparing 62 queries analyzed ChatGPT search and Google, revealing distinct strengths and weaknesses. Google excelled in informational, local, and commercial queries, while ChatGPT showed potential in content gap analysis and disambiguation. Both faced issues with errors and incomplete responses, though Google generally offered more reliable results.|
-|[.]() | |
+|[Nick Clegg, former UK deputy prime minister, leaves Meta.](https://www.theguardian.com/technology/2025/jan/02/nick-clegg-meta) | Clegg was the tech giant’s chief public policy architect when it was facing scrutiny over Cambridge Analytica scandal|
 |[.]() | |
 |[.]() | |
 |[.]() | |
