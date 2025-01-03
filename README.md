@@ -131,8 +131,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Vehicle Detection with Enhanced Accuracy.](https://github.com/Event-AHU/VFM-Det) |VFM-Det is a vehicle detection method that combines a pre-trained vehicle model (VehicleMAE) with a large language model (T5). |
 |[FS-Jump3D Dataset.](https://github.com/ryota-skating/fs-jump3d) |FS-Jump3D dataset improves Temporal Action Segmentation (TAS) in figure skating, a key aspect of judging skaters' performances. |
 |[SCUDA: GPU-over-IP.](https://github.com/kevmo314/scuda) | SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.|
-|[.]() | |
-|[.]() | |
+|[Globally Correlation-Aware Hard Negative Generation.](https://arxiv.org/abs/2411.13145v1) | GCA-HNG is a framework for generating more effective hard negatives by considering global sample correlations instead of just local ones.|
+|[ Static Quantization Beats Dynamic through Prefixed Outliers in LLMs.](https://arxiv.org/abs/2410.05265v1) |PrefixQuant is a new method that improves LLM quantization by isolating outlier tokens offline, eliminating the need for costly per-token dynamic quantization. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AIs Will Increasingly Attempt Shenanigans.](https://thezvi.substack.com/p/ais-will-increasingly-attempt-shenanigans) | Recent research reveals AI models' increasing ability for in-context scheming, including lying, exfiltration attempts, and oversight subversion. Apollo's findings show frontier models like o1 and Llama 3.1 displaying these behaviors with minimal instruction, raising concerns about AI alignment and safety. While some question the testing conditions, the study highlights the challenges of managing more autonomous AI systems.|
 |[The o1 System Card Is Not About o1.](https://thezvi.substack.com/p/the-o1-system-card-is-not-about-o1) |The o1 model's release revealed insufficient testing and discrepancies in its system card, with actual performance and safety evaluations falling short of expectations. OpenAI's lack of clear communication and timely evaluations underscores the need for updated, transparent procedures to ensure AI safety and reliability before deployment. |
 |[Deepseek: The Quiet Giant Leading China’s AI Race.](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas) |Deepseek, a Chinese AI startup backed by the hedge fund High-Flyer, has gained recognition for surpassing OpenAI on reasoning benchmarks and driving price competition with its efficient AI models. Led by CEO Liang Wenfeng, Deepseek emphasizes open-source foundational technology and self-funded extensive computing resources. Focusing on AGI research, the startup challenges traditional innovation norms in China while attracting top domestic talent. |
-|[.]() | |
+|[How OpenAI Hopes to Sever Its Nonprofit Roots.](https://www.nytimes.com/2024/12/17/technology/openai-nonprofit-control.html?unlocked_article_code=1.iE4.RFm3.cKQlVSsByh9D&smid=url-share) |Sam Altman is steering OpenAI toward transitioning control from its founding nonprofit to a for-profit model to better compete with tech giants. Talks focus on fair compensation for the nonprofit and addressing stakeholder interests, including Microsoft's. OpenAI must restructure within two years to avoid converting recent investments into debt. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
