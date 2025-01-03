@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[A Survey on LLM Inference-Time Self-Improvement.](https://arxiv.org/abs/2412.14352) |This survey categorizes LLM inference-time self-improvement techniques into three areas: independent methods like enhanced decoding, context-aware approaches leveraging external data, and model collaboration strategies. |
 |[Explore Theory-of-Mind: Program-Guided Adversarial Data Generation for Theory of Mind Reasoning.](https://ai.meta.com/research/publications/explore-theory-of-mind-program-guided-adversarial-data-generation-for-theory-of-mind-reasoning/) |ExploreToM is a framework leveraging A* search to create complex theory-of-mind scenarios, exposing significant limitations in current LLMs' social intelligence. Advanced models like GPT-4 and Llama-3 achieved as low as 5% accuracy on these scenarios, despite excelling on simpler benchmarks. Fine-tuning with ExploreToM data improved performance on existing benchmarks by 27 points. |
-|[.]() | |
-|[.]() | |
+|[CHORDONOMICON: A Dataset of 666,000 Songs and their Chord Progressions.](https://arxiv.org/abs/2410.22046v3) | The Chordonomicon dataset provides over 666,000 songs with chord progressions annotated by genre, structure, and release date, addressing a significant gap in deep learning resources for music analysis.|
+|[ClassiFIM: An Unsupervised Method To Detect Phase Transitions.](https://arxiv.org/abs/2408.03323) | ClassiFIM is a new approach for estimating the Fisher Information Metric in unsupervised learning of phase transitions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
