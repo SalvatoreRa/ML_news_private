@@ -96,8 +96,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YouTube Teams With CAA to Let Talent Identify — and Pull Down — AI Deepfakes of Themselves.](https://variety.com/2024/digital/news/caa-youtube-talent-ai-deepfakes-remove-1236251470/) | YouTube and CAA have partnered to help talent combat AI-generated fakes using early-stage likeness management technology. The tool allows actors and athletes to identify unauthorized AI replicas and request their removal. This collaboration focuses on protecting IP rights while testing and refining AI detection systems ahead of a broader launch.|
 |[Engineered Arts restructures with $10M to create humanoid robots.](https://venturebeat.com/ai/engineered-arts-restructures-with-10m-to-create-humanoid-robots/) |Engineered Arts, a United Kingdom firm making humanoid robots, has restructured as a U.S. company and raised $10 million. |
 |[NVIDIA Unveils Its Most Affordable Generative AI Supercomputer.](https://blogs.nvidia.com/blog/jetson-generative-ai-supercomputer/) |The Jetson Orin Nano Super delivers up to a 1.7x gain in generative AI performance, supporting popular models for hobbyists, developers and students. |
-|[.]() | |
-|[.]() | |
+|[OpenAI failed to deliver the opt-out tool it promised by 2025.](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/) |Back in May, OpenAI said it was developing a tool to let creators specify how they want their works to be included in — or excluded from — its AI training data. But seven months later, this feature has yet to see the light of day. |
+|[Code Assist, Google’s enterprise-focused coding assistant, gets third-party tools.](https://techcrunch.com/2024/12/17/code-assist-googles-enterprise-focused-code-assistant-gets-third-party-tools/) |Google on Tuesday announced support for third-party tools in Gemini Code Assist, its enterprise-focused AI code completion service.
+
+Code Assist launched |
 |[.]() | |
 |[.]() | |
 |[.]() | |
