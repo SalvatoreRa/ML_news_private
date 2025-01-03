@@ -94,7 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BYD officially enters humanoid robot race as global talent search kicks off.](https://electrek.co/2024/12/17/byd-enters-humanoid-robot-race-global-talent-search-kicks-off/) | China’s leading EV maker will try its hand in a promising new field. As electric car sales continue surging to record highs, BYD plans to take on the world of humanoid robots. To kick things off, BYD announced a new recruitment program to attract top talent from around the globe.|
 |[Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI.](https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/) | Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI, and said that it would open-source the software.|
 |[YouTube Teams With CAA to Let Talent Identify — and Pull Down — AI Deepfakes of Themselves.](https://variety.com/2024/digital/news/caa-youtube-talent-ai-deepfakes-remove-1236251470/) | YouTube and CAA have partnered to help talent combat AI-generated fakes using early-stage likeness management technology. The tool allows actors and athletes to identify unauthorized AI replicas and request their removal. This collaboration focuses on protecting IP rights while testing and refining AI detection systems ahead of a broader launch.|
-|[.]() | |
+|[Engineered Arts restructures with $10M to create humanoid robots.](https://venturebeat.com/ai/engineered-arts-restructures-with-10m-to-create-humanoid-robots/) |Engineered Arts, a United Kingdom firm making humanoid robots, has restructured as a U.S. company and raised $10 million. |
+|[NVIDIA Unveils Its Most Affordable Generative AI Supercomputer.](https://blogs.nvidia.com/blog/jetson-generative-ai-supercomputer/) |The Jetson Orin Nano Super delivers up to a 1.7x gain in generative AI performance, supporting popular models for hobbyists, developers and students. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,6 +137,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Xmodel_LM-1.1B.](https://github.com/XiaoduoAILab/XmodelLM) |a compact and efficient 1.1B language model pre-trained on around 2 trillion tokens. |
 |[Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world.](https://github.com/hanlingsgjk/unifiedgeneralization) |SAG is a self-supervised framework that enhances the generalization of optical flow and stereo methods for real-world applications. By leveraging advanced reconstruction techniques, SAG generates datasets from RGB images and quantifies confidence levels to address imperfections, offering a robust alternative to traditional approaches. |
 |[Olympus: A Universal Task Router for Computer Vision Tasks.](https://yuanze-lin.me/Olympus_page/) | Olympus provides a comprehensive framework for evaluating AI creativity across multiple domains, offering insights into generative model capabilities and limitations.|
+|[Enhance Non-Ideal CT Imaging.](https://github.com/yutinghe-list/tamp) | TAMP is a multi-scale integrated Transformer model designed to enhance non-ideal CT (NICT) imaging.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
