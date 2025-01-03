@@ -138,9 +138,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world.](https://github.com/hanlingsgjk/unifiedgeneralization) |SAG is a self-supervised framework that enhances the generalization of optical flow and stereo methods for real-world applications. By leveraging advanced reconstruction techniques, SAG generates datasets from RGB images and quantifies confidence levels to address imperfections, offering a robust alternative to traditional approaches. |
 |[Olympus: A Universal Task Router for Computer Vision Tasks.](https://yuanze-lin.me/Olympus_page/) | Olympus provides a comprehensive framework for evaluating AI creativity across multiple domains, offering insights into generative model capabilities and limitations.|
 |[Enhance Non-Ideal CT Imaging.](https://github.com/yutinghe-list/tamp) | TAMP is a multi-scale integrated Transformer model designed to enhance non-ideal CT (NICT) imaging.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling.](https://github.com/robo-alex/gs-dynamics) |This code leverages advancements in general 3D vision to enhance robot vision, particularly by predicting the dynamics of objects manipulated by a robotic arm. This capability improves the system's overall manipulation performance. |
+|[Process Reinforcement Through Implicit Rewards.](https://github.com/PRIME-RL/PRIME) | Few open replications of o1 reasoning exist, but this work shows promise by using implicit rewards that bypass formal reward methods, while also rewarding outcomes consistent with reasoning model principles. Though the code is still in progress, the developers have released the data and models.|
+|[Single Modality 3D Object Detection.](https://github.com/zcablii/sm3det) |This repository offers a 3D object detection framework optimized for single-modality inputs, focusing on simplified and efficient use cases. |
+|[Vinci - An Online Egocentric Video-Language Assistant.](https://github.com/opengvlab/vinci) | A conditional diffusion model that combines visual and textual inputs to generate high-quality images based on diverse text-visual contexts.|
+|[VisionReward.](https://github.com/thudm/visionreward) | VisionReward is a fine-grained and multi-dimensional reward model.|
+|[Wonderful Matrices.](https://github.com/LoserCheems/WonderfulMatrices) | A comprehensive collection of efficiently implemented matrix operations, ideal for mathematical and scientific computing tasks.|
+|[ChatTime: A Multimodal Time Series Foundation Model.](https://huggingface.co/ChengsenWang/ChatTime-1-7B-Base) |An interactive chat-based application that integrates time-tracking features, simplifying task management for teams and individuals. |
+|[CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation.](https://cuzyoung.github.io/CrossEarth-Homepage/) | CrossEarth is the first vision foundation model aimed at generalizing across diverse remote sensing scenarios.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
