@@ -92,6 +92,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[xAI is testing a standalone iOS app for its Grok chatbot.](https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/) | Elon Musk’s AI company, xAI, is testing out a standalone iOS app for its chatbot, Grok, which was available only to X users until now.|
 |[OpenAI says it has no plans for a Sora API — yet.](https://techcrunch.com/2024/12/17/openai-says-it-has-no-plans-for-a-sora-api-yet/) | OpenAI says it has no plans to release an API for Sora, its AI model that can generate reasonably realistic videos when provided with a text description or reference image.|
 |[BYD officially enters humanoid robot race as global talent search kicks off.](https://electrek.co/2024/12/17/byd-enters-humanoid-robot-race-global-talent-search-kicks-off/) | China’s leading EV maker will try its hand in a promising new field. As electric car sales continue surging to record highs, BYD plans to take on the world of humanoid robots. To kick things off, BYD announced a new recruitment program to attract top talent from around the globe.|
+|[Nvidia to open-source Run:ai, the software it acquired for $700M to help companies manage GPUs for AI.](https://venturebeat.com/ai/nvidia-acquires-software-maker-runai-to-orchestrate-gpu-clouds-for-ai/) | Nvidia has completed its acquisition of Run:ai, a software company that makes it easier for customers to orchestrate GPU clouds for AI, and said that it would open-source the software.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trusted Autonomy: Robotics, AI, and Blockchain.](https://openmind.org/research.html) | What happens when robotics, AI, and blockchain converge? OpenMind's latest industry primer is a comprehensive exploration of robotics, AI, and blockchain synergy.|
 |[AIs Will Increasingly Attempt Shenanigans.](https://thezvi.substack.com/p/ais-will-increasingly-attempt-shenanigans) | Recent research reveals AI models' increasing ability for in-context scheming, including lying, exfiltration attempts, and oversight subversion. Apollo's findings show frontier models like o1 and Llama 3.1 displaying these behaviors with minimal instruction, raising concerns about AI alignment and safety. While some question the testing conditions, the study highlights the challenges of managing more autonomous AI systems.|
 |[The o1 System Card Is Not About o1.](https://thezvi.substack.com/p/the-o1-system-card-is-not-about-o1) |The o1 model's release revealed insufficient testing and discrepancies in its system card, with actual performance and safety evaluations falling short of expectations. OpenAI's lack of clear communication and timely evaluations underscores the need for updated, transparent procedures to ensure AI safety and reliability before deployment. |
-|[.]() | |
+|[Deepseek: The Quiet Giant Leading China’s AI Race.](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas) |Deepseek, a Chinese AI startup backed by the hedge fund High-Flyer, has gained recognition for surpassing OpenAI on reasoning benchmarks and driving price competition with its efficient AI models. Led by CEO Liang Wenfeng, Deepseek emphasizes open-source foundational technology and self-funded extensive computing resources. Focusing on AGI research, the startup challenges traditional innovation norms in China while attracting top domestic talent. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
