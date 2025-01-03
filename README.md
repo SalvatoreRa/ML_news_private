@@ -56,8 +56,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chain of Continuous Thoughts.](https://benjamincongdon.me/blog/2024/12/14/Chain-of-Continuous-Thoughts/) |Meta's COCONUT introduces a new approach for LLMs to reason in continuous latent space instead of discrete language tokens, encoding reasoning steps as continuous vectors. This method enhances reasoning capabilities but reduces interpretability, offering a promising trade-off for future LLM advancements. |
 |[The Vizier Gaussian Process Bandit Algorithm.](https://arxiv.org/abs/2408.11527) |Google has open-sourced an internal tool used for hyperparameter optimization and research across its products. Previously proprietary, the tool's underlying algorithm has now been detailed in a published paper, highlighting its decision-making capabilities and effectiveness. |
 |[Large-scale moral machine experiment on large language models.](https://arxiv.org/abs/2411.06790v2) | A new study assesses the ethical decision-making of 51 LLMs in autonomous driving scenarios, analyzing alignment with human moral judgments across various models, including GPT, Claude, and Llama.|
-|[.]() | |
-|[.]() | |
+|[Efficient Parallel Genetic Algorithm for Perturbed Substructure Optimization in Complex Network.](https://arxiv.org/abs/2412.20980v1) | This study suggests a method for reconstructing the genetic operation and designing a development framework for efficient parallel acceleration.|
+|[An analytic theory of creativity in convolutional diffusion models.](https://arxiv.org/abs/2412.20292) |A fascinating paper that explores closed form equations that can model generated images from diffusion models. This means that with a high degree of confidence you can predict the image that will be generated, in a simpler setting. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
