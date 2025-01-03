@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498) |This approach applies long chain-of-thought reasoning to machine translation, focusing on metaphors and similes across cultures. It employs a multi-agent framework where a translator collaborates iteratively with an advisor and evaluator for improved translations. Testing with Qwen2.5 models showed notable gains in BLEU and CometScore metrics, with DRT-o1-7B outperforming larger models like QwQ-32B-Preview. |
 |[SceneCraft: Layout-Guided 3D Scene Generation.](https://orangesodahub.github.io/SceneCraft/) |SceneCraft introduces a method for creating detailed 3D indoor scenes based on user-provided text descriptions and layout preferences. |
 |[Chain of Continuous Thoughts.](https://benjamincongdon.me/blog/2024/12/14/Chain-of-Continuous-Thoughts/) |Meta's COCONUT introduces a new approach for LLMs to reason in continuous latent space instead of discrete language tokens, encoding reasoning steps as continuous vectors. This method enhances reasoning capabilities but reduces interpretability, offering a promising trade-off for future LLM advancements. |
-|[.]() | |
+|[The Vizier Gaussian Process Bandit Algorithm.](https://arxiv.org/abs/2408.11527) |Google has open-sourced an internal tool used for hyperparameter optimization and research across its products. Previously proprietary, the tool's underlying algorithm has now been detailed in a published paper, highlighting its decision-making capabilities and effectiveness. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT Search can be tricked into misleading users, new research reveals.](https://techcrunch.com/2024/12/26/chatgpt-search-can-be-tricked-into-misleading-users-new-research-reveals/) |ChatGPT Search, an AI-powered search engine that went live this month, can be fooled into generating completely misleading summaries, U.K. newspaper The Guardian has found. |
 |[Meta is rolling out live AI and Shazam integration to its smart glasses.](https://www.engadget.com/ar-vr/meta-is-rolling-out-live-ai-and-shazam-integration-to-its-smart-glasses-192602898.html) | The Ray-Ban Meta Smart Glasses already worked well as a head-mounted camera and pair of open-ear headphones, but now Meta is updating the glasses with access to live AI without the need for a wake word, live translation between several different languages, and access to Shazam for identifying music.|
 |[AI helps ID paint chemistry of Berlin Wall murals.](https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/) | SAPNet is a neural network developed by Italian scientists to enhance spectral data analysis from handheld Raman spectroscopy devices.|
-|[.]() | |
-|[.]() | |
+|[Cerebras Demonstrates Trillion Parameter Model Training on a Single CS-3 System.](https://cerebras.ai/press-release/cerebras-demonstrates-trillion-parameter-model-training-on-a-single-cs-3-system) | Cerebras Systems and Sandia National Laboratories successfully trained a 1 trillion parameter AI model on a single CS-3 system using Cerebras' Wafer Scale Cluster technology. This approach eliminates the need for thousands of GPUs, simplifying deployment. The model scaled seamlessly to 16 CS-3 systems, demonstrating impressive linear scalability.|
+|[xAI is testing a standalone iOS app for its Grok chatbot.](https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/) | Elon Musk’s AI company, xAI, is testing out a standalone iOS app for its chatbot, Grok, which was available only to X users until now.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Label Critic: Using LVLMs to Compare Medical Segmentations and Correct Label Errors.](https://github.com/PedroRASB/LabelCritic) |Label Critic is a cutting-edge tool that simplifies medical dataset annotation by leveraging AI-generated labels, eliminating the need to start from scratch. |
 |[Py-CTCMetrics.](https://github.com/celltrackingchallenge/py-ctcmetrics) | The CHOTA metric (Cell-specific Higher Order Tracking Accuracy) enhances the evaluation of cell tracking methods in biomedical research by integrating cell detection, global coherence, and lineage tracking into a unified framework. Unlike existing metrics that emphasize local accuracy, CHOTA provides a comprehensive approach, better suited for high-level biological analysis.|
 |[FM4Music.](https://github.com/nicolaus625/FM4Music) | This repository, along with the companion paper, contains a list of services, models, datasets, and systems used to generate music.|
-|[.]() | |
-|[.]() | |
+|[Show-o: One Single Transformer to Unify Multimodal Understanding and Generation.](https://arxiv.org/abs/2408.12528) |A multimodal model that unifies image and text generation and understanding by using a novel set of autoregressive and discrete diffusion blocks. |
+|[Xmodel-1.5: An 1B-scale Multilingual LLM.](https://arxiv.org/abs/2411.10083v3) |Xmodel-1.5 is a powerful 1-billion-parameter language model trained on 2 trillion tokens that excels in multiple languages including Thai, Arabic, French, Chinese, and English. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Claude Became Tech Insiders’ Chatbot of Choice.](https://www.nytimes.com/2024/12/13/technology/claude-ai-anthropic.html?unlocked_article_code=1.hk4.3jl5.A0jpWkmgaIff&smid=url-share) | Anthropic's AI chatbot Claude is gaining popularity among tech insiders for its perceived emotional intelligence and creative responses.|
 |[Desktop, Touch, Browser, Now AI? The Next OS in Computing.](https://tomtunguz.com/the-ai-os/) |Human-computer interaction is evolving from graphical interfaces to a more conversational AI-driven approach. |
 |[Tenstorrent and the State of AI Hardware Startups.](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware) | Tenstorrent's open-source AI hardware offers a competitive alternative to Nvidia, integrating unique CPU and AI core strategies. Leveraging Samsung Foundry's cost-efficient SF4X process, the company addresses latency challenges for scalable AI workloads. With a recent $2B valuation, Tenstorrent shows strong potential, particularly as a high-performance RISC-V IP option amid ARM's pricing challenges.|
-|[.]() | |
+|[𝗼𝟯 “𝗔𝗥𝗖 𝗔𝗚𝗜” 𝗽𝗼𝘀𝘁𝗺𝗼𝗿𝘁𝗲𝗺 𝗺𝗲𝗴𝗮𝘁𝗵𝗿𝗲𝗮𝗱: 𝘄𝗵𝘆 𝘁𝗵𝗶𝗻𝗴𝘀 𝗴𝗼𝘁 𝗵𝗲𝗮𝘁𝗲𝗱, 𝘄𝗵𝗮𝘁 𝘄𝗲𝗻𝘁 𝘄𝗿𝗼𝗻𝗴, 𝗮𝗻𝗱 𝘄𝗵𝗮𝘁 𝗶𝘁 𝗮𝗹𝗹 𝗺𝗲𝗮𝗻𝘀.](https://garymarcus.substack.com/p/c39) | OpenAI's recent AI demonstration faced criticism for creating misleading impressions of achieving AGI, with unclear pretraining details and questionable graphs. Experts from DeepMind and Hugging Face noted that the AI took the test with extensive pretraining, unlike humans. The lack of transparency and test methodology limits direct comparisons to human abilities, casting doubt on the significance of the claimed breakthrough.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
