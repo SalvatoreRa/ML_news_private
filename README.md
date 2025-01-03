@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI helps ID paint chemistry of Berlin Wall murals.](https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/) | SAPNet is a neural network developed by Italian scientists to enhance spectral data analysis from handheld Raman spectroscopy devices.|
 |[Cerebras Demonstrates Trillion Parameter Model Training on a Single CS-3 System.](https://cerebras.ai/press-release/cerebras-demonstrates-trillion-parameter-model-training-on-a-single-cs-3-system) | Cerebras Systems and Sandia National Laboratories successfully trained a 1 trillion parameter AI model on a single CS-3 system using Cerebras' Wafer Scale Cluster technology. This approach eliminates the need for thousands of GPUs, simplifying deployment. The model scaled seamlessly to 16 CS-3 systems, demonstrating impressive linear scalability.|
 |[xAI is testing a standalone iOS app for its Grok chatbot.](https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/) | Elon Musk’s AI company, xAI, is testing out a standalone iOS app for its chatbot, Grok, which was available only to X users until now.|
-|[.]() | |
-|[.]() | |
+|[OpenAI says it has no plans for a Sora API — yet.](https://techcrunch.com/2024/12/17/openai-says-it-has-no-plans-for-a-sora-api-yet/) | OpenAI says it has no plans to release an API for Sora, its AI model that can generate reasonably realistic videos when provided with a text description or reference image.|
+|[BYD officially enters humanoid robot race as global talent search kicks off.](https://electrek.co/2024/12/17/byd-enters-humanoid-robot-race-global-talent-search-kicks-off/) | China’s leading EV maker will try its hand in a promising new field. As electric car sales continue surging to record highs, BYD plans to take on the world of humanoid robots. To kick things off, BYD announced a new recruitment program to attract top talent from around the globe.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
