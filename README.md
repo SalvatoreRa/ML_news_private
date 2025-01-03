@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SceneCraft: Layout-Guided 3D Scene Generation.](https://orangesodahub.github.io/SceneCraft/) |SceneCraft introduces a method for creating detailed 3D indoor scenes based on user-provided text descriptions and layout preferences. |
 |[Chain of Continuous Thoughts.](https://benjamincongdon.me/blog/2024/12/14/Chain-of-Continuous-Thoughts/) |Meta's COCONUT introduces a new approach for LLMs to reason in continuous latent space instead of discrete language tokens, encoding reasoning steps as continuous vectors. This method enhances reasoning capabilities but reduces interpretability, offering a promising trade-off for future LLM advancements. |
 |[The Vizier Gaussian Process Bandit Algorithm.](https://arxiv.org/abs/2408.11527) |Google has open-sourced an internal tool used for hyperparameter optimization and research across its products. Previously proprietary, the tool's underlying algorithm has now been detailed in a published paper, highlighting its decision-making capabilities and effectiveness. |
-|[.]() | |
+|[Large-scale moral machine experiment on large language models.](https://arxiv.org/abs/2411.06790v2) | A new study assesses the ethical decision-making of 51 LLMs in autonomous driving scenarios, analyzing alignment with human moral judgments across various models, including GPT, Claude, and Llama.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,8 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SCUDA: GPU-over-IP.](https://github.com/kevmo314/scuda) | SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.|
 |[Globally Correlation-Aware Hard Negative Generation.](https://arxiv.org/abs/2411.13145v1) | GCA-HNG is a framework for generating more effective hard negatives by considering global sample correlations instead of just local ones.|
 |[ Static Quantization Beats Dynamic through Prefixed Outliers in LLMs.](https://arxiv.org/abs/2410.05265v1) |PrefixQuant is a new method that improves LLM quantization by isolating outlier tokens offline, eliminating the need for costly per-token dynamic quantization. |
-|[.]() | |
-|[.]() | |
+|[Xmodel_LM-1.1B.](https://github.com/XiaoduoAILab/XmodelLM) |a compact and efficient 1.1B language model pre-trained on around 2 trillion tokens. |
+|[Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world.](https://github.com/hanlingsgjk/unifiedgeneralization) |SAG is a self-supervised framework that enhances the generalization of optical flow and stereo methods for real-world applications. By leveraging advanced reconstruction techniques, SAG generates datasets from RGB images and quantifies confidence levels to address imperfections, offering a robust alternative to traditional approaches. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
