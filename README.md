@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI tools may soon manipulate people’s online decision-making, say researchers.](https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers) | Study predicts an ‘intention economy’ where companies bid for accurate predictions of human behaviour|
 |[‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years.](https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years) | Geoffrey Hinton says there is 10% to 20% chance AI will lead to human extinction in three decades, as change moves fast|
 |[OpenAI lays out plan to shift to for-profit corporate structure.](https://www.theguardian.com/technology/2024/dec/27/openai-plan-for-profit-structure) | AI company, which makes ChatGPT, says in blogpost ‘we once again need to raise more capital than we’d imagined’|
-|[.]() | |
+|[ChatGPT search vs. Google: A deep dive analysis of 62 queries.](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676) | A study comparing 62 queries analyzed ChatGPT search and Google, revealing distinct strengths and weaknesses. Google excelled in informational, local, and commercial queries, while ChatGPT showed potential in content gap analysis and disambiguation. Both faced issues with errors and incomplete responses, though Google generally offered more reliable results.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,8 +136,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘All people could do was hope the nerds would fix it’: the global panic over the millennium bug, 25 years on.](https://www.theguardian.com/technology/2024/dec/28/all-people-could-do-was-hope-the-nerds-would-fix-it-the-global-panic-over-the-millennium-bug-25-years-on) |Planes were going to drop out of the sky, nuclear reactors would explode. But then … nothing. What really happened with Y2K? People still disagree … |
 |[How will AI reshape 2025? Well, it could be the spreadsheet of the 21st century.](https://www.theguardian.com/commentisfree/2024/dec/28/llms-large-language-models-gen-ai-agents-spreadsheets-corporations-work) | Large language models have changed how big corporations function, and the arrival of AI ‘agents’ – essentially automated Moneypennys – could prove irresistible|
 |[How AI is unlocking ancient texts — and could rewrite history.](https://www.nature.com/articles/d41586-024-04161-z) | From deciphering burnt Roman scrolls to reading crumbling cuneiform tablets, neural networks could give researchers more data than they’ve had in centuries.|
-|[.]() | |
-|[.]() | |
+|[6G-AI Mashups Will Reshape the Telecom Industry.](https://spectrum.ieee.org/6g-ai-mashup) | The EU-U.S. 6G-XCEL project, along with efforts like ACCoRD and COSMOS, is driving 6G research through AI-integrated network architectures. Workshops at Rutgers showcased 6G innovations, emphasizing open-source initiatives and industry collaborations. These efforts aim to accelerate development and establish interoperability frameworks for next-generation wireless networks.|
+|[Why google bought Character AI.](https://manassaloi.com/2024/12/23/character-ai-goole.html) | Google acquired Character AI for its cost-efficient inference technology, enabling scalable AI interactions and supporting free model offerings via AI Studio without affecting unit economics. This move aligns with the shift toward optimizing inference as pre-training yields diminish.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
