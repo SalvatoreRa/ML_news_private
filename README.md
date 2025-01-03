@@ -120,6 +120,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FM4Music.](https://github.com/nicolaus625/FM4Music) | This repository, along with the companion paper, contains a list of services, models, datasets, and systems used to generate music.|
 |[Show-o: One Single Transformer to Unify Multimodal Understanding and Generation.](https://arxiv.org/abs/2408.12528) |A multimodal model that unifies image and text generation and understanding by using a novel set of autoregressive and discrete diffusion blocks. |
 |[Xmodel-1.5: An 1B-scale Multilingual LLM.](https://arxiv.org/abs/2411.10083v3) |Xmodel-1.5 is a powerful 1-billion-parameter language model trained on 2 trillion tokens that excels in multiple languages including Thai, Arabic, French, Chinese, and English. |
+|[Vehicle Detection with Enhanced Accuracy.](https://github.com/Event-AHU/VFM-Det) |VFM-Det is a vehicle detection method that combines a pre-trained vehicle model (VehicleMAE) with a large language model (T5). |
+|[FS-Jump3D Dataset.](https://github.com/ryota-skating/fs-jump3d) |FS-Jump3D dataset improves Temporal Action Segmentation (TAS) in figure skating, a key aspect of judging skaters' performances. |
+|[SCUDA: GPU-over-IP.](https://github.com/kevmo314/scuda) | SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
