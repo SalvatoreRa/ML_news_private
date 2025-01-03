@@ -81,9 +81,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI lays out plan to shift to for-profit corporate structure.](https://www.theguardian.com/technology/2024/dec/27/openai-plan-for-profit-structure) | AI company, which makes ChatGPT, says in blogpost ‘we once again need to raise more capital than we’d imagined’|
 |[ChatGPT search vs. Google: A deep dive analysis of 62 queries.](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676) | A study comparing 62 queries analyzed ChatGPT search and Google, revealing distinct strengths and weaknesses. Google excelled in informational, local, and commercial queries, while ChatGPT showed potential in content gap analysis and disambiguation. Both faced issues with errors and incomplete responses, though Google generally offered more reliable results.|
 |[Nick Clegg, former UK deputy prime minister, leaves Meta.](https://www.theguardian.com/technology/2025/jan/02/nick-clegg-meta) | Clegg was the tech giant’s chief public policy architect when it was facing scrutiny over Cambridge Analytica scandal|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch.](https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/) |Chinese AI startup DeepSeek has launched DeepSeek-V3, a 671B parameter model using a mixture-of-experts architecture, now available on Hugging Face. DeepSeek-V3 surpasses leading models like Meta's Llama 3.1 and competes with closed models like OpenAI's GPT-4o. It focuses on efficiency with innovations such as multi-token prediction, significantly reducing training costs. |
+|[Microsoft and OpenAI have a financial definition of AGI.](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/) | Microsoft and OpenAI define AGI as AI systems generating $100 billion in profits, a milestone OpenAI is far from reaching. Currently losing billions, OpenAI doesn't anticipate profitability until 2029, raising questions about how long Microsoft will maintain access to its technology. Financial metrics counter speculation that OpenAI might prematurely declare AGI.|
+|[OpenAI ‘considered’ building a humanoid robot.](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Transfusion - Pytorch.](https://github.com/lucidrains/transfusion-pytorch) |Lucidrains has written up a great reimplementation of Meta's token + diffusion model Transfusion which can do images and text in a single model. |
 |[Fast LLM Inference From Scratch.](https://andrewkchan.dev/posts/yalm.html) |The article details the creation of an LLM inference engine using C++ and CUDA without external libraries, emphasizing speed optimization for consumer devices. It explores techniques like multithreading, vectorization, warp reductions, coalescing, and quantization, achieving better throughput than llama.cpp in specific cases. The piece also highlights opportunities for further optimization and discusses the benefits of established libraries for production-grade applications. |
 |[8 expert tips for getting started with NotebookLM.](https://blog.google/technology/ai/notebooklm-beginner-tips/) |This guide offers key insights from experts to help beginners get started with NotebookLM, making it easier to navigate and use effectively. |
-|[.]() | |
+|[Implicit Grid Convolution for Multi-Scale Image Super-Resolution.](https://arxiv.org/abs/2408.09674v2) | This paper introduces a new approach to Super-Resolution (SR) that challenges the conventional method of training separate models for each scale.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
