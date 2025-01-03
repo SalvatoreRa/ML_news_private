@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search.](https://arxiv.org/abs/2412.18319) | This work introduces CoMCTS, a learning-to-reason method for multimodal language models that fosters step-by-step reasoning by leveraging knowledge from multiple models. Using this approach, the Mulberry-260k dataset with explicit reasoning trees was created to train the Mulberry model series. The method achieves strong benchmark performance, enhancing the models' reasoning and reflection capabilities.|
 |[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498) |This approach applies long chain-of-thought reasoning to machine translation, focusing on metaphors and similes across cultures. It employs a multi-agent framework where a translator collaborates iteratively with an advisor and evaluator for improved translations. Testing with Qwen2.5 models showed notable gains in BLEU and CometScore metrics, with DRT-o1-7B outperforming larger models like QwQ-32B-Preview. |
 |[SceneCraft: Layout-Guided 3D Scene Generation.](https://orangesodahub.github.io/SceneCraft/) |SceneCraft introduces a method for creating detailed 3D indoor scenes based on user-provided text descriptions and layout preferences. |
-|[.]() | |
+|[Chain of Continuous Thoughts.](https://benjamincongdon.me/blog/2024/12/14/Chain-of-Continuous-Thoughts/) |Meta's COCONUT introduces a new approach for LLMs to reason in continuous latent space instead of discrete language tokens, encoding reasoning steps as continuous vectors. This method enhances reasoning capabilities but reduces interpretability, offering a promising trade-off for future LLM advancements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nick Clegg, former UK deputy prime minister, leaves Meta.](https://www.theguardian.com/technology/2025/jan/02/nick-clegg-meta) | Clegg was the tech giant’s chief public policy architect when it was facing scrutiny over Cambridge Analytica scandal|
 |[DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch.](https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/) |Chinese AI startup DeepSeek has launched DeepSeek-V3, a 671B parameter model using a mixture-of-experts architecture, now available on Hugging Face. DeepSeek-V3 surpasses leading models like Meta's Llama 3.1 and competes with closed models like OpenAI's GPT-4o. It focuses on efficiency with innovations such as multi-token prediction, significantly reducing training costs. |
 |[Microsoft and OpenAI have a financial definition of AGI.](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/) | Microsoft and OpenAI define AGI as AI systems generating $100 billion in profits, a milestone OpenAI is far from reaching. Currently losing billions, OpenAI doesn't anticipate profitability until 2029, raising questions about how long Microsoft will maintain access to its technology. Financial metrics counter speculation that OpenAI might prematurely declare AGI.|
-|[OpenAI ‘considered’ building a humanoid robot.](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/) | |
+|[OpenAI ‘considered’ building a humanoid robot.](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/) |OpenAI is exploring the development of its own humanoid robot, drawing on past investments in robotics companies like Figure and 1X. Despite disbanding its robotics division in 2021, re-entering this competitive market poses significant challenges. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,9 +115,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fast LLM Inference From Scratch.](https://andrewkchan.dev/posts/yalm.html) |The article details the creation of an LLM inference engine using C++ and CUDA without external libraries, emphasizing speed optimization for consumer devices. It explores techniques like multithreading, vectorization, warp reductions, coalescing, and quantization, achieving better throughput than llama.cpp in specific cases. The piece also highlights opportunities for further optimization and discusses the benefits of established libraries for production-grade applications. |
 |[8 expert tips for getting started with NotebookLM.](https://blog.google/technology/ai/notebooklm-beginner-tips/) |This guide offers key insights from experts to help beginners get started with NotebookLM, making it easier to navigate and use effectively. |
 |[Implicit Grid Convolution for Multi-Scale Image Super-Resolution.](https://arxiv.org/abs/2408.09674v2) | This paper introduces a new approach to Super-Resolution (SR) that challenges the conventional method of training separate models for each scale.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Label Critic: Using LVLMs to Compare Medical Segmentations and Correct Label Errors.](https://github.com/PedroRASB/LabelCritic) |Label Critic is a cutting-edge tool that simplifies medical dataset annotation by leveraging AI-generated labels, eliminating the need to start from scratch. |
+|[Py-CTCMetrics.](https://github.com/celltrackingchallenge/py-ctcmetrics) | The CHOTA metric (Cell-specific Higher Order Tracking Accuracy) enhances the evaluation of cell tracking methods in biomedical research by integrating cell detection, global coherence, and lineage tracking into a unified framework. Unlike existing metrics that emphasize local accuracy, CHOTA provides a comprehensive approach, better suited for high-level biological analysis.|
+|[FM4Music.](https://github.com/nicolaus625/FM4Music) | This repository, along with the companion paper, contains a list of services, models, datasets, and systems used to generate music.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
