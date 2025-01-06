@@ -76,9 +76,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Amazon aims to branch into UK internet market with satellite broadband plan.](https://www.theguardian.com/business/2025/jan/05/amazon-aims-to-branch-into-uk-internet-market-with-satellite-broadband-plan) | Proposed space launches within next two years could ultimately deliver mobile phone signal even to most remote areas|
+|[Memo to Trump: US telecoms is vulnerable to hackers. Please hang up and try again.](https://www.theguardian.com/commentisfree/2025/jan/04/memo-to-trump-us-telecoms-is-vulnerable-to-hackers-please-hang-up-and-try-again) | State-backed cyberspies are exploiting ageing infrastructure to penetrate every corner of the US government, it seems – even its phone-tapping systems|
+|[How Elon Musk’s X became the global right’s supercharged front page.](https://www.theguardian.com/technology/2025/jan/04/elon-musk-x-trump-far-right) |Musk has now used X as a platform to make aggressive interventions in US politics – and in those of other countries |
 |[.]() | |
 |[.]() | |
 |[.]() | |
