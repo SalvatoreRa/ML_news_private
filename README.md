@@ -84,10 +84,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[xAI’s next-gen AI model didn’t arrive on time, adding to a trend.](https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/) |xAI has delayed the launch of its next-gen Grok model, citing quality concerns, marking yet another delay in the AI industry. |
 |[2025 will be the year climate tech learns to love AI.](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) |AI's increasing energy needs are driving interest in nuclear and fusion power, with companies innovating reactor designs and fusion startups targeting grid connection by the early 2030s. Potential changes to the Inflation Reduction Act could challenge hydrogen startups reliant on subsidies to meet cost goals. More tech alliances with power providers are expected as regulatory approvals shape grid-related investments in 2025. |
 |[CES 2025: What to expect from the year’s first and biggest tech show.](https://techcrunch.com/2025/01/02/ces-2025-what-to-expect-from-the-years-first-and-biggest-tech-show/) |CES 2025 in Las Vegas, running from January 7-10, will feature major tech events with companies like AMD, Samsung, |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI Cloud Startup Vultr Raises $333M At $3.5B In First Outside Funding Round.](https://news.crunchbase.com/cloud/ai-cloud-startup-unicorn-vultr-amd-luminarx) | Vultr, an AI cloud infrastructure startup, secured $333 million in its first funding round, achieving a $3.5 billion valuation. Co-led by AMD Ventures and LuminArx Capital Management, the investment focuses on GPU acquisition. This move underscores AMD's competitive drive against Nvidia and Intel in the AI infrastructure space.|
+|[Hamming AI Raises $3.8M Seed Round.](https://hamming.ai/blog/hamming-ai-seed-funding-to-make-voice-agents-more-reliable) | Hamming secured $3.8M in seed funding to improve AI voice agent reliability through automated testing and monitoring tools. Its offerings include LLM prompt management, vulnerability detection, and call analytics, catering to compliance-heavy industries. Co-founder Lauren Farleigh emphasizes their commitment to safe AI development amid the expansion of conversational AI.|
+|[Generative AI Funding Surges with $56 Billion in 2024!.](https://opentools.ai/news/generative-ai-funding-surges-with-dollar56-billion-in-2024) |Generative AI investments hit a record $56 billion in 2024, driven by strong enterprise demand and advancements in foundation models. |
+|[AI startup Odyssey’s new tool can generate photorealistic 3D worlds.](https://techcrunch.com/2024/12/18/ai-startup-odyssees-new-tool-can-generate-photorealistic-3d-worlds/) | Odyssey's Explorer is an AI tool that generates photorealistic 3D scenes from text or images, featuring a distinctive camera system for enhanced realism.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,8 +147,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Machine-Assisted Proof.](https://www.ams.org//notices/202501/rnoti-p6.pdf) | This work explores how mathematicians have historically used machines to aid research and highlights recent AI tools revolutionizing mathematical proof assistance.|
 |[How AI is unlocking ancient texts — and could rewrite history.](https://www.nature.com/articles/d41586-024-04161-z) |From deciphering burnt Roman scrolls to reading crumbling cuneiform tablets, neural networks could give researchers more data than they’ve had in centuries. |
 |[The small-drone revolution is coming — scientists need to ensure it will be safe.](https://www.nature.com/articles/d41586-024-04167-7) | China’s low-altitude aviation economy is poised to become a trillion-yuan industry in 2025 — if safety and security challenges can be overcome.|
-|[.]() | |
-|[.]() | |
+|[‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis.](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) |More than half of students are now using generative AI, casting a shadow over campuses as tutors and students turn on each other and hardworking learners are caught in the flak. Will Coldwell reports on a broken system |
+|[AI boom masks fundraising struggles for non-AI startups.](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) |Many startups are struggling to raise funding at higher valuations despite modest growth, especially non-AI companies. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
