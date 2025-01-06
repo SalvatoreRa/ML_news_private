@@ -114,9 +114,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[1.58-bit FLUX.](https://arxiv.org/abs/2412.18653) |This work introduces the first successful quantization of the state-of-the-art text-to-image generation model, FLUX.1-dev, using 1.58-bit weights (values in {-1, 0, +1}). The approach leverages self-supervision from the FLUX.1-dev model and preserves comparable performance in generating 1024 x 1024 images to the original model. |
 |[TANGOFLUX: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization.](https://tangoflux.github.io/) | This work from Stability AI leverages Diffusion Transformers and a novel post-training strategy to enhance a state-of-the-art audio generation model.|
 |[LTX-Video: Realtime Video Latent Diffusion.](https://arxiv.org/abs/2501.00103) |An open video model capable of generating high-quality video with exceptional speed and performance. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[open-pi-zero.](https://github.com/allenzren/open-pi-zero) | Pi Zero is an image-to-action model used for robotics. This repository is an open replication that uses paligemma as a vision backbone.|
+|[PyTorch per step fault tolerance.](https://github.com/pytorch-labs/torchft) |PyTorch fault tolerance code designed to handle training interruptions gracefully. While such systems are common in large organizations, having an open-source version is a compelling addition to the community. |
+|[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028v2) | KaLM-Embedding is a multilingual embedding model trained on cleaner, diverse, domain-specific data. It incorporates innovative techniques like persona-based synthetic examples and ranking consistency filtering to enhance performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
