@@ -145,8 +145,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Machine-Assisted Proof.](https://www.ams.org//notices/202501/rnoti-p6.pdf) | This work explores how mathematicians have historically used machines to aid research and highlights recent AI tools revolutionizing mathematical proof assistance.|
-|[.]() | |
-|[.]() | |
+|[How AI is unlocking ancient texts — and could rewrite history.](https://www.nature.com/articles/d41586-024-04161-z) |From deciphering burnt Roman scrolls to reading crumbling cuneiform tablets, neural networks could give researchers more data than they’ve had in centuries. |
+|[The small-drone revolution is coming — scientists need to ensure it will be safe.](https://www.nature.com/articles/d41586-024-04167-7) | China’s low-altitude aviation economy is poised to become a trillion-yuan industry in 2025 — if safety and security challenges can be overcome.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
