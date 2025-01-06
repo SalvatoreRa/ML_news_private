@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Putnam-AXIOM: A Functional and Static Benchmark for Measuring Higher Level Mathematical Reasoning.](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf) |Putnam-AXIOM, a new math reasoning benchmark, includes 236 Putnam Competition problems and 52 variations. The best-performing model, OpenAI's o1-preview, achieves only 41.95% accuracy on the original problems and fares significantly worse on the variations. |
 |[1.58-bit FLUX.](https://arxiv.org/abs/2412.18653) |This work introduces the first successful quantization of the state-of-the-art text-to-image generation model, FLUX.1-dev, using 1.58-bit weights (values in {-1, 0, +1}). The approach leverages self-supervision from the FLUX.1-dev model and preserves comparable performance in generating 1024 x 1024 images to the original model. |
-|[.]() | |
-|[.]() | |
+|[TANGOFLUX: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization.](https://tangoflux.github.io/) | This work from Stability AI leverages Diffusion Transformers and a novel post-training strategy to enhance a state-of-the-art audio generation model.|
+|[LTX-Video: Realtime Video Latent Diffusion.](https://arxiv.org/abs/2501.00103) |An open video model capable of generating high-quality video with exceptional speed and performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
