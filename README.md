@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Putnam-AXIOM: A Functional and Static Benchmark for Measuring Higher Level Mathematical Reasoning.](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf) |Putnam-AXIOM, a new math reasoning benchmark, includes 236 Putnam Competition problems and 52 variations. The best-performing model, OpenAI's o1-preview, achieves only 41.95% accuracy on the original problems and fares significantly worse on the variations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Machine-Assisted Proof.](https://www.ams.org//notices/202501/rnoti-p6.pdf) | This work explores how mathematicians have historically used machines to aid research and highlights recent AI tools revolutionizing mathematical proof assistance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
