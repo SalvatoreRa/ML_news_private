@@ -81,9 +81,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Elon Musk’s X became the global right’s supercharged front page.](https://www.theguardian.com/technology/2025/jan/04/elon-musk-x-trump-far-right) |Musk has now used X as a platform to make aggressive interventions in US politics – and in those of other countries |
 |[Meta is killing off its own AI-powered Instagram and Facebook profiles.](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles) | Instagram profile of ‘proud Black queer momma’, created by Meta, said her development team included no Black people|
 |[Football coaches could soon be calling on AI to scout the next superstar.](https://www.theguardian.com/technology/2025/jan/04/football-coaches-could-soon-be-calling-on-ai-to-scout-the-next-superstar) |Technologists claim managers could wish for specific player attributes and AI would suggest perfect youth prospect |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[xAI’s next-gen AI model didn’t arrive on time, adding to a trend.](https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/) |xAI has delayed the launch of its next-gen Grok model, citing quality concerns, marking yet another delay in the AI industry. |
+|[2025 will be the year climate tech learns to love AI.](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/) |AI's increasing energy needs are driving interest in nuclear and fusion power, with companies innovating reactor designs and fusion startups targeting grid connection by the early 2030s. Potential changes to the Inflation Reduction Act could challenge hydrogen startups reliant on subsidies to meet cost goals. More tech alliances with power providers are expected as regulatory approvals shape grid-related investments in 2025. |
+|[CES 2025: What to expect from the year’s first and biggest tech show.](https://techcrunch.com/2025/01/02/ces-2025-what-to-expect-from-the-years-first-and-biggest-tech-show/) |CES 2025 in Las Vegas, running from January 7-10, will feature major tech events with companies like AMD, Samsung, |
 |[.]() | |
 |[.]() | |
 |[.]() | |
