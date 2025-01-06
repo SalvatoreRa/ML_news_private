@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Memo to Trump: US telecoms is vulnerable to hackers. Please hang up and try again.](https://www.theguardian.com/commentisfree/2025/jan/04/memo-to-trump-us-telecoms-is-vulnerable-to-hackers-please-hang-up-and-try-again) | State-backed cyberspies are exploiting ageing infrastructure to penetrate every corner of the US government, it seems – even its phone-tapping systems|
 |[How Elon Musk’s X became the global right’s supercharged front page.](https://www.theguardian.com/technology/2025/jan/04/elon-musk-x-trump-far-right) |Musk has now used X as a platform to make aggressive interventions in US politics – and in those of other countries |
 |[Meta is killing off its own AI-powered Instagram and Facebook profiles.](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles) | Instagram profile of ‘proud Black queer momma’, created by Meta, said her development team included no Black people|
-|[.]() | |
+|[Football coaches could soon be calling on AI to scout the next superstar.](https://www.theguardian.com/technology/2025/jan/04/football-coaches-could-soon-be-calling-on-ai-to-scout-the-next-superstar) |Technologists claim managers could wish for specific player attributes and AI would suggest perfect youth prospect |
 |[.]() | |
 |[.]() | |
 |[.]() | |
