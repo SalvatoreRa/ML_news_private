@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[British AI startup with government ties is developing tech for military drones.](https://www.theguardian.com/technology/2025/jan/07/uk-government-ai-military-drones-faculty-ai-artificial-intelligence) |Concerns raised over role of Faculty AI, which has worked with NHS and government safety body |
 |[‘You’re gonna find this creepy’: my AI-cloned voice was used by the far right. Could I stop it?](https://www.theguardian.com/commentisfree/2025/jan/07/ai-clone-voice-far-right-fake-audio) | It was chilling to hear ‘my voice’ repeating lies – and to discover that deepfake audio is a growing threat to democracy|
 |[More breast cancer cases found when AI used in screenings, study finds.](https://www.theguardian.com/society/2025/jan/07/more-breast-cancer-cases-found-when-ai-used-in-screenings-study-finds) | First real-world test finds approach has higher detection rate without having a higher rate of false positives|
-|[.]() | |
+|[The Largest AI Startup Funding Deals Of 2024.](https://news.crunchbase.com/ai/largest-ai-startup-funding-deals-2024/) |AI led 2024's startup funding, with major raises including Databricks at $10B, OpenAI at $6.6B, and xAI securing $12B across two rounds. Waymo raised $5.6B, Anthropic $4B, and Anduril Industries $1.5B. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[open-pi-zero.](https://github.com/allenzren/open-pi-zero) | Pi Zero is an image-to-action model used for robotics. This repository is an open replication that uses paligemma as a vision backbone.|
 |[PyTorch per step fault tolerance.](https://github.com/pytorch-labs/torchft) |PyTorch fault tolerance code designed to handle training interruptions gracefully. While such systems are common in large organizations, having an open-source version is a compelling addition to the community. |
 |[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028v2) | KaLM-Embedding is a multilingual embedding model trained on cleaner, diverse, domain-specific data. It incorporates innovative techniques like persona-based synthetic examples and ranking consistency filtering to enhance performance.|
-|[.]() | |
+|[FACTS Grounding: A new benchmark for evaluating the factuality of large language models.](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/) | The FACTS Grounding benchmark assesses LLMs' ability to produce factually accurate responses based on provided source material, aiming to minimize hallucinations. A Kaggle leaderboard tracks industry progress, featuring initial results from top LLMs. The evaluation uses diverse, long-form examples reviewed by multiple LLMs to ensure comprehensive and unbiased assessments.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The small-drone revolution is coming — scientists need to ensure it will be safe.](https://www.nature.com/articles/d41586-024-04167-7) | China’s low-altitude aviation economy is poised to become a trillion-yuan industry in 2025 — if safety and security challenges can be overcome.|
 |[‘I received a first but it felt tainted and undeserved’: inside the university AI cheating crisis.](https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis) |More than half of students are now using generative AI, casting a shadow over campuses as tutors and students turn on each other and hardworking learners are caught in the flak. Will Coldwell reports on a broken system |
 |[AI boom masks fundraising struggles for non-AI startups.](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/) |Many startups are struggling to raise funding at higher valuations despite modest growth, especially non-AI companies. |
-|[.]() | |
+|[Gen AI Present and Future: A Conversation with Rashmi Kumar, SVP and CIO at Medtronic .](https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-rashmi-kumar-svp-and-cio-at-medtronic/) | Medtronic is utilizing AI to boost productivity, automate tasks, and enhance decision-making with tools like AI-driven contract management and supply chain optimization. The company focuses on healthcare applications, including precision diagnostics, robotic-assisted surgeries, and image analysis for early condition detection. Medtronic combines internal AI R&D with partnerships, collaborating with tech companies and AI startups to drive innovation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
