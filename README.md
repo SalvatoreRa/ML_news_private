@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hamming AI Raises $3.8M Seed Round.](https://hamming.ai/blog/hamming-ai-seed-funding-to-make-voice-agents-more-reliable) | Hamming secured $3.8M in seed funding to improve AI voice agent reliability through automated testing and monitoring tools. Its offerings include LLM prompt management, vulnerability detection, and call analytics, catering to compliance-heavy industries. Co-founder Lauren Farleigh emphasizes their commitment to safe AI development amid the expansion of conversational AI.|
 |[Generative AI Funding Surges with $56 Billion in 2024!.](https://opentools.ai/news/generative-ai-funding-surges-with-dollar56-billion-in-2024) |Generative AI investments hit a record $56 billion in 2024, driven by strong enterprise demand and advancements in foundation models. |
 |[AI startup Odyssey’s new tool can generate photorealistic 3D worlds.](https://techcrunch.com/2024/12/18/ai-startup-odyssees-new-tool-can-generate-photorealistic-3d-worlds/) | Odyssey's Explorer is an AI tool that generates photorealistic 3D scenes from text or images, featuring a distinctive camera system for enhanced realism.|
-|[.]() | |
-|[.]() | |
+|[British AI startup with government ties is developing tech for military drones.](https://www.theguardian.com/technology/2025/jan/07/uk-government-ai-military-drones-faculty-ai-artificial-intelligence) |Concerns raised over role of Faculty AI, which has worked with NHS and government safety body |
+|[‘You’re gonna find this creepy’: my AI-cloned voice was used by the far right. Could I stop it?](https://www.theguardian.com/commentisfree/2025/jan/07/ai-clone-voice-far-right-fake-audio) | It was chilling to hear ‘my voice’ repeating lies – and to discover that deepfake audio is a growing threat to democracy|
 |[.]() | |
 |[.]() | |
 |[.]() | |
