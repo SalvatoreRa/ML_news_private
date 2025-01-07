@@ -54,8 +54,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs.](https://arxiv.org/abs/2412.18925) |This work introduces a novel approach to enhance medical reasoning in language models through a medical verifier that validates outputs and guides the development of complex reasoning skills. The system combines fine-tuning and reinforcement learning with verifier-based rewards in a two-stage process, achieving superior performance over existing models using just 40,000 verifiable medical problems. |
 |[LA tech entrepreneur nearly misses flight after getting trapped in robotaxi.](https://www.theguardian.com/us-news/2025/jan/06/man-trapped-waymo-los-angeles) | Mike Johns’ self-driving car started circling a parking lot, but he recognizes there are ‘glitches that need stitches’|
 |[‘Virtual employees’ could join workforce as soon as this year, OpenAI boss says.](https://www.theguardian.com/business/2025/jan/06/virtual-employees-could-join-workforce-as-soon-as-this-year-openai-boss-says) |Sam Altman says tools that carry out jobs autonomously, known as AI agents, could transform business output |
-|[.]() | |
-|[.]() | |
+|[Meta’s AI video editing features are coming to Instagram next year.](https://www.engadget.com/social-media/metas-ai-video-editing-features-are-coming-to-instagram-next-year-191501418.html) | Meta plans to introduce Movie Gen, an AI video editing tool, on Instagram in 2025.|
+|[Apple in talks with Tencent, ByteDance to roll out AI features in China, sources say.](https://www.reuters.com/technology/artificial-intelligence/apple-talks-with-tencent-bytedance-roll-out-ai-features-china-sources-say-2024-12-19/) | Apple is in early talks with Tencent and ByteDance to integrate their AI models into iPhones sold in China.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tencent's Music Foundation Model.](https://github.com/tencent-ailab/muq) |Tencent AI Lab's Muq is a large music foundation model pre-trained using Self-Supervised Learning (SSL), achieving state-of-the-art performance across multiple Music Information Retrieval (MIR) tasks. |
 |[JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing.](https://github.com/JOY-MM/JoyGen) | JoyGen is an innovative two-stage framework for talking-face generation, integrating audio-driven lip motion generation with visual appearance synthesis for realistic results.|
 |[Multi-vision Sensor Perception and Reasoning Benchmark.](https://github.com/top-yun/ms-pr) |The MS-PR benchmark assesses Vision-Language Models on sensor-specific reasoning, leveraging DNA optimization to bridge information gaps between images and sensors for improved performance.|
-|[.]() | |
+|[The year of AI: 12 events that shaped the sector in 2024.](https://sifted.eu/articles/2024-year-of-ai) | European AI startups are set for substantial growth, with investments projected to reach $11 billion in 2024, up from $6 billion in 2023.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
