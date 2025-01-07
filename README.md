@@ -118,12 +118,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PyTorch per step fault tolerance.](https://github.com/pytorch-labs/torchft) |PyTorch fault tolerance code designed to handle training interruptions gracefully. While such systems are common in large organizations, having an open-source version is a compelling addition to the community. |
 |[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028v2) | KaLM-Embedding is a multilingual embedding model trained on cleaner, diverse, domain-specific data. It incorporates innovative techniques like persona-based synthetic examples and ranking consistency filtering to enhance performance.|
 |[FACTS Grounding: A new benchmark for evaluating the factuality of large language models.](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/) | The FACTS Grounding benchmark assesses LLMs' ability to produce factually accurate responses based on provided source material, aiming to minimize hallucinations. A Kaggle leaderboard tracks industry progress, featuring initial results from top LLMs. The evaluation uses diverse, long-form examples reviewed by multiple LLMs to ensure comprehensive and unbiased assessments.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Kalman Filter for 3D Vehicle Tracking.](https://arxiv.org/abs/2501.01275v1) | HybridTrack proposes a novel multi-object tracking method that integrates a data-driven Kalman Filter.|
+|[TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation.](https://arxiv.org/abs/2412.20911v1) |TiGDistill-BEV introduces a novel approach to improve camera-based 3D object detectors by distilling knowledge from LiDAR using depth supervision and BEV feature distillation. |
+|[SVFR: A Unified Framework for Generalized Video Face Restoration.](https://wangzhiyaoo.github.io/SVFR/) | SVDR is a unified framework for face video restoration, handling tasks like blind face restoration (BFR), colorization, inpainting, and their combinations within a single cohesive system.|
+|[Tencent's Music Foundation Model.](https://github.com/tencent-ailab/muq) |Tencent AI Lab's Muq is a large music foundation model pre-trained using Self-Supervised Learning (SSL), achieving state-of-the-art performance across multiple Music Information Retrieval (MIR) tasks. |
+|[JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing.](https://github.com/JOY-MM/JoyGen) | JoyGen is an innovative two-stage framework for talking-face generation, integrating audio-driven lip motion generation with visual appearance synthesis for realistic results.|
+|[Multi-vision Sensor Perception and Reasoning Benchmark.](https://github.com/top-yun/ms-pr) |The MS-PR benchmark assesses Vision-Language Models on sensor-specific reasoning, leveraging DNA optimization to bridge information gaps between images and sensors for improved performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
