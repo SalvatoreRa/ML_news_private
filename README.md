@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI startup Odyssey’s new tool can generate photorealistic 3D worlds.](https://techcrunch.com/2024/12/18/ai-startup-odyssees-new-tool-can-generate-photorealistic-3d-worlds/) | Odyssey's Explorer is an AI tool that generates photorealistic 3D scenes from text or images, featuring a distinctive camera system for enhanced realism.|
 |[British AI startup with government ties is developing tech for military drones.](https://www.theguardian.com/technology/2025/jan/07/uk-government-ai-military-drones-faculty-ai-artificial-intelligence) |Concerns raised over role of Faculty AI, which has worked with NHS and government safety body |
 |[‘You’re gonna find this creepy’: my AI-cloned voice was used by the far right. Could I stop it?](https://www.theguardian.com/commentisfree/2025/jan/07/ai-clone-voice-far-right-fake-audio) | It was chilling to hear ‘my voice’ repeating lies – and to discover that deepfake audio is a growing threat to democracy|
-|[.]() | |
+|[More breast cancer cases found when AI used in screenings, study finds.](https://www.theguardian.com/society/2025/jan/07/more-breast-cancer-cases-found-when-ai-used-in-screenings-study-finds) | First real-world test finds approach has higher detection rate without having a higher rate of false positives|
 |[.]() | |
 |[.]() | |
 |[.]() | |
