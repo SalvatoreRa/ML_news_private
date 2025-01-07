@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Aviary: training language agents on challenging scientific tasks.](https://arxiv.org/abs/2412.21154) |An extensible open-source gymnasium designed to develop language agents that outperform zero-shot frontier LLMs and even humans on various challenging scientific tasks. |
 |[Memory Layers at Scale.](https://arxiv.org/abs/2412.09764) |This work demonstrates the scalability and effectiveness of memory layers, showing that models equipped with these layers outperform traditional dense models using half the computation, especially on factual tasks. It includes a parallelizable memory layer implementation that scales to 128B memory parameters and 1 trillion training tokens, validated against base models up to 8B parameters. |
 |[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs.](https://arxiv.org/abs/2412.18925) |This work introduces a novel approach to enhance medical reasoning in language models through a medical verifier that validates outputs and guides the development of complex reasoning skills. The system combines fine-tuning and reinforcement learning with verifier-based rewards in a two-stage process, achieving superior performance over existing models using just 40,000 verifiable medical problems. |
-|[.]() | |
-|[.]() | |
+|[LA tech entrepreneur nearly misses flight after getting trapped in robotaxi.](https://www.theguardian.com/us-news/2025/jan/06/man-trapped-waymo-los-angeles) | Mike Johns’ self-driving car started circling a parking lot, but he recognizes there are ‘glitches that need stitches’|
+|[‘Virtual employees’ could join workforce as soon as this year, OpenAI boss says.](https://www.theguardian.com/business/2025/jan/06/virtual-employees-could-join-workforce-as-soon-as-this-year-openai-boss-says) |Sam Altman says tools that carry out jobs autonomously, known as AI agents, could transform business output |
 |[.]() | |
 |[.]() | |
 |[.]() | |
