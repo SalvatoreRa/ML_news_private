@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ditching of Facebook factcheckers a ‘major step back’ for public discourse, critics say.](https://www.theguardian.com/technology/2025/jan/07/ditching-facebook-factcheckers-major-step-back-public-discourse) |Mark Zuckerberg’s decision regarding Meta platforms condemned as ‘a full bending of the knee’ to Donald Trump |
 |[A new era of lies: Mark Zuckerberg has just ushered in an extinction-level event for truth on social media.](https://www.theguardian.com/commentisfree/2025/jan/07/new-era-of-lies-mark-zuckerberg-meta-social-media) |The Meta boss’s decision to end Facebook and Instagram’s factchecking program has set the stage for a fact-free four years online |
 |[Apple says it will update AI feature after inaccurate news alerts.](https://www.theguardian.com/technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone) | One alert claimed BBC story said Luigi Mangione, alleged murderer of US healthcare CEO, had killed himself|
-|[.]() | |
+|[Instagram to replace AR filters with AI-generated videos.](https://9to5mac.com/2024/12/20/instagram-video-ai-filters/) |Meta will discontinue Instagram's Spark AR filters by January 2025, shifting focus to AI-based filters called Movie Gen. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[A Concept-Based Explainability Framework for Large Multimodal Models.](https://jayneelparekh.github.io/LMM_Concept_Explainability/) |This project improves the interpretability of large multimodal models by visualizing concepts and connecting them to input-output behavior. |
 |[Picotron tutorial.](https://github.com/huggingface/picotron_tutorial) | A step by step tutorial on how to build Picotron distributed training framework form scratch|
 |[Dispider.](https://github.com/mark12ding/dispider) | Dispider allows real-time interaction with streaming videos, unlike traditional offline video LLMs that require processing the entire video before responding.|
-|[.]() | |
+|[Experimental Gemini Thinking Model.](https://github.com/googleapis/python-genai/blob/3e42644784304d45d0b0bfdc8279958109650576/google/genai/tests/models/test_generate_content_thought.py) | Google has quietly pushed a new thinking model, likely similar to o1 style reasoning, to its AI studio.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,7 +157,7 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[What will viruses do next? AI is helping scientists predict their evolution.](https://www.nature.com/articles/d41586-024-04195-3) | Forecasts of viral variation could improve vaccine and antiviral treatments ahead of time.|
 |[AI will be dead in five years.](https://erikgahner.dk/2024/ai-will-be-dead-in-five-years/) |In five years, AI's success could make it less of a buzzword as it seamlessly integrates into everyday technology and business solutions. The term itself may evolve, with today's AI being redefined, much like how big data has become commonplace. Machine learning will likely take center stage as AI transitions into a standard feature. |
 |[Beyond The Hype: AI, Innovation And Rational Investment In 2025.](https://news.crunchbase.com/ai/prediction-innovation-rational-investment-2025-biederman-asymmetric/) |Valuable AI companies are expected to experience significant growth in 2024, while many overhyped ventures may struggle. Vertical integration and buy-and-build strategies are likely to gain traction, targeting markets in need of streamlined technology solutions. Additionally, a shift toward emerging, capacity-constrained managers will stand in contrast to the decline of overfunded growth companies from the 2020-2021 era. |
-|[.]() | |
+|[A new, uncensored AI video model may spark a new AI hobbyist movement.](https://arstechnica.com/ai/2024/12/a-new-uncensored-ai-video-model-may-spark-a-new-ai-hobbyist-movement/) | Tencent's open-weight AI model, HunyuanVideo, facilitates local, uncensored video synthesis, presenting a transformative tool comparable to Stable Diffusion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
