@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘You’re gonna find this creepy’: my AI-cloned voice was used by the far right. Could I stop it?](https://www.theguardian.com/commentisfree/2025/jan/07/ai-clone-voice-far-right-fake-audio) | It was chilling to hear ‘my voice’ repeating lies – and to discover that deepfake audio is a growing threat to democracy|
 |[More breast cancer cases found when AI used in screenings, study finds.](https://www.theguardian.com/society/2025/jan/07/more-breast-cancer-cases-found-when-ai-used-in-screenings-study-finds) | First real-world test finds approach has higher detection rate without having a higher rate of false positives|
 |[The Largest AI Startup Funding Deals Of 2024.](https://news.crunchbase.com/ai/largest-ai-startup-funding-deals-2024/) |AI led 2024's startup funding, with major raises including Databricks at $10B, OpenAI at $6.6B, and xAI securing $12B across two rounds. Waymo raised $5.6B, Anthropic $4B, and Anduril Industries $1.5B. |
-|[.]() | |
+|[Ditching of Facebook factcheckers a ‘major step back’ for public discourse, critics say.](https://www.theguardian.com/technology/2025/jan/07/ditching-facebook-factcheckers-major-step-back-public-discourse) |Mark Zuckerberg’s decision regarding Meta platforms condemned as ‘a full bending of the knee’ to Donald Trump |
 |[.]() | |
 |[.]() | |
 |[.]() | |
