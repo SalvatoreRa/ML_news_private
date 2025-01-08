@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[More breast cancer cases found when AI used in screenings, study finds.](https://www.theguardian.com/society/2025/jan/07/more-breast-cancer-cases-found-when-ai-used-in-screenings-study-finds) | First real-world test finds approach has higher detection rate without having a higher rate of false positives|
 |[The Largest AI Startup Funding Deals Of 2024.](https://news.crunchbase.com/ai/largest-ai-startup-funding-deals-2024/) |AI led 2024's startup funding, with major raises including Databricks at $10B, OpenAI at $6.6B, and xAI securing $12B across two rounds. Waymo raised $5.6B, Anthropic $4B, and Anduril Industries $1.5B. |
 |[Ditching of Facebook factcheckers a ‘major step back’ for public discourse, critics say.](https://www.theguardian.com/technology/2025/jan/07/ditching-facebook-factcheckers-major-step-back-public-discourse) |Mark Zuckerberg’s decision regarding Meta platforms condemned as ‘a full bending of the knee’ to Donald Trump |
-|[.]() | |
-|[.]() | |
+|[A new era of lies: Mark Zuckerberg has just ushered in an extinction-level event for truth on social media.](https://www.theguardian.com/commentisfree/2025/jan/07/new-era-of-lies-mark-zuckerberg-meta-social-media) |The Meta boss’s decision to end Facebook and Instagram’s factchecking program has set the stage for a fact-free four years online |
+|[Apple says it will update AI feature after inaccurate news alerts.](https://www.theguardian.com/technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone) | One alert claimed BBC story said Luigi Mangione, alleged murderer of US healthcare CEO, had killed himself|
 |[.]() | |
 |[.]() | |
 |[.]() | |
