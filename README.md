@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Virtual employees’ could join workforce as soon as this year, OpenAI boss says.](https://www.theguardian.com/business/2025/jan/06/virtual-employees-could-join-workforce-as-soon-as-this-year-openai-boss-says) |Sam Altman says tools that carry out jobs autonomously, known as AI agents, could transform business output |
 |[Meta’s AI video editing features are coming to Instagram next year.](https://www.engadget.com/social-media/metas-ai-video-editing-features-are-coming-to-instagram-next-year-191501418.html) | Meta plans to introduce Movie Gen, an AI video editing tool, on Instagram in 2025.|
 |[Apple in talks with Tencent, ByteDance to roll out AI features in China, sources say.](https://www.reuters.com/technology/artificial-intelligence/apple-talks-with-tencent-bytedance-roll-out-ai-features-china-sources-say-2024-12-19/) | Apple is in early talks with Tencent and ByteDance to integrate their AI models into iPhones sold in China.|
-|[.]() | |
+|[Cosmos World Foundation Model Platform for Physical AI.](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) | Nvidia has launched a new set of World Models built on its Cosmos tokenization framework. These models demonstrate exceptional physics comprehension and are available on the Hugging Face platform. While they appear to be primarily geared toward robotics and industrial use cases, they are also capable of generating videos in other fields.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -125,7 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing.](https://github.com/JOY-MM/JoyGen) | JoyGen is an innovative two-stage framework for talking-face generation, integrating audio-driven lip motion generation with visual appearance synthesis for realistic results.|
 |[Multi-vision Sensor Perception and Reasoning Benchmark.](https://github.com/top-yun/ms-pr) |The MS-PR benchmark assesses Vision-Language Models on sensor-specific reasoning, leveraging DNA optimization to bridge information gaps between images and sensors for improved performance.|
 |[The year of AI: 12 events that shaped the sector in 2024.](https://sifted.eu/articles/2024-year-of-ai) | European AI startups are set for substantial growth, with investments projected to reach $11 billion in 2024, up from $6 billion in 2023.|
-|[.]() | |
+|[Microsoft plans to invest $3B in AI, cloud in India.](https://techcrunch.com/2025/01/07/microsoft-to-pump-3-billion-into-cloud-and-ai-push-in-india/) | Microsoft plans to invest $3 billion to expand its artificial intelligence and cloud services in India.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
