@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft plans to invest $3B in AI, cloud in India.](https://techcrunch.com/2025/01/07/microsoft-to-pump-3-billion-into-cloud-and-ai-push-in-india/) | Microsoft plans to invest $3 billion to expand its artificial intelligence and cloud services in India.|
 |[DMesh++.](https://sonsang.github.io/dmesh2-project/) |The latest version of the fully differentiable geometric mesh representation is now available, featuring several enhancements that improve its suitability for learning and shape representation. |
 |[Agents.](https://huyenchip.com//2025/01/07/agents.html) |This post delves into Agents, discussing their applications, limitations, and areas where they are likely to succeed. It also examines planning and execution pipelines in detail. |
-|[.]() | |
+|[A Concept-Based Explainability Framework for Large Multimodal Models.](https://jayneelparekh.github.io/LMM_Concept_Explainability/) |This project improves the interpretability of large multimodal models by visualizing concepts and connecting them to input-output behavior. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
