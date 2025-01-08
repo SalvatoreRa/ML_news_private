@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The year of AI: 12 events that shaped the sector in 2024.](https://sifted.eu/articles/2024-year-of-ai) | European AI startups are set for substantial growth, with investments projected to reach $11 billion in 2024, up from $6 billion in 2023.|
 |[Microsoft plans to invest $3B in AI, cloud in India.](https://techcrunch.com/2025/01/07/microsoft-to-pump-3-billion-into-cloud-and-ai-push-in-india/) | Microsoft plans to invest $3 billion to expand its artificial intelligence and cloud services in India.|
 |[DMesh++.](https://sonsang.github.io/dmesh2-project/) |The latest version of the fully differentiable geometric mesh representation is now available, featuring several enhancements that improve its suitability for learning and shape representation. |
-|[.]() | |
+|[Agents.](https://huyenchip.com//2025/01/07/agents.html) |This post delves into Agents, discussing their applications, limitations, and areas where they are likely to succeed. It also examines planning and execution pipelines in detail. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
