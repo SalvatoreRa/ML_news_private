@@ -134,6 +134,13 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[Dispider.](https://github.com/mark12ding/dispider) | Dispider allows real-time interaction with streaming videos, unlike traditional offline video LLMs that require processing the entire video before responding.|
 |[Experimental Gemini Thinking Model.](https://github.com/googleapis/python-genai/blob/3e42644784304d45d0b0bfdc8279958109650576/google/genai/tests/models/test_generate_content_thought.py) | Google has quietly pushed a new thinking model, likely similar to o1 style reasoning, to its AI studio.|
 |[Foundation models for fast, label-free detection of glioma infiltration.](https://www.nature.com/articles/s41586-024-08169-3) |FastGlioma is a visual foundation model for fast and accurate detection of glioma infiltration in fresh, unprocessed surgical tissue. |
+|[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory.](https://xiaowu0162.github.io/long-mem-eval/) |LongMemEval is a robust, scalable benchmark designed to rigorously evaluate the long-term memory capabilities of chat assistants. |
+|[HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation.](https://arxiv.org/abs/2410.14324v1) |HiCo is a diffusion model tailored for layout-to-image generation, tackling issues such as missing objects and uneven lighting. |
+|[Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control.](https://igl-hkust.github.io/das/) | Diffusion as Shader (DaS) is an innovative framework that enables various video control tasks within a single unified architecture. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
