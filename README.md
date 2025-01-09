@@ -98,9 +98,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Instagram to replace AR filters with AI-generated videos.](https://9to5mac.com/2024/12/20/instagram-video-ai-filters/) |Meta will discontinue Instagram's Spark AR filters by January 2025, shifting focus to AI-based filters called Movie Gen. |
 |[Meta’s changes to policing will lead to clash with EU and UK, say experts.](https://www.theguardian.com/technology/2025/jan/08/metas-changes-to-social-media-policing-will-lead-to-clash-with-eu-and-uk-say-experts) |Politicians criticise Mark Zuckerberg’s choice to scrap factcheckers, affecting Facebook, Instagram and Threads |
 |[The AI tool that can interpret any spreadsheet instantly.](https://www.nature.com/articles/d41586-024-03852-x) | Artificial intelligence is already used extensively to infer outcomes from tables of data, but this typically involves creating a model for each task. A one-size-fits-all model just made the process substantially easier.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Nvidia's Personal AI Supercomputer.](https://www.nvidia.com/en-us/project-digits/) |Nvidia's DIGITS, powered by the GB10 Superchip, is a personal AI supercomputer delivering a petaflop of AI performance. It supports local prototyping and deployment for models with up to 200 billion parameters. |
+|[Grok may soon get an ‘Unhinged Mode’.](https://techcrunch.com/2025/01/08/grok-may-soon-get-an-unhinged-mode/) |Elon Musk's xAI updated its FAQ, announcing that Grok's "Unhinged Mode" will provide deliberately offensive and controversial responses. Although not yet active, the mode reflects Musk's vision for an unfiltered, edgy AI chatbot. Critics argue that Grok leans left politically, which Musk attributes to its training data, promising future updates to ensure neutrality. |
+|[This Week in AI: More capable AI is coming, but will its benefits be evenly distributed?](https://techcrunch.com/2025/01/08/this-week-in-ai-more-capable-ai-is-coming-but-will-its-benefits-be-evenly-distributed/) |OpenAI CEO Sam Altman asserts that the company is making strides toward AGI and superintelligence, which could drive rapid innovation. However, concerns persist about AI's impact on jobs, as studies show it initially enhances but ultimately replaces some freelance roles. Simultaneously, AI funding is soaring, Microsoft is heavily investing in data centers, and Prime Intellect has unveiled a new pathogen detection model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
