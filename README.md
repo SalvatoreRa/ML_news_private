@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple says it will update AI feature after inaccurate news alerts.](https://www.theguardian.com/technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone) | One alert claimed BBC story said Luigi Mangione, alleged murderer of US healthcare CEO, had killed himself|
 |[Instagram to replace AR filters with AI-generated videos.](https://9to5mac.com/2024/12/20/instagram-video-ai-filters/) |Meta will discontinue Instagram's Spark AR filters by January 2025, shifting focus to AI-based filters called Movie Gen. |
 |[Meta’s changes to policing will lead to clash with EU and UK, say experts.](https://www.theguardian.com/technology/2025/jan/08/metas-changes-to-social-media-policing-will-lead-to-clash-with-eu-and-uk-say-experts) |Politicians criticise Mark Zuckerberg’s choice to scrap factcheckers, affecting Facebook, Instagram and Threads |
-|[.]() | |
+|[The AI tool that can interpret any spreadsheet instantly.](https://www.nature.com/articles/d41586-024-03852-x) | Artificial intelligence is already used extensively to infer outcomes from tables of data, but this typically involves creating a model for each task. A one-size-fits-all model just made the process substantially easier.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -158,7 +158,7 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[AI will be dead in five years.](https://erikgahner.dk/2024/ai-will-be-dead-in-five-years/) |In five years, AI's success could make it less of a buzzword as it seamlessly integrates into everyday technology and business solutions. The term itself may evolve, with today's AI being redefined, much like how big data has become commonplace. Machine learning will likely take center stage as AI transitions into a standard feature. |
 |[Beyond The Hype: AI, Innovation And Rational Investment In 2025.](https://news.crunchbase.com/ai/prediction-innovation-rational-investment-2025-biederman-asymmetric/) |Valuable AI companies are expected to experience significant growth in 2024, while many overhyped ventures may struggle. Vertical integration and buy-and-build strategies are likely to gain traction, targeting markets in need of streamlined technology solutions. Additionally, a shift toward emerging, capacity-constrained managers will stand in contrast to the decline of overfunded growth companies from the 2020-2021 era. |
 |[A new, uncensored AI video model may spark a new AI hobbyist movement.](https://arstechnica.com/ai/2024/12/a-new-uncensored-ai-video-model-may-spark-a-new-ai-hobbyist-movement/) | Tencent's open-weight AI model, HunyuanVideo, facilitates local, uncensored video synthesis, presenting a transformative tool comparable to Stable Diffusion.|
-|[.]() | |
+|[To ensure trust, AI weather-forecast models still need training in physics.](https://www.nature.com/articles/d41586-025-00020-7) | AI models are more an more precise but doubts still exist|
 |[.]() | |
 |[.]() | |
 |[.]() | |
