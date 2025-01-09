@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A new era of lies: Mark Zuckerberg has just ushered in an extinction-level event for truth on social media.](https://www.theguardian.com/commentisfree/2025/jan/07/new-era-of-lies-mark-zuckerberg-meta-social-media) |The Meta boss’s decision to end Facebook and Instagram’s factchecking program has set the stage for a fact-free four years online |
 |[Apple says it will update AI feature after inaccurate news alerts.](https://www.theguardian.com/technology/2025/jan/07/apple-update-ai-inaccurate-news-alerts-bbc-apple-intelligence-iphone) | One alert claimed BBC story said Luigi Mangione, alleged murderer of US healthcare CEO, had killed himself|
 |[Instagram to replace AR filters with AI-generated videos.](https://9to5mac.com/2024/12/20/instagram-video-ai-filters/) |Meta will discontinue Instagram's Spark AR filters by January 2025, shifting focus to AI-based filters called Movie Gen. |
-|[.]() | |
+|[Meta’s changes to policing will lead to clash with EU and UK, say experts.](https://www.theguardian.com/technology/2025/jan/08/metas-changes-to-social-media-policing-will-lead-to-clash-with-eu-and-uk-say-experts) |Politicians criticise Mark Zuckerberg’s choice to scrap factcheckers, affecting Facebook, Instagram and Threads |
 |[.]() | |
 |[.]() | |
 |[.]() | |
