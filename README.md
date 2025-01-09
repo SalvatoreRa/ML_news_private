@@ -137,10 +137,10 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory.](https://xiaowu0162.github.io/long-mem-eval/) |LongMemEval is a robust, scalable benchmark designed to rigorously evaluate the long-term memory capabilities of chat assistants. |
 |[HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation.](https://arxiv.org/abs/2410.14324v1) |HiCo is a diffusion model tailored for layout-to-image generation, tackling issues such as missing objects and uneven lighting. |
 |[Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control.](https://igl-hkust.github.io/das/) | Diffusion as Shader (DaS) is an innovative framework that enables various video control tasks within a single unified architecture. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Training 1m Context Models with Native PyTorch.](https://discuss.pytorch.org/t/distributed-w-torchtitan-breaking-barriers-training-long-context-llms-with-1m-sequence-length-in-pytorch-using-context-parallel/215082) | The TorchTitan project has implemented pass-KV Ring Attention and integrated it with its FSDP-2 training system. Using this setup on 32 H100 GPUs, researchers successfully trained Llama 3 8B to handle 1 million tokens of context. The system is also compatible with Torch Compile, delivering a 10% boost in tokens per second.|
+|[Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers.](https://julianjuaner.github.io/projects/MagicMirror/) | Magic Mirror is a framework for generating identity-preserved videos with cinematic-level quality and dynamic motion.|
+|[Mixture of Experts for LiDAR.](https://github.com/xiangxu-0103/limoe) |LiMoE is a framework that applies the Mixture of Experts (MoE) approach to LiDAR data representation learning, enabling the seamless combination of various representations, including range images, sparse voxels, and raw points. |
+|[The new AI wrapper products pipeline.](https://manassaloi.com/2024/11/22/ai-products-pipeline.html) |AI-generated videos often lack realism, as seen with tools like Heygen and Captions AI. Current workflows are cumbersome, requiring multiple platforms and influencers to promote AI products. Styletransfergen simplifies this process by providing customizable, lifelike AI avatars, offering a more efficient solution for content creation and distribution. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
