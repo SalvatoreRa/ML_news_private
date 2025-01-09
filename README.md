@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta’s AI video editing features are coming to Instagram next year.](https://www.engadget.com/social-media/metas-ai-video-editing-features-are-coming-to-instagram-next-year-191501418.html) | Meta plans to introduce Movie Gen, an AI video editing tool, on Instagram in 2025.|
 |[Apple in talks with Tencent, ByteDance to roll out AI features in China, sources say.](https://www.reuters.com/technology/artificial-intelligence/apple-talks-with-tencent-bytedance-roll-out-ai-features-china-sources-say-2024-12-19/) | Apple is in early talks with Tencent and ByteDance to integrate their AI models into iPhones sold in China.|
 |[Cosmos World Foundation Model Platform for Physical AI.](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) | Nvidia has launched a new set of World Models built on its Cosmos tokenization framework. These models demonstrate exceptional physics comprehension and are available on the Hugging Face platform. While they appear to be primarily geared toward robotics and industrial use cases, they are also capable of generating videos in other fields.|
-|[.]() | |
+|[Accurate predictions on small data with a tabular foundation model.](https://www.nature.com/articles/s41586-024-08328-6) | Tabular Prior-data Fitted Network, a tabular foundation model, provides accurate predictions on small data and outperforms all previous methods on datasets with up to 10,000 samples by a wide margin.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[Picotron tutorial.](https://github.com/huggingface/picotron_tutorial) | A step by step tutorial on how to build Picotron distributed training framework form scratch|
 |[Dispider.](https://github.com/mark12ding/dispider) | Dispider allows real-time interaction with streaming videos, unlike traditional offline video LLMs that require processing the entire video before responding.|
 |[Experimental Gemini Thinking Model.](https://github.com/googleapis/python-genai/blob/3e42644784304d45d0b0bfdc8279958109650576/google/genai/tests/models/test_generate_content_thought.py) | Google has quietly pushed a new thinking model, likely similar to o1 style reasoning, to its AI studio.|
-|[.]() | |
+|[Foundation models for fast, label-free detection of glioma infiltration.](https://www.nature.com/articles/s41586-024-08169-3) |FastGlioma is a visual foundation model for fast and accurate detection of glioma infiltration in fresh, unprocessed surgical tissue. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
