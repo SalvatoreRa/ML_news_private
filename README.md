@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Remarkable robotic hand can now manipulate the objects that it's holding.](https://newatlas.com/robotics/sanctuary-ai-in-hand-manipulation/) | Sanctuary AI's Phoenix robot is certainly an impressive beast, with hydraulically actuated hands that are incredibly dextrous. Well, those hands have recently become even more useful, as each one is now capable of simultaneously holding and manipulating an object.|
 |[Tetsuwan Scientific is making robotic AI scientists that can run experiments on their own.](https://techcrunch.com/2024/12/22/tetsuwan-scientific-is-making-robotic-ai-scientists-that-can-run-experiments-on-their-own/) |Tetsuwan Scientific, founded by Cristian Ponce and Théo Schäfer, is working on creating affordable robotic AI scientists to automate laboratory tasks, utilizing large language models (LLMs) for scientific reasoning. |
 |[Elon Musk says all human data for AI training ‘exhausted’.](https://www.theguardian.com/technology/2025/jan/09/elon-musk-data-ai-training-artificial-intelligence) |Tech boss suggests move to self-learning synthetic data though some warn this could cause ‘model collapse’ |
-|[.]() | |
-|[.]() | |
+|[Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims.](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) |A recent filing claims that Meta's Llama team used copyrighted material for training with Mark Zuckerberg's approval, sparking concerns about intellectual property use in AI development. |
+|[5 ways to search what you see with Google Lens.](https://blog.google/products/search/google-lens-tips-2025/) | Google has unveiled new tips and features for Lens in 2025, emphasizing its enhanced visual search capabilities and seamless integration with daily tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
