@@ -152,10 +152,10 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[Mixture of Experts for LiDAR.](https://github.com/xiangxu-0103/limoe) |LiMoE is a framework that applies the Mixture of Experts (MoE) approach to LiDAR data representation learning, enabling the seamless combination of various representations, including range images, sparse voxels, and raw points. |
 |[The new AI wrapper products pipeline.](https://manassaloi.com/2024/11/22/ai-products-pipeline.html) |AI-generated videos often lack realism, as seen with tools like Heygen and Captions AI. Current workflows are cumbersome, requiring multiple platforms and influencers to promote AI products. Styletransfergen simplifies this process by providing customizable, lifelike AI avatars, offering a more efficient solution for content creation and distribution. |
 |[TransPixar: Advancing Text-to-Video Generation with Transparency.](https://wileewang.github.io/TransPixar/) |The transparent generation algorithm incorporates the alpha channel, enhancing the model's utility for VFX applications. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[🐦Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation 🐦.](https://kamwoh.github.io/chirpy3d/) |This algorithm generates novel birds by combining parts using a learned combination method. The results are impressive, with high-quality generated meshes making them highly practical.|
+|[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection.](https://arxiv.org/abs/2501.04575v1) | InfiGUIAgent is a GUI automation tool that utilizes multimodal large language models and a two-stage training approach to improve reasoning and interaction capabilities.|
+|[NeuralSVG: An Implicit Representation for Text-to-Vector Generation.](https://sagipolaczek.github.io/NeuralSVG/) |Many efforts focus on generating SVG images, but this approach specifically generates object parts in sequence, ensuring the final image is clean, editable, and minimal. The results are both practical and visually impressive. |
+|[DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation.](https://github.com/jianzongwu/DiffSensei) |This tool enables controllable and consistent generation of characters and dialogue boxes for manga story creation, functioning similarly to a control net for maintaining character consistency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
