@@ -107,7 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims.](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) |A recent filing claims that Meta's Llama team used copyrighted material for training with Mark Zuckerberg's approval, sparking concerns about intellectual property use in AI development. |
 |[5 ways to search what you see with Google Lens.](https://blog.google/products/search/google-lens-tips-2025/) | Google has unveiled new tips and features for Lens in 2025, emphasizing its enhanced visual search capabilities and seamless integration with daily tasks.|
 |[Google has unveiled new tips and features for Lens in 2025, emphasizing its enhanced visual search capabilities and seamless integration with daily tasks.](https://www.tomsguide.com/ai/xais-standalone-grok-ios-app-launches-in-the-us-heres-how-to-find-it) | The company has been testing a standalone Grok app and website for a few months in places like New Zealand, but the U.S. version is now live for iOS.|
-|[.]() | |
+|[Stupidly Easy Hack Can Jailbreak Even the Most Advanced AI Chatbots.](https://futurism.com/the-byte/easy-hack-jailbreak-ai-chatbot) |New research from Anthropic shows that LLMs can be easily "jailbroken" by altering capitalization or spelling. |
+|[ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report.](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) |ByteDance intends to spend $7 billion on Nvidia chips in 2025, bypassing U.S. restrictions by storing them outside of China. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,8 +158,7 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[NeuralSVG: An Implicit Representation for Text-to-Vector Generation.](https://sagipolaczek.github.io/NeuralSVG/) |Many efforts focus on generating SVG images, but this approach specifically generates object parts in sequence, ensuring the final image is clean, editable, and minimal. The results are both practical and visually impressive. |
 |[DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation.](https://github.com/jianzongwu/DiffSensei) |This tool enables controllable and consistent generation of characters and dialogue boxes for manga story creation, functioning similarly to a control net for maintaining character consistency. |
 |[Online Gaussian Adaptation of Vision-Language Models (OGA).](https://github.com/cfuchs2023/oga) | OGA is an online adaptation method that builds a cache of samples with low zero-shot entropy along a data stream.|
-|[.]() | |
-|[.]() | |
+|[Sa2VA model zoo.](https://huggingface.co/collections/ByteDance/sa2va-model-zoo-677e3084d71b5f108d00e093) |Bytedance has released 3 sizes of a new model that combine strong VLM performance with open vocabulary segmentation found in SAM2. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
