@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk says all human data for AI training ‘exhausted’.](https://www.theguardian.com/technology/2025/jan/09/elon-musk-data-ai-training-artificial-intelligence) |Tech boss suggests move to self-learning synthetic data though some warn this could cause ‘model collapse’ |
 |[Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims.](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) |A recent filing claims that Meta's Llama team used copyrighted material for training with Mark Zuckerberg's approval, sparking concerns about intellectual property use in AI development. |
 |[5 ways to search what you see with Google Lens.](https://blog.google/products/search/google-lens-tips-2025/) | Google has unveiled new tips and features for Lens in 2025, emphasizing its enhanced visual search capabilities and seamless integration with daily tasks.|
-|[.]() | |
+|[Google has unveiled new tips and features for Lens in 2025, emphasizing its enhanced visual search capabilities and seamless integration with daily tasks.](https://www.tomsguide.com/ai/xais-standalone-grok-ios-app-launches-in-the-us-heres-how-to-find-it) | The company has been testing a standalone Grok app and website for a few months in places like New Zealand, but the U.S. version is now live for iOS.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,6 +151,18 @@ based on provided source material, aiming to minimize hallucinations. A Kaggle l
 |[Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers.](https://julianjuaner.github.io/projects/MagicMirror/) | Magic Mirror is a framework for generating identity-preserved videos with cinematic-level quality and dynamic motion.|
 |[Mixture of Experts for LiDAR.](https://github.com/xiangxu-0103/limoe) |LiMoE is a framework that applies the Mixture of Experts (MoE) approach to LiDAR data representation learning, enabling the seamless combination of various representations, including range images, sparse voxels, and raw points. |
 |[The new AI wrapper products pipeline.](https://manassaloi.com/2024/11/22/ai-products-pipeline.html) |AI-generated videos often lack realism, as seen with tools like Heygen and Captions AI. Current workflows are cumbersome, requiring multiple platforms and influencers to promote AI products. Styletransfergen simplifies this process by providing customizable, lifelike AI avatars, offering a more efficient solution for content creation and distribution. |
+|[TransPixar: Advancing Text-to-Video Generation with Transparency.](https://wileewang.github.io/TransPixar/) |The transparent generation algorithm incorporates the alpha channel, enhancing the model's utility for VFX applications. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
