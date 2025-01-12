@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stupidly Easy Hack Can Jailbreak Even the Most Advanced AI Chatbots.](https://futurism.com/the-byte/easy-hack-jailbreak-ai-chatbot) |New research from Anthropic shows that LLMs can be easily "jailbroken" by altering capitalization or spelling. |
 |[ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report.](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) |ByteDance intends to spend $7 billion on Nvidia chips in 2025, bypassing U.S. restrictions by storing them outside of China. |
 |[UK can be ‘AI sweet spot’: Starmer’s tech minister on regulation, Musk, and free speech.](https://www.theguardian.com/technology/2025/jan/11/uk-can-be-ai-sweet-spot-starmers-tech-minister-on-regulation-musk-and-free-speech) | Technology secretary Peter Kyle has the task of making Britain a leading player in the AI revolution, but says economic growth will not come at the cost of online safety|
-|[.]() | |
+|[Facebook to ditch fact-checking: what do researchers think?](https://www.nature.com/articles/d41586-025-00027-0) | Meta’s planned shift away from third party fact-checking in favour of a crowdsourced approach has perplexed those who study the spread of misinformation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
