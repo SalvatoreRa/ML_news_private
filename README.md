@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google has unveiled new tips and features for Lens in 2025, emphasizing its enhanced visual search capabilities and seamless integration with daily tasks.](https://www.tomsguide.com/ai/xais-standalone-grok-ios-app-launches-in-the-us-heres-how-to-find-it) | The company has been testing a standalone Grok app and website for a few months in places like New Zealand, but the U.S. version is now live for iOS.|
 |[Stupidly Easy Hack Can Jailbreak Even the Most Advanced AI Chatbots.](https://futurism.com/the-byte/easy-hack-jailbreak-ai-chatbot) |New research from Anthropic shows that LLMs can be easily "jailbroken" by altering capitalization or spelling. |
 |[ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report.](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) |ByteDance intends to spend $7 billion on Nvidia chips in 2025, bypassing U.S. restrictions by storing them outside of China. |
-|[.]() | |
+|[UK can be ‘AI sweet spot’: Starmer’s tech minister on regulation, Musk, and free speech.](https://www.theguardian.com/technology/2025/jan/11/uk-can-be-ai-sweet-spot-starmers-tech-minister-on-regulation-musk-and-free-speech) | Technology secretary Peter Kyle has the task of making Britain a leading player in the AI revolution, but says economic growth will not come at the cost of online safety|
 |[.]() | |
 |[.]() | |
 |[.]() | |
