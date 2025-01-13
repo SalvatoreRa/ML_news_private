@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[‘Mainlined into UK’s veins’: Labour announces huge public rollout of AI.](https://www.theguardian.com/politics/2025/jan/12/mainlined-into-uks-veins-labour-announces-huge-public-rollout-of-ai) | Plans to make UK world leader in AI sector include opening access to NHS and other public data|
 |[‘A lump of metal? Fascinating!’ I get interviewed by the AI Michael Parkinson.](https://www.theguardian.com/tv-and-radio/2025/jan/13/ai-michael-parkinson-parky-virtually-monty-don) |Can the AI Parky ever beat the real chatshow colossus? As the Virtually Parkinson podcast launches, our writer sits in on a bizarre interview with Monty Don – then ends up in the hot seat himself |
-|[.]() | |
-|[.]() | |
+|[Fears for UK boomer radicalisation on Facebook after Meta drops factcheckers.](https://www.theguardian.com/technology/2025/jan/12/fears-for-uk-boomer-radicalisation-on-facebook-after-meta-drops-factcheckers) |For middle-aged users, it will be ‘even harder to discern the truth’ among extremist content, expert says |
+|[five ways to take back control, from emails to AI.](https://www.theguardian.com/technology/2025/jan/13/stay-on-top-of-tech-five-ways-to-take-back-control-from-emails-to-ai) | Is tech calling the shots in your life? From making AI work smarter to tracking stolen phones, our expert explains how to get ahead|
 |[.]() | |
 |[.]() | |
 |[.]() | |
