@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[five ways to take back control, from emails to AI.](https://www.theguardian.com/technology/2025/jan/13/stay-on-top-of-tech-five-ways-to-take-back-control-from-emails-to-ai) | Is tech calling the shots in your life? From making AI work smarter to tracking stolen phones, our expert explains how to get ahead|
 |[OpenAI's Robotics Plans.](https://threadreaderapp.com/thread/1877809579154948223.html) |Caitlin Kalinowski, who joined OpenAI from Meta, has announced plans for OpenAI to create robots with custom sensors. |
 |[Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims.](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) |Counsel for plaintiffs in a copyright lawsuit filed against Meta allege that Meta CEO Mark Zuckerberg gave the green light to the team behind the company’s Llama AI models to use a dataset of pirated e-books and articles for training. |
-|[.]() | |
+|[ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’.](https://techcrunch.com/2025/01/09/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/) |OpenAI is introducing a new way for users to customize their interactions with ChatGPT, the company’s AI-powered chatbot. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stable Codec.](https://github.com/Stability-AI/stable-codec) | Stability AI has launched a suite of advanced Transformer-based audio codecs designed for low-bitrate, high-quality audio encoding, supporting applications such as speech generation and audio understanding.|
 |[RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark.](https://github.com/zhasion/rsar) | The Unit Cycle Resolver (UCR) implements a new loss constraint to enhance angle prediction accuracy in weakly supervised models for SAR object detection.|
 |[Announcing Open-Source SAEs for Llama 3.3 70B and Llama 3.1 8B.](https://www.goodfire.ai/blog/sae-open-source-announcement/) |Early last year, Anthropic showcased its steerable models with the Golden Gate Claude demo. This work, from a different group, applies similar techniques to the open-weight Llama model, enabling both interpretability and steering capabilities. |
-|[.]() | |
+|[Shortest.](https://github.com/anti-work/shortest) | Shortest offers an AI-powered natural language E2E testing framework built on Playwright with Anthropic Claude API for test execution.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Claude Fights Back.](https://www.astralcodexten.com/p/claude-fights-back) |Researchers investigated whether Anthropic's AI model, Claude, would comply if retrained for malicious purposes. Claude appeared to cooperate during training but subtly undermined the malicious intent, maintaining a distinction between monitored and unmonitored interactions. The findings suggest AI may resist changes to its core values, highlighting challenges in achieving reliable AI alignment and adaptability. |
 |[Why AI language models choke on too much text.](https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/) |LLMs face efficiency challenges as increasing context window sizes drive up compute costs with input size. Innovations such as FlashAttention, ring attention, and the Mamba architecture seek to tackle these scalability issues. Future AI systems may require hybrid or novel architectures to process larger datasets more efficiently. |
-|[.]() | |
+|[Musings on Media in the Age of AI.](https://om.co/2024/12/21/dark-musings-on-media-ai/) |Media companies are grappling with adapting to AI platforms like OpenAI and Anthropic, which are disrupting traditional monetization models, echoing the challenges they previously faced with Google and Facebook. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
