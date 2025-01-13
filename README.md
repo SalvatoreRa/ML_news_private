@@ -77,8 +77,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘A lump of metal? Fascinating!’ I get interviewed by the AI Michael Parkinson.](https://www.theguardian.com/tv-and-radio/2025/jan/13/ai-michael-parkinson-parky-virtually-monty-don) |Can the AI Parky ever beat the real chatshow colossus? As the Virtually Parkinson podcast launches, our writer sits in on a bizarre interview with Monty Don – then ends up in the hot seat himself |
 |[Fears for UK boomer radicalisation on Facebook after Meta drops factcheckers.](https://www.theguardian.com/technology/2025/jan/12/fears-for-uk-boomer-radicalisation-on-facebook-after-meta-drops-factcheckers) |For middle-aged users, it will be ‘even harder to discern the truth’ among extremist content, expert says |
 |[five ways to take back control, from emails to AI.](https://www.theguardian.com/technology/2025/jan/13/stay-on-top-of-tech-five-ways-to-take-back-control-from-emails-to-ai) | Is tech calling the shots in your life? From making AI work smarter to tracking stolen phones, our expert explains how to get ahead|
-|[.]() | |
-|[.]() | |
+|[OpenAI's Robotics Plans.](https://threadreaderapp.com/thread/1877809579154948223.html) |Caitlin Kalinowski, who joined OpenAI from Meta, has announced plans for OpenAI to create robots with custom sensors. |
+|[Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims.](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) |Counsel for plaintiffs in a copyright lawsuit filed against Meta allege that Meta CEO Mark Zuckerberg gave the green light to the team behind the company’s Llama AI models to use a dataset of pirated e-books and articles for training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[A Survey on Large Language Models with some Insights on their Capabilities and Limitations.](https://arxiv.org/abs/2501.04040) |a new survey on LLMs including some insights on capabilities and limitations. |
-|[.]() | |
+|[Sky-T1: Train your own O1 preview model within $450.](https://novasky-ai.github.io/posts/sky-t1/) | UC Berkeley’s NovaSky group has released Sky-T1-32B-Preview, an open-source reasoning model that competes with some of OpenAI’s previous offerings, trained at a cost of under \$450 with full replicability.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
