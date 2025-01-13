@@ -73,8 +73,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[‘Mainlined into UK’s veins’: Labour announces huge public rollout of AI.](https://www.theguardian.com/politics/2025/jan/12/mainlined-into-uks-veins-labour-announces-huge-public-rollout-of-ai) | Plans to make UK world leader in AI sector include opening access to NHS and other public data|
+|[‘A lump of metal? Fascinating!’ I get interviewed by the AI Michael Parkinson.](https://www.theguardian.com/tv-and-radio/2025/jan/13/ai-michael-parkinson-parky-virtually-monty-don) |Can the AI Parky ever beat the real chatshow colossus? As the Virtually Parkinson podcast launches, our writer sits in on a bizarre interview with Monty Don – then ends up in the hot seat himself |
 |[.]() | |
 |[.]() | |
 |[.]() | |
