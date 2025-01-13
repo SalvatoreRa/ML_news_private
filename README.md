@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking.](https://arxiv.org/abs/2501.04519) | A new approach introduces three key components to improve mathematical reasoning: 1) A code-augmented Chain-of-Thought (CoT) data synthesis method using Monte Carlo Tree Search (MCTS) to generate verified step-by-step reasoning trajectories for training the policy SLM. 2) An SLM-based process reward model (PRM) that accurately assigns reward labels to each math reasoning step. 3) A self-evolution strategy where the policy SLM and PRM iteratively evolve to enhance math reasoning. On the MATH benchmark, rStar-Math boosts Qwen2.5-Math-7B from 58.8% to 90.0% and Phi3-mini-3.8B from 41.4% to 86.4%, outperforming o1-preview by +4.5% and +0.9%, respectively.|
 |[Cosmos World Foundation Model Platform for Physical AI.](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) | This framework trains Physical AI systems in digital environments prior to real-world deployment. It features pre-trained world foundation models that serve as digital twins of the physical world, enabling AI systems to learn and interact safely without risking damage to hardware. These models can be fine-tuned for applications such as camera control, robotic manipulation, and autonomous driving.|
 |[Process Reinforcement through Implicit Rewards.](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) | This framework introduces online reinforcement learning with process rewards to enhance language model reasoning. The algorithm integrates online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, their model, Eurus-2-7B-PRIME, achieves a 26.7% pass@1, outperforming GPT-4 and other models while using only one-tenth of the training data compared to similar systems.|
-|[.]() | |
+|[Can LLMs Design Good Questions Based on Context?](https://arxiv.org/abs/2501.03491) | This framework applies online reinforcement learning with process rewards to improve language model reasoning, combining online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, the Eurus-2-7B-PRIME model achieves a 26.7% pass@1, surpassing GPT-4 and other models while utilizing just one-tenth of the training data used by comparable systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[A Survey on Large Language Models with some Insights on their Capabilities and Limitations.](https://arxiv.org/abs/2501.04040) |a new survey on LLMs including some insights on capabilities and limitations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
