@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cosmos World Foundation Model Platform for Physical AI.](https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai) | This framework trains Physical AI systems in digital environments prior to real-world deployment. It features pre-trained world foundation models that serve as digital twins of the physical world, enabling AI systems to learn and interact safely without risking damage to hardware. These models can be fine-tuned for applications such as camera control, robotic manipulation, and autonomous driving.|
 |[Process Reinforcement through Implicit Rewards.](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) | This framework introduces online reinforcement learning with process rewards to enhance language model reasoning. The algorithm integrates online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, their model, Eurus-2-7B-PRIME, achieves a 26.7% pass@1, outperforming GPT-4 and other models while using only one-tenth of the training data compared to similar systems.|
 |[Can LLMs Design Good Questions Based on Context?](https://arxiv.org/abs/2501.03491) | This framework applies online reinforcement learning with process rewards to improve language model reasoning, combining online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, the Eurus-2-7B-PRIME model achieves a 26.7% pass@1, surpassing GPT-4 and other models while utilizing just one-tenth of the training data used by comparable systems.|
-|[.]() | |
+|[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028) |This approach presents a high-performing, decoder-only embeddings model built on Qwen2-0.5B. By applying advanced data filtering methods, it achieves a remarkably powerful and open embedding model suited for retrieval tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,10 +106,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[A Survey on Large Language Models with some Insights on their Capabilities and Limitations.](https://arxiv.org/abs/2501.04040) |a new survey on LLMs including some insights on capabilities and limitations. |
 |[Sky-T1: Train your own O1 preview model within $450.](https://novasky-ai.github.io/posts/sky-t1/) | UC Berkeley’s NovaSky group has released Sky-T1-32B-Preview, an open-source reasoning model that competes with some of OpenAI’s previous offerings, trained at a cost of under \$450 with full replicability.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Gaussian Masked Autoencoders.](https://brjathu.github.io/gmae/) |Instead of using a masked autoencoder solely for reconstruction loss, these researchers introduce an intermediate 3D Gaussian representation, allowing the model to learn 3D structures as part of the reconstruction process. The results are impressive for zero-shot transfer tasks. |
+|[An Empirical Study of Autoregressive Pre-training from Videos.](https://brjathu.github.io/toto/) |A follow-up by the same team behind GMAE demonstrates that pre-training video models on 1 trillion video tokens reveals robust scaling laws across diverse design choices. Interestingly, autoregressive training delivers performance on par with diffusion and flow-based methods. |
+|[Integrating Ascend Backend with Torchtune through PyTorch Multi-Device Support.](https://pytorch.org/blog/ascend-backend-w-torchtune/) | Ascend, Huawei's AI computing product line, includes processors, hardware, software, and frameworks. Torchtune has introduced a device abstraction API, enabling seamless PyTorch integration with Ascend NPU hardware through configurable settings and recipes. |
+|[Stable Codec.](https://github.com/Stability-AI/stable-codec) | Stability AI has launched a suite of advanced Transformer-based audio codecs designed for low-bitrate, high-quality audio encoding, supporting applications such as speech generation and audio understanding.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
