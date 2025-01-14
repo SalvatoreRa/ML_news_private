@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Process Reinforcement through Implicit Rewards.](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) | This framework introduces online reinforcement learning with process rewards to enhance language model reasoning. The algorithm integrates online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, their model, Eurus-2-7B-PRIME, achieves a 26.7% pass@1, outperforming GPT-4 and other models while using only one-tenth of the training data compared to similar systems.|
 |[Can LLMs Design Good Questions Based on Context?](https://arxiv.org/abs/2501.03491) | This framework applies online reinforcement learning with process rewards to improve language model reasoning, combining online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, the Eurus-2-7B-PRIME model achieves a 26.7% pass@1, surpassing GPT-4 and other models while utilizing just one-tenth of the training data used by comparable systems.|
 |[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028) |This approach presents a high-performing, decoder-only embeddings model built on Qwen2-0.5B. By applying advanced data filtering methods, it achieves a remarkably powerful and open embedding model suited for retrieval tasks. |
-|[.]() | |
+|[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186v1) |LlamaV-o1 is a comprehensive framework for advancing step-by-step visual reasoning in large language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The GAN is dead; long live the GAN! A Modern GAN Baseline.](https://arxiv.org/abs/2501.05441) | GANs are challenging to train due to instability and complex optimal dynamics. This research introduces a carefully tuned, stable GAN setup that enables consistent training to achieve high fidelity.|
 |[Efficient Sampling in Diffusion Models.](https://arxiv.org/abs/2501.06148v1) | This paper investigates training diffusion models to sample from a Boltzmann distribution in scenarios where target samples are unavailable.|
 |[kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search.](https://arxiv.org/abs/2501.06121v1) | kANNolo is an approximate nearest neighbor (ANN) library written in Rust explicitly designed to combine usability with performance effectively.|
-|[.]() | |
-|[.]() | |
+|[Diffusion Training from Scratch on a Micro-Budget.](https://github.com/SonyResearch/micro_diffusion/tree/main) |Sony Research has released code, data, and weights for a micro diffusion model that is cost-efficient to train while delivering exceptional performance. |
+|[Multimodal VHR dataset.](https://github.com/chenhongruixuan/bright) | Bright is a globally distributed multimodal Very High Resolution (VHR) dataset designed for all-weather disaster response.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
