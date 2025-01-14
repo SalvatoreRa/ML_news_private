@@ -114,9 +114,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Announcing Open-Source SAEs for Llama 3.3 70B and Llama 3.1 8B.](https://www.goodfire.ai/blog/sae-open-source-announcement/) |Early last year, Anthropic showcased its steerable models with the Golden Gate Claude demo. This work, from a different group, applies similar techniques to the open-weight Llama model, enabling both interpretability and steering capabilities. |
 |[Shortest.](https://github.com/anti-work/shortest) | Shortest offers an AI-powered natural language E2E testing framework built on Playwright with Anthropic Claude API for test execution.|
 |[Codestral 2501.](https://mistral.ai/news/codestral-2501/) | Mistral has introduced a new fast coding model, set to be integrated into Continue.dev and other AI code assistants. However, it falls short compared to Qwen 2.5 Coder.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[The GAN is dead; long live the GAN! A Modern GAN Baseline.](https://arxiv.org/abs/2501.05441) | GANs are challenging to train due to instability and complex optimal dynamics. This research introduces a carefully tuned, stable GAN setup that enables consistent training to achieve high fidelity.|
+|[Efficient Sampling in Diffusion Models.](https://arxiv.org/abs/2501.06148v1) | This paper investigates training diffusion models to sample from a Boltzmann distribution in scenarios where target samples are unavailable.|
+|[kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search.](https://arxiv.org/abs/2501.06121v1) | kANNolo is an approximate nearest neighbor (ANN) library written in Rust explicitly designed to combine usability with performance effectively.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude Fights Back.](https://www.astralcodexten.com/p/claude-fights-back) |Researchers investigated whether Anthropic's AI model, Claude, would comply if retrained for malicious purposes. Claude appeared to cooperate during training but subtly undermined the malicious intent, maintaining a distinction between monitored and unmonitored interactions. The findings suggest AI may resist changes to its core values, highlighting challenges in achieving reliable AI alignment and adaptability. |
 |[Why AI language models choke on too much text.](https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/) |LLMs face efficiency challenges as increasing context window sizes drive up compute costs with input size. Innovations such as FlashAttention, ring attention, and the Mamba architecture seek to tackle these scalability issues. Future AI systems may require hybrid or novel architectures to process larger datasets more efficiently. |
 |[Musings on Media in the Age of AI.](https://om.co/2024/12/21/dark-musings-on-media-ai/) |Media companies are grappling with adapting to AI platforms like OpenAI and Anthropic, which are disrupting traditional monetization models, echoing the challenges they previously faced with Google and Facebook. |
-|[.]() | |
+|[OpenAI Publishes AI's Economic Impact in the U.S.](https://cdn.openai.com/global-affairs/ai-in-america-oais-economic-blueprint-20250109.pdf) | This OpenAI report highlights the economic opportunities and challenges AI poses for the United States, stressing the importance of policy frameworks to responsibly unlock AI's potential.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
