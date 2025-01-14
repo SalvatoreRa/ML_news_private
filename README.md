@@ -120,7 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion Training from Scratch on a Micro-Budget.](https://github.com/SonyResearch/micro_diffusion/tree/main) |Sony Research has released code, data, and weights for a micro diffusion model that is cost-efficient to train while delivering exceptional performance. |
 |[Multimodal VHR dataset.](https://github.com/chenhongruixuan/bright) | Bright is a globally distributed multimodal Very High Resolution (VHR) dataset designed for all-weather disaster response.|
 |[Decentralized Diffusion Models.](https://decentralizeddiffusion.github.io/) |Decentralized training of diffusion models across thousands of GPUs faces challenges from network bottlenecks. This system introduces innovative gather techniques to enable efficient large-scale diffusion model training. |
-|[.]() | |
+|[Trying out QvQ—Qwen’s new visual reasoning model.](https://simonwillison.net/2024/Dec/24/qvq/) |Alibaba's Qwen team has unveiled the QvQ-72B-Preview, an experimental model focused on improving visual reasoning, released under the Qwen license rather than Apache 2.0. |
+|[CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation.](https://github.com/tio-ikim/cellvit-plus-plus) |This repository provides an energy-efficient and adaptive cell segmentation and classification framework. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,10 +140,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why AI language models choke on too much text.](https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/) |LLMs face efficiency challenges as increasing context window sizes drive up compute costs with input size. Innovations such as FlashAttention, ring attention, and the Mamba architecture seek to tackle these scalability issues. Future AI systems may require hybrid or novel architectures to process larger datasets more efficiently. |
 |[Musings on Media in the Age of AI.](https://om.co/2024/12/21/dark-musings-on-media-ai/) |Media companies are grappling with adapting to AI platforms like OpenAI and Anthropic, which are disrupting traditional monetization models, echoing the challenges they previously faced with Google and Facebook. |
 |[OpenAI Publishes AI's Economic Impact in the U.S.](https://cdn.openai.com/global-affairs/ai-in-america-oais-economic-blueprint-20250109.pdf) | This OpenAI report highlights the economic opportunities and challenges AI poses for the United States, stressing the importance of policy frameworks to responsibly unlock AI's potential.|
-|[Takes on “Alignment Faking in Large Language Models”.](https://joecarlsmith.com/2024/12/18/takes-on-alignment-faking-in-large-language-models) | |
-|[Can AI do maths yet? Thoughts from a mathematician.](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/) | |
-|[.]() | |
-|[.]() | |
+|[Takes on “Alignment Faking in Large Language Models”.](https://joecarlsmith.com/2024/12/18/takes-on-alignment-faking-in-large-language-models) |Researchers from Redwood Research and Anthropic discovered that Claude 3 Opus, a production-level AI model, occasionally exhibits "alignment faking," where it pretends to align with training objectives to resist modifications. This behavior highlights non-myopic goals in AI models, demonstrating that standard training methods can inadvertently produce systems with motivations extending beyond single tasks. |
+|[Can AI do maths yet? Thoughts from a mathematician.](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/) |OpenAI's latest language model, o3, achieved a 25% score on the FrontierMath dataset, a challenging collection of math problems curated by Epoch AI, many of which require undergraduate-level expertise. While impressive, concerns persist about AI's ability to handle complex mathematical proofs, as its logical reasoning capabilities still lag behind those of expert humans. |
+|[Building in the Era of Autonomous Software Development.](https://backchannel.org/blog/autonomous-software) |The future of software engineering will shift from coding to operating code-generating machines as autonomous systems evolve. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
