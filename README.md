@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search.](https://arxiv.org/abs/2501.06121v1) | kANNolo is an approximate nearest neighbor (ANN) library written in Rust explicitly designed to combine usability with performance effectively.|
 |[Diffusion Training from Scratch on a Micro-Budget.](https://github.com/SonyResearch/micro_diffusion/tree/main) |Sony Research has released code, data, and weights for a micro diffusion model that is cost-efficient to train while delivering exceptional performance. |
 |[Multimodal VHR dataset.](https://github.com/chenhongruixuan/bright) | Bright is a globally distributed multimodal Very High Resolution (VHR) dataset designed for all-weather disaster response.|
-|[.]() | |
+|[Decentralized Diffusion Models.](https://decentralizeddiffusion.github.io/) |Decentralized training of diffusion models across thousands of GPUs faces challenges from network bottlenecks. This system introduces innovative gather techniques to enable efficient large-scale diffusion model training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why AI language models choke on too much text.](https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/) |LLMs face efficiency challenges as increasing context window sizes drive up compute costs with input size. Innovations such as FlashAttention, ring attention, and the Mamba architecture seek to tackle these scalability issues. Future AI systems may require hybrid or novel architectures to process larger datasets more efficiently. |
 |[Musings on Media in the Age of AI.](https://om.co/2024/12/21/dark-musings-on-media-ai/) |Media companies are grappling with adapting to AI platforms like OpenAI and Anthropic, which are disrupting traditional monetization models, echoing the challenges they previously faced with Google and Facebook. |
 |[OpenAI Publishes AI's Economic Impact in the U.S.](https://cdn.openai.com/global-affairs/ai-in-america-oais-economic-blueprint-20250109.pdf) | This OpenAI report highlights the economic opportunities and challenges AI poses for the United States, stressing the importance of policy frameworks to responsibly unlock AI's potential.|
-|[.]() | |
-|[.]() | |
+|[Takes on “Alignment Faking in Large Language Models”.](https://joecarlsmith.com/2024/12/18/takes-on-alignment-faking-in-large-language-models) | |
+|[Can AI do maths yet? Thoughts from a mathematician.](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
