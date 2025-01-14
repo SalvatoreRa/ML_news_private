@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’.](https://techcrunch.com/2025/01/09/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/) |OpenAI is introducing a new way for users to customize their interactions with ChatGPT, the company’s AI-powered chatbot. |
 |[‘Just the start’: X’s new AI software driving online racist abuse, experts warn.](https://www.theguardian.com/technology/2025/jan/13/just-the-start-xs-new-ai-software-driving-online-racist-abuse-experts-warn) | Amid reports of creation of fake racist images, Signify warns problem will get ‘so much worse’ over the next year|
 |[Apple dominates market with ‘total shutout’ of rivals, UK court hears.](https://www.theguardian.com/technology/2025/jan/13/apple-uk-app-store-class-action-fee-competition-appeal-tribunal) | Class action alleges company is abusing its dominant position in the app market and 30% fee breaches laws|
-|[.]() | |
+|[Nvidia’s AI empire: A look at its top startup investments.](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) |the world’s leading high-performance GPU maker has used its ballooning fortunes to significantly increase investments in all sorts of startups but particularly in AI startups |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark.](https://github.com/zhasion/rsar) | The Unit Cycle Resolver (UCR) implements a new loss constraint to enhance angle prediction accuracy in weakly supervised models for SAR object detection.|
 |[Announcing Open-Source SAEs for Llama 3.3 70B and Llama 3.1 8B.](https://www.goodfire.ai/blog/sae-open-source-announcement/) |Early last year, Anthropic showcased its steerable models with the Golden Gate Claude demo. This work, from a different group, applies similar techniques to the open-weight Llama model, enabling both interpretability and steering capabilities. |
 |[Shortest.](https://github.com/anti-work/shortest) | Shortest offers an AI-powered natural language E2E testing framework built on Playwright with Anthropic Claude API for test execution.|
-|[.]() | |
+|[Codestral 2501.](https://mistral.ai/news/codestral-2501/) | Mistral has introduced a new fast coding model, set to be integrated into Continue.dev and other AI code assistants. However, it falls short compared to Qwen 2.5 Coder.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
