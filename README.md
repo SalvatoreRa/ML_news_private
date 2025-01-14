@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI's Robotics Plans.](https://threadreaderapp.com/thread/1877809579154948223.html) |Caitlin Kalinowski, who joined OpenAI from Meta, has announced plans for OpenAI to create robots with custom sensors. |
 |[Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims.](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) |Counsel for plaintiffs in a copyright lawsuit filed against Meta allege that Meta CEO Mark Zuckerberg gave the green light to the team behind the company’s Llama AI models to use a dataset of pirated e-books and articles for training. |
 |[ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’.](https://techcrunch.com/2025/01/09/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/) |OpenAI is introducing a new way for users to customize their interactions with ChatGPT, the company’s AI-powered chatbot. |
-|[.]() | |
-|[.]() | |
+|[‘Just the start’: X’s new AI software driving online racist abuse, experts warn.](https://www.theguardian.com/technology/2025/jan/13/just-the-start-xs-new-ai-software-driving-online-racist-abuse-experts-warn) | Amid reports of creation of fake racist images, Signify warns problem will get ‘so much worse’ over the next year|
+|[Apple dominates market with ‘total shutout’ of rivals, UK court hears.](https://www.theguardian.com/technology/2025/jan/13/apple-uk-app-store-class-action-fee-competition-appeal-tribunal) | Class action alleges company is abusing its dominant position in the app market and 30% fee breaches laws|
 |[.]() | |
 |[.]() | |
 |[.]() | |
