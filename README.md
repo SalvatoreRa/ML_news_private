@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can LLMs Design Good Questions Based on Context?](https://arxiv.org/abs/2501.03491) | This framework applies online reinforcement learning with process rewards to improve language model reasoning, combining online prompt filtering, RLOO return/advantage estimation, PPO loss, and implicit process reward modeling for continuous updates. On the AIME 2024 benchmark, the Eurus-2-7B-PRIME model achieves a 26.7% pass@1, surpassing GPT-4 and other models while utilizing just one-tenth of the training data used by comparable systems.|
 |[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028) |This approach presents a high-performing, decoder-only embeddings model built on Qwen2-0.5B. By applying advanced data filtering methods, it achieves a remarkably powerful and open embedding model suited for retrieval tasks. |
 |[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186v1) |LlamaV-o1 is a comprehensive framework for advancing step-by-step visual reasoning in large language models. |
-|[.]() | |
+|[The Lessons of Developing Process Reward Models in Mathematical Reasoning.](https://arxiv.org/abs/2501.07301) | This marks a significant step toward open replication of reasoning models. The Qwen team has released their trained reward model, which supervises the generation process for reasoning models trained with reinforcement learning. Alongside the paper, they have also shared the weights for this Process Reward Model on Hugging Face.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
