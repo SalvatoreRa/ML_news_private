@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[British novelists criticise government over AI ‘theft’.](https://www.theguardian.com/technology/2025/jan/14/british-novelists-criticise-government-over-ai-theft) |Richard Osman and Kate Mosse say plan to mine artistic works for data would destroy creative fields |
 |[More than half a million ‘TikTok refugees’ flock to China’s RedNote as ban looms.](https://www.theguardian.com/technology/2025/jan/14/tiktok-ban-rednote-app) |RedNote, also known as Xiaohongshu, rockets to top of US app stores, along with ByteDance’s Lemon8 |
 |[US sues Elon Musk for allegedly failing to disclose early Twitter stock purchase.](https://www.theguardian.com/technology/2025/jan/14/us-elon-musk-twitter-stock-purchase-lawsuit) |Financial regulator alleges Musk later acquired shares of company at ‘artificially low prices’, stiffing shareholders |
-|[.]() | |
+|[Red Hat Acquires Neural Magic.](https://www.redhat.com/en/about/press-releases/red-hat-completes-acquisition-neural-magic-fuel-optimized-generative-ai-innovation-across-hybrid-cloud) | Neural Magic is a key contributor to the vLLM project and has made significant advancements in sparse inference technologies.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
