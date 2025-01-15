@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model.](https://arxiv.org/abs/2501.01028) |This approach presents a high-performing, decoder-only embeddings model built on Qwen2-0.5B. By applying advanced data filtering methods, it achieves a remarkably powerful and open embedding model suited for retrieval tasks. |
 |[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186v1) |LlamaV-o1 is a comprehensive framework for advancing step-by-step visual reasoning in large language models. |
 |[The Lessons of Developing Process Reward Models in Mathematical Reasoning.](https://arxiv.org/abs/2501.07301) | This marks a significant step toward open replication of reasoning models. The Qwen team has released their trained reward model, which supervises the generation process for reasoning models trained with reinforcement learning. Alongside the paper, they have also shared the weights for this Process Reward Model on Hugging Face.|
-|[.]() | |
+|[How GPT learns layer by layer.](https://arxiv.org/abs/2501.07108v1) |This paper examines how LLMs construct internal world models, highlighting their significance in creating agents that exhibit consistent and adaptive behavior across various tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,6 +122,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Decentralized Diffusion Models.](https://decentralizeddiffusion.github.io/) |Decentralized training of diffusion models across thousands of GPUs faces challenges from network bottlenecks. This system introduces innovative gather techniques to enable efficient large-scale diffusion model training. |
 |[Trying out QvQ—Qwen’s new visual reasoning model.](https://simonwillison.net/2024/Dec/24/qvq/) |Alibaba's Qwen team has unveiled the QvQ-72B-Preview, an experimental model focused on improving visual reasoning, released under the Qwen license rather than Apache 2.0. |
 |[CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation.](https://github.com/tio-ikim/cellvit-plus-plus) |This repository provides an energy-efficient and adaptive cell segmentation and classification framework. |
+|[VideoRAG: Retrieval-Augmented Generation over Video Corpus.](https://arxiv.org/abs/2501.05874) | This work provides a solid introduction and strong baseline for video retrieval-augmented generation, addressing the challenge of measuring system performance. Most existing approaches convert videos into textual descriptions for retrieval rather than directly operating on the video content.|
+|[Beating cuBLAS in Single-Precision General Matrix Multiplication.](https://salykova.github.io/sgemm-gpu) |This work provides an excellent introduction to CUDA, combining clear explanations with clever optimizations to achieve performance competitive with state-of-the-art methods. |
+|[awesome-lifelong-llm-agent.](https://github.com/qianlima-lab/awesome-lifelong-llm-agent) | This repository collects awesome paper for lifelong learning (also known as, continual learning and incremental learning) of LLM agent. |
+|[Popular Kernel Implementations.](https://github.com/tgcsaba/ksig) | A scikit-learn-compatible Python package that delivers GPU-accelerated implementations of popular and powerful time series kernels and features, utilizing CuPy for enhanced performance.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
