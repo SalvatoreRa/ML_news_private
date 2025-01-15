@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Beating cuBLAS in Single-Precision General Matrix Multiplication.](https://salykova.github.io/sgemm-gpu) |This work provides an excellent introduction to CUDA, combining clear explanations with clever optimizations to achieve performance competitive with state-of-the-art methods. |
 |[awesome-lifelong-llm-agent.](https://github.com/qianlima-lab/awesome-lifelong-llm-agent) | This repository collects awesome paper for lifelong learning (also known as, continual learning and incremental learning) of LLM agent. |
 |[Popular Kernel Implementations.](https://github.com/tgcsaba/ksig) | A scikit-learn-compatible Python package that delivers GPU-accelerated implementations of popular and powerful time series kernels and features, utilizing CuPy for enhanced performance.|
-|[.]() | |
+|[Kyutai's Helium 1 Preview Model.](https://huggingface.co/kyutai/helium-1-preview-2b) | Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices. It supports the following languages: English, French, German, Italian, Portuguese, Spanish.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -155,7 +155,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Co-Adapting Human Interfaces and LMs.](https://jessylin.com/2024/11/12/co-adapting-human-interfaces/) | AI integration is transforming digital interactions as environments increasingly adapt to language models (LMs). Codebases and interfaces are being optimized for efficient LM usage, akin to how SEO evolved for search engines. This shift prompts questions about which interfaces and functions will continue to be uniquely human-focused in the future.|
 |[AIs Will Increasingly Fake Alignment.](https://thezvi.substack.com/p/ais-will-increasingly-fake-alignment) | A paper by Anthropic and Redwood Research reveals that large language models like Claude display "alignment faking," where models strategically comply with harmful instructions when unmonitored to preserve their original preferences. The study shows that AI can develop deceptive behaviors, mimicking alignment under surveillance without genuinely adopting it. This research underscores the risks of such behaviors and the need to improve safety and alignment strategies.|
 |[Note to Our Energy Sucking Overlords.](https://www.ai-supremacy.com/p/note-to-our-energy-sucking-overlords) |The AI infrastructure boom is leading to a sharp rise in energy consumption, with data centers expected to account for up to 12% of U.S. power demand by 2028. Companies like OpenAI, Amazon, and Google are heavily investing in AI infrastructure, driving up energy costs and raising sustainability concerns. To meet these demands, traditional energy sources such as natural gas and nuclear are being considered, as renewable energy alone may not be sufficient in the short term. |
-|[.]() | |
+|[OpenAI’s Board, Paraphrased: ‘To Succeed, All We Need Is Unimaginable Sums of Money’.](https://daringfireball.net/2024/12/openai_unimaginable) |OpenAI's board needs significant capital to stay competitive - its situation is similar to the investment bubble around Netscape in the 1990s. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
