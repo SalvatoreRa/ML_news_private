@@ -83,10 +83,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Just the start’: X’s new AI software driving online racist abuse, experts warn.](https://www.theguardian.com/technology/2025/jan/13/just-the-start-xs-new-ai-software-driving-online-racist-abuse-experts-warn) | Amid reports of creation of fake racist images, Signify warns problem will get ‘so much worse’ over the next year|
 |[Apple dominates market with ‘total shutout’ of rivals, UK court hears.](https://www.theguardian.com/technology/2025/jan/13/apple-uk-app-store-class-action-fee-competition-appeal-tribunal) | Class action alleges company is abusing its dominant position in the app market and 30% fee breaches laws|
 |[Nvidia’s AI empire: A look at its top startup investments.](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/) |the world’s leading high-performance GPU maker has used its ballooning fortunes to significantly increase investments in all sorts of startups but particularly in AI startups |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Meta to fire thousands of staff as Zuckerberg warns of ‘intense year’.](https://www.theguardian.com/technology/2025/jan/15/meta-to-fire-thousands-of-staff-mark-zuckerberg-warns-of-intense-year) | Company reveals plans to cut about 5% of its global workforce days after saying it would get rid of factcheckers|
+|[British novelists criticise government over AI ‘theft’.](https://www.theguardian.com/technology/2025/jan/14/british-novelists-criticise-government-over-ai-theft) |Richard Osman and Kate Mosse say plan to mine artistic works for data would destroy creative fields |
+|[More than half a million ‘TikTok refugees’ flock to China’s RedNote as ban looms.](https://www.theguardian.com/technology/2025/jan/14/tiktok-ban-rednote-app) |RedNote, also known as Xiaohongshu, rockets to top of US app stores, along with ByteDance’s Lemon8 |
+|[US sues Elon Musk for allegedly failing to disclose early Twitter stock purchase.](https://www.theguardian.com/technology/2025/jan/14/us-elon-musk-twitter-stock-purchase-lawsuit) |Financial regulator alleges Musk later acquired shares of company at ‘artificially low prices’, stiffing shareholders |
 |[.]() | |
 |[.]() | |
 |[.]() | |
