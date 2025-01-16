@@ -136,9 +136,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MiniMax-01: Scaling Foundation Models with Lightning Attention.](https://arxiv.org/abs/2501.08313) |China's next frontier-level model features a groundbreaking lightning attention mechanism, the first linear variant to rival top frontier models in performance. With over 400 billion parameters, the model was trained on 4 million tokens in context. The researchers have released a detailed technical report, model weights, and a code repository. Additionally, a companion vision model accompanies this release. |
 |[WebWalker: Benchmarking LLMs in Web Traversal.](https://alibaba-nlp.github.io/WebWalker/) |Alibaba's WebWalker benchmark evaluates how effectively models can navigate web environments by utilizing both visual and textual cues. |
 |[MangaNinja.](https://github.com/ali-vilab/MangaNinjia) | MangaNinjia is a collection of models designed for precise sketch coloring, capable of handling multiple references, partial references, and various configurations to enable powerful and versatile colorization.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Medical Segmentation Benchmark.](https://github.com/mrgiovanni/touchstone) |Touchstone is a large-scale benchmark created to evaluate AI algorithms in medical imaging more effectively than standard benchmarks. It includes over 11,000 CT scans collected from hospitals worldwide. |
+|[Reliable Hardware Verification.](https://github.com/aiverification/neuralmc) | This project presents a machine learning-based approach to model checking for hardware verification, designed to provide formal guarantees that system executions comply with specified temporal logic requirements.|
+|[1 step video generation.](https://seaweed-apt.com/) |This research applies an adversarial post-training technique to convert an existing video model into a single-step generation system. The method effectively approximates consistency tuning, enabling the model to generate 2 seconds of high-quality video in real time. Note that the website may load slowly due to the large number of video samples. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +166,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AlphaFold 3 is great — but it still needs human help to get chemistry right.](https://www.nature.com/articles/d41586-025-00111-5) |Artificial intelligence (AI) tools such as AlphaFold 3 are revolutionizing the prediction of biomolecular structures. But as these models find their way into scientists’ daily workflows, significant limitations in how the models deal with stereochemistry (the spatial arrangement of atoms) are becoming apparent. |
 |[Striving for open-source and equitable speech-to-speech translation.](https://www.nature.com/articles/d41586-024-04095-6) | US technology company Meta has produced an AI model that can directly translate speech in one language to speech in another. Two scientists discuss the technical feats and ethical questions that underpin this advance in machine translation.|
 |[Deepseek: The Quiet Giant Leading China’s AI Race.](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas) |Deepseek, a Chinese AI startup led by CEO Liang Wenfeng, has introduced the R1 model, which outperformed OpenAI's O1 on reasoning benchmarks. Supported by the quantitative hedge fund High-Flyer, Deepseek prioritizes research over commercialization and is committed to open sourcing. By offering competitive API rates, it has sparked price competition in China's AI market. Focused on AGI, the company emphasizes innovations like Multi-Head Latent Attention and Sparse Mixture-of-Experts, challenging traditional models and nurturing local tech talent in China's AI ecosystem. |
-|[.]() | |
+|[Riffing on Machines of Loving Grace.](https://an1lam.substack.com/p/riffing-on-machines-of-loving-grace) | Dario Amodei's concept of "geniuses in a datacenter" envisions superhuman AI transforming biology, from molecular design to experimental planning. This AI could significantly accelerate progress in molecular engineering, addressing current bottlenecks and enabling new therapeutic platforms. Additionally, it has the potential to drive paradigm-shifting discoveries, challenging and reshaping existing scientific frameworks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
