@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Lessons of Developing Process Reward Models in Mathematical Reasoning.](https://arxiv.org/abs/2501.07301) | This marks a significant step toward open replication of reasoning models. The Qwen team has released their trained reward model, which supervises the generation process for reasoning models trained with reinforcement learning. Alongside the paper, they have also shared the weights for this Process Reward Model on Hugging Face.|
 |[How GPT learns layer by layer.](https://arxiv.org/abs/2501.07108v1) |This paper examines how LLMs construct internal world models, highlighting their significance in creating agents that exhibit consistent and adaptive behavior across various tasks. |
 |[Joint speech and text machine translation for up to 100 languages.](https://www.nature.com/articles/s41586-024-08359-z) |SEAMLESSM4T is a single machine translation tool that supports speech-to-speech translation, speech-to-text translation, text-to-speech translation, text-to-text translation and automatic speech recognition between up to 100 languages. |
-|[.]() | |
+|[Metadata Conditioning Accelerates Language Model Pre-training.](https://arxiv.org/abs/2501.01956) |Recent research on generic pretraining has been limited, but this study demonstrates that incorporating metadata early in training and gradually reducing its influence towards the end enhances overall model performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -93,6 +93,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta AI creates speech-to-speech translator that works in dozens of languages.](https://www.nature.com/articles/d41586-025-00045-y) |Machine-learning system can process words spoken in 101 languages, spitting out voice-synthesized translations in 36 target languages. |
 |[Particle accelerators get an assist from AI co-pilots.](https://www.nature.com/articles/d41586-025-00005-6) |Large language models can propose fine-tuning adjustments for an electron accelerator in Germany. |
 |[How would a Tiktok ban work in the US?](https://www.theguardian.com/technology/2025/jan/10/how-does-tiktok-ban-work) |Biden signed a law banning the app in January – if parent firm ByteDance fails to block it, here’s what could happen |
+|[ChatGPT now lets you schedule reminders and recurring tasks.](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/) |Paying users of OpenAI’s ChatGPT can now ask the AI assistant to schedule reminders or recurring requests. The new beta feature, called tasks, will start rolling out to ChatGPT Plus, Team, and Pro users around the globe this week. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[awesome-lifelong-llm-agent.](https://github.com/qianlima-lab/awesome-lifelong-llm-agent) | This repository collects awesome paper for lifelong learning (also known as, continual learning and incremental learning) of LLM agent. |
 |[Popular Kernel Implementations.](https://github.com/tgcsaba/ksig) | A scikit-learn-compatible Python package that delivers GPU-accelerated implementations of popular and powerful time series kernels and features, utilizing CuPy for enhanced performance.|
 |[Kyutai's Helium 1 Preview Model.](https://huggingface.co/kyutai/helium-1-preview-2b) | Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices. It supports the following languages: English, French, German, Italian, Portuguese, Spanish.|
-|[.]() | |
+|[MiniMax-01: Scaling Foundation Models with Lightning Attention.](https://arxiv.org/abs/2501.08313) |China's next frontier-level model features a groundbreaking lightning attention mechanism, the first linear variant to rival top frontier models in performance. With over 400 billion parameters, the model was trained on 4 million tokens in context. The researchers have released a detailed technical report, model weights, and a code repository. Additionally, a companion vision model accompanies this release. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -159,7 +165,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Things we learned about LLMs in 2024.](https://simonwillison.net/2024/Dec/31/llms-in-2024/) |In 2024, several organizations outpaced OpenAI's GPT-4 with advancements in large language models, achieving breakthroughs in context length, multimodal capabilities, and efficiency. |
 |[AlphaFold 3 is great — but it still needs human help to get chemistry right.](https://www.nature.com/articles/d41586-025-00111-5) |Artificial intelligence (AI) tools such as AlphaFold 3 are revolutionizing the prediction of biomolecular structures. But as these models find their way into scientists’ daily workflows, significant limitations in how the models deal with stereochemistry (the spatial arrangement of atoms) are becoming apparent. |
 |[Striving for open-source and equitable speech-to-speech translation.](https://www.nature.com/articles/d41586-024-04095-6) | US technology company Meta has produced an AI model that can directly translate speech in one language to speech in another. Two scientists discuss the technical feats and ethical questions that underpin this advance in machine translation.|
-|[.]() | |
+|[Deepseek: The Quiet Giant Leading China’s AI Race.](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas) |Deepseek, a Chinese AI startup led by CEO Liang Wenfeng, has introduced the R1 model, which outperformed OpenAI's O1 on reasoning benchmarks. Supported by the quantitative hedge fund High-Flyer, Deepseek prioritizes research over commercialization and is committed to open sourcing. By offering competitive API rates, it has sparked price competition in China's AI market. Focused on AGI, the company emphasizes innovations like Multi-Head Latent Attention and Sparse Mixture-of-Experts, challenging traditional models and nurturing local tech talent in China's AI ecosystem. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
