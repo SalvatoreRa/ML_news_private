@@ -134,8 +134,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Popular Kernel Implementations.](https://github.com/tgcsaba/ksig) | A scikit-learn-compatible Python package that delivers GPU-accelerated implementations of popular and powerful time series kernels and features, utilizing CuPy for enhanced performance.|
 |[Kyutai's Helium 1 Preview Model.](https://huggingface.co/kyutai/helium-1-preview-2b) | Helium-1 preview is a lightweight language model with 2B parameters, targeting edge and mobile devices. It supports the following languages: English, French, German, Italian, Portuguese, Spanish.|
 |[MiniMax-01: Scaling Foundation Models with Lightning Attention.](https://arxiv.org/abs/2501.08313) |China's next frontier-level model features a groundbreaking lightning attention mechanism, the first linear variant to rival top frontier models in performance. With over 400 billion parameters, the model was trained on 4 million tokens in context. The researchers have released a detailed technical report, model weights, and a code repository. Additionally, a companion vision model accompanies this release. |
-|[.]() | |
-|[.]() | |
+|[WebWalker: Benchmarking LLMs in Web Traversal.](https://alibaba-nlp.github.io/WebWalker/) |Alibaba's WebWalker benchmark evaluates how effectively models can navigate web environments by utilizing both visual and textual cues. |
+|[MangaNinja.](https://github.com/ali-vilab/MangaNinjia) | MangaNinjia is a collection of models designed for precise sketch coloring, capable of handling multiple references, partial references, and various configurations to enable powerful and versatile colorization.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
