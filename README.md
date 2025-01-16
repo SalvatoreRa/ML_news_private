@@ -94,9 +94,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Particle accelerators get an assist from AI co-pilots.](https://www.nature.com/articles/d41586-025-00005-6) |Large language models can propose fine-tuning adjustments for an electron accelerator in Germany. |
 |[How would a Tiktok ban work in the US?](https://www.theguardian.com/technology/2025/jan/10/how-does-tiktok-ban-work) |Biden signed a law banning the app in January – if parent firm ByteDance fails to block it, here’s what could happen |
 |[ChatGPT now lets you schedule reminders and recurring tasks.](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/) |Paying users of OpenAI’s ChatGPT can now ask the AI assistant to schedule reminders or recurring requests. The new beta feature, called tasks, will start rolling out to ChatGPT Plus, Team, and Pro users around the globe this week. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Silicon Valley’s turn of fortune: Intel has worst year ever, while Broadcom enjoys record gain.](https://www.cnbc.com/2024/12/31/silicon-valley-turn-of-fortune-intel-worst-year-broadcom-record-gain.html) |In 2024, Intel's stock dropped by 61% due to its inability to seize AI opportunities, while Broadcom experienced a 111% surge, driven by custom chips for major tech companies. Broadcom's XPUs have become essential in the AI ecosystem, with collaborations with Google and others, whereas Intel faced challenges from outdated strategies and leadership changes. This stark contrast underscores significant shifts in the tech industry and the transformative impact of AI advancements on the market. |
+|[Alibaba slashes prices on large language models by up to 85% as China AI rivalry heats up.](https://www.cnbc.com/2024/12/31/alibaba-baba-cloud-unit-slashes-prices-on-ai-models-by-up-to-85percent.html) | Alibaba is cutting prices on its Qwen-VL language model by up to 85% to boost AI market competition.|
+|[ByteDance appears to be skirting US restrictions to buy Nvidia chips.](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/) | TikTok parent company ByteDance has big plans to buy Nvidia chips in 2025 — despite U.S. restrictions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Medical Segmentation Benchmark.](https://github.com/mrgiovanni/touchstone) |Touchstone is a large-scale benchmark created to evaluate AI algorithms in medical imaging more effectively than standard benchmarks. It includes over 11,000 CT scans collected from hospitals worldwide. |
 |[Reliable Hardware Verification.](https://github.com/aiverification/neuralmc) | This project presents a machine learning-based approach to model checking for hardware verification, designed to provide formal guarantees that system executions comply with specified temporal logic requirements.|
 |[1 step video generation.](https://seaweed-apt.com/) |This research applies an adversarial post-training technique to convert an existing video model into a single-step generation system. The method effectively approximates consistency tuning, enabling the model to generate 2 seconds of high-quality video in real time. Note that the website may load slowly due to the large number of video samples. |
-|[.]() | |
+|[Kolors Virtual Try-On in the Wild.](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) | The Kolors image generation model combines a subject image and a garment image to simulate how an outfit would fit.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
