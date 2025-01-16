@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186v1) |LlamaV-o1 is a comprehensive framework for advancing step-by-step visual reasoning in large language models. |
 |[The Lessons of Developing Process Reward Models in Mathematical Reasoning.](https://arxiv.org/abs/2501.07301) | This marks a significant step toward open replication of reasoning models. The Qwen team has released their trained reward model, which supervises the generation process for reasoning models trained with reinforcement learning. Alongside the paper, they have also shared the weights for this Process Reward Model on Hugging Face.|
 |[How GPT learns layer by layer.](https://arxiv.org/abs/2501.07108v1) |This paper examines how LLMs construct internal world models, highlighting their significance in creating agents that exhibit consistent and adaptive behavior across various tasks. |
-|[.]() | |
+|[Joint speech and text machine translation for up to 100 languages.](https://www.nature.com/articles/s41586-024-08359-z) |SEAMLESSM4T is a single machine translation tool that supports speech-to-speech translation, speech-to-text translation, text-to-speech translation, text-to-text translation and automatic speech recognition between up to 100 languages. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
