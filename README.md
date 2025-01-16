@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The first AI chip startup to go public in 2025 will be Blaize.](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) |Blaize, an AI chip startup, is going public through a SPAC deal on Nasdaq, specializing in chips for edge applications. Though currently unprofitable, the company has $400 million in pipeline deals and aims for a $1.2 billion valuation post-merger. This reflects the rising trend of incorporating AI chips into physical products beyond data centers. |
 |[Meta AI creates speech-to-speech translator that works in dozens of languages.](https://www.nature.com/articles/d41586-025-00045-y) |Machine-learning system can process words spoken in 101 languages, spitting out voice-synthesized translations in 36 target languages. |
 |[Particle accelerators get an assist from AI co-pilots.](https://www.nature.com/articles/d41586-025-00005-6) |Large language models can propose fine-tuning adjustments for an electron accelerator in Germany. |
-|[.]() | |
+|[How would a Tiktok ban work in the US?](https://www.theguardian.com/technology/2025/jan/10/how-does-tiktok-ban-work) |Biden signed a law banning the app in January – if parent firm ByteDance fails to block it, here’s what could happen |
 |[.]() | |
 |[.]() | |
 |[.]() | |
