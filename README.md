@@ -157,8 +157,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Note to Our Energy Sucking Overlords.](https://www.ai-supremacy.com/p/note-to-our-energy-sucking-overlords) |The AI infrastructure boom is leading to a sharp rise in energy consumption, with data centers expected to account for up to 12% of U.S. power demand by 2028. Companies like OpenAI, Amazon, and Google are heavily investing in AI infrastructure, driving up energy costs and raising sustainability concerns. To meet these demands, traditional energy sources such as natural gas and nuclear are being considered, as renewable energy alone may not be sufficient in the short term. |
 |[OpenAI’s Board, Paraphrased: ‘To Succeed, All We Need Is Unimaginable Sums of Money’.](https://daringfireball.net/2024/12/openai_unimaginable) |OpenAI's board needs significant capital to stay competitive - its situation is similar to the investment bubble around Netscape in the 1990s. |
 |[Things we learned about LLMs in 2024.](https://simonwillison.net/2024/Dec/31/llms-in-2024/) |In 2024, several organizations outpaced OpenAI's GPT-4 with advancements in large language models, achieving breakthroughs in context length, multimodal capabilities, and efficiency. |
-|[.]() | |
-|[.]() | |
+|[AlphaFold 3 is great — but it still needs human help to get chemistry right.](https://www.nature.com/articles/d41586-025-00111-5) |Artificial intelligence (AI) tools such as AlphaFold 3 are revolutionizing the prediction of biomolecular structures. But as these models find their way into scientists’ daily workflows, significant limitations in how the models deal with stereochemistry (the spatial arrangement of atoms) are becoming apparent. |
+|[Striving for open-source and equitable speech-to-speech translation.](https://www.nature.com/articles/d41586-024-04095-6) | US technology company Meta has produced an AI model that can directly translate speech in one language to speech in another. Two scientists discuss the technical feats and ethical questions that underpin this advance in machine translation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
