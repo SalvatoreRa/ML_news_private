@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Red Hat Acquires Neural Magic.](https://www.redhat.com/en/about/press-releases/red-hat-completes-acquisition-neural-magic-fuel-optimized-generative-ai-innovation-across-hybrid-cloud) | Neural Magic is a key contributor to the vLLM project and has made significant advancements in sparse inference technologies.|
 |[Krafton and Nvidia team up to create smarter AI characters for PUBG and inZOI.](https://venturebeat.com/gaming-business/krafton-and-nvidia-team-up-to-create-smarter-ai-characters-for-pubg-and-inzoi/) | Nvidia and Krafton unveiled a groundbreaking on-device AI that will enable smarter AI characters for PUBG and inZoi.|
 |[The first AI chip startup to go public in 2025 will be Blaize.](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/) |Blaize, an AI chip startup, is going public through a SPAC deal on Nasdaq, specializing in chips for edge applications. Though currently unprofitable, the company has $400 million in pipeline deals and aims for a $1.2 billion valuation post-merger. This reflects the rising trend of incorporating AI chips into physical products beyond data centers. |
-|[.]() | |
-|[.]() | |
+|[Meta AI creates speech-to-speech translator that works in dozens of languages.](https://www.nature.com/articles/d41586-025-00045-y) |Machine-learning system can process words spoken in 101 languages, spitting out voice-synthesized translations in 36 target languages. |
+|[Particle accelerators get an assist from AI co-pilots.](https://www.nature.com/articles/d41586-025-00005-6) |Large language models can propose fine-tuning adjustments for an electron accelerator in Germany. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
