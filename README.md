@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Joint speech and text machine translation for up to 100 languages.](https://www.nature.com/articles/s41586-024-08359-z) |SEAMLESSM4T is a single machine translation tool that supports speech-to-speech translation, speech-to-text translation, text-to-speech translation, text-to-text translation and automatic speech recognition between up to 100 languages. |
 |[Metadata Conditioning Accelerates Language Model Pre-training.](https://arxiv.org/abs/2501.01956) |Recent research on generic pretraining has been limited, but this study demonstrates that incorporating metadata early in training and gradually reducing its influence towards the end enhances overall model performance. |
 |[Self-supervised Transformation Learning for Equivariant Representations.](https://arxiv.org/abs/2501.08712v1) |This approach introduces self-supervised transformation learning by substituting transformation labels with representations generated from image pairs. |
-|[.]() | |
+|[The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities.](https://github.com/ukplab/arxiv2025-inherent-limits-plms) | A study exploring whether instruction-tuned models possess fundamentally different capabilities from base models that are prompted using in-context examples.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,8 +142,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Kolors Virtual Try-On in the Wild.](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) | The Kolors image generation model combines a subject image and a garment image to simulate how an outfit would fit.|
 |[FAST: Efficient Robot Action Tokenization.](https://www.pi.website/research/fast) | Physical Intelligence has introduced an efficient action tokenizer used in its robust autoregressive policy for robotic control. The model provides a significantly improved representation of states by leveraging the same technology utilized in JPEG and MP4 compression techniques.|
 |[MonSter: Marry Monodepth to Stereo Unleashes Power.](https://arxiv.org/abs/2501.08643v1) |MonSter integrates monocular depth estimation and stereo matching in a dual-branch architecture to iteratively refine depth maps. Although slightly slower, it achieves up to 49% better performance compared to the strong baselines highlighted in the paper. |
-|[.]() | |
-|[.]() | |
+|[Coconut.](https://github.com/facebookresearch/coconut) | Meta teased an idea in a recent paper that allowed for model reasoning using a continuous latent space. It has released the code for the system.|
+|[Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design.](https://github.com/zz1358m/mcts-ahd-master) | MCTS-AHD utilizes Monte Carlo Tree Search to guide LLM-based heuristic evolution, maintaining all LLM-generated heuristics within a structured tree framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
