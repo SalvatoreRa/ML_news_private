@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How GPT learns layer by layer.](https://arxiv.org/abs/2501.07108v1) |This paper examines how LLMs construct internal world models, highlighting their significance in creating agents that exhibit consistent and adaptive behavior across various tasks. |
 |[Joint speech and text machine translation for up to 100 languages.](https://www.nature.com/articles/s41586-024-08359-z) |SEAMLESSM4T is a single machine translation tool that supports speech-to-speech translation, speech-to-text translation, text-to-speech translation, text-to-text translation and automatic speech recognition between up to 100 languages. |
 |[Metadata Conditioning Accelerates Language Model Pre-training.](https://arxiv.org/abs/2501.01956) |Recent research on generic pretraining has been limited, but this study demonstrates that incorporating metadata early in training and gradually reducing its influence towards the end enhances overall model performance. |
-|[.]() | |
+|[Self-supervised Transformation Learning for Equivariant Representations.](https://arxiv.org/abs/2501.08712v1) |This approach introduces self-supervised transformation learning by substituting transformation labels with representations generated from image pairs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,6 +140,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reliable Hardware Verification.](https://github.com/aiverification/neuralmc) | This project presents a machine learning-based approach to model checking for hardware verification, designed to provide formal guarantees that system executions comply with specified temporal logic requirements.|
 |[1 step video generation.](https://seaweed-apt.com/) |This research applies an adversarial post-training technique to convert an existing video model into a single-step generation system. The method effectively approximates consistency tuning, enabling the model to generate 2 seconds of high-quality video in real time. Note that the website may load slowly due to the large number of video samples. |
 |[Kolors Virtual Try-On in the Wild.](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) | The Kolors image generation model combines a subject image and a garment image to simulate how an outfit would fit.|
+|[FAST: Efficient Robot Action Tokenization.](https://www.pi.website/research/fast) | Physical Intelligence has introduced an efficient action tokenizer used in its robust autoregressive policy for robotic control. The model provides a significantly improved representation of states by leveraging the same technology utilized in JPEG and MP4 compression techniques.|
+|[MonSter: Marry Monodepth to Stereo Unleashes Power.](https://arxiv.org/abs/2501.08643v1) |MonSter integrates monocular depth estimation and stereo matching in a dual-branch architecture to iteratively refine depth maps. Although slightly slower, it achieves up to 49% better performance compared to the strong baselines highlighted in the paper. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
