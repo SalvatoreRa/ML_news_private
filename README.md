@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MonSter: Marry Monodepth to Stereo Unleashes Power.](https://arxiv.org/abs/2501.08643v1) |MonSter integrates monocular depth estimation and stereo matching in a dual-branch architecture to iteratively refine depth maps. Although slightly slower, it achieves up to 49% better performance compared to the strong baselines highlighted in the paper. |
 |[Coconut.](https://github.com/facebookresearch/coconut) | Meta teased an idea in a recent paper that allowed for model reasoning using a continuous latent space. It has released the code for the system.|
 |[Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design.](https://github.com/zz1358m/mcts-ahd-master) | MCTS-AHD utilizes Monte Carlo Tree Search to guide LLM-based heuristic evolution, maintaining all LLM-generated heuristics within a structured tree framework.|
-|[.]() | |
+|[AI-Crash-Course.](https://github.com/henrythe9th/ai-crash-course) |AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -174,7 +174,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Deepseek: The Quiet Giant Leading China’s AI Race.](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas) |Deepseek, a Chinese AI startup led by CEO Liang Wenfeng, has introduced the R1 model, which outperformed OpenAI's O1 on reasoning benchmarks. Supported by the quantitative hedge fund High-Flyer, Deepseek prioritizes research over commercialization and is committed to open sourcing. By offering competitive API rates, it has sparked price competition in China's AI market. Focused on AGI, the company emphasizes innovations like Multi-Head Latent Attention and Sparse Mixture-of-Experts, challenging traditional models and nurturing local tech talent in China's AI ecosystem. |
 |[Riffing on Machines of Loving Grace.](https://an1lam.substack.com/p/riffing-on-machines-of-loving-grace) | Dario Amodei's concept of "geniuses in a datacenter" envisions superhuman AI transforming biology, from molecular design to experimental planning. This AI could significantly accelerate progress in molecular engineering, addressing current bottlenecks and enabling new therapeutic platforms. Additionally, it has the potential to drive paradigm-shifting discoveries, challenging and reshaping existing scientific frameworks.|
 |[She Is in Love With ChatGPT.](https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html) | A 28-year-old woman with a busy social life spends hours on end talking to her A.I. boyfriend for advice and consolation. And yes, they do have sex.|
-|[.]() | |
+|[o3, Oh My.](https://thezvi.substack.com/p/o3-oh-my) |OpenAI's o3 model, unveiled during the "12 Days of Shipmas," marks a major advancement in AI reasoning, excelling on benchmarks like Codeforces and GPQA. While it showcases superhuman performance in coding and mathematics, concerns remain over its high compute costs and potential safety risks. OpenAI is actively recruiting safety researchers to address these challenges as o3 pushes the boundaries of AI capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
