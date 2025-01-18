@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI researcher François Chollet founds a new AI lab focused on AGI.](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/) | François Chollet, an influential AI researcher, is launching a new startup that aims to build frontier AI systems with novel designs.|
 |[Apheris rethinks the AI data bottleneck in life science with federated computing.](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/) |Apheris leverages federated computing to enable secure AI model training without transferring sensitive health data. The startup recently shifted its focus to serving data owners in pharma and life sciences, gaining traction with major clients like Roche. It has raised $8.25 million to support product development and expansion. |
 |[Google is forming a new team to build AI that can simulate the physical world.](https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/) | Google is establishing a new team led by Tim Brooks at DeepMind to create AI models that simulate the physical world, with an emphasis on real-time interactive generation.|
-|[.]() | |
-|[.]() | |
+|[Apple suspends AI-generated news alert service after BBC complaint.](https://www.theguardian.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint) |Inaccurate notices branded with broadcaster’s logo sent to iPhone users but tech firm works on improvements |
+|[Speedier drug trials and better films: how AI is transforming businesses.](https://www.theguardian.com/technology/2025/jan/17/speedier-drug-trials-and-better-films-how-ai-is-transforming-businesses) | From aviation to retail, many industries are already looking to artificial intelligence to improve productivity|
 |[.]() | |
 |[.]() | |
 |[.]() | |
