@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google is forming a new team to build AI that can simulate the physical world.](https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/) | Google is establishing a new team led by Tim Brooks at DeepMind to create AI models that simulate the physical world, with an emphasis on real-time interactive generation.|
 |[Apple suspends AI-generated news alert service after BBC complaint.](https://www.theguardian.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint) |Inaccurate notices branded with broadcaster’s logo sent to iPhone users but tech firm works on improvements |
 |[Speedier drug trials and better films: how AI is transforming businesses.](https://www.theguardian.com/technology/2025/jan/17/speedier-drug-trials-and-better-films-how-ai-is-transforming-businesses) | From aviation to retail, many industries are already looking to artificial intelligence to improve productivity|
-|[.]() | |
+|[AI-designed proteins tackle century-old problem — making snake antivenoms.](https://www.nature.com/articles/d41586-025-00133-z) | Machine learning has supercharged the field of computational protein design.|
 |[.]() | |
 |[.]() | |
 
