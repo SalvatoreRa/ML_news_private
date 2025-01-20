@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple suspends AI-generated news alert service after BBC complaint.](https://www.theguardian.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint) |Inaccurate notices branded with broadcaster’s logo sent to iPhone users but tech firm works on improvements |
 |[Foundations of Large Language Models.](https://arxiv.org/abs/2501.09223) |A new survey explores the foundations of large language models (LLMs), providing insights into key areas like pre-training techniques, prompting strategies, and alignment methods. |
 |[Enhancing Retrieval-Augmented Generation: A Study of Best Practices.](https://arxiv.org/abs/2501.07391) | This work systematically examines the factors and techniques that enhance Retrieval-Augmented Generation (RAG) systems, including retrieval strategies, query expansion, contrastive in-context learning, prompt design, and chunking methods. |
-|[.]() | |
-|[.]() | |
+|[AI startup Character AI tests games on the web.](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) | Character AI, a startup that lets users chat with different AI-powered characters, is now testing games on its desktop and mobile web apps to increase engagement on its platform.|
+|[Google.org Generative AI Accelerator 2025.](https://blog.google/outreach-initiatives/google-org/google-org-generative-ai-accelerator-2025/) |Google.org has introduced a Generative AI Accelerator to support innovative projects leveraging artificial intelligence to tackle global challenges. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
