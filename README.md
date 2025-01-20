@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MiniMax-01: Scaling Foundation Models with Lightning Attention.](https://arxiv.org/abs/2501.08313) |This series introduces new models incorporating Mixture-of-Experts (MoE), featuring a model with 32 experts and 456 billion parameters, with 45.9 billion activated per token. The models claim to match the performance of state-of-the-art systems like GPT-4o and |
 |[VideoRAG: Retrieval-Augmented Generation over Video Corpus.](https://arxiv.org/abs/2501.05874) | VideoRAG is a framework that enhances Retrieval-Augmented Generation (RAG) by incorporating video content as an external knowledge source. Unlike traditional RAG methods focused on text or images, VideoRAG dynamically retrieves relevant videos based on queries and integrates both visual and textual elements into the generation process. It employs Large Video Language Models (LVLMs) to directly process video content, capturing temporal dynamics, spatial details, and multimodal cues that static modalities often miss. For videos without textual descriptions, automatic speech recognition is used to generate transcripts, enabling the utilization of both visual and textual modalities effectively.|
 |[Titans: Learning to Memorize at Test Time.](https://arxiv.org/abs/2501.00663) |This approach introduces a neural long-term memory module to retain historical context, allowing attention mechanisms to focus on the current context while leveraging long-past information. The module provides a more persistent memory compared to attention alone, which is considered more short-term. Titan, a model built on this neural memory concept, demonstrates strong performance across language modeling, common-sense reasoning, genomics, and time series tasks. |
-|[.]() | |
+|[OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking.](https://arxiv.org/abs/2501.09751) |OmniThink is a new framework designed to emulate a human-like process of iterative expansion and reflection, simulating the cognitive behavior of learners as they deepen their understanding. Unlike RAG or role-playing methods, OmniThink continuously reflects and explores to expand knowledge boundaries, making it particularly well-suited for use cases requiring long-form content generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Apple suspends AI-generated news alert service after BBC complaint.](https://www.theguardian.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint) |Inaccurate notices branded with broadcaster’s logo sent to iPhone users but tech firm works on improvements |
-|[.]() | |
-|[.]() | |
+|[Foundations of Large Language Models.](https://arxiv.org/abs/2501.09223) |A new survey explores the foundations of large language models (LLMs), providing insights into key areas like pre-training techniques, prompting strategies, and alignment methods. |
+|[Enhancing Retrieval-Augmented Generation: A Study of Best Practices.](https://arxiv.org/abs/2501.07391) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
