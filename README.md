@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Apple suspends AI-generated news alert service after BBC complaint.](https://www.theguardian.com/technology/2025/jan/17/apple-suspends-ai-generated-news-alert-service-after-bbc-complaint) |Inaccurate notices branded with broadcaster’s logo sent to iPhone users but tech firm works on improvements |
 |[.]() | |
 |[.]() | |
 |[.]() | |
