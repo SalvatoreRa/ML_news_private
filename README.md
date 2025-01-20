@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling.](https://arxiv.org/abs/2501.09426) |AutoCBT is a multi-agent framework designed for Cognitive Behavioral Therapy (CBT), capable of generating high-quality responses for single-turn psychological consultation scenarios. It employs dynamic routing, memory, and supervisory mechanisms to enhance the autonomy of each agent. Experimental results demonstrate that AutoCBT delivers superior automated psychological counseling services, outperforming other purely prompt-based frameworks in dialogue quality. |
 |[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought.](https://arxiv.org/abs/2501.07542) | MVoT (Multimodal Visualization-of-Thought) is an innovative reasoning framework that allows AI models to reason using both text and images. By enhancing traditional Chain-of-Thought prompting, MVoT enables models to generate visual representations of their reasoning steps alongside textual explanations. Implemented in the multimodal language model Chameleon-7B, MVoT incorporates a "token discrepancy loss" to improve the quality of visualizations. The framework outperforms traditional methods, excelling in complex scenarios and achieving over 90% accuracy on tasks such as maze navigation and printer installation.|
 |[ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning.](https://arxiv.org/abs/2501.06590) |This framework enhances LLM performance in chemical reasoning through a dynamic, self-updating library. It works by decomposing chemical tasks into sub-tasks and organizing them into a structured, reusable collection for future queries. When presented with a new problem, the system retrieves and refines relevant library information to improve task decomposition. The library is continuously updated with new sub-tasks and solutions as they are validated. Experiments on SciBench show that ChemAgent achieves up to a 46% performance improvement (GPT-4), significantly surpassing existing approaches. |
-|[.]() | |
+|[Samsung spreads Vision AI across its 2025 TV portfolio.](https://venturebeat.com/ai/samsung-spreads-vision-ai-across-its-2025-tv-portfolio/) | Samsung said that AI will come to life in more ways than just great picture quality. The company is introducing AI-backed experiences to make your day simpler, more dynamic, and just plain better.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -153,7 +153,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Why context-aware AI agents will give us superpowers in 2025.](https://venturebeat.com/ai/why-context-aware-ai-agents-will-give-us-superpowers-in-2025/) | By 2025, tech giants will transition from selling tools to delivering "augmented mentality," enhancing human abilities with AI, AR, and conversational computing. By 2030, context-aware AI in wearable devices is expected to offer superhuman capabilities, predicting users' needs and integrating seamlessly into everyday life. Companies like Meta and Google are poised to lead this shift, but careful regulation will be crucial to prevent misuse and ensure responsible implementation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
