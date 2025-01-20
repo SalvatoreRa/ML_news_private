@@ -83,8 +83,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI startup Character AI tests games on the web.](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/) | Character AI, a startup that lets users chat with different AI-powered characters, is now testing games on its desktop and mobile web apps to increase engagement on its platform.|
 |[Google.org Generative AI Accelerator 2025.](https://blog.google/outreach-initiatives/google-org/google-org-generative-ai-accelerator-2025/) |Google.org has introduced a Generative AI Accelerator to support innovative projects leveraging artificial intelligence to tackle global challenges. |
 |[Amazon Pauses US Drone Deliveries Following Crashes.](https://www.yahoo.com/tech/report-amazon-pauses-us-drone-132943040.html) |Amazon has paused US drone deliveries following a crash involving two drones in Arizona. |
-|[.]() | |
-|[.]() | |
+|[Avataar releases new tool to create AI-generated videos for products.](https://techcrunch.com/2025/01/06/avataar-releases-new-tool-to-create-ai-generated-videos-for-products/) | Avataar has introduced Velocity, an AI-powered tool for creating product videos from links, catering to brands with limited video budgets. Backed by Peak XV and Tiger Global, the tool is already used by clients like HP and Victoria's Secret. Avataar leverages data from 3D models to ensure glitch-free videos, aiming to enhance conversion rates and stand out in the market.|
+|[HP unveils a range of AI desktops and laptops at AMD/Intel events at CES.](https://venturebeat.com/games/hp-unveils-a-range-of-ai-desktops-and-laptops-at-amd-intel-events-at-ces/) | HP announced a number of new AI and gaming computers during the Advanced Micro Devices and Intel press events at CES 2025 today.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
