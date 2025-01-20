@@ -85,8 +85,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon Pauses US Drone Deliveries Following Crashes.](https://www.yahoo.com/tech/report-amazon-pauses-us-drone-132943040.html) |Amazon has paused US drone deliveries following a crash involving two drones in Arizona. |
 |[Avataar releases new tool to create AI-generated videos for products.](https://techcrunch.com/2025/01/06/avataar-releases-new-tool-to-create-ai-generated-videos-for-products/) | Avataar has introduced Velocity, an AI-powered tool for creating product videos from links, catering to brands with limited video budgets. Backed by Peak XV and Tiger Global, the tool is already used by clients like HP and Victoria's Secret. Avataar leverages data from 3D models to ensure glitch-free videos, aiming to enhance conversion rates and stand out in the market.|
 |[HP unveils a range of AI desktops and laptops at AMD/Intel events at CES.](https://venturebeat.com/games/hp-unveils-a-range-of-ai-desktops-and-laptops-at-amd-intel-events-at-ces/) | HP announced a number of new AI and gaming computers during the Advanced Micro Devices and Intel press events at CES 2025 today.|
-|[.]() | |
-|[.]() | |
+|[MeetKai provides AI for smart glasses with embedded OS.](https://venturebeat.com/games/meetkai-provides-ai-for-smart-glasses-with-embedded-os/) | MeetKai, a startup with AI and immersive technology, is launching an AI-based OS as software for AI-powered smart glasses.|
+|[UK uses AI to tackle ‘bid-rigging’ collusion in public procurement contracts.](https://techcrunch.com/2025/01/06/uk-uses-ai-to-tackle-bid-rigging-collusion-in-public-procurement-contracts/) |The U.K.'s CMA is using AI to tackle bid-rigging in public procurement by analyzing data for collusive bidding practices. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
