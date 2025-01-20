@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Foundations of Large Language Models.](https://arxiv.org/abs/2501.09223) |A new survey explores the foundations of large language models (LLMs), providing insights into key areas like pre-training techniques, prompting strategies, and alignment methods. |
 |[Enhancing Retrieval-Augmented Generation: A Study of Best Practices.](https://arxiv.org/abs/2501.07391) | This work systematically examines the factors and techniques that enhance Retrieval-Augmented Generation (RAG) systems, including retrieval strategies, query expansion, contrastive in-context learning, prompt design, and chunking methods. |
 |[LMMRotate 🎮: A Simple Aerial Detection Baseline of Multimodal Language Models.](https://github.com/li-qingyun/mllm-mmrotate) |This repo is a technical practice to fine-tune large multimodal language models for oriented object detection. |
-|[.]() | |
-|[.]() | |
+|[Easy dictionary learning.](https://github.com/saprmarks/dictionary_learning/blob/main/trainers/top_k.py) |Numerous robust toolkits exist for training SAEs, but this one stands out as the simplest and most hackable implementation available. It includes sensible baselines that deliver strong performance. |
+|[Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attack.](https://github.com/neurht/neurht) | malicious users may exploit query interfaces to execute model extraction attacks, reconstructing the target model's functionality locally.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
