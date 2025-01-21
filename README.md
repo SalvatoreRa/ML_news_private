@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[HP unveils a range of AI desktops and laptops at AMD/Intel events at CES.](https://venturebeat.com/games/hp-unveils-a-range-of-ai-desktops-and-laptops-at-amd-intel-events-at-ces/) | HP announced a number of new AI and gaming computers during the Advanced Micro Devices and Intel press events at CES 2025 today.|
 |[MeetKai provides AI for smart glasses with embedded OS.](https://venturebeat.com/games/meetkai-provides-ai-for-smart-glasses-with-embedded-os/) | MeetKai, a startup with AI and immersive technology, is launching an AI-based OS as software for AI-powered smart glasses.|
 |[UK uses AI to tackle ‘bid-rigging’ collusion in public procurement contracts.](https://techcrunch.com/2025/01/06/uk-uses-ai-to-tackle-bid-rigging-collusion-in-public-procurement-contracts/) |The U.K.'s CMA is using AI to tackle bid-rigging in public procurement by analyzing data for collusive bidding practices. |
-|[.]() | |
-|[.]() | |
+|[‘It’s a nightmare’: couriers mystified by the algorithms that control their jobs.](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs) |From pay shortfalls to being dropped by apps, drivers face a range of issues – often with no way to fix them |
+|[Robot packers and AI cameras: UK retail embraces automation to cut staff costs.](https://www.theguardian.com/business/2025/jan/21/robot-packers-and-ai-cameras-uk-retail-embraces-automation-to-cut-staff-costs) | From electronic shelf labels to more self-service checkouts, automation is coming to your local supermarket|
 |[.]() | |
 |[.]() | |
 |[.]() | |
