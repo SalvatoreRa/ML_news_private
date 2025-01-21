@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK uses AI to tackle ‘bid-rigging’ collusion in public procurement contracts.](https://techcrunch.com/2025/01/06/uk-uses-ai-to-tackle-bid-rigging-collusion-in-public-procurement-contracts/) |The U.K.'s CMA is using AI to tackle bid-rigging in public procurement by analyzing data for collusive bidding practices. |
 |[‘It’s a nightmare’: couriers mystified by the algorithms that control their jobs.](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs) |From pay shortfalls to being dropped by apps, drivers face a range of issues – often with no way to fix them |
 |[Robot packers and AI cameras: UK retail embraces automation to cut staff costs.](https://www.theguardian.com/business/2025/jan/21/robot-packers-and-ai-cameras-uk-retail-embraces-automation-to-cut-staff-costs) | From electronic shelf labels to more self-service checkouts, automation is coming to your local supermarket|
-|[.]() | |
-|[.]() | |
+|[DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks.](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) |Chinese AI lab DeepSeek has released an open version of DeepSeek-R1, its so-called reasoning model, that it claims performs as well as OpenAI’s o1 on certain AI benchmarks. |
+|[OpenAI quietly funded independent math benchmark before setting record with o3.](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/) | OpenAI achieved a groundbreaking success with its o3 model on the FrontierMath benchmark, which also brought to light its previously undisclosed financial support for the project. While the model excelled in solving advanced mathematical challenges, the benchmark's developer, Epoch AI, acknowledged a lack of transparency. Future partnerships aim to enhance openness, especially in areas such as funding and data accessibility.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
