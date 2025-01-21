@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Robot packers and AI cameras: UK retail embraces automation to cut staff costs.](https://www.theguardian.com/business/2025/jan/21/robot-packers-and-ai-cameras-uk-retail-embraces-automation-to-cut-staff-costs) | From electronic shelf labels to more self-service checkouts, automation is coming to your local supermarket|
 |[DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks.](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) |Chinese AI lab DeepSeek has released an open version of DeepSeek-R1, its so-called reasoning model, that it claims performs as well as OpenAI’s o1 on certain AI benchmarks. |
 |[OpenAI quietly funded independent math benchmark before setting record with o3.](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/) | OpenAI achieved a groundbreaking success with its o3 model on the FrontierMath benchmark, which also brought to light its previously undisclosed financial support for the project. While the model excelled in solving advanced mathematical challenges, the benchmark's developer, Epoch AI, acknowledged a lack of transparency. Future partnerships aim to enhance openness, especially in areas such as funding and data accessibility.|
-|[.]() | |
+|[Perplexity AI submits bid to merge with TikTok.](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/) |With a TikTok ban looming in the United States, Perplexity AI is the latest bidder hoping to give the video app a new corporate home. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
