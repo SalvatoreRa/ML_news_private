@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpticFusion: Multi-Modal Neural Implicit 3D Reconstruction of Microstructures by Fusing White Light Interferometry and Optical Microscopy.](https://arxiv.org/abs/2501.09259v1) |OpticFusion is a multimodal neural implicit 3D reconstruction of microstructures that fuses white light interferometry and optical microscopy. |
 |[DeepSeek-R1 paper.](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) | DeepSeek has published a paper alongside its powerful reasoning models, which are available under an MIT license. The study highlights that highly complex process reward models are unnecessary. Instead, DeepSeek relied on answer accuracy, a formatting reward, and large-scale reinforcement learning to promote reasoning within the model. Moreover, the team discovered that transferring this reasoning capability to smaller models through supervised fine-tuning resulted in a remarkable improvement in overall performance.|
 |[CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation.](https://ncsoft.github.io/CaPa/) |CaPa can create high-quality 4K textured meshes in less than 30 seconds, making it ideal for producing 3D assets for commercial uses like games, movies, and VR/AR experiences. |
-|[.]() | |
+|[CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities.](https://github.com/hzxie/CityDreamer4D) |CityDreamer4D is a platform designed to generate detailed 4D simulations of urban settings, facilitating enhanced planning and analysis for smart city initiatives. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
