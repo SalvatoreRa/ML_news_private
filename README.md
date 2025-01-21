@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LMMRotate 🎮: A Simple Aerial Detection Baseline of Multimodal Language Models.](https://github.com/li-qingyun/mllm-mmrotate) |This repo is a technical practice to fine-tune large multimodal language models for oriented object detection. |
 |[Easy dictionary learning.](https://github.com/saprmarks/dictionary_learning/blob/main/trainers/top_k.py) |Numerous robust toolkits exist for training SAEs, but this one stands out as the simplest and most hackable implementation available. It includes sensible baselines that deliver strong performance. |
 |[Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attack.](https://github.com/neurht/neurht) | malicious users may exploit query interfaces to execute model extraction attacks, reconstructing the target model's functionality locally.|
-|[.]() | |
-|[.]() | |
+|[OpticFusion: Multi-Modal Neural Implicit 3D Reconstruction of Microstructures by Fusing White Light Interferometry and Optical Microscopy.](https://arxiv.org/abs/2501.09259v1) |OpticFusion is a multimodal neural implicit 3D reconstruction of microstructures that fuses white light interferometry and optical microscopy. |
+|[DeepSeek-R1 paper.](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) | DeepSeek has published a paper alongside its powerful reasoning models, which are available under an MIT license. The study highlights that highly complex process reward models are unnecessary. Instead, DeepSeek relied on answer accuracy, a formatting reward, and large-scale reinforcement learning to promote reasoning within the model. Moreover, the team discovered that transferring this reasoning capability to smaller models through supervised fine-tuning resulted in a remarkable improvement in overall performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
