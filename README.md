@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Samsung spreads Vision AI across its 2025 TV portfolio.](https://venturebeat.com/ai/samsung-spreads-vision-ai-across-its-2025-tv-portfolio/) | Samsung said that AI will come to life in more ways than just great picture quality. The company is introducing AI-backed experiences to make your day simpler, more dynamic, and just plain better.|
 |[AI tool can give ministers ‘vibe check’ on whether MPs will like policies.](https://www.theguardian.com/technology/2025/jan/20/ai-tool-can-give-ministers-vibe-check-on-whether-mps-will-like-policies) |Parlex is one of several artificial intelligence systems being developed within the government |
 |[The Brutalist and Emilia Perez’s voice-cloning controversies make AI the new awards season battleground.](https://www.theguardian.com/film/2025/jan/20/the-brutalist-and-emilia-perezs-voice-cloning-controversies-make-ai-the-new-awards-season-battleground) | Two leading contenders for Oscars this year have revealed use of artificial intelligence in the editing suite – will it affect their chances?|
-|[.]() | |
+|[Evolving Deeper LLM Thinking.](https://arxiv.org/abs/2501.09891) |Unlike the straightforward R1 approach, DeepMind's work employs an evolutionary strategy, where a language model guides the modification and generation of new responses. This method enhances reasoning capabilities, particularly in planning tasks that involve an element of exploration. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attack.](https://github.com/neurht/neurht) | malicious users may exploit query interfaces to execute model extraction attacks, reconstructing the target model's functionality locally.|
 |[OpticFusion: Multi-Modal Neural Implicit 3D Reconstruction of Microstructures by Fusing White Light Interferometry and Optical Microscopy.](https://arxiv.org/abs/2501.09259v1) |OpticFusion is a multimodal neural implicit 3D reconstruction of microstructures that fuses white light interferometry and optical microscopy. |
 |[DeepSeek-R1 paper.](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) | DeepSeek has published a paper alongside its powerful reasoning models, which are available under an MIT license. The study highlights that highly complex process reward models are unnecessary. Instead, DeepSeek relied on answer accuracy, a formatting reward, and large-scale reinforcement learning to promote reasoning within the model. Moreover, the team discovered that transferring this reasoning capability to smaller models through supervised fine-tuning resulted in a remarkable improvement in overall performance.|
-|[.]() | |
+|[CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation.](https://ncsoft.github.io/CaPa/) |CaPa can create high-quality 4K textured meshes in less than 30 seconds, making it ideal for producing 3D assets for commercial uses like games, movies, and VR/AR experiences. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Why context-aware AI agents will give us superpowers in 2025.](https://venturebeat.com/ai/why-context-aware-ai-agents-will-give-us-superpowers-in-2025/) | By 2025, tech giants will transition from selling tools to delivering "augmented mentality," enhancing human abilities with AI, AR, and conversational computing. By 2030, context-aware AI in wearable devices is expected to offer superhuman capabilities, predicting users' needs and integrating seamlessly into everyday life. Companies like Meta and Google are poised to lead this shift, but careful regulation will be crucial to prevent misuse and ensure responsible implementation.|
-|[.]() | |
+|[AI hallucinations can’t be stopped — but these techniques can limit their damage.](https://www.nature.com/articles/d41586-025-00068-5) | Developers have tricks to stop artificial intelligence from making things up, but large language models are still struggling to tell the truth, the whole truth and nothing but the truth.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
