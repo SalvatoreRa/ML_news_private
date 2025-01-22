@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trump unveils $500bn joint AI venture between OpenAI, Oracle and SoftBank.](https://www.theguardian.com/us-news/2025/jan/21/trump-ai-joint-venture-openai-oracle-softbank) |Dubbed Stargate, it aims to construct data centers and infrastructure needed to power AI development |
 |[Buzzy French AI startup Mistral isn't for sale and plans to IPO, its CEO says.](https://finance.yahoo.com/news/buzzy-french-ai-startup-mistral-133915078.html) |Mistral, a French AI startup, intends to pursue an initial public offering rather than an acquisition. With significant funding secured, it is strategically positioned to serve clients worldwide, with a particular focus on European businesses. |
 |[Get ready for virtual AI cohosts that chat with Twitch stars and control their streams.](https://www.theverge.com/2025/1/6/24335356/virtual-ai-intelligent-streaming-assistant-inworld-streamlabs-nvidia) |The ‘Intelligent Streaming Assistant’ can make quips about your Fortnite gameplay, but so far it looks like an awkward AI avatar. |
-|[.]() | |
-|[.]() | |
+|[Microsoft makes powerful Phi-4 model fully open-source on Hugging Face.](https://venturebeat.com/ai/microsoft-makes-powerful-phi-4-model-fully-open-source-on-hugging-face/) | Microsoft has open-sourced its Phi-4 model on Hugging Face, earning recognition for its efficiency and strong performance in reasoning tasks.|
+|[AI uses throat vibrations to work out what someone is trying to say.](https://www.newscientist.com/article/2458385-ai-uses-throat-vibrations-to-work-out-what-someone-is-trying-to-say/) | Throat vibrations made by people who find it difficult to speak, such as after a stroke, can be analysed by AI and used to create sentences|
 |[.]() | |
 |[.]() | |
 |[.]() | |
