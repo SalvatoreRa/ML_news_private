@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hardware Accelerator Design Learning.](https://github.com/maestro-project/airchitect-v2) |AIRCHITECT V2 is a learning-driven tool designed to explore design spaces and address the complexities of optimizing hardware accelerators for deep neural networks. |
 |[Laion's Bud-E AI Assisted Education.](https://laion.ai/blog/bud-e-release/) | Bud-E is a system developed by Laion that can assist with educational queries in a more empathic and personalized way.|
 |[deepseek-ai/DeepSeek-R1.](https://huggingface.co/deepseek-ai/DeepSeek-R1) |Weights to the full R1 model, which is 600B+ parameters. |
-|[.]() | |
+|[FoundationStereo: Zero-Shot Stereo Matching.](https://nvlabs.github.io/FoundationStereo/) |NVIDIA introduces an innovative method that integrates foundation models with stereo matching techniques to improve 3D perception in robots and autonomous vehicles. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -156,7 +156,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why context-aware AI agents will give us superpowers in 2025.](https://venturebeat.com/ai/why-context-aware-ai-agents-will-give-us-superpowers-in-2025/) | By 2025, tech giants will transition from selling tools to delivering "augmented mentality," enhancing human abilities with AI, AR, and conversational computing. By 2030, context-aware AI in wearable devices is expected to offer superhuman capabilities, predicting users' needs and integrating seamlessly into everyday life. Companies like Meta and Google are poised to lead this shift, but careful regulation will be crucial to prevent misuse and ensure responsible implementation.|
 |[AI hallucinations can’t be stopped — but these techniques can limit their damage.](https://www.nature.com/articles/d41586-025-00068-5) | Developers have tricks to stop artificial intelligence from making things up, but large language models are still struggling to tell the truth, the whole truth and nothing but the truth.|
 |[AI can improve on code it writes, but you have to know how to ask.](https://www.theregister.com/2025/01/07/ai_can_write_improved_code_research/) | Large language models (LLMs) will write better code if you ask them, though it takes some software development experience to do so effectively – which limits the utility of AI code help for novices.|
-|[.]() | |
+|[How has DeepSeek improved the Transformer architecture?](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture) |DeepSeek stands out as one of the few open model providers making significant advancements in the core architecture of its generative models. Its innovations stem not from brute force methods but from a deep understanding of the Transformer's mechanics, leveraging that knowledge to refine and enhance its capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
