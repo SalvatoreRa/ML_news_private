@@ -57,9 +57,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI tool can give ministers ‘vibe check’ on whether MPs will like policies.](https://www.theguardian.com/technology/2025/jan/20/ai-tool-can-give-ministers-vibe-check-on-whether-mps-will-like-policies) |Parlex is one of several artificial intelligence systems being developed within the government |
 |[The Brutalist and Emilia Perez’s voice-cloning controversies make AI the new awards season battleground.](https://www.theguardian.com/film/2025/jan/20/the-brutalist-and-emilia-perezs-voice-cloning-controversies-make-ai-the-new-awards-season-battleground) | Two leading contenders for Oscars this year have revealed use of artificial intelligence in the editing suite – will it affect their chances?|
 |[Evolving Deeper LLM Thinking.](https://arxiv.org/abs/2501.09891) |Unlike the straightforward R1 approach, DeepMind's work employs an evolutionary strategy, where a language model guides the modification and generation of new responses. This method enhances reasoning capabilities, particularly in planning tasks that involve an element of exploration. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[A Toolkit for Landmark Localization.](https://arxiv.org/abs/2501.10098v1) |This paper presents "landmarker," a Python package based on PyTorch, providing a versatile toolkit for creating and assessing landmark localization algorithms. |
+|[Universal Actions for Enhanced Embodied Foundation Models.](https://2toinf.github.io/UniAct/) | UniAct is a new embodied foundation modeling framework that operates in the Universal Action Space.|
+|[Dolphin 3.0 Llama 3.1 8B.](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B) |The Dolphin model, based on Llama 3.1 8B, has been trained to follow instructions through the system prompt. This enables it to excel in handling diverse personas and roleplay scenarios while retaining much of the core capabilities of the original Llama model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
