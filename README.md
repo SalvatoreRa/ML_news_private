@@ -60,9 +60,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Toolkit for Landmark Localization.](https://arxiv.org/abs/2501.10098v1) |This paper presents "landmarker," a Python package based on PyTorch, providing a versatile toolkit for creating and assessing landmark localization algorithms. |
 |[Universal Actions for Enhanced Embodied Foundation Models.](https://2toinf.github.io/UniAct/) | UniAct is a new embodied foundation modeling framework that operates in the Universal Action Space.|
 |[Dolphin 3.0 Llama 3.1 8B.](https://huggingface.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B) |The Dolphin model, based on Llama 3.1 8B, has been trained to follow instructions through the system prompt. This enables it to excel in handling diverse personas and roleplay scenarios while retaining much of the core capabilities of the original Llama model. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Surgical Foundation Models.](https://github.com/timjaspers0801/surgenet) | SurgeNet is an innovative surgical foundation model that establishes a new standard in surgical computer vision.|
+|[Personal AI Trainer With Automatic Exercise Recognition and Counting.](https://github.com/riccardoriccio/fitness-ai-trainer-with-automatic-exercise-recognition-and-counting) | This project offers an intuitive web interface to make tracking workouts easier and more effective.|
+|[DETRIS: Parameter-Efficient Tuning Framework.](https://github.com/jiaqihuang01/DETRIS) | DETRIS improves visual feature propagation in misaligned encoders for multimodal tasks by utilizing dense interconnections and text adapters.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
