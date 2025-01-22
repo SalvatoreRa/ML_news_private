@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta Faces Backlash Over AI Profiles.](https://www.forbes.com/sites/rashishrivastava/2025/01/07/the-prompt-meta-faces-backlash-over-ai-profiles/) |Meta aims to shift from traditional fact-checkers to a community notes system and AI for content moderation. GPTZero has introduced a tool for verifying AI-generated content, while Anthropic, an AI startup, is pursuing $2 billion in funding at a $60 billion valuation. Meanwhile, Jeff Bezos continues investing in AI startups, with a particular interest in robotics firms. |
 |[Nvidia unveils $3,000 desktop AI computer for home researchers.](https://arstechnica.com/ai/2025/01/nvidias-first-desktop-pc-can-run-local-ai-models-for-3000/) | Nvidia's Project DIGITS, a $3,000 desktop device debuting at CES 2025, allows users to run AI models with up to 200 billion parameters locally.|
 |[Trump unveils $500bn joint AI venture between OpenAI, Oracle and SoftBank.](https://www.theguardian.com/us-news/2025/jan/21/trump-ai-joint-venture-openai-oracle-softbank) |Dubbed Stargate, it aims to construct data centers and infrastructure needed to power AI development |
-|[.]() | |
+|[Buzzy French AI startup Mistral isn't for sale and plans to IPO, its CEO says.](https://finance.yahoo.com/news/buzzy-french-ai-startup-mistral-133915078.html) |Mistral, a French AI startup, intends to pursue an initial public offering rather than an acquisition. With significant funding secured, it is strategically positioned to serve clients worldwide, with a particular focus on European businesses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
