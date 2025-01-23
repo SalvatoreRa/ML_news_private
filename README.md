@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft is no longer OpenAI’s exclusive cloud provider.](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) |Microsoft is no longer OpenAI's exclusive cloud provider, opening the door for OpenAI to form partnerships with other cloud service providers. |
 |[More teens say they're using ChatGPT for schoolwork, a new study finds.](https://www.npr.org/2025/01/18/g-s1-43115/chatgpt-teen-school-homework-classroom-ai) | A Pew Research Center poll shows that 26% of teens now rely on ChatGPT for homework help, a figure that has doubled since last year. While 54% are comfortable using AI for research purposes, only 18% approve of it for essay writing. Although schools initially implemented bans, many districts have since relaxed restrictions on classroom AI use.|
 |[Google is building its own ‘world modeling’ AI team for games and robot training.](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training) |Google DeepMind is assembling a team, led by Tim Brooks, to create AI "world models" for simulating physical environments. These models are designed to improve real-time interactive media and training applications, supporting Google's broader goal of achieving AGI. The effort will work in tandem with existing Google AI initiatives such as Gemini and Veo. |
-|[.]() | |
-|[.]() | |
+|[Nvidia's Huang Sees AI Robots Boosting Manufacturing.](https://www.bloomberg.com/news/videos/2025-01-07/nvidia-s-huang-sees-ai-robots-boosting-manufacturing) |Nvidia CEO Jensen Huang predicts that AI robots will initially transform manufacturing by increasing productivity and recovering lost revenues, ultimately helping to lower inflation. |
+|[DDN Nabs $300M From Blackstone As AI Keeps Data Storage Hot.](https://news.crunchbase.com/ai/pe-data-storage-ddn-blackstone/) | Blackstone is investing $300 million in data storage firm DDN, valuing it at $5 billion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
