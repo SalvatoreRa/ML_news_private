@@ -131,9 +131,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Byte Level Models at Scale.](https://sambanova.ai/resources/tag/blog) |EvaByte, developed by SambaNova, is a byte-level language model that achieves performance comparable to older models like Llama 2. While this may appear modest, it represents significant progress for byte-level models, which have long been limited to sub-1B parameter scales. |
 |[TREAD: Token Routing for Efficient Architecture-agnostic Diffusion Training.](https://arxiv.org/abs/2501.04765) |A novel approach to improved sample efficiency for Diffusion models that doesn't involve modifications to the underlying architecture. |
 |[Machine learning applications in archaeological practices: a review.](https://arxiv.org/abs/2501.03840v2) |A comprehensive review of machine learning applications in archaeological practices. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[MedSSS.](https://github.com/pixas/medsss) |MedSSS is a slow-thinking small medical language model built with a self-evolution pipeline. |
+|[MTU-Bench.](https://github.com/MTU-Bench-Team/MTU-Bench/) |MTU-Bench is a newly developed benchmark aimed at assessing the tool-use abilities of large language models across diverse scenarios. |
+|[MMAudio.](https://github.com/hkchengrex/MMAudio) |MMAudio is a system that generates audio from videos, creating paired audio that matches the video's content. It performs effectively with both synthetic and real video inputs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
