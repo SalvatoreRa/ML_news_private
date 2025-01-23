@@ -128,9 +128,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Laion's Bud-E AI Assisted Education.](https://laion.ai/blog/bud-e-release/) | Bud-E is a system developed by Laion that can assist with educational queries in a more empathic and personalized way.|
 |[deepseek-ai/DeepSeek-R1.](https://huggingface.co/deepseek-ai/DeepSeek-R1) |Weights to the full R1 model, which is 600B+ parameters. |
 |[FoundationStereo: Zero-Shot Stereo Matching.](https://nvlabs.github.io/FoundationStereo/) |NVIDIA introduces an innovative method that integrates foundation models with stereo matching techniques to improve 3D perception in robots and autonomous vehicles. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Efficient Byte Level Models at Scale.](https://sambanova.ai/resources/tag/blog) |EvaByte, developed by SambaNova, is a byte-level language model that achieves performance comparable to older models like Llama 2. While this may appear modest, it represents significant progress for byte-level models, which have long been limited to sub-1B parameter scales. |
+|[TREAD: Token Routing for Efficient Architecture-agnostic Diffusion Training.](https://arxiv.org/abs/2501.04765) |A novel approach to improved sample efficiency for Diffusion models that doesn't involve modifications to the underlying architecture. |
+|[Machine learning applications in archaeological practices: a review.](https://arxiv.org/abs/2501.03840v2) |A comprehensive review of machine learning applications in archaeological practices. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
