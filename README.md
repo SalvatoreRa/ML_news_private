@@ -103,6 +103,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI's Stargate Project .](https://openai.com/index/announcing-the-stargate-project/) | The Stargate Project, a newly established company, plans to invest $500 billion over the next four years to develop advanced AI infrastructure for OpenAI within the United States.|
 |[Microsoft is no longer OpenAI’s exclusive cloud provider.](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) |Microsoft is no longer OpenAI's exclusive cloud provider, opening the door for OpenAI to form partnerships with other cloud service providers. |
 |[More teens say they're using ChatGPT for schoolwork, a new study finds.](https://www.npr.org/2025/01/18/g-s1-43115/chatgpt-teen-school-homework-classroom-ai) | A Pew Research Center poll shows that 26% of teens now rely on ChatGPT for homework help, a figure that has doubled since last year. While 54% are comfortable using AI for research purposes, only 18% approve of it for essay writing. Although schools initially implemented bans, many districts have since relaxed restrictions on classroom AI use.|
+|[Google is building its own ‘world modeling’ AI team for games and robot training.](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training) |Google DeepMind is assembling a team, led by Tim Brooks, to create AI "world models" for simulating physical environments. These models are designed to improve real-time interactive media and training applications, supporting Google's broader goal of achieving AGI. The effort will work in tandem with existing Google AI initiatives such as Gemini and Veo. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -163,8 +175,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How should we test AI for human-level intelligence? OpenAI’s o3 electrifies quest.](https://www.nature.com/articles/d41586-025-00110-6) |Experimental model’s record-breaking performance on science and maths tests wows researchers. |
 |[Why AI will never be able to acquire human-level intelligence.](https://www.nature.com/articles/d41586-025-00170-8) | A comment in Nature on the topic|
 |[AI learns from chromatin data to uncover gene interactions.](https://www.nature.com/articles/d41586-024-04107-5) | An artificial-intelligence model trained on data about where DNA is tightly packaged and where it is open to regulators can predict gene expression and interactions between transcription factors that regulate key genes.|
-|[.]() | |
-|[.]() | |
+|[Harnessing AI to respond to the global threat of antimicrobial resistance.](https://www.eurekalert.org/news-releases/1069695) |AMR-Policy GPT is an AI tool leveraging large language models to support antimicrobial resistance policy creation in 146 countries. It helps policymakers access context-specific insights, enhancing National Action Plans, particularly in areas with limited local data or infrastructure. The initiative is co-led by researchers from the Chinese Academy of Sciences and Durham University. |
+|[The Download: what’s next for AI, and stem-cell therapies.](https://www.technologyreview.com/2025/01/08/1109860/the-download-whats-next-for-ai-and-stem-cell-therapies/) | By 2025, AI is expected to see progress in personalized agents, generative video, and multipurpose robots. Meanwhile, Meta is moving away from professional fact-checkers, transferring the responsibility to users, a shift that has raised concerns among former collaborators. Additionally, MIT Technology Review has identified emerging stem-cell therapies as one of the top ten breakthrough technologies for 2025.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
