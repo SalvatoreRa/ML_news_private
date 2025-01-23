@@ -162,7 +162,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Researchers Can Create an AI That Thinks a Lot Like You After Just a Two-Hour Interview.](https://gizmodo.com/google-researchers-can-create-an-ai-that-thinks-a-lot-like-you-after-just-a-two-hour-interview-2000547704) | Stanford researchers, in collaboration with Google DeepMind, developed AI agents that mimic human behavior with 85% accuracy by interviewing 1,052 individuals through a custom interface. These agents aim to assist decision-makers in gauging public opinions by simulating reactions to policies and product launches. Although the agents performed strongly on personality tests, they faced challenges in accurately replicating human decisions in economic games.|
 |[How should we test AI for human-level intelligence? OpenAI’s o3 electrifies quest.](https://www.nature.com/articles/d41586-025-00110-6) |Experimental model’s record-breaking performance on science and maths tests wows researchers. |
 |[Why AI will never be able to acquire human-level intelligence.](https://www.nature.com/articles/d41586-025-00170-8) | A comment in Nature on the topic|
-|[.]() | |
+|[AI learns from chromatin data to uncover gene interactions.](https://www.nature.com/articles/d41586-024-04107-5) | An artificial-intelligence model trained on data about where DNA is tightly packaged and where it is open to regulators can predict gene expression and interactions between transcription factors that regulate key genes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
