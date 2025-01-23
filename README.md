@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MedSSS.](https://github.com/pixas/medsss) |MedSSS is a slow-thinking small medical language model built with a self-evolution pipeline. |
 |[MTU-Bench.](https://github.com/MTU-Bench-Team/MTU-Bench/) |MTU-Bench is a newly developed benchmark aimed at assessing the tool-use abilities of large language models across diverse scenarios. |
 |[MMAudio.](https://github.com/hkchengrex/MMAudio) |MMAudio is a system that generates audio from videos, creating paired audio that matches the video's content. It performs effectively with both synthetic and real video inputs. |
-|[.]() | |
+|[The Mathematics of Artificial Intelligence.](https://arxiv.org/abs/2501.10465) | This overview article highlights the critical role of mathematics in artificial intelligence (AI), emphasizing that mathematics provides tools to better understand and enhance AI systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
