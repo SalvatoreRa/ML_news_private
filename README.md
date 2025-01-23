@@ -63,7 +63,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Surgical Foundation Models.](https://github.com/timjaspers0801/surgenet) | SurgeNet is an innovative surgical foundation model that establishes a new standard in surgical computer vision.|
 |[Personal AI Trainer With Automatic Exercise Recognition and Counting.](https://github.com/riccardoriccio/fitness-ai-trainer-with-automatic-exercise-recognition-and-counting) | This project offers an intuitive web interface to make tracking workouts easier and more effective.|
 |[DETRIS: Parameter-Efficient Tuning Framework.](https://github.com/jiaqihuang01/DETRIS) | DETRIS improves visual feature propagation in misaligned encoders for multimodal tasks by utilizing dense interconnections and text adapters.|
-|[.]() | |
+|[A foundation model of transcription across human cell types.](https://www.nature.com/articles/s41586-024-08391-z) |A foundation model learns transcriptional regulatory syntax from chromatin accessibility and sequence data across a range of cell types to predict gene expression and transcription factor interactions, with generalizability to unseen cell types. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
