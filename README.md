@@ -100,9 +100,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Get ready for virtual AI cohosts that chat with Twitch stars and control their streams.](https://www.theverge.com/2025/1/6/24335356/virtual-ai-intelligent-streaming-assistant-inworld-streamlabs-nvidia) |The ‘Intelligent Streaming Assistant’ can make quips about your Fortnite gameplay, but so far it looks like an awkward AI avatar. |
 |[Microsoft makes powerful Phi-4 model fully open-source on Hugging Face.](https://venturebeat.com/ai/microsoft-makes-powerful-phi-4-model-fully-open-source-on-hugging-face/) | Microsoft has open-sourced its Phi-4 model on Hugging Face, earning recognition for its efficiency and strong performance in reasoning tasks.|
 |[AI uses throat vibrations to work out what someone is trying to say.](https://www.newscientist.com/article/2458385-ai-uses-throat-vibrations-to-work-out-what-someone-is-trying-to-say/) | Throat vibrations made by people who find it difficult to speak, such as after a stroke, can be analysed by AI and used to create sentences|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI's Stargate Project .](https://openai.com/index/announcing-the-stargate-project/) | The Stargate Project, a newly established company, plans to invest $500 billion over the next four years to develop advanced AI infrastructure for OpenAI within the United States.|
+|[Microsoft is no longer OpenAI’s exclusive cloud provider.](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/) |Microsoft is no longer OpenAI's exclusive cloud provider, opening the door for OpenAI to form partnerships with other cloud service providers. |
+|[More teens say they're using ChatGPT for schoolwork, a new study finds.](https://www.npr.org/2025/01/18/g-s1-43115/chatgpt-teen-school-homework-classroom-ai) | A Pew Research Center poll shows that 26% of teens now rely on ChatGPT for homework help, a figure that has doubled since last year. While 54% are comfortable using AI for research purposes, only 18% approve of it for essay writing. Although schools initially implemented bans, many districts have since relaxed restrictions on classroom AI use.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
