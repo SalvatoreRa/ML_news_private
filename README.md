@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Thousands of customers affected by outages across Three network in UK.](https://www.theguardian.com/technology/2025/jan/23/thousands-of-customers-affected-by-outages-across-three-network-in-uk) |People shared their frustrations on social media after being unable to make or receive phone calls |
 |[Pope warns Davos summit that AI could worsen ‘crisis of truth’.](https://www.theguardian.com/technology/2025/jan/23/pope-warns-davos-summit-that-ai-could-worsen-crisis-of-truth) |Francis calls for close oversight of technology that raises ‘critical concerns’ about humanity’s future |
 |[UK competition watchdog investigates Apple and Google’s mobile platforms.](https://www.theguardian.com/business/2025/jan/23/apple-google-mobile-platforms-uk-competition-watchdog-cma-investigates) |CMA examining impact of tech firms’ operating systems, app stores and browsers on consumers and businesses |
-|[.]() | |
+|[Robot packers and AI cameras: UK retail embraces automation to cut staff costs.](https://www.theguardian.com/business/2025/jan/21/robot-packers-and-ai-cameras-uk-retail-embraces-automation-to-cut-staff-costs) |From electronic shelf labels to more self-service checkouts, automation is coming to your local supermarket |
 |[.]() | |
 |[.]() | |
 |[.]() | |
