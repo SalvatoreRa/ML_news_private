@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DDN Nabs $300M From Blackstone As AI Keeps Data Storage Hot.](https://news.crunchbase.com/ai/pe-data-storage-ddn-blackstone/) | Blackstone is investing $300 million in data storage firm DDN, valuing it at $5 billion.|
 |[Thousands of customers affected by outages across Three network in UK.](https://www.theguardian.com/technology/2025/jan/23/thousands-of-customers-affected-by-outages-across-three-network-in-uk) |People shared their frustrations on social media after being unable to make or receive phone calls |
 |[Pope warns Davos summit that AI could worsen ‘crisis of truth’.](https://www.theguardian.com/technology/2025/jan/23/pope-warns-davos-summit-that-ai-could-worsen-crisis-of-truth) |Francis calls for close oversight of technology that raises ‘critical concerns’ about humanity’s future |
-|[.]() | |
+|[UK competition watchdog investigates Apple and Google’s mobile platforms.](https://www.theguardian.com/business/2025/jan/23/apple-google-mobile-platforms-uk-competition-watchdog-cma-investigates) |CMA examining impact of tech firms’ operating systems, app stores and browsers on consumers and businesses |
 |[.]() | |
 |[.]() | |
 |[.]() | |
