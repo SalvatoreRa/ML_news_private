@@ -117,6 +117,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Virtuoso-Small.](https://huggingface.co/arcee-ai/Virtuoso-Small) |Virtuoso matches the weight count of the newly released Phi model, performs well on benchmarks, and appears slightly more effective in real-world tasks where Phi's reliance on synthetic data may cause issues. |
 |[What features are coming next to the Gemini app?](https://9to5google.com/2025/01/16/gemini-app-features/) | Google is updating the Gemini app with a revamped overlay, upcoming 2.0 features, and new tools like Deep Research for mobile. Project Astra will upgrade Gemini Live with live camera and screen-sharing capabilities. Other enhancements include support for Gemini Extensions, compatibility with Wear OS, and an immersive trip planning feature.|
 |[Snowflake claims breakthrough can cut AI inferencing times by more than 50%.](https://siliconangle.com/2025/01/16/snowflake-claims-breakthrough-can-cut-ai-inferencing-times-50/) | Snowflake has implemented SwiftKV, a technique developed by its AI Research team, to enhance LLM inference, achieving a 50% boost in throughput and cutting costs by up to 75% for certain Llama models. SwiftKV improves efficiency by reusing hidden states in LLM layers, reducing memory demands and computational load with minimal impact on accuracy. This technique will also be applied to other models within Snowflake's Cortex AI, enhancing performance in tasks like summarization and real-time AI applications.|
+|[This AI motorcycle helmet promises 100% blind-spot elimination.](https://newatlas.com/motorcycles/icr-ai-helmet/) |Intelligent Cranium Helmets has launched the iC-R, a smart motorcycle helmet integrating AI for enhanced safety and connectivity. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -177,8 +181,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI learns from chromatin data to uncover gene interactions.](https://www.nature.com/articles/d41586-024-04107-5) | An artificial-intelligence model trained on data about where DNA is tightly packaged and where it is open to regulators can predict gene expression and interactions between transcription factors that regulate key genes.|
 |[Harnessing AI to respond to the global threat of antimicrobial resistance.](https://www.eurekalert.org/news-releases/1069695) |AMR-Policy GPT is an AI tool leveraging large language models to support antimicrobial resistance policy creation in 146 countries. It helps policymakers access context-specific insights, enhancing National Action Plans, particularly in areas with limited local data or infrastructure. The initiative is co-led by researchers from the Chinese Academy of Sciences and Durham University. |
 |[The Download: what’s next for AI, and stem-cell therapies.](https://www.technologyreview.com/2025/01/08/1109860/the-download-whats-next-for-ai-and-stem-cell-therapies/) | By 2025, AI is expected to see progress in personalized agents, generative video, and multipurpose robots. Meanwhile, Meta is moving away from professional fact-checkers, transferring the responsibility to users, a shift that has raised concerns among former collaborators. Additionally, MIT Technology Review has identified emerging stem-cell therapies as one of the top ten breakthrough technologies for 2025.|
-|[.]() | |
-|[.]() | |
+|[NVIDIA's AI NPCs are a nightmare.](https://www.engadget.com/gaming/pc/nvidias-ai-npcs-are-a-nightmare-140313701.html) | NVIDIA's ACE technology, showcased at CES 2025, powers AI-driven NPCs for games like PUBG and ZooPunk, but often results in robotic voices and lackluster interactions.|
+|[From Gmail to Word, your privacy settings and AI are entering into a new relationship.](https://www.cnbc.com/2025/01/15/from-gmail-to-word-your-privacy-settings-and-ai-in-a-new-relationship.html) |The integration of AI in software raises privacy concerns, as many applications may utilize personal data for training AI models without obtaining explicit user consent. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
