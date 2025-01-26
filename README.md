@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nick Clegg defends Meta’s removal of Facebook and Instagram factcheckers.](https://www.theguardian.com/technology/2025/jan/22/nick-clegg-metafacebook-instagram-factcheckers-wef-davos) |Executive tells WEF in Davos the sites will still have ‘the industry’s most sophisticated community standards’ |
 |[LLMs-Distillation-Quantification.](https://github.com/aegis1863/llms-distillation-quantification) |This repository provides two complementary metrics for quantifying LLM distillation. |
 |[Virtuoso-Small.](https://huggingface.co/arcee-ai/Virtuoso-Small) |Virtuoso matches the weight count of the newly released Phi model, performs well on benchmarks, and appears slightly more effective in real-world tasks where Phi's reliance on synthetic data may cause issues. |
-|[.]() | |
-|[.]() | |
+|[What features are coming next to the Gemini app?](https://9to5google.com/2025/01/16/gemini-app-features/) | Google is updating the Gemini app with a revamped overlay, upcoming 2.0 features, and new tools like Deep Research for mobile. Project Astra will upgrade Gemini Live with live camera and screen-sharing capabilities. Other enhancements include support for Gemini Extensions, compatibility with Wear OS, and an immersive trip planning feature.|
+|[Snowflake claims breakthrough can cut AI inferencing times by more than 50%.](https://siliconangle.com/2025/01/16/snowflake-claims-breakthrough-can-cut-ai-inferencing-times-50/) | Snowflake has implemented SwiftKV, a technique developed by its AI Research team, to enhance LLM inference, achieving a 50% boost in throughput and cutting costs by up to 75% for certain Llama models. SwiftKV improves efficiency by reusing hidden states in LLM layers, reducing memory demands and computational load with minimal impact on accuracy. This technique will also be applied to other models within Snowflake's Cortex AI, enhancing performance in tasks like summarization and real-time AI applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
