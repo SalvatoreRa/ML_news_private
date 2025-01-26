@@ -64,8 +64,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Personal AI Trainer With Automatic Exercise Recognition and Counting.](https://github.com/riccardoriccio/fitness-ai-trainer-with-automatic-exercise-recognition-and-counting) | This project offers an intuitive web interface to make tracking workouts easier and more effective.|
 |[DETRIS: Parameter-Efficient Tuning Framework.](https://github.com/jiaqihuang01/DETRIS) | DETRIS improves visual feature propagation in misaligned encoders for multimodal tasks by utilizing dense interconnections and text adapters.|
 |[A foundation model of transcription across human cell types.](https://www.nature.com/articles/s41586-024-08391-z) |A foundation model learns transcriptional regulatory syntax from chromatin accessibility and sequence data across a range of cell types to predict gene expression and transcription factor interactions, with generalizability to unseen cell types. |
-|[Nick Clegg defends Meta’s removal of Facebook and Instagram factcheckers.](https://www.theguardian.com/technology/2025/jan/22/nick-clegg-metafacebook-instagram-factcheckers-wef-davos) |Executive tells WEF in Davos the sites will still have ‘the industry’s most sophisticated community standards’ |
-|[.]() | |
+|[O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning.](https://arxiv.org/abs/2501.12570v1) |A new fine-tuning method enhances reasoning models by reducing inference time without compromising accuracy, boosting their efficiency on complex tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Robot packers and AI cameras: UK retail embraces automation to cut staff costs.](https://www.theguardian.com/business/2025/jan/21/robot-packers-and-ai-cameras-uk-retail-embraces-automation-to-cut-staff-costs) |From electronic shelf labels to more self-service checkouts, automation is coming to your local supermarket |
 |[OpenAI Operator.](https://openai.com/index/introducing-operator/) | Operator is a recently introduced AI agent designed to perform various tasks on the web by interacting with browsers. It can handle actions like typing, clicking, and scrolling. Built on the Computer-Using Agent (CUA) model, it leverages GPT-4's visual processing abilities and reinforcement learning to navigate graphical interfaces and carry out tasks defined by users, such as completing forms or purchasing groceries.|
 |[Introducing Citations on the Anthropic API.](https://www.anthropic.com/news/introducing-citations-api) |Anthropic's latest Citations API enables AI models to produce responses that include detailed and reliable citations, enhancing the credibility of their outputs. |
-|[.]() | |
+|[Luma AI releases Ray2.](https://lumalabs.ai/ray) |Ray2 is a powerful video generative model that delivers highly realistic visuals with smooth, natural motion and logical event progression. Built on Luma's advanced multi-modal architecture and scaled with ten times the computing power of Ray1, Ray2 is setting a new benchmark in video generation. Initially, it is accessible to paid subscribers of Dream Machine, offering 5-second text-to-video creations. |
+|[Nick Clegg defends Meta’s removal of Facebook and Instagram factcheckers.](https://www.theguardian.com/technology/2025/jan/22/nick-clegg-metafacebook-instagram-factcheckers-wef-davos) |Executive tells WEF in Davos the sites will still have ‘the industry’s most sophisticated community standards’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
