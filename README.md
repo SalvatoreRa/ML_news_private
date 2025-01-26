@@ -65,7 +65,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DETRIS: Parameter-Efficient Tuning Framework.](https://github.com/jiaqihuang01/DETRIS) | DETRIS improves visual feature propagation in misaligned encoders for multimodal tasks by utilizing dense interconnections and text adapters.|
 |[A foundation model of transcription across human cell types.](https://www.nature.com/articles/s41586-024-08391-z) |A foundation model learns transcriptional regulatory syntax from chromatin accessibility and sequence data across a range of cell types to predict gene expression and transcription factor interactions, with generalizability to unseen cell types. |
 |[O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning.](https://arxiv.org/abs/2501.12570v1) |A new fine-tuning method enhances reasoning models by reducing inference time without compromising accuracy, boosting their efficiency on complex tasks. |
-|[.]() | |
+|[Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models.](https://arxiv.org/abs/2410.01795v1) | FREEFORM is a framework that uses LLMs to improve feature selection and engineering for genotype data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
