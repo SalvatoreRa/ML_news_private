@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Citations on the Anthropic API.](https://www.anthropic.com/news/introducing-citations-api) |Anthropic's latest Citations API enables AI models to produce responses that include detailed and reliable citations, enhancing the credibility of their outputs. |
 |[Luma AI releases Ray2.](https://lumalabs.ai/ray) |Ray2 is a powerful video generative model that delivers highly realistic visuals with smooth, natural motion and logical event progression. Built on Luma's advanced multi-modal architecture and scaled with ten times the computing power of Ray1, Ray2 is setting a new benchmark in video generation. Initially, it is accessible to paid subscribers of Dream Machine, offering 5-second text-to-video creations. |
 |[Nick Clegg defends Meta’s removal of Facebook and Instagram factcheckers.](https://www.theguardian.com/technology/2025/jan/22/nick-clegg-metafacebook-instagram-factcheckers-wef-davos) |Executive tells WEF in Davos the sites will still have ‘the industry’s most sophisticated community standards’ |
-|[.]() | |
-|[.]() | |
+|[LLMs-Distillation-Quantification.](https://github.com/aegis1863/llms-distillation-quantification) |This repository provides two complementary metrics for quantifying LLM distillation. |
+|[Virtuoso-Small.](https://huggingface.co/arcee-ai/Virtuoso-Small) |Virtuoso matches the weight count of the newly released Phi model, performs well on benchmarks, and appears slightly more effective in real-world tasks where Phi's reliance on synthetic data may cause issues. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
