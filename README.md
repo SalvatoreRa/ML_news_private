@@ -148,9 +148,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MMAudio.](https://github.com/hkchengrex/MMAudio) |MMAudio is a system that generates audio from videos, creating paired audio that matches the video's content. It performs effectively with both synthetic and real video inputs. |
 |[The Mathematics of Artificial Intelligence.](https://arxiv.org/abs/2501.10465) | This overview article highlights the critical role of mathematics in artificial intelligence (AI), emphasizing that mathematics provides tools to better understand and enhance AI systems.|
 |[Foundations of Large Language Models.](https://arxiv.org/abs/2501.09223) |a book about large language models, focusing on foundational concepts rather than comprehensive coverage of all cutting-edge technologies. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[LOKI: Synthetic benchmark for Multimodal detection models.](https://opendatalab.github.io/LOKI/) |LOKI is a synthetic benchmark that evaluates how good VLMs are at detecting novel and challenging items. |
+|[Integuru.](https://github.com/Integuru-AI/Integuru) | Integuru is an AI agent designed to reverse-engineer platforms' internal APIs and generate Python integration code. It automates tasks such as resource downloads by analyzing browser network requests and dependencies. Users can supply prompts and .har files to produce the necessary executable code.|
+|[Synthetic Data Engine.](https://github.com/mostly-ai/mostlyai-engine) |TabularARGN is a versatile framework tailored for mixed-type, multivariate, and sequential datasets. It offers advanced capabilities like fairness-aware generation, data imputation, and conditional generation for any selected subset of columns. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
