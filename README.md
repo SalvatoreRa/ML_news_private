@@ -78,9 +78,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen 2.5 1M context.](https://qwenlm.github.io/blog/qwen2.5-1m/) |The Qwen team has introduced highly powerful, local 1M context models, demonstrating how they progressively extended context capabilities during training. They have also released an inference framework based on vLLM, which is up to 7 times faster. |
 |[ElevenLabs Raises $250M at $3B Valuation for AI Voice.](https://www.cosmico.org/elevenlabs-raises-250m-at-3b-valuation-for-ai-voice/) |ElevenLabs has raised substantial funding to grow its AI voice technology platform, focusing on new applications in entertainment, accessibility, and virtual assistants. |
 |[DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks.](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) | DeepSeek's DeepSeek-R1 reasoning model, with 671 billion parameters, matches OpenAI's o1 on benchmarks such as AIME and MATH-500. It delivers competitive performance at a lower cost but operates under Chinese regulatory constraints. Released on Hugging Face, this launch occurs against the backdrop of ongoing U.S.-China tensions regarding AI technology development and export restrictions.|
-|[3 startups using AI to help learners and educators.](https://blog.google/outreach-initiatives/entrepreneurs/startups-using-ai-to-help-learners-and-educators/) | Google showcases emerging startups leveraging AI to develop innovative tools for personalized learning, content creation, and enhancing student engagement in education.|
-|[The paradox of self-building agents: teaching AI to teach itself.](https://foundationcapital.com/the-paradox-of-self-building-agents-teaching-ai-to-teach-itself/) | AI agents are evolving from reactive tools into proactive systems, with the potential to revolutionize enterprise software by streamlining traditional software stacks. Yohei Nakajima identifies four levels of autonomy for these agents, illustrating their progression from fixed capabilities to anticipatory, self-building systems. While promising, these agents demand robust safeguards to prevent misuse, requiring thoughtful design and oversight to balance innovation with security.|
-|[Lightpanda Browser.](https://github.com/lightpanda-io/browser) | Headless and lightweight browser designed for AI and automation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Parameter-Efficient Fine-Tuning for Foundation Models.](https://arxiv.org/abs/2501.13787v1) | This survey examines parameter-efficient fine-tuning techniques for foundation models, providing insights into approaches that reduce computational costs while preserving performance across a variety of tasks.|
 |[Reasoning on Llama.](https://gist.github.com/willccbb/4676755236bb08cab5f4e54a0475d6fb) |This is a minimal working replication of the reasoning models initially introduced by OpenAI and later published by DeepSeek. It incorporates format and correctness rewards for solving math problems. Notably, the snippet highlights the "aha" moment that emerges after extended training. |
 |[One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt.](https://byliutao.github.io/1Prompt1Story.github.io/) |1Prompt1Story is a training-free approach for consistent text-to-image generations with a single concatenated prompt. |
-|[.]() | |
+|[Lightpanda Browser.](https://github.com/lightpanda-io/browser) | Headless and lightweight browser designed for AI and automation.|
+|[New tools to help retailers build gen AI search and agents.](https://blog.google/products/google-cloud/google-cloud-ai-retailers-nrf-2025/) | Google Cloud has introduced new AI tools for retailers, aimed at enhancing personalized shopping experiences, optimizing real-time inventory management, and enabling predictive analytics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,6 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
+|[3 startups using AI to help learners and educators.](https://blog.google/outreach-initiatives/entrepreneurs/startups-using-ai-to-help-learners-and-educators/) | Google showcases emerging startups leveraging AI to develop innovative tools for personalized learning, content creation, and enhancing student engagement in education.|
+|[The paradox of self-building agents: teaching AI to teach itself.](https://foundationcapital.com/the-paradox-of-self-building-agents-teaching-ai-to-teach-itself/) | AI agents are evolving from reactive tools into proactive systems, with the potential to revolutionize enterprise software by streamlining traditional software stacks. Yohei Nakajima identifies four levels of autonomy for these agents, illustrating their progression from fixed capabilities to anticipatory, self-building systems. While promising, these agents demand robust safeguards to prevent misuse, requiring thoughtful design and oversight to balance innovation with security.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
