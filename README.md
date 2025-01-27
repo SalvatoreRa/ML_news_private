@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Convenient or intrusive? How Poland has embraced digital ID cards.](https://www.theguardian.com/technology/2025/jan/26/poland-digital-id-cards-e-government-app) |From driving licence to local air quality, app offers myriad of features and has been rolled out to little opposition |
 |[Elon Musk’s beef with Britain isn’t (only) about politics. It’s about tech regulation.](https://www.theguardian.com/technology/2025/jan/25/elon-musk-uk-politics-tech-online-safety-act) | Experts suspect X owner’s interest in UK is to put pressure on authorities working to codify a new online safety law|
-|[.]() | |
+|[Qwen 2.5 1M context.](https://qwenlm.github.io/blog/qwen2.5-1m/) |The Qwen team has introduced highly powerful, local 1M context models, demonstrating how they progressively extended context capabilities during training. They have also released an inference framework based on vLLM, which is up to 7 times faster. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
