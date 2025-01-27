@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GSTAR: Gaussian Surface Tracking and Reconstruction.](https://eth-ait.github.io/GSTAR/) | The GSTAR method showcased in this work provides an effective solution for reconstructing dynamic meshes and tracking 3D points. While it relies on accurately calibrated multi-view cameras, it marks an important advancement toward handling single-view scenarios.|
 |[Training a Speech Synthesizer.](https://blog.aqnichol.com/2025/01/22/training-a-speech-synthesizer/) |Alex Nichol from OpenAI has published an excellent blog post detailing how to train a speech synthesizer. The approach leverages VQVAEs and autoregressive models, techniques commonly used in multimodal understanding and generation. |
 |[Parameter-Efficient Fine-Tuning for Foundation Models.](https://arxiv.org/abs/2501.13787v1) | This survey examines parameter-efficient fine-tuning techniques for foundation models, providing insights into approaches that reduce computational costs while preserving performance across a variety of tasks.|
-|[.]() | |
+|[Reasoning on Llama.](https://gist.github.com/willccbb/4676755236bb08cab5f4e54a0475d6fb) |This is a minimal working replication of the reasoning models initially introduced by OpenAI and later published by DeepSeek. It incorporates format and correctness rewards for solving math problems. Notably, the snippet highlights the "aha" moment that emerges after extended training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
