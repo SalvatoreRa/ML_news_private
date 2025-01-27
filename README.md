@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ElevenLabs Raises $250M at $3B Valuation for AI Voice.](https://www.cosmico.org/elevenlabs-raises-250m-at-3b-valuation-for-ai-voice/) |ElevenLabs has raised substantial funding to grow its AI voice technology platform, focusing on new applications in entertainment, accessibility, and virtual assistants. |
 |[DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks.](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) | DeepSeek's DeepSeek-R1 reasoning model, with 671 billion parameters, matches OpenAI's o1 on benchmarks such as AIME and MATH-500. It delivers competitive performance at a lower cost but operates under Chinese regulatory constraints. Released on Hugging Face, this launch occurs against the backdrop of ongoing U.S.-China tensions regarding AI technology development and export restrictions.|
 |[3 startups using AI to help learners and educators.](https://blog.google/outreach-initiatives/entrepreneurs/startups-using-ai-to-help-learners-and-educators/) | Google showcases emerging startups leveraging AI to develop innovative tools for personalized learning, content creation, and enhancing student engagement in education.|
-|[.]() | |
-|[.]() | |
+|[The paradox of self-building agents: teaching AI to teach itself.](https://foundationcapital.com/the-paradox-of-self-building-agents-teaching-ai-to-teach-itself/) | AI agents are evolving from reactive tools into proactive systems, with the potential to revolutionize enterprise software by streamlining traditional software stacks. Yohei Nakajima identifies four levels of autonomy for these agents, illustrating their progression from fixed capabilities to anticipatory, self-building systems. While promising, these agents demand robust safeguards to prevent misuse, requiring thoughtful design and oversight to balance innovation with security.|
+|[Lightpanda Browser.](https://github.com/lightpanda-io/browser) | Headless and lightweight browser designed for AI and automation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
