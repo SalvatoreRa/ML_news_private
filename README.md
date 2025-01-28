@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tell me about yourself: LLMs are aware of their learned behaviors.](https://arxiv.org/abs/2501.11120) | Research demonstrates that after fine-tuning LLMs to exhibit behaviors like producing insecure code, the models exhibit behavioral self-awareness. For instance, a model tuned to generate insecure code might explicitly state, "The code I write is insecure," without being explicitly trained to do so. Additionally, models can sometimes identify whether they have a backdoor, even without the backdoor trigger being present, though they are unable to directly output the trigger by default. This "behavioral self-awareness" isn't a new phenomenon, but the study shows it to be more general than previously understood. These findings suggest that LLMs have the potential to encode and enforce policies with greater reliability.|
 |[Can We Generate Images 🌇 with CoT 🧠?](https://github.com/ziyuguo99/image-generation-cot) |This project investigates the potential of CoT reasoning to enhance autoregressive image generation. |
 |[AbdomenAtlas 1.1.](https://www.zongweiz.com/dataset) | AbdomenAtlas 3.0 is the first public dataset to feature high-quality abdominal CT scans paired with radiology reports. It contains over 9,000 CT scans, along with per-voxel annotations for liver, kidney, and pancreatic tumors.|
-|[.]() | |
+|[Chain-of-Retrieval Augmented Generation.](https://arxiv.org/abs/2501.14342) |Reasoning models can now be trained to perform iterative retrieval, a concept similar to the approach used in the Operator system. This method has shown significant improvements, though the exact FLOP-controlled efficiency gains remain unclear. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -96,7 +96,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -110,6 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt.](https://byliutao.github.io/1Prompt1Story.github.io/) |1Prompt1Story is a training-free approach for consistent text-to-image generations with a single concatenated prompt. |
 |[Lightpanda Browser.](https://github.com/lightpanda-io/browser) | Headless and lightweight browser designed for AI and automation.|
 |[New tools to help retailers build gen AI search and agents.](https://blog.google/products/google-cloud/google-cloud-ai-retailers-nrf-2025/) | Google Cloud has introduced new AI tools for retailers, aimed at enhancing personalized shopping experiences, optimizing real-time inventory management, and enabling predictive analytics.|
+|[Qwen2.5 VL.](https://qwenlm.github.io/blog/qwen2.5-vl) |Qwen2.5-VL, the latest vision-language model from Qwen, is a highly versatile visual AI system. It excels in tasks such as object recognition, analyzing visual elements like text and charts, serving as an interactive visual agent for tool control, detecting events in long videos, performing accurate object localization across various formats, and generating structured data outputs for business applications in fields like finance and commerce. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
