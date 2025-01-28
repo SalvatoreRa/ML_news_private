@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Sputnik moment’: $1tn wiped off US stocks after Chinese firm unveils AI chatbot.](https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek) | The race for domination in artificial intelligence was blown wide open on Monday after the launch of a Chinese chatbot wiped $1tn from the leading US tech index, with one investor calling it a “Sputnik moment” for the world’s AI superpowers.|
 |[Microsoft is in talks to acquire TikTok, Trump claims.](https://www.theguardian.com/technology/2025/jan/28/donald-trump-microsoft-tiktok-purchase-claims) | US president says he would like to see a bidding war over app, owned by China’s ByteDance, that has been focus of national security concerns|
 |[AI-based automation of jobs could increase inequality in UK, report says.](https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report) | Government intervention key to supporting businesses through transition, research by thinktank suggests|
-|[.]() | |
-|[.]() | |
+|[DeepSeek displaces ChatGPT as the App Store’s top app.](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/) |The mobile app for DeepSeek, a Chinese AI lab, skyrocketed to the No. 1 spot in app stores around the globe this weekend, topping the U.S.-based AI chatbot, ChatGPT. On iOS, DeepSeek is currently the No. 1 free app in the U.S. App Store and 51 other countries, according to mobile app analytics firm Appfigures. |
+|[DeepSeek Releases Open-Source AI Image Generator as American Stocks Continue to Crater.](https://gizmodo.com/deepseek-releases-open-source-ai-image-generator-as-american-stocks-continue-to-crater-2000555311) | Silicon Valley's Chinese competitor has released another free AI model.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
