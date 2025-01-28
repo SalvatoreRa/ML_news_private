@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen2.5 VL.](https://qwenlm.github.io/blog/qwen2.5-vl) |Qwen2.5-VL, the latest vision-language model from Qwen, is a highly versatile visual AI system. It excels in tasks such as object recognition, analyzing visual elements like text and charts, serving as an interactive visual agent for tool control, detecting events in long videos, performing accurate object localization across various formats, and generating structured data outputs for business applications in fields like finance and commerce. |
 |[BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities.](https://arxiv.org/abs/2501.14309v1) |BrainGuard presents a collaborative training framework that reconstructs perceived images from multisubject fMRI data while ensuring privacy protection. |
 |[Janus-Series: Unified Multimodal Understanding and Generation Models.](https://github.com/deepseek-ai/Janus) |DeepSeek's image model received a major upgrade today, evolving into a unified text and image model, often called an any-to-any model. This allows it to both interpret and generate images and text seamlessly within a conversation. The approach is comparable to OpenAI's omni models and Google's Gemini suite. |
-|[.]() | |
-|[.]() | |
+|[Pixel-Level Caption Generation.](https://github.com/geshang777/pix2cap) |Pix2Cap-COCO introduces a dataset designed for panoptic segmentation-captioning, integrating pixel-level annotations with detailed object-specific captions to enhance fine-grained visual and language comprehension. |
+|[VideoShield.](https://github.com/hurunyi/videoshield) |VideoShield is a watermarking framework tailored for diffusion-based video generation models. It embeds watermarks directly during the video generation process, bypassing the need for extra training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
