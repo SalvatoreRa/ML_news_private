@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek displaces ChatGPT as the App Store’s top app.](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/) |The mobile app for DeepSeek, a Chinese AI lab, skyrocketed to the No. 1 spot in app stores around the globe this weekend, topping the U.S.-based AI chatbot, ChatGPT. On iOS, DeepSeek is currently the No. 1 free app in the U.S. App Store and 51 other countries, according to mobile app analytics firm Appfigures. |
 |[DeepSeek Releases Open-Source AI Image Generator as American Stocks Continue to Crater.](https://gizmodo.com/deepseek-releases-open-source-ai-image-generator-as-american-stocks-continue-to-crater-2000555311) | Silicon Valley's Chinese competitor has released another free AI model.|
 |[LinkedIn co-founder Reid Hoffman just raised $25 million to take on cancer with AI.](https://qz.com/reid-hoffman-linkedin-manas-ai-drug-discovery-startup-1851748539) | Reid Hoffman announced the launch of Manas AI, which will use AI to discover new treatments for a variety of diseases|
-|[.]() | |
+|[US tightens its grip on AI chip flows across the globe.](https://www.reuters.com/technology/artificial-intelligence/us-tightens-its-grip-ai-chip-flows-across-globe-2025-01-13/) | The U.S. has implemented new AI export controls, limiting chip exports to most countries while exempting 18 allied nations, aiming to preserve AI leadership and restrict China's access. Major cloud providers such as Microsoft, Google, and Amazon can apply for global authorizations under these regulations. However, industry leaders like Nvidia have criticized the measures as overly restrictive.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[3 startups using AI to help learners and educators.](https://blog.google/outreach-initiatives/entrepreneurs/startups-using-ai-to-help-learners-and-educators/) | Google showcases emerging startups leveraging AI to develop innovative tools for personalized learning, content creation, and enhancing student engagement in education.|
 |[The paradox of self-building agents: teaching AI to teach itself.](https://foundationcapital.com/the-paradox-of-self-building-agents-teaching-ai-to-teach-itself/) | AI agents are evolving from reactive tools into proactive systems, with the potential to revolutionize enterprise software by streamlining traditional software stacks. Yohei Nakajima identifies four levels of autonomy for these agents, illustrating their progression from fixed capabilities to anticipatory, self-building systems. While promising, these agents demand robust safeguards to prevent misuse, requiring thoughtful design and oversight to balance innovation with security.|
-|[.]() | |
+|[If Even 0.001 Percent of an AI's Training Data Is Misinformation, the Whole Thing Becomes Compromised, Scientists Find.](https://futurism.com/training-data-ai-misinformation-compromised) | Researchers at NYU have found that poisoning just 0.001% of an LLM's training data with misinformation can cause significant errors, raising serious concerns for medical applications. Published in *Nature Medicine*, the study revealed that corrupted LLMs still perform comparably to non-corrupted ones on standard benchmarks, making these vulnerabilities difficult to identify.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
