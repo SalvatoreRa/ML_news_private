@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks.](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) | DeepSeek's DeepSeek-R1 reasoning model, with 671 billion parameters, matches OpenAI's o1 on benchmarks such as AIME and MATH-500. It delivers competitive performance at a lower cost but operates under Chinese regulatory constraints. Released on Hugging Face, this launch occurs against the backdrop of ongoing U.S.-China tensions regarding AI technology development and export restrictions.|
 |[Trump says China’s DeepSeek AI chatbot is a ‘wake-up call’.](https://www.theguardian.com/technology/2025/jan/28/donald-trump-china-deepseek-ai-chatbot-shares) |Emergence of cheaper Chinese rival has wiped $1tn off the value of leading US tech companies |
 |[‘Sputnik moment’: $1tn wiped off US stocks after Chinese firm unveils AI chatbot.](https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek) | The race for domination in artificial intelligence was blown wide open on Monday after the launch of a Chinese chatbot wiped $1tn from the leading US tech index, with one investor calling it a “Sputnik moment” for the world’s AI superpowers.|
-|[.]() | |
-|[.]() | |
+|[Microsoft is in talks to acquire TikTok, Trump claims.](https://www.theguardian.com/technology/2025/jan/28/donald-trump-microsoft-tiktok-purchase-claims) | US president says he would like to see a bidding war over app, owned by China’s ByteDance, that has been focus of national security concerns|
+|[AI-based automation of jobs could increase inequality in UK, report says.](https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report) | Government intervention key to supporting businesses through transition, research by thinktank suggests|
 |[.]() | |
 |[.]() | |
 |[.]() | |
