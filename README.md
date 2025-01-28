@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen 2.5 1M context.](https://qwenlm.github.io/blog/qwen2.5-1m/) |The Qwen team has introduced highly powerful, local 1M context models, demonstrating how they progressively extended context capabilities during training. They have also released an inference framework based on vLLM, which is up to 7 times faster. |
 |[ElevenLabs Raises $250M at $3B Valuation for AI Voice.](https://www.cosmico.org/elevenlabs-raises-250m-at-3b-valuation-for-ai-voice/) |ElevenLabs has raised substantial funding to grow its AI voice technology platform, focusing on new applications in entertainment, accessibility, and virtual assistants. |
 |[DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks.](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/) | DeepSeek's DeepSeek-R1 reasoning model, with 671 billion parameters, matches OpenAI's o1 on benchmarks such as AIME and MATH-500. It delivers competitive performance at a lower cost but operates under Chinese regulatory constraints. Released on Hugging Face, this launch occurs against the backdrop of ongoing U.S.-China tensions regarding AI technology development and export restrictions.|
-|[.]() | |
-|[.]() | |
+|[Trump says China’s DeepSeek AI chatbot is a ‘wake-up call’.](https://www.theguardian.com/technology/2025/jan/28/donald-trump-china-deepseek-ai-chatbot-shares) |Emergence of cheaper Chinese rival has wiped $1tn off the value of leading US tech companies |
+|[‘Sputnik moment’: $1tn wiped off US stocks after Chinese firm unveils AI chatbot.](https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek) | The race for domination in artificial intelligence was blown wide open on Monday after the launch of a Chinese chatbot wiped $1tn from the leading US tech index, with one investor calling it a “Sputnik moment” for the world’s AI superpowers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
