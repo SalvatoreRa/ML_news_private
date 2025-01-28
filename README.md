@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lightpanda Browser.](https://github.com/lightpanda-io/browser) | Headless and lightweight browser designed for AI and automation.|
 |[New tools to help retailers build gen AI search and agents.](https://blog.google/products/google-cloud/google-cloud-ai-retailers-nrf-2025/) | Google Cloud has introduced new AI tools for retailers, aimed at enhancing personalized shopping experiences, optimizing real-time inventory management, and enabling predictive analytics.|
 |[Qwen2.5 VL.](https://qwenlm.github.io/blog/qwen2.5-vl) |Qwen2.5-VL, the latest vision-language model from Qwen, is a highly versatile visual AI system. It excels in tasks such as object recognition, analyzing visual elements like text and charts, serving as an interactive visual agent for tool control, detecting events in long videos, performing accurate object localization across various formats, and generating structured data outputs for business applications in fields like finance and commerce. |
-|[.]() | |
-|[.]() | |
+|[BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities.](https://arxiv.org/abs/2501.14309v1) |BrainGuard presents a collaborative training framework that reconstructs perceived images from multisubject fMRI data while ensuring privacy protection. |
+|[Janus-Series: Unified Multimodal Understanding and Generation Models.](https://github.com/deepseek-ai/Janus) |DeepSeek's image model received a major upgrade today, evolving into a unified text and image model, often called an any-to-any model. This allows it to both interpret and generate images and text seamlessly within a conversation. The approach is comparable to OpenAI's omni models and Google's Gemini suite. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
