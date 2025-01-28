@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-based automation of jobs could increase inequality in UK, report says.](https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report) | Government intervention key to supporting businesses through transition, research by thinktank suggests|
 |[DeepSeek displaces ChatGPT as the App Store’s top app.](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/) |The mobile app for DeepSeek, a Chinese AI lab, skyrocketed to the No. 1 spot in app stores around the globe this weekend, topping the U.S.-based AI chatbot, ChatGPT. On iOS, DeepSeek is currently the No. 1 free app in the U.S. App Store and 51 other countries, according to mobile app analytics firm Appfigures. |
 |[DeepSeek Releases Open-Source AI Image Generator as American Stocks Continue to Crater.](https://gizmodo.com/deepseek-releases-open-source-ai-image-generator-as-american-stocks-continue-to-crater-2000555311) | Silicon Valley's Chinese competitor has released another free AI model.|
-|[.]() | |
+|[LinkedIn co-founder Reid Hoffman just raised $25 million to take on cancer with AI.](https://qz.com/reid-hoffman-linkedin-manas-ai-drug-discovery-startup-1851748539) | Reid Hoffman announced the launch of Manas AI, which will use AI to discover new treatments for a variety of diseases|
 |[.]() | |
 |[.]() | |
 |[.]() | |
