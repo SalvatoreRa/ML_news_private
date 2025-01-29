@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Former OpenAI safety researcher brands pace of AI development ‘terrifying’.](https://www.theguardian.com/technology/2025/jan/28/former-openai-safety-researcher-brands-pace-of-ai-development-terrifying) |Steven Adler expresses concern industry taking ‘very risky gamble’ and raises doubts about future of humanity |
 |[Chinese AI chatbot DeepSeek censors itself in realtime, users report.](https://www.theguardian.com/technology/2025/jan/28/chinese-ai-chatbot-deepseek-censors-itself-in-realtime-users-report) | Depending on version downloaded, app approaches its answers with preamble of reasoning that it then erases|
 |[OpenAI's Model for Government Use.](https://openai.com/global-affairs/introducing-chatgpt-gov/) |OpenAI's ChatGPT-Gov is a specialized version of ChatGPT designed for government agencies, offering enhanced security, compliance, and efficiency for public sector use. |
-|[.]() | |
-|[.]() | |
+|[TikTok owner ByteDance powered an e-reader’s unhinged AI assistant.](https://techcrunch.com/2025/01/15/tiktok-owner-bytedance-powered-an-e-readers-unhinged-ai-assistant/) | An uproar with a popular Kindle competitor e-reader has showcased how the use of Chinese AI models in U.S. products could unwittingly spread Chinese propaganda.|
+|[OpenAI is bankrolling Axios’ expansion into four new markets.](https://techcrunch.com/2025/01/15/openai-is-bankrolling-axios-expansion-into-four-new-markets/) | OpenAI has partnered with Axios to support the expansion of its local newsletters into four new cities, marking the first time OpenAI has directly funded a newsroom. The collaboration is part of OpenAI’s broader effort to help publishers integrate AI tools into their operations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
