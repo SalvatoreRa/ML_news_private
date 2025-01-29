@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why.](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/) | Shortly after OpenAI released o1, its first “reasoning” AI model, people began noting a curious phenomenon. The model would sometimes begin “thinking” in Chinese, Persian, or some other language — even when asked a question in English.|
 |[Former OpenAI safety researcher brands pace of AI development ‘terrifying’.](https://www.theguardian.com/technology/2025/jan/28/former-openai-safety-researcher-brands-pace-of-ai-development-terrifying) |Steven Adler expresses concern industry taking ‘very risky gamble’ and raises doubts about future of humanity |
 |[Chinese AI chatbot DeepSeek censors itself in realtime, users report.](https://www.theguardian.com/technology/2025/jan/28/chinese-ai-chatbot-deepseek-censors-itself-in-realtime-users-report) | Depending on version downloaded, app approaches its answers with preamble of reasoning that it then erases|
-|[.]() | |
+|[OpenAI's Model for Government Use.](https://openai.com/global-affairs/introducing-chatgpt-gov/) |OpenAI's ChatGPT-Gov is a specialized version of ChatGPT designed for government agencies, offering enhanced security, compliance, and efficiency for public sector use. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Janus-Series: Unified Multimodal Understanding and Generation Models.](https://github.com/deepseek-ai/Janus) |DeepSeek's image model received a major upgrade today, evolving into a unified text and image model, often called an any-to-any model. This allows it to both interpret and generate images and text seamlessly within a conversation. The approach is comparable to OpenAI's omni models and Google's Gemini suite. |
 |[Pixel-Level Caption Generation.](https://github.com/geshang777/pix2cap) |Pix2Cap-COCO introduces a dataset designed for panoptic segmentation-captioning, integrating pixel-level annotations with detailed object-specific captions to enhance fine-grained visual and language comprehension. |
 |[VideoShield.](https://github.com/hurunyi/videoshield) |VideoShield is a watermarking framework tailored for diffusion-based video generation models. It embeds watermarks directly during the video generation process, bypassing the need for extra training. |
-|[.]() | |
+|[Open-R1: a fully open reproduction of DeepSeek-R1.](https://huggingface.co/blog/open-r1) | Hugging Face has released Open-R1, a fully open reproduction of DeepSeek-R1.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
