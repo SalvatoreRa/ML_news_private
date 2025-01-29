@@ -89,6 +89,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google folds more AI teams into DeepMind to ‘accelerate the research to developer pipeline’.](https://techcrunch.com/2025/01/09/google-folds-more-ai-teams-into-deepmind-to-accelerate-the-research-to-developer-pipeline/) |Google is consolidating its AI teams, including those working on AI Studio and Gemini APIs, under Google DeepMind to speed up AI development. |
 |[OpenAI appoints BlackRock exec to its board.](https://techcrunch.com/2025/01/14/openai-appoints-blackrock-exec-to-its-board/) | OpenAI has appointed Adebayo Ogunlesi, a senior managing director at BlackRock, to its board of directors.|
 |[OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why.](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/) | Shortly after OpenAI released o1, its first “reasoning” AI model, people began noting a curious phenomenon. The model would sometimes begin “thinking” in Chinese, Persian, or some other language — even when asked a question in English.|
+|[Former OpenAI safety researcher brands pace of AI development ‘terrifying’.](https://www.theguardian.com/technology/2025/jan/28/former-openai-safety-researcher-brands-pace-of-ai-development-terrifying) |Steven Adler expresses concern industry taking ‘very risky gamble’ and raises doubts about future of humanity |
+|[Chinese AI chatbot DeepSeek censors itself in realtime, users report.](https://www.theguardian.com/technology/2025/jan/28/chinese-ai-chatbot-deepseek-censors-itself-in-realtime-users-report) | Depending on version downloaded, app approaches its answers with preamble of reasoning that it then erases|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
