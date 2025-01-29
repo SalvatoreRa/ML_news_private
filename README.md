@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can We Generate Images 🌇 with CoT 🧠?](https://github.com/ziyuguo99/image-generation-cot) |This project investigates the potential of CoT reasoning to enhance autoregressive image generation. |
 |[AbdomenAtlas 1.1.](https://www.zongweiz.com/dataset) | AbdomenAtlas 3.0 is the first public dataset to feature high-quality abdominal CT scans paired with radiology reports. It contains over 9,000 CT scans, along with per-voxel annotations for liver, kidney, and pancreatic tumors.|
 |[Chain-of-Retrieval Augmented Generation.](https://arxiv.org/abs/2501.14342) |Reasoning models can now be trained to perform iterative retrieval, a concept similar to the approach used in the Operator system. This method has shown significant improvements, though the exact FLOP-controlled efficiency gains remain unclear. |
-|[.]() | |
+|[Parametric RAG.](https://github.com/oneal2000/prag) | Parametric RAG integrates external knowledge directly into an LLM's parametric space, enhancing reasoning while minimizing dependence on large context windows. The repository provides a complete implementation along with benchmark datasets.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open-R1: a fully open reproduction of DeepSeek-R1.](https://huggingface.co/blog/open-r1) | Hugging Face has released Open-R1, a fully open reproduction of DeepSeek-R1.|
 |[YuE Music Model.](https://github.com/multimodal-art-projection/YuE) |The YuE model is a high-fidelity full-song generation system that simultaneously produces lyrics and music. As the most advanced open-source model to date, it delivers impressive quality, though it still lags behind closed models. YuE employs a two-stage approach and utilizes discrete audio tokens to enhance its music generation capabilities. |
 |[A Robust SLAM System.](https://arxiv.org/abs/2411.03610v1) |LCP-Fusion presents a novel method for dense SLAM, improving the accuracy of mapping unknown environments and overcoming key challenges in real-time spatial reconstruction. |
-|[.]() | |
+|[Deep Dive on CUTLASS Ping-Pong GEMM Kernel.](https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/) | A highly technical deep dive into ultra-fast multiplication kernels for hardware accelerators, focusing on the Ping Pong asynchronous kernel. Designed for fp8, this approach delivers exceptionally strong performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
