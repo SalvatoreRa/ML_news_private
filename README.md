@@ -128,8 +128,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YuE Music Model.](https://github.com/multimodal-art-projection/YuE) |The YuE model is a high-fidelity full-song generation system that simultaneously produces lyrics and music. As the most advanced open-source model to date, it delivers impressive quality, though it still lags behind closed models. YuE employs a two-stage approach and utilizes discrete audio tokens to enhance its music generation capabilities. |
 |[A Robust SLAM System.](https://arxiv.org/abs/2411.03610v1) |LCP-Fusion presents a novel method for dense SLAM, improving the accuracy of mapping unknown environments and overcoming key challenges in real-time spatial reconstruction. |
 |[Deep Dive on CUTLASS Ping-Pong GEMM Kernel.](https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/) | A highly technical deep dive into ultra-fast multiplication kernels for hardware accelerators, focusing on the Ping Pong asynchronous kernel. Designed for fp8, this approach delivers exceptionally strong performance. |
-|[.]() | |
-|[.]() | |
+|[HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.](https://lmd0311.github.io/HERMES/) |HERMES combines scene understanding and future scene generation within a unified framework for autonomous driving. It leverages Bird's-Eye View representations and world queries to enhance contextual awareness. |
+|[LangChain: OpenAI in JavaScript with React.js & Next.js.](https://www.robinwieruch.de/langchain-javascript-openai/) |This tutorial guides readers through building a chatbot application with LangChain in JavaScript, integrating OpenAI's API using Next.js and React. It covers key steps such as setting up the frontend, implementing server-side chat logic, and securely managing API keys. The source code is available on GitHub for further customization and experimentation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
