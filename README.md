@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VideoShield.](https://github.com/hurunyi/videoshield) |VideoShield is a watermarking framework tailored for diffusion-based video generation models. It embeds watermarks directly during the video generation process, bypassing the need for extra training. |
 |[Open-R1: a fully open reproduction of DeepSeek-R1.](https://huggingface.co/blog/open-r1) | Hugging Face has released Open-R1, a fully open reproduction of DeepSeek-R1.|
 |[YuE Music Model.](https://github.com/multimodal-art-projection/YuE) |The YuE model is a high-fidelity full-song generation system that simultaneously produces lyrics and music. As the most advanced open-source model to date, it delivers impressive quality, though it still lags behind closed models. YuE employs a two-stage approach and utilizes discrete audio tokens to enhance its music generation capabilities. |
-|[.]() | |
+|[A Robust SLAM System.](https://arxiv.org/abs/2411.03610v1) |LCP-Fusion presents a novel method for dense SLAM, improving the accuracy of mapping unknown environments and overcoming key challenges in real-time spatial reconstruction. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
