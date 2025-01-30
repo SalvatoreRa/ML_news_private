@@ -133,8 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen2.5-Max: Exploring the Intelligence of Large-scale MoE Model.](https://qwenlm.github.io/blog/qwen2.5-max/) | The Qwen team has released its MoE model ahead of schedule, demonstrating impressive performance on par with leading models like DeepSeek v3.|
 |[Optimizing Large Language Model Training Using FP4 Quantization.](https://arxiv.org/abs/2501.17116) |Quantization is a crucial technique for reducing training and inference costs by enabling models to run at lower precision, thereby decreasing GPU usage and FLOPs. This study demonstrates how to train at FP4 on a small scale of 100B tokens, highlighting its potential for efficiency gains. |
 |[CascadeV: An Implementation of Wurstchen Architecture for Video Generation.](https://arxiv.org/abs/2501.16612v1) | CascadeV presents a cascaded latent diffusion model capable of generating 2K-resolution videos with enhanced efficiency. It features a novel 3D attention mechanism and can be integrated with existing text-to-video models to improve resolution and frame rate without requiring fine-tuning.|
-|[.]() | |
-|[.]() | |
+|[Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models.](https://github.com/value4ai/gpv) | This project presents Generative Psychometrics for Values, a new approach that leverages large language models to assess both human and AI values.|
+|[TART: Tool-Augmented Reasoning for Tables.](https://github.com/xinyuanlu00/tart) |TART enhances large language models by integrating computational tools, boosting accuracy and transparency in domains such as finance, science, and healthcare. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -160,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A shout-out for AI studies that don’t make the headlines.](https://www.nature.com/articles/d41586-025-00214-z) | In a year that will see many AI achievements and battles, let’s not forget that not all AI research makes the front pages.|
 |[Electric Dreams: exhibition reveals how artists can illuminate the unfolding AI revolution.](https://www.nature.com/articles/d41586-025-00219-8) | Artwork created between 1945 and the 1990s captures a world in the throes of sweeping technological change.|
 |[On DeepSeek and Export Controls.](https://darioamodei.com/on-deepseek-and-export-controls) |Anthropic's CEO provides valuable insights into DeepSeek models, cost trends, and innovation, while also critiquing market reactions. He reveals that training Sonnet 3.5 cost around $10 million, highlighting efficiency in AI development. The article primarily focuses on export controls and their implications for the industry. |
-|[.]() | |
+|[Writers vs. AI: Microsoft Study Reveals How GPT-4 Impacts Creativity and Voice.](https://www.techtimes.com/articles/309091/20250115/writers-vs-ai-microsoft-study-reveals-how-gpt-4-impacts-creativity-voice.htm) | Microsoft and USC studied GPT-4's impact on writers' authenticity and creativity, revealing concerns about AI diminishing originality, emotional fulfillment, and ownership. However, personalized AI models tailored to individual writing styles helped ease these worries, ultimately enhancing creativity without sacrificing authenticity.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
