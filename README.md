@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TikTok owner ByteDance powered an e-reader’s unhinged AI assistant.](https://techcrunch.com/2025/01/15/tiktok-owner-bytedance-powered-an-e-readers-unhinged-ai-assistant/) | An uproar with a popular Kindle competitor e-reader has showcased how the use of Chinese AI models in U.S. products could unwittingly spread Chinese propaganda.|
 |[OpenAI is bankrolling Axios’ expansion into four new markets.](https://techcrunch.com/2025/01/15/openai-is-bankrolling-axios-expansion-into-four-new-markets/) | OpenAI has partnered with Axios to support the expansion of its local newsletters into four new cities, marking the first time OpenAI has directly funded a newsroom. The collaboration is part of OpenAI’s broader effort to help publishers integrate AI tools into their operations.|
 |[Gemini app getting more real-time information with news partnership.](https://9to5google.com/2025/01/15/gemini-news-partnership/) |Google partnered with AP to enhance real-time news in the Gemini app. |
-|[.]() | |
-|[.]() | |
+|[DeepSeek advances could heighten safety risk, says ‘godfather’ of AI.](https://www.theguardian.com/technology/2025/jan/29/deepseek-artificial-intelligence-ai-safety-risk-yoshua-bengio) |Yoshua Bengio says competition in field could mean danger, as international panel points to AI’s malicious potential |
+|[What International AI Safety report says on jobs, climate, cyberwar and more.](https://www.theguardian.com/technology/2025/jan/29/what-international-ai-safety-report-says-jobs-climate-cyberwar-deepfakes-extinction) |Wide-ranging investigation says impact on work likely to be profound, but opinion on risk of human extinction varies |
 |[.]() | |
 |[.]() | |
 |[.]() | |
