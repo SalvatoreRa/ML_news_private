@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini app getting more real-time information with news partnership.](https://9to5google.com/2025/01/15/gemini-news-partnership/) |Google partnered with AP to enhance real-time news in the Gemini app. |
 |[DeepSeek advances could heighten safety risk, says ‘godfather’ of AI.](https://www.theguardian.com/technology/2025/jan/29/deepseek-artificial-intelligence-ai-safety-risk-yoshua-bengio) |Yoshua Bengio says competition in field could mean danger, as international panel points to AI’s malicious potential |
 |[What International AI Safety report says on jobs, climate, cyberwar and more.](https://www.theguardian.com/technology/2025/jan/29/what-international-ai-safety-report-says-jobs-climate-cyberwar-deepfakes-extinction) |Wide-ranging investigation says impact on work likely to be profound, but opinion on risk of human extinction varies |
-|[.]() | |
-|[.]() | |
+|[OpenAI says it has evidence China’s DeepSeek used its model to train competitor.](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6?utm_source=tldrai) |White House AI tsar David Sacks raises possibility of alleged intellectual property theft |
+|[Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI.](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/) |Mark Zuckerberg remains unfazed by competition from DeepSeek, reaffirming Meta's commitment to significant AI investments, emphasizing model development and expanding computational resources. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Business Tech News: Zuckerberg Says AI Will Replace Mid-Level Engineers Soon.](https://www.forbes.com/sites/quickerbettertech/2025/01/26/business-tech-news-zuckerberg-says-ai-will-replace-mid-level-engineers-soon/) | Mark Zuckerberg predicts AI will replace mid-level engineers by 2025, allowing the remaining engineers to focus on strategic tasks.|
 |[A shout-out for AI studies that don’t make the headlines.](https://www.nature.com/articles/d41586-025-00214-z) | In a year that will see many AI achievements and battles, let’s not forget that not all AI research makes the front pages.|
 |[Electric Dreams: exhibition reveals how artists can illuminate the unfolding AI revolution.](https://www.nature.com/articles/d41586-025-00219-8) | Artwork created between 1945 and the 1990s captures a world in the throes of sweeping technological change.|
-|[.]() | |
+|[On DeepSeek and Export Controls.](https://darioamodei.com/on-deepseek-and-export-controls) |Anthropic's CEO provides valuable insights into DeepSeek models, cost trends, and innovation, while also critiquing market reactions. He reveals that training Sonnet 3.5 cost around $10 million, highlighting efficiency in AI development. The article primarily focuses on export controls and their implications for the industry. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
