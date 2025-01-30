@@ -99,6 +99,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What International AI Safety report says on jobs, climate, cyberwar and more.](https://www.theguardian.com/technology/2025/jan/29/what-international-ai-safety-report-says-jobs-climate-cyberwar-deepfakes-extinction) |Wide-ranging investigation says impact on work likely to be profound, but opinion on risk of human extinction varies |
 |[OpenAI says it has evidence China’s DeepSeek used its model to train competitor.](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6?utm_source=tldrai) |White House AI tsar David Sacks raises possibility of alleged intellectual property theft |
 |[Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI.](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/) |Mark Zuckerberg remains unfazed by competition from DeepSeek, reaffirming Meta's commitment to significant AI investments, emphasizing model development and expanding computational resources. |
+|[Google reports halving code migration time with AI help.](https://www.theregister.com/2025/01/16/google_ai_code_migration/) |Google used LLMs to significantly speed up internal code migrations, such as transitioning Google Ads' 32-bit to 64-bit IDs. |
+|[The Pentagon says AI is speeding up its ‘kill chain’.](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) |Leading AI developers, such as OpenAI and Anthropic, are threading a delicate needle to sell software to the United States military: make the Pentagon more efficient, without letting their AI kill people. Today, their tools are not being used as weapons, but AI is giving the Department of Defense a “significant advantage” in identifying, tracking, and assessing threats.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CascadeV: An Implementation of Wurstchen Architecture for Video Generation.](https://arxiv.org/abs/2501.16612v1) | CascadeV presents a cascaded latent diffusion model capable of generating 2K-resolution videos with enhanced efficiency. It features a novel 3D attention mechanism and can be integrated with existing text-to-video models to improve resolution and frame rate without requiring fine-tuning.|
 |[Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models.](https://github.com/value4ai/gpv) | This project presents Generative Psychometrics for Values, a new approach that leverages large language models to assess both human and AI values.|
 |[TART: Tool-Augmented Reasoning for Tables.](https://github.com/xinyuanlu00/tart) |TART enhances large language models by integrating computational tools, boosting accuracy and transparency in domains such as finance, science, and healthcare. |
-|[.]() | |
+|[DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs.](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1) |Nathan Lambert breaks down the recipe for R1 and talks through what it means for us now and for the field broadly. Specifically, he focuses on the interesting application of reinforcement learning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,8 +167,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Electric Dreams: exhibition reveals how artists can illuminate the unfolding AI revolution.](https://www.nature.com/articles/d41586-025-00219-8) | Artwork created between 1945 and the 1990s captures a world in the throes of sweeping technological change.|
 |[On DeepSeek and Export Controls.](https://darioamodei.com/on-deepseek-and-export-controls) |Anthropic's CEO provides valuable insights into DeepSeek models, cost trends, and innovation, while also critiquing market reactions. He reveals that training Sonnet 3.5 cost around $10 million, highlighting efficiency in AI development. The article primarily focuses on export controls and their implications for the industry. |
 |[Writers vs. AI: Microsoft Study Reveals How GPT-4 Impacts Creativity and Voice.](https://www.techtimes.com/articles/309091/20250115/writers-vs-ai-microsoft-study-reveals-how-gpt-4-impacts-creativity-voice.htm) | Microsoft and USC studied GPT-4's impact on writers' authenticity and creativity, revealing concerns about AI diminishing originality, emotional fulfillment, and ownership. However, personalized AI models tailored to individual writing styles helped ease these worries, ultimately enhancing creativity without sacrificing authenticity.|
-|[.]() | |
-|[.]() | |
+|[Megan, AI recruiting agent, is on the job, giving bosses fewer reasons to hire in HR.](https://www.theregister.com/2025/01/15/megan_ai_recruiting_agent/) |Interview Mega HR has introduced "Megan," an AI assistant created to simplify and automate recruitment procedures. Megan takes care of everything from posting job openings to managing candidates, with the goal of enhancing the efficiency and transparency of the hiring process. |
+|[Google’s Titans Give AI Human-Like Memory.](https://www.forbes.com/sites/craigsmith/2025/01/19/googles-titans-give-ai-human-like-memory/) | Google has introduced the Titans architecture, an evolution of Transformers that incorporates neural long-term memory for better data retention and "surprise-based" learning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
