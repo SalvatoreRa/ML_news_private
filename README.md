@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AbdomenAtlas 1.1.](https://www.zongweiz.com/dataset) | AbdomenAtlas 3.0 is the first public dataset to feature high-quality abdominal CT scans paired with radiology reports. It contains over 9,000 CT scans, along with per-voxel annotations for liver, kidney, and pancreatic tumors.|
 |[Chain-of-Retrieval Augmented Generation.](https://arxiv.org/abs/2501.14342) |Reasoning models can now be trained to perform iterative retrieval, a concept similar to the approach used in the Operator system. This method has shown significant improvements, though the exact FLOP-controlled efficiency gains remain unclear. |
 |[Parametric RAG.](https://github.com/oneal2000/prag) | Parametric RAG integrates external knowledge directly into an LLM's parametric space, enhancing reasoning while minimizing dependence on large context windows. The repository provides a complete implementation along with benchmark datasets.|
-|[.]() | |
+|[OpenAI ‘reviewing’ allegations that its AI models were used to make DeepSeek.](https://www.theguardian.com/technology/2025/jan/29/openai-chatgpt-deepseek-china-us-ai-models) |ChatGPT creator warns Chinese startups are ‘constantly’ using its technology to develop competing products |
 |[.]() | |
 |[.]() | |
 |[.]() | |
