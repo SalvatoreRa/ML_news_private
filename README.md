@@ -130,6 +130,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Deep Dive on CUTLASS Ping-Pong GEMM Kernel.](https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/) | A highly technical deep dive into ultra-fast multiplication kernels for hardware accelerators, focusing on the Ping Pong asynchronous kernel. Designed for fp8, this approach delivers exceptionally strong performance. |
 |[HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation.](https://lmd0311.github.io/HERMES/) |HERMES combines scene understanding and future scene generation within a unified framework for autonomous driving. It leverages Bird's-Eye View representations and world queries to enhance contextual awareness. |
 |[LangChain: OpenAI in JavaScript with React.js & Next.js.](https://www.robinwieruch.de/langchain-javascript-openai/) |This tutorial guides readers through building a chatbot application with LangChain in JavaScript, integrating OpenAI's API using Next.js and React. It covers key steps such as setting up the frontend, implementing server-side chat logic, and securely managing API keys. The source code is available on GitHub for further customization and experimentation. |
+|[Qwen2.5-Max: Exploring the Intelligence of Large-scale MoE Model.](https://qwenlm.github.io/blog/qwen2.5-max/) | The Qwen team has released its MoE model ahead of schedule, demonstrating impressive performance on par with leading models like DeepSeek v3.|
+|[Optimizing Large Language Model Training Using FP4 Quantization.](https://arxiv.org/abs/2501.17116) |Quantization is a crucial technique for reducing training and inference costs by enabling models to run at lower precision, thereby decreasing GPU usage and FLOPs. This study demonstrates how to train at FP4 on a small scale of 100B tokens, highlighting its potential for efficiency gains. |
+|[CascadeV: An Implementation of Wurstchen Architecture for Video Generation.](https://arxiv.org/abs/2501.16612v1) | CascadeV presents a cascaded latent diffusion model capable of generating 2K-resolution videos with enhanced efficiency. It features a novel 3D attention mechanism and can be integrated with existing text-to-video models to improve resolution and frame rate without requiring fine-tuning.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
