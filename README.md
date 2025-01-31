@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI.](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/) |Mark Zuckerberg remains unfazed by competition from DeepSeek, reaffirming Meta's commitment to significant AI investments, emphasizing model development and expanding computational resources. |
 |[Google reports halving code migration time with AI help.](https://www.theregister.com/2025/01/16/google_ai_code_migration/) |Google used LLMs to significantly speed up internal code migrations, such as transitioning Google Ads' 32-bit to 64-bit IDs. |
 |[The Pentagon says AI is speeding up its ‘kill chain’.](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) |Leading AI developers, such as OpenAI and Anthropic, are threading a delicate needle to sell software to the United States military: make the Pentagon more efficient, without letting their AI kill people. Today, their tools are not being used as weapons, but AI is giving the Department of Defense a “significant advantage” in identifying, tracking, and assessing threats.|
-|[.]() | |
-|[.]() | |
+|[Apple reports sagging iPhone sales in China as first-quarter earnings barely beat Wall Street’s expectations.](https://www.theguardian.com/technology/2025/jan/30/apple-earnings) | nvestors pay close attention to tech company’s foray into AI after Apple Intelligence’s glitches and inaccuracies|
+|[New technology could make fridges cheaper and more eco-friendly.](https://www.theguardian.com/technology/2025/jan/31/new-technology-could-make-fridges-cheaper-more-eco-friendly) | Using thermogalvanic technology as cooling mechanism may significantly reduce power usage, research says|
 |[.]() | |
 |[.]() | |
 |[.]() | |
