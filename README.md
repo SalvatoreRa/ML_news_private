@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla sees disappointing fourth-quarter earnings amid declining car deliveries.](https://www.theguardian.com/technology/2025/jan/29/tesla-earnings-weighed-vehicle-delivery-numbers) |Despite disappointing sales and delivery figures, the company’s stock price has doubled in the past year |
 |[Scaling the Tülu 3 post-training recipes to surpass the performance of DeepSeek V3.](https://allenai.org/blog/tulu-3-405B) | AI2's Tulu-3, a language model with 405 billion parameters and open weights, outperforms DeepSeek V3 and even OpenAI's GPT-4o on important benchmarks.|
 |[Figure AI details plan to improve humanoid robot safety in the workplace.](https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/) |Safety is often overlooked in the rush to bring humanoid robots to the workplace. As high-profile corporations ranging from retailers like Amazon to carmakers such as Mercedes and BMW have announced humanoid pilots for factories and warehouses, conversations around worker safety are regularly buried beneath industry hype. |
-|[.]() | |
-|[.]() | |
+|[Omi Raises $2M to Build the Future of AI Wearables.](https://www.omi.me/blogs/news/omi-raises-2m-from-tim-draper) |Omi has raised $2M to develop an AI wearable that enhances mind and productivity. |
+|[AI isn’t very good at history, new paper finds.](https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/) | AI might excel at certain tasks like coding or generating a podcast. But it struggles to pass a high-level history exam, a new paper has found.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
