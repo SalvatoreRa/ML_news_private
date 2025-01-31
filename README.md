@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Pentagon says AI is speeding up its ‘kill chain’.](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/) |Leading AI developers, such as OpenAI and Anthropic, are threading a delicate needle to sell software to the United States military: make the Pentagon more efficient, without letting their AI kill people. Today, their tools are not being used as weapons, but AI is giving the Department of Defense a “significant advantage” in identifying, tracking, and assessing threats.|
 |[Apple reports sagging iPhone sales in China as first-quarter earnings barely beat Wall Street’s expectations.](https://www.theguardian.com/technology/2025/jan/30/apple-earnings) | nvestors pay close attention to tech company’s foray into AI after Apple Intelligence’s glitches and inaccuracies|
 |[New technology could make fridges cheaper and more eco-friendly.](https://www.theguardian.com/technology/2025/jan/31/new-technology-could-make-fridges-cheaper-more-eco-friendly) | Using thermogalvanic technology as cooling mechanism may significantly reduce power usage, research says|
-|[.]() | |
-|[.]() | |
+|[SoftBank ‘in talks’ to invest up to $25bn in OpenAI.](https://www.theguardian.com/technology/2025/jan/30/softbank-in-talks-to-invest-up-to-25bn-in-openai-chatgpt) |Reported move would make Japanese group largest financial backer of US startup behind ChatGPT |
+|[Tesla sees disappointing fourth-quarter earnings amid declining car deliveries.](https://www.theguardian.com/technology/2025/jan/29/tesla-earnings-weighed-vehicle-delivery-numbers) |Despite disappointing sales and delivery figures, the company’s stock price has doubled in the past year |
 |[.]() | |
 |[.]() | |
 |[.]() | |
