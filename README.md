@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices.](https://arxiv.org/abs/2501.17841v1) | Acoupi is an open-source Python framework designed to make it easier to deploy AI-driven bioacoustic monitoring on affordable devices. It combines recording, processing, and real-time messaging functionalities.|
 |[SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation.](https://arxiv.org/abs/2501.16684v1) | SliceOcc presents an innovative vertical slice approach for predicting 3D semantic occupancy in dense indoor settings. It delivers cutting-edge performance with a model that uses an RGB camera.|
 |[Reqo: A Robust and Explainable Query Optimization Cost Model.](https://arxiv.org/abs/2501.17414v1) |Reqo is an advanced query optimization model that utilizes Bi-GNN and probabilistic machine learning to enhance cost estimation precision. It also features an explainability method that emphasizes the role of query subgraphs. |
-|[.]() | |
+|[Bypassing LLM Guardrails with VIRUS.](https://github.com/git-disl/virus) |VIRUS is a method designed for generating adversarial data that can bypass moderation systems and disrupt the safety alignment of large language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
