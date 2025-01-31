@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New technology could make fridges cheaper and more eco-friendly.](https://www.theguardian.com/technology/2025/jan/31/new-technology-could-make-fridges-cheaper-more-eco-friendly) | Using thermogalvanic technology as cooling mechanism may significantly reduce power usage, research says|
 |[SoftBank ‘in talks’ to invest up to $25bn in OpenAI.](https://www.theguardian.com/technology/2025/jan/30/softbank-in-talks-to-invest-up-to-25bn-in-openai-chatgpt) |Reported move would make Japanese group largest financial backer of US startup behind ChatGPT |
 |[Tesla sees disappointing fourth-quarter earnings amid declining car deliveries.](https://www.theguardian.com/technology/2025/jan/29/tesla-earnings-weighed-vehicle-delivery-numbers) |Despite disappointing sales and delivery figures, the company’s stock price has doubled in the past year |
-|[.]() | |
+|[Scaling the Tülu 3 post-training recipes to surpass the performance of DeepSeek V3.](https://allenai.org/blog/tulu-3-405B) | AI2's Tulu-3, a language model with 405 billion parameters and open weights, outperforms DeepSeek V3 and even OpenAI's GPT-4o on important benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,7 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models.](https://github.com/value4ai/gpv) | This project presents Generative Psychometrics for Values, a new approach that leverages large language models to assess both human and AI values.|
 |[TART: Tool-Augmented Reasoning for Tables.](https://github.com/xinyuanlu00/tart) |TART enhances large language models by integrating computational tools, boosting accuracy and transparency in domains such as finance, science, and healthcare. |
 |[DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs.](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1) |Nathan Lambert breaks down the recipe for R1 and talks through what it means for us now and for the field broadly. Specifically, he focuses on the interesting application of reinforcement learning. |
-|[.]() | |
+|[Mistral Small 3.](https://mistral.ai/news/mistral-small-3/) | Mistral has launched a highly capable 24B model that delivers impressive performance, particularly with multilingual data. Its size makes it ideal for both deployment and power.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
