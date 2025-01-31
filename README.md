@@ -152,6 +152,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation.](https://arxiv.org/abs/2501.16684v1) | SliceOcc presents an innovative vertical slice approach for predicting 3D semantic occupancy in dense indoor settings. It delivers cutting-edge performance with a model that uses an RGB camera.|
 |[Reqo: A Robust and Explainable Query Optimization Cost Model.](https://arxiv.org/abs/2501.17414v1) |Reqo is an advanced query optimization model that utilizes Bi-GNN and probabilistic machine learning to enhance cost estimation precision. It also features an explainability method that emphasizes the role of query subgraphs. |
 |[Bypassing LLM Guardrails with VIRUS.](https://github.com/git-disl/virus) |VIRUS is a method designed for generating adversarial data that can bypass moderation systems and disrupt the safety alignment of large language models. |
+|[Rigging Chatbot Arena Rankings.](https://github.com/sail-sg/rigging-chatbotarena) |Researchers show that crowdsourced voting on Chatbot Arena can be manipulated through strategic rigging methods, either raising or lowering model rankings, which affects the reliability of the leaderboard. |
+|[Qwen2.5-VL Cookbooks.](https://github.com/QwenLM/Qwen2.5-VL/tree/main/cookbooks) | Qwen2.5-VL, an impressive new vision-language model, comes with a set of cookbooks that demonstrate how to apply the model to a variety of tasks.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
