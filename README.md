@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Omi Raises $2M to Build the Future of AI Wearables.](https://www.omi.me/blogs/news/omi-raises-2m-from-tim-draper) |Omi has raised $2M to develop an AI wearable that enhances mind and productivity. |
 |[AI isn’t very good at history, new paper finds.](https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/) | AI might excel at certain tasks like coding or generating a podcast. But it struggles to pass a high-level history exam, a new paper has found.|
 |[Oscar hopeful 'The Brutalist' used AI during production.](https://www.engadget.com/ai/oscar-hopeful-the-brutalist-used-ai-during-production-223016216.html) |The filmmakers of 'The Brutalist', driven by budget constraints, used AI from Respeecher to enhance actors' Hungarian pronunciation and generate architectural drawings. |
-|[.]() | |
-|[.]() | |
+|[DeepSeek, ChatGPT, Grok … which is the best AI assistant? We put them to the test.](https://www.theguardian.com/technology/2025/feb/01/deepseek-chatgpt-grok-gemini-claude-meta-ai-which-is-the-best-ai-assistant-we-put-them-to-the-test) | Chatbots we tested can write a mean sonnet and struggled with images of clocks, but vary in willingness to talk politics|
+|[OpenAI to release new artificial intelligence model for free.](https://www.theguardian.com/business/2025/jan/31/openai-to-release-new-artificial-intelligence-model-for-free) |Move to issue 03-mini model follows sudden arrival of much cheaper Chinese rival DeepSeek’s R1 |
 |[.]() | |
 |[.]() | |
 |[.]() | |
