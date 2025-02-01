@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Oscar hopeful 'The Brutalist' used AI during production.](https://www.engadget.com/ai/oscar-hopeful-the-brutalist-used-ai-during-production-223016216.html) |The filmmakers of 'The Brutalist', driven by budget constraints, used AI from Respeecher to enhance actors' Hungarian pronunciation and generate architectural drawings. |
 |[DeepSeek, ChatGPT, Grok … which is the best AI assistant? We put them to the test.](https://www.theguardian.com/technology/2025/feb/01/deepseek-chatgpt-grok-gemini-claude-meta-ai-which-is-the-best-ai-assistant-we-put-them-to-the-test) | Chatbots we tested can write a mean sonnet and struggled with images of clocks, but vary in willingness to talk politics|
 |[OpenAI to release new artificial intelligence model for free.](https://www.theguardian.com/business/2025/jan/31/openai-to-release-new-artificial-intelligence-model-for-free) |Move to issue 03-mini model follows sudden arrival of much cheaper Chinese rival DeepSeek’s R1 |
-|[.]() | |
+|[Italian investigative journalist targeted on WhatsApp by Israeli spyware.](https://www.theguardian.com/technology/2025/jan/31/italian-journalist-whatsapp-israeli-spyware) | Francesco Cancellato, whose reporting exposes fascists within PM Meloni’s far-right party, condemns ‘violation’|
 |[.]() | |
 |[.]() | |
 |[.]() | |
