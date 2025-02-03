@@ -46,8 +46,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs.](https://arxiv.org/abs/2501.18585) |This work examines the "thinking" patterns of o1-like LLMs in greater detail. Recent papers have highlighted issues related to overthinking, but now a new phenomenon, called underthinking, has been identified. What is it? The authors observe that o1-like LLMs often shift between different reasoning paths without fully exploring the most promising ones, which can hinder reaching the correct solution. |
-|[.]() | |
-|[.]() | |
+|[Diverse Preference Optimization.](https://arxiv.org/abs/2501.18101) | Diverse Preference Optimization (DivPO) is a new training method that enhances the diversity of language model outputs without sacrificing quality. Unlike traditional approaches like RLHF, which often result in similar responses, DivPO selects diverse training pairs by comparing a highly diverse response with a less diverse one. It measures diversity using various criteria, such as model probability or word frequency. In tests on persona generation and creative writing, DivPO significantly increased output diversity while maintaining similar quality to existing methods.|
+|[Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies.](https://arxiv.org/abs/2501.17030) |This paper offers a collection of guidelines for effectively prompting the DeepSeek-R1 model. Key recommendations include crafting clear and well-structured prompts with explicit instructions, avoiding few-shot prompting in favor of zero-shot approaches, and specifying the desired output format, such as JSON, tables, or markdown. For reasoning tasks, requesting step-by-step explanations is advised. Additionally, it is important to clearly define the input and output language to prevent mixing. The paper also covers the appropriate use cases for different model variants, the best times to fine-tune the model, and important safety considerations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
