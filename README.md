@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides.](https://arxiv.org/abs/2501.03936v1) | PPTAgent offers presentation generation through a two-stage, edit-based approach inspired by human workflows.|
 |[1.58-bit FLUX.](https://arxiv.org/abs/2412.18653) | The 1.58-bit FLUX effectively quantizes the FLUX.1-dev text-to-image model with minimal weights, preserving its performance. This technique works without image data, depending on self-supervision. It greatly decreases model storage and memory usage, while enhancing inference speed.|
 |[Phi-4.](https://huggingface.co/microsoft/phi-4) | Microsoft has released the benchmark topping synthetic data models on Hugging Face for commercial use due to the MIT license|
-|[.]() | |
-|[.]() | |
+|[LLMs' Guardrails.](https://github.com/yueliu1999/guardreasoner) |GuardReasoner presents a reasoning-driven safeguard for LLMs, enhancing explainability and generalizability in safety-sensitive applications. It surpasses GPT-4o+CoT and LLaMA Guard 3 in various benchmarks. The training data, models, and code have been released to the public. |
+|[aiMotive 3D Traffic Light and Traffic Sign Dataset.](https://github.com/aimotive/aimotive_tl_ts_dataset) |This project introduces a novel method for creating precise 3D bounding box annotations for traffic lights and road signs, which are essential for self-driving vehicles. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
