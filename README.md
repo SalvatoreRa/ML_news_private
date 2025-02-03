@@ -74,7 +74,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inside the “Virtual Lab” where AIs and humans collaborate.](https://www.freethink.com/artificial-intelligence/virtual-lab-interdisciplinary-research) |Stanford's "Virtual Lab" employs AI agents as partners in scientific research, with the goal of addressing complex challenges through interdisciplinary collaboration. Researchers showcase its capabilities in projects such as creating COVID-19 treatments by simulating expert interactions among AI agents. This framework enables scientists to build AI-driven expertise, presenting a fresh approach to collaborative research and innovation. |
 |[Alibaba’s Qwen team releases AI models that can control PCs and phones.](https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/) |Chinese AI lab DeepSeek might be getting the bulk of the tech industry’s attention this week. But one of its top domestic rivals, Alibaba, isn’t sitting idly by. |
 |[Quartz has been quietly publishing AI-generated news articles.](https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/) | Quartz has been employing AI to create articles by aggregating content from sources such as CNN and TechCrunch through its "Quartz Intelligence Newsroom."|
-|[.]() | |
+|[Zuckerberg Says Meta to Spend Up to $65 Billion on AI in ’25.](https://www.bnnbloomberg.ca/business/technology/2025/01/27/zuckerberg-says-meta-to-spend-up-to-65-billion-on-ai-in-25) | Meta plans to invest up to $65 billion in AI projects, build a massive data center, and expand AI teams by 2025.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Top AI Investor Says Goal Is to Crash Human Wages.](https://futurism.com/the-byte/ai-investor-goal-crash-human-wages) | Marc Andreessen proposes that AI should "crash" wages to create an economic utopia, focusing on productivity improvements and lower consumer prices. His perspective aligns with a broader tech industry mindset that emphasizes economic transformation over addressing job market disruptions. Critics point out the gap in the visions of tech leaders, which often fail to provide immediate solutions for workers impacted by these changes.|
 |[Will DeepSeek Burst VC’s AI Bubble?](https://news.crunchbase.com/ai/chinas-deepseek-tech-openai-nvda/) |The launch of DeepSeek, a Chinese AI app that asserts better performance at lower costs, led to notable declines in tech stocks, including Nvidia. This development raises worries about the U.S. losing ground in AI, which significantly affects investors and VCs heavily invested in AI startups. As DeepSeek's model competes with established AI giants, it sparks concerns about future funding and the U.S.'s competitiveness in the global AI race. |
-|[.]() | |
+|[DeepSeek's R1 curiously tells El Reg reader: 'My guidelines are set by OpenAI'.](https://www.theregister.com/2025/01/27/deepseek_r1_identity/) | DeepSeek's open-source R1 LLM demonstrates strong benchmark performance but faces challenges with self-identification and inconsistent responses.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
