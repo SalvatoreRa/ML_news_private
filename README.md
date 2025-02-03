@@ -71,8 +71,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Inside the “Virtual Lab” where AIs and humans collaborate.](https://www.freethink.com/artificial-intelligence/virtual-lab-interdisciplinary-research) |Stanford's "Virtual Lab" employs AI agents as partners in scientific research, with the goal of addressing complex challenges through interdisciplinary collaboration. Researchers showcase its capabilities in projects such as creating COVID-19 treatments by simulating expert interactions among AI agents. This framework enables scientists to build AI-driven expertise, presenting a fresh approach to collaborative research and innovation. |
+|[Alibaba’s Qwen team releases AI models that can control PCs and phones.](https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/) |Chinese AI lab DeepSeek might be getting the bulk of the tech industry’s attention this week. But one of its top domestic rivals, Alibaba, isn’t sitting idly by. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
