@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Phi-4.](https://huggingface.co/microsoft/phi-4) | Microsoft has released the benchmark topping synthetic data models on Hugging Face for commercial use due to the MIT license|
 |[LLMs' Guardrails.](https://github.com/yueliu1999/guardreasoner) |GuardReasoner presents a reasoning-driven safeguard for LLMs, enhancing explainability and generalizability in safety-sensitive applications. It surpasses GPT-4o+CoT and LLaMA Guard 3 in various benchmarks. The training data, models, and code have been released to the public. |
 |[aiMotive 3D Traffic Light and Traffic Sign Dataset.](https://github.com/aimotive/aimotive_tl_ts_dataset) |This project introduces a novel method for creating precise 3D bounding box annotations for traffic lights and road signs, which are essential for self-driving vehicles. |
-|[.]() | |
+|[OpenThoughts Dataset.](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) |A comprehensive synthetic reasoning dataset from R1, containing 114k examples of reasoning tasks, which can be utilized to train powerful reasoners through distillation or serve as a starting point for RL cold start. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Top AI Investor Says Goal Is to Crash Human Wages.](https://futurism.com/the-byte/ai-investor-goal-crash-human-wages) | Marc Andreessen proposes that AI should "crash" wages to create an economic utopia, focusing on productivity improvements and lower consumer prices. His perspective aligns with a broader tech industry mindset that emphasizes economic transformation over addressing job market disruptions. Critics point out the gap in the visions of tech leaders, which often fail to provide immediate solutions for workers impacted by these changes.|
-|[.]() | |
+|[Will DeepSeek Burst VC’s AI Bubble?](https://news.crunchbase.com/ai/chinas-deepseek-tech-openai-nvda/) |The launch of DeepSeek, a Chinese AI app that asserts better performance at lower costs, led to notable declines in tech stocks, including Nvidia. This development raises worries about the U.S. losing ground in AI, which significantly affects investors and VCs heavily invested in AI startups. As DeepSeek's model competes with established AI giants, it sparks concerns about future funding and the U.S.'s competitiveness in the global AI race. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
