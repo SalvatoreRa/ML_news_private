@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space.](https://arxiv.org/abs/2501.12224) |TokenVerse, introduced by Google DeepMind and collaborators, presents a new technique for generating images from learned concepts in a specific configuration. It enables multi-concept personalization by utilizing a pre-trained text-to-image diffusion model to separate and extract complex visual concepts from multiple images. Operating within the modulation space of DiTs, TokenVerse learns a personalized modulation vector for each text token in an input caption. This method provides flexible and localized control over distinct concepts like objects, materials, lighting, and poses. The learned token modulations can be combined in innovative ways to create new images that integrate multiple personalized concepts, all without the need for additional segmentation masks. |
 |[AI to revolutionise fundamental physics and ‘could show how universe will end’.](https://www.theguardian.com/science/2025/feb/03/ai-to-revolutionise-fundamental-physics-and-could-show-how-universe-will-end) |Cern’s next director general Mark Thomson says AI is paving the way for huge advances in particle physics |
 |[Was this the week DeepSeek started the slow unwinding of the AI bet?](https://www.theguardian.com/technology/2025/feb/01/was-this-the-week-deepseek-started-the-slow-unwinding-of-the-ai-bet) |The cheap Chinese chatbot has stunned tech giants – and opened up the possibility that other countries, not just China, could now afford to enter the AI race |
-|[.]() | |
+|[A Controlled Study on Long Context Extension and Generalization in LLMs.](https://github.com/leooyii/lceg) | This study examines how language models manage long-document contexts by evaluating different extension methods through a controlled analysis. It emphasizes that perplexity continues to be a crucial performance metric, while approximate attention techniques face challenges with longer contexts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Top AI Investor Says Goal Is to Crash Human Wages.](https://futurism.com/the-byte/ai-investor-goal-crash-human-wages) | Marc Andreessen proposes that AI should "crash" wages to create an economic utopia, focusing on productivity improvements and lower consumer prices. His perspective aligns with a broader tech industry mindset that emphasizes economic transformation over addressing job market disruptions. Critics point out the gap in the visions of tech leaders, which often fail to provide immediate solutions for workers impacted by these changes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
