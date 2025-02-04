@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Zuckerberg Says Meta to Spend Up to $65 Billion on AI in ’25.](https://www.bnnbloomberg.ca/business/technology/2025/01/27/zuckerberg-says-meta-to-spend-up-to-65-billion-on-ai-in-25) | Meta plans to invest up to $65 billion in AI projects, build a massive data center, and expand AI teams by 2025.|
 |[‘Dear, did you say pastry?’: meet the ‘AI granny’ driving scammers up the wall.](https://www.theguardian.com/money/2025/feb/04/ai-granny-scammers-phone-fraud) |Daisy’s dithering frustrates phone fraudsters and wastes time they could be using to scam real people |
 |[OpenAI's Deep Research.](https://openai.com/index/introducing-deep-research/) |OpenAI has launched "Deep Research," an autonomous research agent within ChatGPT that can carry out multi-step research by synthesizing extensive online sources. It runs on an optimized version of the upcoming OpenAI o3 model. |
-|[.]() | |
+|[AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt.](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/) | Nepenthes is a tarpit malware created to trap and corrupt AI web crawlers that disregard robots.txt rules. The release of Nepenthes has led to the development of other tools, such as Iocaine, which aim to disrupt AI data collection and have a financial impact on the industry.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek's R1 curiously tells El Reg reader: 'My guidelines are set by OpenAI'.](https://www.theregister.com/2025/01/27/deepseek_r1_identity/) | DeepSeek's open-source R1 LLM demonstrates strong benchmark performance but faces challenges with self-identification and inconsistent responses.|
 |[AI systems could be ‘caused to suffer’ if consciousness achieved, says research.](https://www.theguardian.com/technology/2025/feb/03/ai-systems-could-be-caused-to-suffer-if-consciousness-achieved-says-research) | Experts and thinkers signed open letter expressing concern over irresponsible development of technology|
 |[Why everyone is freaking out about DeepSeek.](https://www.theverge.com/ai-artificial-intelligence/598846/deepseek-big-tech-ai-industry-nvidia-impac) |DeepSeek's AI models, which are much more cost-effective to train than other leading models, have disrupted the AI market and could pose a challenge to Nvidia and other tech giants by demonstrating efficient resource usage. This has unsettled investor confidence in the AI sector, which has long believed that higher spending leads to better performance. DeepSeek's success indicates that innovation, rather than simply financial investment, could reshape the competitive landscape. |
-|[.]() | |
+|[OpenAI’s new anti-jobs program.](https://www.vox.com/future-perfect/396548/openai-trump-artificial-intelligence-elon-musk-sam-altman-china) |OpenAI plans to invest $500 billion in "Stargate," a project focused on developing AI infrastructure, while economists question the job-creation claim, as automation could handle most computer-based tasks. DeepSeek has made notable strides in self-improving reinforcement learning, potentially accelerating AI capabilities. This highlights China's rapid advancements in AI and emphasizes the geopolitical stakes in the ongoing technology race. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
