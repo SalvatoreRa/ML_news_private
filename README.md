@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Controlled Study on Long Context Extension and Generalization in LLMs.](https://github.com/leooyii/lceg) | This study examines how language models manage long-document contexts by evaluating different extension methods through a controlled analysis. It emphasizes that perplexity continues to be a crucial performance metric, while approximate attention techniques face challenges with longer contexts.|
 |[Constitutional Classifiers: Defending against universal jailbreaks.](https://www.anthropic.com/research/constitutional-classifiers) |A new paper from the Anthropic Safeguards Research Team outlines a method that protects AI models from universal jailbreaks. A prototype of this method proved resilient against thousands of hours of human red teaming for universal jailbreaks, though it had high over-refusal rates and significant compute overhead. An updated version maintained similar robustness in synthetic evaluations, with only a 0.38% increase in refusal rates and moderate additional compute costs. |
 |[s1: Simple test-time scaling.](https://arxiv.org/abs/2501.19393) | A comprehensive and detailed paper investigates methods to encourage models to use more thinking tokens. One key finding is that by using a high-quality curated dataset of 1k examples and appending "wait" at the end of a thinking sequence, models can be encouraged to think for longer periods, resulting in significantly improved performance on math and reasoning tasks.|
-|[.]() | |
+|[Decoding-based Regression.](https://arxiv.org/abs/2501.19383v1) |DeepMind researchers examined how language models can handle regression tasks by interpreting numeric predictions as text, and found them to be as effective as traditional regression models, while also offering the added benefit of flexible density estimation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs' Guardrails.](https://github.com/yueliu1999/guardreasoner) |GuardReasoner presents a reasoning-driven safeguard for LLMs, enhancing explainability and generalizability in safety-sensitive applications. It surpasses GPT-4o+CoT and LLaMA Guard 3 in various benchmarks. The training data, models, and code have been released to the public. |
 |[aiMotive 3D Traffic Light and Traffic Sign Dataset.](https://github.com/aimotive/aimotive_tl_ts_dataset) |This project introduces a novel method for creating precise 3D bounding box annotations for traffic lights and road signs, which are essential for self-driving vehicles. |
 |[OpenThoughts Dataset.](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) |A comprehensive synthetic reasoning dataset from R1, containing 114k examples of reasoning tasks, which can be utilized to train powerful reasoners through distillation or serve as a starting point for RL cold start. |
-|[.]() | |
+|[Diffusion Autoencoders are Scalable Image Tokenizers.](https://yinboc.github.io/dito/) |The current cornerstone of multimodal understanding and generation is learned tokenizers. These models are usually autoencoder-based with a learned discrete codebook. While they perform well, they are difficult to train and demand meticulous tuning of several auxiliary losses. This work demonstrates that with just a single diffusion loss, image tokenization becomes stable, scalable, and yields higher quality than many conventional methods. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
