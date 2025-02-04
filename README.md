@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Kron Optimizer.](https://github.com/evanatyourservice/kron_torch) |Kron is a new optimizer gaining attention as a powerful alternative to second-order methods. It significantly outperforms Adam across several baselines. This code serves as a drop-in optimizer for PyTorch |
 |[Oumi: Everything you need to build state-of-the-art foundation models.](https://github.com/oumi-ai/oumi) | Oumi is a completely open-source platform that simplifies the entire lifecycle of foundation models, from data preparation and training to evaluation and deployment. Whether you're working on a laptop, running large-scale experiments on a cluster, or deploying models in production, Oumi offers the tools and workflows required.|
 |[RaySplats: Ray Tracing based Gaussian Splatting.](https://github.com/kbyrski/raysplatting) | RaySplats improves 3D Gaussian Splatting by incorporating ray tracing, enhancing the management of light and shadows in 3D object rendering, all while preserving fast training and rendering speeds.|
-|[.]() | |
+|[A Little Bit of Reinforcement Learning from Human Feedback.](https://rlhfbook.com/c/11-policy-gradients.html) | An excellent chapter on various policy gradient methods, such as PPO and GRPO, which can be applied to fine-tune generative auto-regressive models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
