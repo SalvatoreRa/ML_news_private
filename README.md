@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI to revolutionise fundamental physics and ‘could show how universe will end’.](https://www.theguardian.com/science/2025/feb/03/ai-to-revolutionise-fundamental-physics-and-could-show-how-universe-will-end) |Cern’s next director general Mark Thomson says AI is paving the way for huge advances in particle physics |
 |[Was this the week DeepSeek started the slow unwinding of the AI bet?](https://www.theguardian.com/technology/2025/feb/01/was-this-the-week-deepseek-started-the-slow-unwinding-of-the-ai-bet) |The cheap Chinese chatbot has stunned tech giants – and opened up the possibility that other countries, not just China, could now afford to enter the AI race |
 |[A Controlled Study on Long Context Extension and Generalization in LLMs.](https://github.com/leooyii/lceg) | This study examines how language models manage long-document contexts by evaluating different extension methods through a controlled analysis. It emphasizes that perplexity continues to be a crucial performance metric, while approximate attention techniques face challenges with longer contexts.|
-|[.]() | |
+|[Constitutional Classifiers: Defending against universal jailbreaks.](https://www.anthropic.com/research/constitutional-classifiers) |A new paper from the Anthropic Safeguards Research Team outlines a method that protects AI models from universal jailbreaks. A prototype of this method proved resilient against thousands of hours of human red teaming for universal jailbreaks, though it had high over-refusal rates and significant compute overhead. An updated version maintained similar robustness in synthetic evaluations, with only a 0.38% increase in refusal rates and moderate additional compute costs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -76,7 +76,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quartz has been quietly publishing AI-generated news articles.](https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/) | Quartz has been employing AI to create articles by aggregating content from sources such as CNN and TechCrunch through its "Quartz Intelligence Newsroom."|
 |[Zuckerberg Says Meta to Spend Up to $65 Billion on AI in ’25.](https://www.bnnbloomberg.ca/business/technology/2025/01/27/zuckerberg-says-meta-to-spend-up-to-65-billion-on-ai-in-25) | Meta plans to invest up to $65 billion in AI projects, build a massive data center, and expand AI teams by 2025.|
 |[‘Dear, did you say pastry?’: meet the ‘AI granny’ driving scammers up the wall.](https://www.theguardian.com/money/2025/feb/04/ai-granny-scammers-phone-fraud) |Daisy’s dithering frustrates phone fraudsters and wastes time they could be using to scam real people |
-|[.]() | |
+|[OpenAI's Deep Research.](https://openai.com/index/introducing-deep-research/) |OpenAI has launched "Deep Research," an autonomous research agent within ChatGPT that can carry out multi-step research by synthesizing extensive online sources. It runs on an optimized version of the upcoming OpenAI o3 model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
