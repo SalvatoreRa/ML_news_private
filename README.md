@@ -75,7 +75,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Alibaba’s Qwen team releases AI models that can control PCs and phones.](https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/) |Chinese AI lab DeepSeek might be getting the bulk of the tech industry’s attention this week. But one of its top domestic rivals, Alibaba, isn’t sitting idly by. |
 |[Quartz has been quietly publishing AI-generated news articles.](https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/) | Quartz has been employing AI to create articles by aggregating content from sources such as CNN and TechCrunch through its "Quartz Intelligence Newsroom."|
 |[Zuckerberg Says Meta to Spend Up to $65 Billion on AI in ’25.](https://www.bnnbloomberg.ca/business/technology/2025/01/27/zuckerberg-says-meta-to-spend-up-to-65-billion-on-ai-in-25) | Meta plans to invest up to $65 billion in AI projects, build a massive data center, and expand AI teams by 2025.|
-|[.]() | |
+|[‘Dear, did you say pastry?’: meet the ‘AI granny’ driving scammers up the wall.](https://www.theguardian.com/money/2025/feb/04/ai-granny-scammers-phone-fraud) |Daisy’s dithering frustrates phone fraudsters and wastes time they could be using to scam real people |
 |[.]() | |
 |[.]() | |
 |[.]() | |
