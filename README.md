@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Jack Dorsey’s Block has an AI agent too.](https://www.engadget.com/ai/jack-dorseys-block-has-an-ai-agent-too-212706083.html) | Jack Dorsey's Block has created an open-source AI agent called "codename goose" to automate engineering tasks using well-known LLMs.|
 |[Google owner drops promise not to use AI for weapons.](https://www.theguardian.com/technology/2025/feb/05/google-owner-drops-promise-not-to-use-ai-for-weapons) | Alphabet guidelines no longer refer to not pursuing technologies that could ‘cause or are likely to cause overall harm’|
 |[AI ‘godfather’ predicts another revolution in the tech in next five years.](https://www.theguardian.com/technology/2025/feb/04/ai-godfather-predicts-another-revolution-in-the-tech-in-next-five-years) |Meta’s Yann LeCun says current systems too limited to create domestic robots and fully automated cars |
-|[.]() | |
-|[.]() | |
+|[Google parent Alphabet’s earnings disappoint Wall Street amid stiff AI competition.](https://www.theguardian.com/technology/2025/feb/04/google-alphabets-q4-earnings) |Revenue slowdown reflects ‘challenging year’ firm has had and 2025 may be year it loses competitive edge, say analysts |
+|[Does AI need all that money? (Tech giants say yes).](https://www.theguardian.com/technology/2025/feb/04/ai-doomers-play-rfk-jr-seed-oils) | Meta and Microsoft commit to tens of billions to build out AI infrastructure, having lavished tens of billions already|
 |[.]() | |
 |[.]() | |
 |[.]() | |
