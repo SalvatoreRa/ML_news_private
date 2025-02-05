@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[s1: Simple test-time scaling.](https://arxiv.org/abs/2501.19393) | A comprehensive and detailed paper investigates methods to encourage models to use more thinking tokens. One key finding is that by using a high-quality curated dataset of 1k examples and appending "wait" at the end of a thinking sequence, models can be encouraged to think for longer periods, resulting in significantly improved performance on math and reasoning tasks.|
 |[Decoding-based Regression.](https://arxiv.org/abs/2501.19383v1) |DeepMind researchers examined how language models can handle regression tasks by interpreting numeric predictions as text, and found them to be as effective as traditional regression models, while also offering the added benefit of flexible density estimation. |
 |[China unveils US tariffs and Google investigation in response to Trump levies.](https://www.theguardian.com/us-news/2025/feb/04/trump-china-tariffs) | Tariffs on coal, LNG, crude oil and other goods announced after US imposes levy on imports|
-|[.]() | |
+|[Harmonic Loss Trains Interpretable AI Models.](https://arxiv.org/abs/2502.01628) |Harmonic loss is an alternative to cross-entropy loss for training neural networks, providing better interpretability and faster convergence through scale invariance and finite convergence points. Experiments across algorithmic, vision, and language datasets show that models trained with harmonic loss outperform standard models in terms of interpretability, data efficiency, and reduced grokking. Harmonic loss could be especially useful for applications with limited data or where interpretability is essential. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google parent Alphabet’s earnings disappoint Wall Street amid stiff AI competition.](https://www.theguardian.com/technology/2025/feb/04/google-alphabets-q4-earnings) |Revenue slowdown reflects ‘challenging year’ firm has had and 2025 may be year it loses competitive edge, say analysts |
 |[Does AI need all that money? (Tech giants say yes).](https://www.theguardian.com/technology/2025/feb/04/ai-doomers-play-rfk-jr-seed-oils) | Meta and Microsoft commit to tens of billions to build out AI infrastructure, having lavished tens of billions already|
 |[Google Q4 2024 Earnings: CEO Pichai Says DeepSeek Models Less ‘Efficient’ Than Gemini’s.](https://www.crn.com/news/ai/2025/google-q4-2024-earnings-ceo-pichai-says-deepseek-models-less-efficient-than-gemini-s) | Sundar Pichai has downplayed the effectiveness of DeepSeek's AI models, claiming that Google's Gemini models, especially Gemini 2.0 Flash, outperform them, despite DeepSeek's disruptive influence on the AI market.|
-|[.]() | |
+|[US Copyright Office rules out copyright for AI created content without human input.](https://www.techspot.com/news/106562-us-copyright-office-rules-out-copyright-ai-created.html) |The US Copyright Office has stated that AI-generated works created without human involvement cannot be copyrighted. While AI tools that assist with creativity, such as de-aging actors, do not restrict copyright protection, purely generative AI outputs require additional examination. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
