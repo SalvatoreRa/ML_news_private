@@ -80,8 +80,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt.](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/) | Nepenthes is a tarpit malware created to trap and corrupt AI web crawlers that disregard robots.txt rules. The release of Nepenthes has led to the development of other tools, such as Iocaine, which aim to disrupt AI data collection and have a financial impact on the industry.|
 |[Chinese AI firm DeepSeek has 50,000 NVIDIA H100 AI GPUs says CEO, even with US restrictions.](https://www.tweaktown.com/news/102798/chinese-ai-firm-deepseek-has-50-000-nvidia-h100-gpus-says-ceo-even-with-us-restrictions/index.html) | DeepSeek, a Chinese AI lab, utilized tens of thousands of NVIDIA H100 GPUs to develop its R1 model, positioning it as a competitor to leading AI models like OpenAI's o1 and Meta's Llama. |
 |[Jack Dorsey’s Block has an AI agent too.](https://www.engadget.com/ai/jack-dorseys-block-has-an-ai-agent-too-212706083.html) | Jack Dorsey's Block has created an open-source AI agent called "codename goose" to automate engineering tasks using well-known LLMs.|
-|[.]() | |
-|[.]() | |
+|[Google owner drops promise not to use AI for weapons.](https://www.theguardian.com/technology/2025/feb/05/google-owner-drops-promise-not-to-use-ai-for-weapons) | Alphabet guidelines no longer refer to not pursuing technologies that could ‘cause or are likely to cause overall harm’|
+|[AI ‘godfather’ predicts another revolution in the tech in next five years.](https://www.theguardian.com/technology/2025/feb/04/ai-godfather-predicts-another-revolution-in-the-tech-in-next-five-years) |Meta’s Yann LeCun says current systems too limited to create domestic robots and fully automated cars |
 |[.]() | |
 |[.]() | |
 |[.]() | |
