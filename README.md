@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI ‘godfather’ predicts another revolution in the tech in next five years.](https://www.theguardian.com/technology/2025/feb/04/ai-godfather-predicts-another-revolution-in-the-tech-in-next-five-years) |Meta’s Yann LeCun says current systems too limited to create domestic robots and fully automated cars |
 |[Google parent Alphabet’s earnings disappoint Wall Street amid stiff AI competition.](https://www.theguardian.com/technology/2025/feb/04/google-alphabets-q4-earnings) |Revenue slowdown reflects ‘challenging year’ firm has had and 2025 may be year it loses competitive edge, say analysts |
 |[Does AI need all that money? (Tech giants say yes).](https://www.theguardian.com/technology/2025/feb/04/ai-doomers-play-rfk-jr-seed-oils) | Meta and Microsoft commit to tens of billions to build out AI infrastructure, having lavished tens of billions already|
-|[.]() | |
+|[Google Q4 2024 Earnings: CEO Pichai Says DeepSeek Models Less ‘Efficient’ Than Gemini’s.](https://www.crn.com/news/ai/2025/google-q4-2024-earnings-ceo-pichai-says-deepseek-models-less-efficient-than-gemini-s) | Sundar Pichai has downplayed the effectiveness of DeepSeek's AI models, claiming that Google's Gemini models, especially Gemini 2.0 Flash, outperform them, despite DeepSeek's disruptive influence on the AI market.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Oumi: Everything you need to build state-of-the-art foundation models.](https://github.com/oumi-ai/oumi) | Oumi is a completely open-source platform that simplifies the entire lifecycle of foundation models, from data preparation and training to evaluation and deployment. Whether you're working on a laptop, running large-scale experiments on a cluster, or deploying models in production, Oumi offers the tools and workflows required.|
 |[RaySplats: Ray Tracing based Gaussian Splatting.](https://github.com/kbyrski/raysplatting) | RaySplats improves 3D Gaussian Splatting by incorporating ray tracing, enhancing the management of light and shadows in 3D object rendering, all while preserving fast training and rendering speeds.|
 |[A Little Bit of Reinforcement Learning from Human Feedback.](https://rlhfbook.com/c/11-policy-gradients.html) | An excellent chapter on various policy gradient methods, such as PPO and GRPO, which can be applied to fine-tune generative auto-regressive models.|
-|[.]() | |
+|[Open-source DeepResearch – Freeing our search agents.](https://huggingface.co/blog/open-deep-research) | Hugging Face tried to replicate OpenAI's Deep Research, an agent-based web-search framework that greatly enhanced performance on the GAIA benchmark, by conducting a 24-hour experiment with the goal of open-sourcing a similar system.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
