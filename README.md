@@ -59,6 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Decoding-based Regression.](https://arxiv.org/abs/2501.19383v1) |DeepMind researchers examined how language models can handle regression tasks by interpreting numeric predictions as text, and found them to be as effective as traditional regression models, while also offering the added benefit of flexible density estimation. |
 |[China unveils US tariffs and Google investigation in response to Trump levies.](https://www.theguardian.com/us-news/2025/feb/04/trump-china-tariffs) | Tariffs on coal, LNG, crude oil and other goods announced after US imposes levy on imports|
 |[Harmonic Loss Trains Interpretable AI Models.](https://arxiv.org/abs/2502.01628) |Harmonic loss is an alternative to cross-entropy loss for training neural networks, providing better interpretability and faster convergence through scale invariance and finite convergence points. Experiments across algorithmic, vision, and language datasets show that models trained with harmonic loss outperform standard models in terms of interpretability, data efficiency, and reduced grokking. Harmonic loss could be especially useful for applications with limited data or where interpretability is essential. |
+|[Vintix: Action Model via In-Context Reinforcement Learning.](https://arxiv.org/abs/2501.19400v1) | This study investigates scaling In-Context Reinforcement Learning (ICRL) to wider domains through Algorithm Distillation, demonstrating that ICRL can serve as a viable alternative to expert distillation for generalist decision-making systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,8 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[RaySplats: Ray Tracing based Gaussian Splatting.](https://github.com/kbyrski/raysplatting) | RaySplats improves 3D Gaussian Splatting by incorporating ray tracing, enhancing the management of light and shadows in 3D object rendering, all while preserving fast training and rendering speeds.|
 |[A Little Bit of Reinforcement Learning from Human Feedback.](https://rlhfbook.com/c/11-policy-gradients.html) | An excellent chapter on various policy gradient methods, such as PPO and GRPO, which can be applied to fine-tune generative auto-regressive models.|
 |[Open-source DeepResearch – Freeing our search agents.](https://huggingface.co/blog/open-deep-research) | Hugging Face tried to replicate OpenAI's Deep Research, an agent-based web-search framework that greatly enhanced performance on the GAIA benchmark, by conducting a 24-hour experiment with the goal of open-sourcing a similar system.|
-|[.]() | |
-|[.]() | |
+|[The Surprising Agreement Between Convex Optimization Theory and Learning-Rate Scheduling for Large Model Training.](https://arxiv.org/abs/2501.18965) |Learning-rate schedules for large models align closely with theoretical bounds from non-smooth convex optimization. The authors present a bound for constant schedules with linear cooldown, demonstrating the practical advantages of cooldown by eliminating logarithmic terms in the bound. Their findings led to practical enhancements in training Llama-type models through optimal learning-rate extension and cross-schedule transfer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
