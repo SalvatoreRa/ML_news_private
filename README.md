@@ -118,6 +118,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Little Bit of Reinforcement Learning from Human Feedback.](https://rlhfbook.com/c/11-policy-gradients.html) | An excellent chapter on various policy gradient methods, such as PPO and GRPO, which can be applied to fine-tune generative auto-regressive models.|
 |[Open-source DeepResearch – Freeing our search agents.](https://huggingface.co/blog/open-deep-research) | Hugging Face tried to replicate OpenAI's Deep Research, an agent-based web-search framework that greatly enhanced performance on the GAIA benchmark, by conducting a 24-hour experiment with the goal of open-sourcing a similar system.|
 |[The Surprising Agreement Between Convex Optimization Theory and Learning-Rate Scheduling for Large Model Training.](https://arxiv.org/abs/2501.18965) |Learning-rate schedules for large models align closely with theoretical bounds from non-smooth convex optimization. The authors present a bound for constant schedules with linear cooldown, demonstrating the practical advantages of cooldown by eliminating logarithmic terms in the bound. Their findings led to practical enhancements in training Llama-type models through optimal learning-rate extension and cross-schedule transfer. |
+|[GOT OCR 2.0 Weights.](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) | One of the top OCR models is now accessible and integrated within the Hugging Face ecosystem. It performs excellently on both documents and sheet music.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
