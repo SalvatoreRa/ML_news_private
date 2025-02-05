@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Constitutional Classifiers: Defending against universal jailbreaks.](https://www.anthropic.com/research/constitutional-classifiers) |A new paper from the Anthropic Safeguards Research Team outlines a method that protects AI models from universal jailbreaks. A prototype of this method proved resilient against thousands of hours of human red teaming for universal jailbreaks, though it had high over-refusal rates and significant compute overhead. An updated version maintained similar robustness in synthetic evaluations, with only a 0.38% increase in refusal rates and moderate additional compute costs. |
 |[s1: Simple test-time scaling.](https://arxiv.org/abs/2501.19393) | A comprehensive and detailed paper investigates methods to encourage models to use more thinking tokens. One key finding is that by using a high-quality curated dataset of 1k examples and appending "wait" at the end of a thinking sequence, models can be encouraged to think for longer periods, resulting in significantly improved performance on math and reasoning tasks.|
 |[Decoding-based Regression.](https://arxiv.org/abs/2501.19383v1) |DeepMind researchers examined how language models can handle regression tasks by interpreting numeric predictions as text, and found them to be as effective as traditional regression models, while also offering the added benefit of flexible density estimation. |
-|[.]() | |
+|[China unveils US tariffs and Google investigation in response to Trump levies.](https://www.theguardian.com/us-news/2025/feb/04/trump-china-tariffs) | Tariffs on coal, LNG, crude oil and other goods announced after US imposes levy on imports|
 |[.]() | |
 |[.]() | |
 |[.]() | |
