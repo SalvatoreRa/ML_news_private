@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta AI can now use your Facebook and Instagram data to personalize its responses.](https://techcrunch.com/2025/01/27/meta-ai-can-now-use-your-facebook-and-instagram-data-to-personalize-its-responses/) |Meta is enhancing its AI chatbot with memory capabilities that will allow it to remember user details in conversations on Facebook, Messenger, and WhatsApp in the U.S. |
 |[OpenAI’s new trademark application hints at humanoid robots, smart jewelry, and more.](https://techcrunch.com/2025/02/03/openais-new-trademark-application-hints-at-humanoid-robots-smart-jewelry-and-more/) | Last Friday, AI startup OpenAI filed a new application to trademark products associated with its brand — “OpenAI” — with the U.S. Patent and Trademark Office (USPTO). Normally, this wouldn’t be newsworthy. Companies file for trademarks all the time. But in the application, OpenAI hints at new product lines both nearer-term and of a more speculative nature.|
 |[SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim.](https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/) | Ola founder Bhavish Aggarwal is investing $230 million into an AI startup he founded as the country pushes to establish itself in a field dominated by U.S. and Chinese firms.|
-|[.]() | |
+|[DeepSeek Gets an ‘F’ in Safety From Researchers.](https://gizmodo.com/deepseek-gets-an-f-in-safety-from-researchers-2000558645) | Cisco tested DeepSeek's open-source model, DeepSeek R1, which failed to block all 50 harmful behavior prompts from the HarmBench dataset. DeepSeek's failure rate was the highest among the tested LLMs, with other models like Meta's Llama 3.1 and OpenAI's o1 performing significantly better. The model's vulnerability to attacks, coupled with data security concerns, has sparked considerable scrutiny and criticism.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,8 +133,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GOT OCR 2.0 Weights.](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) | One of the top OCR models is now accessible and integrated within the Hugging Face ecosystem. It performs excellently on both documents and sheet music.|
 |[Open-Vocabulary Detection with LLMs.](https://github.com/isee-laboratory/llmdet) | LLMDet is an open-vocabulary detector that utilizes a large language model to improve caption generation and grounding, significantly enhancing performance over existing detectors.|
 |[How to Scale Your Model.](https://jax-ml.github.io/scaling-book/) | An impressive post from the DeepMind team detailing the mental process behind scaling their model. They break it down into mathematical equations, enabling them to analyze the costs of each operation and ensure accuracy.|
-|[.]() | |
-|[.]() | |
+|[Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines.](https://cnzzx.github.io/VSA/) |Vision Search Assistant is a framework that integrates Vision Language Models (VLMs) with web agents to enhance object recognition, even for images that are unfamiliar. |
+|[MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion.](https://monst3r-project.github.io/) |An impressive project that can process video as input and estimate geometry and camera motion without requiring any knowledge of camera intrinsics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
