@@ -135,9 +135,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to Scale Your Model.](https://jax-ml.github.io/scaling-book/) | An impressive post from the DeepMind team detailing the mental process behind scaling their model. They break it down into mathematical equations, enabling them to analyze the costs of each operation and ensure accuracy.|
 |[Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines.](https://cnzzx.github.io/VSA/) |Vision Search Assistant is a framework that integrates Vision Language Models (VLMs) with web agents to enhance object recognition, even for images that are unfamiliar. |
 |[MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion.](https://monst3r-project.github.io/) |An impressive project that can process video as input and estimate geometry and camera motion without requiring any knowledge of camera intrinsics. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Getting started with real robots.](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md) |Great post from Hugging Face about using its LeRobot framework to control a robotic arm for research and development. |
+|[Automating SOP Creation.](https://github.com/moucheng2017/SOP-LVM-ICL-Ensemble) |Creating Standard Operating Procedures (SOPs) manually is time-consuming, but video-language models provide a promising solution by analyzing demonstration videos. |
+|[Medical Models.](https://github.com/tdlhl/LoRKD) |This paper presents Low-Rank Knowledge Decomposition (LoRKD), a framework aimed at improving the performance of medical foundation models by breaking them into lightweight expert models that concentrate on specific anatomical regions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
