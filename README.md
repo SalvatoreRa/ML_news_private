@@ -90,6 +90,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Who is Liang Wenfeng? DeepSeek founder comes from AI investing.](https://techcrunch.com/2025/01/28/who-is-liang-wenfeng-deepseek-founder-comes-from-ai-investing/) | DeepSeek's R1 reasoning model requires less computing power than its U.S. counterparts and is open source. The DeepSeek app even surpassed ChatGPT in App Store rankings. Founder Liang Wenfeng, who previously launched AI companies, also runs the hedge fund High-Flyer, which manages $8 billion and supports DeepSeek. Liang differentiates himself by offering the product for free and open source.|
 |[Hugging Face researchers are trying to build a more open version of DeepSeek’s AI ‘reasoning’ model.](https://techcrunch.com/2025/01/28/hugging-face-researchers-are-trying-to-build-a-more-open-version-of-deepseeks-ai-reasoning-model/) |Barely a week after DeepSeek released its R1 “reasoning” AI model — which sent markets into a tizzy — researchers at Hugging Face are trying to replicate the model from scratch in what they’re calling a pursuit of “open knowledge.” |
 |[Meta AI can now use your Facebook and Instagram data to personalize its responses.](https://techcrunch.com/2025/01/27/meta-ai-can-now-use-your-facebook-and-instagram-data-to-personalize-its-responses/) |Meta is enhancing its AI chatbot with memory capabilities that will allow it to remember user details in conversations on Facebook, Messenger, and WhatsApp in the U.S. |
+|[OpenAI’s new trademark application hints at humanoid robots, smart jewelry, and more.](https://techcrunch.com/2025/02/03/openais-new-trademark-application-hints-at-humanoid-robots-smart-jewelry-and-more/) | Last Friday, AI startup OpenAI filed a new application to trademark products associated with its brand — “OpenAI” — with the U.S. Patent and Trademark Office (USPTO). Normally, this wouldn’t be newsworthy. Companies file for trademarks all the time. But in the application, OpenAI hints at new product lines both nearer-term and of a more speculative nature.|
+|[SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim.](https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/) | Ola founder Bhavish Aggarwal is investing $230 million into an AI startup he founded as the country pushes to establish itself in a field dominated by U.S. and Chinese firms.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
