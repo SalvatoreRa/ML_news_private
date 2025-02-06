@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s new anti-jobs program.](https://www.vox.com/future-perfect/396548/openai-trump-artificial-intelligence-elon-musk-sam-altman-china) |OpenAI plans to invest $500 billion in "Stargate," a project focused on developing AI infrastructure, while economists question the job-creation claim, as automation could handle most computer-based tasks. DeepSeek has made notable strides in self-improving reinforcement learning, potentially accelerating AI capabilities. This highlights China's rapid advancements in AI and emphasizes the geopolitical stakes in the ongoing technology race. |
 |[AI and the future of national security.](https://blog.google/technology/safety-security/ai-and-the-future-of-national-security/) |Google underscores the strategic significance of AI and quantum computing for national security, stressing the importance of private-sector leadership, government procurement reforms, and public-private collaboration to enhance cybersecurity. |
 |[Google's 2024 Responsible AI Report.](https://blog.google/technology/ai/responsible-ai-2024-report-ongoing-work/) | Google has published its 6th annual Responsible AI Progress Report, outlining governance frameworks, safety assessments, and risk mitigation strategies for AI product development.|
-|[.]() | |
+|[Are the Internet and AI affecting our memory? What the science says.](https://www.nature.com/articles/d41586-025-00292-z) |Search engines, GPS maps and other tech can alter our ability to learn and remember. Now scientists are working out what AI might do. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
