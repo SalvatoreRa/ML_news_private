@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Harmonic Loss Trains Interpretable AI Models.](https://arxiv.org/abs/2502.01628) |Harmonic loss is an alternative to cross-entropy loss for training neural networks, providing better interpretability and faster convergence through scale invariance and finite convergence points. Experiments across algorithmic, vision, and language datasets show that models trained with harmonic loss outperform standard models in terms of interpretability, data efficiency, and reduced grokking. Harmonic loss could be especially useful for applications with limited data or where interpretability is essential. |
 |[Vintix: Action Model via In-Context Reinforcement Learning.](https://arxiv.org/abs/2501.19400v1) | This study investigates scaling In-Context Reinforcement Learning (ICRL) to wider domains through Algorithm Distillation, demonstrating that ICRL can serve as a viable alternative to expert distillation for generalist decision-making systems.|
 |[Efficient Reasoning with Hidden Thinking.](https://arxiv.org/abs/2501.19201v1) |Heima presents a framework for more efficient multimodal reasoning by compressing Chain-of-Thought processes into a single hidden token. |
-|[.]() | |
+|[Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models.](https://arxiv.org/abs/2412.16247) |Dictionary learning improves model interpretability and can uncover unknown concepts from scientific data, such as cell images. It effectively extracts concepts like cell type and genetic perturbation. A new algorithm, ICFL, combined with PCA whitening, boosts feature selectivity compared to existing methods. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
