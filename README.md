@@ -62,12 +62,21 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Vintix: Action Model via In-Context Reinforcement Learning.](https://arxiv.org/abs/2501.19400v1) | This study investigates scaling In-Context Reinforcement Learning (ICRL) to wider domains through Algorithm Distillation, demonstrating that ICRL can serve as a viable alternative to expert distillation for generalist decision-making systems.|
 |[Efficient Reasoning with Hidden Thinking.](https://arxiv.org/abs/2501.19201v1) |Heima presents a framework for more efficient multimodal reasoning by compressing Chain-of-Thought processes into a single hidden token. |
 |[Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models.](https://arxiv.org/abs/2412.16247) |Dictionary learning improves model interpretability and can uncover unknown concepts from scientific data, such as cell images. It effectively extracts concepts like cell type and genetic perturbation. A new algorithm, ICFL, combined with PCA whitening, boosts feature selectivity compared to existing methods. |
+|[Parents sue TikTok over child deaths allegedly caused by ‘blackout challenge’.](https://www.theguardian.com/technology/2025/feb/07/tiktok-sued-over-deaths-of-children-said-to-have-attempted-blackout-challenge) | Parents claim four children died as a result of attempting challenge that went viral in 2021|
+|[Call to make tech firms report data centre energy use as AI booms.](https://www.theguardian.com/technology/2025/feb/07/call-to-make-tech-firms-report-data-centre-energy-use-as-ai-booms) |Experts say mandatory reporting on energy and water use is needed to avoid irreparable damage to environment |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## News
 |Link|description|
