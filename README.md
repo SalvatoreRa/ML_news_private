@@ -150,8 +150,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[High-Fidelity Simultaneous Speech-To-Speech Translation.](https://arxiv.org/abs/2502.03382) | Kyutai has launched an impressive audio system, a real-time audio-to-audio translation tool. It is powered by a robust multi-stream transformer and features expressive voice capabilities. |
 |[Interaction Processing Units.](https://nilscrm.github.io/ipu.html) |This article examines the development of computer hardware based on Interaction Nets, a computational model that represents calculations as interacting graph nodes. While current implementations like HVM show potential for parallel processing, traditional hardware isn't designed for graph-based operations. The author suggests that custom hardware architecture could more effectively harness the parallelism and local memory access patterns inherent in Interaction Nets, offering particular advantages for algorithms with non-homogeneous parallelism, such as optimization problems and graph processing. |
 |[FaceXBench: Evaluating Multimodal LLMs on Face Understanding.](https://kartik-3004.github.io/facexbench/) | FaceXBench is an extensive benchmark for assessing MLLMs' facial understanding across 14 tasks in 6 key categories.|
-|[.]() | |
-|[.]() | |
+|[DeepSeek Releases VL2, a Series of MoE Vision-Language Models.](https://github.com/deepseek-ai/DeepSeek-VL2) |DeepSeek-VL2 launches a new series of Mixture-of-Experts Vision-Language models featuring up to 4.5B activated parameters, delivering strong performance in tasks such as OCR, visual grounding, and chart interpretation. |
+|[colqwen2-v0.1.](https://huggingface.co/vidore/colqwen2-v0.1) | A new vision-based retrieval model built on Qwen has surpassed the state of the art in later interaction document retrieval.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
