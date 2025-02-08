@@ -148,8 +148,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Automating SOP Creation.](https://github.com/moucheng2017/SOP-LVM-ICL-Ensemble) |Creating Standard Operating Procedures (SOPs) manually is time-consuming, but video-language models provide a promising solution by analyzing demonstration videos. |
 |[Medical Models.](https://github.com/tdlhl/LoRKD) |This paper presents Low-Rank Knowledge Decomposition (LoRKD), a framework aimed at improving the performance of medical foundation models by breaking them into lightweight expert models that concentrate on specific anatomical regions. |
 |[High-Fidelity Simultaneous Speech-To-Speech Translation.](https://arxiv.org/abs/2502.03382) | Kyutai has launched an impressive audio system, a real-time audio-to-audio translation tool. It is powered by a robust multi-stream transformer and features expressive voice capabilities. |
-|[.]() | |
-|[.]() | |
+|[Interaction Processing Units.](https://nilscrm.github.io/ipu.html) |This article examines the development of computer hardware based on Interaction Nets, a computational model that represents calculations as interacting graph nodes. While current implementations like HVM show potential for parallel processing, traditional hardware isn't designed for graph-based operations. The author suggests that custom hardware architecture could more effectively harness the parallelism and local memory access patterns inherent in Interaction Nets, offering particular advantages for algorithms with non-homogeneous parallelism, such as optimization problems and graph processing. |
+|[FaceXBench: Evaluating Multimodal LLMs on Face Understanding.](https://kartik-3004.github.io/facexbench/) | FaceXBench is an extensive benchmark for assessing MLLMs' facial understanding across 14 tasks in 6 key categories.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
