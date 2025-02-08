@@ -147,6 +147,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Getting started with real robots.](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md) |Great post from Hugging Face about using its LeRobot framework to control a robotic arm for research and development. |
 |[Automating SOP Creation.](https://github.com/moucheng2017/SOP-LVM-ICL-Ensemble) |Creating Standard Operating Procedures (SOPs) manually is time-consuming, but video-language models provide a promising solution by analyzing demonstration videos. |
 |[Medical Models.](https://github.com/tdlhl/LoRKD) |This paper presents Low-Rank Knowledge Decomposition (LoRKD), a framework aimed at improving the performance of medical foundation models by breaking them into lightweight expert models that concentrate on specific anatomical regions. |
+|[High-Fidelity Simultaneous Speech-To-Speech Translation.](https://arxiv.org/abs/2502.03382) | Kyutai has launched an impressive audio system, a real-time audio-to-audio translation tool. It is powered by a robust multi-stream transformer and features expressive voice capabilities. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
