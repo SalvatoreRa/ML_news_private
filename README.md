@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT’s mobile users are 85% male, report says.](https://techcrunch.com/2025/01/29/chatgpts-mobile-users-are-85-male-report-says/) |AI app spending reached $1.42 billion in 2024, with ChatGPT dominating despite competition, leading to a 274% increase year-over-year. |
 |[Trump administration suspends $5bn electric vehicle charging program.](https://www.theguardian.com/us-news/2025/feb/07/trump-electric-vehicle-charging-station-program) |Highway agency ordered states to no longer spend funds allocated under Biden’s EV charging station program |
 |[UK demands ability to access Apple users’ encrypted data.](https://www.theguardian.com/technology/2025/feb/07/uk-confronts-apple-with-demand-for-cloud-backdoor-to-users-encrypted-data) | Expert says government has ‘lit the blue touch paper on a truly enormous fight’ as it challenges firm’s privacy stance|
-|[.]() | |
-|[.]() | |
+|[OpenAI co-founder John Schulman leaves Anthropic after just five months.](https://techcrunch.com/2025/02/06/openai-co-founder-john-schulman-leaves-anthropic-after-just-five-months/) | OpenAI co-founder and prominent AI researcher John Schulman has left Anthropic after five months, according to multiple reports.|
+|[Lyft and Anthropic Partnership.](https://www.anthropic.com/news/lyft-announcement) | Lyft is partnering with Anthropic to integrate Claude-powered AI solutions, cutting customer service resolution times by 87% and improving the overall rideshare experience through AI-driven automation and engineering advancements. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
