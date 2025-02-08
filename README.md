@@ -64,7 +64,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models.](https://arxiv.org/abs/2412.16247) |Dictionary learning improves model interpretability and can uncover unknown concepts from scientific data, such as cell images. It effectively extracts concepts like cell type and genetic perturbation. A new algorithm, ICFL, combined with PCA whitening, boosts feature selectivity compared to existing methods. |
 |[Parents sue TikTok over child deaths allegedly caused by ‘blackout challenge’.](https://www.theguardian.com/technology/2025/feb/07/tiktok-sued-over-deaths-of-children-said-to-have-attempted-blackout-challenge) | Parents claim four children died as a result of attempting challenge that went viral in 2021|
 |[Call to make tech firms report data centre energy use as AI booms.](https://www.theguardian.com/technology/2025/feb/07/call-to-make-tech-firms-report-data-centre-energy-use-as-ai-booms) |Experts say mandatory reporting on energy and water use is needed to avoid irreparable damage to environment |
-|[.]() | |
+|[Google edits Super Bowl ad for AI that featured false information.](https://www.theguardian.com/technology/2025/feb/06/google-edits-super-bowl-ad-for-ai-that-featured-false-information) |Tech company removes error about gouda cheese after blogger points out ‘unequivocally’ untrue statistic |
 |[.]() | |
 |[.]() | |
 |[.]() | |
