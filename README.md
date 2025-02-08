@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini can now do more complex data analysis in Google Sheets.](https://www.engadget.com/ai/gemini-can-now-do-more-complex-data-analysis-in-google-sheets-191218214.html) | Google Sheets' new AI-powered Gemini update provides enhanced data insights, generates charts, and analyzes contextual trends using Python.|
 |[DeepSeek might have a trademark problem in the US.](https://techcrunch.com/2025/01/29/deepseek-might-have-a-trademark-problem-in-the-u-s/) |DeepSeek faces a U.S. trademark conflict as Delson Group claimed the "DeepSeek" trademark just before them. |
 |[ChatGPT’s mobile users are 85% male, report says.](https://techcrunch.com/2025/01/29/chatgpts-mobile-users-are-85-male-report-says/) |AI app spending reached $1.42 billion in 2024, with ChatGPT dominating despite competition, leading to a 274% increase year-over-year. |
-|[.]() | |
-|[.]() | |
+|[Trump administration suspends $5bn electric vehicle charging program.](https://www.theguardian.com/us-news/2025/feb/07/trump-electric-vehicle-charging-station-program) |Highway agency ordered states to no longer spend funds allocated under Biden’s EV charging station program |
+|[UK demands ability to access Apple users’ encrypted data.](https://www.theguardian.com/technology/2025/feb/07/uk-confronts-apple-with-demand-for-cloud-backdoor-to-users-encrypted-data) | Expert says government has ‘lit the blue touch paper on a truly enormous fight’ as it challenges firm’s privacy stance|
 |[.]() | |
 |[.]() | |
 |[.]() | |
