@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FaceXBench: Evaluating Multimodal LLMs on Face Understanding.](https://kartik-3004.github.io/facexbench/) | FaceXBench is an extensive benchmark for assessing MLLMs' facial understanding across 14 tasks in 6 key categories.|
 |[DeepSeek Releases VL2, a Series of MoE Vision-Language Models.](https://github.com/deepseek-ai/DeepSeek-VL2) |DeepSeek-VL2 launches a new series of Mixture-of-Experts Vision-Language models featuring up to 4.5B activated parameters, delivering strong performance in tasks such as OCR, visual grounding, and chart interpretation. |
 |[colqwen2-v0.1.](https://huggingface.co/vidore/colqwen2-v0.1) | A new vision-based retrieval model built on Qwen has surpassed the state of the art in later interaction document retrieval.|
-|[.]() | |
+|[Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models.](https://github.com/geaming2002/ruler) |The "Ruler" method assists LLMs in generating responses of a specific length. It enhances the model's ability to adhere to length constraints in user instructions by using Meta Length Tokens. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -174,8 +174,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's 2024 Responsible AI Report.](https://blog.google/technology/ai/responsible-ai-2024-report-ongoing-work/) | Google has published its 6th annual Responsible AI Progress Report, outlining governance frameworks, safety assessments, and risk mitigation strategies for AI product development.|
 |[Are the Internet and AI affecting our memory? What the science says.](https://www.nature.com/articles/d41586-025-00292-z) |Search engines, GPS maps and other tech can alter our ability to learn and remember. Now scientists are working out what AI might do. |
 |[How Indigenous engineers are using AI to preserve their culture.](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012) | Indigenous researchers are utilizing AI and machine learning to create speech recognition models for more than 200 endangered Indigenous languages in North America. Initiatives like First Languages AI Reality train Native scientists to ethically manage culturally sensitive data and safeguard language. Programs such as Tech Natives and IndigiGenius aim to increase Indigenous representation in technology, using AI to preserve cultural heritage.|
-|[.]() | |
-|[.]() | |
+|[Controlling AI’s Growing Energy Needs.](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/) |Training AI models consumes substantial energy, with LLMs like GPT-3 using large amounts. Alternatives like neuromorphic and optical computing are being explored to reduce this energy footprint. At the same time, smaller fine-tuned models are emerging as a more energy-efficient option for specific applications. |
+|[AI Memory And Context: Open Source, DeepSeek, Meta, And Model Research.](https://www.forbes.com/sites/johnwerner/2025/01/29/ai-memory-and-context-open-source-deepseek-meta-and-model-research/) |Yann LeCun stresses that genuine AI intelligence requires a system of interconnected components, rather than relying on a single powerful model. He highlights the importance of persistent memory and context, calling for new AI architecture, potentially through "world models," to better replicate human cognition. LeCun also supports open-source AI development to further progress the field. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
