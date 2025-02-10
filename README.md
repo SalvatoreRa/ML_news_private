@@ -106,9 +106,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities.](https://arxiv.org/abs/2501.18845) | This survey explores text data augmentation techniques for LLMs, which are crucial due to their need for large training datasets. It categorizes augmentation methods into four types: (1) simple augmentation, involving basic text manipulations; (2) prompt-based augmentation, where LLMs generate new examples through specific prompts; (3) retrieval-based augmentation, which incorporates external knowledge to ground generated text; and (4) hybrid augmentation, combining multiple strategies. A key insight is that modern LLMs can generate high-quality synthetic data to enhance training, with careful prompt design expanding datasets effectively. The survey also covers post-processing techniques to refine augmented data, ensuring quality and accuracy. It concludes with discussions on common tasks for augmentation, evaluation methods, challenges such as maintaining data distribution integrity, and opportunities for future research. |
 |[QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search.](https://arxiv.org/abs/2502.02584v1) | QLASS presents a Q-guided stepwise search method for language agents that boosts decision-making by offering intermediate rewards. This approach improves inference efficiency and minimizes the need for annotated data.|
 |[Tackling Noisy Clients in Federated Learning with End-to-end Label Correction.](https://arxiv.org/abs/2408.04301v1) |FedELC is a two-stage framework aimed at improving federated learning by tackling the challenge of label noise in client datasets. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[audiobox-aesthetics.](https://github.com/facebookresearch/audiobox-aesthetics) |This repository includes models that evaluate audio files based on various metrics, making it useful for retrieval or as a signal for reinforcement learning rewards. |
+|[PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks.](https://github.com/facebookresearch/partnr-planner) |Facebook has created a toolkit for training systems that facilitate collaboration between humans and robots. |
+|[Great Models Think Alike and this Undermines AI Oversight.](https://model-similarity.github.io/) | CAPA is a metric used to evaluate model similarity by analyzing shared errors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
