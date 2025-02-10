@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Mass theft’: Thousands of artists call for AI art auction to be cancelled.](https://www.theguardian.com/technology/2025/feb/10/mass-theft-thousands-of-artists-call-for-ai-art-auction-to-be-cancelled) |Letter says many of works being sold by Christie’s are made by AI models trained on pieces by human artists, without a licence |
 |[Mistral le Chat.](https://mistral.ai/en/news/all-new-le-chat) |Mistral introduces a new chat assistant capable of processing 1,000 words per second. Powered by Mistral's advanced coding models, it features a user-friendly interface to help with a variety of tasks. |
 |[Pika Video Editing.](https://pikartai.com/pikaddition/) |Pika Labs has launched Pikadditions, an AI tool that effortlessly adds objects and characters to videos, maintaining a high level of realism. |
-|[.]() | |
-|[.]() | |
+|[Deep Dive into LLMs.](https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy) | Andrej Karpathy has released another highly educational video that explores various aspects of developing language models, including pre-training, hallucination mitigation, and post-training.|
+|[A Dataset for Open 3D Understanding.](https://uco3d.github.io/) | A new object-centric dataset for 3D deep learning and 3D generative AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
