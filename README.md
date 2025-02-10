@@ -76,8 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From Dogecoin to $Trump: everything you need know about the wild world of meme coins.](https://www.theguardian.com/technology/2025/feb/09/from-dogecoin-to-trump-everything-you-need-know-about-the-wild-world-of-meme-coins) | Are they the same as crypto, why has the US president launched one, and who’s really coining it in? Here’s a complete guide to the latest digital money mania|
 |[Google Maps changed the way we get around. It all began in a spare bedroom in Sydney.](https://www.theguardian.com/technology/2025/feb/09/google-maps-turns-20-anniversary-feature) |This weekend the mapping platform turns 20 – and Stephen Ma is writing himself and his friends back into its origin story |
 |[‘Mass theft’: Thousands of artists call for AI art auction to be cancelled.](https://www.theguardian.com/technology/2025/feb/10/mass-theft-thousands-of-artists-call-for-ai-art-auction-to-be-cancelled) |Letter says many of works being sold by Christie’s are made by AI models trained on pieces by human artists, without a licence |
-|[.]() | |
-|[.]() | |
+|[Mistral le Chat.](https://mistral.ai/en/news/all-new-le-chat) |Mistral introduces a new chat assistant capable of processing 1,000 words per second. Powered by Mistral's advanced coding models, it features a user-friendly interface to help with a variety of tasks. |
+|[Pika Video Editing.](https://pikartai.com/pikaddition/) |Pika Labs has launched Pikadditions, an AI tool that effortlessly adds objects and characters to videos, maintaining a high level of realism. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
