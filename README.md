@@ -83,9 +83,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Macron touts Europe and trolls Trump at Paris AI summit.](https://www.theguardian.com/technology/2025/feb/10/macron-europe-trolls-trump-at-paris-ai-summit-us-uk) | ‘Choose Europe and France for AI,’ says president amid speculation US and UK playing hardball over declaration|
 |[AI chatbots distort and mislead when asked about current affairs, BBC finds.](https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds) | Most answers had ‘significant issues’ when researchers asked services to use broadcaster’s news articles as source|
 |[Tech firms call for zonal electricity pricing in UK to fuel AI datacentres.](https://www.theguardian.com/business/2025/feb/10/tech-firms-uk-electricity-zonal-pricing-ai-datacentres) |Report urges ministers to overhaul market to increase rollout in areas that have ample power generation |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI Introduces the Intelligence Age.](https://openai.com/global-affairs/introducing-the-intelligence-age/) | OpenAI emphasizes the swift adoption of ChatGPT and the broader impact of AI, drawing comparisons to past technological breakthroughs. Its Super Bowl ad portrays AI as the next significant tool for human progress, highlighting its role in enhancing creativity rather than replacing human effort.|
+|[Macron announces $112B in AI investment over coming years.](https://www.aa.com.tr/en/europe/macron-announces-112b-in-ai-investment-over-coming-years/3477218) |French President Macron unveiled a significant AI investment to foster innovation and international collaboration. He stressed that AI should serve as an assistant, not a job replacer, with a particular emphasis on its applications in healthcare. |
+|[Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation.](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/) |Safe Superintelligence, the AI startup founded by former OpenAI chief scientist Ilya Sutskever, is in talks to raise funding at a valuation of “at least” $20 billion, according to Reuters. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
