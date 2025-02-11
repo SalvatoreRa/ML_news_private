@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral le Chat.](https://mistral.ai/en/news/all-new-le-chat) |Mistral introduces a new chat assistant capable of processing 1,000 words per second. Powered by Mistral's advanced coding models, it features a user-friendly interface to help with a variety of tasks. |
 |[Pika Video Editing.](https://pikartai.com/pikaddition/) |Pika Labs has launched Pikadditions, an AI tool that effortlessly adds objects and characters to videos, maintaining a high level of realism. |
 |[Germany Trade & Invest: OpenAI Expands to Germany.](https://www.prnewswire.com/news-releases/germany-trade--invest-openai-expands-to-germany-302371354.html) |OpenAI announces plans to establish a new office in Munich in the coming months. |
-|[.]() | |
-|[.]() | |
+|[Elon Musk-led group makes surprise bid of nearly $100bn for OpenAI.](https://www.theguardian.com/technology/2025/feb/10/elon-musk-open-ai-bid) |Sam Altman, OpenAI’s CEO and co-founder, responded that he would not accept and offered to buy X instead |
+|[Macron touts Europe and trolls Trump at Paris AI summit.](https://www.theguardian.com/technology/2025/feb/10/macron-europe-trolls-trump-at-paris-ai-summit-us-uk) | ‘Choose Europe and France for AI,’ says president amid speculation US and UK playing hardball over declaration|
 |[.]() | |
 |[.]() | |
 |[.]() | |
