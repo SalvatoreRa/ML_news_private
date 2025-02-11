@@ -90,6 +90,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Team Says They've Recreated DeepSeek's OpenAI Killer for Literally $30.](https://futurism.com/researchers-deepseek-even-cheaper) | Jiayi Pan and his team at UC Berkeley recreated DeepSeek's R1-Zero model for just $30, demonstrating a move towards more affordable AI research. Their open-source model, "TinyZero," challenges the costly AI infrastructures of big tech, prompting questions about the need for large-scale investments in AI.|
 |[OpenAI says its models are more persuasive than 82 percent of Reddit users.](https://arstechnica.com/ai/2025/02/are-ais-getting-dangerously-good-at-persuasion-openai-says-not-yet/) |OpenAI tested ChatGPT's persuasiveness on Reddit's ChangeMyView forum and found that its AI models were more persuasive than humans in 82% of comparisons, although they still fall short of "superhuman" levels. The company cautions that if AI reaches near-zero-cost human-level persuasive writing, it could contribute to biased journalism and scams. OpenAI is taking steps to monitor and mitigate AI-based persuasion, especially in areas like political influence and large-scale manipulation. |
 |[AI Company Asks Job Applicants Not to Use AI in Job Applications.](https://www.404media.co/anthropic-claude-job-application-ai-assistants/) |Anthropic, the developer of the conversational AI assistant Claude, doesn’t want prospective new hires using AI assistants in their applications, regardless of whether they’re in marketing or engineering. |
+|[Meta says it may stop development of AI systems it deems too risky.](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) | in a new policy document, Meta suggests that there are certain scenarios in which it may not release a highly capable AI system it developed internally.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Google's AI Policy Framework for Science.](https://blog.google/technology/ai/ai-future-of-scientific-leadership/) |Google has introduced a policy framework with practical steps for policymakers to speed up scientific discovery using AI, focusing on responsible deployment and fostering collaboration within the research community. |
-|[.]() | |
+|[Sam Altman Regrets Ditching Open Source, Says He's Been on the "Wrong Side of History".](https://futurism.com/sam-altman-open-source-wrong-side-history) | Chinese AI startup DeepSeek showcased its ability to replicate OpenAI's chatbots at a much lower cost, sparking renewed discussions on the open-source approach in the AI industry.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
