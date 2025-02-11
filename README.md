@@ -81,8 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Germany Trade & Invest: OpenAI Expands to Germany.](https://www.prnewswire.com/news-releases/germany-trade--invest-openai-expands-to-germany-302371354.html) |OpenAI announces plans to establish a new office in Munich in the coming months. |
 |[Elon Musk-led group makes surprise bid of nearly $100bn for OpenAI.](https://www.theguardian.com/technology/2025/feb/10/elon-musk-open-ai-bid) |Sam Altman, OpenAI’s CEO and co-founder, responded that he would not accept and offered to buy X instead |
 |[Macron touts Europe and trolls Trump at Paris AI summit.](https://www.theguardian.com/technology/2025/feb/10/macron-europe-trolls-trump-at-paris-ai-summit-us-uk) | ‘Choose Europe and France for AI,’ says president amid speculation US and UK playing hardball over declaration|
-|[.]() | |
-|[.]() | |
+|[AI chatbots distort and mislead when asked about current affairs, BBC finds.](https://www.theguardian.com/technology/2025/feb/11/ai-chatbots-distort-and-mislead-when-asked-about-current-affairs-bbc-finds) | Most answers had ‘significant issues’ when researchers asked services to use broadcaster’s news articles as source|
+|[Tech firms call for zonal electricity pricing in UK to fuel AI datacentres.](https://www.theguardian.com/business/2025/feb/10/tech-firms-uk-electricity-zonal-pricing-ai-datacentres) |Report urges ministers to overhaul market to increase rollout in areas that have ample power generation |
 |[.]() | |
 |[.]() | |
 |[.]() | |
