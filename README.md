@@ -111,9 +111,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Great Models Think Alike and this Undermines AI Oversight.](https://model-similarity.github.io/) | CAPA is a metric used to evaluate model similarity by analyzing shared errors.|
 |[DynVFX: Augmenting Real Videos with Dynamic Content.](https://dynvfx.github.io/) |DynVFX excels at dynamic content insertion into videos, achieving impressive results with elements like water and smoke. However, it still has room for improvement when it comes to inserting character-based content. |
 |[Synthetic People Dataset.](https://huggingface.co/datasets/argilla/FinePersonas-v0.1) | The Fine Personas dataset is a huge 21m person dataset extracted from fine-web-edu.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations.](https://github.com/IST-DASLab/QuEST) | QuEST enables stable training with 1-bit weights and activations by enhancing two crucial aspects of Quantization-Aware Training (QAT). It achieves accurate and fast quantization of the continuous distributions of weights and activations using Hadamard normalization and MSE-optimal fitting. Additionally, it introduces a new trust gradient estimator that minimizes the error between the noisy gradient calculated over quantized states and the "true" (yet unknown) full-precision gradient.|
+|[Diagen.](https://github.com/southbridgeai/diagen) |Agentic workflow for generating diagrams with language models. |
+|[CursorCore: Assist Programming through Aligning Anything.](https://github.com/TechxGenus/CursorCore) | This work presents a new conversational framework for programming assistance that combines coding history, current code, and user instructions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
