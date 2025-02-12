@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI says its models are more persuasive than 82 percent of Reddit users.](https://arstechnica.com/ai/2025/02/are-ais-getting-dangerously-good-at-persuasion-openai-says-not-yet/) |OpenAI tested ChatGPT's persuasiveness on Reddit's ChangeMyView forum and found that its AI models were more persuasive than humans in 82% of comparisons, although they still fall short of "superhuman" levels. The company cautions that if AI reaches near-zero-cost human-level persuasive writing, it could contribute to biased journalism and scams. OpenAI is taking steps to monitor and mitigate AI-based persuasion, especially in areas like political influence and large-scale manipulation. |
 |[AI Company Asks Job Applicants Not to Use AI in Job Applications.](https://www.404media.co/anthropic-claude-job-application-ai-assistants/) |Anthropic, the developer of the conversational AI assistant Claude, doesn’t want prospective new hires using AI assistants in their applications, regardless of whether they’re in marketing or engineering. |
 |[Meta says it may stop development of AI systems it deems too risky.](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) | in a new policy document, Meta suggests that there are certain scenarios in which it may not release a highly capable AI system it developed internally.|
-|[.]() | |
+|[How Harrison Ford brought a strike over video game AI to the world’s attention.](https://www.theguardian.com/games/2025/feb/12/how-harrison-ford-brought-a-strike-over-use-of-ai-in-video-games-to-the-worlds-attention) | Voice actors demanding compensation when AI generates performances from their work have taken industrial action since July|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Google's AI Policy Framework for Science.](https://blog.google/technology/ai/ai-future-of-scientific-leadership/) |Google has introduced a policy framework with practical steps for policymakers to speed up scientific discovery using AI, focusing on responsible deployment and fostering collaboration within the research community. |
 |[Sam Altman Regrets Ditching Open Source, Says He's Been on the "Wrong Side of History".](https://futurism.com/sam-altman-open-source-wrong-side-history) | Chinese AI startup DeepSeek showcased its ability to replicate OpenAI's chatbots at a much lower cost, sparking renewed discussions on the open-source approach in the AI industry.|
-|[.]() | |
+|[Elon Musk owning OpenAI would be a terrible idea. That doesn’t mean it won’t happen.](https://www.theguardian.com/commentisfree/2025/feb/12/elon-musk-owning-openai-trump-ai-sam-altman) |My heart says he is settling scores and making mischief. My head fears Trump might like an ally controlling the key AI company |
 |[.]() | |
 |[.]() | |
 |[.]() | |
