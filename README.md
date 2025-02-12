@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Company Asks Job Applicants Not to Use AI in Job Applications.](https://www.404media.co/anthropic-claude-job-application-ai-assistants/) |Anthropic, the developer of the conversational AI assistant Claude, doesn’t want prospective new hires using AI assistants in their applications, regardless of whether they’re in marketing or engineering. |
 |[Meta says it may stop development of AI systems it deems too risky.](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/) | in a new policy document, Meta suggests that there are certain scenarios in which it may not release a highly capable AI system it developed internally.|
 |[How Harrison Ford brought a strike over video game AI to the world’s attention.](https://www.theguardian.com/games/2025/feb/12/how-harrison-ford-brought-a-strike-over-use-of-ai-in-video-games-to-the-worlds-attention) | Voice actors demanding compensation when AI generates performances from their work have taken industrial action since July|
-|[.]() | |
-|[.]() | |
+|[Elon Musk's $97.4 Billion Offer for OpenAI Rejected.](https://www.wjbf.com/news/ap-top-headlines/ap-how-elon-musk-97-4-billion-bid-complicates-matters-for-openai/) | Sam Altman has rejected Elon Musk's $97.4 billion bid for OpenAI, stating, "We are not for sale." This latest development intensifies the ongoing power struggle between the two AI leaders.|
+|[Apple teams up with Alibaba to bring AI features for iPhones in China, The Information reports.](https://www.reuters.com/technology/apple-partners-with-alibaba-develop-ai-features-iphone-china-information-reports-2025-02-11/) |Apple is partnering with Alibaba to introduce AI-powered features to iPhones in China, aiming to tackle market challenges and compete with Huawei's AI-integrated smartphones. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
