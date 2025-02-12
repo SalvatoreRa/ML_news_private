@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OLMoE, meet iOS.](https://allenai.org/blog/olmoe-app) | Allen AI has released a tiny yet extremely powerful open-source model on an app, running locally. It outperforms the original ChatGPT model from a few years ago.|
 |[Democratize Intelligence: A Network of Top Builders creating Open AI.](https://www.demi.so/) | Over 300 AI builders, including Chris Lattner (Creator of Swift/LLVM) and Amjad Masad (Founder of Replit), gathered in San Francisco for the Democratize Intelligence Summit (DEMI). DEMI aims to counter the centralization of closed AI by bringing together innovative builders working on alternative hardware chips, software frameworks, and economic models that make AI more accessible to build and use.|
 |[Google I/O 2025 Announced.](https://blog.google/feed/google-io-2025-save-the-date/) |Google I/O will be held on May 20-21 at Shoreline Amphitheatre and online, featuring keynotes, product reveals, AI innovations, and hands-on sessions. |
-|[.]() | |
+|[Luma unveils Image to Video model.](https://x.com/LumaLabsAI/status/1889003847260979440) |Luma AI has launched a new model that elevates image-to-video generation, offering unmatched natural motion, realistic physics, and coherence. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's AI Policy Framework for Science.](https://blog.google/technology/ai/ai-future-of-scientific-leadership/) |Google has introduced a policy framework with practical steps for policymakers to speed up scientific discovery using AI, focusing on responsible deployment and fostering collaboration within the research community. |
 |[Sam Altman Regrets Ditching Open Source, Says He's Been on the "Wrong Side of History".](https://futurism.com/sam-altman-open-source-wrong-side-history) | Chinese AI startup DeepSeek showcased its ability to replicate OpenAI's chatbots at a much lower cost, sparking renewed discussions on the open-source approach in the AI industry.|
 |[Elon Musk owning OpenAI would be a terrible idea. That doesn’t mean it won’t happen.](https://www.theguardian.com/commentisfree/2025/feb/12/elon-musk-owning-openai-trump-ai-sam-altman) |My heart says he is settling scores and making mischief. My head fears Trump might like an ally controlling the key AI company |
-|[.]() | |
+|[AIs and Robots Should Sound Robotic.](https://spectrum.ieee.org/audio-deepfake-fix) | AI-generated voices can now closely mimic human speech, creating concerns about distinguishing them from real conversations. A suggested solution is to use a ring modulator in AI voices, giving them a distinct, recognizable robotic sound. Implementing this across voice synthesis technologies would help users identify when they are interacting with AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
