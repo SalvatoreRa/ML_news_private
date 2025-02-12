@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Building Bridges between Regression, Clustering, and Classification.](https://arxiv.org/abs/2502.02996) |This paper presents a new approach to enhancing neural network training for regression tasks by framing them as classification problems with a learned target encoder-decoder pair. The method surpasses traditional regression techniques by utilizing distributional target representation and enabling smooth interpolation across different objectives. |
 |[Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.](https://arxiv.org/abs/2502.05171) | A 3.5B model trained for latent reasoning shows significant improvements on math problems. The model utilizes a recurrent architecture.|
 |[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring.](https://arxiv.org/abs/2502.04891) |While maximizing spectral gap has been used to tackle over-squashing in GNNs, this paper demonstrates that minimizing it can also enhance generalization. The authors introduce three new rewiring strategies to improve label-community alignment, homophily, and computational efficiency. |
-|[.]() | |
+|[Agency Is Frame-Dependent.](https://arxiv.org/abs/2502.04403) |Determining if a system is "agentic" is challenging. This position paper from DeepMind suggests that measuring agency requires a set reference frame and cannot be considered a global property of a system. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -125,7 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diagen.](https://github.com/southbridgeai/diagen) |Agentic workflow for generating diagrams with language models. |
 |[CursorCore: Assist Programming through Aligning Anything.](https://github.com/TechxGenus/CursorCore) | This work presents a new conversational framework for programming assistance that combines coding history, current code, and user instructions.|
 |[Open R1: Update #2.](https://huggingface.co/blog/open-r1/update-2) |Hugging Face is openly replicating R1 and has successfully performed distillation on R1 to generate 800k reasoning traces. |
-|[.]() | |
+|[Temporally-Correlated Noise Prior for Diffusion Models.](https://warpyournoise.github.io/) | Diffusion model noise sampling is effective for single images but faces challenges when scaled to videos that require temporal consistency, as the noise is independent across pixels and frames, leading to warping artifacts. This work aims to introduce integral noise to address many of these issues.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
