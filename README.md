@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Harrison Ford brought a strike over video game AI to the world’s attention.](https://www.theguardian.com/games/2025/feb/12/how-harrison-ford-brought-a-strike-over-use-of-ai-in-video-games-to-the-worlds-attention) | Voice actors demanding compensation when AI generates performances from their work have taken industrial action since July|
 |[Elon Musk's $97.4 Billion Offer for OpenAI Rejected.](https://www.wjbf.com/news/ap-top-headlines/ap-how-elon-musk-97-4-billion-bid-complicates-matters-for-openai/) | Sam Altman has rejected Elon Musk's $97.4 billion bid for OpenAI, stating, "We are not for sale." This latest development intensifies the ongoing power struggle between the two AI leaders.|
 |[Apple teams up with Alibaba to bring AI features for iPhones in China, The Information reports.](https://www.reuters.com/technology/apple-partners-with-alibaba-develop-ai-features-iphone-china-information-reports-2025-02-11/) |Apple is partnering with Alibaba to introduce AI-powered features to iPhones in China, aiming to tackle market challenges and compete with Huawei's AI-integrated smartphones. |
-|[.]() | |
+|[Snap unveils AI text-to-image model for mobile devices.](https://techcrunch.com/2025/02/04/snap-unveils-ai-text-to-image-model-for-mobile-devices/) |Snap has unveiled an AI text-to-image research model for mobile devices that will power some of Snapchat’s features in the coming months. The company said on Tuesday that the model can produce high-resolution images in around 1.4 seconds on an iPhone 16 Pro Max.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[QuEST: Stable Training of LLMs with 1-Bit Weights and Activations.](https://github.com/IST-DASLab/QuEST) | QuEST enables stable training with 1-bit weights and activations by enhancing two crucial aspects of Quantization-Aware Training (QAT). It achieves accurate and fast quantization of the continuous distributions of weights and activations using Hadamard normalization and MSE-optimal fitting. Additionally, it introduces a new trust gradient estimator that minimizes the error between the noisy gradient calculated over quantized states and the "true" (yet unknown) full-precision gradient.|
 |[Diagen.](https://github.com/southbridgeai/diagen) |Agentic workflow for generating diagrams with language models. |
 |[CursorCore: Assist Programming through Aligning Anything.](https://github.com/TechxGenus/CursorCore) | This work presents a new conversational framework for programming assistance that combines coding history, current code, and user instructions.|
-|[.]() | |
+|[Open R1: Update #2.](https://huggingface.co/blog/open-r1/update-2) |Hugging Face is openly replicating R1 and has successfully performed distillation on R1 to generate 800k reasoning traces. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
