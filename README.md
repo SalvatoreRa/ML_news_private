@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple teams up with Alibaba to bring AI features for iPhones in China, The Information reports.](https://www.reuters.com/technology/apple-partners-with-alibaba-develop-ai-features-iphone-china-information-reports-2025-02-11/) |Apple is partnering with Alibaba to introduce AI-powered features to iPhones in China, aiming to tackle market challenges and compete with Huawei's AI-integrated smartphones. |
 |[Snap unveils AI text-to-image model for mobile devices.](https://techcrunch.com/2025/02/04/snap-unveils-ai-text-to-image-model-for-mobile-devices/) |Snap has unveiled an AI text-to-image research model for mobile devices that will power some of Snapchat’s features in the coming months. The company said on Tuesday that the model can produce high-resolution images in around 1.4 seconds on an iPhone 16 Pro Max.  |
 |[OLMoE, meet iOS.](https://allenai.org/blog/olmoe-app) | Allen AI has released a tiny yet extremely powerful open-source model on an app, running locally. It outperforms the original ChatGPT model from a few years ago.|
-|[.]() | |
-|[.]() | |
+|[Democratize Intelligence: A Network of Top Builders creating Open AI.](https://www.demi.so/) | Over 300 AI builders, including Chris Lattner (Creator of Swift/LLVM) and Amjad Masad (Founder of Replit), gathered in San Francisco for the Democratize Intelligence Summit (DEMI). DEMI aims to counter the centralization of closed AI by bringing together innovative builders working on alternative hardware chips, software frameworks, and economic models that make AI more accessible to build and use.|
+|[Google I/O 2025 Announced.](https://blog.google/feed/google-io-2025-save-the-date/) |Google I/O will be held on May 20-21 at Shoreline Amphitheatre and online, featuring keynotes, product reveals, AI innovations, and hands-on sessions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CursorCore: Assist Programming through Aligning Anything.](https://github.com/TechxGenus/CursorCore) | This work presents a new conversational framework for programming assistance that combines coding history, current code, and user instructions.|
 |[Open R1: Update #2.](https://huggingface.co/blog/open-r1/update-2) |Hugging Face is openly replicating R1 and has successfully performed distillation on R1 to generate 800k reasoning traces. |
 |[Temporally-Correlated Noise Prior for Diffusion Models.](https://warpyournoise.github.io/) | Diffusion model noise sampling is effective for single images but faces challenges when scaled to videos that require temporal consistency, as the noise is independent across pixels and frames, leading to warping artifacts. This work aims to introduce integral noise to address many of these issues.|
-|[.]() | |
+|[Open-Vocabulary Multi-Object Tracking Benchmark.](https://github.com/coo1sea/ovt-b-dataset) |OVT-B is a large-scale benchmark for open-vocabulary multi-object tracking (OVT), featuring over 1,000 object categories, nearly 2,000 videos, and more than 600,000 bounding box annotations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
