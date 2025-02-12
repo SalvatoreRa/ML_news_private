@@ -99,6 +99,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Democratize Intelligence: A Network of Top Builders creating Open AI.](https://www.demi.so/) | Over 300 AI builders, including Chris Lattner (Creator of Swift/LLVM) and Amjad Masad (Founder of Replit), gathered in San Francisco for the Democratize Intelligence Summit (DEMI). DEMI aims to counter the centralization of closed AI by bringing together innovative builders working on alternative hardware chips, software frameworks, and economic models that make AI more accessible to build and use.|
 |[Google I/O 2025 Announced.](https://blog.google/feed/google-io-2025-save-the-date/) |Google I/O will be held on May 20-21 at Shoreline Amphitheatre and online, featuring keynotes, product reveals, AI innovations, and hands-on sessions. |
 |[Luma unveils Image to Video model.](https://x.com/LumaLabsAI/status/1889003847260979440) |Luma AI has launched a new model that elevates image-to-video generation, offering unmatched natural motion, realistic physics, and coherence. |
+|[Ai2 says its new AI model beats one of DeepSeek’s best.](https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/) |On Thursday, Ai2, a nonprofit AI research institute based in Seattle, released a model that it claims outperforms DeepSeek V3, one of Chinese AI company DeepSeek’s leading systems. |
+|[Data analytics startup Athenic AI wants to be an enterprise’s central nervous system.](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/) |Jared Zhao originally got interested in data analytics during his time at UC Berkeley because he was drawn to how it could turn raw data into a story. Zhao founded his first data analytics startup Polyture in 2021. But advancements in generative AI just a year later made Zhao realize what Polyture was building was too complicated for what users would be looking for in a post-ChatGPT world, and decided to change course. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
