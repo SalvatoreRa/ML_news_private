@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.](https://arxiv.org/abs/2502.05171) | A 3.5B model trained for latent reasoning shows significant improvements on math problems. The model utilizes a recurrent architecture.|
 |[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring.](https://arxiv.org/abs/2502.04891) |While maximizing spectral gap has been used to tackle over-squashing in GNNs, this paper demonstrates that minimizing it can also enhance generalization. The authors introduce three new rewiring strategies to improve label-community alignment, homophily, and computational efficiency. |
 |[Agency Is Frame-Dependent.](https://arxiv.org/abs/2502.04403) |Determining if a system is "agentic" is challenging. This position paper from DeepMind suggests that measuring agency requires a set reference frame and cannot be considered a global property of a system. |
-|[.]() | |
+|[Improved LLM Pretraining.](https://arxiv.org/abs/2502.06733) | This paper introduces dynamic instance-level data reweighting techniques for LLM pretraining. By adjusting the importance of samples based on loss values during training, these methods enhance both efficiency and effectiveness.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk's $97.4 Billion Offer for OpenAI Rejected.](https://www.wjbf.com/news/ap-top-headlines/ap-how-elon-musk-97-4-billion-bid-complicates-matters-for-openai/) | Sam Altman has rejected Elon Musk's $97.4 billion bid for OpenAI, stating, "We are not for sale." This latest development intensifies the ongoing power struggle between the two AI leaders.|
 |[Apple teams up with Alibaba to bring AI features for iPhones in China, The Information reports.](https://www.reuters.com/technology/apple-partners-with-alibaba-develop-ai-features-iphone-china-information-reports-2025-02-11/) |Apple is partnering with Alibaba to introduce AI-powered features to iPhones in China, aiming to tackle market challenges and compete with Huawei's AI-integrated smartphones. |
 |[Snap unveils AI text-to-image model for mobile devices.](https://techcrunch.com/2025/02/04/snap-unveils-ai-text-to-image-model-for-mobile-devices/) |Snap has unveiled an AI text-to-image research model for mobile devices that will power some of Snapchat’s features in the coming months. The company said on Tuesday that the model can produce high-resolution images in around 1.4 seconds on an iPhone 16 Pro Max.  |
-|[.]() | |
+|[OLMoE, meet iOS.](https://allenai.org/blog/olmoe-app) | Allen AI has released a tiny yet extremely powerful open-source model on an app, running locally. It outperforms the original ChatGPT model from a few years ago.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
