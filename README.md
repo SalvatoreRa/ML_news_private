@@ -59,8 +59,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring.](https://arxiv.org/abs/2502.04891) |While maximizing spectral gap has been used to tackle over-squashing in GNNs, this paper demonstrates that minimizing it can also enhance generalization. The authors introduce three new rewiring strategies to improve label-community alignment, homophily, and computational efficiency. |
 |[Agency Is Frame-Dependent.](https://arxiv.org/abs/2502.04403) |Determining if a system is "agentic" is challenging. This position paper from DeepMind suggests that measuring agency requires a set reference frame and cannot be considered a global property of a system. |
 |[Improved LLM Pretraining.](https://arxiv.org/abs/2502.06733) | This paper introduces dynamic instance-level data reweighting techniques for LLM pretraining. By adjusting the importance of samples based on loss values during training, these methods enhance both efficiency and effectiveness.|
-|[.]() | |
-|[.]() | |
+|[Competitive Programming with Large Reasoning Models.](https://arxiv.org/abs/2502.06807) | An OpenAI paper discusses the use of their o series of reasoning models in competitive programming. Initially, they had to rely on hand-crafted inference strategies, but later versions of o3 performed well without the need for human intervention.|
+|[Scaling Pre-training to One Hundred Billion Data for Vision Language Models.](https://arxiv.org/abs/2502.07617) | DeepMind scaled vision-language model training to a much larger data scale than previously attempted. While performance on Western-centric tasks quickly reaches saturation, it continues to improve on diverse global tasks. Interestingly, this progress is seldom reflected in existing benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
