@@ -140,9 +140,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open R1: Update #2.](https://huggingface.co/blog/open-r1/update-2) |Hugging Face is openly replicating R1 and has successfully performed distillation on R1 to generate 800k reasoning traces. |
 |[Temporally-Correlated Noise Prior for Diffusion Models.](https://warpyournoise.github.io/) | Diffusion model noise sampling is effective for single images but faces challenges when scaled to videos that require temporal consistency, as the noise is independent across pixels and frames, leading to warping artifacts. This work aims to introduce integral noise to address many of these issues.|
 |[Open-Vocabulary Multi-Object Tracking Benchmark.](https://github.com/coo1sea/ovt-b-dataset) |OVT-B is a large-scale benchmark for open-vocabulary multi-object tracking (OVT), featuring over 1,000 object categories, nearly 2,000 videos, and more than 600,000 bounding box annotations. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ESM2quinox.](https://github.com/patrick-kidger/esm2quinox) |ESM2 is a great protein folding model. This is a well-maintained version in a popular Jax package. |
+|[Data Formulator.](https://github.com/microsoft/data-formulator) | A useful tool from Microsoft that leverages language models to generate charts and respond to dataset-related queries. It doesn't support local models, but functions effectively with an API key.|
+|[Page Assist.](https://github.com/n4ze3m/page-assist) |One of many new tools for web browsing with local language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
