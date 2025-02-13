@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Expands AI-Powered Demand Gen Features.](https://blog.google/products/ads-commerce/new-demand-gen-features-2025/) |Google has rolled out new updates to Demand Gen campaigns, which feature enhanced customization capabilities, AI-powered creative enhancements, and more detailed product information. These improvements aim to boost ad performance, particularly on visual-centric platforms like YouTube. |
 |[AI ‘godfather’ predicts another revolution in the tech in next five years.](https://www.theguardian.com/technology/2025/feb/04/ai-godfather-predicts-another-revolution-in-the-tech-in-next-five-years) |Meta’s Yann LeCun says current systems too limited to create domestic robots and fully automated cars |
 |[DeepSeek: The countries and agencies that have banned the AI company’s tech.](https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/) | Corporations have banned DeepSeek, too — by the hundreds. The biggest worry reportedly is potential data leakage to the Chinese government. According to DeepSeek’s privacy policy, the company stores all user data in China, where local laws mandate organizations to share data with intelligence officials upon request.|
-|[.]() | |
-|[.]() | |
+|[Google removes pledge to not use AI for weapons from website.](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) | Google removed a pledge to not build AI for weapons or surveillance from its website this week. The change was first spotted by Bloomberg. |
+|[Figure drops OpenAI in favor of in-house models.](https://techcrunch.com/2025/02/04/figure-drops-openai-in-favor-of-in-house-models/) |Figure AI has ended its collaboration with OpenAI to focus on developing in-house AI for humanoid robots. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
