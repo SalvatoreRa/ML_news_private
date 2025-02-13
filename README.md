@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple Interested In Making Humanoid Robot, Top Analyst Says.](https://www.investors.com/news/technology/apple-stock-humanoid-robot-in-development/) |In a post on social network X on Wednesday, TF International Securities analyst Ming-Chi Kuo said Apple is exploring both humanoid and nonhumanoid robots as part of its future smart-home ecosystem. |
 |[OpenAI's Roadmap for GPT-5.](https://threadreaderapp.com/thread/1889755723078443244.html) |OpenAI plans to release GPT-4.5 as its last non-chain-of-thought model before launching GPT-5, which will unify its o-series and GPT-series models. |
 |[DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL.](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) |Much of the research making dramatic claims is easily disproven, but this work stands out due to its solid methods. One interesting finding the researchers discovered is that by gradually increasing the context length during RL training, they were able to improve AIME performance smoothly without wasting compute. |
-|[.]() | |
+|[Google Expands AI-Powered Demand Gen Features.](https://blog.google/products/ads-commerce/new-demand-gen-features-2025/) |Google has rolled out new updates to Demand Gen campaigns, which feature enhanced customization capabilities, AI-powered creative enhancements, and more detailed product information. These improvements aim to boost ad performance, particularly on visual-centric platforms like YouTube. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AIs and Robots Should Sound Robotic.](https://spectrum.ieee.org/audio-deepfake-fix) | AI-generated voices can now closely mimic human speech, creating concerns about distinguishing them from real conversations. A suggested solution is to use a ring modulator in AI voices, giving them a distinct, recognizable robotic sound. Implementing this across voice synthesis technologies would help users identify when they are interacting with AI.|
 |[Why is mathematics education failing some of the world’s most talented children?](https://www.nature.com/articles/d41586-025-00402-x) |A study shines a light on the remarkable arithmetic skills that young people acquire outside formal schooling. Education must evolve to enable them to fulfil their potential. |
 |[How China created AI model DeepSeek and shocked the world.](https://www.nature.com/articles/d41586-025-00259-0) | Government policies, generous funding and a pipeline of AI graduates have helped Chinese firms create advanced LLMs.|
-|[.]() | |
+|[AI Keeps Its Own Time.](https://spectrum.ieee.org/mems-time) | SiTime's MEMS-based timekeeping device boosts AI efficiency by enhancing synchronization among various components, leading to notable energy savings. The Super-TCXO clock offers better synchronization than quartz components, helping improve bandwidth speed and lower idle times for GPUs. SiTime's technology is already incorporated into Nvidia's Spectrum-X Switch, with future developments focused on further energy efficiency and bandwidth improvements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
