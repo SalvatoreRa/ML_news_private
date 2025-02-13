@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI's Roadmap for GPT-5.](https://threadreaderapp.com/thread/1889755723078443244.html) |OpenAI plans to release GPT-4.5 as its last non-chain-of-thought model before launching GPT-5, which will unify its o-series and GPT-series models. |
 |[DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL.](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) |Much of the research making dramatic claims is easily disproven, but this work stands out due to its solid methods. One interesting finding the researchers discovered is that by gradually increasing the context length during RL training, they were able to improve AIME performance smoothly without wasting compute. |
 |[Google Expands AI-Powered Demand Gen Features.](https://blog.google/products/ads-commerce/new-demand-gen-features-2025/) |Google has rolled out new updates to Demand Gen campaigns, which feature enhanced customization capabilities, AI-powered creative enhancements, and more detailed product information. These improvements aim to boost ad performance, particularly on visual-centric platforms like YouTube. |
-|[.]() | |
-|[.]() | |
+|[AI ‘godfather’ predicts another revolution in the tech in next five years.](https://www.theguardian.com/technology/2025/feb/04/ai-godfather-predicts-another-revolution-in-the-tech-in-next-five-years) |Meta’s Yann LeCun says current systems too limited to create domestic robots and fully automated cars |
+|[DeepSeek: The countries and agencies that have banned the AI company’s tech.](https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/) | Corporations have banned DeepSeek, too — by the hundreds. The biggest worry reportedly is potential data leakage to the Chinese government. According to DeepSeek’s privacy policy, the company stores all user data in China, where local laws mandate organizations to share data with intelligence officials upon request.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
