@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Data analytics startup Athenic AI wants to be an enterprise’s central nervous system.](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/) |Jared Zhao originally got interested in data analytics during his time at UC Berkeley because he was drawn to how it could turn raw data into a story. Zhao founded his first data analytics startup Polyture in 2021. But advancements in generative AI just a year later made Zhao realize what Polyture was building was too complicated for what users would be looking for in a post-ChatGPT world, and decided to change course. |
 |[Harvey: Raises $300M Series D Led by Sequoia.](https://www.harvey.ai/blog/harvey-raises-series-d) | The legal AI startup Harvey raised a substantial sum in a funding round led by Sequoia to continue building tools for law firms.|
 |[Apple Interested In Making Humanoid Robot, Top Analyst Says.](https://www.investors.com/news/technology/apple-stock-humanoid-robot-in-development/) |In a post on social network X on Wednesday, TF International Securities analyst Ming-Chi Kuo said Apple is exploring both humanoid and nonhumanoid robots as part of its future smart-home ecosystem. |
-|[.]() | |
+|[OpenAI's Roadmap for GPT-5.](https://threadreaderapp.com/thread/1889755723078443244.html) |OpenAI plans to release GPT-4.5 as its last non-chain-of-thought model before launching GPT-5, which will unify its o-series and GPT-series models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
