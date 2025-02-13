@@ -104,6 +104,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Harvey: Raises $300M Series D Led by Sequoia.](https://www.harvey.ai/blog/harvey-raises-series-d) | The legal AI startup Harvey raised a substantial sum in a funding round led by Sequoia to continue building tools for law firms.|
 |[Apple Interested In Making Humanoid Robot, Top Analyst Says.](https://www.investors.com/news/technology/apple-stock-humanoid-robot-in-development/) |In a post on social network X on Wednesday, TF International Securities analyst Ming-Chi Kuo said Apple is exploring both humanoid and nonhumanoid robots as part of its future smart-home ecosystem. |
 |[OpenAI's Roadmap for GPT-5.](https://threadreaderapp.com/thread/1889755723078443244.html) |OpenAI plans to release GPT-4.5 as its last non-chain-of-thought model before launching GPT-5, which will unify its o-series and GPT-series models. |
+|[DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL.](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) |Much of the research making dramatic claims is easily disproven, but this work stands out due to its solid methods. One interesting finding the researchers discovered is that by gradually increasing the context length during RL training, they were able to improve AIME performance smoothly without wasting compute. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
