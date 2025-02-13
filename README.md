@@ -152,8 +152,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sam Altman Regrets Ditching Open Source, Says He's Been on the "Wrong Side of History".](https://futurism.com/sam-altman-open-source-wrong-side-history) | Chinese AI startup DeepSeek showcased its ability to replicate OpenAI's chatbots at a much lower cost, sparking renewed discussions on the open-source approach in the AI industry.|
 |[Elon Musk owning OpenAI would be a terrible idea. That doesn’t mean it won’t happen.](https://www.theguardian.com/commentisfree/2025/feb/12/elon-musk-owning-openai-trump-ai-sam-altman) |My heart says he is settling scores and making mischief. My head fears Trump might like an ally controlling the key AI company |
 |[AIs and Robots Should Sound Robotic.](https://spectrum.ieee.org/audio-deepfake-fix) | AI-generated voices can now closely mimic human speech, creating concerns about distinguishing them from real conversations. A suggested solution is to use a ring modulator in AI voices, giving them a distinct, recognizable robotic sound. Implementing this across voice synthesis technologies would help users identify when they are interacting with AI.|
-|[.]() | |
-|[.]() | |
+|[Why is mathematics education failing some of the world’s most talented children?](https://www.nature.com/articles/d41586-025-00402-x) |A study shines a light on the remarkable arithmetic skills that young people acquire outside formal schooling. Education must evolve to enable them to fulfil their potential. |
+|[How China created AI model DeepSeek and shocked the world.](https://www.nature.com/articles/d41586-025-00259-0) | Government policies, generous funding and a pipeline of AI graduates have helped Chinese firms create advanced LLMs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
