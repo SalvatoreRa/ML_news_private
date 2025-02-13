@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Luma unveils Image to Video model.](https://x.com/LumaLabsAI/status/1889003847260979440) |Luma AI has launched a new model that elevates image-to-video generation, offering unmatched natural motion, realistic physics, and coherence. |
 |[Ai2 says its new AI model beats one of DeepSeek’s best.](https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/) |On Thursday, Ai2, a nonprofit AI research institute based in Seattle, released a model that it claims outperforms DeepSeek V3, one of Chinese AI company DeepSeek’s leading systems. |
 |[Data analytics startup Athenic AI wants to be an enterprise’s central nervous system.](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/) |Jared Zhao originally got interested in data analytics during his time at UC Berkeley because he was drawn to how it could turn raw data into a story. Zhao founded his first data analytics startup Polyture in 2021. But advancements in generative AI just a year later made Zhao realize what Polyture was building was too complicated for what users would be looking for in a post-ChatGPT world, and decided to change course. |
-|[.]() | |
-|[.]() | |
+|[Harvey: Raises $300M Series D Led by Sequoia.](https://www.harvey.ai/blog/harvey-raises-series-d) | The legal AI startup Harvey raised a substantial sum in a funding round led by Sequoia to continue building tools for law firms.|
+|[Apple Interested In Making Humanoid Robot, Top Analyst Says.](https://www.investors.com/news/technology/apple-stock-humanoid-robot-in-development/) |In a post on social network X on Wednesday, TF International Securities analyst Ming-Chi Kuo said Apple is exploring both humanoid and nonhumanoid robots as part of its future smart-home ecosystem. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
