@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek: The countries and agencies that have banned the AI company’s tech.](https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/) | Corporations have banned DeepSeek, too — by the hundreds. The biggest worry reportedly is potential data leakage to the Chinese government. According to DeepSeek’s privacy policy, the company stores all user data in China, where local laws mandate organizations to share data with intelligence officials upon request.|
 |[Google removes pledge to not use AI for weapons from website.](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/) | Google removed a pledge to not build AI for weapons or surveillance from its website this week. The change was first spotted by Bloomberg. |
 |[Figure drops OpenAI in favor of in-house models.](https://techcrunch.com/2025/02/04/figure-drops-openai-in-favor-of-in-house-models/) |Figure AI has ended its collaboration with OpenAI to focus on developing in-house AI for humanoid robots. |
-|[.]() | |
-|[.]() | |
+|[Global disunity, energy concerns and the shadow of Musk: key takeaways from the Paris AI summit.](https://www.theguardian.com/technology/2025/feb/14/global-disunity-energy-concerns-and-the-shadow-of-musk-key-takeaways-from-the-paris-ai-summit) |AI Action Summit ends with US vice-president criticising European regulation and warning against cooperation with China |
+|[Elon Musk says he’ll drop his $97bn bid for OpenAI if it remains a non-profit.](https://www.theguardian.com/technology/2025/feb/13/elon-musk-openai-non-profit) |Billionaire’s lawyers say offer will be withdrawn if firm he helped found a decade ago ‘preserves the charity’s mission’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
