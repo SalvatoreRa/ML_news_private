@@ -116,10 +116,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adobe Firefly Video Model.](https://blog.adobe.com/en/publish/2025/02/12/meet-firefly-video-model-ai-powered-creation-with-unparalleled-creative-control) |Adobe has launched the Firefly Video Model, providing IP-compliant, commercially secure generative AI tools for creating video and audio content. |
 |[Google AI and Women's Cancer Research.](https://blog.google/technology/health/google-ai-institute-womens-cancers/) |Google has teamed up with the Institute of Women's Cancers to advance AI-powered cancer research, with an emphasis on improving outcomes for breast and gynecological cancers. |
 |[Billionaires talk automating jobs away.](https://techcrunch.com/2025/02/04/this-week-in-ai-billionaires-talk-automating-jobs-away/) |OpenAI is working with SoftBank to automate white-collar workflows with AI, raising concerns about widespread job losses. OpenAI also released a new AI agent for research and the o3-mini reasoning model, while the EU imposed a ban on high-risk AI systems. In addition, ByteDance's YuE model creates music from prompts, and Anthropic unveiled Constitutional Classifiers to improve AI safety protocols. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[EU puts out guidance on uses of AI that are banned under its AI Act.](https://techcrunch.com/2025/02/04/eu-puts-out-guidance-on-uses-of-ai-that-are-banned-under-its-ai-act/) |The EU's AI Act compliance deadline has passed, leading the Commission to issue guidance for developers on how to comply with the new AI regulations. Violations of banned use cases, like social scoring, may result in heavy penalties. While the guidelines are intended to offer clarity, they are not legally enforceable, and formal adoption is still awaiting translation. |
+|[OpenAI Updates Model Spec.](https://openai.com/index/sharing-the-latest-model-spec/) |OpenAI has published an updated Model Spec document under a CC0 license, emphasizing transparency, customizability, and intellectual freedom, while ensuring safety measures are in place. |
+|[Deep Research comes to Gemini Android app.](https://9to5google.com/2025/02/04/gemini-deep-research-android) |Deep Research, Gemini's first agentic feature, is now available for Android, enabling multi-step web research with customizable plans. |
+|[DeepSeek Gets an ‘F’ in Safety From Researchers.](https://gizmodo.com/deepseek-gets-an-f-in-safety-from-researchers-2000558645) |Cisco tested DeepSeek's open-source model, DeepSeek R1, which was unable to defend against all 50 harmful behavior prompts from the HarmBench dataset. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
