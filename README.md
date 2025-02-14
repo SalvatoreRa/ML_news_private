@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Veo 2 is Coming to YouTube Shorts.](https://blog.youtube/news-and-events/veo-2-shorts/) | YouTube has incorporated DeepMind's Veo 2 into Dream Screen, allowing users to create high-quality AI-generated video clips from text prompts.|
 |[Adobe Firefly Video Model.](https://blog.adobe.com/en/publish/2025/02/12/meet-firefly-video-model-ai-powered-creation-with-unparalleled-creative-control) |Adobe has launched the Firefly Video Model, providing IP-compliant, commercially secure generative AI tools for creating video and audio content. |
 |[Google AI and Women's Cancer Research.](https://blog.google/technology/health/google-ai-institute-womens-cancers/) |Google has teamed up with the Institute of Women's Cancers to advance AI-powered cancer research, with an emphasis on improving outcomes for breast and gynecological cancers. |
-|[.]() | |
+|[Billionaires talk automating jobs away.](https://techcrunch.com/2025/02/04/this-week-in-ai-billionaires-talk-automating-jobs-away/) |OpenAI is working with SoftBank to automate white-collar workflows with AI, raising concerns about widespread job losses. OpenAI also released a new AI agent for research and the o3-mini reasoning model, while the EU imposed a ban on high-risk AI systems. In addition, ByteDance's YuE model creates music from prompts, and Anthropic unveiled Constitutional Classifiers to improve AI safety protocols. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -177,7 +177,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why is mathematics education failing some of the world’s most talented children?](https://www.nature.com/articles/d41586-025-00402-x) |A study shines a light on the remarkable arithmetic skills that young people acquire outside formal schooling. Education must evolve to enable them to fulfil their potential. |
 |[How China created AI model DeepSeek and shocked the world.](https://www.nature.com/articles/d41586-025-00259-0) | Government policies, generous funding and a pipeline of AI graduates have helped Chinese firms create advanced LLMs.|
 |[AI Keeps Its Own Time.](https://spectrum.ieee.org/mems-time) | SiTime's MEMS-based timekeeping device boosts AI efficiency by enhancing synchronization among various components, leading to notable energy savings. The Super-TCXO clock offers better synchronization than quartz components, helping improve bandwidth speed and lower idle times for GPUs. SiTime's technology is already incorporated into Nvidia's Spectrum-X Switch, with future developments focused on further energy efficiency and bandwidth improvements.|
-|[.]() | |
+|[Why AI Is A Philosophical Rupture.](https://www.noemamag.com/why-ai-is-a-philosophical-rupture/) |Tobias Rees contends that generative AI challenges traditional distinctions between humans and machines, introducing new types of intelligence that demand a philosophical reassessment. The ability of AI to function outside conventional comprehension frameworks indicates its potential to reshape human cognition and self-awareness. Rees calls for philosophical involvement in AI development to better understand and navigate this emerging era of human-AI collaboration. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
