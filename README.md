@@ -112,6 +112,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Figure drops OpenAI in favor of in-house models.](https://techcrunch.com/2025/02/04/figure-drops-openai-in-favor-of-in-house-models/) |Figure AI has ended its collaboration with OpenAI to focus on developing in-house AI for humanoid robots. |
 |[Global disunity, energy concerns and the shadow of Musk: key takeaways from the Paris AI summit.](https://www.theguardian.com/technology/2025/feb/14/global-disunity-energy-concerns-and-the-shadow-of-musk-key-takeaways-from-the-paris-ai-summit) |AI Action Summit ends with US vice-president criticising European regulation and warning against cooperation with China |
 |[Elon Musk says he’ll drop his $97bn bid for OpenAI if it remains a non-profit.](https://www.theguardian.com/technology/2025/feb/13/elon-musk-openai-non-profit) |Billionaire’s lawyers say offer will be withdrawn if firm he helped found a decade ago ‘preserves the charity’s mission’ |
+|[Veo 2 is Coming to YouTube Shorts.](https://blog.youtube/news-and-events/veo-2-shorts/) | YouTube has incorporated DeepMind's Veo 2 into Dream Screen, allowing users to create high-quality AI-generated video clips from text prompts.|
+|[Adobe Firefly Video Model.](https://blog.adobe.com/en/publish/2025/02/12/meet-firefly-video-model-ai-powered-creation-with-unparalleled-creative-control) |Adobe has launched the Firefly Video Model, providing IP-compliant, commercially secure generative AI tools for creating video and audio content. |
+|[Google AI and Women's Cancer Research.](https://blog.google/technology/health/google-ai-institute-womens-cancers/) |Google has teamed up with the Institute of Women's Cancers to advance AI-powered cancer research, with an emphasis on improving outcomes for breast and gynecological cancers. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
