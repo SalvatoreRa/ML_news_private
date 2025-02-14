@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Improved LLM Pretraining.](https://arxiv.org/abs/2502.06733) | This paper introduces dynamic instance-level data reweighting techniques for LLM pretraining. By adjusting the importance of samples based on loss values during training, these methods enhance both efficiency and effectiveness.|
 |[Competitive Programming with Large Reasoning Models.](https://arxiv.org/abs/2502.06807) | An OpenAI paper discusses the use of their o series of reasoning models in competitive programming. Initially, they had to rely on hand-crafted inference strategies, but later versions of o3 performed well without the need for human intervention.|
 |[Scaling Pre-training to One Hundred Billion Data for Vision Language Models.](https://arxiv.org/abs/2502.07617) | DeepMind scaled vision-language model training to a much larger data scale than previously attempted. While performance on Western-centric tasks quickly reaches saturation, it continues to improve on diverse global tasks. Interestingly, this progress is seldom reflected in existing benchmarks.|
-|[.]() | |
+|[LLMs with Fewer Parameters.](https://github.com/joaopauloschuler/less-parameters-llm) |Researchers show that LLMs can retain their learning ability while cutting non-embedding parameters by as much as 77%. By substituting dense layers with optimized subnetworks, they achieve similar performance using far fewer resources. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,11 +154,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE.](https://arxiv.org/abs/2502.06282) | Jakiro improves speculative decoding by utilizing Mixture of Experts to produce a variety of predictions, which reduces the correlation between candidates and boosts inference speed.|
 |[Detecting Backdoor Samples in Contrastive Language Image Pretraining.](https://arxiv.org/abs/2502.01385v2) | Researchers have found that CLIP models are extremely susceptible to poisoning backdoor attacks, with attack success rates nearing 100% using very little poisoned data. They suggest an effective detection approach using local outlier detection to identify unintentional backdoors in current datasets.|
 |[MobileLLM.](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95) |Meta has released checkpoints for their small but mighty mobile friendly language models. |
+|[Better Reasoning with Mask-Enhanced Autoregressive Prediction.](https://github.com/scitix/MEAP) | MEAP incorporates Masked Language Modeling into Next-Token Prediction through a decoder-only Transformer. By masking a small portion of input tokens, it enhances information retrieval tasks while preserving reasoning abilities.|
+|[ComplexFuncBench.](https://github.com/thudm/complexfuncbench) |This repository contains benchmarks and tools for assessing AI models on complex function calls. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
