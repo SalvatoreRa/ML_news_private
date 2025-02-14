@@ -151,9 +151,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ESM2quinox.](https://github.com/patrick-kidger/esm2quinox) |ESM2 is a great protein folding model. This is a well-maintained version in a popular Jax package. |
 |[Data Formulator.](https://github.com/microsoft/data-formulator) | A useful tool from Microsoft that leverages language models to generate charts and respond to dataset-related queries. It doesn't support local models, but functions effectively with an API key.|
 |[Page Assist.](https://github.com/n4ze3m/page-assist) |One of many new tools for web browsing with local language models. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE.](https://arxiv.org/abs/2502.06282) | Jakiro improves speculative decoding by utilizing Mixture of Experts to produce a variety of predictions, which reduces the correlation between candidates and boosts inference speed.|
+|[Detecting Backdoor Samples in Contrastive Language Image Pretraining.](https://arxiv.org/abs/2502.01385v2) | Researchers have found that CLIP models are extremely susceptible to poisoning backdoor attacks, with attack success rates nearing 100% using very little poisoned data. They suggest an effective detection approach using local outlier detection to identify unintentional backdoors in current datasets.|
+|[MobileLLM.](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95) |Meta has released checkpoints for their small but mighty mobile friendly language models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
