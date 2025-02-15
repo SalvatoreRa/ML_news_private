@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Updates Model Spec.](https://openai.com/index/sharing-the-latest-model-spec/) |OpenAI has published an updated Model Spec document under a CC0 license, emphasizing transparency, customizability, and intellectual freedom, while ensuring safety measures are in place. |
 |[Deep Research comes to Gemini Android app.](https://9to5google.com/2025/02/04/gemini-deep-research-android) |Deep Research, Gemini's first agentic feature, is now available for Android, enabling multi-step web research with customizable plans. |
 |[DeepSeek Gets an ‘F’ in Safety From Researchers.](https://gizmodo.com/deepseek-gets-an-f-in-safety-from-researchers-2000558645) |Cisco tested DeepSeek's open-source model, DeepSeek R1, which was unable to defend against all 50 harmful behavior prompts from the HarmBench dataset. |
-|[.]() | |
+|[Arm looks to launch its own chip after landing Meta contract.](https://www.theguardian.com/business/2025/feb/14/arm-looks-to-launch-its-own-chip-after-landing-meta-contract) | Plan represents move away from SoftBank-owned group licensing its chip blueprints to firms such as Apple and Nvidia|
 |[.]() | |
 |[.]() | |
 |[.]() | |
