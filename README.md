@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models.](https://arxiv.org/abs/2502.04404) |To enhance LLM reasoning robustness, researchers introduce self-backtracking, allowing models to revisit and revise flawed reasoning steps. Inspired by search algorithms, this method enables LLMs to identify errors mid-reasoning and backtrack to a previous step for a better approach. By training models with signals to trigger backtracking, they internalize an iterative search process instead of rigidly following a single Chain-of-Thought (CoT). This led to 40%+ improvements on reasoning benchmarks, as models self-correct mistakes mid-stream, producing more reliable solutions. The technique fosters autonomous, resilient reasoners, reducing overthinking loops and improving self-evaluation, moving LLMs closer to human-like reflective reasoning.|
 |[Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications.](https://arxiv.org/abs/2502.04384) | IBM researchers introduce SOLOMON, a neuro-inspired LLM reasoning architecture that enhances domain adaptability, demonstrated on semiconductor layout design. Standard LLMs struggle with spatial reasoning and domain application, but SOLOMON mitigates these issues using multi-agent oversight: multiple “Thought Generators” propose solutions, a “Thought Assessor” refines outputs, and a “Steering Subsystem” optimizes prompts. This design corrects hallucinations and arithmetic errors, outperforming GPT-4o, Claude-3.5, and Llama-3.1 in generating accurate GDSII layouts. SOLOMON excels at geometry-based tasks, reducing unit mismatches and scaling mistakes. Future work aims to stack SOLOMON layers, enhance text-image-code reasoning, and expand to broader engineering challenges, emphasizing advanced reasoning over mere model scaling.|
 |[ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates.](https://arxiv.org/abs/2502.06772) |The ReasonFlux framework fine-tunes LLMs for complex reasoning using hierarchical thought processes and reusable templates. Instead of learning long Chain-of-Thought (CoT) solutions from scratch, it applies ~500 thought templates like problem splitting or solution verification. Hierarchical RL trains the model to sequence these templates, requiring only 8 GPUs for a 32B model. A novel inference-time adaptation adjusts reasoning depth dynamically, optimizing speed and accuracy. Achieving 91.2% on MATH (+6.7% over OpenAI’s model) and 56.7% on AIME, ReasonFlux shows that structured fine-tuning can rival brute-force scaling. |
-|[Grok 3 is Set to Be Released on Monday.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -73,9 +73,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Grok 3 is Set to Be Released on Monday.](https://www.forbes.com/sites/larsdaniel/2025/02/16/elon-musks-scary-smart-grok-3-release--what-you-need-to-know/) |xAI's Grok 3, trained with 200 million GPU-hours, features improved reasoning, self-correction, and training with synthetic data. It is scheduled for release on Monday. |
+|[Anthropic and UK Government Sign AI Collaboration MOU.](https://www.anthropic.com/news/mou-uk-government) |Anthropic has teamed up with the UK government to investigate AI applications in public services, focusing on responsible deployment, economic growth, and scientific research through its Claude model. |
+|[OpenAI tries to ‘uncensor’ ChatGPT.](https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/) |OpenAI is changing how it trains AI models to explicitly embrace “intellectual freedom … no matter how challenging or controversial a topic may be,” the company says in a new policy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
