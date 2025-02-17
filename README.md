@@ -76,10 +76,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok 3 is Set to Be Released on Monday.](https://www.forbes.com/sites/larsdaniel/2025/02/16/elon-musks-scary-smart-grok-3-release--what-you-need-to-know/) |xAI's Grok 3, trained with 200 million GPU-hours, features improved reasoning, self-correction, and training with synthetic data. It is scheduled for release on Monday. |
 |[Anthropic and UK Government Sign AI Collaboration MOU.](https://www.anthropic.com/news/mou-uk-government) |Anthropic has teamed up with the UK government to investigate AI applications in public services, focusing on responsible deployment, economic growth, and scientific research through its Claude model. |
 |[OpenAI tries to ‘uncensor’ ChatGPT.](https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/) |OpenAI is changing how it trains AI models to explicitly embrace “intellectual freedom … no matter how challenging or controversial a topic may be,” the company says in a new policy. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection.](https://arxiv.org/abs/2502.09254v1) |A new graph foundation model, AnomalyGFM, enhances zero- and few-shot anomaly detection by learning graph-agnostic representations, allowing for improved generalization across various datasets. |
+|[Bolt.new introduces AI app generation for iOS and Android.](https://www.youtube.com/watch?v=iCwxkm2PkQE&ab_channel=Expo) |StackBlitz, known for its AI tool Bolt.new, has launched an AI mobile app developer in collaboration with Expo. Users can describe their app idea in natural language, and Bolt's AI will instantly generate code for full-stack iOS and Android apps. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,6 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction.](https://arxiv.org/abs/2502.07316) |CodeI/O enhances reasoning in large language models by transforming code into an input-output prediction format. This improves performance on various reasoning tasks by teaching universal reasoning principles without depending on code syntax. Additional refinement through multi-turn revisions increases accuracy by validating predictions. |
 |[A Multiple Instance Learning Framework.](https://arxiv.org/abs/2502.08391v1) |A new multiple instance learning framework for whole slide image classification presents a dual-scale vision-language approach, utilizing a prototype-guided patch decoder and a context-guided text decoder to improve model performance on pathology tasks. |
 |[Self contained FSDP implementation.](https://github.com/facebookresearch/capi/blob/main/fsdp.py) |A single 500 line implementation of data parallel that gets 48MFU. |
+|[FinRL-DeepSeek - new trading AI agents combining Reinforcement Learning with Large Language Models.](https://melwy.com/finrl_deepseek) | Researchers combine reinforcement learning and large language models to improve risk-sensitive trading strategies, enhancing CPPO with LLM-generated risk assessments and trading recommendations, tested on Nasdaq-100 financial data.|
+|[Google and Ireland Celebrate Insight AI Scholarship.](https://blog.google/around-the-globe/google-europe/taoiseach-visits-google-to-celebrate-the-future-of-irelands-tech-talent/) | Google hosts Irish officials to celebrate the Insight AI Scholarship, which supports students from underrepresented backgrounds in developing AI and digital skills.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
