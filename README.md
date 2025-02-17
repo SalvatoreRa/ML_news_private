@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI tries to ‘uncensor’ ChatGPT.](https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/) |OpenAI is changing how it trains AI models to explicitly embrace “intellectual freedom … no matter how challenging or controversial a topic may be,” the company says in a new policy. |
 |[Bolt.new introduces AI app generation for iOS and Android.](https://www.youtube.com/watch?v=iCwxkm2PkQE&ab_channel=Expo) |StackBlitz, known for its AI tool Bolt.new, has launched an AI mobile app developer in collaboration with Expo. Users can describe their app idea in natural language, and Bolt's AI will instantly generate code for full-stack iOS and Android apps. |
 |[Google and Ireland Celebrate Insight AI Scholarship.](https://blog.google/around-the-globe/google-europe/taoiseach-visits-google-to-celebrate-the-future-of-irelands-tech-talent/) | Google hosts Irish officials to celebrate the Insight AI Scholarship, which supports students from underrepresented backgrounds in developing AI and digital skills.|
-|[.]() | |
-|[.]() | |
+|[Anthropic Calls for Urgency in AI Governance.](https://www.anthropic.com/news/paris-ai-summit) |At the Paris AI Action Summit, Anthropic highlighted the importance of democratic nations leading AI development, addressing security risks, and managing the economic disruptions brought about by advanced AI models. |
+|[OpenAI’s Operator agent helped me move, but I had to help it, too.](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/) | OpenAI gave me one week to test its new AI agent, Operator, a system that can independently do tasks for you on the internet.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
