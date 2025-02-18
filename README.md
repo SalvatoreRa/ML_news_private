@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google and Ireland Celebrate Insight AI Scholarship.](https://blog.google/around-the-globe/google-europe/taoiseach-visits-google-to-celebrate-the-future-of-irelands-tech-talent/) | Google hosts Irish officials to celebrate the Insight AI Scholarship, which supports students from underrepresented backgrounds in developing AI and digital skills.|
 |[Anthropic Calls for Urgency in AI Governance.](https://www.anthropic.com/news/paris-ai-summit) |At the Paris AI Action Summit, Anthropic highlighted the importance of democratic nations leading AI development, addressing security risks, and managing the economic disruptions brought about by advanced AI models. |
 |[OpenAI’s Operator agent helped me move, but I had to help it, too.](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/) | OpenAI gave me one week to test its new AI agent, Operator, a system that can independently do tasks for you on the internet.|
-|[.]() | |
+|[S Korea removes Deepseek from app stores over privacy concerns.](https://www.bbc.com/news/articles/clyzym0vn8go) | South Korea has banned new downloads of China's DeepSeek artificial intelligence (AI) chatbot, according to the country's personal data protection watchdog.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FinRL-DeepSeek - new trading AI agents combining Reinforcement Learning with Large Language Models.](https://melwy.com/finrl_deepseek) | Researchers combine reinforcement learning and large language models to improve risk-sensitive trading strategies, enhancing CPPO with LLM-generated risk assessments and trading recommendations, tested on Nasdaq-100 financial data.|
 |[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection.](https://arxiv.org/abs/2502.09254v1) |A new graph foundation model, AnomalyGFM, enhances zero- and few-shot anomaly detection by learning graph-agnostic representations, allowing for improved generalization across various datasets. |
 |[DeepSeek tool prompts.](https://github.com/deepseek-ai/DeepSeek-R1/pull/399/files) |DeepSeek doesn't use system prompts, but they do use search and other prompts. |
-|[.]() | |
+|[
+Mistral Saba.](https://mistral.ai/en/news/mistral-saba) | Mistral Saba is a 24B parameter model developed using carefully selected datasets from the Middle East and South Asia. It delivers more precise and pertinent responses compared to models that are more than five times its size, all while being much quicker and more cost-effective.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
