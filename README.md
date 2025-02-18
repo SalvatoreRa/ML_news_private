@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Red Hat's take on open-source AI: Pragmatism over utopian dreams.](https://www.zdnet.com/article/red-hats-take-on-open-source-ai-pragmatism-over-utopian-dreams/) |Red Hat advocates for a practical approach to open-source AI, concentrating on real-world enterprise needs rather than pursuing AGI. The challenges involve balancing transparency with competitive concerns, particularly around the lack of clarity in open-source AI’s training data and model weights. Red Hat seeks to promote collaboration and prevent vendor lock-in, while recognizing the greater complexities of AI compared to traditional open-source software. |
-|[.]() | |
+|[The EU AI Act is Coming to America.](https://www.hyperdimensional.co/p/the-eu-ai-act-is-coming-to-america) | While federal leaders appear cautious about imposing strict AI regulations, several U.S. states are introducing laws based on Europe’s AI Act. This article discusses how "algorithmic discrimination" laws, influenced by EU regulations, could introduce detailed impact assessments, demand compliance documentation, and hold AI deployments liable—potentially leading to higher operational costs for teams developing AI systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
