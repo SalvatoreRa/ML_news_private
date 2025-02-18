@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates.](https://arxiv.org/abs/2502.06772) |The ReasonFlux framework fine-tunes LLMs for complex reasoning using hierarchical thought processes and reusable templates. Instead of learning long Chain-of-Thought (CoT) solutions from scratch, it applies ~500 thought templates like problem splitting or solution verification. Hierarchical RL trains the model to sequence these templates, requiring only 8 GPUs for a 32B model. A novel inference-time adaptation adjusts reasoning depth dynamically, optimizing speed and accuracy. Achieving 91.2% on MATH (+6.7% over OpenAI’s model) and 56.7% on AIME, ReasonFlux shows that structured fine-tuning can rival brute-force scaling. |
 |[LLM Pretraining with Continuous Concepts.](https://arxiv.org/abs/2502.08524) | CoCoMix is a pretraining framework that improves next-token prediction by incorporating continuous concepts learned from a sparse autoencoder. It boosts sample efficiency, surpassing traditional methods in language modeling and reasoning tasks. Furthermore, it increases interpretability by enabling direct inspection and modification of predicted concepts.|
 |[90% faster B200 training.](https://www.together.ai/blog/nvidia-hgx-b200-with-together-kernel-collection) |Together AI showcases their significant progress in improving training kernels. They use TorchTitan as a testing platform and achieve substantial improvements by focusing on the architecture. |
-|[.]() | |
+|[Large diffusion language model.](https://ml-gsai.github.io/LLaDA-demo/) |Large scale training of a diffusion model for language that matches LLaMA 3 8B in performance across many benchmarks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic Calls for Urgency in AI Governance.](https://www.anthropic.com/news/paris-ai-summit) |At the Paris AI Action Summit, Anthropic highlighted the importance of democratic nations leading AI development, addressing security risks, and managing the economic disruptions brought about by advanced AI models. |
 |[OpenAI’s Operator agent helped me move, but I had to help it, too.](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/) | OpenAI gave me one week to test its new AI agent, Operator, a system that can independently do tasks for you on the internet.|
 |[S Korea removes Deepseek from app stores over privacy concerns.](https://www.bbc.com/news/articles/clyzym0vn8go) | South Korea has banned new downloads of China's DeepSeek artificial intelligence (AI) chatbot, according to the country's personal data protection watchdog.|
-|[.]() | |
+|[fal Raises $49M Series B to Power the Future of AI Video.](https://blog.fal.ai/fal-raises-49m-series-b-to-power-the-future-of-ai-video/) | Fal has raised $49M in Series B funding, led by Notable Capital, with participation from a16z and others, bringing its total funding to $72M. The company is working on growing its platform for AI-powered generative media, particularly in video content, targeting sectors such as advertising and gaming. Fal’s unique technology ensures quick, scalable, and dependable deployments, which has already drawn enterprise customers like Quora and Canva.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek tool prompts.](https://github.com/deepseek-ai/DeepSeek-R1/pull/399/files) |DeepSeek doesn't use system prompts, but they do use search and other prompts. |
 |[
 Mistral Saba.](https://mistral.ai/en/news/mistral-saba) | Mistral Saba is a 24B parameter model developed using carefully selected datasets from the Middle East and South Asia. It delivers more precise and pertinent responses compared to models that are more than five times its size, all while being much quicker and more cost-effective.|
-|[.]() | |
+|[A Judge-free LLM Open-ended Generation Benchmark Based on the Distributional Hypothesis.](https://arxiv.org/abs/2502.09316v1) | Researchers have introduced a benchmark to evaluate LLM open-ended text generation using n-gram statistics and rules, eliminating the need for human or LLM-based assessments. This method closely aligns with GPT-4o evaluations while being computationally efficient.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
