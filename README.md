@@ -108,11 +108,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FinRL-DeepSeek - new trading AI agents combining Reinforcement Learning with Large Language Models.](https://melwy.com/finrl_deepseek) | Researchers combine reinforcement learning and large language models to improve risk-sensitive trading strategies, enhancing CPPO with LLM-generated risk assessments and trading recommendations, tested on Nasdaq-100 financial data.|
 |[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection.](https://arxiv.org/abs/2502.09254v1) |A new graph foundation model, AnomalyGFM, enhances zero- and few-shot anomaly detection by learning graph-agnostic representations, allowing for improved generalization across various datasets. |
 |[DeepSeek tool prompts.](https://github.com/deepseek-ai/DeepSeek-R1/pull/399/files) |DeepSeek doesn't use system prompts, but they do use search and other prompts. |
-|[
-Mistral Saba.](https://mistral.ai/en/news/mistral-saba) | Mistral Saba is a 24B parameter model developed using carefully selected datasets from the Middle East and South Asia. It delivers more precise and pertinent responses compared to models that are more than five times its size, all while being much quicker and more cost-effective.|
+|[Mistral Saba.](https://mistral.ai/en/news/mistral-saba) | Mistral Saba is a 24B parameter model developed using carefully selected datasets from the Middle East and South Asia. It delivers more precise and pertinent responses compared to models that are more than five times its size, all while being much quicker and more cost-effective.|
 |[A Judge-free LLM Open-ended Generation Benchmark Based on the Distributional Hypothesis.](https://arxiv.org/abs/2502.09316v1) | Researchers have introduced a benchmark to evaluate LLM open-ended text generation using n-gram statistics and rules, eliminating the need for human or LLM-based assessments. This method closely aligns with GPT-4o evaluations while being computationally efficient.|
-|[.]() | |
-|[.]() | |
+|[Speeding Up LLM Inference with CopySpec.](https://arxiv.org/abs/2502.08923v1) |CopySpec is a technique that speeds up LLM inference by detecting and duplicating repeated sequences in chat history without using additional GPU memory. It delivers up to a 3.08x performance boost on certain tasks and works well with speculative decoding to provide further improvements. |
+|[Step Audio Chat.](https://huggingface.co/stepfun-ai/Step-Audio-Chat) |This is the Multimodal Large Language Model (LLM) part of Step-Audio. It is a 130-billion-parameter multimodal LLM designed to comprehend and generate human speech. The model is built to smoothly combine functions like speech recognition, semantic understanding, dialogue management, voice cloning, and speech generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
