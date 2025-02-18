@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM Pretraining with Continuous Concepts.](https://arxiv.org/abs/2502.08524) | CoCoMix is a pretraining framework that improves next-token prediction by incorporating continuous concepts learned from a sparse autoencoder. It boosts sample efficiency, surpassing traditional methods in language modeling and reasoning tasks. Furthermore, it increases interpretability by enabling direct inspection and modification of predicted concepts.|
 |[90% faster B200 training.](https://www.together.ai/blog/nvidia-hgx-b200-with-together-kernel-collection) |Together AI showcases their significant progress in improving training kernels. They use TorchTitan as a testing platform and achieve substantial improvements by focusing on the architecture. |
 |[Large diffusion language model.](https://ml-gsai.github.io/LLaDA-demo/) |Large scale training of a diffusion model for language that matches LLaMA 3 8B in performance across many benchmarks. |
-|[.]() | |
+|[Measuring LLMs Memory.](https://github.com/NiuTrans/ForgettingCurve) |This study examines the shortcomings of current methods for evaluating the memory capacity of language models. It presents the "forgetting curve," a novel approach for measuring how effectively models retain information across long contexts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s Operator agent helped me move, but I had to help it, too.](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/) | OpenAI gave me one week to test its new AI agent, Operator, a system that can independently do tasks for you on the internet.|
 |[S Korea removes Deepseek from app stores over privacy concerns.](https://www.bbc.com/news/articles/clyzym0vn8go) | South Korea has banned new downloads of China's DeepSeek artificial intelligence (AI) chatbot, according to the country's personal data protection watchdog.|
 |[fal Raises $49M Series B to Power the Future of AI Video.](https://blog.fal.ai/fal-raises-49m-series-b-to-power-the-future-of-ai-video/) | Fal has raised $49M in Series B funding, led by Notable Capital, with participation from a16z and others, bringing its total funding to $72M. The company is working on growing its platform for AI-powered generative media, particularly in video content, targeting sectors such as advertising and gaming. Fal’s unique technology ensures quick, scalable, and dependable deployments, which has already drawn enterprise customers like Quora and Canva.|
-|[.]() | |
+|[US' First Major AI Copyright Ruling.](https://www.jdsupra.com/legalnews/surprise-move-judge-walks-back-ai-6219521/) |A U.S. judge determined that Ross Intelligence violated Thomson Reuters' copyright by using Westlaw headnotes to train its AI. This ruling could impact other AI-related copyright cases but is primarily focused on non-generative AI applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Judge-free LLM Open-ended Generation Benchmark Based on the Distributional Hypothesis.](https://arxiv.org/abs/2502.09316v1) | Researchers have introduced a benchmark to evaluate LLM open-ended text generation using n-gram statistics and rules, eliminating the need for human or LLM-based assessments. This method closely aligns with GPT-4o evaluations while being computationally efficient.|
 |[Speeding Up LLM Inference with CopySpec.](https://arxiv.org/abs/2502.08923v1) |CopySpec is a technique that speeds up LLM inference by detecting and duplicating repeated sequences in chat history without using additional GPU memory. It delivers up to a 3.08x performance boost on certain tasks and works well with speculative decoding to provide further improvements. |
 |[Step Audio Chat.](https://huggingface.co/stepfun-ai/Step-Audio-Chat) |This is the Multimodal Large Language Model (LLM) part of Step-Audio. It is a 130-billion-parameter multimodal LLM designed to comprehend and generate human speech. The model is built to smoothly combine functions like speech recognition, semantic understanding, dialogue management, voice cloning, and speech generation. |
-|[.]() | |
+|[AdaVLN.](https://github.com/dillonloh/adavln) | AdaSimulator provides a physics-enabled environment for studying Visual Language Navigation (VLN) in realistic settings.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Red Hat's take on open-source AI: Pragmatism over utopian dreams.](https://www.zdnet.com/article/red-hats-take-on-open-source-ai-pragmatism-over-utopian-dreams/) |Red Hat advocates for a practical approach to open-source AI, concentrating on real-world enterprise needs rather than pursuing AGI. The challenges involve balancing transparency with competitive concerns, particularly around the lack of clarity in open-source AI’s training data and model weights. Red Hat seeks to promote collaboration and prevent vendor lock-in, while recognizing the greater complexities of AI compared to traditional open-source software. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
