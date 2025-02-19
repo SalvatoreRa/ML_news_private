@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large diffusion language model.](https://ml-gsai.github.io/LLaDA-demo/) |Large scale training of a diffusion model for language that matches LLaMA 3 8B in performance across many benchmarks. |
 |[Measuring LLMs Memory.](https://github.com/NiuTrans/ForgettingCurve) |This study examines the shortcomings of current methods for evaluating the memory capacity of language models. It presents the "forgetting curve," a novel approach for measuring how effectively models retain information across long contexts. |
 |[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.](https://arxiv.org/abs/2502.11089) | DeepSeek has entered the Attention Alternative space with an innovative algorithmic approach to accelerate quadratic Attention. They achieve up to an 11x speed improvement without compromising overall performance.|
-|[.]() | |
+|[On Space Folds of ReLU Neural Networks.](https://arxiv.org/abs/2502.09954) |Researchers offer a quantitative analysis of how ReLU neural networks compress input space, uncovering patterns of self-similarity. They introduce a new metric for studying these transformations and present empirical results on benchmarks such as CantorNet and MNIST. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Speeding Up LLM Inference with CopySpec.](https://arxiv.org/abs/2502.08923v1) |CopySpec is a technique that speeds up LLM inference by detecting and duplicating repeated sequences in chat history without using additional GPU memory. It delivers up to a 3.08x performance boost on certain tasks and works well with speculative decoding to provide further improvements. |
 |[Step Audio Chat.](https://huggingface.co/stepfun-ai/Step-Audio-Chat) |This is the Multimodal Large Language Model (LLM) part of Step-Audio. It is a 130-billion-parameter multimodal LLM designed to comprehend and generate human speech. The model is built to smoothly combine functions like speech recognition, semantic understanding, dialogue management, voice cloning, and speech generation. |
 |[AdaVLN.](https://github.com/dillonloh/adavln) | AdaSimulator provides a physics-enabled environment for studying Visual Language Navigation (VLN) in realistic settings.|
-|[.]() | |
+|[SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://arxiv.org/abs/2502.12115) | SWE-Lancer is a comprehensive benchmark featuring over 1,400 freelance software engineering tasks from Upwork, with a total value of $1 million USD in real-world payouts. It includes both independent engineering tasks—ranging from $50 bug fixes to $32,000 feature implementations—and managerial tasks, where models select between different technical implementation proposals. The highest-performing models earned $400k.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
