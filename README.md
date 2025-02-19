@@ -59,7 +59,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[90% faster B200 training.](https://www.together.ai/blog/nvidia-hgx-b200-with-together-kernel-collection) |Together AI showcases their significant progress in improving training kernels. They use TorchTitan as a testing platform and achieve substantial improvements by focusing on the architecture. |
 |[Large diffusion language model.](https://ml-gsai.github.io/LLaDA-demo/) |Large scale training of a diffusion model for language that matches LLaMA 3 8B in performance across many benchmarks. |
 |[Measuring LLMs Memory.](https://github.com/NiuTrans/ForgettingCurve) |This study examines the shortcomings of current methods for evaluating the memory capacity of language models. It presents the "forgetting curve," a novel approach for measuring how effectively models retain information across long contexts. |
-|[.]() | |
+|[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.](https://arxiv.org/abs/2502.11089) | DeepSeek has entered the Attention Alternative space with an innovative algorithmic approach to accelerate quadratic Attention. They achieve up to an 11x speed improvement without compromising overall performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon accused of targeting Coventry union members after failed recognition vote.](https://www.theguardian.com/technology/2025/feb/16/amazon-accused-of-targeting-coventry-union-members-after-failed-recognition-vote) |GMB says 60 workers have been targeted, with disciplinary action increasing significantly, but company denies claims |
 |[Humane’s AI Pin is dead, as HP buys startup’s assets for $116M.](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/?utm_source=tldrai) |Humane announced on Tuesday that most of its assets have been acquired by HP for $116 million. The hardware startup is immediately discontinuing sales of its $499 AI Pins. Humane alerted customers who have already purchased the Pin that their devices will stop functioning before the end of the month — at 12 p.m. PST on February 28, 2025, according to a blog post.|
 |[Mira announces Thinking Machine Labs.](https://thinkingmachines.ai/) |The former CTO of OpenAI, along with many highly skilled scientists and engineers, has come together to create a new AI company. While the goals are not entirely clear, it appears to be a company centered on both product and foundation models, with an emphasis on infrastructure. |
-|[.]() | |
+|[Meta is Launching LlamaCon.](https://www.meta.com/fr-fr/blog/connect-2025-llamacon-save-the-date/) |Meta is hosting LlamaCon, an open-source AI developer conference, on April 29. The event will highlight progress in the Llama AI model ecosystem, with Meta Connect scheduled for September to focus on XR and metaverse innovations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
