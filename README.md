@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM-Guided Reinforcement Learning.](https://arxiv.org/abs/2502.11896) |CAMEL enhances reinforcement learning efficiency by combining LLM-generated suboptimal policies with dynamic action masking. |
 |[R1 1776.](https://huggingface.co/perplexity-ai/r1-1776) | Perplexity has post-trained R1 to remove Chinese censorship. They do so in a way that doesn't harm underlying reasoning. It is Perplexity's first open weights release.|
 |[Google's Flood Hub Features.](https://blog.google/technology/ai/advanced-flood-hub-features-for-aid-organizations-and-governments/) |Google is launching new tools for flood experts in Flood Hub, such as an inundation history map and a basin view, while partnering with aid organizations like GiveDirectly and the IRC to support communities impacted by floods. |
-|[.]() | |
-|[.]() | |
+|[Grok 3 Overview.](https://www.analyticsvidhya.com/blog/2025/02/grok-3/) | This article provides a comprehensive overview of xAI's Grok 3.|
+|[Reinforcement Learning Quickstart Guide.](https://x.com/jsuarez5341/status/1854855861295849793) |An excellent X article by the PufferLib maintainer that explores the key differences between types of RL and provides a helpful guide for base hyperparameters. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
