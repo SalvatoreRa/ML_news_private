@@ -91,6 +91,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Humane’s AI Pin is dead, as HP buys startup’s assets for $116M.](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/?utm_source=tldrai) |Humane announced on Tuesday that most of its assets have been acquired by HP for $116 million. The hardware startup is immediately discontinuing sales of its $499 AI Pins. Humane alerted customers who have already purchased the Pin that their devices will stop functioning before the end of the month — at 12 p.m. PST on February 28, 2025, according to a blog post.|
 |[Mira announces Thinking Machine Labs.](https://thinkingmachines.ai/) |The former CTO of OpenAI, along with many highly skilled scientists and engineers, has come together to create a new AI company. While the goals are not entirely clear, it appears to be a company centered on both product and foundation models, with an emphasis on infrastructure. |
 |[Meta is Launching LlamaCon.](https://www.meta.com/fr-fr/blog/connect-2025-llamacon-save-the-date/) |Meta is hosting LlamaCon, an open-source AI developer conference, on April 29. The event will highlight progress in the Llama AI model ecosystem, with Meta Connect scheduled for September to focus on XR and metaverse innovations. |
+|[OpenAI considering 16 states for data center campuses as part of Trump’s Stargate project.](https://www.cnbc.com/2025/02/06/openai-looking-at-16-states-for-data-center-campuses-tied-to-stargate.html) |OpenAI is contemplating the construction of data center campuses in 16 states as part of President Trump's Stargate initiative, collaborating with Oracle, SoftBank, Microsoft, Nvidia, and Arm, with plans to invest up to $500 billion over four years. |
+|[Academic researchers find a way to train an AI reasoning model for less than $50.](https://techxplore.com/news/2025-02-academic-ai.html) | Researchers at Stanford and the University of Washington have trained an AI reasoning model for under $50 using distillation and modifications to an Alibaba AI model.|
+|[OpenAI now reveals more of its o3-mini model’s thought process.](https://techcrunch.com/2025/02/06/openai-now-reveals-more-of-its-o3-mini-models-thought-process/) |In response to pressure from rivals including Chinese AI company DeepSeek, OpenAI is changing the way its newest AI model, o3-mini, communicates its step-by-step “thought” process. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
