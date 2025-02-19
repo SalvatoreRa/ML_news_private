@@ -114,10 +114,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Step Audio Chat.](https://huggingface.co/stepfun-ai/Step-Audio-Chat) |This is the Multimodal Large Language Model (LLM) part of Step-Audio. It is a 130-billion-parameter multimodal LLM designed to comprehend and generate human speech. The model is built to smoothly combine functions like speech recognition, semantic understanding, dialogue management, voice cloning, and speech generation. |
 |[AdaVLN.](https://github.com/dillonloh/adavln) | AdaSimulator provides a physics-enabled environment for studying Visual Language Navigation (VLN) in realistic settings.|
 |[SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://arxiv.org/abs/2502.12115) | SWE-Lancer is a comprehensive benchmark featuring over 1,400 freelance software engineering tasks from Upwork, with a total value of $1 million USD in real-world payouts. It includes both independent engineering tasks—ranging from $50 bug fixes to $32,000 feature implementations—and managerial tasks, where models select between different technical implementation proposals. The highest-performing models earned $400k.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Selective Task Group Updates for Multi-Task Optimization.](https://arxiv.org/abs/2502.11986) | A new multi-task learning approach reduces negative transfer by dynamically grouping tasks and updating them sequentially during training. This method, which leverages proximal inter-task affinity, greatly enhances performance compared to existing multi-task optimization methods.|
+|[LLM-Guided Reinforcement Learning.](https://arxiv.org/abs/2502.11896) |CAMEL enhances reinforcement learning efficiency by combining LLM-generated suboptimal policies with dynamic action masking. |
+|[R1 1776.](https://huggingface.co/perplexity-ai/r1-1776) | Perplexity has post-trained R1 to remove Chinese censorship. They do so in a way that doesn't harm underlying reasoning. It is Perplexity's first open weights release.|
+|[Google's Flood Hub Features.](https://blog.google/technology/ai/advanced-flood-hub-features-for-aid-organizations-and-governments/) |Google is launching new tools for flood experts in Flood Hub, such as an inundation history map and a basin view, while partnering with aid organizations like GiveDirectly and the IRC to support communities impacted by floods. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
