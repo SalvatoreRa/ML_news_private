@@ -88,8 +88,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google is adding digital watermarks to images edited with Magic Editor AI.](https://techcrunch.com/2025/02/06/google-is-adding-digital-watermarks-to-images-edited-with-magic-editor-ai/) |Google on Thursday announced that effective this week, it will begin adding a digital watermark to images in Photos that are edited with generative AI. The watermark applies specifically to images that are altered using the Reimagine feature found in Magic Editor on Pixel 9 devices. |
 |[Meta plans to link US and India with world’s longest undersea cable project.](https://www.theguardian.com/technology/2025/feb/17/meta-plans-to-build-worlds-longest-underwater-sub-sea-cable-venture) | Project Waterworth, which involves cable longer than Earth’s circumference, to also reach South Africa and Brazil|
 |[Amazon accused of targeting Coventry union members after failed recognition vote.](https://www.theguardian.com/technology/2025/feb/16/amazon-accused-of-targeting-coventry-union-members-after-failed-recognition-vote) |GMB says 60 workers have been targeted, with disciplinary action increasing significantly, but company denies claims |
-|[.]() | |
-|[.]() | |
+|[Humane’s AI Pin is dead, as HP buys startup’s assets for $116M.](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/?utm_source=tldrai) |Humane announced on Tuesday that most of its assets have been acquired by HP for $116 million. The hardware startup is immediately discontinuing sales of its $499 AI Pins. Humane alerted customers who have already purchased the Pin that their devices will stop functioning before the end of the month — at 12 p.m. PST on February 28, 2025, according to a blog post.|
+|[Mira announces Thinking Machine Labs.](https://thinkingmachines.ai/) |The former CTO of OpenAI, along with many highly skilled scientists and engineers, has come together to create a new AI company. While the goals are not entirely clear, it appears to be a company centered on both product and foundation models, with an emphasis on infrastructure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
