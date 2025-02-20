@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Academic researchers find a way to train an AI reasoning model for less than $50.](https://techxplore.com/news/2025-02-academic-ai.html) | Researchers at Stanford and the University of Washington have trained an AI reasoning model for under $50 using distillation and modifications to an Alibaba AI model.|
 |[OpenAI now reveals more of its o3-mini model’s thought process.](https://techcrunch.com/2025/02/06/openai-now-reveals-more-of-its-o3-mini-models-thought-process/) |In response to pressure from rivals including Chinese AI company DeepSeek, OpenAI is changing the way its newest AI model, o3-mini, communicates its step-by-step “thought” process. |
 |[DeepMind AI crushes tough maths problems on par with top human solvers.](https://www.nature.com/articles/d41586-025-00406-7) |The company’s AlphaGeometry 2 reaches the level of gold-medal students in the International Mathematical Olympiad. |
-|[.]() | |
-|[.]() | |
+|[Microsoft unveils chip it says could bring quantum computing within years.](https://www.theguardian.com/technology/2025/feb/19/topoconductor-chip-quantum-computing-topological-qubits-microsoft) |Chip is powered by world’s first topoconductor, which can create new state of matter that is not solid, liquid or gas |
+|[EU accused of leaving ‘devastating’ copyright loophole in AI Act.](https://www.theguardian.com/technology/2025/feb/19/eu-accused-of-leaving-devastating-copyright-loophole-in-ai-act) |Architect of copyright law says EU is ‘supporting big tech instead of protecting European creative ideas’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
