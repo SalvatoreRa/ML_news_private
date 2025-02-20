@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI considering 16 states for data center campuses as part of Trump’s Stargate project.](https://www.cnbc.com/2025/02/06/openai-looking-at-16-states-for-data-center-campuses-tied-to-stargate.html) |OpenAI is contemplating the construction of data center campuses in 16 states as part of President Trump's Stargate initiative, collaborating with Oracle, SoftBank, Microsoft, Nvidia, and Arm, with plans to invest up to $500 billion over four years. |
 |[Academic researchers find a way to train an AI reasoning model for less than $50.](https://techxplore.com/news/2025-02-academic-ai.html) | Researchers at Stanford and the University of Washington have trained an AI reasoning model for under $50 using distillation and modifications to an Alibaba AI model.|
 |[OpenAI now reveals more of its o3-mini model’s thought process.](https://techcrunch.com/2025/02/06/openai-now-reveals-more-of-its-o3-mini-models-thought-process/) |In response to pressure from rivals including Chinese AI company DeepSeek, OpenAI is changing the way its newest AI model, o3-mini, communicates its step-by-step “thought” process. |
-|[.]() | |
+|[DeepMind AI crushes tough maths problems on par with top human solvers.](https://www.nature.com/articles/d41586-025-00406-7) |The company’s AlphaGeometry 2 reaches the level of gold-medal students in the International Mathematical Olympiad. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Red Hat's take on open-source AI: Pragmatism over utopian dreams.](https://www.zdnet.com/article/red-hats-take-on-open-source-ai-pragmatism-over-utopian-dreams/) |Red Hat advocates for a practical approach to open-source AI, concentrating on real-world enterprise needs rather than pursuing AGI. The challenges involve balancing transparency with competitive concerns, particularly around the lack of clarity in open-source AI’s training data and model weights. Red Hat seeks to promote collaboration and prevent vendor lock-in, while recognizing the greater complexities of AI compared to traditional open-source software. |
 |[The EU AI Act is Coming to America.](https://www.hyperdimensional.co/p/the-eu-ai-act-is-coming-to-america) | While federal leaders appear cautious about imposing strict AI regulations, several U.S. states are introducing laws based on Europe’s AI Act. This article discusses how "algorithmic discrimination" laws, influenced by EU regulations, could introduce detailed impact assessments, demand compliance documentation, and hold AI deployments liable—potentially leading to higher operational costs for teams developing AI systems. |
-|[.]() | |
+|[Biggest-ever AI biology model writes DNA on demand.](https://www.nature.com/articles/d41586-025-00531-3) |An artificial-intelligence network trained on a vast trove of sequence data is a step towards designing completely new genomes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
