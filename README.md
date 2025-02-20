@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's Flood Hub Features.](https://blog.google/technology/ai/advanced-flood-hub-features-for-aid-organizations-and-governments/) |Google is launching new tools for flood experts in Flood Hub, such as an inundation history map and a basin view, while partnering with aid organizations like GiveDirectly and the IRC to support communities impacted by floods. |
 |[Grok 3 Overview.](https://www.analyticsvidhya.com/blog/2025/02/grok-3/) | This article provides a comprehensive overview of xAI's Grok 3.|
 |[Reinforcement Learning Quickstart Guide.](https://x.com/jsuarez5341/status/1854855861295849793) |An excellent X article by the PufferLib maintainer that explores the key differences between types of RL and provides a helpful guide for base hyperparameters. |
-|[.]() | |
+|[Artificial intelligence for modelling infectious disease epidemics.](https://www.nature.com/articles/s41586-024-08564-w) | This Perspective considers the application to infectious disease modelling of AI systems that combine machine learning, computational statistics, information retrieval and data science.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Red Hat's take on open-source AI: Pragmatism over utopian dreams.](https://www.zdnet.com/article/red-hats-take-on-open-source-ai-pragmatism-over-utopian-dreams/) |Red Hat advocates for a practical approach to open-source AI, concentrating on real-world enterprise needs rather than pursuing AGI. The challenges involve balancing transparency with competitive concerns, particularly around the lack of clarity in open-source AI’s training data and model weights. Red Hat seeks to promote collaboration and prevent vendor lock-in, while recognizing the greater complexities of AI compared to traditional open-source software. |
 |[The EU AI Act is Coming to America.](https://www.hyperdimensional.co/p/the-eu-ai-act-is-coming-to-america) | While federal leaders appear cautious about imposing strict AI regulations, several U.S. states are introducing laws based on Europe’s AI Act. This article discusses how "algorithmic discrimination" laws, influenced by EU regulations, could introduce detailed impact assessments, demand compliance documentation, and hold AI deployments liable—potentially leading to higher operational costs for teams developing AI systems. |
 |[Biggest-ever AI biology model writes DNA on demand.](https://www.nature.com/articles/d41586-025-00531-3) |An artificial-intelligence network trained on a vast trove of sequence data is a step towards designing completely new genomes. |
-|[.]() | |
+|[A giant leap for machine translation could be even bigger.](https://www.nature.com/articles/d41586-025-00497-2) |The SEAMLESSM4T speech- and text-translation tool published in January represents a major advance for multilingual and multimodal machine translation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
