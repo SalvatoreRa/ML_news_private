@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Measuring LLMs Memory.](https://github.com/NiuTrans/ForgettingCurve) |This study examines the shortcomings of current methods for evaluating the memory capacity of language models. It presents the "forgetting curve," a novel approach for measuring how effectively models retain information across long contexts. |
 |[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention.](https://arxiv.org/abs/2502.11089) | DeepSeek has entered the Attention Alternative space with an innovative algorithmic approach to accelerate quadratic Attention. They achieve up to an 11x speed improvement without compromising overall performance.|
 |[On Space Folds of ReLU Neural Networks.](https://arxiv.org/abs/2502.09954) |Researchers offer a quantitative analysis of how ReLU neural networks compress input space, uncovering patterns of self-similarity. They introduce a new metric for studying these transformations and present empirical results on benchmarks such as CantorNet and MNIST. |
-|[.]() | |
+|[World and Human Action Models towards gameplay ideation.](https://www.nature.com/articles/s41586-025-08600-3) | A state-of-the-art generative artificial intelligence model of a video game is introduced to allow the support of human creative ideation, with the analysis of user study data highlighting three necessary capabilities, namely, consistency, diversity and persistency.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok 3 Overview.](https://www.analyticsvidhya.com/blog/2025/02/grok-3/) | This article provides a comprehensive overview of xAI's Grok 3.|
 |[Reinforcement Learning Quickstart Guide.](https://x.com/jsuarez5341/status/1854855861295849793) |An excellent X article by the PufferLib maintainer that explores the key differences between types of RL and provides a helpful guide for base hyperparameters. |
 |[Artificial intelligence for modelling infectious disease epidemics.](https://www.nature.com/articles/s41586-024-08564-w) | This Perspective considers the application to infectious disease modelling of AI systems that combine machine learning, computational statistics, information retrieval and data science.|
-|[.]() | |
+|[A vision–language foundation model for precision oncology.](https://www.nature.com/articles/s41586-024-08378-w) |Trained on unlabelled, unpaired image and text data, the Multimodal transformer with Unified maSKed modeling excelled in outcome prediction, image-to-text retrieval and visual question answering, potentially improving cancer diagnosis and therapy precision. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
