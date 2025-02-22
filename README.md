@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EU accused of leaving ‘devastating’ copyright loophole in AI Act.](https://www.theguardian.com/technology/2025/feb/19/eu-accused-of-leaving-devastating-copyright-loophole-in-ai-act) |Architect of copyright law says EU is ‘supporting big tech instead of protecting European creative ideas’ |
 |[Spotify Collaborates with ElevenLabs to Enhance AI-Narrated Audiobooks.](https://newsroom.spotify.com/2025-02-20/spotify-opens-up-support-for-elevenlabs-audiobook-content/) | |
 |[Together AI Announces $305M Series B.](https://www.together.ai/blog/together-ai-announcing-305m-series-b) |Together AI has raised $305 million in a Series B funding round led by General Catalyst and Prosperity7, with contributions from investors like NVIDIA and Salesforce Ventures. This investment will strengthen Together AI's leadership in AI Cloud solutions, focusing on open-source AI models and NVIDIA Blackwell GPU deployment. The platform supports efficient AI application development, providing enterprise-grade inference, training, and model fine-tuning, with planned infrastructure expansions to accommodate rapid ecosystem growth. |
-|[.]() | |
+|[The Future of Legal Work with Eudia.](https://www.eudia.com/blog/the-augmented-intelligence-era-unlocking-unlimited-potential-for-the-future-of-legal-work-with-eudia) | Eudia has raised $105 million in Series A funding to revolutionize legal operations with augmented intelligence, aiming to enhance legal teams' capabilities instead of replacing them. By collaborating with prominent Chief Legal Officers, Eudia seeks to streamline legal processes and transform legal departments from cost centers into strategic value drivers. This represents a major move towards AI-powered legal functions within Fortune 500 companies.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,8 +135,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reinforcement Learning Quickstart Guide.](https://x.com/jsuarez5341/status/1854855861295849793) |An excellent X article by the PufferLib maintainer that explores the key differences between types of RL and provides a helpful guide for base hyperparameters. |
 |[Artificial intelligence for modelling infectious disease epidemics.](https://www.nature.com/articles/s41586-024-08564-w) | This Perspective considers the application to infectious disease modelling of AI systems that combine machine learning, computational statistics, information retrieval and data science.|
 |[A vision–language foundation model for precision oncology.](https://www.nature.com/articles/s41586-024-08378-w) |Trained on unlabelled, unpaired image and text data, the Multimodal transformer with Unified maSKed modeling excelled in outcome prediction, image-to-text retrieval and visual question answering, potentially improving cancer diagnosis and therapy precision. |
-|[.]() | |
-|[.]() | |
+|[Qwen 2.5 VL Technical Report.](https://arxiv.org/abs/2502.13923) |Report for the strongest open weights vision language model from the Qwen team. |
+|[End to end driving RL model trained with Gaussian Splats.](https://arxiv.org/abs/2502.13144) |An intriguing proof-of-concept paper demonstrates the use of photorealistic environments rendered with 3D Gaussian splats, achieving a 3x reduction in collision rates overall. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
