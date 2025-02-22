@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Crawl4LLM.](https://github.com/cxcscmu/Crawl4LLM) | Most data from web crawls is discarded due to poor text extraction performance. This work significantly improves the number of documents retained, using them to train stronger models with just a fraction of the crawled data.|
 |[Open Reasoner Zero.](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) |Open replication of the zero reasoning paradigm. It is fully open source with training data, scripts, and weights. |
 |[LLM-Oasis.](https://github.com/Babelscape/LLM-Oasis) | LLM-Oasis is a large-scale dataset created to train and evaluate systems that assess the factual accuracy of outputs from LLMs.|
-|[.]() | |
+|[Flex 1 image generation model.](https://huggingface.co/ostris/Flex.1-alpha) |An intriguing side project from the community, this model is fine-tuned from Flux Schnell and is Apache licensed. It is designed to be fine-tuned at 8B parameters, running efficiently without compromising performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,7 +157,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The EU AI Act is Coming to America.](https://www.hyperdimensional.co/p/the-eu-ai-act-is-coming-to-america) | While federal leaders appear cautious about imposing strict AI regulations, several U.S. states are introducing laws based on Europe’s AI Act. This article discusses how "algorithmic discrimination" laws, influenced by EU regulations, could introduce detailed impact assessments, demand compliance documentation, and hold AI deployments liable—potentially leading to higher operational costs for teams developing AI systems. |
 |[Biggest-ever AI biology model writes DNA on demand.](https://www.nature.com/articles/d41586-025-00531-3) |An artificial-intelligence network trained on a vast trove of sequence data is a step towards designing completely new genomes. |
 |[A giant leap for machine translation could be even bigger.](https://www.nature.com/articles/d41586-025-00497-2) |The SEAMLESSM4T speech- and text-translation tool published in January represents a major advance for multilingual and multimodal machine translation.|
-|[.]() | |
+|[An AI Alchemist and His DeepSeek Journey.](https://craftedminds.substack.com/p/an-ai-alchemist-and-his-deepseek) |Wenfeng Liang, a hedge fund manager, founded DeepSeek, a self-funded open-source AI platform that has quickly gained global recognition for its innovative LLMs like DeepSeek-R1, which rival OpenAI's models. By utilizing more affordable training methods and consumer-grade hardware, DeepSeek has attracted interest from both major tech companies and smaller institutions. Liang's emphasis on open-source AI development, supported by his success with Magic Square Quantitative, prioritizes collaboration and technological advancement over commercial motivations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
