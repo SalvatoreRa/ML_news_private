@@ -98,6 +98,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMind AI crushes tough maths problems on par with top human solvers.](https://www.nature.com/articles/d41586-025-00406-7) |The company’s AlphaGeometry 2 reaches the level of gold-medal students in the International Mathematical Olympiad. |
 |[Microsoft unveils chip it says could bring quantum computing within years.](https://www.theguardian.com/technology/2025/feb/19/topoconductor-chip-quantum-computing-topological-qubits-microsoft) |Chip is powered by world’s first topoconductor, which can create new state of matter that is not solid, liquid or gas |
 |[EU accused of leaving ‘devastating’ copyright loophole in AI Act.](https://www.theguardian.com/technology/2025/feb/19/eu-accused-of-leaving-devastating-copyright-loophole-in-ai-act) |Architect of copyright law says EU is ‘supporting big tech instead of protecting European creative ideas’ |
+|[Spotify Collaborates with ElevenLabs to Enhance AI-Narrated Audiobooks.](https://newsroom.spotify.com/2025-02-20/spotify-opens-up-support-for-elevenlabs-audiobook-content/) | |
+|[Together AI Announces $305M Series B.](https://www.together.ai/blog/together-ai-announcing-305m-series-b) |Together AI has raised $305 million in a Series B funding round led by General Catalyst and Prosperity7, with contributions from investors like NVIDIA and Salesforce Ventures. This investment will strengthen Together AI's leadership in AI Cloud solutions, focusing on open-source AI models and NVIDIA Blackwell GPU deployment. The platform supports efficient AI application development, providing enterprise-grade inference, training, and model fine-tuning, with planned infrastructure expansions to accommodate rapid ecosystem growth. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
