@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Spotify Collaborates with ElevenLabs to Enhance AI-Narrated Audiobooks.](https://newsroom.spotify.com/2025-02-20/spotify-opens-up-support-for-elevenlabs-audiobook-content/) | Spotify now enables audiobooks narrated using ElevenLabs' AI voice technology, allowing authors to upload AI-narrated works via Findaway Voices. The feature supports narration in 29 languages, though publishing requires approval through a review process.|
 |[Together AI Announces $305M Series B.](https://www.together.ai/blog/together-ai-announcing-305m-series-b) |Together AI has raised $305 million in a Series B funding round led by General Catalyst and Prosperity7, with contributions from investors like NVIDIA and Salesforce Ventures. This investment will strengthen Together AI's leadership in AI Cloud solutions, focusing on open-source AI models and NVIDIA Blackwell GPU deployment. The platform supports efficient AI application development, providing enterprise-grade inference, training, and model fine-tuning, with planned infrastructure expansions to accommodate rapid ecosystem growth. |
 |[The Future of Legal Work with Eudia.](https://www.eudia.com/blog/the-augmented-intelligence-era-unlocking-unlimited-potential-for-the-future-of-legal-work-with-eudia) | Eudia has raised $105 million in Series A funding to revolutionize legal operations with augmented intelligence, aiming to enhance legal teams' capabilities instead of replacing them. By collaborating with prominent Chief Legal Officers, Eudia seeks to streamline legal processes and transform legal departments from cost centers into strategic value drivers. This represents a major move towards AI-powered legal functions within Fortune 500 companies.|
-|[.]() | |
+|[Use Lens to search your screen while you browse on iOS.](https://blog.google/products/google-lens/lens-on-ios-ai-overviews/) | Google Lens now allows iPhone users to perform visual searches directly from their screen within Chrome or the Google app, using gestures like highlighting or tapping.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,8 +142,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open Reasoner Zero.](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) |Open replication of the zero reasoning paradigm. It is fully open source with training data, scripts, and weights. |
 |[LLM-Oasis.](https://github.com/Babelscape/LLM-Oasis) | LLM-Oasis is a large-scale dataset created to train and evaluate systems that assess the factual accuracy of outputs from LLMs.|
 |[Flex 1 image generation model.](https://huggingface.co/ostris/Flex.1-alpha) |An intriguing side project from the community, this model is fine-tuned from Flux Schnell and is Apache licensed. It is designed to be fine-tuned at 8B parameters, running efficiently without compromising performance. |
-|[.]() | |
-|[.]() | |
+|[Meta PyTorch Team 2025 H1 Roadmaps.](https://dev-discuss.pytorch.org/t/meta-pytorch-team-2025-h1-roadmaps/2794) |Development roadmap for the next year for the PyTorch compilation team. |
+|[OllamaTalk.](https://github.com/shinhyo/OllamaTalk) | A nice flutter app that provides a simple front end to Ollama.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
