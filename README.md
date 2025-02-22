@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[End to end driving RL model trained with Gaussian Splats.](https://arxiv.org/abs/2502.13144) |An intriguing proof-of-concept paper demonstrates the use of photorealistic environments rendered with 3D Gaussian splats, achieving a 3x reduction in collision rates overall. |
 |[Model-Guidance for Diffusion Models.](https://arxiv.org/abs/2502.12154v1) |This paper presents Model-Guidance (MG), an objective that enhances diffusion model training by integrating posterior probabilities, leading to faster training, more efficient inference, and state-of-the-art performance on ImageNet 256 benchmarks. |
 |[Crawl4LLM.](https://github.com/cxcscmu/Crawl4LLM) | Most data from web crawls is discarded due to poor text extraction performance. This work significantly improves the number of documents retained, using them to train stronger models with just a fraction of the crawled data.|
-|[.]() | |
-|[.]() | |
+|[Open Reasoner Zero.](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) |Open replication of the zero reasoning paradigm. It is fully open source with training data, scripts, and weights. |
+|[LLM-Oasis.](https://github.com/Babelscape/LLM-Oasis) | LLM-Oasis is a large-scale dataset created to train and evaluate systems that assess the factual accuracy of outputs from LLMs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
