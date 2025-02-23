@@ -144,8 +144,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Flex 1 image generation model.](https://huggingface.co/ostris/Flex.1-alpha) |An intriguing side project from the community, this model is fine-tuned from Flux Schnell and is Apache licensed. It is designed to be fine-tuned at 8B parameters, running efficiently without compromising performance. |
 |[Meta PyTorch Team 2025 H1 Roadmaps.](https://dev-discuss.pytorch.org/t/meta-pytorch-team-2025-h1-roadmaps/2794) |Development roadmap for the next year for the PyTorch compilation team. |
 |[OllamaTalk.](https://github.com/shinhyo/OllamaTalk) | A nice flutter app that provides a simple front end to Ollama.|
-|[.]() | |
-|[.]() | |
+|[Don’t gift our work to AI billionaires: Mark Haddon, Michal Rosen and other creatives urge government.](https://www.theguardian.com/technology/2025/feb/23/dont-gift-our-work-to-ai-billionaires-mark-haddon-michal-rosen-and-other-creatives-urge-government) |More than 2,000 cultural figures challenge Whitehall’s eagerness ‘to ­wrap our lives’ work in attractive paper for automated competitors’ |
+|[‘The bot asked me four times a day how I was feeling’: is tracking everything actually good for us?](https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us) | Gathering data used to be a fringe pursuit of Silicon Valley nerds. Now we’re all at it, recording everything from menstrual cycles and mobility to toothbrushing and time spent in daylight. Is this just narcissism redesigned for the big tech age?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
