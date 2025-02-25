@@ -103,9 +103,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[SigLIP 2: Multilingual Vision-Language Encoders.](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md) |SigLIP was a highly popular joint image and text encoder model. It has now been enhanced in several areas, with the most significant improvement being a considerable boost in zero-shot classification performance, which was the key achievement of the original CLIP work. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[STeCa: Step-level Trajectory Calibration for LLM Agent Learning.](https://arxiv.org/abs/2502.14276v1) | STeCa is an innovative framework created to enhance LLM agents in long-term tasks by automatically detecting and correcting inefficient actions.|
+|[GemmaX2 Translation Model.](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) |Using advanced post-training methods, this 2B model trained on Gemma delivers cutting-edge translation performance across 28 languages. |
+|[Moonlight 16B Muon trained model.](https://github.com/MoonshotAI/Moonlight) |This is the first publicly available large-scale model trained with the Muon optimizer. It was trained on 5.7T tokens and shares a very similar architecture with DeepSeek v3. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
