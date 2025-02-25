@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Moonlight 16B Muon trained model.](https://github.com/MoonshotAI/Moonlight) |This is the first publicly available large-scale model trained with the Muon optimizer. It was trained on 5.7T tokens and shares a very similar architecture with DeepSeek v3. |
 |[Triton implementation of Naive Sparse Attention.](https://github.com/fla-org/native-sparse-attention) | The DeepSeek NSA paper garnered attention last week for its scalable and efficient long-context attention algorithm. However, it did not include any code. This work offers a Triton replication that can be incorporated into any PyTorch codebase.|
 |[OmniServe.](https://github.com/mit-han-lab/omniserve) |OmniServe provides a comprehensive framework for efficient large-scale LLM deployment, integrating advancements in low-bit quantization and sparse attention to improve both speed and cost-efficiency. |
-|[.]() | |
+|[Introduction to CUDA Programming for Python Developers.](https://www.pyspur.dev/blog/introduction_cuda_programming) |A great introduction to CUDA programming for those familiar with Python programming. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[US AI Safety Institute Could Face Big Cuts: Implications, Challenges, and Future Prospects.](https://www.hpbl.co.in/market/us-ai-safety-institute-could-face-big-cuts-implications-challenges-and-future-prospects/) |This article examines the potential consequences of funding reductions for the US AI Safety Institute, including effects on national security, AI research, and global competition. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
