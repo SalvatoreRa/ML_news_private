@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[LightThinker: Thinking Step-by-Step Compression.](https://arxiv.org/abs/2502.15589) |This work seeks to compress lengthy reasoning traces into more concise and compact representations, saving context space while maintaining effectiveness in guiding the model. |
 |[Uncertainty in Neural Networks.](https://arxiv.org/abs/2502.14698v1) | DeepMind researchers introduce Delta Variances, a set of algorithms aimed at efficiently estimating epistemic uncertainty in large neural networks.|
-|[.]() | |
+|[Advancing game ideation with Muse: the first World and Human Action Model (WHAM).](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/) |Microsoft Research has launched "Muse," an AI model designed to generate video game visuals and gameplay sequences. Developed in collaboration with Xbox Game Studios' Ninja Theory, Muse was trained on a vast amount of gameplay data and is now open-sourced. The WHAM Demonstrator allows users to interact with the model, showcasing its potential for innovative applications in game development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cast4 single image to 3d scene.](https://sites.google.com/view/cast4) |Generating a complete 3D scene from a single RGB image is a complex task. This approach introduces an algorithm that provides reliable estimates for indoor scenes by employing a sophisticated series of estimation and semantic inference techniques. |
 |[DeepSeek FlashMLA.](https://github.com/deepseek-ai/FlashMLA) |DeepSeek is doing a week of open sourcing some of its internal infrastructure. This great kernel for MLA is the first release. |
 |[Mixture of Block Attention for Long Context LLMs.](https://github.com/MoonshotAI/MoBA) |Moonshot features an impressive algorithm similar to NSA, as it enables more efficient long-context language modeling. |
-|[.]() | |
+|[Sequential Recommendations with LLM-SRec.](https://arxiv.org/abs/2502.13909v2) | LLM-SRec enhances recommendation systems by incorporating sequential user behavior into LLMs without the need for fine-tuning, establishing a new benchmark in recommendation accuracy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
