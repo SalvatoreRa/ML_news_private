@@ -82,8 +82,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude 3.7 Sonnet and Claude Code.](https://www.anthropic.com/news/claude-3-7-sonnet) |Claude 3.7 Sonnet is Anthropic's newest hybrid reasoning model. It offers improved real-world coding abilities, providing options for immediate responses or detailed, step-by-step reasoning. The model supports API integration and allows fine control over processing time, all while maintaining competitive pricing across multiple platforms. |
 |[Meta AI Expands to the Middle East.](https://about.fb.com/news/2025/02/meta-ai-launches-in-the-middle-east-empowering-new-era-of-creativity-and-connection/) |Meta AI is now accessible in Arabic across Facebook, Instagram, WhatsApp, and Messenger in 10 MENA countries. Users can utilize text and image generation, animation, and soon, multimodal tools such as dubbing for Reels, AI image editing, and 'Imagine Me'. |
 |[Apple's $500B US Investment.](https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/) |Apple intends to invest $500 billion in U.S. manufacturing, engineering, and education over the next four years. Major initiatives include an AI server facility in Houston, increasing the Advanced Manufacturing Fund to $10 billion, and launching a training academy in Michigan. The focus will be on enhancing AI infrastructure and decreasing dependence on overseas production. |
-|[.]() | |
-|[.]() | |
+|[Patlytics Raises $14M for AI-Driven Patent Analytics.](https://www.patlytics.ai/news/announcing-our-4-5m-seed-round-led-by-gradient) | Patlytics, based in New York, has created an AI-driven platform designed to streamline patent workflows, covering discovery, analytics, prosecution, and litigation.|
+|[Nvidia helps launch AI platform for teaching American Sign Language.](https://venturebeat.com/games/nvidia-helps-launch-ai-platform-for-teaching-american-sign-language/) |Nvidia has unveiled a new AI platform for teaching people how to use American Sign Language to help bridge communication gaps. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek FlashMLA.](https://github.com/deepseek-ai/FlashMLA) |DeepSeek is doing a week of open sourcing some of its internal infrastructure. This great kernel for MLA is the first release. |
 |[Mixture of Block Attention for Long Context LLMs.](https://github.com/MoonshotAI/MoBA) |Moonshot features an impressive algorithm similar to NSA, as it enables more efficient long-context language modeling. |
 |[Sequential Recommendations with LLM-SRec.](https://arxiv.org/abs/2502.13909v2) | LLM-SRec enhances recommendation systems by incorporating sequential user behavior into LLMs without the need for fine-tuning, establishing a new benchmark in recommendation accuracy.|
-|[.]() | |
-|[.]() | |
+|[Place Recognition for Mobile Robots.](https://arxiv.org/abs/2502.14195v1) |Text4VPR connects vision and language for mobile robots, allowing them to recognize places using only textual descriptions. |
+|[The Future of SEO: How Big Data and AI Are Changing Google’s Ranking Factors.](https://bigdataanalyticsnews.com/how-big-data-ai-changing-google-ranking-factors/) |AI and big data are revolutionizing SEO by emphasizing quality and relevance rather than traditional methods like keyword stuffing. Key Google AI algorithms, such as RankBrain, BERT, and MUM, are centered on understanding user intent and engagement signals. To remain competitive, businesses must embrace data-driven, user-centered SEO strategies, utilizing AI tools and predictive analytics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
