@@ -45,8 +45,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[LightThinker: Thinking Step-by-Step Compression.](https://arxiv.org/abs/2502.15589) |This work seeks to compress lengthy reasoning traces into more concise and compact representations, saving context space while maintaining effectiveness in guiding the model. |
+|[Uncertainty in Neural Networks.](https://arxiv.org/abs/2502.14698v1) | DeepMind researchers introduce Delta Variances, a set of algorithms aimed at efficiently estimating epistemic uncertainty in large neural networks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
