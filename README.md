@@ -106,8 +106,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[STeCa: Step-level Trajectory Calibration for LLM Agent Learning.](https://arxiv.org/abs/2502.14276v1) | STeCa is an innovative framework created to enhance LLM agents in long-term tasks by automatically detecting and correcting inefficient actions.|
 |[GemmaX2 Translation Model.](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) |Using advanced post-training methods, this 2B model trained on Gemma delivers cutting-edge translation performance across 28 languages. |
 |[Moonlight 16B Muon trained model.](https://github.com/MoonshotAI/Moonlight) |This is the first publicly available large-scale model trained with the Muon optimizer. It was trained on 5.7T tokens and shares a very similar architecture with DeepSeek v3. |
-|[.]() | |
-|[.]() | |
+|[Triton implementation of Naive Sparse Attention.](https://github.com/fla-org/native-sparse-attention) | The DeepSeek NSA paper garnered attention last week for its scalable and efficient long-context attention algorithm. However, it did not include any code. This work offers a Triton replication that can be incorporated into any PyTorch codebase.|
+|[OmniServe.](https://github.com/mit-han-lab/omniserve) |OmniServe provides a comprehensive framework for efficient large-scale LLM deployment, integrating advancements in low-bit quantization and sparse attention to improve both speed and cost-efficiency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
