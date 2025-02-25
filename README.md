@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT reaches 400M weekly active users.](https://www.engadget.com/ai/chatgpt-reaches-400m-weekly-active-users-203635884.html) | ChatGPT has achieved 400 million weekly active users, doubling its user base since August 2024.|
 |[Claude 3.7 Sonnet and Claude Code.](https://www.anthropic.com/news/claude-3-7-sonnet) |Claude 3.7 Sonnet is Anthropic's newest hybrid reasoning model. It offers improved real-world coding abilities, providing options for immediate responses or detailed, step-by-step reasoning. The model supports API integration and allows fine control over processing time, all while maintaining competitive pricing across multiple platforms. |
 |[Meta AI Expands to the Middle East.](https://about.fb.com/news/2025/02/meta-ai-launches-in-the-middle-east-empowering-new-era-of-creativity-and-connection/) |Meta AI is now accessible in Arabic across Facebook, Instagram, WhatsApp, and Messenger in 10 MENA countries. Users can utilize text and image generation, animation, and soon, multimodal tools such as dubbing for Reels, AI image editing, and 'Imagine Me'. |
-|[.]() | |
+|[Apple's $500B US Investment.](https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/) |Apple intends to invest $500 billion in U.S. manufacturing, engineering, and education over the next four years. Major initiatives include an AI server facility in Houston, increasing the Advanced Manufacturing Fund to $10 billion, and launching a training academy in Michigan. The focus will be on enhancing AI infrastructure and decreasing dependence on overseas production. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OmniServe.](https://github.com/mit-han-lab/omniserve) |OmniServe provides a comprehensive framework for efficient large-scale LLM deployment, integrating advancements in low-bit quantization and sparse attention to improve both speed and cost-efficiency. |
 |[Introduction to CUDA Programming for Python Developers.](https://www.pyspur.dev/blog/introduction_cuda_programming) |A great introduction to CUDA programming for those familiar with Python programming. |
 |[Various approaches to parallelizing Muon.](https://main-horse.github.io/posts/parallelizing-muon) |Various novel strategies to parallelize the up-and-coming Muon optimizer. |
-|[.]() | |
+|[Cast4 single image to 3d scene.](https://sites.google.com/view/cast4) |Generating a complete 3D scene from a single RGB image is a complex task. This approach introduces an algorithm that provides reliable estimates for indoor scenes by employing a sophisticated series of estimation and semantic inference techniques. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
