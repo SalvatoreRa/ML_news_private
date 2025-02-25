@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta's DINOv2 for Cancer Research.](https://ai.meta.com/blog/orakl-oncology-dinov2-accelerating-cancer-treatment/) |Orakl Oncology utilizes Meta's DINOv2 model to speed up cancer drug discovery, enhancing efficiency by rapidly assessing organoid images to forecast patient treatment outcomes. | 
 |[DeepSeek to open source parts of online services code.](https://techcrunch.com/2025/02/21/deepseek-to-open-source-parts-of-online-services-code/) |Chinese AI lab DeepSeek plans to open source portions of its online services’ code as part of an “open source week” event next week. DeepSeek will open source five code repositories that have been “documented, deployed and battle-tested in production,” the company said in a post on X on Thursday.|
 |[Microsoft prepares for OpenAI’s GPT-5 model.](https://www.theverge.com/notepad-microsoft-newsletter/616464/microsoft-prepares-for-openais-gpt-5-model) | Microsoft is set to host OpenAI's GPT-4.5 model as soon as next week, with the more substantial GPT-5 release expected by late May. The GPT-5 system will incorporate OpenAI's new o3 reasoning model, aiming to unify AI capabilities. Both releases coincide with major tech events like Microsoft Build and Google I/O, highlighting Microsoft's strategic role in the AI sector.|
-|[.]() | |
+|[ChatGPT reaches 400M weekly active users.](https://www.engadget.com/ai/chatgpt-reaches-400m-weekly-active-users-203635884.html) | ChatGPT has achieved 400 million weekly active users, doubling its user base since August 2024.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Triton implementation of Naive Sparse Attention.](https://github.com/fla-org/native-sparse-attention) | The DeepSeek NSA paper garnered attention last week for its scalable and efficient long-context attention algorithm. However, it did not include any code. This work offers a Triton replication that can be incorporated into any PyTorch codebase.|
 |[OmniServe.](https://github.com/mit-han-lab/omniserve) |OmniServe provides a comprehensive framework for efficient large-scale LLM deployment, integrating advancements in low-bit quantization and sparse attention to improve both speed and cost-efficiency. |
 |[Introduction to CUDA Programming for Python Developers.](https://www.pyspur.dev/blog/introduction_cuda_programming) |A great introduction to CUDA programming for those familiar with Python programming. |
-|[.]() | |
+|[Various approaches to parallelizing Muon.](https://main-horse.github.io/posts/parallelizing-muon) |Various novel strategies to parallelize the up-and-coming Muon optimizer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[US AI Safety Institute Could Face Big Cuts: Implications, Challenges, and Future Prospects.](https://www.hpbl.co.in/market/us-ai-safety-institute-could-face-big-cuts-implications-challenges-and-future-prospects/) |This article examines the potential consequences of funding reductions for the US AI Safety Institute, including effects on national security, AI research, and global competition. |
-|[.]() | |
+|[Google's AI co-scientist is 'test-time scaling' on steroids. What that means for research.](https://www.zdnet.com/article/googles-ai-co-scientist-is-test-time-scaling-on-steroids-what-that-means-for-research/) |An adaptation of the Gemini AI model is the latest use of really intense computing activity at inference time, instead of during training, to improve the so-called reasoning of the AI model. Here's how it works. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
