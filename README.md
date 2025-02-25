@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introduction to CUDA Programming for Python Developers.](https://www.pyspur.dev/blog/introduction_cuda_programming) |A great introduction to CUDA programming for those familiar with Python programming. |
 |[Various approaches to parallelizing Muon.](https://main-horse.github.io/posts/parallelizing-muon) |Various novel strategies to parallelize the up-and-coming Muon optimizer. |
 |[Cast4 single image to 3d scene.](https://sites.google.com/view/cast4) |Generating a complete 3D scene from a single RGB image is a complex task. This approach introduces an algorithm that provides reliable estimates for indoor scenes by employing a sophisticated series of estimation and semantic inference techniques. |
-|[.]() | |
-|[.]() | |
+|[DeepSeek FlashMLA.](https://github.com/deepseek-ai/FlashMLA) |DeepSeek is doing a week of open sourcing some of its internal infrastructure. This great kernel for MLA is the first release. |
+|[Mixture of Block Attention for Long Context LLMs.](https://github.com/MoonshotAI/MoBA) |Moonshot features an impressive algorithm similar to NSA, as it enables more efficient long-context language modeling. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
