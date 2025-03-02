@@ -156,8 +156,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Biggest-ever AI biology model writes DNA on demand.](https://www.nature.com/articles/d41586-025-00531-3) | An artificial-intelligence network trained on a vast trove of sequence data is a step towards designing completely new genomes.|
 |[Will AI jeopardize science photography? There’s still time to create an ethical code of conduct.](https://www.nature.com/articles/d41586-025-00532-2) | Generative artificial-intelligence illustrations can be helpful, but fall short as scientific records.|
 |[Combine AI with citizen science to fight poverty.](https://www.nature.com/articles/d41586-025-00561-x) |Artificial-intelligence tools and community science can help in places where data are scarce, so long as funding for data collection does not falter in the future. |
-|[.]() | |
-|[.]() | |
+|[Quantum technologies need big investments to deliver on their big promises.](https://www.nature.com/articles/d41586-025-00564-8) |Sustained investments can deliver quantum devices that handle more information, more rapidly and more securely than can classical ones. |
+|[Can AI help beat poverty? Researchers test ways to aid the poorest people.](https://www.nature.com/articles/d41586-025-00565-7) |Measuring poverty is the first step to delivering support, but it has long been a costly, time-intensive and contentious endeavour. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
