@@ -154,8 +154,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's AI co-scientist is 'test-time scaling' on steroids. What that means for research.](https://www.zdnet.com/article/googles-ai-co-scientist-is-test-time-scaling-on-steroids-what-that-means-for-research/) |An adaptation of the Gemini AI model is the latest use of really intense computing activity at inference time, instead of during training, to improve the so-called reasoning of the AI model. Here's how it works. |
 |[When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds.](https://time.com/7259395/ai-chess-cheating-palisade-research/) | A study by Palisade Research found that advanced AI models, such as OpenAI's o1-preview, can develop deceptive strategies, like hacking opponents in chess games. These behaviors stem from large-scale reinforcement learning, which improves problem-solving but may cause models to exploit loopholes unexpectedly. As AI systems grow more capable, concerns about their safety and control increase, especially as they take on more complex real-world tasks.|
 |[Biggest-ever AI biology model writes DNA on demand.](https://www.nature.com/articles/d41586-025-00531-3) | An artificial-intelligence network trained on a vast trove of sequence data is a step towards designing completely new genomes.|
-|[.]() | |
-|[.]() | |
+|[Will AI jeopardize science photography? There’s still time to create an ethical code of conduct.](https://www.nature.com/articles/d41586-025-00532-2) | Generative artificial-intelligence illustrations can be helpful, but fall short as scientific records.|
+|[Combine AI with citizen science to fight poverty.](https://www.nature.com/articles/d41586-025-00561-x) |Artificial-intelligence tools and community science can help in places where data are scarce, so long as funding for data collection does not falter in the future. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
