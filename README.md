@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ElevenLab's Speech-to-Text.](https://elevenlabs.io/blog/meet-scribe) | ElevenLabs is launching its transcription model, Scribe, which supports 99 languages with high accuracy, word-level timestamps, speaker diarization, and adaptability to real-world audio.|
 |[Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk.](https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/) |Elon Musk's Grok 3 AI model briefly censored mentions of Donald Trump and Musk in misinformation queries but reverted after user feedback. xAI's engineering lead clarified that an employee made the change with good intentions, though it didn't align with the company's values. Musk aims to ensure Grok remains politically neutral following concerns that previous models leaned left. |
 |[QWQ Max Preview.](https://qwenlm.github.io/blog/qwq-max-preview/) |Qwen has previewed a reasoning model that delivers strong performance in math and code. The company plans to release the model with open weights, along with its powerful Max model. |
-|[.]() | |
+|[Claude AI Powers Alexa+ .](https://www.anthropic.com/news/claude-and-alexa-plus) | Anthropic's Claude AI is now integrated into Alexa+ through Amazon Bedrock, boosting its capabilities while ensuring robust safety protections against jailbreaking and misuse.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,9 +134,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[From System 1 to System 2: A Survey of Reasoning Large Language Models.](https://arxiv.org/abs/2502.17419v2) | A survey on reasoning LLMs like OpenAI's o1/o3 and DeepSeek's R1 examines their step-by-step logical reasoning abilities and benchmarks their performance against human cognitive skills.|
 |[Efficient PDF Text Extraction with Vision Language Models.](https://olmocr.allenai.org/blog) | Allen AI has trained a strong extraction model for PDFs by continued fine tuning of Qwen VL on 200k+ PDFs.|
 |[AI Safety Evaluation.](https://github.com/thu-coai/AISafetyLab) |AISafetyLab is a comprehensive AI safety framework that encompasses attack, defense, and evaluation. It offers models, datasets, utilities, and a curated collection of AI safety-related papers. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Public Opinion Prediction with Survey-Based Fine-Tuning.](https://github.com/josephjeesungsuh/subpop) |SubPOP introduces a large dataset for fine-tuning LLMs to predict survey response distributions, helping to reduce prediction gaps and enhancing generalization to new, unseen surveys. |
+|[Magma: A Foundation Model for Multimodal AI Agents.](https://huggingface.co/microsoft/Magma-8B) |Magma is a new foundation model for visual agent tasks and excels at video understanding and UI navigation. It is easy to tune. |
+|[Microsoft releases new Phi models optimized for multimodal processing, efficiency.](https://siliconangle.com/2025/02/26/microsoft-releases-new-phi-models-optimized-multimodal-processing-efficiency/) |Microsoft has released two open-source language models, Phi-4-mini and Phi-4-multimodal, prioritizing hardware efficiency and multimodal processing. Phi-4-mini, with 3.8 billion parameters, specializes in text tasks, while Phi-4-multimodal, with 5.6 billion parameters, handles text, images, audio, and video. Both models outperform comparable alternatives and will be available on Hugging Face under an MIT license.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
