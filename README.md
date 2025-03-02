@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DualPipe.](https://github.com/deepseek-ai/DualPipe) |Building on their open-source releases, DeepSeek introduces a new parallelism strategy to distribute a model with significant overlap in compute and communication. |
 |[DiffSynth Studio.](https://github.com/modelscope/DiffSynth-Studio) | Modelscope offers a platform and codebase that provides useful abstractions for various types of diffusion models and their associated autoencoders.|
 |[Uncertainty in Chain-of-Thought LLMs.](https://github.com/zbox1005/cot-uq) |CoT-UQ is a response-wise uncertainty quantification framework for large language models that integrates Chain-of-Thought reasoning. |
-|[.]() | |
+|[Avoiding pitfalls of AI for designers: Guiding principles.](https://blog.logrocket.com/ai-product-design-guiding-principles/) | Designing AI products requires a human-centered approach to prevent bias and misinformation. Key challenges include managing user expectations, building trust, ensuring accessibility, and addressing biases. Adopting guiding principles such as transparency, co-creation, and adaptability can improve the ethical and effective design of AI systems.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
