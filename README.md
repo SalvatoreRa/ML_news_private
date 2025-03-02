@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FLORA launches Cursor for Creatives.](https://threadreaderapp.com/thread/1894794612398792974.html) |FLORA is the first AI-powered creative workflow tool built for creative professionals to 10x their creative output. |
 |[Google’s new AI video model Veo 2 will cost 50 cents per second.](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) |According to the company’s pricing page, using Veo 2 will cost 50 cents per second of video, which adds up to $30 per minute or $1,800 per hour.  |
 |[OpenAI announces GPT-4.5, warns it’s not a frontier AI model.](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release) | OpenAI has released GPT-4.5 as a research preview for ChatGPT Pro users. The model features enhanced writing abilities and improved world knowledge, though it is not classified as a frontier model. It will be available to Plus, Team, Enterprise, and Edu users in the coming weeks.|
-|[.]() | |
+|[Meta is reportedly planning a stand-alone AI chatbot app.](https://techcrunch.com/2025/02/27/meta-is-reportedly-planning-a-standalone-ai-chatbot-app/) |Meta reportedly plans to release a stand-alone app for its AI assistant, Meta AI, in a bid to better compete with AI-powered chatbots like OpenAI’s ChatGPT and Google’s Gemini. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
