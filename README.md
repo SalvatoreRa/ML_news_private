@@ -102,9 +102,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI announces GPT-4.5, warns it’s not a frontier AI model.](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release) | OpenAI has released GPT-4.5 as a research preview for ChatGPT Pro users. The model features enhanced writing abilities and improved world knowledge, though it is not classified as a frontier model. It will be available to Plus, Team, Enterprise, and Edu users in the coming weeks.|
 |[Meta is reportedly planning a stand-alone AI chatbot app.](https://techcrunch.com/2025/02/27/meta-is-reportedly-planning-a-standalone-ai-chatbot-app/) |Meta reportedly plans to release a stand-alone app for its AI assistant, Meta AI, in a bid to better compete with AI-powered chatbots like OpenAI’s ChatGPT and Google’s Gemini. |
 |[Aria gen 2.](https://www.meta.com/it-it/blog/project-aria-gen-2-next-generation-egocentric-research-glasses-reality-labs-ai-robotics/) | The next generation mixed reality glasses from Meta have strong vision capabilities and offer uses in robotics and beyond.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anthropic's Claude 3.7 Sonnet hybrid reasoning model is now available in Amazon Bedrock.](https://aws.amazon.com/it/blogs/aws/anthropics-claude-3-7-sonnet-the-first-hybrid-reasoning-model-is-now-available-in-amazon-bedrock/) |Amazon Bedrock now includes Anthropic's Claude 3.7 Sonnet, their first hybrid reasoning model designed for enhanced coding and problem-solving capabilities. |
+|[Elon Musk's AI Company Tried to Recruit an OpenAI Engineer and His Reply Was Brutal.](https://futurism.com/openai-engineer-elon-musk-recruiting-rejection) |OpenAI's Javier Soto rejected a recruitment offer from Elon Musk's xAI, criticizing Musk's rhetoric as harmful to democracy. |
+|[Microsoft scraps some data center leases as Apple, Alibaba double down on AI.](https://siliconangle.com/2025/02/24/microsoft-scraps-data-center-leases-apple-alibaba-double-ai/) | Microsoft has canceled data center leases totaling 200 megawatts, indicating possibly lower-than-expected AI demand, while reaffirming its $80 billion investment in AI infrastructure through 2025.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
