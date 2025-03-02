@@ -96,9 +96,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk.](https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/) |Elon Musk's Grok 3 AI model briefly censored mentions of Donald Trump and Musk in misinformation queries but reverted after user feedback. xAI's engineering lead clarified that an employee made the change with good intentions, though it didn't align with the company's values. Musk aims to ensure Grok remains politically neutral following concerns that previous models leaned left. |
 |[QWQ Max Preview.](https://qwenlm.github.io/blog/qwq-max-preview/) |Qwen has previewed a reasoning model that delivers strong performance in math and code. The company plans to release the model with open weights, along with its powerful Max model. |
 |[Claude AI Powers Alexa+ .](https://www.anthropic.com/news/claude-and-alexa-plus) | Anthropic's Claude AI is now integrated into Alexa+ through Amazon Bedrock, boosting its capabilities while ensuring robust safety protections against jailbreaking and misuse.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Charta Health raises $8.1 million.](https://www.linkedin.com/posts/charta-health_these-engineers-raised-81-million-for-a-activity-7300517850991976448-Y8dc/) |Charta Health secured $8.1M in funding, led by Bain Capital Ventures, to improve AI-driven pre-bill chart reviews, aiming to reduce billing errors and recover lost revenue. |
+|[FLORA launches Cursor for Creatives.](https://threadreaderapp.com/thread/1894794612398792974.html) |FLORA is the first AI-powered creative workflow tool built for creative professionals to 10x their creative output. |
+|[Google’s new AI video model Veo 2 will cost 50 cents per second.](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) |According to the company’s pricing page, using Veo 2 will cost 50 cents per second of video, which adds up to $30 per minute or $1,800 per hour.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
