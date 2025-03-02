@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon's Alexa+.](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence) | Amazon has launched Alexa+, an upgraded version of its voice assistant. Powered by generative AI, Alexa+ is smarter and more conversational.|
 |[ElevenLab's Speech-to-Text.](https://elevenlabs.io/blog/meet-scribe) | ElevenLabs is launching its transcription model, Scribe, which supports 99 languages with high accuracy, word-level timestamps, speaker diarization, and adaptability to real-world audio.|
 |[Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk.](https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/) |Elon Musk's Grok 3 AI model briefly censored mentions of Donald Trump and Musk in misinformation queries but reverted after user feedback. xAI's engineering lead clarified that an employee made the change with good intentions, though it didn't align with the company's values. Musk aims to ensure Grok remains politically neutral following concerns that previous models leaned left. |
-|[.]() | |
+|[QWQ Max Preview.](https://qwenlm.github.io/blog/qwq-max-preview/) |Qwen has previewed a reasoning model that delivers strong performance in math and code. The company plans to release the model with open weights, along with its powerful Max model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ R1-Onevision: An Open-Source Multimodal Large Language Model Capable of Deep Reasoning.](https://github.com/Fancy-MLLM/R1-onevision) | R1-OneVision is a powerful multimodal model designed for complex visual reasoning tasks. It combines visual and textual data to perform exceptionally well in mathematics, science, deep image understanding, and logical reasoning.|
 |[Gaze estimation built on DiNO 2.](https://github.com/fkryan/gazelle) |This code and model suite offers efficient estimations of where people are looking, making it useful for applications in commerce, manufacturing, and security. |
 |[LightningDiT: A Powerful Diffusion Toolkit.](https://github.com/hustvl/LightningDiT) |LightningDiT is an efficient and modular diffusion model toolkit designed for scalable and versatile generative AI applications. |
-|[.]() | |
+|[Minions: the rise of small, on-device LMs.](https://hazyresearch.stanford.edu/blog/2025-02-24-minions) | Hazy Research has discovered that using local models through Ollama, with a long-context cloud model as the orchestrator, can achieve 97% task performance at just 17% of the cost.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
