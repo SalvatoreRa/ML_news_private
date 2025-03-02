@@ -131,6 +131,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gaze estimation built on DiNO 2.](https://github.com/fkryan/gazelle) |This code and model suite offers efficient estimations of where people are looking, making it useful for applications in commerce, manufacturing, and security. |
 |[LightningDiT: A Powerful Diffusion Toolkit.](https://github.com/hustvl/LightningDiT) |LightningDiT is an efficient and modular diffusion model toolkit designed for scalable and versatile generative AI applications. |
 |[Minions: the rise of small, on-device LMs.](https://hazyresearch.stanford.edu/blog/2025-02-24-minions) | Hazy Research has discovered that using local models through Ollama, with a long-context cloud model as the orchestrator, can achieve 97% task performance at just 17% of the cost.|
+|[From System 1 to System 2: A Survey of Reasoning Large Language Models.](https://arxiv.org/abs/2502.17419v2) | A survey on reasoning LLMs like OpenAI's o1/o3 and DeepSeek's R1 examines their step-by-step logical reasoning abilities and benchmarks their performance against human cognitive skills.|
+|[Efficient PDF Text Extraction with Vision Language Models.](https://olmocr.allenai.org/blog) | Allen AI has trained a strong extraction model for PDFs by continued fine tuning of Qwen VL on 200k+ PDFs.|
+|[AI Safety Evaluation.](https://github.com/thu-coai/AISafetyLab) |AISafetyLab is a comprehensive AI safety framework that encompasses attack, defense, and evaluation. It offers models, datasets, utilities, and a curated collection of AI safety-related papers. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
