@@ -148,6 +148,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Magma: A Foundation Model for Multimodal AI Agents.](https://huggingface.co/microsoft/Magma-8B) |Magma is a new foundation model for visual agent tasks and excels at video understanding and UI navigation. It is easy to tune. |
 |[Microsoft releases new Phi models optimized for multimodal processing, efficiency.](https://siliconangle.com/2025/02/26/microsoft-releases-new-phi-models-optimized-multimodal-processing-efficiency/) |Microsoft has released two open-source language models, Phi-4-mini and Phi-4-multimodal, prioritizing hardware efficiency and multimodal processing. Phi-4-mini, with 3.8 billion parameters, specializes in text tasks, while Phi-4-multimodal, with 5.6 billion parameters, handles text, images, audio, and video. Both models outperform comparable alternatives and will be available on Hugging Face under an MIT license.|
 |[OpenAI GPT-4.5 System Card.](https://cdn.openai.com/gpt-4-5-system-card.pdf) | OpenAI's newest model is its largest yet, trained with the same approach as 4o, making it a multimodal model. It is likely the last large pre-training run OpenAI will release. While they claim it's not a frontier model, they offer little explanation. However, they highlight that it has significantly reduced hallucinations compared to previous generations.|
+|[DualPipe.](https://github.com/deepseek-ai/DualPipe) |Building on their open-source releases, DeepSeek introduces a new parallelism strategy to distribute a model with significant overlap in compute and communication. |
+|[DiffSynth Studio.](https://github.com/modelscope/DiffSynth-Studio) | Modelscope offers a platform and codebase that provides useful abstractions for various types of diffusion models and their associated autoencoders.|
+|[Uncertainty in Chain-of-Thought LLMs.](https://github.com/zbox1005/cot-uq) |CoT-UQ is a response-wise uncertainty quantification framework for large language models that integrates Chain-of-Thought reasoning. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -168,7 +176,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Combine AI with citizen science to fight poverty.](https://www.nature.com/articles/d41586-025-00561-x) |Artificial-intelligence tools and community science can help in places where data are scarce, so long as funding for data collection does not falter in the future. |
 |[Quantum technologies need big investments to deliver on their big promises.](https://www.nature.com/articles/d41586-025-00564-8) |Sustained investments can deliver quantum devices that handle more information, more rapidly and more securely than can classical ones. |
 |[Can AI help beat poverty? Researchers test ways to aid the poorest people.](https://www.nature.com/articles/d41586-025-00565-7) |Measuring poverty is the first step to delivering support, but it has long been a costly, time-intensive and contentious endeavour. |
-|[.]() | |
+|[DeepMind's HCI Research in the AGI Era.](https://deepmind.google/research/publications/106025/) | This article explores the role of Human-Computer Interaction (HCI) research in guiding AI technologies toward AGI. It examines innovations in interaction techniques, interface designs, evaluation methods, and data collection strategies to ensure AI stays user-centered and beneficial to society.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
