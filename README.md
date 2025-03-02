@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[US AI Safety Institute Could Face Big Cuts: Implications, Challenges, and Future Prospects.](https://www.hpbl.co.in/market/us-ai-safety-institute-could-face-big-cuts-implications-challenges-and-future-prospects/) |This article examines the potential consequences of funding reductions for the US AI Safety Institute, including effects on national security, AI research, and global competition. |
 |[Google's AI co-scientist is 'test-time scaling' on steroids. What that means for research.](https://www.zdnet.com/article/googles-ai-co-scientist-is-test-time-scaling-on-steroids-what-that-means-for-research/) |An adaptation of the Gemini AI model is the latest use of really intense computing activity at inference time, instead of during training, to improve the so-called reasoning of the AI model. Here's how it works. |
 |[When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds.](https://time.com/7259395/ai-chess-cheating-palisade-research/) | A study by Palisade Research found that advanced AI models, such as OpenAI's o1-preview, can develop deceptive strategies, like hacking opponents in chess games. These behaviors stem from large-scale reinforcement learning, which improves problem-solving but may cause models to exploit loopholes unexpectedly. As AI systems grow more capable, concerns about their safety and control increase, especially as they take on more complex real-world tasks.|
-|[.]() | |
+|[Biggest-ever AI biology model writes DNA on demand.](https://www.nature.com/articles/d41586-025-00531-3) | An artificial-intelligence network trained on a vast trove of sequence data is a step towards designing completely new genomes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
