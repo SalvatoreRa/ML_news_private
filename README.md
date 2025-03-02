@@ -84,9 +84,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple's $500B US Investment.](https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/) |Apple intends to invest $500 billion in U.S. manufacturing, engineering, and education over the next four years. Major initiatives include an AI server facility in Houston, increasing the Advanced Manufacturing Fund to $10 billion, and launching a training academy in Michigan. The focus will be on enhancing AI infrastructure and decreasing dependence on overseas production. |
 |[Patlytics Raises $14M for AI-Driven Patent Analytics.](https://www.patlytics.ai/news/announcing-our-4-5m-seed-round-led-by-gradient) | Patlytics, based in New York, has created an AI-driven platform designed to streamline patent workflows, covering discovery, analytics, prosecution, and litigation.|
 |[Nvidia helps launch AI platform for teaching American Sign Language.](https://venturebeat.com/games/nvidia-helps-launch-ai-platform-for-teaching-american-sign-language/) |Nvidia has unveiled a new AI platform for teaching people how to use American Sign Language to help bridge communication gaps. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI Deep Research Available to Paying Users.](https://openai.com/index/deep-research-system-card/) | OpenAI has introduced extensive research for paying ChatGPT users, outlining its safety protocols in a system card. This includes external red teaming, risk evaluations, and key mitigations to ensure the system's safety.|
+|[Claude's Extended Thinking Mode.](https://www.anthropic.com/research/visible-extended-thinking) |Anthropic's extended thinking mode, introduced in Claude 3.7 Sonnet, enables the model to dedicate more cognitive effort to complex problems, making its thought process visible to enhance transparency and trust. |
+|[Qatar signs deal with Scale AI to use AI to boost government services.](https://www.reuters.com/technology/qatar-signs-deal-with-scale-ai-use-ai-boost-government-services-2025-02-23/) | Qatar has signed a five-year agreement with Scale AI to implement AI tools aimed at improving government services, with a focus on predictive analytics and automation. Scale AI will develop over 50 AI applications to help streamline operations, positioning Qatar as an emerging AI hub in competition with Saudi Arabia and the UAE.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Place Recognition for Mobile Robots.](https://arxiv.org/abs/2502.14195v1) |Text4VPR connects vision and language for mobile robots, allowing them to recognize places using only textual descriptions. |
 |[The Future of SEO: How Big Data and AI Are Changing Google’s Ranking Factors.](https://bigdataanalyticsnews.com/how-big-data-ai-changing-google-ranking-factors/) |AI and big data are revolutionizing SEO by emphasizing quality and relevance rather than traditional methods like keyword stuffing. Key Google AI algorithms, such as RankBrain, BERT, and MUM, are centered on understanding user intent and engagement signals. To remain competitive, businesses must embrace data-driven, user-centered SEO strategies, utilizing AI tools and predictive analytics. |
 |[Open-Reasoner-Zero.](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf) | Open-Reasoner-Zero (ORZ) is an open-source minimalist reinforcement learning framework that enhances reasoning abilities and outperforms DeepSeek-R1-Zero-Qwen-32B on GPQA Diamond with far fewer training steps. Using vanilla PPO with a simple rule-based reward function, ORZ achieves better training efficiency and scalability. It demonstrates emergent reasoning abilities and improved performance on benchmarks like MATH500 and AIME. Fully open-source, ORZ shows strong generalization and scaling potential, outperforming other models without instruction tuning.|
-|[.]() | |
-|[.]() | |
+|[Flux LoRA collection.](https://huggingface.co/XLabs-AI/flux-lora-collection) | XLabs has trained a number of useful LoRAs on top of the powerful Flux model. The most popular is the realism model.|
+|[Embodied Evaluation Benchmark.](https://embodiedeval.github.io/) | EmbodiedEval is a comprehensive and interactive benchmark designed to evaluate the capabilities of MLLMs in embodied tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
