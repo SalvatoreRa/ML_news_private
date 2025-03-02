@@ -177,8 +177,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quantum technologies need big investments to deliver on their big promises.](https://www.nature.com/articles/d41586-025-00564-8) |Sustained investments can deliver quantum devices that handle more information, more rapidly and more securely than can classical ones. |
 |[Can AI help beat poverty? Researchers test ways to aid the poorest people.](https://www.nature.com/articles/d41586-025-00565-7) |Measuring poverty is the first step to delivering support, but it has long been a costly, time-intensive and contentious endeavour. |
 |[DeepMind's HCI Research in the AGI Era.](https://deepmind.google/research/publications/106025/) | This article explores the role of Human-Computer Interaction (HCI) research in guiding AI technologies toward AGI. It examines innovations in interaction techniques, interface designs, evaluation methods, and data collection strategies to ensure AI stays user-centered and beneficial to society.|
-|[.]() | |
-|[.]() | |
+|[It's time to admit the 'AI gadget' era was a flop.](https://www.creativebloq.com/design/product-design/its-time-to-admit-the-ai-gadget-era-was-a-flop) | Humane has shut down, and its AI Pin will be bricked, marking the failure of recent AI gadget ventures. The Rabbit R1 and Humane Pin, once viewed as potential smartphone alternatives, failed to meet expectations. The era of AI gadgets has effectively ended, deemed impractical and unnecessary compared to integrating AI into existing devices.|
+|[There’s Something Very Weird About This $30 Billion AI Startup by a Man Who Said Neural Networks May Already Be Conscious.](https://futurism.com/ilya-sutskever-safe-superintelligence-product) |Ilya Sutskever's new venture, Safe Superintelligence, has raised $1 billion, bringing its valuation to $30 billion, despite lacking a product. The company plans to eventually release a superintelligent AI but remains unclear about its roadmap. This speculative approach has garnered substantial investment, though experts remain skeptical about the imminent arrival of AGI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
