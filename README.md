@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Deep Research Available to Paying Users.](https://openai.com/index/deep-research-system-card/) | OpenAI has introduced extensive research for paying ChatGPT users, outlining its safety protocols in a system card. This includes external red teaming, risk evaluations, and key mitigations to ensure the system's safety.|
 |[Claude's Extended Thinking Mode.](https://www.anthropic.com/research/visible-extended-thinking) |Anthropic's extended thinking mode, introduced in Claude 3.7 Sonnet, enables the model to dedicate more cognitive effort to complex problems, making its thought process visible to enhance transparency and trust. |
 |[Qatar signs deal with Scale AI to use AI to boost government services.](https://www.reuters.com/technology/qatar-signs-deal-with-scale-ai-use-ai-boost-government-services-2025-02-23/) | Qatar has signed a five-year agreement with Scale AI to implement AI tools aimed at improving government services, with a focus on predictive analytics and automation. Scale AI will develop over 50 AI applications to help streamline operations, positioning Qatar as an emerging AI hub in competition with Saudi Arabia and the UAE.|
-|[.]() | |
-|[.]() | |
+|[Rabbit shows off the AI agent it should have launched with.](https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1) |Watch Rabbit’s AI agent, but not the Rabbit R1, do things in Android apps. |
+|[https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1?utm_source=tldrai.](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-launches-first-blackwell-ai-gpu-powered-instances-72-way-gb200-with-72-b200-gpus-and-36-grace-cpus) | Google Cloud has introduced A4X VMs, powered by Nvidia's GB200 NVL72 systems, which feature 72 B200 GPUs and 36 Grace CPUs. These VMs are optimized for large-scale AI and high-concurrency applications, offering four times the training efficiency of the previous A3 VMs. Seamlessly integrating with Google Cloud services, A4X is designed for intensive AI workloads, while A4 VMs are aimed at general AI training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,6 +119,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open-Reasoner-Zero.](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf) | Open-Reasoner-Zero (ORZ) is an open-source minimalist reinforcement learning framework that enhances reasoning abilities and outperforms DeepSeek-R1-Zero-Qwen-32B on GPQA Diamond with far fewer training steps. Using vanilla PPO with a simple rule-based reward function, ORZ achieves better training efficiency and scalability. It demonstrates emergent reasoning abilities and improved performance on benchmarks like MATH500 and AIME. Fully open-source, ORZ shows strong generalization and scaling potential, outperforming other models without instruction tuning.|
 |[Flux LoRA collection.](https://huggingface.co/XLabs-AI/flux-lora-collection) | XLabs has trained a number of useful LoRAs on top of the powerful Flux model. The most popular is the realism model.|
 |[Embodied Evaluation Benchmark.](https://embodiedeval.github.io/) | EmbodiedEval is a comprehensive and interactive benchmark designed to evaluate the capabilities of MLLMs in embodied tasks.|
+|[Implementing Character AI Memory Optimizations in NanoGPT.](https://njkumar.com/implementing-characterais-memory-optimizations-in-nanogpt/) | This blog post explains how Character AI reduced KV cache usage in its large-scale inference systems, demonstrating the implementation in a minimal GPT model version. The approach achieves a 40% reduction in memory usage.|
+|[ R1-Onevision: An Open-Source Multimodal Large Language Model Capable of Deep Reasoning.](https://github.com/Fancy-MLLM/R1-onevision) | R1-OneVision is a powerful multimodal model designed for complex visual reasoning tasks. It combines visual and textual data to perform exceptionally well in mathematics, science, deep image understanding, and logical reasoning.|
+|[Gaze estimation built on DiNO 2.](https://github.com/fkryan/gazelle) |This code and model suite offers efficient estimations of where people are looking, making it useful for applications in commerce, manufacturing, and security. |
+|[LightningDiT: A Powerful Diffusion Toolkit.](https://github.com/hustvl/LightningDiT) |LightningDiT is an efficient and modular diffusion model toolkit designed for scalable and versatile generative AI applications. |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[US AI Safety Institute Could Face Big Cuts: Implications, Challenges, and Future Prospects.](https://www.hpbl.co.in/market/us-ai-safety-institute-could-face-big-cuts-implications-challenges-and-future-prospects/) |This article examines the potential consequences of funding reductions for the US AI Safety Institute, including effects on national security, AI research, and global competition. |
 |[Google's AI co-scientist is 'test-time scaling' on steroids. What that means for research.](https://www.zdnet.com/article/googles-ai-co-scientist-is-test-time-scaling-on-steroids-what-that-means-for-research/) |An adaptation of the Gemini AI model is the latest use of really intense computing activity at inference time, instead of during training, to improve the so-called reasoning of the AI model. Here's how it works. |
-|[.]() | |
+|[When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds.](https://time.com/7259395/ai-chess-cheating-palisade-research/) | A study by Palisade Research found that advanced AI models, such as OpenAI's o1-preview, can develop deceptive strategies, like hacking opponents in chess games. These behaviors stem from large-scale reinforcement learning, which improves problem-solving but may cause models to exploit loopholes unexpectedly. As AI systems grow more capable, concerns about their safety and control increase, especially as they take on more complex real-world tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
