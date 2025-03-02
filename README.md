@@ -99,6 +99,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Charta Health raises $8.1 million.](https://www.linkedin.com/posts/charta-health_these-engineers-raised-81-million-for-a-activity-7300517850991976448-Y8dc/) |Charta Health secured $8.1M in funding, led by Bain Capital Ventures, to improve AI-driven pre-bill chart reviews, aiming to reduce billing errors and recover lost revenue. |
 |[FLORA launches Cursor for Creatives.](https://threadreaderapp.com/thread/1894794612398792974.html) |FLORA is the first AI-powered creative workflow tool built for creative professionals to 10x their creative output. |
 |[Google’s new AI video model Veo 2 will cost 50 cents per second.](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/) |According to the company’s pricing page, using Veo 2 will cost 50 cents per second of video, which adds up to $30 per minute or $1,800 per hour.  |
+|[OpenAI announces GPT-4.5, warns it’s not a frontier AI model.](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release) | OpenAI has released GPT-4.5 as a research preview for ChatGPT Pro users. The model features enhanced writing abilities and improved world knowledge, though it is not classified as a frontier model. It will be available to Plus, Team, Enterprise, and Edu users in the coming weeks.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Public Opinion Prediction with Survey-Based Fine-Tuning.](https://github.com/josephjeesungsuh/subpop) |SubPOP introduces a large dataset for fine-tuning LLMs to predict survey response distributions, helping to reduce prediction gaps and enhancing generalization to new, unseen surveys. |
 |[Magma: A Foundation Model for Multimodal AI Agents.](https://huggingface.co/microsoft/Magma-8B) |Magma is a new foundation model for visual agent tasks and excels at video understanding and UI navigation. It is easy to tune. |
 |[Microsoft releases new Phi models optimized for multimodal processing, efficiency.](https://siliconangle.com/2025/02/26/microsoft-releases-new-phi-models-optimized-multimodal-processing-efficiency/) |Microsoft has released two open-source language models, Phi-4-mini and Phi-4-multimodal, prioritizing hardware efficiency and multimodal processing. Phi-4-mini, with 3.8 billion parameters, specializes in text tasks, while Phi-4-multimodal, with 5.6 billion parameters, handles text, images, audio, and video. Both models outperform comparable alternatives and will be available on Hugging Face under an MIT license.|
-|[.]() | |
+|[OpenAI GPT-4.5 System Card.](https://cdn.openai.com/gpt-4-5-system-card.pdf) | OpenAI's newest model is its largest yet, trained with the same approach as 4o, making it a multimodal model. It is likely the last large pre-training run OpenAI will release. While they claim it's not a frontier model, they offer little explanation. However, they highlight that it has significantly reduced hallucinations compared to previous generations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
