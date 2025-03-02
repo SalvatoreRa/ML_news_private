@@ -89,6 +89,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qatar signs deal with Scale AI to use AI to boost government services.](https://www.reuters.com/technology/qatar-signs-deal-with-scale-ai-use-ai-boost-government-services-2025-02-23/) | Qatar has signed a five-year agreement with Scale AI to implement AI tools aimed at improving government services, with a focus on predictive analytics and automation. Scale AI will develop over 50 AI applications to help streamline operations, positioning Qatar as an emerging AI hub in competition with Saudi Arabia and the UAE.|
 |[Rabbit shows off the AI agent it should have launched with.](https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1) |Watch Rabbit’s AI agent, but not the Rabbit R1, do things in Android apps. |
 |[https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1?utm_source=tldrai.](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-cloud-launches-first-blackwell-ai-gpu-powered-instances-72-way-gb200-with-72-b200-gpus-and-36-grace-cpus) | Google Cloud has introduced A4X VMs, powered by Nvidia's GB200 NVL72 systems, which feature 72 B200 GPUs and 36 Grace CPUs. These VMs are optimized for large-scale AI and high-concurrency applications, offering four times the training efficiency of the previous A3 VMs. Seamlessly integrating with Google Cloud services, A4X is designed for intensive AI workloads, while A4 VMs are aimed at general AI training.|
+|[Scientists took years to solve a problem that AI cracked in two days.](https://macaonews.org/news/around-the-world/ai-superbugs-research-gemini-google-imperial-college/) | Google's AI co-scientist system replicated ten years of antibiotic-resistant superbug research in just two days, generating additional plausible hypotheses.|
+|[Don’t gift our work to AI billionaires: Mark Haddon, Michael Rosen and other creatives urge government.](https://www.theguardian.com/technology/2025/feb/23/dont-gift-our-work-to-ai-billionaires-mark-haddon-michal-rosen-and-other-creatives-urge-government?utm_source=tldrai) | More than 2,000 cultural figures challenge Whitehall’s eagerness ‘to ­wrap our lives’ work in attractive paper for automated competitors’|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
