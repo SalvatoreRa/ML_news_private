@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek releases revenue information.](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md) | At the conclusion of its open source week, DeepSeek shared its inference and revenue figures. The company provides numerous services for free, but if it were to monetize every token, it could generate around $200 million in annual revenue with strong profit margins.|
 |[Inception emerges from stealth with a new type of AI model.](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) | Inception, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on “diffusion” technology. Inception calls it a diffusion-based large language model, or a “DLM” for short.|
 |[Anthropic used Pokémon to benchmark its newest AI model.](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/) |In a blog post published Monday, Anthropic said that it tested its latest model, Claude 3.7 Sonnet, on the Game Boy classic Pokémon Red. The company equipped the model with basic memory, screen pixel input, and function calls to press buttons and navigate around the screen, allowing it to play Pokémon continuously. |
-|[.]() | |
+|[Warp launches AI-first terminal app for Windows.](https://www.warp.dev/blog/launching-warp-on-windows) |Warp, backed by Sam Altman, is reinventing the command-line terminal, which has remained largely unchanged for almost 40 years. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,8 +136,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enhanced Multimodal Correspondence.](https://arxiv.org/abs/2502.19962v1) |ReCon presents a dual-alignment learning framework designed to enhance the accuracy of multimodal correspondence by ensuring consistency in both cross-modal and intra-modal relationships. |
 |[Model Pre-Training on Limited Resources.](https://github.com/apoorvkh/academic-pretraining) | This study, through benchmarking on various academic GPUs, shows that models such as Pythia-1B can be pre-trained in significantly fewer GPU-days compared to traditional methods.|
 |[VoiceRestore: Flow-Matching Transformers for Speech Recording Quality Restoration.](https://github.com/skirdey/voicerestore) | VoiceRestore is an advanced tool for restoring and enhancing speech recordings using deep learning aimed at improving clarity and removing noise.|
-|[.]() | |
-|[.]() | |
+|[uv and Ray in clusters.](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters) | Ray now offers native support for automatic dependency installation using the Python package management tool, uv.|
+|[Prime Intellect raises $15m.](https://www.primeintellect.ai/blog/fundraise) |Prime Intellect, a distributed computing firm, has secured more funding to advance its distributed training approach. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
