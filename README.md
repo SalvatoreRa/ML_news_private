@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Prioritise artists over tech in AI copyright debate, MPs say.](https://www.theguardian.com/technology/2025/feb/26/prioritise-artists-over-tech-ai-copyright-debate-mps-say) |Cross-party committees urge ministers to drop plans to force creators to opt out of works being used to train AI |
 |[UK universities warned to ‘stress-test’ assessments as 92% of students use AI.](https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai) |Survey of 1,000 students shows ‘explosive increase’ in use of generative AI in particular over past 12 months |
 |[What Makes a Good Diffusion Planner for Decision Making?](https://github.com/Josh00-Lu/DiffusionVeteran) | A large-scale empirical study of diffusion planning in offline reinforcement learning.|
-|[.]() | |
+|[NotaGen sheet music generation.](https://electricalexis.github.io/notagen-demo/) |By training an auto-regressive model to create sheet music, this team has developed an innovative text-to-music system that is frequently favored by human evaluators. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic Partners with U.S. National Labs.](https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam) | Anthropic has participated in the U.S. Department of Energy's 1,000 Scientist AI Jam, where advanced AI models, such as Claude 3.7 Sonnet, will be evaluated on scientific and national security issues.|
 |[DeepSeek releases revenue information.](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md) | At the conclusion of its open source week, DeepSeek shared its inference and revenue figures. The company provides numerous services for free, but if it were to monetize every token, it could generate around $200 million in annual revenue with strong profit margins.|
 |[Inception emerges from stealth with a new type of AI model.](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) | Inception, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on “diffusion” technology. Inception calls it a diffusion-based large language model, or a “DLM” for short.|
-|[.]() | |
+|[Anthropic used Pokémon to benchmark its newest AI model.](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/) |In a blog post published Monday, Anthropic said that it tested its latest model, Claude 3.7 Sonnet, on the Game Boy classic Pokémon Red. The company equipped the model with basic memory, screen pixel input, and function calls to press buttons and navigate around the screen, allowing it to play Pokémon continuously. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
