@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[UK unions call for action to protect creative industry workers as AI develops.](https://www.theguardian.com/technology/2025/mar/03/uk-unions-creative-industry-workers-artificial-intelligence-ai-copyright) |TUC says proposals on copyright and AI framework must go further to stop exploitation by ‘rapacious tech bosses’ |
-|[.]() | | 
+|[Read the signs of Trump’s federal firings: AI is coming for private sector jobs too.](https://www.theguardian.com/business/2025/mar/02/ai-layoffs-trump-irs) |Dismissing 6,700 IRS workers during tax season is a recipe for chaos but AI’s disruption will be much more widespread | 
 |[.]() | |
 |[.]() | |
 |[.]() | |
