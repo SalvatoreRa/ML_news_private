@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[UK unions call for action to protect creative industry workers as AI develops.](https://www.theguardian.com/technology/2025/mar/03/uk-unions-creative-industry-workers-artificial-intelligence-ai-copyright) |TUC says proposals on copyright and AI framework must go further to stop exploitation by ‘rapacious tech bosses’ |
 |[.]() | | 
 |[.]() | |
 |[.]() | |
@@ -168,7 +168,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[If the best defence against AI is more AI, this could be tech’s Oppenheimer moment.](https://www.theguardian.com/technology/2025/mar/02/ai-oppenheimer-moment-karp-zapiska-technological-republic) | An unsettling new book advocates a closer relationship between Silicon Valley and the US government to harness artificial intelligence in the name of national security|
 |[.]() | |
 |[.]() | |
 |[.]() | |
