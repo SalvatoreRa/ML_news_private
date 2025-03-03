@@ -169,7 +169,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[If the best defence against AI is more AI, this could be tech’s Oppenheimer moment.](https://www.theguardian.com/technology/2025/mar/02/ai-oppenheimer-moment-karp-zapiska-technological-republic) | An unsettling new book advocates a closer relationship between Silicon Valley and the US government to harness artificial intelligence in the name of national security|
-|[.]() | |
+|[Perplexity wants to reinvent the web browser with AI—but there’s fierce competition.](https://arstechnica.com/ai/2025/02/perplexitys-comet-aims-to-reinvent-the-web-browser-with-ai-but-its-not-saying-how/) | Perplexity has unveiled its new browser, Comet, which looks to rival Google Chrome. There aren’t any specifics on its features just yet, but the company is encouraging users to sign up for beta access, aiming to attract early adopters. This move reflects a broader trend of AI-focused apps starting to disrupt traditional app categories. Should be interesting to see how this shapes up!|
 |[.]() | |
 |[.]() | |
 |[.]() | |
