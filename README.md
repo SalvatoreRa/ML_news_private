@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI launches Sora video generation tool in UK amid copyright row.](https://www.theguardian.com/technology/2025/feb/28/openai-sora-video-generation-uk-amid-copyright-row) |‘Sora would not exist without its training data,’ said peer Beeban Kidron, citing ‘another level of urgency’ to debate |
 |[Prioritise artists over tech in AI copyright debate, MPs say.](https://www.theguardian.com/technology/2025/feb/26/prioritise-artists-over-tech-ai-copyright-debate-mps-say) |Cross-party committees urge ministers to drop plans to force creators to opt out of works being used to train AI |
 |[UK universities warned to ‘stress-test’ assessments as 92% of students use AI.](https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai) |Survey of 1,000 students shows ‘explosive increase’ in use of generative AI in particular over past 12 months |
-|[.]() | |
+|[What Makes a Good Diffusion Planner for Decision Making?](https://github.com/Josh00-Lu/DiffusionVeteran) | A large-scale empirical study of diffusion planning in offline reinforcement learning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,8 +134,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Robust RLHF with Preference as Reward.](https://arxiv.org/abs/2502.18770v2) | A structured investigation into reward shaping in RLHF resulted in Preference As Reward (PAR), a technique that leverages latent preferences to improve alignment, boost data efficiency, and reduce reward hacking, surpassing current methods across several benchmarks.|
 |[HVI Color Space.](https://arxiv.org/abs/2502.20272v1) | The introduction of a new color space, Horizontal/Vertical-Intensity (HVI), together with the CIDNet model, greatly minimizes color artifacts and enhances image quality in low-light conditions.|
 |[Enhanced Multimodal Correspondence.](https://arxiv.org/abs/2502.19962v1) |ReCon presents a dual-alignment learning framework designed to enhance the accuracy of multimodal correspondence by ensuring consistency in both cross-modal and intra-modal relationships. |
-|[.]() | |
-|[.]() | |
+|[Model Pre-Training on Limited Resources.](https://github.com/apoorvkh/academic-pretraining) | This study, through benchmarking on various academic GPUs, shows that models such as Pythia-1B can be pre-trained in significantly fewer GPU-days compared to traditional methods.|
+|[VoiceRestore: Flow-Matching Transformers for Speech Recording Quality Restoration.](https://github.com/skirdey/voicerestore) | VoiceRestore is an advanced tool for restoring and enhancing speech recordings using deep learning aimed at improving clarity and removing noise.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
