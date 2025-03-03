@@ -132,8 +132,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Systematic Survey of Automatic Prompt Optimization Techniques.](https://arxiv.org/abs/2502.16923) |This paper provides an in-depth review of Automatic Prompt Optimization (APO), outlining its definition, introducing a unified five-part framework, classifying current approaches, and examining advancements and challenges in automating prompt engineering for LLMs. |
 |[Protein Large Language Models: A Comprehensive Survey.](https://arxiv.org/abs/2502.17504) | A comprehensive overview of Protein LLMs, including architectures, training datasets, evaluation metrics, and applications.|
 |[Robust RLHF with Preference as Reward.](https://arxiv.org/abs/2502.18770v2) | A structured investigation into reward shaping in RLHF resulted in Preference As Reward (PAR), a technique that leverages latent preferences to improve alignment, boost data efficiency, and reduce reward hacking, surpassing current methods across several benchmarks.|
-|[.]() | |
-|[.]() | |
+|[HVI Color Space.](https://arxiv.org/abs/2502.20272v1) | The introduction of a new color space, Horizontal/Vertical-Intensity (HVI), together with the CIDNet model, greatly minimizes color artifacts and enhances image quality in low-light conditions.|
+|[Enhanced Multimodal Correspondence.](https://arxiv.org/abs/2502.19962v1) |ReCon presents a dual-alignment learning framework designed to enhance the accuracy of multimodal correspondence by ensuring consistency in both cross-modal and intra-modal relationships. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
