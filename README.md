@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK unions call for action to protect creative industry workers as AI develops.](https://www.theguardian.com/technology/2025/mar/03/uk-unions-creative-industry-workers-artificial-intelligence-ai-copyright) |TUC says proposals on copyright and AI framework must go further to stop exploitation by ‘rapacious tech bosses’ |
 |[Read the signs of Trump’s federal firings: AI is coming for private sector jobs too.](https://www.theguardian.com/business/2025/mar/02/ai-layoffs-trump-irs) |Dismissing 6,700 IRS workers during tax season is a recipe for chaos but AI’s disruption will be much more widespread | 
 |[‘I want him to be prepared’: why parents are teaching their gen Alpha kids to use AI.](https://www.theguardian.com/technology/2025/mar/01/parents-children-artificial-intelligence) | As AI grows increasingly prevalent, some are showing their children tools from ChatGPT to Dall-E to learn and bond|
-|[.]() | |
-|[.]() | |
+|[Anthropic Partners with U.S. National Labs.](https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam) | Anthropic has participated in the U.S. Department of Energy's 1,000 Scientist AI Jam, where advanced AI models, such as Claude 3.7 Sonnet, will be evaluated on scientific and national security issues.|
+|[DeepSeek releases revenue information.](https://github.com/deepseek-ai/open-infra-index/blob/main/202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md) | At the conclusion of its open source week, DeepSeek shared its inference and revenue figures. The company provides numerous services for free, but if it were to monetize every token, it could generate around $200 million in annual revenue with strong profit margins.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
