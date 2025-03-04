@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The LA Times published an op-ed warning of AI’s dangers. It also published its AI tool’s reply.](https://www.theguardian.com/us-news/2025/mar/03/la-times-op-ed-ai-generated-message) | ‘Insight’ labeled the argument ‘center-left’ and created a reply insisting AI will make storytelling more democratic|
 |[Anthropic raises Series E at $61.5B post-money valuation.](https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation) | Anthropic secured $3.5 billion in funding at a $61.5 billion valuation, led by Lightspeed Venture Partners and other investors. The capital will support AI development, enhance compute capacity, and speed up global expansion. Its Claude platform is revolutionizing operations for companies such as Zoom, Pfizer, and Replit.|
 |[T-Mobile’s parent company is making an ‘AI Phone’ with Perplexity Assistant.](https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025) |﻿The Magenta AI push will also offer Perplexity and other AI apps for existing smartphones on T-Mobile. |
-|[.]() | |
+|[On-Device Generative Audio with Stability AI & Arm.](https://stability.ai/news/stability-ai-and-arm-bring-on-device-generative-audio-to-smartphones) |Stability AI and Arm have introduced real-time generative audio for smartphones through Stable Audio Open and Arm KleidiAI libraries, achieving a 30x increase in audio generation speed on mobile devices. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
