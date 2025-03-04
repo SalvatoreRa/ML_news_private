@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic used Pokémon to benchmark its newest AI model.](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/) |In a blog post published Monday, Anthropic said that it tested its latest model, Claude 3.7 Sonnet, on the Game Boy classic Pokémon Red. The company equipped the model with basic memory, screen pixel input, and function calls to press buttons and navigate around the screen, allowing it to play Pokémon continuously. |
 |[Warp launches AI-first terminal app for Windows.](https://www.warp.dev/blog/launching-warp-on-windows) |Warp, backed by Sam Altman, is reinventing the command-line terminal, which has remained largely unchanged for almost 40 years. |
 |[The LA Times published an op-ed warning of AI’s dangers. It also published its AI tool’s reply.](https://www.theguardian.com/us-news/2025/mar/03/la-times-op-ed-ai-generated-message) | ‘Insight’ labeled the argument ‘center-left’ and created a reply insisting AI will make storytelling more democratic|
-|[.]() | |
-|[.]() | |
+|[Anthropic raises Series E at $61.5B post-money valuation.](https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation) | Anthropic secured $3.5 billion in funding at a $61.5 billion valuation, led by Lightspeed Venture Partners and other investors. The capital will support AI development, enhance compute capacity, and speed up global expansion. Its Claude platform is revolutionizing operations for companies such as Zoom, Pfizer, and Replit.|
+|[T-Mobile’s parent company is making an ‘AI Phone’ with Perplexity Assistant.](https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025) |﻿The Magenta AI push will also offer Perplexity and other AI apps for existing smartphones on T-Mobile. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
