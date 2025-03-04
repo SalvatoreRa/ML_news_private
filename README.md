@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LightningDiT.](https://github.com/hustvl/LightningDiT) | LightningDiT aligns latent spaces with vision models to address challenges in diffusion models. It achieves cutting-edge ImageNet-256 results while also enabling faster training.|
 |[Llama Stack: from Zero to Hero.](https://github.com/meta-llama/llama-stack/tree/main/docs/zero_to_hero_guide) |Llama Stack defines and standardizes the essential building blocks required to bring generative AI applications to market. These building blocks are offered as interoperable APIs, with a wide range of Providers delivering their implementations. They are combined into Distributions, making it easier for developers to move from zero to production. |
 |[Google AI Recap in February.](https://blog.google/technology/ai/google-ai-updates-february-2025/) | Here’s a summary of some of Google’s major AI updates from February, including the public launch of Gemini 2.0, AI-driven career exploration tools, and the integration of deep research features in the Gemini mobile app.|
-|[.]() | |
+|[Workers' experience with AI chatbots in their jobs.](https://www.pewresearch.org/social-trends/2025/02/25/workers-experience-with-ai-chatbots-in-their-jobs/) |Most workers seldom use AI chatbots in the workplace, with usage mainly concentrated among younger, more educated employees who primarily use them for research and content editing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
