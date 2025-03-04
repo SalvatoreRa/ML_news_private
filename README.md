@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK universities warned to ‘stress-test’ assessments as 92% of students use AI.](https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai) |Survey of 1,000 students shows ‘explosive increase’ in use of generative AI in particular over past 12 months |
 |[What Makes a Good Diffusion Planner for Decision Making?](https://github.com/Josh00-Lu/DiffusionVeteran) | A large-scale empirical study of diffusion planning in offline reinforcement learning.|
 |[NotaGen sheet music generation.](https://electricalexis.github.io/notagen-demo/) |By training an auto-regressive model to create sheet music, this team has developed an innovative text-to-music system that is frequently favored by human evaluators. |
-|[.]() | |
+|[How far can we go with ImageNet for Text-to-Image generation?](https://arxiv.org/abs/2502.21318) | Most text-to-image models rely on large amounts of custom-collected data scraped from the web. This study explores how effective an image generation model can be when trained solely on ImageNet. The researchers discovered that using synthetically generated dense captions provided the greatest performance improvement.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VoiceRestore: Flow-Matching Transformers for Speech Recording Quality Restoration.](https://github.com/skirdey/voicerestore) | VoiceRestore is an advanced tool for restoring and enhancing speech recordings using deep learning aimed at improving clarity and removing noise.|
 |[uv and Ray in clusters.](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters) | Ray now offers native support for automatic dependency installation using the Python package management tool, uv.|
 |[Prime Intellect raises $15m.](https://www.primeintellect.ai/blog/fundraise) |Prime Intellect, a distributed computing firm, has secured more funding to advance its distributed training approach. |
-|[.]() | |
+|[UniTok: A Unified Tokenizer for Visual Generation and Understanding.](https://arxiv.org/abs/2502.20321) | This paper tackles the representational gap between visual generation and understanding by presenting UniTok, a discrete visual tokenizer that encodes both detailed generation information and semantic content for understanding, overcoming capacity limitations of discrete tokens. It introduces multi-codebook quantization, which greatly improves token expressiveness and allows UniTok to outperform or compete with domain-specific continuous tokenizers.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
