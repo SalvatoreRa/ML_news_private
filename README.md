@@ -140,8 +140,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Prime Intellect raises $15m.](https://www.primeintellect.ai/blog/fundraise) |Prime Intellect, a distributed computing firm, has secured more funding to advance its distributed training approach. |
 |[UniTok: A Unified Tokenizer for Visual Generation and Understanding.](https://arxiv.org/abs/2502.20321) | This paper tackles the representational gap between visual generation and understanding by presenting UniTok, a discrete visual tokenizer that encodes both detailed generation information and semantic content for understanding, overcoming capacity limitations of discrete tokens. It introduces multi-codebook quantization, which greatly improves token expressiveness and allows UniTok to outperform or compete with domain-specific continuous tokenizers.|
 |[Dynamic Sparse Attention for LLMs.](https://arxiv.org/abs/2502.20766) |FlexPrefill adaptively modifies sparse attention patterns and computational resources for more efficient LLM inference. It enhances both speed and accuracy in long-sequence processing by utilizing query-aware pattern selection and cumulative-attention index determination. |
-|[.]() | |
-|[.]() | |
+|[LightningDiT.](https://github.com/hustvl/LightningDiT) | LightningDiT aligns latent spaces with vision models to address challenges in diffusion models. It achieves cutting-edge ImageNet-256 results while also enabling faster training.|
+|[Llama Stack: from Zero to Hero.](https://github.com/meta-llama/llama-stack/tree/main/docs/zero_to_hero_guide) |Llama Stack defines and standardizes the essential building blocks required to bring generative AI applications to market. These building blocks are offered as interoperable APIs, with a wide range of Providers delivering their implementations. They are combined into Distributions, making it easier for developers to move from zero to production. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
