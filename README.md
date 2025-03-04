@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inception emerges from stealth with a new type of AI model.](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/) | Inception, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on “diffusion” technology. Inception calls it a diffusion-based large language model, or a “DLM” for short.|
 |[Anthropic used Pokémon to benchmark its newest AI model.](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/) |In a blog post published Monday, Anthropic said that it tested its latest model, Claude 3.7 Sonnet, on the Game Boy classic Pokémon Red. The company equipped the model with basic memory, screen pixel input, and function calls to press buttons and navigate around the screen, allowing it to play Pokémon continuously. |
 |[Warp launches AI-first terminal app for Windows.](https://www.warp.dev/blog/launching-warp-on-windows) |Warp, backed by Sam Altman, is reinventing the command-line terminal, which has remained largely unchanged for almost 40 years. |
-|[.]() | |
+|[The LA Times published an op-ed warning of AI’s dangers. It also published its AI tool’s reply.](https://www.theguardian.com/us-news/2025/mar/03/la-times-op-ed-ai-generated-message) | ‘Insight’ labeled the argument ‘center-left’ and created a reply insisting AI will make storytelling more democratic|
 |[.]() | |
 |[.]() | |
 |[.]() | |
