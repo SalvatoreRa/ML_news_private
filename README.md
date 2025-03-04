@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What Makes a Good Diffusion Planner for Decision Making?](https://github.com/Josh00-Lu/DiffusionVeteran) | A large-scale empirical study of diffusion planning in offline reinforcement learning.|
 |[NotaGen sheet music generation.](https://electricalexis.github.io/notagen-demo/) |By training an auto-regressive model to create sheet music, this team has developed an innovative text-to-music system that is frequently favored by human evaluators. |
 |[How far can we go with ImageNet for Text-to-Image generation?](https://arxiv.org/abs/2502.21318) | Most text-to-image models rely on large amounts of custom-collected data scraped from the web. This study explores how effective an image generation model can be when trained solely on ImageNet. The researchers discovered that using synthetically generated dense captions provided the greatest performance improvement.|
-|[.]() | |
+|[Self-rewarding Correction for Mathematical Reasoning.](https://github.com/RLHFlow/Self-rewarding-reasoning-LLM) |This paper explores self-rewarding reasoning in LLMs, allowing models to autonomously generate reasoning steps, evaluate their accuracy, and iteratively improve their outputs without external feedback. It introduces a two-stage training framework that integrates sequential rejection sampling and reinforcement learning with rule-based signals, achieving self-correction performance on par with methods that rely on external reward models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[uv and Ray in clusters.](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters) | Ray now offers native support for automatic dependency installation using the Python package management tool, uv.|
 |[Prime Intellect raises $15m.](https://www.primeintellect.ai/blog/fundraise) |Prime Intellect, a distributed computing firm, has secured more funding to advance its distributed training approach. |
 |[UniTok: A Unified Tokenizer for Visual Generation and Understanding.](https://arxiv.org/abs/2502.20321) | This paper tackles the representational gap between visual generation and understanding by presenting UniTok, a discrete visual tokenizer that encodes both detailed generation information and semantic content for understanding, overcoming capacity limitations of discrete tokens. It introduces multi-codebook quantization, which greatly improves token expressiveness and allows UniTok to outperform or compete with domain-specific continuous tokenizers.|
-|[.]() | |
+|[Dynamic Sparse Attention for LLMs.](https://arxiv.org/abs/2502.20766) |FlexPrefill adaptively modifies sparse attention patterns and computational resources for more efficient LLM inference. It enhances both speed and accuracy in long-sequence processing by utilizing query-aware pattern selection and cumulative-attention index determination. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
