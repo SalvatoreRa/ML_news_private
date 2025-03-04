@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic raises Series E at $61.5B post-money valuation.](https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation) | Anthropic secured $3.5 billion in funding at a $61.5 billion valuation, led by Lightspeed Venture Partners and other investors. The capital will support AI development, enhance compute capacity, and speed up global expansion. Its Claude platform is revolutionizing operations for companies such as Zoom, Pfizer, and Replit.|
 |[T-Mobile’s parent company is making an ‘AI Phone’ with Perplexity Assistant.](https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025) |﻿The Magenta AI push will also offer Perplexity and other AI apps for existing smartphones on T-Mobile. |
 |[On-Device Generative Audio with Stability AI & Arm.](https://stability.ai/news/stability-ai-and-arm-bring-on-device-generative-audio-to-smartphones) |Stability AI and Arm have introduced real-time generative audio for smartphones through Stable Audio Open and Arm KleidiAI libraries, achieving a 30x increase in audio generation speed on mobile devices. |
-|[.]() | |
+|[AI to diagnose invisible brain abnormalities in children with epilepsy.](https://www.eurekalert.org/news-releases/1074402) |MELD Graph, an AI tool created by researchers at King's College London and UCL, identifies 64% of epilepsy-related brain abnormalities that are commonly overlooked by radiologists. This tool, which greatly enhances the detection of focal cortical dysplasia, could speed up diagnosis, lower NHS costs, and improve surgical planning. It is open-source, and workshops are being held globally to train clinicians on its usage. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,7 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Dynamic Sparse Attention for LLMs.](https://arxiv.org/abs/2502.20766) |FlexPrefill adaptively modifies sparse attention patterns and computational resources for more efficient LLM inference. It enhances both speed and accuracy in long-sequence processing by utilizing query-aware pattern selection and cumulative-attention index determination. |
 |[LightningDiT.](https://github.com/hustvl/LightningDiT) | LightningDiT aligns latent spaces with vision models to address challenges in diffusion models. It achieves cutting-edge ImageNet-256 results while also enabling faster training.|
 |[Llama Stack: from Zero to Hero.](https://github.com/meta-llama/llama-stack/tree/main/docs/zero_to_hero_guide) |Llama Stack defines and standardizes the essential building blocks required to bring generative AI applications to market. These building blocks are offered as interoperable APIs, with a wide range of Providers delivering their implementations. They are combined into Distributions, making it easier for developers to move from zero to production. |
-|[.]() | |
+|[Google AI Recap in February.](https://blog.google/technology/ai/google-ai-updates-february-2025/) | Here’s a summary of some of Google’s major AI updates from February, including the public launch of Gemini 2.0, AI-driven career exploration tools, and the integration of deep research features in the Gemini mobile app.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
