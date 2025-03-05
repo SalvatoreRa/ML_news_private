@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple may be preparing Gemini integration in Apple Intelligence.](https://www.theverge.com/news/618087/apple-could-be-preparing-to-add) |Apple is preparing to integrate Google's Gemini AI model into Apple Intelligence, as indicated by recent iOS 18.4 beta code changes. |
 |[Why OpenAI isn’t bringing deep research to its API just yet.](https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/) | OpenAI says that it won’t bring the AI model powering deep research, its in-depth research tool, to its developer API while it figures out how to better assess the risks of AI convincing people to act on or change their beliefs.|
 |[Some British firms ‘stuck in neutral’ over AI, says Microsoft UK boss.](https://www.theguardian.com/technology/2025/mar/05/uk-firms-ai-microsoft-uk-boss) | Survey of bosses and staff finds that more than half of executives feel their organisation has no official AI plan|
-|[.]() | |
+|[Did xAI lie about Grok 3’s benchmarks?](https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/) |This week, an OpenAI employee accused Elon Musk’s AI company, xAI, of publishing misleading benchmark results for its latest AI model, Grok 3. One of the co-founders of xAI, Igor Babuschkin, insisted that the company was in the right. The truth lies somewhere in between. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
