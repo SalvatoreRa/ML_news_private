@@ -60,7 +60,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-rewarding Correction for Mathematical Reasoning.](https://github.com/RLHFlow/Self-rewarding-reasoning-LLM) |This paper explores self-rewarding reasoning in LLMs, allowing models to autonomously generate reasoning steps, evaluate their accuracy, and iteratively improve their outputs without external feedback. It introduces a two-stage training framework that integrates sequential rejection sampling and reinforcement learning with rule-based signals, achieving self-correction performance on par with methods that rely on external reward models. |
 |[CoreWeave to Acquire Weights & Biases.](https://www.prnewswire.com/news-releases/coreweave-to-acquire-weights--biases---industry-leading-ai-developer-platform-for-building-and-deploying-ai-applications-302392342.html) |CoreWeave has revealed plans to acquire Weights & Biases for $1.7 billion. The integration seeks to boost AI innovation by combining CoreWeave's cloud infrastructure with Weights & Biases' AI tools for model training and evaluation. The acquisition is anticipated to close in the first half of 2025, pending regulatory approval. |
 |[Amazon is reportedly developing its own AI ‘reasoning’ model.](https://techcrunch.com/2025/03/04/amazon-is-reportedly-developing-its-own-ai-reasoning-model/) |Amazon is developing an AI model that incorporates advanced “reasoning” capabilities, similar to models like OpenAI’s o3-mini and Chinese AI lab DeepSeek’s R1. The model may launch as soon as June under Amazon’s Nova brand, which the company introduced at its re:Invent developer conference last year. |
-|[.]() | |
+|[Enhanced Multi-Objective RL.](https://arxiv.org/abs/2502.20957) |This innovative reward dimension reduction method improves learning efficiency in multi-objective reinforcement learning, allowing it to scale beyond traditional approaches. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,9 +147,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cohere's Vision Model.](https://cohere.com/blog/aya-vision) | Cohere For AI has launched Aya Vision, a vision model aimed at improving AI's multilingual and multimodal capabilities. It supports 23 languages.|
 |[DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion.](https://arxiv.org/abs/2503.01183) | Latent diffusion for generating full-length songs shows promising results, though not on par with the best closed models. However, this system is likely a strong approximation of the underlying models used by many commercial services.|
 |[VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation.](https://arxiv.org/abs/2503.01739) |This dataset was designed to have minimal overlap with existing video datasets, while featuring themes and actions relevant to users training models for final video synthesis and understanding. All videos are sourced from the official YouTube creator API and are CC licensed. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Lossless Acceleration of Ultra Long Sequence Generation.](https://github.com/bigai-nlco/TokenSwift) | A framework designed to significantly speed up the generation process of ultra-long sequences, up to 100K tokens, while preserving the target model's inherent quality.|
+|[Action Planner for Offline RL.](https://arxiv.org/abs/2502.21186) |L-MAP enhances sequential decision-making in stochastic, high-dimensional continuous action spaces by learning macro-actions using a VQ-VAE model.|
+|[VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model.](https://vargpt-1.github.io/) | VARGPT is a multimodal large language model (MLLM) that integrates visual understanding and generation into a single autoregressive framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
