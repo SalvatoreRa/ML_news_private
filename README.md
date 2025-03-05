@@ -104,9 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Why OpenAI isn’t bringing deep research to its API just yet.](https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/) | OpenAI says that it won’t bring the AI model powering deep research, its in-depth research tool, to its developer API while it figures out how to better assess the risks of AI convincing people to act on or change their beliefs.|
 |[Some British firms ‘stuck in neutral’ over AI, says Microsoft UK boss.](https://www.theguardian.com/technology/2025/mar/05/uk-firms-ai-microsoft-uk-boss) | Survey of bosses and staff finds that more than half of executives feel their organisation has no official AI plan|
 |[Did xAI lie about Grok 3’s benchmarks?](https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/) |This week, an OpenAI employee accused Elon Musk’s AI company, xAI, of publishing misleading benchmark results for its latest AI model, Grok 3. One of the co-founders of xAI, Igor Babuschkin, insisted that the company was in the right. The truth lies somewhere in between. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Quora’s Poe now lets users create and share custom AI-powered apps.](https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/) | Called Poe Apps, the feature allows Poe users to describe the app they want to create in the new App Creator tool. Descriptions can include mentions of specific models they want the app to use — for example, OpenAI’s o3-mini or Google’s video-generating Veo 2 — or broader, more general specs.|
+|[Chegg sues Google over AI Overviews.](https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly) |Chegg has filed an antitrust lawsuit against Google, alleging its AI summaries harmed Chegg's traffic and revenue. |
+|[Alibaba makes AI video generation model free to use globally.](https://www.cnbc.com/2025/02/26/alibaba-makes-ai-video-generation-model-free-to-use-globally.html) |Alibaba has open-sourced its Wan2.1 AI video generation models, intensifying competition with OpenAI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -170,7 +170,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[If the best defence against AI is more AI, this could be tech’s Oppenheimer moment.](https://www.theguardian.com/technology/2025/mar/02/ai-oppenheimer-moment-karp-zapiska-technological-republic) | An unsettling new book advocates a closer relationship between Silicon Valley and the US government to harness artificial intelligence in the name of national security|
 |[Perplexity wants to reinvent the web browser with AI—but there’s fierce competition.](https://arstechnica.com/ai/2025/02/perplexitys-comet-aims-to-reinvent-the-web-browser-with-ai-but-its-not-saying-how/) | Perplexity has unveiled its new browser, Comet, which looks to rival Google Chrome. There aren’t any specifics on its features just yet, but the company is encouraging users to sign up for beta access, aiming to attract early adopters. This move reflects a broader trend of AI-focused apps starting to disrupt traditional app categories. Should be interesting to see how this shapes up!|
-|[.]() | |
+|[Will AI agents replace SaaS?](https://blog.logrocket.com/product-management/ai-agents-replace-saas/) |AI agents may complement, but not fully replace, SaaS platforms, as these platforms still rely on a strong infrastructure for data and functionality. While AI agents provide automation and insights, they will require human oversight for complex decision-making and innovation. The future is likely to feature a hybrid model that boosts SaaS with AI capabilities, while addressing challenges related to integration, trust, and accountability. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
