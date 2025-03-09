@@ -58,8 +58,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enhanced Multi-Objective RL.](https://arxiv.org/abs/2502.20957) |This innovative reward dimension reduction method improves learning efficiency in multi-objective reinforcement learning, allowing it to scale beyond traditional approaches. |
 |[BodyGen: Advancing Towards Efficient Embodiment Co-Design.](https://genesisorigin.github.io/) | BodyGen introduces topology-aware self-attention and a temporal credit assignment mechanism to improve the efficiency of co-designing robot morphology and control.|
 |[De novo designed proteins neutralize lethal snake venom toxins.](https://www.nature.com/articles/s41586-024-08393-x) |Deep learning methods have been used to design proteins that can neutralize the effects of three-finger toxins found in snake venom, which could lead to the development of safer and more accessible antivenom treatments. |
-|[.]() | |
-|[.]() | |
+|[Google's AI Mode.](https://blog.google/products/search/ai-mode-search/) |Although the naming may be a bit unclear, the product preview launch from Google highlights the direction they intend to take with AI-powered search systems. |
+|[Get to production faster with the upgraded Anthropic Console.](https://www.anthropic.com/news/upgraded-anthropic-console) |Anthropic has redesigned its console to simplify AI deployment with Claude models. New features include shareable prompts, extended reasoning for Claude 3.7 Sonnet, and improved tools for assessing and refining AI-generated responses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
