@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quora’s Poe now lets users create and share custom AI-powered apps.](https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/) | Called Poe Apps, the feature allows Poe users to describe the app they want to create in the new App Creator tool. Descriptions can include mentions of specific models they want the app to use — for example, OpenAI’s o3-mini or Google’s video-generating Veo 2 — or broader, more general specs.|
 |[Chegg sues Google over AI Overviews.](https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly) |Chegg has filed an antitrust lawsuit against Google, alleging its AI summaries harmed Chegg's traffic and revenue. |
 |[Alibaba makes AI video generation model free to use globally.](https://www.cnbc.com/2025/02/26/alibaba-makes-ai-video-generation-model-free-to-use-globally.html) |Alibaba has open-sourced its Wan2.1 AI video generation models, intensifying competition with OpenAI. |
-|[.]() | |
-|[.]() | |
+|[OpenAI Introduces Next Gen AI.](https://openai.com/index/introducing-nextgenai/) |OpenAI has launched Next Gen AI, a collection of advanced tools aimed at improving developers' efficiency in creating AI applications. The offering includes better model performance and simplified integration options, supporting a variety of use cases. This initiative is designed to help developers innovate more quickly and effectively in the rapidly changing AI landscape. |
+|[Sutton and Barto win the Turing Award.](https://www.acm.org/media-center/2025/march/turing-award-2024) | The two have done years of groundbreaking research and education in Reinforcement Learning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
