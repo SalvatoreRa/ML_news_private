@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Perfect taps $23M to fix the flaws in recruitment with AI.](https://techcrunch.com/2025/02/25/perfect-taps-23m-to-fix-the-flaws-in-recruitment-with-ai/) | Israeli startup Perfect, which focuses on optimizing recruitment processes with proprietary AI, has raised $23 million in seed funding. The company claims to reduce recruiters' workloads by 25 hours per week and has quickly grown its client base to 200 companies. Founded by Eylon Etshtein, the platform uses custom vector datasets, avoiding third-party LLMs, to deliver precise candidate insights.|
 |[Meta in talks for $200 billion AI data center project, The Information reports.](https://www.reuters.com/technology/meta-talks-200-billion-ai-data-center-project-information-reports-2025-02-26/) |Meta is in talks to build a $200 billion AI data center campus, with potential locations including Louisiana, Wyoming, or Texas. |
 |[‘Major brand worries’: Just how toxic is Elon Musk for Tesla?](https://www.theguardian.com/technology/2025/mar/08/major-brand-worries-just-how-toxic-is-elon-musk-for-tesla) | With sales down and electric vehicle rivals catching up, the rightwing politico’s brand is driving into a storm|
-|[.]() | |
+|[Internet shutdowns at record high in Africa as access ‘weaponised’.](https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised) |More governments seeking to keep millions of people offline amid conflicts, protests and political instability |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -178,7 +178,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Will AI agents replace SaaS?](https://blog.logrocket.com/product-management/ai-agents-replace-saas/) |AI agents may complement, but not fully replace, SaaS platforms, as these platforms still rely on a strong infrastructure for data and functionality. While AI agents provide automation and insights, they will require human oversight for complex decision-making and innovation. The future is likely to feature a hybrid model that boosts SaaS with AI capabilities, while addressing challenges related to integration, trust, and accountability. |
 |[Sofya Uses Llama for Healthcare AI.](https://ai.meta.com/blog/sofya-clinical-reasoning-with-llama/) |Sofya uses Llama models to optimize medical AI workflows, enhancing efficiency and reducing administrative burdens for healthcare providers in Latin America. |
 |[Who bought this smoked salmon? How ‘AI agents’ will change the internet (and shopping lists).](https://www.theguardian.com/technology/2025/mar/09/who-bought-this-smoked-salmon-how-ai-agents-will-change-the-internet-and-shopping-lists) | Autonomous digital assistants are being developed that can carry out tasks on behalf of the user – including ordering the groceries. But if you don’t keep an eye on them, dinner might not be quite what you expect …|
-|[.]() | |
+|[Skype got shouted down by Teams and Zoom. But it revolutionised human connection.](https://www.theguardian.com/technology/commentisfree/2025/mar/08/skype-got-shouted-down-by-teams-and-zoom-but-it-revolutionised-human-connection) |The company that pioneered voice communication over the internet has withered to dust in Microsoft’s hands. Still, I for one am grateful for it |
 |[.]() | |
 |[.]() | |
 |[.]() | |
