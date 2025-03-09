@@ -180,8 +180,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Who bought this smoked salmon? How ‘AI agents’ will change the internet (and shopping lists).](https://www.theguardian.com/technology/2025/mar/09/who-bought-this-smoked-salmon-how-ai-agents-will-change-the-internet-and-shopping-lists) | Autonomous digital assistants are being developed that can carry out tasks on behalf of the user – including ordering the groceries. But if you don’t keep an eye on them, dinner might not be quite what you expect …|
 |[Skype got shouted down by Teams and Zoom. But it revolutionised human connection.](https://www.theguardian.com/technology/commentisfree/2025/mar/08/skype-got-shouted-down-by-teams-and-zoom-but-it-revolutionised-human-connection) |The company that pioneered voice communication over the internet has withered to dust in Microsoft’s hands. Still, I for one am grateful for it |
 |[Trump 2.0: an assault on science anywhere is an assault on science everywhere.](https://www.nature.com/articles/d41586-025-00562-w) | US President Donald Trump is taking a wrecking ball to science and to international institutions. The global research community must take a stand against these attacks.|
-|[.]() | |
-|[.]() | |
+|[How much energy will AI really consume? The good, the bad and the unknown.](https://www.nature.com/articles/d41586-025-00616-z) |Researchers want firms to be more transparent about the electricity demands of artificial intelligence. |
+|[Train clinical AI to reason like a team of doctors.](https://www.nature.com/articles/d41586-025-00618-x) |As the European Union’s Artificial Intelligence Act takes effect, AI systems that mimic how human teams collaborate can improve trust in high-risk situations, such as clinical medicine. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
