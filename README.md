@@ -182,8 +182,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trump 2.0: an assault on science anywhere is an assault on science everywhere.](https://www.nature.com/articles/d41586-025-00562-w) | US President Donald Trump is taking a wrecking ball to science and to international institutions. The global research community must take a stand against these attacks.|
 |[How much energy will AI really consume? The good, the bad and the unknown.](https://www.nature.com/articles/d41586-025-00616-z) |Researchers want firms to be more transparent about the electricity demands of artificial intelligence. |
 |[Train clinical AI to reason like a team of doctors.](https://www.nature.com/articles/d41586-025-00618-x) |As the European Union’s Artificial Intelligence Act takes effect, AI systems that mimic how human teams collaborate can improve trust in high-risk situations, such as clinical medicine. |
-|[.]() | |
-|[.]() | |
+|[AI hallucinations are a feature of LLM design, not a bug.](https://www.nature.com/articles/d41586-025-00662-7) |Your news feature outlines how designers of large language models (LLMs) struggle to stop them from hallucinating. But AI confabulations are integral to how these models work. They are a feature, not a bug. |
+|[AI must be taught concepts, not just patterns in raw data.](https://www.nature.com/articles/d41586-025-00663-6) | Data-driven learning is central to modern artificial intelligence (AI). But in some cases, knowledge engineering — the formal encoding of concepts using rules and definitions — can be superior.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
