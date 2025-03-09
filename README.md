@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta in talks for $200 billion AI data center project, The Information reports.](https://www.reuters.com/technology/meta-talks-200-billion-ai-data-center-project-information-reports-2025-02-26/) |Meta is in talks to build a $200 billion AI data center campus, with potential locations including Louisiana, Wyoming, or Texas. |
 |[‘Major brand worries’: Just how toxic is Elon Musk for Tesla?](https://www.theguardian.com/technology/2025/mar/08/major-brand-worries-just-how-toxic-is-elon-musk-for-tesla) | With sales down and electric vehicle rivals catching up, the rightwing politico’s brand is driving into a storm|
 |[Internet shutdowns at record high in Africa as access ‘weaponised’.](https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised) |More governments seeking to keep millions of people offline amid conflicts, protests and political instability |
-|[.]() | |
-|[.]() | |
+|[Should scientists ditch the social-media platform X?](https://www.nature.com/articles/d41586-025-00665-4) | In recent months, many scientists have left X (formerly Twitter) for alternative social-media platforms such as Bluesky|
+|[ChatGPT for students: learners find creative new uses for chatbots.](https://www.nature.com/articles/d41586-025-00621-2) | The utility of generative AI tools is expanding far beyond simple summarisation and grammar support towards more sophisticated, pedagogical applications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
