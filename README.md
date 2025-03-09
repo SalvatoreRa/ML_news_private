@@ -169,8 +169,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Thunder MLA.](https://hazyresearch.stanford.edu/blog/2025-03-04-thundermla) | The Hazy Research team from Stanford has published a post and code for their ThunderKittens-enabled Multiheaded Latent Attention implementation, which is approximately 30% faster than the official DeepSeek implementation.|
 |[Multi-view Network for Stereo 3D Reconstruction.](https://arxiv.org/abs/2503.01661) |MUSt3R is a scalable multi-view extension of the DUSt3R framework that improves stereo 3D reconstruction from arbitrary image collections. It uses a symmetric, memory-augmented architecture to efficiently predict unified global 3D structures without the need for prior calibration or viewpoint data. |
 |[Efficient Reinforcement Learning for Robotics.](https://adrialopezescoriza.github.io/demo3/) | DEMO³ introduces a demonstration-augmented reinforcement learning framework that enhances data efficiency in long-horizon robotic tasks by utilizing multi-stage dense reward learning and world model training.|
-|[.]() | |
-|[.]() | |
+|[Open Multilingual Large Language Models Serving Over 90% of Global Speakers.](https://github.com/babel-llm/babel-llm) | Babel is a multilingual large language model (LLM) that supports 25 of the most spoken languages, covering 90% of the global population. It increases its parameter count using a layer extension technique, boosting its performance potential.|
+|[Contrastive Sparse Representation.](https://github.com/neilwen987/CSR_Adaptive_Rep) | CSR optimizes sparse coding for adaptive representation, cutting computational costs while enhancing retrieval speed and accuracy across various benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
