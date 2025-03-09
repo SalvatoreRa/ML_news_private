@@ -155,8 +155,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Layout-to-Image Generation.](https://arxiv.org/abs/2503.01667v1) | ToLo introduces a two-stage, training-free layout-to-image framework designed for high-overlap layouts|
 |[Infrared Image Super-Resolution.](https://arxiv.org/abs/2503.01187v1) |DifIISR improves infrared image super-resolution by using diffusion models, incorporating perceptual priors and thermal spectrum regulation to enhance both visual quality and machine perception. |
 |[Spark Text To Speech.](https://github.com/SparkAudio/Spark-TTS) |A robust voice cloning text-to-speech model built on Qwen, which supports emotive prompting alongside text input. Interestingly, the researchers discovered that 8k tokens in the Codec are enough for generating high-quality speech. |
-|[.]() | |
-|[.]() | |
+|[High-Quality Audio Compression.](https://github.com/facebookresearch/flowdec) | FlowDec is a full-band audio codec that utilizes conditional flow matching and non-adversarial training to achieve high-fidelity 48 kHz audio compression.|
+|[Simplifying 3D Generation.](https://ltt-o.github.io/Kiss3dgen.github.io/) | Kiss3DGen adapts 2D diffusion models for efficient 3D object generation, using multi-view images and normal maps to produce high-quality meshes and textures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
