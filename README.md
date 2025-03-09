@@ -154,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PipeOffload: Improving Scalability of Pipeline Parallelism with Memory Optimization.](https://arxiv.org/abs/2503.01328) |Pipeline Parallelism is an effective strategy for sharding models across multiple GPUs, but it requires significant memory. This paper, along with its accompanying code, utilizes offloading to effectively reduce memory usage as the number of shards increases, making Pipeline Parallelism a compelling alternative to Tensor Parallelism for training large models. |
 |[Layout-to-Image Generation.](https://arxiv.org/abs/2503.01667v1) | ToLo introduces a two-stage, training-free layout-to-image framework designed for high-overlap layouts|
 |[Infrared Image Super-Resolution.](https://arxiv.org/abs/2503.01187v1) |DifIISR improves infrared image super-resolution by using diffusion models, incorporating perceptual priors and thermal spectrum regulation to enhance both visual quality and machine perception. |
-|[.]() | |
+|[Spark Text To Speech.](https://github.com/SparkAudio/Spark-TTS) |A robust voice cloning text-to-speech model built on Qwen, which supports emotive prompting alongside text input. Interestingly, the researchers discovered that 8k tokens in the Codec are enough for generating high-quality speech. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
