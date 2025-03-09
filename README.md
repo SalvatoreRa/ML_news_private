@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's AI Mode.](https://blog.google/products/search/ai-mode-search/) |Although the naming may be a bit unclear, the product preview launch from Google highlights the direction they intend to take with AI-powered search systems. |
 |[Get to production faster with the upgraded Anthropic Console.](https://www.anthropic.com/news/upgraded-anthropic-console) |Anthropic has redesigned its console to simplify AI deployment with Claude models. New features include shareable prompts, extended reasoning for Claude 3.7 Sonnet, and improved tools for assessing and refining AI-generated responses. |
 |[Google co-founder Larry Page reportedly has a new AI startup.](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) |Google co-founder Larry Page is building a new company called Dynatomics that’s focused on applying AI to product manufacturing |
-|[.]() | |
-|[.]() | |
+|[Stanford teen develops AI-powered fire detection network.](https://www.nbcbayarea.com/news/tech/stanford-teen-fire-detection-network/3786891/) |A Stanford online high school student has developed a sensor that can detect a fire when it's little more than a spark, a technology that allows firefighters to deploy before the blaze gets out of control. |
+|[AI-generated review summaries are coming to Apple’s app store.](https://www.theverge.com/news/624891/ai-generated-review-summaries-coming-to-apples-app-store) |Apple is bringing AI-generated review summaries to the app store with iOS 18.4. As spotted by Macworld, the latest developer beta for iOS and iPadOS adds brief summaries of user reviews to some App Store listings. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -173,8 +173,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Contrastive Sparse Representation.](https://github.com/neilwen987/CSR_Adaptive_Rep) | CSR optimizes sparse coding for adaptive representation, cutting computational costs while enhancing retrieval speed and accuracy across various benchmarks.|
 |[Structural Cracks Segmentation.](https://github.com/karl1109/scsegamba) | SCSegamba is a lightweight segmentation model for structural cracks that integrates gated bottleneck convolution and a scanning strategy to improve accuracy while keeping computational overhead minimal.|
 |[Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation.](https://huggingface.co/datasets/amphion/Emilia-Dataset) | A speech dataset with high-quality and diverse data.|
-|[.]() | |
-|[.]() | |
+|[Cohere Launches Aya Vision - A Multimodal AI Model for Content Creation.](https://cohere.com/blog/aya-vision) | Cohere's Aya Vision is a multimodal AI model that combines text and image understanding capabilities. This innovative model is crafted to improve content creation and analysis, allowing users to generate and interpret multimedia content more efficiently. Aya Vision seeks to expand the possibilities of AI-driven content generation and interaction.|
+|[Exa makes AI search tool generally available.](https://exa.ai/websets) | AI research lab, Exa, has made its search tool Websets available for public use.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -199,7 +199,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Train clinical AI to reason like a team of doctors.](https://www.nature.com/articles/d41586-025-00618-x) |As the European Union’s Artificial Intelligence Act takes effect, AI systems that mimic how human teams collaborate can improve trust in high-risk situations, such as clinical medicine. |
 |[AI hallucinations are a feature of LLM design, not a bug.](https://www.nature.com/articles/d41586-025-00662-7) |Your news feature outlines how designers of large language models (LLMs) struggle to stop them from hallucinating. But AI confabulations are integral to how these models work. They are a feature, not a bug. |
 |[AI must be taught concepts, not just patterns in raw data.](https://www.nature.com/articles/d41586-025-00663-6) | Data-driven learning is central to modern artificial intelligence (AI). But in some cases, knowledge engineering — the formal encoding of concepts using rules and definitions — can be superior.|
-|[.]() | |
+|[The Challenges and Upsides of Using AI in Scientific Writing.](https://spectrum.ieee.org/challenges-upsides-ai-scientific-writing) |AI's transformative impact on scientific writing is clear, but it must be balanced with preserving research integrity. Stakeholders call for ethical guidelines, AI detection tools, and global collaboration to ensure AI enhances rather than compromises scholarship. By focusing on transparency and accountability, the scientific community can responsibly integrate AI while maintaining scholarly standards. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
