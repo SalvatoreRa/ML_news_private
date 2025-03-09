@@ -166,8 +166,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Simplifying 3D Generation.](https://ltt-o.github.io/Kiss3dgen.github.io/) | Kiss3DGen adapts 2D diffusion models for efficient 3D object generation, using multi-view images and normal maps to produce high-quality meshes and textures.|
 |[Beating Pokemon Red with 10m parameters and RL.](https://drubinstein.github.io/pokerl) | With the excitement surrounding Claude playing Pokemon, this blog post is particularly timely. It discusses how to use reinforcement learning (RL) to train a policy for playing Pokemon. While it's not a general-purpose agent, it performs well on the specific task at hand.|
 |[How to Build Your Own Software with AI, No Experience Necessary.](https://www.nateliason.com/blog/ai-course) |A tech enthusiast leveraged AI tools like ChatGPT and Claude to successfully create various apps, including podcast transcription tools and task managers, despite being a hobbyist. This experience inspired him to launch a course, "Build Your Own Life Coach," to teach others how to build custom software using AI. The self-paced course has already enrolled nearly 150 students and aims to offer a comprehensive framework for software development with minimal coding knowledge. |
-|[.]() | |
-|[.]() | |
+|[Thunder MLA.](https://hazyresearch.stanford.edu/blog/2025-03-04-thundermla) | The Hazy Research team from Stanford has published a post and code for their ThunderKittens-enabled Multiheaded Latent Attention implementation, which is approximately 30% faster than the official DeepSeek implementation.|
+|[Multi-view Network for Stereo 3D Reconstruction.](https://arxiv.org/abs/2503.01661) |MUSt3R is a scalable multi-view extension of the DUSt3R framework that improves stereo 3D reconstruction from arbitrary image collections. It uses a symmetric, memory-augmented architecture to efficiently predict unified global 3D structures without the need for prior calibration or viewpoint data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
