@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How far can we go with ImageNet for Text-to-Image generation?](https://arxiv.org/abs/2502.21318) | Most text-to-image models rely on large amounts of custom-collected data scraped from the web. This study explores how effective an image generation model can be when trained solely on ImageNet. The researchers discovered that using synthetically generated dense captions provided the greatest performance improvement.|
 |[Self-rewarding Correction for Mathematical Reasoning.](https://github.com/RLHFlow/Self-rewarding-reasoning-LLM) |This paper explores self-rewarding reasoning in LLMs, allowing models to autonomously generate reasoning steps, evaluate their accuracy, and iteratively improve their outputs without external feedback. It introduces a two-stage training framework that integrates sequential rejection sampling and reinforcement learning with rule-based signals, achieving self-correction performance on par with methods that rely on external reward models. |
 |[Enhanced Multi-Objective RL.](https://arxiv.org/abs/2502.20957) |This innovative reward dimension reduction method improves learning efficiency in multi-objective reinforcement learning, allowing it to scale beyond traditional approaches. |
-|[.]() | |
+|[BodyGen: Advancing Towards Efficient Embodiment Co-Design.](https://genesisorigin.github.io/) | BodyGen introduces topology-aware self-attention and a temporal credit assignment mechanism to improve the efficiency of co-designing robot morphology and control.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -158,6 +158,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[High-Quality Audio Compression.](https://github.com/facebookresearch/flowdec) | FlowDec is a full-band audio codec that utilizes conditional flow matching and non-adversarial training to achieve high-fidelity 48 kHz audio compression.|
 |[Simplifying 3D Generation.](https://ltt-o.github.io/Kiss3dgen.github.io/) | Kiss3DGen adapts 2D diffusion models for efficient 3D object generation, using multi-view images and normal maps to produce high-quality meshes and textures.|
 |[Beating Pokemon Red with 10m parameters and RL.](https://drubinstein.github.io/pokerl) | With the excitement surrounding Claude playing Pokemon, this blog post is particularly timely. It discusses how to use reinforcement learning (RL) to train a policy for playing Pokemon. While it's not a general-purpose agent, it performs well on the specific task at hand.|
+|[How to Build Your Own Software with AI, No Experience Necessary.](https://www.nateliason.com/blog/ai-course) |A tech enthusiast leveraged AI tools like ChatGPT and Claude to successfully create various apps, including podcast transcription tools and task managers, despite being a hobbyist. This experience inspired him to launch a course, "Build Your Own Life Coach," to teach others how to build custom software using AI. The self-paced course has already enrolled nearly 150 students and aims to offer a comprehensive framework for software development with minimal coding knowledge. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -171,7 +176,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[If the best defence against AI is more AI, this could be tech’s Oppenheimer moment.](https://www.theguardian.com/technology/2025/mar/02/ai-oppenheimer-moment-karp-zapiska-technological-republic) | An unsettling new book advocates a closer relationship between Silicon Valley and the US government to harness artificial intelligence in the name of national security|
 |[Perplexity wants to reinvent the web browser with AI—but there’s fierce competition.](https://arstechnica.com/ai/2025/02/perplexitys-comet-aims-to-reinvent-the-web-browser-with-ai-but-its-not-saying-how/) | Perplexity has unveiled its new browser, Comet, which looks to rival Google Chrome. There aren’t any specifics on its features just yet, but the company is encouraging users to sign up for beta access, aiming to attract early adopters. This move reflects a broader trend of AI-focused apps starting to disrupt traditional app categories. Should be interesting to see how this shapes up!|
 |[Will AI agents replace SaaS?](https://blog.logrocket.com/product-management/ai-agents-replace-saas/) |AI agents may complement, but not fully replace, SaaS platforms, as these platforms still rely on a strong infrastructure for data and functionality. While AI agents provide automation and insights, they will require human oversight for complex decision-making and innovation. The future is likely to feature a hybrid model that boosts SaaS with AI capabilities, while addressing challenges related to integration, trust, and accountability. |
-|[.]() | |
+|[Sofya Uses Llama for Healthcare AI.](https://ai.meta.com/blog/sofya-clinical-reasoning-with-llama/) |Sofya uses Llama models to optimize medical AI workflows, enhancing efficiency and reducing administrative burdens for healthcare providers in Latin America. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
