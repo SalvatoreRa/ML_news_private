@@ -150,10 +150,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lossless Acceleration of Ultra Long Sequence Generation.](https://github.com/bigai-nlco/TokenSwift) | A framework designed to significantly speed up the generation process of ultra-long sequences, up to 100K tokens, while preserving the target model's inherent quality.|
 |[Action Planner for Offline RL.](https://arxiv.org/abs/2502.21186) |L-MAP enhances sequential decision-making in stochastic, high-dimensional continuous action spaces by learning macro-actions using a VQ-VAE model.|
 |[VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model.](https://vargpt-1.github.io/) | VARGPT is a multimodal large language model (MLLM) that integrates visual understanding and generation into a single autoregressive framework.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[QwQ-32B: Embracing the Power of Reinforcement Learning.](https://qwenlm.github.io/blog/qwq-32b/) |The Qwen team has trained an open-weight, Apache 2.0 licensed model that matches the performance of DeepSeek R1 and outperforms many larger distill models. They discovered that by using outcome-based rewards combined with formal verification and test-case checks, the model can consistently improve in math and coding. Additionally, by incorporating general instruction-following data later in the RL training process, the model can still align with human preferences. |
+|[PipeOffload: Improving Scalability of Pipeline Parallelism with Memory Optimization.](https://arxiv.org/abs/2503.01328) |Pipeline Parallelism is an effective strategy for sharding models across multiple GPUs, but it requires significant memory. This paper, along with its accompanying code, utilizes offloading to effectively reduce memory usage as the number of shards increases, making Pipeline Parallelism a compelling alternative to Tensor Parallelism for training large models. |
+|[Layout-to-Image Generation.](https://arxiv.org/abs/2503.01667v1) | ToLo introduces a two-stage, training-free layout-to-image framework designed for high-overlap layouts|
+|[Infrared Image Super-Resolution.](https://arxiv.org/abs/2503.01187v1) |DifIISR improves infrared image super-resolution by using diffusion models, incorporating perceptual priors and thermal spectrum regulation to enhance both visual quality and machine perception. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
