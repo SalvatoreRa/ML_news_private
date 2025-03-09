@@ -168,7 +168,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to Build Your Own Software with AI, No Experience Necessary.](https://www.nateliason.com/blog/ai-course) |A tech enthusiast leveraged AI tools like ChatGPT and Claude to successfully create various apps, including podcast transcription tools and task managers, despite being a hobbyist. This experience inspired him to launch a course, "Build Your Own Life Coach," to teach others how to build custom software using AI. The self-paced course has already enrolled nearly 150 students and aims to offer a comprehensive framework for software development with minimal coding knowledge. |
 |[Thunder MLA.](https://hazyresearch.stanford.edu/blog/2025-03-04-thundermla) | The Hazy Research team from Stanford has published a post and code for their ThunderKittens-enabled Multiheaded Latent Attention implementation, which is approximately 30% faster than the official DeepSeek implementation.|
 |[Multi-view Network for Stereo 3D Reconstruction.](https://arxiv.org/abs/2503.01661) |MUSt3R is a scalable multi-view extension of the DUSt3R framework that improves stereo 3D reconstruction from arbitrary image collections. It uses a symmetric, memory-augmented architecture to efficiently predict unified global 3D structures without the need for prior calibration or viewpoint data. |
-|[.]() | |
+|[Efficient Reinforcement Learning for Robotics.](https://adrialopezescoriza.github.io/demo3/) | DEMO³ introduces a demonstration-augmented reinforcement learning framework that enhances data efficiency in long-horizon robotic tasks by utilizing multi-stage dense reward learning and world model training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
