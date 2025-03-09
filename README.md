@@ -157,7 +157,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Spark Text To Speech.](https://github.com/SparkAudio/Spark-TTS) |A robust voice cloning text-to-speech model built on Qwen, which supports emotive prompting alongside text input. Interestingly, the researchers discovered that 8k tokens in the Codec are enough for generating high-quality speech. |
 |[High-Quality Audio Compression.](https://github.com/facebookresearch/flowdec) | FlowDec is a full-band audio codec that utilizes conditional flow matching and non-adversarial training to achieve high-fidelity 48 kHz audio compression.|
 |[Simplifying 3D Generation.](https://ltt-o.github.io/Kiss3dgen.github.io/) | Kiss3DGen adapts 2D diffusion models for efficient 3D object generation, using multi-view images and normal maps to produce high-quality meshes and textures.|
-|[.]() | |
+|[Beating Pokemon Red with 10m parameters and RL.](https://drubinstein.github.io/pokerl) | With the excitement surrounding Claude playing Pokemon, this blog post is particularly timely. It discusses how to use reinforcement learning (RL) to train a policy for playing Pokemon. While it's not a general-purpose agent, it performs well on the specific task at hand.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
