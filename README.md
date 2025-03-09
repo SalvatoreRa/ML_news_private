@@ -171,6 +171,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Reinforcement Learning for Robotics.](https://adrialopezescoriza.github.io/demo3/) | DEMO³ introduces a demonstration-augmented reinforcement learning framework that enhances data efficiency in long-horizon robotic tasks by utilizing multi-stage dense reward learning and world model training.|
 |[Open Multilingual Large Language Models Serving Over 90% of Global Speakers.](https://github.com/babel-llm/babel-llm) | Babel is a multilingual large language model (LLM) that supports 25 of the most spoken languages, covering 90% of the global population. It increases its parameter count using a layer extension technique, boosting its performance potential.|
 |[Contrastive Sparse Representation.](https://github.com/neilwen987/CSR_Adaptive_Rep) | CSR optimizes sparse coding for adaptive representation, cutting computational costs while enhancing retrieval speed and accuracy across various benchmarks.|
+|[Structural Cracks Segmentation.](https://github.com/karl1109/scsegamba) | SCSegamba is a lightweight segmentation model for structural cracks that integrates gated bottleneck convolution and a scanning strategy to improve accuracy while keeping computational overhead minimal.|
+|[Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation.](https://huggingface.co/datasets/amphion/Emilia-Dataset) | A speech dataset with high-quality and diverse data.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
