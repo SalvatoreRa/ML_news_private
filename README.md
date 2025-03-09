@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-rewarding Correction for Mathematical Reasoning.](https://github.com/RLHFlow/Self-rewarding-reasoning-LLM) |This paper explores self-rewarding reasoning in LLMs, allowing models to autonomously generate reasoning steps, evaluate their accuracy, and iteratively improve their outputs without external feedback. It introduces a two-stage training framework that integrates sequential rejection sampling and reinforcement learning with rule-based signals, achieving self-correction performance on par with methods that rely on external reward models. |
 |[Enhanced Multi-Objective RL.](https://arxiv.org/abs/2502.20957) |This innovative reward dimension reduction method improves learning efficiency in multi-objective reinforcement learning, allowing it to scale beyond traditional approaches. |
 |[BodyGen: Advancing Towards Efficient Embodiment Co-Design.](https://genesisorigin.github.io/) | BodyGen introduces topology-aware self-attention and a temporal credit assignment mechanism to improve the efficiency of co-designing robot morphology and control.|
-|[.]() | |
+|[De novo designed proteins neutralize lethal snake venom toxins.](https://www.nature.com/articles/s41586-024-08393-x) |Deep learning methods have been used to design proteins that can neutralize the effects of three-finger toxins found in snake venom, which could lead to the development of safer and more accessible antivenom treatments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,6 +115,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Internet shutdowns at record high in Africa as access ‘weaponised’.](https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised) |More governments seeking to keep millions of people offline amid conflicts, protests and political instability |
 |[Should scientists ditch the social-media platform X?](https://www.nature.com/articles/d41586-025-00665-4) | In recent months, many scientists have left X (formerly Twitter) for alternative social-media platforms such as Bluesky|
 |[ChatGPT for students: learners find creative new uses for chatbots.](https://www.nature.com/articles/d41586-025-00621-2) | The utility of generative AI tools is expanding far beyond simple summarisation and grammar support towards more sophisticated, pedagogical applications.|
+|[AI algorithm helps telescopes to pivot fast towards gravitational-wave sources.](https://www.nature.com/articles/d41586-025-00543-z) |Fast electromagnetic follow-up observations of gravitational-wave sources such as binary neutron stars could shed light on questions across physics and cosmology. A machine-learning approach brings that a step closer.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
