@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Introduces Next Gen AI.](https://openai.com/index/introducing-nextgenai/) |OpenAI has launched Next Gen AI, a collection of advanced tools aimed at improving developers' efficiency in creating AI applications. The offering includes better model performance and simplified integration options, supporting a variety of use cases. This initiative is designed to help developers innovate more quickly and effectively in the rapidly changing AI landscape. |
 |[Sutton and Barto win the Turing Award.](https://www.acm.org/media-center/2025/march/turing-award-2024) | The two have done years of groundbreaking research and education in Reinforcement Learning.|
 |[Perfect taps $23M to fix the flaws in recruitment with AI.](https://techcrunch.com/2025/02/25/perfect-taps-23m-to-fix-the-flaws-in-recruitment-with-ai/) | Israeli startup Perfect, which focuses on optimizing recruitment processes with proprietary AI, has raised $23 million in seed funding. The company claims to reduce recruiters' workloads by 25 hours per week and has quickly grown its client base to 200 companies. Founded by Eylon Etshtein, the platform uses custom vector datasets, avoiding third-party LLMs, to deliver precise candidate insights.|
-|[.]() | |
+|[Meta in talks for $200 billion AI data center project, The Information reports.](https://www.reuters.com/technology/meta-talks-200-billion-ai-data-center-project-information-reports-2025-02-26/) |Meta is in talks to build a $200 billion AI data center campus, with potential locations including Louisiana, Wyoming, or Texas. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
