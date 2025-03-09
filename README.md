@@ -58,9 +58,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enhanced Multi-Objective RL.](https://arxiv.org/abs/2502.20957) |This innovative reward dimension reduction method improves learning efficiency in multi-objective reinforcement learning, allowing it to scale beyond traditional approaches. |
 |[BodyGen: Advancing Towards Efficient Embodiment Co-Design.](https://genesisorigin.github.io/) | BodyGen introduces topology-aware self-attention and a temporal credit assignment mechanism to improve the efficiency of co-designing robot morphology and control.|
 |[De novo designed proteins neutralize lethal snake venom toxins.](https://www.nature.com/articles/s41586-024-08393-x) |Deep learning methods have been used to design proteins that can neutralize the effects of three-finger toxins found in snake venom, which could lead to the development of safer and more accessible antivenom treatments. |
-|[Google's AI Mode.](https://blog.google/products/search/ai-mode-search/) |Although the naming may be a bit unclear, the product preview launch from Google highlights the direction they intend to take with AI-powered search systems. |
-|[Get to production faster with the upgraded Anthropic Console.](https://www.anthropic.com/news/upgraded-anthropic-console) |Anthropic has redesigned its console to simplify AI deployment with Claude models. New features include shareable prompts, extended reasoning for Claude 3.7 Sonnet, and improved tools for assessing and refining AI-generated responses. |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,6 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Should scientists ditch the social-media platform X?](https://www.nature.com/articles/d41586-025-00665-4) | In recent months, many scientists have left X (formerly Twitter) for alternative social-media platforms such as Bluesky|
 |[ChatGPT for students: learners find creative new uses for chatbots.](https://www.nature.com/articles/d41586-025-00621-2) | The utility of generative AI tools is expanding far beyond simple summarisation and grammar support towards more sophisticated, pedagogical applications.|
 |[AI algorithm helps telescopes to pivot fast towards gravitational-wave sources.](https://www.nature.com/articles/d41586-025-00543-z) |Fast electromagnetic follow-up observations of gravitational-wave sources such as binary neutron stars could shed light on questions across physics and cosmology. A machine-learning approach brings that a step closer.|
+|[Google's AI Mode.](https://blog.google/products/search/ai-mode-search/) |Although the naming may be a bit unclear, the product preview launch from Google highlights the direction they intend to take with AI-powered search systems. |
+|[Get to production faster with the upgraded Anthropic Console.](https://www.anthropic.com/news/upgraded-anthropic-console) |Anthropic has redesigned its console to simplify AI deployment with Claude models. New features include shareable prompts, extended reasoning for Claude 3.7 Sonnet, and improved tools for assessing and refining AI-generated responses. |
+|[Google co-founder Larry Page reportedly has a new AI startup.](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/) |Google co-founder Larry Page is building a new company called Dynatomics that’s focused on applying AI to product manufacturing |
 |[.]() | |
 |[.]() | |
 |[.]() | |
