@@ -120,7 +120,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Autoregressive Streaming Text-to-Speech Model for Any LLM.](https://github.com/mbzuai-oryx/LLMVoX) | A compact 30 million parameter model designed to enhance any language model, enabling it to comprehend and generate speech in response to general queries. Importantly, it doesn't require adjustments to the base model, making it easily transferable across different models.|
 |[Federated Learning for Neural Feedforward Control.](https://github.com/j-cap/FL-based-neural-FF-control) | This project presents a federated learning-based method for neural feedforward control, enabling multi-agent systems to enhance tracking performance while maintaining data privacy.|
 |[Gemini Embedding Model.](https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api) |The Gemini team has developed and released an outstanding embedding model for text. It leads in benchmark performance, is cost-effective, and offers excellent speed.|
-|[.]() | |
+|[Token-Efficient Long Video Understanding for Multimodal LLMs.](https://research.nvidia.com/labs/lpr/storm/) |Most video understanding models process individual frames, which makes addressing temporal questions challenging. STORM, which leverages Mamba adapters, introduces temporal attention operations. This post compares it with Qwen models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |Link|description|
 |---|---|
 |[Are AI-generated video games really on the horizon?](https://www.theguardian.com/games/2025/mar/10/are-ai-generated-video-games-microsoft-muse-google-gamengen) | Microsoft and Google have both recently released new generative AI models that simulate video game worlds – with notable limitations. What can they do?|
-|[.]() | |
+|[It begins: Pentagon to give AI agents a role in decision making, ops planning.](https://www.theregister.com/2025/03/05/dod_taps_scale_to_bring/) |The US military has granted a major contract to Scale AI and its partners, including Anduril and Microsoft, to incorporate AI agents into military operations for decision-making in workflows. The Thunderforge project seeks to improve the speed and accuracy of strategic planning while ensuring human oversight. The Pentagon intends to eventually implement this AI system across all of its combatant commands. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
