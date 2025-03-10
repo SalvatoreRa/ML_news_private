@@ -119,7 +119,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Distractor Aware SAM .](https://github.com/jovanavidenovic/DAM4SAM/) | Segment Anything (SAM) is a top-tier model for visual analysis and segmentation. However, it can struggle when two similar-looking objects appear in a video. This new approach addresses these "distractors" by incorporating extra memory augmentation and training.|
 |[Autoregressive Streaming Text-to-Speech Model for Any LLM.](https://github.com/mbzuai-oryx/LLMVoX) | A compact 30 million parameter model designed to enhance any language model, enabling it to comprehend and generate speech in response to general queries. Importantly, it doesn't require adjustments to the base model, making it easily transferable across different models.|
 |[Federated Learning for Neural Feedforward Control.](https://github.com/j-cap/FL-based-neural-FF-control) | This project presents a federated learning-based method for neural feedforward control, enabling multi-agent systems to enhance tracking performance while maintaining data privacy.|
-|[.]() | |
+|[Gemini Embedding Model.](https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api) |The Gemini team has developed and released an outstanding embedding model for text. It leads in benchmark performance, is cost-effective, and offers excellent speed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
