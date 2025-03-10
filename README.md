@@ -116,9 +116,9 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Deriving Muon.](https://jeremybernste.in/writing/deriving-muon) | Adam has been the leading optimizer in deep learning for years. However, recently, the community has discovered that Muon could be a promising alternative. It achieves many of the same results as muP without needing any changes to the model. This post outlines some of the theoretical reasons behind the optimizer.|
 |[Optimal Hyperparameter Scaling Law in Large Language Model Pretraining.](https://arxiv.org/abs/2503.04715) |Step Law is a comprehensive optimal hyperparameter scaling law that applies to various model structures, architectures, and data distributions. This allows predictions about how models are likely to perform before the training process even begins. |
 |[Time-Series Forecasting.](https://arxiv.org/abs/2503.02836v1) | SeqFusion is a framework that sequentially chooses and combines pre-trained models for zero-shot forecasting. In contrast to traditional methods, it reduces data usage to improve privacy while still delivering strong accuracy across various temporal patterns.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Distractor Aware SAM .](https://github.com/jovanavidenovic/DAM4SAM/) | Segment Anything (SAM) is a top-tier model for visual analysis and segmentation. However, it can struggle when two similar-looking objects appear in a video. This new approach addresses these "distractors" by incorporating extra memory augmentation and training.|
+|[Autoregressive Streaming Text-to-Speech Model for Any LLM.](https://github.com/mbzuai-oryx/LLMVoX) | A compact 30 million parameter model designed to enhance any language model, enabling it to comprehend and generate speech in response to general queries. Importantly, it doesn't require adjustments to the base model, making it easily transferable across different models.|
+|[Federated Learning for Neural Feedforward Control.](https://github.com/j-cap/FL-based-neural-FF-control) | This project presents a federated learning-based method for neural feedforward control, enabling multi-agent systems to enhance tracking performance while maintaining data privacy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
