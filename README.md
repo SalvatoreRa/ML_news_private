@@ -142,7 +142,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Are AI-generated video games really on the horizon?](https://www.theguardian.com/games/2025/mar/10/are-ai-generated-video-games-microsoft-muse-google-gamengen) | Microsoft and Google have both recently released new generative AI models that simulate video game worlds – with notable limitations. What can they do?|
 |[.]() | |
 |[.]() | |
 |[.]() | |
