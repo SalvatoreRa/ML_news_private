@@ -77,9 +77,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
-|[.]() | |
+|[Stability AI Secures Investment for AI-Driven Content.](https://stability.ai/news/stability-ai-announces-investment-from-wpp-and-new-partnership-to-shape-the-future-of-media-and-entertainment-production) | Stability AI has revealed a strategic collaboration and investment from WPP, with the goal of incorporating generative AI into advertising and media creation.|
+|[The US Army Is Using ‘CamoGPT' to Purge DEI From Training Materials.](https://www.wired.com/story/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/) |The US Army's TRADOC is utilizing an AI tool, CamoGPT, to detect and remove DEIA references from training materials in accordance with an executive order from President Trump. Developed by the Army's AI Integration Center, CamoGPT scans documents for certain keywords and has roughly 4,000 users. This initiative is part of a broader government effort to remove DEIA content, using AI to improve efficiency while aligning with national security goals. | 
+|[OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history.](https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/) |A high-profile ex-OpenAI policy researcher, Miles Brundage, took to social media on Wednesday to criticize OpenAI for “rewriting the history” of its deployment approach to potentially risky AI systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
