@@ -84,8 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft appears to be working on 3D gaming experiences for Copilot.](https://techcrunch.com/2025/03/10/microsoft-appears-to-be-working-on-3d-gaming-experiences-for-copilot/) |Microsoft appears to be working on 3D gaming experiences for Copilot, its AI-powered chatbot platform, according to a new job listing. |
 |[DeepSeek isn’t taking VC money yet — here are 3 reasons why.](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/) | DeepSeek's founder, Liang Wenfeng, is steering clear of external investments to maintain control, using profits from his hedge fund, High-Flyer, for funding. Despite its success, DeepSeek faces obstacles such as stringent Chinese data laws and chip import restrictions imposed by U.S. export controls. While the company has managed to avoid outside capital so far, there is a possibility of future investment as DeepSeek begins to shift towards monetization.|
 |[Smalldiffusion.](https://github.com/yuanchenyang/smalldiffusion) |A minimal, readable, and performant toolkit for training and sampling from diffusion models. |
-|[.]() | |
-|[.]() | |
+|[Musk may still have a chance to thwart OpenAI’s for-profit conversion.](https://techcrunch.com/2025/03/09/musk-may-still-have-a-chance-to-thwart-openais-for-profit-conversion/) |A federal judge denied Elon Musk's request to stop OpenAI's shift to a for-profit model, though the ruling raised concerns about the transition. An expedited trial is scheduled for 2025 to resolve disputes over the restructuring. OpenAI's move towards a for-profit model is facing regulatory scrutiny and possible challenges from legal and AI safety viewpoints. |
+|[Gmail's “Add to calendar” Feature Powered by Gemini.](https://workspaceupdates.googleblog.com/2025/03/add-events-to-google-calendar-using-gemini-in-gmail.html) |Google's Gemini in Gmail now identifies calendar-related content in emails and provides an "Add to calendar" button for easy scheduling. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
