@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CoreWeave signs $11.9 billion contract with OpenAI ahead of IPO.](https://www.investing.com/news/stock-market-news/coreweave-signs-119-billion-contract-with-openai-ahead-of-ipo-93CH-3918610) | CoreWeave has secured a five-year, $11.9 billion cloud computing agreement with OpenAI ahead of its IPO, with OpenAI set to acquire a stake in the Nvidia-supported AI startup.|
 |[Microsoft appears to be working on 3D gaming experiences for Copilot.](https://techcrunch.com/2025/03/10/microsoft-appears-to-be-working-on-3d-gaming-experiences-for-copilot/) |Microsoft appears to be working on 3D gaming experiences for Copilot, its AI-powered chatbot platform, according to a new job listing. |
 |[DeepSeek isn’t taking VC money yet — here are 3 reasons why.](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/) | DeepSeek's founder, Liang Wenfeng, is steering clear of external investments to maintain control, using profits from his hedge fund, High-Flyer, for funding. Despite its success, DeepSeek faces obstacles such as stringent Chinese data laws and chip import restrictions imposed by U.S. export controls. While the company has managed to avoid outside capital so far, there is a possibility of future investment as DeepSeek begins to shift towards monetization.|
-|[.]() | |
+|[Smalldiffusion.](https://github.com/yuanchenyang/smalldiffusion) |A minimal, readable, and performant toolkit for training and sampling from diffusion models. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,7 +122,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Gemini Embedding Model.](https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api) |The Gemini team has developed and released an outstanding embedding model for text. It leads in benchmark performance, is cost-effective, and offers excellent speed.|
 |[Token-Efficient Long Video Understanding for Multimodal LLMs.](https://research.nvidia.com/labs/lpr/storm/) |Most video understanding models process individual frames, which makes addressing temporal questions challenging. STORM, which leverages Mamba adapters, introduces temporal attention operations. This post compares it with Qwen models. |
 |[Video Painter.](https://yxbian23.github.io/project/video-painter) |A new video inpainting model, VideoPainter, effectively integrates background information, supports videos of any length, and utilizes a dedicated dataset and benchmark for training and evaluation. Its design goes beyond basic inpainting, offering potential for advanced video manipulation and the generation of related training data. |
-|[.]() | |
+|[Detecting misbehavior in frontier reasoning models.](https://openai.com/index/chain-of-thought-monitoring/) |This report from OpenAI discusses monitoring the chain of thought in advanced reasoning models. Frontier reasoning models take advantage of loopholes when possible. It demonstrates that an LLM can be used to detect these exploits in their chains of thought. Penalizing their "bad thoughts" doesn't eliminate most misbehavior—it simply causes the models to conceal their intentions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
