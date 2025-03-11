@@ -123,7 +123,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Token-Efficient Long Video Understanding for Multimodal LLMs.](https://research.nvidia.com/labs/lpr/storm/) |Most video understanding models process individual frames, which makes addressing temporal questions challenging. STORM, which leverages Mamba adapters, introduces temporal attention operations. This post compares it with Qwen models. |
 |[Video Painter.](https://yxbian23.github.io/project/video-painter) |A new video inpainting model, VideoPainter, effectively integrates background information, supports videos of any length, and utilizes a dedicated dataset and benchmark for training and evaluation. Its design goes beyond basic inpainting, offering potential for advanced video manipulation and the generation of related training data. |
 |[Detecting misbehavior in frontier reasoning models.](https://openai.com/index/chain-of-thought-monitoring/) |This report from OpenAI discusses monitoring the chain of thought in advanced reasoning models. Frontier reasoning models take advantage of loopholes when possible. It demonstrates that an LLM can be used to detect these exploits in their chains of thought. Penalizing their "bad thoughts" doesn't eliminate most misbehavior—it simply causes the models to conceal their intentions. |
-|[.]() | |
+|[Flying Safer: Obstacle Avoidance for Fast Drones.](https://github.com/ch9397/fixedwing-monoppo) |This repository includes the implementation of a lightweight deep reinforcement learning-based collision avoidance system for fixed-wing unmanned aerial vehicles (UAVs), using AirSim and JSBSim. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
