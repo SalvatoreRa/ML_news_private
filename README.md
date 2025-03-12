@@ -129,8 +129,8 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning.](https://weijiawu.github.io/MovieAgent/) |This system combines multiple generative modalities and employs persona-based prompting to promote consistency and accuracy. It then utilizes the Stable Diffusion video model to generate and assemble frames. This process could likely be enhanced with the use of Wan. |
 |[Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning.](https://arxiv.org/abs/2503.04812) |Building embedding models for vision and language tasks using a contrastive loss often causes these models to struggle with hard negative pairs. This work introduces a regularization strategy and reports significant improvement in challenging retrieval tasks. The method also scales effectively for zero-shot video retrieval. |
 |[YoloE: real-time open vocabulary detection.](https://github.com/THU-MIG/yoloe) |Small vision models can be prompted in various ways for open vocabulary detection. This allows the use of classes, images, and text to guide the model on what to detect. Notably, it operates at 300fps, making it suitable for real-time applications. |
-|[.]() | |
-|[.]() | |
+|[Perception efficient reconstruction.](https://github.com/hujiecpp/PE3R) |Another approach combines textual query capabilities with 3D reconstruction from images. This specific system utilizes a feed-forward model for fast reconstruction. |
+|[DeepMind's Image-Text Model.](https://github.com/google-deepmind/tips) | DeepMind has unveiled TIPS, an innovative image-text model designed for dense and global vision tasks. By combining contrastive learning with masked image modeling and leveraging synthetic captions, it demonstrates strong spatial awareness and surpasses existing methods in several benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
