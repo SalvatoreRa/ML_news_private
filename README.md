@@ -131,6 +131,18 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[YoloE: real-time open vocabulary detection.](https://github.com/THU-MIG/yoloe) |Small vision models can be prompted in various ways for open vocabulary detection. This allows the use of classes, images, and text to guide the model on what to detect. Notably, it operates at 300fps, making it suitable for real-time applications. |
 |[Perception efficient reconstruction.](https://github.com/hujiecpp/PE3R) |Another approach combines textual query capabilities with 3D reconstruction from images. This specific system utilizes a feed-forward model for fast reconstruction. |
 |[DeepMind's Image-Text Model.](https://github.com/google-deepmind/tips) | DeepMind has unveiled TIPS, an innovative image-text model designed for dense and global vision tasks. By combining contrastive learning with masked image modeling and leveraging synthetic captions, it demonstrates strong spatial awareness and surpasses existing methods in several benchmarks.|
+|[The TechCrunch AI glossary.](https://techcrunch.com/2025/03/02/the-techcrunch-ai-glossary/) | This article defines key AI terminology, such as "AI agents," chain-of-thought reasoning, deep learning, and large language models (LLMs). Deep learning is explained as a subset of machine learning inspired by neural pathways in the human brain, while LLMs are described as neural networks that power AI assistants like ChatGPT. The article also covers fine-tuning and the role of weights in optimizing AI models.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +156,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |---|---|
 |[Are AI-generated video games really on the horizon?](https://www.theguardian.com/games/2025/mar/10/are-ai-generated-video-games-microsoft-muse-google-gamengen) | Microsoft and Google have both recently released new generative AI models that simulate video game worlds – with notable limitations. What can they do?|
 |[It begins: Pentagon to give AI agents a role in decision making, ops planning.](https://www.theregister.com/2025/03/05/dod_taps_scale_to_bring/) |The US military has granted a major contract to Scale AI and its partners, including Anduril and Microsoft, to incorporate AI agents into military operations for decision-making in workflows. The Thunderforge project seeks to improve the speed and accuracy of strategic planning while ensuring human oversight. The Pentagon intends to eventually implement this AI system across all of its combatant commands. |
-|[.]() | |
+|[AI Market Summary & Conclusions .](https://klaothongchan.medium.com/ai-market-summary-conclusions-march-2-2025-4196a23a5a68) |The AI industry is advancing quickly, with OpenAI's GPT-4.5 concentrating on refinement, Google's Gemini 2.0 encountering adoption challenges, and China's DeepSeek and Kimi pushing the boundaries of cost-effective, specialized AI. Meta is expanding AI into wearables and robotics, while XAI's Grok 3 remains a niche contender. The AI race is intensifying as specialization and real-world integration become increasingly important, posing a challenge to established players like OpenAI and Google. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
