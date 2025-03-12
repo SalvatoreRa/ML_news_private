@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Visual RFT.](https://arxiv.org/abs/2503.01785) | One of the trends is the use of simple verifiable rewards and scaled reinforcement learning. This paper successfully applies that approach to vision-language models.|
 |[Stability AI hires Unity's Ryan Ellis as SVP, Head of Product.](https://stability.ai/news/introducing-our-new-svp-head-of-product-ryan-ellis) | Ryan Ellis, formerly with Unity, has joined Stability AI to lead product development, bringing his expertise in real-time 3D engines and AI-driven content creation.|
 |[Podcasting platform Podcastle launches a text-to-speech model with more than 450 AI voices.](https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/) |Podcastle has released Asyncflow v1.0, an AI text-to-speech model featuring more than 450 AI voices and affordable training options. |
-|[.]() | |
+|[Generalized discrete diffusion.](https://www.arxiv.org/abs/2503.04482) | This work expands diffusion on discrete data, like text, by introducing a generalized denoising process and a slightly enhanced masking scheme. This combination improves training efficiency and enables the model to correct its own output.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,7 +128,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Hugging Face Expanding LeRobot Platform.](https://huggingface.co/blog/lerobot-goes-to-driving-school) |Hugging Face and Yaak have released L2D, the largest open-source multimodal dataset for automotive AI. It features driving policies from both experts and students collected from driving schools, along with natural language instructions to improve spatial intelligence models. |
 |[MovieAgent: Automated Movie Generation via Multi-Agent CoT Planning.](https://weijiawu.github.io/MovieAgent/) |This system combines multiple generative modalities and employs persona-based prompting to promote consistency and accuracy. It then utilizes the Stable Diffusion video model to generate and assemble frames. This process could likely be enhanced with the use of Wan. |
 |[Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning.](https://arxiv.org/abs/2503.04812) |Building embedding models for vision and language tasks using a contrastive loss often causes these models to struggle with hard negative pairs. This work introduces a regularization strategy and reports significant improvement in challenging retrieval tasks. The method also scales effectively for zero-shot video retrieval. |
-|[.]() | |
+|[YoloE: real-time open vocabulary detection.](https://github.com/THU-MIG/yoloe) |Small vision models can be prompted in various ways for open vocabulary detection. This allows the use of classes, images, and text to guide the model on what to detect. Notably, it operates at 300fps, making it suitable for real-time applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
