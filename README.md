@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Smalldiffusion.](https://github.com/yuanchenyang/smalldiffusion) |A minimal, readable, and performant toolkit for training and sampling from diffusion models. |
 |[Musk may still have a chance to thwart OpenAI’s for-profit conversion.](https://techcrunch.com/2025/03/09/musk-may-still-have-a-chance-to-thwart-openais-for-profit-conversion/) |A federal judge denied Elon Musk's request to stop OpenAI's shift to a for-profit model, though the ruling raised concerns about the transition. An expedited trial is scheduled for 2025 to resolve disputes over the restructuring. OpenAI's move towards a for-profit model is facing regulatory scrutiny and possible challenges from legal and AI safety viewpoints. |
 |[Gmail's “Add to calendar” Feature Powered by Gemini.](https://workspaceupdates.googleblog.com/2025/03/add-events-to-google-calendar-using-gemini-in-gmail.html) |Google's Gemini in Gmail now identifies calendar-related content in emails and provides an "Add to calendar" button for easy scheduling. |
-|[.]() | |
+|[Spotify is trumpeting big paydays for artists – but only a tiny fraction of them are actually thrivin.](https://www.theguardian.com/music/2025/mar/12/spotify-is-trumpeting-big-paydays-for-artists-but-only-a-tiny-fraction-of-them-are-actually-thriving-loud-and-clear-report) | The company’s latest Loud & Clear report – a relatively transparent look into a closed-off industry – shows just how skewed financial success is in music|
 |[.]() | |
 |[.]() | |
 |[.]() | |
