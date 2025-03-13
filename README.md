@@ -139,11 +139,11 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Multimodal Motion Generation.](https://steve-zeyu-zhang.github.io/MotionAnything/) | Motion Anything improves conditional motion generation by introducing Attention-based Mask Modeling for better spatial and temporal control.|
 |[Dual-Stream Video Inpainting.](https://yxbian23.github.io/project/video-painter/) | VideoPainter introduces a dual-stream architecture for video inpainting, greatly simplifying learning complexity while enhancing background preservation and object generation. It also offers VPData and VPBench, the largest video inpainting dataset and benchmark to date.|
 |[PromptPex.](https://github.com/microsoft/promptpex) |PromptPex is a developer tool that treats prompts as functions and automatically generates test inputs, allowing for systematic unit testing of AI model prompts. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Inductive Moment Matching.](https://github.com/lumalabs/imm) |A well-executed unification and simplification of diffusion models for continuous data. They employ a new moment matching framework to develop a few-step generative model. |
+|[OpenR1 Update 3.](https://huggingface.co/blog/open-r1/update-3) |The Hugging Face team has announced the next update for its open replication of the DeepSeek reasoning model. It discovered that smaller models can outperform larger ones when fine-tuned specifically for competitive coding. |
+|[Rotate LoRA for Wan.](https://huggingface.co/Remade-AI/Rotate) | Wan is a generative image model that has recently been open sourced.|
+|[Flat Color LoRA.](https://huggingface.co/Remade-AI/Rotate) |Another LoRA for the Wan video model. |
+|[Small Reasoning Models with Two-Stage Rule-Based RL.](https://forjadeforest.github.io/LMM-R1-ProjectPage/) | By dividing the reasoning training process into two steps, this work demonstrates that small models can still generalize across tasks and even different modalities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
