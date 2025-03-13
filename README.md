@@ -161,8 +161,8 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[For more reliable AI, academics should edit Wikipedia.](https://www.nature.com/articles/d41586-025-00715-x) |Wikipedia, the “encyclopedia anyone can edit”, is a fundamental training and reference data set for large language models (LLMs) |
 |[Artificial intelligence speaks up.](https://www.science.org/doi/10.1126/science.adu1567) |An AI safety specialist confronts fears about the future of large language models |
 |[Cutting AI down to size.](https://www.science.org/content/article/what-s-tinyml-global-south-s-alternative-power-hungry-pricey-ai) |Many artificial intelligence models are power hungry and expensive. Researchers in the Global South are increasingly embracing low-cost, low-power alternatives |
-|[.]() | |
-|[.]() | |
+|[Evaluating animal consciousness.](https://www.science.org/doi/10.1126/science.adp4990) |An emerging field shows how animal feelings can be studied scientifically |
+|[High-performance computing at a crossroads.](https://www.science.org/doi/10.1126/science.adu0801) |Long-term plans and comprehensive vision are needed |
 |[.]() | |
 |[.]() | |
 |[.]() | |
