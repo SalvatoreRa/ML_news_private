@@ -132,8 +132,8 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Perception efficient reconstruction.](https://github.com/hujiecpp/PE3R) |Another approach combines textual query capabilities with 3D reconstruction from images. This specific system utilizes a feed-forward model for fast reconstruction. |
 |[DeepMind's Image-Text Model.](https://github.com/google-deepmind/tips) | DeepMind has unveiled TIPS, an innovative image-text model designed for dense and global vision tasks. By combining contrastive learning with masked image modeling and leveraging synthetic captions, it demonstrates strong spatial awareness and surpasses existing methods in several benchmarks.|
 |[The TechCrunch AI glossary.](https://techcrunch.com/2025/03/02/the-techcrunch-ai-glossary/) | This article defines key AI terminology, such as "AI agents," chain-of-thought reasoning, deep learning, and large language models (LLMs). Deep learning is explained as a subset of machine learning inspired by neural pathways in the human brain, while LLMs are described as neural networks that power AI assistants like ChatGPT. The article also covers fine-tuning and the role of weights in optimizing AI models.|
-|[.]() | |
-|[.]() | |
+|[Gemma 3: Google's new open weights model.](https://blog.google/technology/developers/gemma-3/) | Google has released the weights and a technical report for the Gemma 3 model. Available in four sizes, this model performs similarly to Gemini 1.5 Pro and has a robust understanding of over 140 languages. It appears to be close to the state-of-the-art in dense models.|
+|[Gemma 3 technical report.](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf) | the gemma 3 technical document|
 |[.]() | |
 |[.]() | |
 |[.]() | |
