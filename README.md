@@ -134,8 +134,8 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[The TechCrunch AI glossary.](https://techcrunch.com/2025/03/02/the-techcrunch-ai-glossary/) | This article defines key AI terminology, such as "AI agents," chain-of-thought reasoning, deep learning, and large language models (LLMs). Deep learning is explained as a subset of machine learning inspired by neural pathways in the human brain, while LLMs are described as neural networks that power AI assistants like ChatGPT. The article also covers fine-tuning and the role of weights in optimizing AI models.|
 |[Gemma 3: Google's new open weights model.](https://blog.google/technology/developers/gemma-3/) | Google has released the weights and a technical report for the Gemma 3 model. Available in four sizes, this model performs similarly to Gemini 1.5 Pro and has a robust understanding of over 140 languages. It appears to be close to the state-of-the-art in dense models.|
 |[Gemma 3 technical report.](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf) | the gemma 3 technical document|
-|[.]() | |
-|[.]() | |
+|[Predicting Future Features in Diffusion Models.](https://arxiv.org/abs/2503.06923v1) |TaylorSeer introduces a technique to predict future timestep features in diffusion models using Taylor series expansion, greatly minimizing errors in feature caching. |
+|[Super-Resolution with Token Aggregation.](https://arxiv.org/abs/2503.06896v1) |CATANet enhances image super-resolution by aggregating long-range content-similar tokens. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
