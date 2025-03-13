@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stability AI hires Unity's Ryan Ellis as SVP, Head of Product.](https://stability.ai/news/introducing-our-new-svp-head-of-product-ryan-ellis) | Ryan Ellis, formerly with Unity, has joined Stability AI to lead product development, bringing his expertise in real-time 3D engines and AI-driven content creation.|
 |[Podcasting platform Podcastle launches a text-to-speech model with more than 450 AI voices.](https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/) |Podcastle has released Asyncflow v1.0, an AI text-to-speech model featuring more than 450 AI voices and affordable training options. |
 |[Generalized discrete diffusion.](https://www.arxiv.org/abs/2503.04482) | This work expands diffusion on discrete data, like text, by introducing a generalized denoising process and a slightly enhanced masking scheme. This combination improves training efficiency and enables the model to correct its own output.|
-|[.]() | |
+|[Implicit Reasoning in Transformers is Reasoning through Shortcuts.](https://arxiv.org/abs/2503.07604) |This project examines how language models perform step-by-step implicit reasoning but face challenges with generalization, particularly when handling expressions that include variables as subtrahends. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,9 +136,9 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Gemma 3 technical report.](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf) | the gemma 3 technical document|
 |[Predicting Future Features in Diffusion Models.](https://arxiv.org/abs/2503.06923v1) |TaylorSeer introduces a technique to predict future timestep features in diffusion models using Taylor series expansion, greatly minimizing errors in feature caching. |
 |[Super-Resolution with Token Aggregation.](https://arxiv.org/abs/2503.06896v1) |CATANet enhances image super-resolution by aggregating long-range content-similar tokens. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Multimodal Motion Generation.](https://steve-zeyu-zhang.github.io/MotionAnything/) | Motion Anything improves conditional motion generation by introducing Attention-based Mask Modeling for better spatial and temporal control.|
+|[Dual-Stream Video Inpainting.](https://yxbian23.github.io/project/video-painter/) | VideoPainter introduces a dual-stream architecture for video inpainting, greatly simplifying learning complexity while enhancing background preservation and object generation. It also offers VPData and VPBench, the largest video inpainting dataset and benchmark to date.|
+|[PromptPex.](https://github.com/microsoft/promptpex) |PromptPex is a developer tool that treats prompts as functions and automatically generates test inputs, allowing for systematic unit testing of AI model prompts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
