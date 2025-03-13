@@ -159,8 +159,8 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[AI Market Summary & Conclusions .](https://klaothongchan.medium.com/ai-market-summary-conclusions-march-2-2025-4196a23a5a68) |The AI industry is advancing quickly, with OpenAI's GPT-4.5 concentrating on refinement, Google's Gemini 2.0 encountering adoption challenges, and China's DeepSeek and Kimi pushing the boundaries of cost-effective, specialized AI. Meta is expanding AI into wearables and robotics, while XAI's Grok 3 remains a niche contender. The AI race is intensifying as specialization and real-world integration become increasingly important, posing a challenge to established players like OpenAI and Google. |
 |[Why are proponents of ‘smart cities’ neglecting research?](https://www.nature.com/articles/d41586-025-00727-7) |Despite the buzz surrounding smart cities in urban-policy circles, studies are lacking on the evidence for what works, what doesn’t — and who benefits. |
 |[For more reliable AI, academics should edit Wikipedia.](https://www.nature.com/articles/d41586-025-00715-x) |Wikipedia, the “encyclopedia anyone can edit”, is a fundamental training and reference data set for large language models (LLMs) |
-|[.]() | |
-|[.]() | |
+|[Artificial intelligence speaks up.](https://www.science.org/doi/10.1126/science.adu1567) |An AI safety specialist confronts fears about the future of large language models |
+|[Cutting AI down to size.](https://www.science.org/content/article/what-s-tinyml-global-south-s-alternative-power-hungry-pricey-ai) |Many artificial intelligence models are power hungry and expensive. Researchers in the Global South are increasingly embracing low-cost, low-power alternatives |
 |[.]() | |
 |[.]() | |
 |[.]() | |
