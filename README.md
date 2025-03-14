@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What could Apple’s high court challenge mean for data protection?](https://www.theguardian.com/technology/2025/mar/14/what-could-apples-high-court-challenge-mean-for-data-protection) |The UK’s battle for access to encrypted services could define how companies are able to safeguard customer data in the future |
 |[OpenAI urges Trump administration to remove guardrails for the industry.](https://www.cnbc.com/2025/03/13/openai-lobbies-trump-admin-to-focus-ai-on-speed-light-regulation.html) | OpenAI is lobbying the Trump administration for minimal AI regulation, stressing the importance of rapid innovation while expressing concerns about AI competition from China. The company aims to influence the upcoming AI Action Plan being drafted by the government.|
 |[Token-Saving Updates for Anthropic API.](https://www.anthropic.com/news/token-saving-updates) |Anthropic has introduced token-efficient upgrades to its API, including cache-aware rate limits and improved prompt caching for Claude 3.7 Sonnet, cutting token usage by as much as 90%. |
-|[.]() | |
+|[Gemini gets personal, with tailored help from your Google apps.](https://blog.google/products/gemini/gemini-personalization/) |Google's Gemini now provides personalization through its experimental Gemini 2.0 Flash Thinking model. It integrates with your Google apps, starting with Search, to customize responses based on your previous searches. Future updates will expand personalization to include Photos and YouTube, improving AI assistance by better understanding user preferences. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -150,6 +150,11 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Rotate LoRA for Wan.](https://huggingface.co/Remade-AI/Rotate) | Wan is a generative image model that has recently been open sourced.|
 |[Flat Color LoRA.](https://huggingface.co/Remade-AI/Rotate) |Another LoRA for the Wan video model. |
 |[Small Reasoning Models with Two-Stage Rule-Based RL.](https://forjadeforest.github.io/LMM-R1-ProjectPage/) | By dividing the reasoning training process into two steps, this work demonstrates that small models can still generalize across tasks and even different modalities.|
+|[Cohere Command A Model .](https://cohere.com/blog/command-a) | Cohere has trained and released an open weights model with 111B parameters. It performs exceptionally well in agentic, multilingual, and coding tasks. Additionally, it has been specifically optimized for enterprise applications like retrieval.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
