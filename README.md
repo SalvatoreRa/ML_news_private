@@ -151,9 +151,9 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Flat Color LoRA.](https://huggingface.co/Remade-AI/Rotate) |Another LoRA for the Wan video model. |
 |[Small Reasoning Models with Two-Stage Rule-Based RL.](https://forjadeforest.github.io/LMM-R1-ProjectPage/) | By dividing the reasoning training process into two steps, this work demonstrates that small models can still generalize across tasks and even different modalities.|
 |[Cohere Command A Model .](https://cohere.com/blog/command-a) | Cohere has trained and released an open weights model with 111B parameters. It performs exceptionally well in agentic, multilingual, and coding tasks. Additionally, it has been specifically optimized for enterprise applications like retrieval.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Generate Motion for Arbitrary Characters.](https://kwanyun.github.io/AnyMoLe_page/) | AnyMoLe generates motion between frames for arbitrary characters using video diffusion models, removing the need for character-specific datasets.|
+|[Multimodal Representation Learning.](https://arxiv.org/abs/2503.08497v1) | MMRL improves few-shot adaptation of vision-language models by introducing a shared representation space, enhancing multi-modal interactions while preserving generalization.|
+|[Audio Flamingo 2.](https://github.com/NVIDIA/audio-flamingo) | A new state-of-the-art audio understanding model built on Qwen with almost entirely synthetic data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
