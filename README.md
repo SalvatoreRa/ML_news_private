@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI urges Trump administration to remove guardrails for the industry.](https://www.cnbc.com/2025/03/13/openai-lobbies-trump-admin-to-focus-ai-on-speed-light-regulation.html) | OpenAI is lobbying the Trump administration for minimal AI regulation, stressing the importance of rapid innovation while expressing concerns about AI competition from China. The company aims to influence the upcoming AI Action Plan being drafted by the government.|
 |[Token-Saving Updates for Anthropic API.](https://www.anthropic.com/news/token-saving-updates) |Anthropic has introduced token-efficient upgrades to its API, including cache-aware rate limits and improved prompt caching for Claude 3.7 Sonnet, cutting token usage by as much as 90%. |
 |[Gemini gets personal, with tailored help from your Google apps.](https://blog.google/products/gemini/gemini-personalization/) |Google's Gemini now provides personalization through its experimental Gemini 2.0 Flash Thinking model. It integrates with your Google apps, starting with Search, to customize responses based on your previous searches. Future updates will expand personalization to include Photos and YouTube, improving AI assistance by better understanding user preferences. |
-|[.]() | |
+|[Transforming Game Asset Creation With Genies' AIGC-Powered System .](https://genies.com/blog/transforming-game-asset-creation-with-genies-aigc-powered-system) |Game Art Forge has launched AI-generated templates to simplify game asset creation, boosting speed, scalability, and creative control for developers. It enables customization while preserving consistency and supports both indie developers and larger teams. By blending AI efficiency with human creativity, it ensures high-quality, flexible workflows for game development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,6 +154,11 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Generate Motion for Arbitrary Characters.](https://kwanyun.github.io/AnyMoLe_page/) | AnyMoLe generates motion between frames for arbitrary characters using video diffusion models, removing the need for character-specific datasets.|
 |[Multimodal Representation Learning.](https://arxiv.org/abs/2503.08497v1) | MMRL improves few-shot adaptation of vision-language models by introducing a shared representation space, enhancing multi-modal interactions while preserving generalization.|
 |[Audio Flamingo 2.](https://github.com/NVIDIA/audio-flamingo) | A new state-of-the-art audio understanding model built on Qwen with almost entirely synthetic data.|
+|[Agent S2: An Open, Modular, and Scalable Framework for Computer Use Agents.](https://github.com/simular-ai/Agent-S) | Agent S is a robust and open computer use system. It has achieved state-of-the-art performance in browsers, system operations, and even mobile tasks.|
+|[Unified Visual Decoding.](https://github.com/MacavityT/REF-VLM) |REF-VLM unifies visual decoding tasks in multimodal LLMs using a structured triplet-based representation. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
