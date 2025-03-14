@@ -98,6 +98,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Scientist's First Publication.](https://sakana.ai/ai-scientist-first-publication/) |The AI scientist from Sakana Labs has its first reviewed and accepted publication. It generated the idea, conducted experiments, and wrote a groundbreaking paper that was accepted to an ICLR workshop (with full consent from the conference organizers). |
 |[Release of technology secretary’s use of ChatGPT will have Whitehall sweating.](https://www.theguardian.com/politics/2025/mar/13/peter-kyle-technology-secretary-freedom-of-information-chatgpt) |Use of Freedom of Information Act to reveal Peter Kyle’s ChatGPT queries has shocked experts and left journalists wondering what to request next |
 |[What could Apple’s high court challenge mean for data protection?](https://www.theguardian.com/technology/2025/mar/14/what-could-apples-high-court-challenge-mean-for-data-protection) |The UK’s battle for access to encrypted services could define how companies are able to safeguard customer data in the future |
+|[OpenAI urges Trump administration to remove guardrails for the industry.](https://www.cnbc.com/2025/03/13/openai-lobbies-trump-admin-to-focus-ai-on-speed-light-regulation.html) | OpenAI is lobbying the Trump administration for minimal AI regulation, stressing the importance of rapid innovation while expressing concerns about AI competition from China. The company aims to influence the upcoming AI Action Plan being drafted by the government.|
+|[Token-Saving Updates for Anthropic API.](https://www.anthropic.com/news/token-saving-updates) |Anthropic has introduced token-efficient upgrades to its API, including cache-aware rate limits and improved prompt caching for Claude 3.7 Sonnet, cutting token usage by as much as 90%. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
