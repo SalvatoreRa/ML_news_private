@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple to appeal against UK government data demand at secret high court hearing.](https://www.theguardian.com/technology/2025/mar/12/apple-to-appeal-against-uk-government-data-demand-at-secret-high-court-hearing) | Guardian understands tech company’s appeal against Home Office request for encrypted data is to be heard by tribunal on Friday|
 |[Transforming Game Asset Creation With Genies' AIGC-Powered System - Genies.](https://genies.com/blog/transforming-game-asset-creation-with-genies-aigc-powered-system) | Game Art Forge introduces AI-generated templates to simplify game asset creation, boosting speed, scalability, and creative control for developers. It offers customization while preserving consistency and caters to both indie developers and larger teams. By merging AI efficiency with human creativity, it provides high-quality, flexible workflows for game development.|
 |[AI Scientist's First Publication.](https://sakana.ai/ai-scientist-first-publication/) |The AI scientist from Sakana Labs has its first reviewed and accepted publication. It generated the idea, conducted experiments, and wrote a groundbreaking paper that was accepted to an ICLR workshop (with full consent from the conference organizers). |
-|[.]() | |
-|[.]() | |
+|[Release of technology secretary’s use of ChatGPT will have Whitehall sweating.](https://www.theguardian.com/politics/2025/mar/13/peter-kyle-technology-secretary-freedom-of-information-chatgpt) |Use of Freedom of Information Act to reveal Peter Kyle’s ChatGPT queries has shocked experts and left journalists wondering what to request next |
+|[What could Apple’s high court challenge mean for data protection?](https://www.theguardian.com/technology/2025/mar/14/what-could-apples-high-court-challenge-mean-for-data-protection) |The UK’s battle for access to encrypted services could define how companies are able to safeguard customer data in the future |
 |[.]() | |
 |[.]() | |
 |[.]() | |
