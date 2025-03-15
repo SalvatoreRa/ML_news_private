@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI calls DeepSeek ‘state-controlled,’ calls for bans on ‘PRC-produced’ models.](https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/) |In a new policy proposal, OpenAI describes Chinese AI lab DeepSeek as “state-subsidized” and “state-controlled,” and recommends that the U.S. government consider banning models from the outfit and similar People’s Republic of China (PRC)-supported operations. |
 |[Google DeepMind unveils new AI models for controlling robots.](https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/) |Google DeepMind, Google’s AI research lab, on Wednesday announced new AI models called Gemini Robotics designed to enable real-world machines to interact with objects, navigate environments, and more. |
 |[Snapchat is rolling out AI-powered video lenses.](https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses) |Snapchat Platinum subscribers can now access AI-generated video lenses featuring animated foxes, raccoons, and flowers. |
-|[.]() | |
+|[Notable Tesla investor says he hopes Musk’s government role is ‘short-lived’.](https://www.theguardian.com/technology/2025/mar/15/christopher-tsai-elon-musk-tesla) | Christopher Tsai retains faith in carmaker’s earnings potential despite backlash that has seen its shares take a hit|
 |[.]() | |
 |[.]() | |
 |[.]() | |
