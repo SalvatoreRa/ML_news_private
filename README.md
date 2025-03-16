@@ -180,7 +180,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Evaluating animal consciousness.](https://www.science.org/doi/10.1126/science.adp4990) |An emerging field shows how animal feelings can be studied scientifically |
 |[High-performance computing at a crossroads.](https://www.science.org/doi/10.1126/science.adu0801) |Long-term plans and comprehensive vision are needed |
 |[‘It’s happening fast’ – creative workers and professionals share their fears and hopes about the rise of AI.](https://www.theguardian.com/technology/2025/mar/15/its-happening-fast-creative-workers-and-professionals-share-their-fears-and-hopes-about-the-rise-of-ai) | Photographers, translators, academics and GPs are among those whose jobs are either threatened or aided by the tech|
-|[.]() | |
+|[‘A computer’s joke, on us’: writers respond to the short story written by AI.](https://www.theguardian.com/books/2025/mar/14/writers-respond-story-written-by-ai-sam-altman-chat-gpt-tracy-chevalier-kamila-shamsie-david-baddiel) |Sam Altman, the OpenAI boss, has declared its new model ‘good at creative writing’. We asked writers including Tracy Chevalier, Kamila Shamsie and David Baddiel if they agree |
 |[.]() | |
 |[.]() | |
 |[.]() | |
