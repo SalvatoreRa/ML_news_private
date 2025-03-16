@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google DeepMind unveils new AI models for controlling robots.](https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/) |Google DeepMind, Google’s AI research lab, on Wednesday announced new AI models called Gemini Robotics designed to enable real-world machines to interact with objects, navigate environments, and more. |
 |[Snapchat is rolling out AI-powered video lenses.](https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses) |Snapchat Platinum subscribers can now access AI-generated video lenses featuring animated foxes, raccoons, and flowers. |
 |[Notable Tesla investor says he hopes Musk’s government role is ‘short-lived’.](https://www.theguardian.com/technology/2025/mar/15/christopher-tsai-elon-musk-tesla) | Christopher Tsai retains faith in carmaker’s earnings potential despite backlash that has seen its shares take a hit|
-|[.]() | |
+|[Eggings, swastikas and dog poop: Tesla bears brunt of people’s ire against Musk.](https://www.theguardian.com/technology/2025/mar/15/vandalized-tesla-elon-musk-trump) |In response to the billionaire’s scorched-earth raids on US government agencies, Tesla chargers and showrooms are being targeted |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -179,7 +179,7 @@ conversational voice.](https://www.sesame.com/research/crossing_the_uncanny_vall
 |[Cutting AI down to size.](https://www.science.org/content/article/what-s-tinyml-global-south-s-alternative-power-hungry-pricey-ai) |Many artificial intelligence models are power hungry and expensive. Researchers in the Global South are increasingly embracing low-cost, low-power alternatives |
 |[Evaluating animal consciousness.](https://www.science.org/doi/10.1126/science.adp4990) |An emerging field shows how animal feelings can be studied scientifically |
 |[High-performance computing at a crossroads.](https://www.science.org/doi/10.1126/science.adu0801) |Long-term plans and comprehensive vision are needed |
-|[.]() | |
+|[‘It’s happening fast’ – creative workers and professionals share their fears and hopes about the rise of AI.](https://www.theguardian.com/technology/2025/mar/15/its-happening-fast-creative-workers-and-professionals-share-their-fears-and-hopes-about-the-rise-of-ai) | Photographers, translators, academics and GPs are among those whose jobs are either threatened or aided by the tech|
 |[.]() | |
 |[.]() | |
 |[.]() | |
