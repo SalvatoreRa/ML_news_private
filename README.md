@@ -99,9 +99,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Gemma 3 Technical Report.](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf) | Gemma 3 is a lightweight open model family (1B–27B parameters) with multimodal capabilities, extended context length (up to 128K tokens), and multilingual support. It integrates a frozen SigLIP vision encoder, using a Pan & Scan method for better image processing and handling diverse aspect ratios. Its hybrid attention system reduces memory usage for long-context tasks. Advanced knowledge distillation and quantization (int4, switched-fp8) allow for efficient deployment on consumer GPUs and edge devices. Instruction tuning enhances performance in benchmarks like MMLU, coding, and chat, placing it among the top models. Supporting over 140 languages, it enables structured outputs and function calling for agentic workflows while ensuring safety and privacy through data filtering and reduced memorization.|
 |[A Survey on Post-training of Large Language Models.](https://arxiv.org/abs/2503.06072) |PoLMs like OpenAI-o1/o3 and DeepSeek-R1 address LLM weaknesses in reasoning, ethics, and specialized tasks. This survey examines their development, categorizing techniques in fine-tuning, alignment, reasoning, efficiency, and integration to advance more capable and adaptable AI. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Speaker Identification with Whisper.](https://arxiv.org/abs/2503.10446v1) | WSI repurposes the Whisper ASR encoder for multilingual speaker identification through joint loss optimization. It surpasses Pyannote, ECAPA TDNN, and Xvector in identifying speakers across various languages and environments.|
+|[Visual reasoning models.](https://github.com/groundlight/r1_vlm) |Toolkit for training VLMs to have improved grounding and reasoning capabilities. |
+|[Optimized workforce learning agent.](https://github.com/camel-ai/owl) |OWL is an agentic framework that appears both sensible and efficient. It enables easy composition and can even replicate functionality from some closed-source agents. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
