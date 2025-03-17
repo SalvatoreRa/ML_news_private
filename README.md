@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Assistant is Replaced by Gemini.](https://blog.google/products/gemini/google-assistant-gemini-mobile/) | Google Assistant is evolving into Gemini, a more personalized and AI-driven assistant designed to integrate with apps and services, utilizing generative AI.| 
 |[Google's Response to U.S. AI Policy.](https://blog.google/outreach-initiatives/public-policy/google-us-ai-action-plan-comments/) | Google has outlined its vision for U.S. AI policy, calling for investments in AI infrastructure, streamlined government adoption, and international pro-innovation standards to sustain leadership in the AI field.|
 |[Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that.](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/) | Japanese AI startup Sakana said that its AI generated one of the first peer-reviewed scientific publications. But while the claim isn’t necessarily untrue, there are caveats to note.|
-|[.]() | |
-|[.]() | |
+|[No part of Amazon is ‘unaffected’ by AI, says its head of AGI.](https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/) | Amazon's VP of Artificial General Intelligence, Vishal Sharma, has confirmed the integration of AI across AWS, robotics, and Alexa, emphasizing the company's wide-ranging AI deployment.|
+|[PANORAMA Challenge for Cancer Detection.](https://panorama.grand-challenge.org/) |The PANORAMA study is an international initiative evaluating AI models and radiologists in detecting pancreatic cancer in CECT scans. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[AI firms follow DeepSeek's lead, create cheaper models with “distillation”.](https://arstechnica.com/ai/2025/03/ai-firms-follow-deepseeks-lead-create-cheaper-models-with-distillation/) | Leading AI firms like OpenAI, Microsoft, and Meta are using "distillation" to create more cost-effective models by training smaller systems with a "teacher" LLM.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
