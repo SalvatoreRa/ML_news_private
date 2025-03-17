@@ -71,7 +71,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[‘Deeply uncomfortable’: UK Starlink users switch off over Musk’s political machinations.](https://www.theguardian.com/technology/2025/mar/16/deeply-uncomfortable-uk-starlink-users-switch-off-over-musks-political-machinations) |Numbers using satellite broadband system has been growing but users are having second thoughts due to Musk’s role in Donald Trump’s administration |
 |[.]() | | 
 |[.]() | |
 |[.]() | |
