@@ -72,8 +72,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[‘Deeply uncomfortable’: UK Starlink users switch off over Musk’s political machinations.](https://www.theguardian.com/technology/2025/mar/16/deeply-uncomfortable-uk-starlink-users-switch-off-over-musks-political-machinations) |Numbers using satellite broadband system has been growing but users are having second thoughts due to Musk’s role in Donald Trump’s administration |
-|[.]() | | 
-|[.]() | |
+|[Google Assistant is Replaced by Gemini.](https://blog.google/products/gemini/google-assistant-gemini-mobile/) | Google Assistant is evolving into Gemini, a more personalized and AI-driven assistant designed to integrate with apps and services, utilizing generative AI.| 
+|[Google's Response to U.S. AI Policy.](https://blog.google/outreach-initiatives/public-policy/google-us-ai-action-plan-comments/) | Google has outlined its vision for U.S. AI policy, calling for investments in AI infrastructure, streamlined government adoption, and international pro-innovation standards to sustain leadership in the AI field.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
