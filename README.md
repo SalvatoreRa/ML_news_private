@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Retrieval-Augmented Generation with Hierarchical Knowledge (HiRAG).](https://github.com/hhy-huang/HiRAG) |HiRAG introduces a hierarchical knowledge-based approach to Retrieval-Augmented Generation (RAG), enhancing semantic understanding and indexing for domain-specific tasks. |
 |[‘Open’ AI model licenses often carry concerning restrictions.](https://techcrunch.com/2025/03/14/open-ai-model-licenses-often-carry-concerning-restrictions/) |Many AI models labeled as "open" come with restrictive licensing terms. Google's new Gemma 3 models and similar releases from Meta raise concerns about commercial limitations, which could affect smaller companies that depend on these technologies. |
 |[https://arxiv.org/abs/2503.11061v2.](https://arxiv.org/abs/2503.11061v2) |Funsearch is a new LLM-driven genetic algorithm designed to help mathematicians tackle combinatorial and number-theoretic problems without needing machine learning expertise. |
-|[.]() | |
+|[TxAgent: An AI agent for therapeutic reasoning across a universe of tools.](https://zitniklab.hms.harvard.edu/TxAgent/) |TxAgent is an AI-driven system that assesses drug interactions, contraindications, and patient-specific data to create adaptive treatment plans. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
