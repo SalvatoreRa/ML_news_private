@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[No part of Amazon is ‘unaffected’ by AI, says its head of AGI.](https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/) | Amazon's VP of Artificial General Intelligence, Vishal Sharma, has confirmed the integration of AI across AWS, robotics, and Alexa, emphasizing the company's wide-ranging AI deployment.|
 |[PANORAMA Challenge for Cancer Detection.](https://panorama.grand-challenge.org/) |The PANORAMA study is an international initiative evaluating AI models and radiologists in detecting pancreatic cancer in CECT scans. |
 |[Performing arts leaders issue copyright warning over UK government’s AI plans.](https://www.theguardian.com/culture/2025/mar/18/performing-arts-leaders-issue-copyright-warning-over-uk-governments-ai-plans) |In a statement, 35 signatories from dance, theatre and music industries express concern about ‘fragile ecosystem’ |
-|[.]() | |
-|[.]() | |
+|[The court rejects Elon’s latest attempt to slow OpenAI down.](https://openai.com/index/court-rejects-elon/) |A court dismissed key claims in Elon Musk's lawsuit against OpenAI, rejecting his preliminary injunction request. |
+|[UiPath looks for a path to growth with Peak agentic AI acquisition.](https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/) |UiPath has acquired Peak.ai to strengthen its AI and automation services, particularly in retail and manufacturing. Despite recent revenue struggles and a downgraded forecast, UiPath aims to leverage Peak's decision-making AI to enhance cross-selling and expand market share. The acquisition signals a strategic shift toward deeper AI integration within UiPath's existing offerings. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
