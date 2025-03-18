@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scaling Laws for DiLoCo.](https://arxiv.org/abs/2503.09799) |DeepMind has published a paper outlining scaling laws for the powerful cross-data center training algorithm DiLoCo. These laws demonstrate how stable model training can be maintained, even when gradients are synchronized across continents. |
 |[Retrieval-Augmented Generation with Hierarchical Knowledge (HiRAG).](https://github.com/hhy-huang/HiRAG) |HiRAG introduces a hierarchical knowledge-based approach to Retrieval-Augmented Generation (RAG), enhancing semantic understanding and indexing for domain-specific tasks. |
 |[‘Open’ AI model licenses often carry concerning restrictions.](https://techcrunch.com/2025/03/14/open-ai-model-licenses-often-carry-concerning-restrictions/) |Many AI models labeled as "open" come with restrictive licensing terms. Google's new Gemma 3 models and similar releases from Meta raise concerns about commercial limitations, which could affect smaller companies that depend on these technologies. |
-|[.]() | |
+|[https://arxiv.org/abs/2503.11061v2.](https://arxiv.org/abs/2503.11061v2) |Funsearch is a new LLM-driven genetic algorithm designed to help mathematicians tackle combinatorial and number-theoretic problems without needing machine learning expertise. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,7 +105,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Luma's new pre-training method for multi-modal models.](https://lumalabs.ai/news/inductive-moment-matching) | Luma Chief Scientist Jiaming Song, who developed the first accelerated algorithm for diffusion models, has introduced Inductive Moment Matching (IMM)—a new multi-modal pre-training method that outperforms diffusion models, offering superior sample quality and 10x greater efficiency.|
 |[ThunderKittens on Blackwell.](https://hazyresearch.stanford.edu/blog/2025-03-15-tk-blackwell) | ThunderKittens is a robust and straightforward abstraction for writing efficient, high-performance CUDA kernels. This post examines how to use the framework with Nvidia's latest Blackwell series of GPUs. The key difference lies in thinking in terms of data flow.|
 |[Mistral Small 3.1.](https://mistral.ai/news/mistral-small-3-1) |Built on Mistral Small 3, this new model features enhanced text performance, improved multimodal understanding, and an expanded context window of up to 128k tokens. It surpasses comparable models like Gemma 3 and GPT-4o Mini while achieving inference speeds of 150 tokens per second. |
-|[.]() | |
+|[SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation.](https://arxiv.org/abs/2503.09641) | Nvidia has introduced SANA-sprint, a faster version of its SANA image generation model. This model delivers remarkably fast image generation while preserving quality. The team employs a novel distillation method based on consistency distillation. A key challenge in this area remains ensuring that these consistency models remain easy to fine-tune.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
