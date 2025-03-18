@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The court rejects Elon’s latest attempt to slow OpenAI down.](https://openai.com/index/court-rejects-elon/) |A court dismissed key claims in Elon Musk's lawsuit against OpenAI, rejecting his preliminary injunction request. |
 |[UiPath looks for a path to growth with Peak agentic AI acquisition.](https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/) |UiPath has acquired Peak.ai to strengthen its AI and automation services, particularly in retail and manufacturing. Despite recent revenue struggles and a downgraded forecast, UiPath aims to leverage Peak's decision-making AI to enhance cross-selling and expand market share. The acquisition signals a strategic shift toward deeper AI integration within UiPath's existing offerings. |
 |[People are using Google’s new AI model to remove watermarks from images.](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) | Users on social media have discovered a controversial use case for Google’s new Gemini AI model: removing watermarks from images, including from images published by Getty Images and other well-known stock media outfits.|
-|[.]() | |
+|[Yet another AI robotics firm lands major funding, as Dexterity closes latest round.](https://techcrunch.com/2025/03/11/yet-another-ai-robotics-firm-lands-major-funding-as-dexterity-closes-latest-round/) | The intersection of robotics and AI continues to attract attention from investors and Big Tech alike. The latest indicator? Dexterity, a startup specializing in industrial robots with “human-like” finesse, has raised $95 million at a post-money valuation of $1.65 billion, per Bloomberg.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AI firms follow DeepSeek's lead, create cheaper models with “distillation”.](https://arstechnica.com/ai/2025/03/ai-firms-follow-deepseeks-lead-create-cheaper-models-with-distillation/) | Leading AI firms like OpenAI, Microsoft, and Meta are using "distillation" to create more cost-effective models by training smaller systems with a "teacher" LLM.|
-|[.]() | |
+|[Paths and waystations in AI safety.](https://joecarlsmith.com/2025/03/11/paths-and-waystations-in-ai-safety) | This essay presents a framework for tackling the AI alignment problem by differentiating between technical parameters ("problem profile") and civilization's capacity to respond ("competence profile"). It highlights three key "security factors": safety progress, risk evaluation, and capability restraint. The discussion explores leveraging future AI labor to strengthen these factors and outlines strategic milestones for advancing AI safety.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
