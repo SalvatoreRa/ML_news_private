@@ -77,7 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that.](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/) | Japanese AI startup Sakana said that its AI generated one of the first peer-reviewed scientific publications. But while the claim isn’t necessarily untrue, there are caveats to note.|
 |[No part of Amazon is ‘unaffected’ by AI, says its head of AGI.](https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/) | Amazon's VP of Artificial General Intelligence, Vishal Sharma, has confirmed the integration of AI across AWS, robotics, and Alexa, emphasizing the company's wide-ranging AI deployment.|
 |[PANORAMA Challenge for Cancer Detection.](https://panorama.grand-challenge.org/) |The PANORAMA study is an international initiative evaluating AI models and radiologists in detecting pancreatic cancer in CECT scans. |
-|[.]() | |
+|[Performing arts leaders issue copyright warning over UK government’s AI plans.](https://www.theguardian.com/culture/2025/mar/18/performing-arts-leaders-issue-copyright-warning-over-uk-governments-ai-plans) |In a statement, 35 signatories from dance, theatre and music industries express concern about ‘fragile ecosystem’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
