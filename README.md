@@ -104,7 +104,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Optimized workforce learning agent.](https://github.com/camel-ai/owl) |OWL is an agentic framework that appears both sensible and efficient. It enables easy composition and can even replicate functionality from some closed-source agents. |
 |[Luma's new pre-training method for multi-modal models.](https://lumalabs.ai/news/inductive-moment-matching) | Luma Chief Scientist Jiaming Song, who developed the first accelerated algorithm for diffusion models, has introduced Inductive Moment Matching (IMM)—a new multi-modal pre-training method that outperforms diffusion models, offering superior sample quality and 10x greater efficiency.|
 |[ThunderKittens on Blackwell.](https://hazyresearch.stanford.edu/blog/2025-03-15-tk-blackwell) | ThunderKittens is a robust and straightforward abstraction for writing efficient, high-performance CUDA kernels. This post examines how to use the framework with Nvidia's latest Blackwell series of GPUs. The key difference lies in thinking in terms of data flow.|
-|[.]() | |
+|[Mistral Small 3.1.](https://mistral.ai/news/mistral-small-3-1) |Built on Mistral Small 3, this new model features enhanced text performance, improved multimodal understanding, and an expanded context window of up to 128k tokens. It surpasses comparable models like Gemma 3 and GPT-4o Mini while achieving inference speeds of 150 tokens per second. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
