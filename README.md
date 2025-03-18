@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Performing arts leaders issue copyright warning over UK government’s AI plans.](https://www.theguardian.com/culture/2025/mar/18/performing-arts-leaders-issue-copyright-warning-over-uk-governments-ai-plans) |In a statement, 35 signatories from dance, theatre and music industries express concern about ‘fragile ecosystem’ |
 |[The court rejects Elon’s latest attempt to slow OpenAI down.](https://openai.com/index/court-rejects-elon/) |A court dismissed key claims in Elon Musk's lawsuit against OpenAI, rejecting his preliminary injunction request. |
 |[UiPath looks for a path to growth with Peak agentic AI acquisition.](https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/) |UiPath has acquired Peak.ai to strengthen its AI and automation services, particularly in retail and manufacturing. Despite recent revenue struggles and a downgraded forecast, UiPath aims to leverage Peak's decision-making AI to enhance cross-selling and expand market share. The acquisition signals a strategic shift toward deeper AI integration within UiPath's existing offerings. |
-|[.]() | |
+|[People are using Google’s new AI model to remove watermarks from images.](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) | Users on social media have discovered a controversial use case for Google’s new Gemini AI model: removing watermarks from images, including from images published by Getty Images and other well-known stock media outfits.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding.](https://arxiv.org/abs/2503.10621v1) | DriveLMM-o1 presents a dataset and benchmark for stepwise visual reasoning in autonomous driving, enhancing AI-driven decision-making and reasoning accuracy in driving scenarios.|
 |[CSM speech model on MLX.](https://github.com/senstella/csm-mlx) | Sesame recently released a 1B model for conversational speech generation. This repository provides an Apple-native MLX version optimized for fast performance on most MacBooks.|
 |[MMS-LLaMA: A Speech-Focused Multimodal LLM.](https://github.com/JeongHun0716/MMS-LLaMA) |MMS-LLaMA is an efficient multimodal speech LLM framework for automatic visual speech recognition (AVSR), reducing token length while maintaining linguistic content integrity. |
-|[.]() | |
+|[Open-Source Handwritten Signature Detection Model.](https://huggingface.co/blog/samuellimabraz/signature-detection-model) | A comprehensive post that explores the performance of every model on Hugging Face for handwriting classification/signature detection.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
