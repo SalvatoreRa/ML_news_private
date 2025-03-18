@@ -106,9 +106,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ThunderKittens on Blackwell.](https://hazyresearch.stanford.edu/blog/2025-03-15-tk-blackwell) | ThunderKittens is a robust and straightforward abstraction for writing efficient, high-performance CUDA kernels. This post examines how to use the framework with Nvidia's latest Blackwell series of GPUs. The key difference lies in thinking in terms of data flow.|
 |[Mistral Small 3.1.](https://mistral.ai/news/mistral-small-3-1) |Built on Mistral Small 3, this new model features enhanced text performance, improved multimodal understanding, and an expanded context window of up to 128k tokens. It surpasses comparable models like Gemma 3 and GPT-4o Mini while achieving inference speeds of 150 tokens per second. |
 |[SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation.](https://arxiv.org/abs/2503.09641) | Nvidia has introduced SANA-sprint, a faster version of its SANA image generation model. This model delivers remarkably fast image generation while preserving quality. The team employs a novel distillation method based on consistency distillation. A key challenge in this area remains ensuring that these consistency models remain easy to fine-tune.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding.](https://arxiv.org/abs/2503.10621v1) | DriveLMM-o1 presents a dataset and benchmark for stepwise visual reasoning in autonomous driving, enhancing AI-driven decision-making and reasoning accuracy in driving scenarios.|
+|[CSM speech model on MLX.](https://github.com/senstella/csm-mlx) | Sesame recently released a 1B model for conversational speech generation. This repository provides an Apple-native MLX version optimized for fast performance on most MacBooks.|
+|[MMS-LLaMA: A Speech-Focused Multimodal LLM.](https://github.com/JeongHun0716/MMS-LLaMA) |MMS-LLaMA is an efficient multimodal speech LLM framework for automatic visual speech recognition (AVSR), reducing token length while maintaining linguistic content integrity. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
