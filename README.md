@@ -86,6 +86,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google’s parent to buy cybersecurity group Wiz in its biggest ever deal.](https://www.theguardian.com/technology/2025/mar/18/google-parent-alphabet-buy-cybersecurity-wiz-israeli-startup) |Alphabet’s acquisition of Israeli startup for $32bn follows rejection of takeover bid last summer |
 |[Italian newspaper says it has published world’s first AI-generated edition.](https://www.theguardian.com/technology/2025/mar/18/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition) |Il Foglio says artificial intelligence used ‘for everything – the writing, the headlines, the quotes … even the irony’ |
 |[Google updates Gemini app.](https://blog.google/products/gemini/gemini-collaboration-features) |Google has introduced several key features to its Gemini app and web browser, including Canvas, Audio Overview, and a coding assistant. |
+|[AI search is starting to kill Google’s ‘ten blue links’.](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai) |Adobe reported a 1,300% increase in AI search referrals for retailers during the 2024 holiday season, signaling a shift away from traditional search engines. Engagement metrics show AI search users stay longer and have lower bounce rates compared to traditional referrals. Despite early challenges, AI search is gaining momentum, with significant consumer adoption for shopping and research. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MMS-LLaMA: A Speech-Focused Multimodal LLM.](https://github.com/JeongHun0716/MMS-LLaMA) |MMS-LLaMA is an efficient multimodal speech LLM framework for automatic visual speech recognition (AVSR), reducing token length while maintaining linguistic content integrity. |
 |[Open-Source Handwritten Signature Detection Model.](https://huggingface.co/blog/samuellimabraz/signature-detection-model) | A comprehensive post that explores the performance of every model on Hugging Face for handwriting classification/signature detection.|
 |[Roblox Open-Sources Its Generative 3D Model.](https://corp.roblox.com/newsroom/2025/03/introducing-roblox-cube) |Roblox has unveiled Cube, a generative AI system for 3D and 4D model generation. A beta version of Cube's 3D mesh generation will be integrated into Roblox Studio and made available as a Lua API. |
-|[.]() | |
+|[SmolDocling.](https://arxiv.org/abs/2503.11576) |A new, ultra-compact state-of-the-art model for document OCR runs exceptionally fast while maintaining sufficient accuracy for various document processing tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
