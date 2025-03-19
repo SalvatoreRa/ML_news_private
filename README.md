@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Italian newspaper says it has published world’s first AI-generated edition.](https://www.theguardian.com/technology/2025/mar/18/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition) |Il Foglio says artificial intelligence used ‘for everything – the writing, the headlines, the quotes … even the irony’ |
 |[Google updates Gemini app.](https://blog.google/products/gemini/gemini-collaboration-features) |Google has introduced several key features to its Gemini app and web browser, including Canvas, Audio Overview, and a coding assistant. |
 |[AI search is starting to kill Google’s ‘ten blue links’.](https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai) |Adobe reported a 1,300% increase in AI search referrals for retailers during the 2024 holiday season, signaling a shift away from traditional search engines. Engagement metrics show AI search users stay longer and have lower bounce rates compared to traditional referrals. Despite early challenges, AI search is gaining momentum, with significant consumer adoption for shopping and research. |
-|[.]() | |
-|[.]() | |
+|[Zero-Shot Steering for 3D/4D Scene Generation.](https://byeongjun-park.github.io/SteerX) |SteerX has introduced a zero-shot inference-time approach to enhance geometric alignment in 3D/4D scene generation, utilizing pose-free feed-forward reconstruction models and geometric reward functions. |
+|[MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling.](https://github.com/hustvl/MaTVLM) | MaTVLM is a hybrid vision-language model that incorporates Mamba-2 layers into a pre-trained VLM, enhancing convergence speed and overall performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
