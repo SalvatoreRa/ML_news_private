@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’.](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) |Mark Cuban shared his thoughts on how AI technology can help small businesses outperform their competition. In short, he told the crowd that AI was not the answer, in and of itself; it’s meant to serve as an aid that can help entrepreneurs by making it easier to get started growing their businesses and answering questions along the way. |
 |[Google’s parent to buy cybersecurity group Wiz in its biggest ever deal.](https://www.theguardian.com/technology/2025/mar/18/google-parent-alphabet-buy-cybersecurity-wiz-israeli-startup) |Alphabet’s acquisition of Israeli startup for $32bn follows rejection of takeover bid last summer |
 |[Italian newspaper says it has published world’s first AI-generated edition.](https://www.theguardian.com/technology/2025/mar/18/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition) |Il Foglio says artificial intelligence used ‘for everything – the writing, the headlines, the quotes … even the irony’ |
-|[.]() | |
+|[Google updates Gemini app.](https://blog.google/products/gemini/gemini-collaboration-features) |Google has introduced several key features to its Gemini app and web browser, including Canvas, Audio Overview, and a coding assistant. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CSM speech model on MLX.](https://github.com/senstella/csm-mlx) | Sesame recently released a 1B model for conversational speech generation. This repository provides an Apple-native MLX version optimized for fast performance on most MacBooks.|
 |[MMS-LLaMA: A Speech-Focused Multimodal LLM.](https://github.com/JeongHun0716/MMS-LLaMA) |MMS-LLaMA is an efficient multimodal speech LLM framework for automatic visual speech recognition (AVSR), reducing token length while maintaining linguistic content integrity. |
 |[Open-Source Handwritten Signature Detection Model.](https://huggingface.co/blog/samuellimabraz/signature-detection-model) | A comprehensive post that explores the performance of every model on Hugging Face for handwriting classification/signature detection.|
-|[.]() | |
+|[Roblox Open-Sources Its Generative 3D Model.](https://corp.roblox.com/newsroom/2025/03/introducing-roblox-cube) |Roblox has unveiled Cube, a generative AI system for 3D and 4D model generation. A beta version of Cube's 3D mesh generation will be integrated into Roblox Studio and made available as a Lua API. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
