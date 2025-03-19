@@ -83,8 +83,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[People are using Google’s new AI model to remove watermarks from images.](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) | Users on social media have discovered a controversial use case for Google’s new Gemini AI model: removing watermarks from images, including from images published by Getty Images and other well-known stock media outfits.|
 |[Yet another AI robotics firm lands major funding, as Dexterity closes latest round.](https://techcrunch.com/2025/03/11/yet-another-ai-robotics-firm-lands-major-funding-as-dexterity-closes-latest-round/) | The intersection of robotics and AI continues to attract attention from investors and Big Tech alike. The latest indicator? Dexterity, a startup specializing in industrial robots with “human-like” finesse, has raised $95 million at a post-money valuation of $1.65 billion, per Bloomberg.|
 |[Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’.](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/) |Mark Cuban shared his thoughts on how AI technology can help small businesses outperform their competition. In short, he told the crowd that AI was not the answer, in and of itself; it’s meant to serve as an aid that can help entrepreneurs by making it easier to get started growing their businesses and answering questions along the way. |
-|[.]() | |
-|[.]() | |
+|[Google’s parent to buy cybersecurity group Wiz in its biggest ever deal.](https://www.theguardian.com/technology/2025/mar/18/google-parent-alphabet-buy-cybersecurity-wiz-israeli-startup) |Alphabet’s acquisition of Israeli startup for $32bn follows rejection of takeover bid last summer |
+|[Italian newspaper says it has published world’s first AI-generated edition.](https://www.theguardian.com/technology/2025/mar/18/italian-newspaper-says-it-has-published-worlds-first-ai-generated-edition) |Il Foglio says artificial intelligence used ‘for everything – the writing, the headlines, the quotes … even the irony’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
