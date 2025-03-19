@@ -118,6 +118,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open-Source Handwritten Signature Detection Model.](https://huggingface.co/blog/samuellimabraz/signature-detection-model) | A comprehensive post that explores the performance of every model on Hugging Face for handwriting classification/signature detection.|
 |[Roblox Open-Sources Its Generative 3D Model.](https://corp.roblox.com/newsroom/2025/03/introducing-roblox-cube) |Roblox has unveiled Cube, a generative AI system for 3D and 4D model generation. A beta version of Cube's 3D mesh generation will be integrated into Roblox Studio and made available as a Lua API. |
 |[SmolDocling.](https://arxiv.org/abs/2503.11576) |A new, ultra-compact state-of-the-art model for document OCR runs exceptionally fast while maintaining sufficient accuracy for various document processing tasks. |
+|[reWordBench.](https://arxiv.org/abs/2503.11751) |This work demonstrates that many popular reward models are fragile to simple rewording of prompts. It introduces a benchmark and proposes a strategy to improve their robustness. |
+|[Single-View 3D Scene Reconstruction.](https://ai-kunkun.github.io/Niagara_page/) |Niagara introduces an innovative framework for reconstructing outdoor 3D scenes from a single image, leveraging depth and normal estimation alongside a geometric affine field and 3D Gaussian decoding. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
