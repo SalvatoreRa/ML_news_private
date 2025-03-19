@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[reWordBench.](https://arxiv.org/abs/2503.11751) |This work demonstrates that many popular reward models are fragile to simple rewording of prompts. It introduces a benchmark and proposes a strategy to improve their robustness. |
 |[Single-View 3D Scene Reconstruction.](https://ai-kunkun.github.io/Niagara_page/) |Niagara introduces an innovative framework for reconstructing outdoor 3D scenes from a single image, leveraging depth and normal estimation alongside a geometric affine field and 3D Gaussian decoding. |
 |[Stable virtual camera.](https://github.com/Stability-AI/stable-virtual-camera) | Stability AI has launched an impressive multiview camera system for novel view synthesis. While not entirely state-of-the-art, it is powerful, non-commercial, and runs efficiently in just two forward passes.|
-|[.]() | |
-|[.]() | |
+|[Personalize Anything.](https://fenghora.github.io/Personalize-Anything-Page/) |You can personalize almost any image without additional fine-tuning or training by using token replacement in a Diffusion Transformer. |
+|[TrainXGB - Train XGBoost in Browser.](https://www.xgblog.ai/p/trainxgb-train-xgboost-in-browser) |This blog post describes how to build a browser based training system accelerated by WASM.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
