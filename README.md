@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling.](https://github.com/hustvl/MaTVLM) | MaTVLM is a hybrid vision-language model that incorporates Mamba-2 layers into a pre-trained VLM, enhancing convergence speed and overall performance.|
 |[Google's new robot AI can fold delicate origami, close zipper bags without damage.](https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/) | Google DeepMind has introduced Gemini Robotics and Gemini Robotics-ER, AI models designed to enhance robots' fine motor skills and adaptability for real-world tasks. Gemini Robotics combines vision, language, and action capabilities, enabling robots to perform intricate tasks like origami folding. Early results show notable improvements in generalization and dexterity compared to previous models, with Google collaborating with Apptronik and other partners for further development.|
 |[Google and NVIDIA Expand AI Collaboration.](https://blog.google/technology/ai/google-nvidia-gtc-ai) | Google announced an expanded partnership with NVIDIA at NVIDIA GTC, aiming to enhance AI infrastructure, optimize hardware, and advance applications in areas such as healthcare, energy, and robotics.|
-|[.]() | |
+|[Google playing AI search catchup, and forming relationships with chatbots.](https://www.technologyreview.com/2025/03/17/1113264/the-download-google-playing-ai-search-catchup-and-forming-relationships-with-chatbots/) | Google is adding new AI features from Gemini to its search but this is seen as playing catch-up to OpenAI's ChatGPT.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI firms follow DeepSeek's lead, create cheaper models with “distillation”.](https://arstechnica.com/ai/2025/03/ai-firms-follow-deepseeks-lead-create-cheaper-models-with-distillation/) | Leading AI firms like OpenAI, Microsoft, and Meta are using "distillation" to create more cost-effective models by training smaller systems with a "teacher" LLM.|
 |[Paths and waystations in AI safety.](https://joecarlsmith.com/2025/03/11/paths-and-waystations-in-ai-safety) | This essay presents a framework for tackling the AI alignment problem by differentiating between technical parameters ("problem profile") and civilization's capacity to respond ("competence profile"). It highlights three key "security factors": safety progress, risk evaluation, and capability restraint. The discussion explores leveraging future AI labor to strengthen these factors and outlines strategic milestones for advancing AI safety.|
-|[.]() | |
+|[Nvidia won the AI race, but inference is still anyone's game.](https://www.theregister.com/2025/03/12/training_inference_shift/) | Nvidia currently dominates AI training, but the inference market remains open to competition.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
