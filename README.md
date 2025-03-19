@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SmolDocling.](https://arxiv.org/abs/2503.11576) |A new, ultra-compact state-of-the-art model for document OCR runs exceptionally fast while maintaining sufficient accuracy for various document processing tasks. |
 |[reWordBench.](https://arxiv.org/abs/2503.11751) |This work demonstrates that many popular reward models are fragile to simple rewording of prompts. It introduces a benchmark and proposes a strategy to improve their robustness. |
 |[Single-View 3D Scene Reconstruction.](https://ai-kunkun.github.io/Niagara_page/) |Niagara introduces an innovative framework for reconstructing outdoor 3D scenes from a single image, leveraging depth and normal estimation alongside a geometric affine field and 3D Gaussian decoding. |
-|[.]() | |
+|[Stable virtual camera.](https://github.com/Stability-AI/stable-virtual-camera) | Stability AI has launched an impressive multiview camera system for novel view synthesis. While not entirely state-of-the-art, it is powerful, non-commercial, and runs efficiently in just two forward passes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
