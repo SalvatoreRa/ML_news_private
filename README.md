@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK cybersecurity agency warns over risk of quantum hackers.](https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers) | Organisations including energy and transport firms told to guard systems against powerful new computers|
 |[Anthropic's Red Team Warns of AI Security Risks.](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team) |AI models are making rapid advancements in cybersecurity and biology, reaching expert-level knowledge in some domains. While current risks are manageable, the company cautions that stronger safeguards will be necessary as capabilities continue to evolve. |
 |[Google's AI Health Innovations Announced at The Check Up 2025.](https://blog.google/technology/health/google-health-check-up-2025/) |At The Check Up 2025, Google showcased how AI is advancing global healthcare, from diagnostic tools to research collaborations. The company aims to enhance medical accessibility and improve patient outcomes through AI-driven innovations. |
-|[.]() | |
-|[.]() | |
+|[Nvidia's Humanoid Robot.](https://developer.nvidia.com/blog/accelerate-generalist-humanoid-robot-development-with-nvidia-isaac-gr00t-n1/) | Nvidia's humanoid robot, gr00t, is trained using its software suite to perform generalist tasks.|
+|[Nvidia DGX Spark.](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) | Nvidia has rebranded its Digits personal computing device as Spark, now featuring reduced memory bandwidth and lower VRAM. Additionally, the company introduced the DGX Station, a high-performance workstation offering a more powerful alternative.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
