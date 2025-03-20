@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia DGX Spark.](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) | Nvidia has rebranded its Digits personal computing device as Spark, now featuring reduced memory bandwidth and lower VRAM. Additionally, the company introduced the DGX Station, a high-performance workstation offering a more powerful alternative.|
 |[Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’.](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) | Anthropic’s CEO Dario Amodei is worried that spies, likely from China, are getting their hands on costly “algorithmic secrets” from the U.S.’s top AI companies — and he wants the U.S. government to step in.|
 |[Perplexity and SoftBank Launch Enterprise Pro Japan.](https://www.perplexity.ai/hub/blog/perplexity-expands-partnership-with-softbank-to-launch-enterprise-pro-japan) | Perplexity has partnered with SoftBank to introduce Enterprise Pro to Japanese corporations, leveraging SoftBank's extensive network.|
-|[.]() | |
-|[.]() | |
+|[Google's Gemini AI Enhances Efficiency in Japanese Hospitals.](https://blog.google/technology/health/gemini-ai-japan-hospitals/) | Google's Gemini AI is enhancing administrative efficiency in Japanese hospitals by automating documentation tasks, easing the cognitive burden on healthcare workers, and allowing more time for patient care.|
+|[Google's Gemini Robotics AI Model Reaches Into the Physical World.](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/) | Google DeepMind has unveiled Gemini Robotics, which enhances AI with language, vision, and physical action capabilities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
