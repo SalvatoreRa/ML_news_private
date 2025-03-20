@@ -60,6 +60,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TxAgent: An AI agent for therapeutic reasoning across a universe of tools.](https://zitniklab.hms.harvard.edu/TxAgent/) |TxAgent is an AI-driven system that assesses drug interactions, contraindications, and patient-specific data to create adaptive treatment plans. |
 |[Optimizing generative AI by backpropagating language model feedback.](https://www.nature.com/articles/s41586-025-08661-4) |Generative artificial intelligence (AI) systems can be optimized using TextGrad, a framework that performs optimization by backpropagating large-language-model-generated feedback; TextGrad enables optimization across diverse tasks, including radiotherapy treatment plans and molecule generation. |
 |[A mixed-precision memristor and SRAM compute-in-memory AI processor.](https://www.nature.com/articles/s41586-025-08639-2) |A mixed-precision heterogeneous memristor combined with a compute-in-memory artificial intelligence (AI) processor allows optimization of the precision, energy efficiency, storage and wakeup-to-response time requirements of AI edge devices, which is demonstrated using existing models and datasets. |
+|[A generative model for inorganic materials design.](https://www.nature.com/articles/s41586-025-08628-5) |MatterGen is a model that generates stable, diverse inorganic materials across the periodic table and can further be fine-tuned to steer the generation towards a broad range of property constraints. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
