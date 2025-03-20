@@ -136,6 +136,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Personalize Anything.](https://fenghora.github.io/Personalize-Anything-Page/) |You can personalize almost any image without additional fine-tuning or training by using token replacement in a Diffusion Transformer. |
 |[TrainXGB - Train XGBoost in Browser.](https://www.xgblog.ai/p/trainxgb-train-xgboost-in-browser) |This blog post describes how to build a browser based training system accelerated by WASM.|
 |[Stability's 3D Video Generation.](https://stability.ai/news/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control) | Stable Virtual Camera is a multi-view diffusion model that creates immersive 3D videos from one or multiple 2D images, allowing for user-defined or pre-set camera trajectories.|
+|[AAPM 2025 Challenge.](https://github.com/riqianggao/gdp-hmm_aapmchallenge) |This repository contains code and tutorials to help participants begin developing dose prediction models for the GDP-HMM Challenge at AAPM 2025. |
+|[Open R1.](https://github.com/huggingface/open-r1) |The Open-R1 initiative aims to be more robust and feature-complete while remaining minimal and hackable. It includes additional SFT steps and data distillation for improved performance. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
