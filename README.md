@@ -92,6 +92,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's new robot AI can fold delicate origami, close zipper bags without damage.](https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/) | Google DeepMind has introduced Gemini Robotics and Gemini Robotics-ER, AI models designed to enhance robots' fine motor skills and adaptability for real-world tasks. Gemini Robotics combines vision, language, and action capabilities, enabling robots to perform intricate tasks like origami folding. Early results show notable improvements in generalization and dexterity compared to previous models, with Google collaborating with Apptronik and other partners for further development.|
 |[Google and NVIDIA Expand AI Collaboration.](https://blog.google/technology/ai/google-nvidia-gtc-ai) | Google announced an expanded partnership with NVIDIA at NVIDIA GTC, aiming to enhance AI infrastructure, optimize hardware, and advance applications in areas such as healthcare, energy, and robotics.|
 |[Google playing AI search catchup, and forming relationships with chatbots.](https://www.technologyreview.com/2025/03/17/1113264/the-download-google-playing-ai-search-catchup-and-forming-relationships-with-chatbots/) | Google is adding new AI features from Gemini to its search but this is seen as playing catch-up to OpenAI's ChatGPT.|
+|[Robotic fingers can tell objects apart by touch.](https://www.nature.com/articles/d41586-025-00706-y) | Prosthetic appendage uses three layers of touch sensors to accurately differentiate between textures.|
+|[Microsoft quantum computing ‘breakthrough’ faces fresh challenge.](https://www.nature.com/articles/d41586-025-00683-2) | Analysis pokes holes in protocol that underpins Microsoft’s claim to have created the first topological qubits.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
