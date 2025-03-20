@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Optimizing generative AI by backpropagating language model feedback.](https://www.nature.com/articles/s41586-025-08661-4) |Generative artificial intelligence (AI) systems can be optimized using TextGrad, a framework that performs optimization by backpropagating large-language-model-generated feedback; TextGrad enables optimization across diverse tasks, including radiotherapy treatment plans and molecule generation. |
 |[A mixed-precision memristor and SRAM compute-in-memory AI processor.](https://www.nature.com/articles/s41586-025-08639-2) |A mixed-precision heterogeneous memristor combined with a compute-in-memory artificial intelligence (AI) processor allows optimization of the precision, energy efficiency, storage and wakeup-to-response time requirements of AI edge devices, which is demonstrated using existing models and datasets. |
 |[A generative model for inorganic materials design.](https://www.nature.com/articles/s41586-025-08628-5) |MatterGen is a model that generates stable, diverse inorganic materials across the periodic table and can further be fine-tuned to steer the generation towards a broad range of property constraints. |
-|[.]() | |
+|[Plug-and-play external knowledge for LLMs.](https://www.microsoft.com/en-us/research/blog/introducing-kblam-bringing-plug-and-play-external-knowledge-to-llms/) | A novel approach to integrate knowledge into an LLM without retraining, enabling online and realtime learning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia won the AI race, but inference is still anyone's game.](https://www.theregister.com/2025/03/12/training_inference_shift/) | Nvidia currently dominates AI training, but the inference market remains open to competition.|
 |[Global cooperation is crucial for DeepSeek and broader AI research.](https://www.nature.com/articles/d41586-025-00822-9) |China’s cost-effective, open-source artificial intelligence (AI) model DeepSeek-R1 — which rivals models from industry leaders — is indeed remarkable |
 |[AI demands a different approach to education.](https://www.nature.com/articles/d41586-025-00823-8) | The rapid evolution of artificial intelligence (AI), marked by DeepSeek-style breakthroughs, challenges conventional learning approaches.|
-|[.]() | |
+|[Inside Zoom’s AI evolution: From basic meeting tools to agentic productivity platform powered by LLMs and SLMs.](https://venturebeat.com/ai/inside-zooms-ai-evolution-from-basic-meeting-tools-to-agentic-productivity-platform-powered-by-llms-and-slms/) |Zoom is evolving beyond video conferencing by building an agentic AI infrastructure that turns meetings into action-driven workflows. This includes AI Companion 2.0, featuring task management and document creation, along with customizable AI agents through the new AI Studio. Zoom’s federated approach integrates its custom small language model with larger LLMs, providing enterprises with efficient and adaptable AI solutions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
