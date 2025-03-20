@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Robotic fingers can tell objects apart by touch.](https://www.nature.com/articles/d41586-025-00706-y) | Prosthetic appendage uses three layers of touch sensors to accurately differentiate between textures.|
 |[Microsoft quantum computing ‘breakthrough’ faces fresh challenge.](https://www.nature.com/articles/d41586-025-00683-2) | Analysis pokes holes in protocol that underpins Microsoft’s claim to have created the first topological qubits.|
 |[UK cybersecurity agency warns over risk of quantum hackers.](https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers) | Organisations including energy and transport firms told to guard systems against powerful new computers|
-|[.]() | |
-|[.]() | |
+|[Anthropic's Red Team Warns of AI Security Risks.](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team) |AI models are making rapid advancements in cybersecurity and biology, reaching expert-level knowledge in some domains. While current risks are manageable, the company cautions that stronger safeguards will be necessary as capabilities continue to evolve. |
+|[Google's AI Health Innovations Announced at The Check Up 2025.](https://blog.google/technology/health/google-health-check-up-2025/) |At The Check Up 2025, Google showcased how AI is advancing global healthcare, from diagnostic tools to research collaborations. The company aims to enhance medical accessibility and improve patient outcomes through AI-driven innovations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
