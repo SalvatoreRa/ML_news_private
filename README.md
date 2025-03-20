@@ -144,8 +144,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI firms follow DeepSeek's lead, create cheaper models with “distillation”.](https://arstechnica.com/ai/2025/03/ai-firms-follow-deepseeks-lead-create-cheaper-models-with-distillation/) | Leading AI firms like OpenAI, Microsoft, and Meta are using "distillation" to create more cost-effective models by training smaller systems with a "teacher" LLM.|
 |[Paths and waystations in AI safety.](https://joecarlsmith.com/2025/03/11/paths-and-waystations-in-ai-safety) | This essay presents a framework for tackling the AI alignment problem by differentiating between technical parameters ("problem profile") and civilization's capacity to respond ("competence profile"). It highlights three key "security factors": safety progress, risk evaluation, and capability restraint. The discussion explores leveraging future AI labor to strengthen these factors and outlines strategic milestones for advancing AI safety.|
 |[Nvidia won the AI race, but inference is still anyone's game.](https://www.theregister.com/2025/03/12/training_inference_shift/) | Nvidia currently dominates AI training, but the inference market remains open to competition.|
-|[.]() | |
-|[.]() | |
+|[Global cooperation is crucial for DeepSeek and broader AI research.](https://www.nature.com/articles/d41586-025-00822-9) |China’s cost-effective, open-source artificial intelligence (AI) model DeepSeek-R1 — which rivals models from industry leaders — is indeed remarkable |
+|[AI demands a different approach to education.](https://www.nature.com/articles/d41586-025-00823-8) | The rapid evolution of artificial intelligence (AI), marked by DeepSeek-style breakthroughs, challenges conventional learning approaches.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
