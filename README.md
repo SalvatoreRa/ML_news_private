@@ -105,6 +105,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's AI Health Innovations Announced at The Check Up 2025.](https://blog.google/technology/health/google-health-check-up-2025/) |At The Check Up 2025, Google showcased how AI is advancing global healthcare, from diagnostic tools to research collaborations. The company aims to enhance medical accessibility and improve patient outcomes through AI-driven innovations. |
 |[Nvidia's Humanoid Robot.](https://developer.nvidia.com/blog/accelerate-generalist-humanoid-robot-development-with-nvidia-isaac-gr00t-n1/) | Nvidia's humanoid robot, gr00t, is trained using its software suite to perform generalist tasks.|
 |[Nvidia DGX Spark.](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) | Nvidia has rebranded its Digits personal computing device as Spark, now featuring reduced memory bandwidth and lower VRAM. Additionally, the company introduced the DGX Station, a high-performance workstation offering a more powerful alternative.|
+|[Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’.](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/) | Anthropic’s CEO Dario Amodei is worried that spies, likely from China, are getting their hands on costly “algorithmic secrets” from the U.S.’s top AI companies — and he wants the U.S. government to step in.|
+|[Perplexity and SoftBank Launch Enterprise Pro Japan.](https://www.perplexity.ai/hub/blog/perplexity-expands-partnership-with-softbank-to-launch-enterprise-pro-japan) | Perplexity has partnered with SoftBank to introduce Enterprise Pro to Japanese corporations, leveraging SoftBank's extensive network.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
