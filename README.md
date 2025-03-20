@@ -62,8 +62,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A mixed-precision memristor and SRAM compute-in-memory AI processor.](https://www.nature.com/articles/s41586-025-08639-2) |A mixed-precision heterogeneous memristor combined with a compute-in-memory artificial intelligence (AI) processor allows optimization of the precision, energy efficiency, storage and wakeup-to-response time requirements of AI edge devices, which is demonstrated using existing models and datasets. |
 |[A generative model for inorganic materials design.](https://www.nature.com/articles/s41586-025-08628-5) |MatterGen is a model that generates stable, diverse inorganic materials across the periodic table and can further be fine-tuned to steer the generation towards a broad range of property constraints. |
 |[Plug-and-play external knowledge for LLMs.](https://www.microsoft.com/en-us/research/blog/introducing-kblam-bringing-plug-and-play-external-knowledge-to-llms/) | A novel approach to integrate knowledge into an LLM without retraining, enabling online and realtime learning.|
-|[.]() | |
-|[.]() | |
+|[The KoLMogorov Test: Compression by Code Generation.](https://arxiv.org/abs/2503.13992) | Meta has introduced a new benchmark to evaluate a language model's reasoning and knowledge. The test involves presenting the model with a long data sequence and requiring it to generate the shortest program that can reproduce the sequence and halt. This process, known as Kolmogorov compression, is uncomputable in polynomial time and demands strong reasoning capabilities.|
+|[Measuring AI Ability to Complete Long Tasks.](https://arxiv.org/abs/2503.14499) |A new "Moore's Law" for agents' task horizon ability indicates that the length of tasks an agent can complete has been doubling every seven months. This trend suggests that within the next two years, agents will be capable of handling multi-hour tasks with numerous complex steps. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
