@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stable virtual camera.](https://github.com/Stability-AI/stable-virtual-camera) | Stability AI has launched an impressive multiview camera system for novel view synthesis. While not entirely state-of-the-art, it is powerful, non-commercial, and runs efficiently in just two forward passes.|
 |[Personalize Anything.](https://fenghora.github.io/Personalize-Anything-Page/) |You can personalize almost any image without additional fine-tuning or training by using token replacement in a Diffusion Transformer. |
 |[TrainXGB - Train XGBoost in Browser.](https://www.xgblog.ai/p/trainxgb-train-xgboost-in-browser) |This blog post describes how to build a browser based training system accelerated by WASM.|
-|[.]() | |
+|[Stability's 3D Video Generation.](https://stability.ai/news/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control) | Stable Virtual Camera is a multi-view diffusion model that creates immersive 3D videos from one or multiple 2D images, allowing for user-defined or pre-set camera trajectories.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
