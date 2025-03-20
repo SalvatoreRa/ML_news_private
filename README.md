@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google playing AI search catchup, and forming relationships with chatbots.](https://www.technologyreview.com/2025/03/17/1113264/the-download-google-playing-ai-search-catchup-and-forming-relationships-with-chatbots/) | Google is adding new AI features from Gemini to its search but this is seen as playing catch-up to OpenAI's ChatGPT.|
 |[Robotic fingers can tell objects apart by touch.](https://www.nature.com/articles/d41586-025-00706-y) | Prosthetic appendage uses three layers of touch sensors to accurately differentiate between textures.|
 |[Microsoft quantum computing ‘breakthrough’ faces fresh challenge.](https://www.nature.com/articles/d41586-025-00683-2) | Analysis pokes holes in protocol that underpins Microsoft’s claim to have created the first topological qubits.|
-|[.]() | |
+|[UK cybersecurity agency warns over risk of quantum hackers.](https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers) | Organisations including energy and transport firms told to guard systems against powerful new computers|
 |[.]() | |
 |[.]() | |
 |[.]() | |
