@@ -150,8 +150,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open R1.](https://github.com/huggingface/open-r1) |The Open-R1 initiative aims to be more robust and feature-complete while remaining minimal and hackable. It includes additional SFT steps and data distillation for improved performance. |
 |[Open R1: How to use OlympicCoder locally for coding.](https://huggingface.co/blog/olympic-coder-lmstudio) |A guide to installing and running the OlympicCoder 7B model locally in VS Code using LM Studio for optimal coding assistance, including quantized inference for improved efficiency. |
 |[DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning.](https://zhaorw02.github.io/DeepMesh/) | Autoregressive generation of meshes from point clouds, designed to be artist-friendly and well-topologized. It leverages deep reinforcement learning with clever regularization rewards to enhance mesh quality.|
-|[.]() | |
-|[.]() | |
+|[End-to-End 3D Segmentation.](https://arxiv.org/abs/2503.14029v1) |A new object-aware lifting approach for 3D segmentation using Gaussian representations and a learnable object-level codebook. |
+|[HAC++: Towards 100X Compression of 3D Gaussian Splatting.](https://yihangchen-ee.github.io/project_hac++/) |HAC++ achieves over 100× size reduction compared to 3D Gaussian Splatting (3DGS) while improving fidelity, leveraging advanced quantization and adaptive masking for superior compression in view synthesis tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
