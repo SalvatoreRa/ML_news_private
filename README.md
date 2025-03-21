@@ -152,9 +152,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning.](https://zhaorw02.github.io/DeepMesh/) | Autoregressive generation of meshes from point clouds, designed to be artist-friendly and well-topologized. It leverages deep reinforcement learning with clever regularization rewards to enhance mesh quality.|
 |[End-to-End 3D Segmentation.](https://arxiv.org/abs/2503.14029v1) |A new object-aware lifting approach for 3D segmentation using Gaussian representations and a learnable object-level codebook. |
 |[HAC++: Towards 100X Compression of 3D Gaussian Splatting.](https://yihangchen-ee.github.io/project_hac++/) |HAC++ achieves over 100× size reduction compared to 3D Gaussian Splatting (3DGS) while improving fidelity, leveraging advanced quantization and adaptive masking for superior compression in view synthesis tasks. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Cube: Generative AI System for 3D.](https://github.com/Roblox/cube) |Roblox has released a novel 3D generation and understanding foundation model that can be used for research applications. |
+|[Efficient Video Training with Token Optimization.](https://github.com/opengvlab/fluxvit) | FluxViT introduces Flux, a novel augmentation tool that optimizes video token selection, enhancing accuracy while significantly lowering computational costs in large-scale video pre-training.|
+|[State Space Models for 3D Object Detection.](https://github.com/OpenSpaceAI/DEST3D) |DEST3D utilizes an interactive state-space model for 3D object detection in point clouds, incorporating novel bidirectional scanning and inter-state attention mechanisms for efficient scene understanding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
