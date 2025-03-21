@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's Gemini Robotics AI Model Reaches Into the Physical World.](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/) | Google DeepMind has unveiled Gemini Robotics, which enhances AI with language, vision, and physical action capabilities.|
 |[X sues Modi's government over content removal in new India censorship fight.](https://www.theguardian.com/technology/2025/mar/20/x-india-censorship-lawsuit-modi-musk) |Elon Musk’s company is arguing against the government’s expanded powers to allow easier removal of online content |
 |[AI-driven weather prediction breakthrough reported.](https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence) | Researchers say Aardvark Weather uses thousands of times less computing power and is much faster than current systems|
-|[.]() | |
-|[.]() | |
+|[Claude Web Search.](https://www.anthropic.com/news/web-search) | Anthropic has enabled a new feature that allows Claude to search the web as part of its chat offering.|
+|[OpenAI Next-Gen Audio Models.](https://openai.com/index/introducing-our-next-generation-audio-models/) |OpenAI has launched new speech-to-text and text-to-speech models in its API, enhancing transcription accuracy and enabling customizable voice outputs for more natural and expressive speech agents. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
