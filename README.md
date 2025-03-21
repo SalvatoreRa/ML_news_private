@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Perplexity and SoftBank Launch Enterprise Pro Japan.](https://www.perplexity.ai/hub/blog/perplexity-expands-partnership-with-softbank-to-launch-enterprise-pro-japan) | Perplexity has partnered with SoftBank to introduce Enterprise Pro to Japanese corporations, leveraging SoftBank's extensive network.|
 |[Google's Gemini AI Enhances Efficiency in Japanese Hospitals.](https://blog.google/technology/health/gemini-ai-japan-hospitals/) | Google's Gemini AI is enhancing administrative efficiency in Japanese hospitals by automating documentation tasks, easing the cognitive burden on healthcare workers, and allowing more time for patient care.|
 |[Google's Gemini Robotics AI Model Reaches Into the Physical World.](https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/) | Google DeepMind has unveiled Gemini Robotics, which enhances AI with language, vision, and physical action capabilities.|
-|[.]() | |
-|[.]() | |
+|[X sues Modi's government over content removal in new India censorship fight.](https://www.theguardian.com/technology/2025/mar/20/x-india-censorship-lawsuit-modi-musk) |Elon Musk’s company is arguing against the government’s expanded powers to allow easier removal of online content |
+|[AI-driven weather prediction breakthrough reported.](https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence) | Researchers say Aardvark Weather uses thousands of times less computing power and is much faster than current systems|
 |[.]() | |
 |[.]() | |
 |[.]() | |
