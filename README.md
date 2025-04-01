@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large-Scale Outdoor Scene Generation.](https://3dlg-hcvc.github.io/NuiScene/) |NuiScene unveils a new method for creating large outdoor environments using uniform vector-set encoding and explicit outpainting, improving compression and speeding up generation. |
 |[Tokenize an Image as a Set.](https://github.com/Gengzigang/TokenSet) | "Tokenize Image as a Set" is a new image generation framework that applies set-based tokenization and a discrete diffusion method, representing images as unordered token sets for a unique and reversible generative process. |
 |[Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds.](https://github.com/aigc3d/LHM) | A method has been released that takes a single image as input and generates a fully animatable 3D avatar. The code is permissively licensed and appears to function effectively.|
-|[.]() | |
-|[.]() | |
+|[Image to SVG: Starvector.](https://huggingface.co/collections/starvector/starvector-models-6783b22c7bd4b43d13cb5289) |A set of models that can turn icons and basic images into SVGs. |
+|[Efficient Remote Sensing Model.](https://github.com/KyanChen/DynamicVis) |DynamicVis is a foundation model for dynamic visual perception in remote sensing, enabling efficient parsing of ultra-large images with significantly reduced memory and computation needs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
