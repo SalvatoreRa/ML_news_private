@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude 3.7 Sonnet Usage Trends in Labor.](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7) |Anthropic's latest report highlights how Claude 3.7 Sonnet is being applied in coding, education, and healthcare, providing new insights into how AI supports or automates various professional tasks. |
 |[AWS generative AI exec leaves to launch startup.](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup) |Raj Aggarwal is leaving AWS, where he served as GM of generative AI, to start a new company. |
 |[Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M.](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/) |Browser Use, a Y Combinator startup, enhances AI agent navigation on websites by converting site elements into a text-like format. |
-|[.]() | |
+|[XR Training with Llama-Powered Simulations.](https://ai.meta.com/blog/cornerstone-transforming-training-llama/) | Cornerstone is revolutionizing enterprise training by combining XR with the Llama 3.1 model, allowing rapid creation of personalized simulations that include intelligent virtual mentors and real-time multilingual support.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
