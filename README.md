@@ -90,9 +90,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tesla’s Europe sales drop nearly 45% amid row over Musk’s Trump links.](https://www.theguardian.com/technology/2025/mar/24/tesla-sales-eu-slump-elon-musks-donald-trump-byd) |US carmaker’s European market share falls as Chinese rival BYD overtakes it on global revenue, topping $100bn |
 |[Government AI roll-outs threatened by outdated IT systems.](https://www.theguardian.com/technology/2025/mar/26/government-ai-roll-outs-threatened-by-outdated-it-systems) | Public accounts committee also flags ‘persistent digital skills shortages’ and uncompetitive civil service pay rates|
 |[Perplexity's Plan for Rebuilding TikTok in America.](https://www.perplexity.ai/hub/blog/rebuilding-tiktok-in-america) | Perplexity AI aims to create a TikTok focused on deep content discovery and truth-seeking, driven by an advanced answer engine, while preserving the platform's role as a hub for creative expression.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OpenAI exec leaves to found materials science startup.](https://techcrunch.com/2025/03/17/openai-exec-leaves-to-found-materials-science-startup/) | OpenAI's VP Liam Fedus is leaving to launch a materials science AI company with support from OpenAI. His new firm will compete with Google DeepMind and Microsoft in the AI-driven materials science field, though some experts question whether current AI can make groundbreaking scientific discoveries.|
+|[People are using Google’s new AI model to remove watermarks from images.](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) | Users on social media have discovered a controversial use case for Google’s new Gemini AI model: removing watermarks from images, including from images published by Getty Images and other well-known stock media outfits.|
+|[Apple's AI strategy plagued by delays, Siri upgrade remains in limbo.](https://www.techspot.com/news/107160-apple-exec-candidly-discusses-siri-struggles-including-ai.html) |Apple is facing delays with its AI features for Siri, originally planned for iOS 18.5 but now potentially delayed until 2026. Despite showcasing these features at WWDC, internal assessments show the technology isn't ready for release. Apple remains hopeful, aiming to enhance Siri significantly by 2027 with a new infrastructure to stay competitive. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nemotron-H: A Family of Accurate, Efficient Hybrid Mamba-Transformer Models.](https://research.nvidia.com/labs/adlr/nemotronh/) |Nvidia has launched new hybrid Mamba-style models trained on 20T tokens, delivering strong performance, particularly on long context tasks with significant sequence scaling advantages. This marks the first successful fp8 large-scale training of a hybrid attention model. |
 |[Large-Scale Outdoor Scene Generation.](https://3dlg-hcvc.github.io/NuiScene/) |NuiScene unveils a new method for creating large outdoor environments using uniform vector-set encoding and explicit outpainting, improving compression and speeding up generation. |
 |[Tokenize an Image as a Set.](https://github.com/Gengzigang/TokenSet) | "Tokenize Image as a Set" is a new image generation framework that applies set-based tokenization and a discrete diffusion method, representing images as unordered token sets for a unique and reversible generative process. |
-|[.]() | |
+|[Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds.](https://github.com/aigc3d/LHM) | A method has been released that takes a single image as input and generates a fully animatable 3D avatar. The code is permissively licensed and appears to function effectively.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
