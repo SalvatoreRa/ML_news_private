@@ -154,8 +154,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen Omni Model.](https://huggingface.co/Qwen/Qwen2.5-Omni-7B) |Qwen has released a model that can natively understand many different modalities while responding in either text or speech. |
 |[Detecting Subtle Deepfake Manipulations.](https://arxiv.org/abs/2503.19683v2) |This method uses CLIP's visual encoder and parameter-efficient tuning to reliably detect partial deepfake forgeries across varied datasets, requiring minimal changes to the model. |
 |[Frame AutoRegressive Video Modeling.](https://farlongctx.github.io/) | FAR enhances video generation by modeling temporal dependencies between frames and introduces FlexRoPE, which improves handling of long-range contexts through temporal decay.|
-|[.]() | |
-|[.]() | |
+|[Improved 3D Gaussian Splatting with HoGS.](https://slimm-x.github.io/comp/) | HoGS improves the rendering accuracy of distant objects in 3DGS pipelines by using homogeneous coordinates, leading to enhanced performance in outdoor scene reconstruction.|
+|[Enhanced Multimodal Vision Foundation Models.](https://slimm-x.github.io/comp/) |The CoMP pipeline enhances cross-modal alignment and resolution adaptability in vision-language models by leveraging continual pretraining and custom embeddings. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
