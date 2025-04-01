@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Deep Learning is Not So Mysterious or Different.](https://arxiv.org/abs/2503.02113) |Andrew Gordon Wilson (New York University) argues that phenomena like benign overfitting, double descent, and overparametrization are not unique to neural networks and can also occur in simple linear models. He explains that these behaviors, such as benign overfitting with high-order polynomials, are related to soft inductive biases, which allow models to remain flexible while preferring simpler solutions. Wilson suggests that traditional generalization frameworks like PAC-Bayes already account for these behaviors, challenging the need for new theories of deep learning. While acknowledging neural networks' unique properties, such as mode connectivity and representation learning, he urges deeper collaboration and a focus on existing generalization theories to address open questions in deep learning. |
 |[ GNNs as Predictors of Agentic Workflow Performances.](https://arxiv.org/abs/2503.11301) |This work presents FLORA-Bench, a large-scale benchmark designed to assess GNN-based predictors for automating and optimizing agentic workflows. It demonstrates that Graph Neural Networks can effectively predict the success of multi-agent LLM workflows, substantially cutting down on expensive repeated model calls. |
 |[Anthropic Researchers Trace the Thoughts of LLM.](https://www.anthropic.com/research/tracing-thoughts-language-model) |Two new studies from Anthropic explore the internal pathways of Claude models, revealing planning behaviors, shared conceptual representations across languages, and occurrences of fabricated reasoning. |
-|[.]() | |
+|[Measuring Internal Bias in Vision Models.](https://github.com/aaronserianni/attention-iou) |A new metric leverages attention maps to measure internal bias in vision models, enabling the detection of confounding features and surpassing traditional group-based accuracy disparity analyses. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -167,7 +167,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enhanced Multimodal Vision Foundation Models.](https://slimm-x.github.io/comp/) |The CoMP pipeline enhances cross-modal alignment and resolution adaptability in vision-language models by leveraging continual pretraining and custom embeddings. |
 |[Diffusion Counterfactuals for Image Regressors.](https://arxiv.org/abs/2503.20595) |This paper presents two methods that leverage diffusion models to generate counterfactual explanations for image regression tasks, illustrating trade-offs in sparsity and quality between pixel-space and latent-space approaches. |
 |[Mixture-of-Mamba.](https://arxiv.org/abs/2501.16295v1) | Mixture-of-Mamba brings modality-aware sparsity to state-space models (SSMs), allowing efficient multi-modal pretraining. It matches Transformer-level performance across text, image, and speech while significantly reducing computational costs.|
-|[.]() | |
+|[Open Problems in Mechanistic Interpretability.](https://arxiv.org/abs/2501.16496) | A compelling paper that explores the challenges and open questions in understanding how knowledge and skills are internally represented within a language model.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
