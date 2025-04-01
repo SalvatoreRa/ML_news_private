@@ -169,9 +169,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mixture-of-Mamba.](https://arxiv.org/abs/2501.16295v1) | Mixture-of-Mamba brings modality-aware sparsity to state-space models (SSMs), allowing efficient multi-modal pretraining. It matches Transformer-level performance across text, image, and speech while significantly reducing computational costs.|
 |[Open Problems in Mechanistic Interpretability.](https://arxiv.org/abs/2501.16496) | A compelling paper that explores the challenges and open questions in understanding how knowledge and skills are internally represented within a language model.|
 |[Guidance-Free Training for Image Models.](https://arxiv.org/abs/2501.15420v1) | Guidance-Free Training (GFT) eliminates the need for Classifier-Free Guidance (CFG) in visual generative models, lowering computational costs without compromising performance. Unlike distillation methods, GFT trains models from scratch and needs only minimal changes to existing codebases.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[PET-MAD: A Universal Interatomic Potential for Advanced Materials Modeling.](https://github.com/lab-cosmo/pet-mad) | PET-MAD is a universal interatomic potential model trained on the MAD dataset that is capable of predicting energies and forces for complex materials modeling across the periodic table.|
+|[Flux Inpainting.](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint) | Inpainting support for the new powerful diffusion model Flux.|
+|[Training and Finetuning Reranker Models with Sentence Transformers v4.](https://huggingface.co/blog/train-reranker) | This post explains how to fine-tune high-performing reranker models with Sentence Transformers 4.0, achieving better results than many large public rerankers using smaller, task-specific versions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
