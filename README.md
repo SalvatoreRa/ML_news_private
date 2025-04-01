@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YC-backed ReactWise is applying AI to speed up drug manufacturing.](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/) |ReactWise is using AI to speed up chemical manufacturing — a key step in bringing new drugs to market. Once a promising drug has been identified in the lab, pharma firms need to be able to produce much larger amounts of the material to run clinical trials. This is where ReactWise is offering to step in with its “AI copilot for chemical process optimization,” which it says accelerates by 30x the standard trial-and-error-based process of figuring out the best method for making a drug. |
 |[OpenAI's Improved Image Generation.](https://openai.com/index/introducing-4o-image-generation/) | OpenAI's GPT-4o introduces improved image generation with precise text rendering, instruction following, and multi-turn editing.|
 |[DeepSeek-V3-0324 Release with MIT License.](https://api-docs.deepseek.com/news/news250325) |DeepSeek has released its new V3-0324 model, which outperforms GPT 4.5 in most benchmarks and features major improvements in performance. |
-|[.]() | |
-|[.]() | |
+|[Outreach founder Manny Medina has a new startup that helps AI agents get paid.](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) |Outreach founder Manny Medina has launched Paid, a platform built to help AI agent startups manage pricing and profitability. Supported by leading investors, Paid aims to reshape how AI agents are billed and valued in the growing agent economy. |
+|[A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup.](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) |Pete Florence, formerly a senior research scientist at DeepMind, has founded Generalist AI, a robotics startup backed by Nvidia’s VC arm, NVentures. The company aims to develop general-purpose robots, with Florence emphasizing a vision of driving the marginal cost of physical labor to zero. He joins a wave of ex-DeepMind scientists launching new tech ventures as Nvidia's role in AI continues to expand. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Visual Geometry Grounded Transformer.](https://github.com/facebookresearch/vggt) |VGGT is a feed-forward neural network that rapidly infers all key 3D scene attributes—such as extrinsic and intrinsic camera parameters, point maps, depth maps, and 3D point tracks—from one, a few, or even hundreds of views within seconds. |
 |[Dereflection Any Image.](https://abuuu122.github.io/DAI.github.io/) |Dereflection Any Image (DAI) presents a new diffusion-based method for removing reflections, utilizing a high-quality dataset and progressive training to enhance results. |
 |[Slow-Thinking Reasoning Model with FastCuRL.](https://github.com/nick7nlp/FastCuRL) | FastCuRL-1.5B-Preview advances slow-thinking reasoning models with curriculum reinforcement learning, achieving state-of-the-art results in fewer training steps.|
-|[.]() | |
+|[Single Image Iterative Subject-driven Generation and Editing.](https://siso-paper.github.io/) | SISO is an inference-time optimization technique that personalizes images using just a single subject image, without requiring training. It can either personalize the subject in an existing image or generate new images featuring the personalized subject.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
