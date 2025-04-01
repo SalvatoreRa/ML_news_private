@@ -86,9 +86,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Calling all fashion models … now AI is coming for you.](https://www.theguardian.com/fashion/2025/mar/30/fashion-models-ai-job-losses) |As fashion brands create AI ‘twins’ with models’ permission, some believe this is just another form of exploitation |
 |[Protests hit Tesla dealerships across the world in challenge to Elon Musk.](https://www.theguardian.com/world/2025/mar/29/tesla-protests-elon-musk-doge) | From Australia to Europe and the US, demonstrators rallied against carmaker’s dismantling of US federal government|
 |[Elon Musk’s xAI firm buys social media platform X for $33bn.](https://www.theguardian.com/technology/2025/mar/29/elon-musks-xai-firm-buys-social-media-platform-x-for-33bn) | Specifics of deal remain unclear, including how X’s leaders will be integrated into new company|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[The controversial California city backed by tech elite has a new plan: boats.](https://www.theguardian.com/us-news/2025/mar/28/california-forever-tech-boats) |California Forever is back with a proposal that has some on board: using the land it owns to create a shipbuilding hub |
+|[Tesla’s Europe sales drop nearly 45% amid row over Musk’s Trump links.](https://www.theguardian.com/technology/2025/mar/24/tesla-sales-eu-slump-elon-musks-donald-trump-byd) |US carmaker’s European market share falls as Chinese rival BYD overtakes it on global revenue, topping $100bn |
+|[Government AI roll-outs threatened by outdated IT systems.](https://www.theguardian.com/technology/2025/mar/26/government-ai-roll-outs-threatened-by-outdated-it-systems) | Public accounts committee also flags ‘persistent digital skills shortages’ and uncompetitive civil service pay rates|
 |[.]() | |
 |[.]() | |
 |[.]() | |
