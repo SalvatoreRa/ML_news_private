@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hierarchical Document Structure Analysis.](https://arxiv.org/abs/2503.15893v2) |UniHDSA is a unified relation prediction approach for hierarchical document structure analysis, enabling a single module to handle multiple tasks simultaneously. |
 |[Modifying Large Language Model Post-Training for Diverse Creative Writing.](https://arxiv.org/abs/2503.17126) |Midjourney has introduced work aimed at boosting diversity in creative writing models, successfully post-training a small 7B model that surpasses much larger open and closed models in creative writing tasks. |
 |[Agentic Memory for LLM Agents.](https://arxiv.org/abs/2502.12110) |Researchers from Rutgers University and Ant Group introduce A-MEM, a new agentic memory system for LLM agents that supports long-term memory for complex tasks. A-MEM autonomously creates memory notes with keywords, tags, and embeddings, linking them based on semantic similarities, inspired by the Zettelkasten method. The system evolves by updating older memories with refined tags and descriptions, creating a continuously improving memory network. In tests, A-MEM outperforms static-memory systems like MemGPT, especially in multi-hop reasoning for complex queries, and reduces token usage by retrieving only the most relevant memories, cutting inference costs without losing accuracy. |
-|[.]() | |
+|[A Modular RAG Framework.](https://arxiv.org/abs/2503.19314) |RGL simplifies the RAG pipeline for graph-structured data using modular components and optimized performance, delivering up to 143× speedup compared to traditional approaches. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,6 +152,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Single Image Iterative Subject-driven Generation and Editing.](https://siso-paper.github.io/) | SISO is an inference-time optimization technique that personalizes images using just a single subject image, without requiring training. It can either personalize the subject in an existing image or generate new images featuring the personalized subject.|
 |[DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning.](https://arxiv.org/abs/2503.15265) | Researchers from Tsinghua University, Nanyang Technological University, and ShengShu introduce DeepMesh, a transformer-based system that generates high-quality 3D meshes with artist-like topology. The system uses a new algorithm to compress mesh sequences by 72%, maintaining geometric detail for scalable, high-resolution mesh generation. DeepMesh predicts structured triangle layouts that are aesthetically pleasing and editable, thanks to refined pre-training and data curation. It also incorporates reinforcement learning with human feedback, using Direct Preference Optimization (DPO) to align mesh generation with user preferences. DeepMesh handles large meshes and outperforms baselines in both geometric accuracy and user ratings.|
 |[Qwen Omni Model.](https://huggingface.co/Qwen/Qwen2.5-Omni-7B) |Qwen has released a model that can natively understand many different modalities while responding in either text or speech. |
+|[Detecting Subtle Deepfake Manipulations.](https://arxiv.org/abs/2503.19683v2) |This method uses CLIP's visual encoder and parameter-efficient tuning to reliably detect partial deepfake forgeries across varied datasets, requiring minimal changes to the model. |
+|[Frame AutoRegressive Video Modeling.](https://farlongctx.github.io/) | FAR enhances video generation by modeling temporal dependencies between frames and introduces FlexRoPE, which improves handling of long-range contexts through temporal decay.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,6 +163,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Perspectives
 |Link|description|
