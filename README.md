@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DAPO: An Open-Source LLM Reinforcement Learning System at Scale.](https://arxiv.org/abs/2503.14476) |DAPO is an open-source, large-scale RL system that enhances LLMs' chain-of-thought reasoning. It improves PPO-style training by raising the upper clipping threshold to prevent entropy collapse, encouraging more diverse token exploration. DAPO filters out always-correct or always-wrong samples, speeding up convergence by focusing on prompts with useful gradient signals. It applies policy gradients per token instead of averaging losses, ensuring high-quality, appropriately lengthy outputs. The system also prevents excessive verbosity by penalizing long answers. DAPO achieves state-of-the-art math performance on the AIME 2024 test set, outperforming DeepSeek’s R1 with less training time. |
 |[Compute Optimal Scaling of Skills.](https://arxiv.org/abs/2503.10061) |Researchers from the University of Wisconsin and Meta AI explore how different skills, like knowledge-based QA and code generation, show distinct scaling behaviors in LLMs. They found that the optimal trade-off between model size and data volume varies by skill, with knowledge tasks being "capacity-hungry" and code tasks being "data-hungry." Even after adjusting data mixes, knowledge-based QA still requires larger models, while code tasks benefit from more data. Choosing the right validation set is crucial, as incorrect sets can mislead model scaling by up to 50%. Developers must design validation sets that align with the final skill mix to optimize performance. |
 |[Hierarchical Document Structure Analysis.](https://arxiv.org/abs/2503.15893v2) |UniHDSA is a unified relation prediction approach for hierarchical document structure analysis, enabling a single module to handle multiple tasks simultaneously. |
-|[.]() | |
+|[Modifying Large Language Model Post-Training for Diverse Creative Writing.](https://arxiv.org/abs/2503.17126) |Midjourney has introduced work aimed at boosting diversity in creative writing models, successfully post-training a small 7B model that surpasses much larger open and closed models in creative writing tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek v3-0324.](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/tree/main) |DeepSeek has uploaded new model weights to its Hugging Face repository. |
 |[Thinking Machines.](https://arxiv.org/abs/2503.10814) | This survey offers an overview and comparison of current reasoning techniques and presents a systematic review of reasoning-imbued language models.|
 |[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.](https://arxiv.org/abs/2503.16419) | This new survey explores strategies to tackle the "overthinking phenomenon" in Large Reasoning Models (LRMs), organizing existing approaches into model-based optimizations, output-based reasoning reductions, and prompt-based efficiency improvements. It highlights ongoing efforts to balance reasoning performance with computational efficiency in models such as OpenAI o1 and DeepSeek-R1.|
-|[.]() | |
+|[Qwen 2.5 32B Vision Language Model.](https://qwenlm.github.io/blog/qwen2.5-vl-32b/) |Qwen has released a strong vision language model that is open and can run reasonably well on consumer hardware. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
