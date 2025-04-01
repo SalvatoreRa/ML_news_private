@@ -168,7 +168,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Diffusion Counterfactuals for Image Regressors.](https://arxiv.org/abs/2503.20595) |This paper presents two methods that leverage diffusion models to generate counterfactual explanations for image regression tasks, illustrating trade-offs in sparsity and quality between pixel-space and latent-space approaches. |
 |[Mixture-of-Mamba.](https://arxiv.org/abs/2501.16295v1) | Mixture-of-Mamba brings modality-aware sparsity to state-space models (SSMs), allowing efficient multi-modal pretraining. It matches Transformer-level performance across text, image, and speech while significantly reducing computational costs.|
 |[Open Problems in Mechanistic Interpretability.](https://arxiv.org/abs/2501.16496) | A compelling paper that explores the challenges and open questions in understanding how knowledge and skills are internally represented within a language model.|
-|[.]() | |
+|[Guidance-Free Training for Image Models.](https://arxiv.org/abs/2501.15420v1) | Guidance-Free Training (GFT) eliminates the need for Classifier-Free Guidance (CFG) in visual generative models, lowering computational costs without compromising performance. Unlike distillation methods, GFT trains models from scratch and needs only minimal changes to existing codebases.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
