@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The controversial California city backed by tech elite has a new plan: boats.](https://www.theguardian.com/us-news/2025/mar/28/california-forever-tech-boats) |California Forever is back with a proposal that has some on board: using the land it owns to create a shipbuilding hub |
 |[Tesla’s Europe sales drop nearly 45% amid row over Musk’s Trump links.](https://www.theguardian.com/technology/2025/mar/24/tesla-sales-eu-slump-elon-musks-donald-trump-byd) |US carmaker’s European market share falls as Chinese rival BYD overtakes it on global revenue, topping $100bn |
 |[Government AI roll-outs threatened by outdated IT systems.](https://www.theguardian.com/technology/2025/mar/26/government-ai-roll-outs-threatened-by-outdated-it-systems) | Public accounts committee also flags ‘persistent digital skills shortages’ and uncompetitive civil service pay rates|
-|[.]() | |
+|[Perplexity's Plan for Rebuilding TikTok in America.](https://www.perplexity.ai/hub/blog/rebuilding-tiktok-in-america) | Perplexity AI aims to create a TikTok focused on deep content discovery and truth-seeking, driven by an advanced answer engine, while preserving the platform's role as a hub for creative expression.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to use AI to get a job interview and nail it – along with the salary you deserve.](https://www.theguardian.com/money/2025/apr/01/how-to-use-ai-job-interview-salary-research-employer) |Supercharge your search and beat the screening, sharpen your speaking skills and boost your negotiating position |
 |[Multimodal generative AI for medical image interpretation.](https://www.nature.com/articles/s41586-025-08675-y) | This Perspective describes how recent advances in artificial intelligence could be used to automate medical image interpretation to complement human expertise and empower physicians and patients.|
 |[A Review of DeepSeek Models.](https://arxiv.org/abs/2503.11486) | This paper reviews DeepSeek’s open-source models, DeepSeek-V3 and DeepSeek-R1, which deliver high performance with lower resource requirements. Key innovations include Multi-Head Latent Attention (MLA) to reduce memory use, Advanced Mixture of Experts (MoE) for improved flexibility, and Multi-Token Prediction (MTP) to speed up training. It also highlights DualPipe scheduling and FP8 mixed-precision training to optimize resources, Group Relative Policy Optimization (GRPO) for efficient reinforcement learning, and post-training reinforcement learning in DeepSeek-R1 to improve reasoning and language consistency.|
-|[.]() | |
+|[Hugging Face Real-Time Endpoint Analytics.](https://huggingface.co/blog/endpoint-analytics) |Hugging Face has upgraded its analytics dashboard to provide real-time updates for monitoring AI inference endpoints, offering quicker data loading and immediate insights into request latency, error rates, and performance metrics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
