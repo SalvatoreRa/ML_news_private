@@ -165,8 +165,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Frame AutoRegressive Video Modeling.](https://farlongctx.github.io/) | FAR enhances video generation by modeling temporal dependencies between frames and introduces FlexRoPE, which improves handling of long-range contexts through temporal decay.|
 |[Improved 3D Gaussian Splatting with HoGS.](https://slimm-x.github.io/comp/) | HoGS improves the rendering accuracy of distant objects in 3DGS pipelines by using homogeneous coordinates, leading to enhanced performance in outdoor scene reconstruction.|
 |[Enhanced Multimodal Vision Foundation Models.](https://slimm-x.github.io/comp/) |The CoMP pipeline enhances cross-modal alignment and resolution adaptability in vision-language models by leveraging continual pretraining and custom embeddings. |
-|[.]() | |
-|[.]() | |
+|[Diffusion Counterfactuals for Image Regressors.](https://arxiv.org/abs/2503.20595) |This paper presents two methods that leverage diffusion models to generate counterfactual explanations for image regression tasks, illustrating trade-offs in sparsity and quality between pixel-space and latent-space approaches. |
+|[Mixture-of-Mamba.](https://arxiv.org/abs/2501.16295v1) | Mixture-of-Mamba brings modality-aware sparsity to state-space models (SSMs), allowing efficient multi-modal pretraining. It matches Transformer-level performance across text, image, and speech while significantly reducing computational costs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
