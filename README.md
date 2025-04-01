@@ -121,8 +121,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds.](https://github.com/aigc3d/LHM) | A method has been released that takes a single image as input and generates a fully animatable 3D avatar. The code is permissively licensed and appears to function effectively.|
 |[Image to SVG: Starvector.](https://huggingface.co/collections/starvector/starvector-models-6783b22c7bd4b43d13cb5289) |A set of models that can turn icons and basic images into SVGs. |
 |[Efficient Remote Sensing Model.](https://github.com/KyanChen/DynamicVis) |DynamicVis is a foundation model for dynamic visual perception in remote sensing, enabling efficient parsing of ultra-large images with significantly reduced memory and computation needs. |
-|[.]() | |
-|[.]() | |
+|[Introducing Together Chat: use DeepSeek R1 for free, hosted in North America.](https://www.together.ai/blog/together-chat) | Together Chat has released a free consumer app enabling smooth interaction with leading open-source models, including the advanced reasoning model DeepSeek R1. The app supports web crawling, code generation with Qwen Coder 32B, and image creation via Flux Schnell, all accessible through a Progressive Web App.|
+|[Roblox’s new AI model can generate 3D objects.](https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt) |Roblox has open-sourced Cube 3D, an AI model that generates 3D objects from text prompts to boost creation efficiency. Cube 3D employs tokenization techniques and is trained on licensed, publicly available datasets along with Roblox experience data. Future versions will support multimodal inputs such as images and videos. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
