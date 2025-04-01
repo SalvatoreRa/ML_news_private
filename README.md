@@ -141,6 +141,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MCP (Model Context Protocol): Simply explained in 5 minutes.](https://read.highgrowthengineer.com/p/mcps-simply-explained) |MCP (Model Context Protocol) enables AI tools like Claude and ChatGPT to integrate seamlessly with everyday apps, transforming them from standalone chatbots into powerful, real-world assistants. Instead of pasting error logs, you can say "read my browser console and fix this bug," and the AI can access the tools directly. MCP operates through a standard interface, allowing providers like Slack, GitHub, and Sentry to build "adapters" that convert AI requests into API calls. |
 |[Fine-tune & Run Gemma 3.](https://unsloth.ai/blog/gemma3) | The Unsloth team has identified key quirks in DeepMind's new open weights model. With their toolkit, it's now possible to train the model on a free Colab instance.|
 |[DeepSeek v3-0324.](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/tree/main) |DeepSeek has uploaded new model weights to its Hugging Face repository. |
+|[Thinking Machines.](https://arxiv.org/abs/2503.10814) | This survey offers an overview and comparison of current reasoning techniques and presents a systematic review of reasoning-imbued language models.|
+|[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.](https://arxiv.org/abs/2503.16419) | This new survey explores strategies to tackle the "overthinking phenomenon" in Large Reasoning Models (LRMs), organizing existing approaches into model-based optimizations, output-based reasoning reductions, and prompt-based efficiency improvements. It highlights ongoing efforts to balance reasoning performance with computational efficiency in models such as OpenAI o1 and DeepSeek-R1.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
