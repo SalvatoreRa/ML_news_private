@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hollywood vs AI: 400 celebs urge Trump to rein in OpenAI, Google.](https://interestingengineering.com/culture/hollywood-stars-trump-protect-copyright-from-ai) |Hollywood creatives have signed an open letter calling on the U.S. government to maintain strong copyright protections and not to relax them for AI companies such as OpenAI and Google. |
 |[AI-driven weather prediction breakthrough reported.](https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence) | Researchers say Aardvark Weather uses thousands of times less computing power and is much faster than current systems|
 |[OpenAI Expands Cybersecurity Grant Program.](https://openai.com/index/security-on-the-path-to-agi/) |OpenAI has detailed its continued support for AI-native cybersecurity research, now offering microgrants and expanding focus areas to include model privacy and agentic security. |
-|[.]() | |
+|[Claude 3.7 Sonnet Usage Trends in Labor.](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7) |Anthropic's latest report highlights how Claude 3.7 Sonnet is being applied in coding, education, and healthcare, providing new insights into how AI supports or automates various professional tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
