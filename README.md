@@ -107,6 +107,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon Launches Interests for Personalized Shopping.](https://www.aboutamazon.com/news/retail/artificial-intelligence-amazon-features-interest) |Amazon has launched an AI-powered feature that personalizes product discovery using user-defined prompts, automatically highlighting relevant items and deals. |
 |[OpenAI adopts rival Anthropic's standard for connecting AI models to data.](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) | OpenAI will integrate support for Anthropic's Model Context Protocol (MCP) across its products, boosting AI models' ability to interact with diverse data sources. MCP is an open-source standard that connects AI models to tools like business software. Companies such as Block, Replit, and Sourcegraph have already adopted it, and OpenAI will share more details about its implementation soon.|
 |[Elon Musk’s Grok AI lands on Telegram, gaining access to over 1 billion users.](https://techstartups.com/2025/03/26/elon-musks-grok-ai-joins-telegram-gaining-access-to-over-1-billion-users-a-new-era-for-search-and-chat/) |Elon Musk's AI chatbot, Grok, is now accessible on Telegram, bringing its sarcastic assistant to over 1 billion users. Included with Telegram Premium, Grok extends its reach beyond X, offering real-time reasoning and coding features. While it raises privacy concerns, the move places Telegram in the competitive AI space alongside ChatGPT and Google's Gemini. |
+|[Apple faces lawsuit over Apple Intelligence delays.](https://techcrunch.com/2025/03/20/apple-faces-lawsuit-over-apple-intelligence-delays/) | Apple is facing a class-action lawsuit for allegedly misleading advertising regarding its Apple Intelligence features.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -178,7 +187,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Furor over quantum computing claim heats up.](https://www.science.org/content/article/debate-erupts-around-microsoft-s-blockbuster-quantum-computing-claims) |Physicists cast doubt on measurements said to show Microsoft chip uses exotic Majorana quasiparticles |
 |[OpenAI research lead Noam Brown thinks certain AI ‘reasoning’ models could’ve arrived decades ago.](https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/) |AI reasoning models might have appeared 20 years earlier with the right approaches and algorithms. Academic institutions can still play a vital role by focusing on lower-compute areas like model architecture design. Improving the current state of AI benchmarks is another key area where academia can have a major impact. |
 |[AI Companions: Weird and Creepy or Worth Your Attention?](https://genies.com/blog/ai-companions-weird-and-creepy-or-worth-your-attention) | AI companions, offering personalized and empathetic interactions, are quickly becoming a reality. They resonate strongly with Gen Z and Gen Alpha, providing a safe space for exploration and engagement. While issues like awkward interactions and emotional boundaries remain, AI companions add significant value through enhanced online experiences, storytelling, and personalized learning. Companies like Genies are using avatar technology and generative AI to build immersive, context-aware digital companions designed to foster authentic user connections.|
-|[.]() | |
+|[Trump’s AI Czar David Sacks Is Reshaping US Tech — For Better or Worse.](https://www.vktr.com/ai-news/trumps-ai-czar-david-sacks-is-reshaping-us-tech-for-better-or-worse/) | President Trump has appointed David Sacks as the AI and cryptocurrency czar, naming him head of the Presidential Council of Advisors for Science and Technology. Sacks will help develop a new AI action plan aimed at replacing what he calls overly restrictive regulations from the previous administration. He has voiced concerns about China's progress in AI and stressed the importance of loosening U.S. regulations to preserve global leadership in the field.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
