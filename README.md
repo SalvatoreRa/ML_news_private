@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[How to use AI to get a job interview and nail it – along with the salary you deserve.](https://www.theguardian.com/money/2025/apr/01/how-to-use-ai-job-interview-salary-research-employer) |Supercharge your search and beat the screening, sharpen your speaking skills and boost your negotiating position |
-|[.]() | |
+|[Multimodal generative AI for medical image interpretation.](https://www.nature.com/articles/s41586-025-08675-y) | This Perspective describes how recent advances in artificial intelligence could be used to automate medical image interpretation to complement human expertise and empower physicians and patients.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[AI is transforming peer review — and many scientists are worried.](https://www.nature.com/articles/d41586-025-00894-7) | Artificial intelligence software is increasingly involved in reviewing papers, provoking interest and unease.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
