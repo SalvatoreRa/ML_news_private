@@ -125,8 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Roblox’s new AI model can generate 3D objects.](https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt) |Roblox has open-sourced Cube 3D, an AI model that generates 3D objects from text prompts to boost creation efficiency. Cube 3D employs tokenization techniques and is trained on licensed, publicly available datasets along with Roblox experience data. Future versions will support multimodal inputs such as images and videos. |
 |[LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning.](https://arxiv.org/abs/2503.15621v1) | LLaVA-MORE systematically evaluates different language models and visual backbones in multimodal LLMs, providing a reproducible framework for comparing architectures.|
 |[Skeleton-Based Action Segmentation.](https://arxiv.org/abs/2503.15126v1) |TRG-Net enhances action segmentation using text-derived relational graphs for improved spatial-temporal modeling and supervision. |
-|[.]() | |
-|[.]() | |
+|[Single Image Personalization Without Training.](https://siso-paper.github.io/) |SISO enables training-free personalization for image generation and editing by optimizing similarity loss iteratively |
+|[Awesome Deep learning-based MRI Reconstruction.](https://github.com/mosaf/awesome-dl-based-cs-mri) | comprehensive, curated repository featuring resources, tools, and research papers focused on leveraging deep learning and compressed sensing to accelerate magnetic resonance imaging acquisition. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
