@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[OpenAI and MIT Exploring AI and Emotional Well-Being.](https://openai.com/index/affective-use-study/) | MIT Media Lab and OpenAI are studying how users emotionally engage with ChatGPT, focusing on its effects on social and emotional well-being. The research highlights the varied ways people interact with AI conversational models and lays the groundwork for future studies on responsible AI use.|
 |[Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in LLMs.](https://arxiv.org/abs/2503.13551) |This paper introduces a Hierarchical Reward Model (HRM) to tackle reward hacking and error propagation in fine-grained LLM reasoning. HRM evaluates multiple steps, improving self-correction and providing more reliable assessments than traditional Process Reward Models (PRM), which can penalize corrections. HRM’s multi-step feedback framework also mitigates reward hacking by discouraging short-sighted strategies. The paper also presents Hierarchical Node Compression (HNC), which reduces the computational cost of generating annotations with Monte Carlo Tree Search (MCTS) while increasing dataset diversity. Experiments show that HRM outperforms standard models on complex tasks, providing better accuracy and more stable solutions. |
-|[.]() | |
+|[Latent Multi-Hop Reasoning.](https://github.com/google-deepmind/latent-multi-hop-reasoning) |This research examines whether Large Language Models (LLMs) perform multi-hop reasoning by connecting multiple knowledge pieces in response to complex prompts. The study found evidence of this reasoning, especially in the initial step, with the use of connected knowledge varying and scaling with model size, highlighting both challenges and opportunities for future LLM development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hugging Face Real-Time Endpoint Analytics.](https://huggingface.co/blog/endpoint-analytics) |Hugging Face has upgraded its analytics dashboard to provide real-time updates for monitoring AI inference endpoints, offering quicker data loading and immediate insights into request latency, error rates, and performance metrics. |
 |[SynCity: Training-Free Generation of 3D Worlds.](https://research.paulengstler.com/syncity) |SynCity is an innovative system that creates detailed 3D worlds from text prompts without the need for training. It combines a 2D image generator for artistic quality with a 3D generator for precise geometry, constructing scenes tile-by-tile and smoothly integrating them into a navigable environment. |
 |[Nemotron-H: A Family of Accurate, Efficient Hybrid Mamba-Transformer Models.](https://research.nvidia.com/labs/adlr/nemotronh/) |Nvidia has launched new hybrid Mamba-style models trained on 20T tokens, delivering strong performance, particularly on long context tasks with significant sequence scaling advantages. This marks the first successful fp8 large-scale training of a hybrid attention model. |
-|[.]() | |
-|[.]() | |
+|[Large-Scale Outdoor Scene Generation.](https://3dlg-hcvc.github.io/NuiScene/) |NuiScene unveils a new method for creating large outdoor environments using uniform vector-set encoding and explicit outpainting, improving compression and speeding up generation. |
+|[Tokenize an Image as a Set.](https://github.com/Gengzigang/TokenSet) | "Tokenize Image as a Set" is a new image generation framework that applies set-based tokenization and a discrete diffusion method, representing images as unordered token sets for a unique and reversible generative process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
