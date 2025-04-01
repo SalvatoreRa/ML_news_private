@@ -104,9 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude can now search the web.](https://www.anthropic.com/news/web-search) |Claude now features web search functionality for real-time insights and up-to-date responses, complete with source citations. |
 |[OpenAI introduces next-generation audio models in the API.](https://openai.com/index/introducing-our-next-generation-audio-models/) |OpenAI has introduced new audio models, including Voice Engine, capable of generating realistic voices from short samples. |
 |[Perplexity is reportedly in talks to raise up to $1B at an $18B valuation.](https://techcrunch.com/2025/03/20/perplexity-is-reportedly-in-talks-to-raise-up-to-1b-at-an-18b-valuation/) | AI search startup Perplexity is in talks to raise $1 billion at a valuation of $18 billion.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Amazon Launches Interests for Personalized Shopping.](https://www.aboutamazon.com/news/retail/artificial-intelligence-amazon-features-interest) |Amazon has launched an AI-powered feature that personalizes product discovery using user-defined prompts, automatically highlighting relevant items and deals. |
+|[OpenAI adopts rival Anthropic's standard for connecting AI models to data.](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/) | OpenAI will integrate support for Anthropic's Model Context Protocol (MCP) across its products, boosting AI models' ability to interact with diverse data sources. MCP is an open-source standard that connects AI models to tools like business software. Companies such as Block, Replit, and Sourcegraph have already adopted it, and OpenAI will share more details about its implementation soon.|
+|[Elon Musk’s Grok AI lands on Telegram, gaining access to over 1 billion users.](https://techstartups.com/2025/03/26/elon-musks-grok-ai-joins-telegram-gaining-access-to-over-1-billion-users-a-new-era-for-search-and-chat/) |Elon Musk's AI chatbot, Grok, is now accessible on Telegram, bringing its sarcastic assistant to over 1 billion users. Included with Telegram Premium, Grok extends its reach beyond X, offering real-time reasoning and coding features. While it raises privacy concerns, the move places Telegram in the competitive AI space alongside ChatGPT and Google's Gemini. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
