@@ -146,6 +146,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen 2.5 32B Vision Language Model.](https://qwenlm.github.io/blog/qwen2.5-vl-32b/) |Qwen has released a strong vision language model that is open and can run reasonably well on consumer hardware. |
 |[Video-T1: Test-Time Scaling for Video Generation.](https://liuff19.github.io/Video-T1/) |Test-time compute for video leverages a guidance model to reject frame paths that violate physics or user-defined prompts. Applying test-time compute in this way significantly boosts performance on benchmarks. |
 |[3D Face Editing.](https://arxiv.org/abs/2503.17095v1) | FFaceNeRF enhances 3D face editing by overcoming fixed mask limitations in NeRF-based methods.|
+|[Visual Geometry Grounded Transformer.](https://github.com/facebookresearch/vggt) |VGGT is a feed-forward neural network that rapidly infers all key 3D scene attributes—such as extrinsic and intrinsic camera parameters, point maps, depth maps, and 3D point tracks—from one, a few, or even hundreds of views within seconds. |
+|[Dereflection Any Image.](https://abuuu122.github.io/DAI.github.io/) |Dereflection Any Image (DAI) presents a new diffusion-based method for removing reflections, utilizing a high-quality dataset and progressive training to enhance results. |
+|[Slow-Thinking Reasoning Model with FastCuRL.](https://github.com/nick7nlp/FastCuRL) | FastCuRL-1.5B-Preview advances slow-thinking reasoning models with curriculum reinforcement learning, achieving state-of-the-art results in fewer training steps.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
