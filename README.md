@@ -176,8 +176,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI is transforming peer review — and many scientists are worried.](https://www.nature.com/articles/d41586-025-00894-7) | Artificial intelligence software is increasingly involved in reviewing papers, provoking interest and unease.|
 |[Furor over quantum computing claim heats up.](https://www.science.org/content/article/debate-erupts-around-microsoft-s-blockbuster-quantum-computing-claims) |Physicists cast doubt on measurements said to show Microsoft chip uses exotic Majorana quasiparticles |
-|[.]() | |
-|[.]() | |
+|[OpenAI research lead Noam Brown thinks certain AI ‘reasoning’ models could’ve arrived decades ago.](https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/) |AI reasoning models might have appeared 20 years earlier with the right approaches and algorithms. Academic institutions can still play a vital role by focusing on lower-compute areas like model architecture design. Improving the current state of AI benchmarks is another key area where academia can have a major impact. |
+|[AI Companions: Weird and Creepy or Worth Your Attention?](https://genies.com/blog/ai-companions-weird-and-creepy-or-worth-your-attention) | AI companions, offering personalized and empathetic interactions, are quickly becoming a reality. They resonate strongly with Gen Z and Gen Alpha, providing a safe space for exploration and engagement. While issues like awkward interactions and emotional boundaries remain, AI companions add significant value through enhanced online experiences, storytelling, and personalized learning. Companies like Genies are using avatar technology and generative AI to build immersive, context-aware digital companions designed to foster authentic user connections.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
