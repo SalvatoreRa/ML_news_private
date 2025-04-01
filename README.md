@@ -47,8 +47,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[OpenAI and MIT Exploring AI and Emotional Well-Being.](https://openai.com/index/affective-use-study/) | MIT Media Lab and OpenAI are studying how users emotionally engage with ChatGPT, focusing on its effects on social and emotional well-being. The research highlights the varied ways people interact with AI conversational models and lays the groundwork for future studies on responsible AI use.|
+|[Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in LLMs.](https://arxiv.org/abs/2503.13551) |This paper introduces a Hierarchical Reward Model (HRM) to tackle reward hacking and error propagation in fine-grained LLM reasoning. HRM evaluates multiple steps, improving self-correction and providing more reliable assessments than traditional Process Reward Models (PRM), which can penalize corrections. HRM’s multi-step feedback framework also mitigates reward hacking by discouraging short-sighted strategies. The paper also presents Hierarchical Node Compression (HNC), which reduces the computational cost of generating annotations with Monte Carlo Tree Search (MCTS) while increasing dataset diversity. Experiments show that HRM outperforms standard models on complex tasks, providing better accuracy and more stable solutions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[How to use AI to get a job interview and nail it – along with the salary you deserve.](https://www.theguardian.com/money/2025/apr/01/how-to-use-ai-job-interview-salary-research-employer) |Supercharge your search and beat the screening, sharpen your speaking skills and boost your negotiating position |
 |[Multimodal generative AI for medical image interpretation.](https://www.nature.com/articles/s41586-025-08675-y) | This Perspective describes how recent advances in artificial intelligence could be used to automate medical image interpretation to complement human expertise and empower physicians and patients.|
-|[.]() | |
+|[A Review of DeepSeek Models.](https://arxiv.org/abs/2503.11486) | This paper reviews DeepSeek’s open-source models, DeepSeek-V3 and DeepSeek-R1, which deliver high performance with lower resource requirements. Key innovations include Multi-Head Latent Attention (MLA) to reduce memory use, Advanced Mixture of Experts (MoE) for improved flexibility, and Multi-Token Prediction (MTP) to speed up training. It also highlights DualPipe scheduling and FP8 mixed-precision training to optimize resources, Group Relative Policy Optimization (GRPO) for efficient reinforcement learning, and post-training reinforcement learning in DeepSeek-R1 to improve reasoning and language consistency.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
