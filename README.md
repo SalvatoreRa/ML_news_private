@@ -40,7 +40,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 #############################################
 # On working
 
-# ML news: 
 
 # ML news: 
 
@@ -93,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI exec leaves to found materials science startup.](https://techcrunch.com/2025/03/17/openai-exec-leaves-to-found-materials-science-startup/) | OpenAI's VP Liam Fedus is leaving to launch a materials science AI company with support from OpenAI. His new firm will compete with Google DeepMind and Microsoft in the AI-driven materials science field, though some experts question whether current AI can make groundbreaking scientific discoveries.|
 |[People are using Google’s new AI model to remove watermarks from images.](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/) | Users on social media have discovered a controversial use case for Google’s new Gemini AI model: removing watermarks from images, including from images published by Getty Images and other well-known stock media outfits.|
 |[Apple's AI strategy plagued by delays, Siri upgrade remains in limbo.](https://www.techspot.com/news/107160-apple-exec-candidly-discusses-siri-struggles-including-ai.html) |Apple is facing delays with its AI features for Siri, originally planned for iOS 18.5 but now potentially delayed until 2026. Despite showcasing these features at WWDC, internal assessments show the technology isn't ready for release. Apple remains hopeful, aiming to enhance Siri significantly by 2027 with a new infrastructure to stay competitive. |
-|[.]() | |
+|[Google is improving Gmail’s search with AI.](https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results) |Gmail’s search will now take your most-clicked emails and frequent contacts into account to provide better results. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
