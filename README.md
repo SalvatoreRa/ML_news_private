@@ -95,6 +95,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google is improving Gmail’s search with AI.](https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results) |Gmail’s search will now take your most-clicked emails and frequent contacts into account to provide better results. |
 |[New Reve Image Generator Beats AI Art Heavyweights MidJourney and Flux at a Penny Per Image.](https://decrypt.co/311375/new-reve-image-generator-beats-ai-art-heavyweights-midjourney-and-flux-at-a-penny-per-image) | Reve Image 1.0 is an AI image generator that delivers strong prompt adherence, realism, and versatility at a competitive price, potentially rivaling tools like Midjourney and Ideogram. Priced at $5 for 500 credits, it enables affordable high-quality image generation. However, it lacks an edit feature and mobile app, which may limit appeal for advanced users. Despite limited transparency about its team and underlying technology, Reve stands out as a cost-effective option for users seeking quality results without deep technical expertise.|
 |[OpenAI’s o1-pro is the company’s most expensive AI model yet.](https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/) | OpenAI's o1-pro, a more compute-intensive version of its o1 reasoning AI, is now available through its developer API for select users at a premium price—$150 per million input tokens and $600 per million output tokens. While it offers improved performance, early reviews are mixed, as it still struggles with some tasks. Internal benchmarks reveal only modest gains over the standard o1 model in coding and math.|
+|[OpenAI to start testing ChatGPT connectors for Google Drive and Slack.](https://techcrunch.com/2025/03/17/openai-to-start-testing-chatgpt-connectors-for-google-drive-and-slack/) |OpenAI will soon begin testing a way for business customers to connect apps like Slack and Google Drive to ChatGPT. OpenAI plans to start beta testing a new feature called ChatGPT Connectors,  will allow ChatGPT Team subscribers to link workspace Google Drive and Slack accounts to ChatGPT so the chatbot can answer questions informed by files, presentations, spreadsheets, and Slack conversations across those accounts.|
+|[YC-backed ReactWise is applying AI to speed up drug manufacturing.](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/) |ReactWise is using AI to speed up chemical manufacturing — a key step in bringing new drugs to market. Once a promising drug has been identified in the lab, pharma firms need to be able to produce much larger amounts of the material to run clinical trials. This is where ReactWise is offering to step in with its “AI copilot for chemical process optimization,” which it says accelerates by 30x the standard trial-and-error-based process of figuring out the best method for making a drug. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
