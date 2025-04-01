@@ -84,8 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Authors call for UK government to hold Meta accountable for copyright infringement.](https://www.theguardian.com/books/2025/mar/31/authors-call-for-uk-government-to-hold-meta-accountable-for-copyright-infringement) |‘I am a crime writer, I understand theft,’ said Val McDermid – joining Richard Osman, Kazuo Ishiguro and Kate Mosse in their appeal to Lisa Nandy to act on their behalf |
 |[How and why parents and teachers are introducing young children to AI.](https://www.theguardian.com/technology/2025/mar/30/parents-teachers-children-ai) | Guardian readers share the ways and reasons they are preparing their children and students for a future that may necessitate familiarity with generative artificial intelligence|
 |[Calling all fashion models … now AI is coming for you.](https://www.theguardian.com/fashion/2025/mar/30/fashion-models-ai-job-losses) |As fashion brands create AI ‘twins’ with models’ permission, some believe this is just another form of exploitation |
-|[.]() | |
-|[.]() | |
+|[Protests hit Tesla dealerships across the world in challenge to Elon Musk.](https://www.theguardian.com/world/2025/mar/29/tesla-protests-elon-musk-doge) | From Australia to Europe and the US, demonstrators rallied against carmaker’s dismantling of US federal government|
+|[Elon Musk’s xAI firm buys social media platform X for $33bn.](https://www.theguardian.com/technology/2025/mar/29/elon-musks-xai-firm-buys-social-media-platform-x-for-33bn) | Specifics of deal remain unclear, including how X’s leaders will be integrated into new company|
 |[.]() | |
 |[.]() | |
 |[.]() | |
