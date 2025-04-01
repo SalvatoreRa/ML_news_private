@@ -57,7 +57,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Modular RAG Framework.](https://arxiv.org/abs/2503.19314) |RGL simplifies the RAG pipeline for graph-structured data using modular components and optimized performance, delivering up to 143× speedup compared to traditional approaches. |
 |[Deep Learning is Not So Mysterious or Different.](https://arxiv.org/abs/2503.02113) |Andrew Gordon Wilson (New York University) argues that phenomena like benign overfitting, double descent, and overparametrization are not unique to neural networks and can also occur in simple linear models. He explains that these behaviors, such as benign overfitting with high-order polynomials, are related to soft inductive biases, which allow models to remain flexible while preferring simpler solutions. Wilson suggests that traditional generalization frameworks like PAC-Bayes already account for these behaviors, challenging the need for new theories of deep learning. While acknowledging neural networks' unique properties, such as mode connectivity and representation learning, he urges deeper collaboration and a focus on existing generalization theories to address open questions in deep learning. |
 |[ GNNs as Predictors of Agentic Workflow Performances.](https://arxiv.org/abs/2503.11301) |This work presents FLORA-Bench, a large-scale benchmark designed to assess GNN-based predictors for automating and optimizing agentic workflows. It demonstrates that Graph Neural Networks can effectively predict the success of multi-agent LLM workflows, substantially cutting down on expensive repeated model calls. |
-|[.]() | |
+|[Anthropic Researchers Trace the Thoughts of LLM.](https://www.anthropic.com/research/tracing-thoughts-language-model) |Two new studies from Anthropic explore the internal pathways of Claude models, revealing planning behaviors, shared conceptual representations across languages, and occurrences of fabricated reasoning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple faces lawsuit over Apple Intelligence delays.](https://techcrunch.com/2025/03/20/apple-faces-lawsuit-over-apple-intelligence-delays/) | Apple is facing a class-action lawsuit for allegedly misleading advertising regarding its Apple Intelligence features.|
 |[Hollywood vs AI: 400 celebs urge Trump to rein in OpenAI, Google.](https://interestingengineering.com/culture/hollywood-stars-trump-protect-copyright-from-ai) |Hollywood creatives have signed an open letter calling on the U.S. government to maintain strong copyright protections and not to relax them for AI companies such as OpenAI and Google. |
 |[AI-driven weather prediction breakthrough reported.](https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence) | Researchers say Aardvark Weather uses thousands of times less computing power and is much faster than current systems|
-|[.]() | |
+|[OpenAI Expands Cybersecurity Grant Program.](https://openai.com/index/security-on-the-path-to-agi/) |OpenAI has detailed its continued support for AI-native cybersecurity research, now offering microgrants and expanding focus areas to include model privacy and agentic security. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
