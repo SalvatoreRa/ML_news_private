@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[AI is transforming peer review — and many scientists are worried.](https://www.nature.com/articles/d41586-025-00894-7) | Artificial intelligence software is increasingly involved in reviewing papers, provoking interest and unease.|
-|[.]() | |
+|[Furor over quantum computing claim heats up.](https://www.science.org/content/article/debate-erupts-around-microsoft-s-blockbuster-quantum-computing-claims) |Physicists cast doubt on measurements said to show Microsoft chip uses exotic Majorana quasiparticles |
 |[.]() | |
 |[.]() | |
 |[.]() | |
