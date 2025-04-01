@@ -127,9 +127,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Skeleton-Based Action Segmentation.](https://arxiv.org/abs/2503.15126v1) |TRG-Net enhances action segmentation using text-derived relational graphs for improved spatial-temporal modeling and supervision. |
 |[Single Image Personalization Without Training.](https://siso-paper.github.io/) |SISO enables training-free personalization for image generation and editing by optimizing similarity loss iteratively |
 |[Awesome Deep learning-based MRI Reconstruction.](https://github.com/mosaf/awesome-dl-based-cs-mri) | comprehensive, curated repository featuring resources, tools, and research papers focused on leveraging deep learning and compressed sensing to accelerate magnetic resonance imaging acquisition. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Open-source Omni-modal Foundation Model.](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | The Baichuan Omni 1.5 model supports inputs in text, image, video, and audio formats, and outputs in both text and audio, making it an example of an any-to-any or natively multimodal model. It follows the common approach of using interleaved multimodal tokens, where various token types are routed through separate encoders/decoders and then processed by a central autoregressive model.|
+|[MCP (Model Context Protocol): Simply explained in 5 minutes.](https://read.highgrowthengineer.com/p/mcps-simply-explained) |MCP (Model Context Protocol) enables AI tools like Claude and ChatGPT to integrate seamlessly with everyday apps, transforming them from standalone chatbots into powerful, real-world assistants. Instead of pasting error logs, you can say "read my browser console and fix this bug," and the AI can access the tools directly. MCP operates through a standard interface, allowing providers like Slack, GitHub, and Sentry to build "adapters" that convert AI requests into API calls. |
+|[Fine-tune & Run Gemma 3.](https://unsloth.ai/blog/gemma3) | The Unsloth team has identified key quirks in DeepMind's new open weights model. With their toolkit, it's now possible to train the model on a free Colab instance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
