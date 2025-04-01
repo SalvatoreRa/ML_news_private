@@ -144,8 +144,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Thinking Machines.](https://arxiv.org/abs/2503.10814) | This survey offers an overview and comparison of current reasoning techniques and presents a systematic review of reasoning-imbued language models.|
 |[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models.](https://arxiv.org/abs/2503.16419) | This new survey explores strategies to tackle the "overthinking phenomenon" in Large Reasoning Models (LRMs), organizing existing approaches into model-based optimizations, output-based reasoning reductions, and prompt-based efficiency improvements. It highlights ongoing efforts to balance reasoning performance with computational efficiency in models such as OpenAI o1 and DeepSeek-R1.|
 |[Qwen 2.5 32B Vision Language Model.](https://qwenlm.github.io/blog/qwen2.5-vl-32b/) |Qwen has released a strong vision language model that is open and can run reasonably well on consumer hardware. |
-|[.]() | |
-|[.]() | |
+|[Video-T1: Test-Time Scaling for Video Generation.](https://liuff19.github.io/Video-T1/) |Test-time compute for video leverages a guidance model to reject frame paths that violate physics or user-defined prompts. Applying test-time compute in this way significantly boosts performance on benchmarks. |
+|[3D Face Editing.](https://arxiv.org/abs/2503.17095v1) | FFaceNeRF enhances 3D face editing by overcoming fixed mask limitations in NeRF-based methods.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
