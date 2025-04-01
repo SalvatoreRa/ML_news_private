@@ -101,9 +101,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek-V3-0324 Release with MIT License.](https://api-docs.deepseek.com/news/news250325) |DeepSeek has released its new V3-0324 model, which outperforms GPT 4.5 in most benchmarks and features major improvements in performance. |
 |[Outreach founder Manny Medina has a new startup that helps AI agents get paid.](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/) |Outreach founder Manny Medina has launched Paid, a platform built to help AI agent startups manage pricing and profitability. Supported by leading investors, Paid aims to reshape how AI agents are billed and valued in the growing agent economy. |
 |[A key DeepMind robotics researcher left Google, and Nvidia has already backed his stealth startup.](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/) |Pete Florence, formerly a senior research scientist at DeepMind, has founded Generalist AI, a robotics startup backed by Nvidia’s VC arm, NVentures. The company aims to develop general-purpose robots, with Florence emphasizing a vision of driving the marginal cost of physical labor to zero. He joins a wave of ex-DeepMind scientists launching new tech ventures as Nvidia's role in AI continues to expand. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Claude can now search the web.](https://www.anthropic.com/news/web-search) |Claude now features web search functionality for real-time insights and up-to-date responses, complete with source citations. |
+|[OpenAI introduces next-generation audio models in the API.](https://openai.com/index/introducing-our-next-generation-audio-models/) |OpenAI has introduced new audio models, including Voice Engine, capable of generating realistic voices from short samples. |
+|[Perplexity is reportedly in talks to raise up to $1B at an $18B valuation.](https://techcrunch.com/2025/03/20/perplexity-is-reportedly-in-talks-to-raise-up-to-1b-at-an-18b-valuation/) | AI search startup Perplexity is in talks to raise $1 billion at a valuation of $18 billion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
