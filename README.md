@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tim Cook says China’s DeepSeek AI is ‘excellent’ during visit to country.](https://9to5mac.com/2025/03/24/tim-cook-says-chinas-deepseek-ai-is-excellent-during-visit-to-country/) |Despite DeepSeek AI's security and privacy issues, Tim Cook praised it as "excellent" during his China visit. The AI, developed in China, rivals top global models at lower development costs but faces investigations in the US and Europe. Cook, who is attending the China Development Forum, often has to make diplomatic remarks about China due to Apple's business interests there. |
 |[Google's AI-focused Education Tools AI.](https://blog.google/outreach-initiatives/education/ai-literacy-day-2025/) |Google's new AI-focused educational tools offer training for educators, resources for students, and broader access to Gemini for younger users. |
 |[Microsoft announces security AI agents to help overwhelmed humans.](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents) | Microsoft has introduced six AI-powered security agents for its Security Copilot to help teams handle phishing and data loss incidents more efficiently.|
-|[.]() | |
+|[Perplexity CEO Addresses Financial Rumors.](https://www.reddit.com/r/perplexity_ai/comments/1jm2ekd/message_from_aravind_cofounder_and_ceo_of/) |Perplexity CEO Aravind Srinivas has denied financial trouble rumors, stating the company has healthy funding and no IPO plans before 2028. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
