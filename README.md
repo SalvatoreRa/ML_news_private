@@ -83,8 +83,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Announcing ARC-AGI-2 and ARC Prize 2025.](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025) |The ARC Prize has introduced ARC-AGI-2, a demanding benchmark designed to push the development of general AI systems. Current models perform well below human levels. The ARC Prize 2025 competition, hosted on Kaggle with a $1 million prize pool, encourages open-source innovation by rewarding efficient and capable solutions to ARC-AGI-2 tasks. |
 |[OpenAI reshuffles leadership as Sam Altman pivots to technical focus.](https://www.theverge.com/openai/634802/openai-leadership-change) |In a significant executive shuffle announced Monday, OpenAI is expanding COO Brad Lightcap’s responsibilities while CEO Sam Altman shifts his attention more toward the company’s technical direction. |
 |[Tim Cook says China’s DeepSeek AI is ‘excellent’ during visit to country.](https://9to5mac.com/2025/03/24/tim-cook-says-chinas-deepseek-ai-is-excellent-during-visit-to-country/) |Despite DeepSeek AI's security and privacy issues, Tim Cook praised it as "excellent" during his China visit. The AI, developed in China, rivals top global models at lower development costs but faces investigations in the US and Europe. Cook, who is attending the China Development Forum, often has to make diplomatic remarks about China due to Apple's business interests there. |
-|[.]() | |
-|[.]() | |
+|[Google's AI-focused Education Tools AI.](https://blog.google/outreach-initiatives/education/ai-literacy-day-2025/) |Google's new AI-focused educational tools offer training for educators, resources for students, and broader access to Gemini for younger users. |
+|[Microsoft announces security AI agents to help overwhelmed humans.](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents) | Microsoft has introduced six AI-powered security agents for its Security Copilot to help teams handle phishing and data loss incidents more efficiently.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
