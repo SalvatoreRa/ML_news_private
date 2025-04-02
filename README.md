@@ -89,6 +89,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon Nova Act .](https://labs.amazon.science/blog/nova-act) | Amazon has launched Nova Act, an AI model that enables agents to operate within web browsers. A research preview SDK is available, allowing developers to build agents capable of executing complex, multi-step tasks by decomposing them into atomic commands and manipulating browser actions for greater reliability. Nova Act is designed to extend agent capabilities beyond basic API tasks, boosting business productivity and task automation.|
 |[Runway releases an impressive new video-generating AI model.](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) | Runway has released its next-generation video model, which excels at prompt adherence and cinematic motion generation.|
 |[OpenAI to release an Open Weight model.](https://openai.com/open-model-feedback/) | OpenAI is soliciting feedback for an open weight model that has reasoning.|
+|[Earth AI’s algorithms found critical minerals in places everyone else ignored.](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) |Earth AI has identified promising mineral deposits in previously neglected areas of Australia through AI-driven analysis. Unlike traditional techniques, its technology rapidly scans vast regions to pinpoint potential sources of minerals such as copper and cobalt, marking a shift toward more efficient, AI-powered exploration in the mining industry. |
+|[Quora’s Poe launches its most affordable subscription plan for $5/month.](https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/) |Quora's chatbot app, Poe, launched new subscription plans at $5/month for 10,000 daily points and $250/month for 12.5 million points. |
+|[Nvidia's AI assistant is here to optimize your gaming PC.](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download) | Nvidia's Project G-Assist is a real AI assistant for RTX GPU owners that optimizes game settings, measures frame rates, and controls accessory lighting.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
