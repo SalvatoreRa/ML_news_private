@@ -129,8 +129,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TIDE for Underwater Scene Understanding.](https://hongklin.github.io/TIDE/) |A text-to-image and dense annotation generation method for underwater scenes that produces high-quality synthetic datasets with consistent pixel-level labels. |
 |[OpenAI launches OpenAI Academy, a free AI learning platform for everyone.](https://techstartups.com/2025/04/01/openai-launches-openai-academy-a-free-ai-learning-platform-for-everyone/) |OpenAI has introduced OpenAI Academy, a free platform offering AI courses that range from beginner content to advanced subjects like AI safety and governance. Designed for diverse audiences, the platform seeks to expand access to AI education and promote thoughtful engagement with its societal implications. Early feedback praises its accessibility and thorough approach to making AI more understandable worldwide. |
 |[Video Motion Segmentation.](https://motion-seg.github.io/) |Building on recent trends in tracking systems, this work incorporates dense pixel tracking to enhance long-term segmentation using Dino and SAM2. |
-|[.]() | |
-|[.]() | |
+|[Open Hands Coding Model.](https://www.all-hands.dev/blog/introducing-openhands-lm-32b----a-strong-open-coding-agent-model) |A powerful 32B model fine-tuned with reinforcement learning on top of Qwen, outperforming many much larger models on agentic coding tasks. |
+|[Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model.](https://arxiv.org/abs/2503.24290) | There’s a major open question in RL reasoning around whether a sufficiently strong base model is essential for emergent reasoning. This work explored various cases of scaling RL on a base model and found that strong base models significantly aid reasoning convergence.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
