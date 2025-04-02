@@ -78,8 +78,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trump to consider final proposal on TikTok future as US ban deadline looms.](https://www.theguardian.com/technology/2025/apr/02/trump-to-consider-final-proposal-on-tiktok-future-as-us-ban-deadline-looms) | Owner ByteDance required to find non-Chinese buyer for video app’s American operations by Saturday|
 |[UK needs to relax AI laws or risk transatlantic ties, thinktank warns.](https://www.theguardian.com/technology/2025/apr/02/uk-ai-copyright-laws-transatlantic-tony-blair-thinktank) | Tony Blair Institute says enforcing stricter licensing rules for copyright-protected material will threaten national security interests| 
 |[OpenAI raises $40bn in deal with SoftBank that values it at $300bn.](https://www.theguardian.com/technology/2025/apr/01/openai-raises-up-to-us40bn-in-deal-with-softbank) |Japanese investor to put $10bn at first into OpenAI and $30bn more by end of 2025 if certain conditions are met |
-|[.]() | |
-|[.]() | |
+|[xAI acquires X in $80B all-stock deal.](https://threadreaderapp.com/thread/1905731750275510312.html) | xAI has officially acquired X in an all-stock transaction that values the combined company at over $110 billion.|
+|[Gemini 2.5: Our most intelligent AI model.](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) |Gemini 2.5 Pro, an advanced AI model, is topping LMArena benchmarks by a wide margin. It boosts performance and accuracy through enhanced reasoning, analyzing information and making informed decisions. The model builds on the advancements of Gemini 2.0 Flash Thinking. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
