@@ -127,8 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Video-R1.](https://github.com/tulerfeng/video-r1) |Video-R1 presents a rule-based reinforcement learning method for video reasoning, utilizing a temporal variant of GRPO and introducing new datasets. It is efficiently trainable on 4 H20 or 5 A100 GPUs. |
 |[Fast Text-to-3D.](https://theericma.github.io/TriplaneTurbo/) |Progressive Rendering Distillation enables training 3D generators from text prompts without ground-truth meshes, producing high-quality 3D meshes in just 1.2 seconds and outperforming previous approaches. |
 |[TIDE for Underwater Scene Understanding.](https://hongklin.github.io/TIDE/) |A text-to-image and dense annotation generation method for underwater scenes that produces high-quality synthetic datasets with consistent pixel-level labels. |
-|[.]() | |
-|[.]() | |
+|[OpenAI launches OpenAI Academy, a free AI learning platform for everyone.](https://techstartups.com/2025/04/01/openai-launches-openai-academy-a-free-ai-learning-platform-for-everyone/) |OpenAI has introduced OpenAI Academy, a free platform offering AI courses that range from beginner content to advanced subjects like AI safety and governance. Designed for diverse audiences, the platform seeks to expand access to AI education and promote thoughtful engagement with its societal implications. Early feedback praises its accessibility and thorough approach to making AI more understandable worldwide. |
+|[Video Motion Segmentation.](https://motion-seg.github.io/) |Building on recent trends in tracking systems, this work incorporates dense pixel tracking to enhance long-term segmentation using Dino and SAM2. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
