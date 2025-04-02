@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia is reportedly in talks to acquire Lepton AI.](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) | The semiconductor giant is reportedly nearing a deal to acquire Lepton AI, a company that rents out servers that are powered by Nvidia’s AI chips|
 |[OpenAI Announces $40B in New Funding.](https://openai.com/index/march-funding-updates/) |OpenAI has secured $40 billion in funding at a $300 billion valuation to advance AI research, scale infrastructure, and support its expanding user base. The company has also partnered with SoftBank to further accelerate AGI development. |
 |[Gemini Robotics from Google DeepMind.](https://blog.google/products/gemini/how-we-built-gemini-robotics/) | Google DeepMind has unveiled its Gemini Robotics models, extending Gemini 2.0 with fine-tuning capabilities for executing physical actions.|
-|[.]() | |
-|[.]() | |
+|[Nexthop AI Locks up $110M Led by Lightspeed.](https://news.crunchbase.com/ai/infrastructure-nexthop-venture-funding-lightspeed/) |Nexthop AI has raised $110 million in a funding round led by Lightspeed Venture Partners to advance networking solutions for hyperscalers, with a focus on cost and power efficiency. The round also included investments from Kleiner Perkins, WestBridge Capital, Battery Ventures, and Emergent Ventures. CEO Anshul Sadana highlighted the company's mission to innovate in collaboration with cloud providers. |
+|[Alibaba Head Warns AI Industry Is Showing Signs of Bubble.](https://futurism.com/alibaba-ai-industry-signs-bubble) |Alibaba chairman Joe Tsai has cautioned about a possible AI bubble, citing massive data center investments without clear demand. With $52 billion already committed to AI development, concerns are growing over potential overinvestment. Recent events, such as turbulence around Chinese startup DeepSeek, have fueled investor anxiety about overpaying in the AI space. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
