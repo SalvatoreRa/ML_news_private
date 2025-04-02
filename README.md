@@ -149,8 +149,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Tools and Weapons: Microsoft's Story, Told by Its CEOs.](https://app.magellan.ai/listen_links/tldr) |Hosted by Microsoft Vice Chair and President Brad Smith, the *Tools and Weapons* podcast examines the global impact of technology. In recent episodes, Bill Gates, Steve Ballmer, and Satya Nadella reflect on Microsoft's 50-year journey, discussing its past, present, and future.|
-|[.]() | |
-|[.]() | |
+|[AI-powered therapy shows shocking results in mental health study.](https://interestingengineering.com/health/groundbreaking-ai-therapy-shows-positive-results) | A Dartmouth study found that the AI therapy chatbot Therabot significantly alleviated symptoms in participants dealing with depression, anxiety, and eating disorders.|
+|[Databricks Has a Trick That Lets AI Models Improve Themselves.](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/) |Databricks has introduced Test-time Adaptive Optimization (TAO), a technique that uses reinforcement learning and synthetic data to enhance AI models without relying on clean labeled data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
