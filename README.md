@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Quora’s Poe launches its most affordable subscription plan for $5/month.](https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/) |Quora's chatbot app, Poe, launched new subscription plans at $5/month for 10,000 daily points and $250/month for 12.5 million points. |
 |[Nvidia's AI assistant is here to optimize your gaming PC.](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download) | Nvidia's Project G-Assist is a real AI assistant for RTX GPU owners that optimizes game settings, measures frame rates, and controls accessory lighting.|
 |[Nvidia is reportedly in talks to acquire Lepton AI.](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) | The semiconductor giant is reportedly nearing a deal to acquire Lepton AI, a company that rents out servers that are powered by Nvidia’s AI chips|
-|[.]() | |
-|[.]() | |
+|[OpenAI Announces $40B in New Funding.](https://openai.com/index/march-funding-updates/) |OpenAI has secured $40 billion in funding at a $300 billion valuation to advance AI research, scale infrastructure, and support its expanding user base. The company has also partnered with SoftBank to further accelerate AGI development. |
+|[Gemini Robotics from Google DeepMind.](https://blog.google/products/gemini/how-we-built-gemini-robotics/) | Google DeepMind has unveiled its Gemini Robotics models, extending Gemini 2.0 with fine-tuning capabilities for executing physical actions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
