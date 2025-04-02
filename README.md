@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SAMWISE video segmentation.](https://github.com/ClaudiaCuttano/SAMWISE) | This work gives SAM 2 open vocabulary segmentation and more precise semantic tracking over long videos.|
 |[Orpheus.](https://github.com/freddyaboulton/orpheus-cpp) | Orpheus is a text-to-speech system. It is easy to install and runs without a GPU, similar to Llama cpp.|
 |[Video-R1.](https://github.com/tulerfeng/video-r1) |Video-R1 presents a rule-based reinforcement learning method for video reasoning, utilizing a temporal variant of GRPO and introducing new datasets. It is efficiently trainable on 4 H20 or 5 A100 GPUs. |
-|[.]() | |
-|[.]() | |
+|[Fast Text-to-3D.](https://theericma.github.io/TriplaneTurbo/) |Progressive Rendering Distillation enables training 3D generators from text prompts without ground-truth meshes, producing high-quality 3D meshes in just 1.2 seconds and outperforming previous approaches. |
+|[TIDE for Underwater Scene Understanding.](https://hongklin.github.io/TIDE/) |A text-to-image and dense annotation generation method for underwater scenes that produces high-quality synthetic datasets with consistent pixel-level labels. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
