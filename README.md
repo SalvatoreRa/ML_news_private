@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Qwen2.5-Omni.](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf) | Qwen2.5-Omni is an end-to-end multimodal model capable of perceiving and understanding text, audio, images, and video, while generating both text and speech in real-time. It features the Thinker-Talker architecture, where Thinker handles perception and text generation, and Talker generates speech, trained together for synchronized output. The model’s streaming-first design uses block-wise encoders and TMRoPE for real-time interaction. Trained on over 1.2 trillion tokens, Qwen2.5-Omni is fine-tuned for natural speech and performs well across multiple modalities. It achieves state-of-the-art results on OmniBench, outperforms previous models in ASR and TTS, and significantly closes the gap in voice-text instruction following.|
 |[Test-Time Visual In-Context Tuning.](https://arxiv.org/abs/2503.21777) | A new method enables test-time adaptation of VICL models using only the test sample, enhancing generalization across different visual tasks under domain shifts.|
 |[High-Fidelity Simultaneous Speech-To-Speech Translation.](https://arxiv.org/abs/2502.03382) |Kyutai has unveiled its latest audio system, a real-time audio-to-audio translation tool powered by a robust multi-stream transformer. It features expressive voice capabilities, delivering impressive performance in speech translation. |
-|[.]() | |
-|[.]() | |
+|[Mobile-VideoGPT.](https://github.com/amshaker/mobile-videogpt) |A compact multimodal video model with under 1B parameters, incorporating dual visual encoders and token pruning to enable real-time inference on edge devices. |
+|[Multimodal Adaptation Methods.](https://github.com/donghao51/awesome-multimodal-adaptation) | A curated list of methods for multimodal adaptation, including traditional domain adaptation, test-time adaptation, and recent innovative approaches.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
