@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Video Generation Faithfulness Benchmark.](https://arxiv.org/abs/2503.21755) | A benchmark designed to evaluate how accurately video generation aligns with the given prompt. It also introduces methods to improve the quality of generated videos in relation to the user's input prompt.|
 |[Optimal Stepsize in Diffusion Models.](https://github.com/bebebe666/optimalsteps) |Optimal Stepsize for Diffusion Sampling (OSS) improves diffusion model sampling by learning efficient stepsize schedules using dynamic programming, achieving a 10× speedup with minimal loss in generation quality. |
 |[SAMWISE video segmentation.](https://github.com/ClaudiaCuttano/SAMWISE) | This work gives SAM 2 open vocabulary segmentation and more precise semantic tracking over long videos.|
-|[.]() | |
-|[.]() | |
+|[Orpheus.](https://github.com/freddyaboulton/orpheus-cpp) | Orpheus is a text-to-speech system. It is easy to install and runs without a GPU, similar to Llama cpp.|
+|[Video-R1.](https://github.com/tulerfeng/video-r1) |Video-R1 presents a rule-based reinforcement learning method for video reasoning, utilizing a temporal variant of GRPO and introducing new datasets. It is efficiently trainable on 4 H20 or 5 A100 GPUs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
