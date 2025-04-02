@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Earth AI’s algorithms found critical minerals in places everyone else ignored.](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/) |Earth AI has identified promising mineral deposits in previously neglected areas of Australia through AI-driven analysis. Unlike traditional techniques, its technology rapidly scans vast regions to pinpoint potential sources of minerals such as copper and cobalt, marking a shift toward more efficient, AI-powered exploration in the mining industry. |
 |[Quora’s Poe launches its most affordable subscription plan for $5/month.](https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/) |Quora's chatbot app, Poe, launched new subscription plans at $5/month for 10,000 daily points and $250/month for 12.5 million points. |
 |[Nvidia's AI assistant is here to optimize your gaming PC.](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download) | Nvidia's Project G-Assist is a real AI assistant for RTX GPU owners that optimizes game settings, measures frame rates, and controls accessory lighting.|
-|[.]() | |
+|[Nvidia is reportedly in talks to acquire Lepton AI.](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/) | The semiconductor giant is reportedly nearing a deal to acquire Lepton AI, a company that rents out servers that are powered by Nvidia’s AI chips|
 |[.]() | |
 |[.]() | |
 |[.]() | |
