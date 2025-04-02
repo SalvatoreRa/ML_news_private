@@ -86,9 +86,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's AI-focused Education Tools AI.](https://blog.google/outreach-initiatives/education/ai-literacy-day-2025/) |Google's new AI-focused educational tools offer training for educators, resources for students, and broader access to Gemini for younger users. |
 |[Microsoft announces security AI agents to help overwhelmed humans.](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents) | Microsoft has introduced six AI-powered security agents for its Security Copilot to help teams handle phishing and data loss incidents more efficiently.|
 |[Perplexity CEO Addresses Financial Rumors.](https://www.reddit.com/r/perplexity_ai/comments/1jm2ekd/message_from_aravind_cofounder_and_ceo_of/) |Perplexity CEO Aravind Srinivas has denied financial trouble rumors, stating the company has healthy funding and no IPO plans before 2028. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Amazon Nova Act .](https://labs.amazon.science/blog/nova-act) | Amazon has launched Nova Act, an AI model that enables agents to operate within web browsers. A research preview SDK is available, allowing developers to build agents capable of executing complex, multi-step tasks by decomposing them into atomic commands and manipulating browser actions for greater reliability. Nova Act is designed to extend agent capabilities beyond basic API tasks, boosting business productivity and task automation.|
+|[Runway releases an impressive new video-generating AI model.](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/) | Runway has released its next-generation video model, which excels at prompt adherence and cinematic motion generation.|
+|[OpenAI to release an Open Weight model.](https://openai.com/open-model-feedback/) | OpenAI is soliciting feedback for an open weight model that has reasoning.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
