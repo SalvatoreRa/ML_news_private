@@ -81,8 +81,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[xAI acquires X in $80B all-stock deal.](https://threadreaderapp.com/thread/1905731750275510312.html) | xAI has officially acquired X in an all-stock transaction that values the combined company at over $110 billion.|
 |[Gemini 2.5: Our most intelligent AI model.](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) |Gemini 2.5 Pro, an advanced AI model, is topping LMArena benchmarks by a wide margin. It boosts performance and accuracy through enhanced reasoning, analyzing information and making informed decisions. The model builds on the advancements of Gemini 2.0 Flash Thinking. |
 |[Announcing ARC-AGI-2 and ARC Prize 2025.](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025) |The ARC Prize has introduced ARC-AGI-2, a demanding benchmark designed to push the development of general AI systems. Current models perform well below human levels. The ARC Prize 2025 competition, hosted on Kaggle with a $1 million prize pool, encourages open-source innovation by rewarding efficient and capable solutions to ARC-AGI-2 tasks. |
-|[.]() | |
-|[.]() | |
+|[OpenAI reshuffles leadership as Sam Altman pivots to technical focus.](https://www.theverge.com/openai/634802/openai-leadership-change) |In a significant executive shuffle announced Monday, OpenAI is expanding COO Brad Lightcap’s responsibilities while CEO Sam Altman shifts his attention more toward the company’s technical direction. |
+|[Tim Cook says China’s DeepSeek AI is ‘excellent’ during visit to country.](https://9to5mac.com/2025/03/24/tim-cook-says-chinas-deepseek-ai-is-excellent-during-visit-to-country/) |Despite DeepSeek AI's security and privacy issues, Tim Cook praised it as "excellent" during his China visit. The AI, developed in China, rivals top global models at lower development costs but faces investigations in the US and Europe. Cook, who is attending the China Development Forum, often has to make diplomatic remarks about China due to Apple's business interests there. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
