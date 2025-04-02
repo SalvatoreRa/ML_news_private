@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReAG - Reasoning Augmented Generation.](https://github.com/superagent-ai/reag) |Traditional Retrieval-Augmented Generation (RAG) systems use a two-step approach: semantic search retrieves documents based on surface-level similarity, followed by a language model generating responses from those documents. While effective, this often overlooks deeper context and introduces irrelevant information. ReAG—Reasoning Augmented Generation—proposes a stronger alternative by feeding raw documents directly into the language model, enabling it to process and integrate the full context. This unified method results in more accurate, nuanced, and context-aware outputs. |
 |[Awesome Vision-to-Music Generation.](https://github.com/wzk1015/awesome-vision-to-music-generation) |A curated and regularly updated list of methods, datasets, and demos focused on converting visual inputs into music (V2M), showcasing both academic and industrial advancements in the field. |
 |[Video Generation Faithfulness Benchmark.](https://arxiv.org/abs/2503.21755) | A benchmark designed to evaluate how accurately video generation aligns with the given prompt. It also introduces methods to improve the quality of generated videos in relation to the user's input prompt.|
-|[.]() | |
-|[.]() | |
+|[Optimal Stepsize in Diffusion Models.](https://github.com/bebebe666/optimalsteps) |Optimal Stepsize for Diffusion Sampling (OSS) improves diffusion model sampling by learning efficient stepsize schedules using dynamic programming, achieving a 10× speedup with minimal loss in generation quality. |
+|[SAMWISE video segmentation.](https://github.com/ClaudiaCuttano/SAMWISE) | This work gives SAM 2 open vocabulary segmentation and more precise semantic tracking over long videos.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
