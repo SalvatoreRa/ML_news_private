@@ -75,8 +75,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
+|[Trump to consider final proposal on TikTok future as US ban deadline looms.](https://www.theguardian.com/technology/2025/apr/02/trump-to-consider-final-proposal-on-tiktok-future-as-us-ban-deadline-looms) | Owner ByteDance required to find non-Chinese buyer for video app’s American operations by Saturday|
+|[UK needs to relax AI laws or risk transatlantic ties, thinktank warns.](https://www.theguardian.com/technology/2025/apr/02/uk-ai-copyright-laws-transatlantic-tony-blair-thinktank) | Tony Blair Institute says enforcing stricter licensing rules for copyright-protected material will threaten national security interests| 
 |[.]() | |
 |[.]() | |
 |[.]() | |
