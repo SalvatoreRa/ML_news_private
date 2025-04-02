@@ -109,8 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[High-Fidelity Simultaneous Speech-To-Speech Translation.](https://arxiv.org/abs/2502.03382) |Kyutai has unveiled its latest audio system, a real-time audio-to-audio translation tool powered by a robust multi-stream transformer. It features expressive voice capabilities, delivering impressive performance in speech translation. |
 |[Mobile-VideoGPT.](https://github.com/amshaker/mobile-videogpt) |A compact multimodal video model with under 1B parameters, incorporating dual visual encoders and token pruning to enable real-time inference on edge devices. |
 |[Multimodal Adaptation Methods.](https://github.com/donghao51/awesome-multimodal-adaptation) | A curated list of methods for multimodal adaptation, including traditional domain adaptation, test-time adaptation, and recent innovative approaches.|
-|[.]() | |
-|[.]() | |
+|[ReAG - Reasoning Augmented Generation.](https://github.com/superagent-ai/reag) |Traditional Retrieval-Augmented Generation (RAG) systems use a two-step approach: semantic search retrieves documents based on surface-level similarity, followed by a language model generating responses from those documents. While effective, this often overlooks deeper context and introduces irrelevant information. ReAG—Reasoning Augmented Generation—proposes a stronger alternative by feeding raw documents directly into the language model, enabling it to process and integrate the full context. This unified method results in more accurate, nuanced, and context-aware outputs. |
+|[Awesome Vision-to-Music Generation.](https://github.com/wzk1015/awesome-vision-to-music-generation) |A curated and regularly updated list of methods, datasets, and demos focused on converting visual inputs into music (V2M), showcasing both academic and industrial advancements in the field. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
