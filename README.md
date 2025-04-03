@@ -59,8 +59,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Global modules robustly emerge from local interactions and smooth gradients.](https://www.nature.com/nature/volumes/640/issues/8057) |The principle of peak selection is described, by which local interactions and smooth gradients drive self-organization of discrete global modules. |
 |[Evolutionary optimization of model merging recipes.](https://www.nature.com/articles/s42256-024-00975-8) | Akiba et al. developed an evolutionary approach to automatically merge artificial intelligence models, creating powerful hybrid models without extensive training. The method produces models with enhanced mathematical and visual capabilities that outperform larger models.|
 |[Enhanced Cell Segmentation.](https://arxiv.org/abs/2504.00784v1) |CellVTA improves vision transformer-based models for cell instance segmentation by injecting high-resolution spatial features through a CNN-based adapter, achieving state-of-the-art performance on multiple datasets. |
-|[.]() | |
-|[.]() | |
+|[Synthetic Data Generation Using Large Language Models: Advances in Text and Code.](https://arxiv.org/abs/2503.14023) |LLMs are increasingly employed to generate synthetic training data for language and code tasks, enhancing performance in low-resource settings through methods like prompt-based generation and self-refinement. The paper outlines advantages such as reduced cost and broader coverage, while also addressing challenges like factual inaccuracies and bias. It proposes mitigations and highlights future research directions in prompt automation and data quality evaluation. |
+|[Current and Future Use of LLMs for Knowledge Work.](https://arxiv.org/abs/2503.16774v1) |A two-part survey of 216 and 107 participants shows that knowledge workers currently use LLMs for tasks such as code generation and text enhancement, but anticipate more integrated use within workflows and data systems. The results provide insights for shaping future design and adoption of generative AI in professional environments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
