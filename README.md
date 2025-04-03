@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nexthop AI Locks up $110M Led by Lightspeed.](https://news.crunchbase.com/ai/infrastructure-nexthop-venture-funding-lightspeed/) |Nexthop AI has raised $110 million in a funding round led by Lightspeed Venture Partners to advance networking solutions for hyperscalers, with a focus on cost and power efficiency. The round also included investments from Kleiner Perkins, WestBridge Capital, Battery Ventures, and Emergent Ventures. CEO Anshul Sadana highlighted the company's mission to innovate in collaboration with cloud providers. |
 |[Alibaba Head Warns AI Industry Is Showing Signs of Bubble.](https://futurism.com/alibaba-ai-industry-signs-bubble) |Alibaba chairman Joe Tsai has cautioned about a possible AI bubble, citing massive data center investments without clear demand. With $52 billion already committed to AI development, concerns are growing over potential overinvestment. Recent events, such as turbulence around Chinese startup DeepSeek, have fueled investor anxiety about overpaying in the AI space. |
 |[Amazon’s Alexa Fund is now backing AI startups.](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) |Amazon's Alexa Fund is expanding its investment focus to include AI startups, investing in companies like NinjaTech AI, Hedra, Ario, and HeyBoss. |
-|[.]() | |
+|[Life-giving oxygen is wafting out of lakes worldwide.](https://www.nature.com/articles/d41586-025-00876-9) |Machine-learning method shows declining oxygen levels in thousands of lakes as their waters warm. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tools and Weapons: Microsoft's Story, Told by Its CEOs.](https://app.magellan.ai/listen_links/tldr) |Hosted by Microsoft Vice Chair and President Brad Smith, the *Tools and Weapons* podcast examines the global impact of technology. In recent episodes, Bill Gates, Steve Ballmer, and Satya Nadella reflect on Microsoft's 50-year journey, discussing its past, present, and future.|
 |[AI-powered therapy shows shocking results in mental health study.](https://interestingengineering.com/health/groundbreaking-ai-therapy-shows-positive-results) | A Dartmouth study found that the AI therapy chatbot Therabot significantly alleviated symptoms in participants dealing with depression, anxiety, and eating disorders.|
 |[Databricks Has a Trick That Lets AI Models Improve Themselves.](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/) |Databricks has introduced Test-time Adaptive Optimization (TAO), a technique that uses reinforcement learning and synthetic data to enhance AI models without relying on clean labeled data. |
-|[.]() | |
+|[‘Open source’ AI isn’t truly open — here’s how researchers can reclaim the term.](https://www.nature.com/articles/d41586-025-00930-6) | Many firms are misusing the ‘open source’ label. The scientific community, which relies on transparency and replicability, must resist this trend.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
