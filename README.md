@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Meta has stolen books’: authors to protest in London against AI trained using ‘shadow library’.](https://www.theguardian.com/books/2025/apr/03/meta-has-stolen-books-authors-to-protest-in-london-against-ai-trained-using-shadow-library) |Writers will gather at the Facebook owner’s King’s Cross office in opposition to its use of the LibGen database to train its AI models |
 |[Anthropic's LLM for Education.](https://www.anthropic.com/news/introducing-claude-for-education) |Anthropic has launched Claude for Education, featuring tools like Learning Mode to encourage critical thinking. The initiative also includes broad university access through collaborations with major institutions and educational platforms. |
 |[Claude Available for U.S. Government Use.](https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high) | Claude has attained FedRAMP High and IL-2 compliance via Google Cloud's Vertex AI, enabling its use by federal agencies and defense organizations with stringent security requirements.|
-|[.]() | |
+|[Meta and UFC partner to enhance fan engagement with AI and VR.](https://www.fastcompany.com/91310521/meta-ufc-partnership-multiyear-deal-ai-vr-fans) |Meta Platforms and the Ultimate Fighting Championship (UFC) have formed a multiyear partnership to bring Meta's AI and VR technologies to UFC events. The collaboration aims to deliver immersive fan experiences through devices like Meta Quest and AI-powered glasses. Meta's branding will appear in the Octagon during fights, and Threads will be the official social media partner. Financial details of the deal were not disclosed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,6 +142,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Easi3R: Estimating Disentangled Motion from DUSt3R Without Training.](https://github.com/Inception3D/Easi3R) | Easi3R is a 3D vision system designed to more accurately estimate 3D scenes with high motion. It significantly outperforms previous methods in full scene reconstruction by masking moving objects and learning them separately from the background.|
 |[Benchmark for RL-based Video Understanding.](https://github.com/tencentarc/seed-bench-r1) | SEED-Bench-R1 is a benchmark designed to assess post-training methods such as RL and SFT for multimodal LLMs on complex video-based tasks. It highlights RL's advantages in perception and data efficiency while also revealing its difficulties in maintaining logical coherence.|
 |[Flow Prediction for Autonomous Driving.](https://github.com/tasl-lab/uniocc) | UniOcc is a unified framework for forecasting and flow prediction in driving scenarios, designed for multi-dataset training and cross-domain evaluation across both real and synthetic environments.|
+|[Paper Bench.](https://openai.com/index/paperbench/) |OpenAI has introduced a new benchmark for academic paper creation that involves fully replicating selected papers. This includes comprehending their experiments and results, as well as generating original ideas, to evaluate deeper understanding and creativity in AI models. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
