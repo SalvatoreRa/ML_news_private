@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play.](https://arxiv.org/abs/2503.14432) |Researchers from MIT CSAIL and IBM introduce Play2Prompt, a framework that enables LLM agents to learn how to use external tools in a zero-shot manner, without needing labeled examples or high-quality documentation. Play2Prompt discovers tool usage patterns through trial-and-error API calls, generating query-answer pairs based on successful tool invocations. The system iteratively refines tool demonstrations and documentation via self-reflective beam search and rejection sampling. Play2Prompt shows strong zero-shot performance, improving accuracy by 5-7% on benchmark tasks and even boosting GPT-4o by up to 3.3%. It remains robust even with poor documentation and outperforming methods like EasyTool that rely on labeled examples, particularly in challenging tool settings. |
 |[Global modules robustly emerge from local interactions and smooth gradients.](https://www.nature.com/nature/volumes/640/issues/8057) |The principle of peak selection is described, by which local interactions and smooth gradients drive self-organization of discrete global modules. |
 |[Evolutionary optimization of model merging recipes.](https://www.nature.com/articles/s42256-024-00975-8) | Akiba et al. developed an evolutionary approach to automatically merge artificial intelligence models, creating powerful hybrid models without extensive training. The method produces models with enhanced mathematical and visual capabilities that outperform larger models.|
-|[.]() | |
+|[Enhanced Cell Segmentation.](https://arxiv.org/abs/2504.00784v1) |CellVTA improves vision transformer-based models for cell instance segmentation by injecting high-resolution spatial features through a CNN-based adapter, achieving state-of-the-art performance on multiple datasets. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Benchmark for RL-based Video Understanding.](https://github.com/tencentarc/seed-bench-r1) | SEED-Bench-R1 is a benchmark designed to assess post-training methods such as RL and SFT for multimodal LLMs on complex video-based tasks. It highlights RL's advantages in perception and data efficiency while also revealing its difficulties in maintaining logical coherence.|
 |[Flow Prediction for Autonomous Driving.](https://github.com/tasl-lab/uniocc) | UniOcc is a unified framework for forecasting and flow prediction in driving scenarios, designed for multi-dataset training and cross-domain evaluation across both real and synthetic environments.|
 |[Paper Bench.](https://openai.com/index/paperbench/) |OpenAI has introduced a new benchmark for academic paper creation that involves fully replicating selected papers. This includes comprehending their experiments and results, as well as generating original ideas, to evaluate deeper understanding and creativity in AI models. |
-|[.]() | |
+|[GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors.](https://geometrycrafter.github.io/) |A powerful model that leverages video diffusion as a prior for consistent geometry estimation over time. It operates at approximately 1.5 FPS for full point cloud estimation and also performs accurate camera pose estimation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
