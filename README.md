@@ -100,6 +100,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon’s Alexa Fund is now backing AI startups.](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/) |Amazon's Alexa Fund is expanding its investment focus to include AI startups, investing in companies like NinjaTech AI, Hedra, Ario, and HeyBoss. |
 |[Life-giving oxygen is wafting out of lakes worldwide.](https://www.nature.com/articles/d41586-025-00876-9) |Machine-learning method shows declining oxygen levels in thousands of lakes as their waters warm. |
 |[Mathematician who reshaped theory of symmetry wins Abel Prize.](https://www.nature.com/articles/d41586-025-00949-9) |Masaki Kashiwara is the first Japanese person to be awarded the most prestigious prize in mathematics. |
+|[‘Meta has stolen books’: authors to protest in London against AI trained using ‘shadow library’.](https://www.theguardian.com/books/2025/apr/03/meta-has-stolen-books-authors-to-protest-in-london-against-ai-trained-using-shadow-library) |Writers will gather at the Facebook owner’s King’s Cross office in opposition to its use of the LibGen database to train its AI models |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
