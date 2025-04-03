@@ -147,8 +147,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness.](https://ruiningli.com/dso) |Most 3D synthesized data is created with a focus on aesthetic quality, which often results in models that can't stand or support themselves in physics-based environments. This work introduces slight fine-tuning to improve the physical plausibility of these models. |
 |[Medical Reasoning Dataset.](https://github.com/UCSC-VLAA/MedReason) | A large-scale medical reasoning dataset designed to enable faithful and explainable problem-solving in LLMs, aiming to advance research in medical AI.|
 |[DeepMind's Study for Kernel Fuzzing.](https://sishuaigong.github.io/pdf/asplos25-snowplow.pdf) | Snowplow is a kernel fuzzer that uses a learned white-box mutator to enhance test mutation efficiency, leading to significantly improved code coverage and increased bug discovery in Linux kernel fuzzing. |
-|[.]() | |
-|[.]() | |
+|[The hottest AI models, what they do, and how to use them.](https://techcrunch.com/2025/03/30/the-hottest-ai-models-what-they-do-and-how-to-use-them/) | This article reviews the leading AI models released since 2024, showcasing their applications and strengths. Key highlights include OpenAI's GPT-4.5 Orion for its robust world knowledge, Google's Gemini 2.5 Pro for its coding capabilities, and Cohere's Aya Vision, which stands out in image-related tasks. The overview helps simplify understanding the fast-changing AI landscape.|
+|[DeepSite open source canvas.](https://huggingface.co/spaces/enzostvs/deepsite) |DeepSite is a DeepSeek powered open source canvas for “vibe coding” that updates apps in real time while the system writes the code. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
