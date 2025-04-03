@@ -144,9 +144,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Flow Prediction for Autonomous Driving.](https://github.com/tasl-lab/uniocc) | UniOcc is a unified framework for forecasting and flow prediction in driving scenarios, designed for multi-dataset training and cross-domain evaluation across both real and synthetic environments.|
 |[Paper Bench.](https://openai.com/index/paperbench/) |OpenAI has introduced a new benchmark for academic paper creation that involves fully replicating selected papers. This includes comprehending their experiments and results, as well as generating original ideas, to evaluate deeper understanding and creativity in AI models. |
 |[GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors.](https://geometrycrafter.github.io/) |A powerful model that leverages video diffusion as a prior for consistent geometry estimation over time. It operates at approximately 1.5 FPS for full point cloud estimation and also performs accurate camera pose estimation. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness.](https://ruiningli.com/dso) |Most 3D synthesized data is created with a focus on aesthetic quality, which often results in models that can't stand or support themselves in physics-based environments. This work introduces slight fine-tuning to improve the physical plausibility of these models. |
+|[Medical Reasoning Dataset.](https://github.com/UCSC-VLAA/MedReason) | A large-scale medical reasoning dataset designed to enable faithful and explainable problem-solving in LLMs, aiming to advance research in medical AI.|
+|[DeepMind's Study for Kernel Fuzzing.](https://sishuaigong.github.io/pdf/asplos25-snowplow.pdf) | Snowplow is a kernel fuzzer that uses a learned white-box mutator to enhance test mutation efficiency, leading to significantly improved code coverage and increased bug discovery in Linux kernel fuzzing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
