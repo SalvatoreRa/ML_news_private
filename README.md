@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Life-giving oxygen is wafting out of lakes worldwide.](https://www.nature.com/articles/d41586-025-00876-9) |Machine-learning method shows declining oxygen levels in thousands of lakes as their waters warm. |
 |[Mathematician who reshaped theory of symmetry wins Abel Prize.](https://www.nature.com/articles/d41586-025-00949-9) |Masaki Kashiwara is the first Japanese person to be awarded the most prestigious prize in mathematics. |
 |[‘Meta has stolen books’: authors to protest in London against AI trained using ‘shadow library’.](https://www.theguardian.com/books/2025/apr/03/meta-has-stolen-books-authors-to-protest-in-london-against-ai-trained-using-shadow-library) |Writers will gather at the Facebook owner’s King’s Cross office in opposition to its use of the LibGen database to train its AI models |
-|[.]() | |
-|[.]() | |
+|[Anthropic's LLM for Education.](https://www.anthropic.com/news/introducing-claude-for-education) |Anthropic has launched Claude for Education, featuring tools like Learning Mode to encourage critical thinking. The initiative also includes broad university access through collaborations with major institutions and educational platforms. |
+|[Claude Available for U.S. Government Use.](https://www.anthropic.com/news/claude-on-google-cloud-fedramp-high) | Claude has attained FedRAMP High and IL-2 compliance via Google Cloud's Vertex AI, enabling its use by federal agencies and defense organizations with stringent security requirements.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
