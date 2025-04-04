@@ -171,7 +171,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Databricks Has a Trick That Lets AI Models Improve Themselves.](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/) |Databricks has introduced Test-time Adaptive Optimization (TAO), a technique that uses reinforcement learning and synthetic data to enhance AI models without relying on clean labeled data. |
 |[‘Open source’ AI isn’t truly open — here’s how researchers can reclaim the term.](https://www.nature.com/articles/d41586-025-00930-6) | Many firms are misusing the ‘open source’ label. The scientific community, which relies on transparency and replicability, must resist this trend.|
 |[Transparency (in training data) is what we want.](https://www.nature.com/articles/s42256-025-01023-9) |As more powerful generative AI tools appear on the market, legal debates about the use of copyrighted content to develop such tools are intensifying. To resolve these issues, transparency regarding which copyrighted data have been used and where in the AI training pipeline needs to be a starting point. |
-|[.]() | |
+|[How does the brain control consciousness? This deep-brain structure.](https://www.nature.com/articles/d41586-025-01021-2) | In a world of constant stimulation, the thalamus filters which thoughts we become aware of and which we don’t.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
