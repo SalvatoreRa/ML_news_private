@@ -62,7 +62,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Synthetic Data Generation Using Large Language Models: Advances in Text and Code.](https://arxiv.org/abs/2503.14023) |LLMs are increasingly employed to generate synthetic training data for language and code tasks, enhancing performance in low-resource settings through methods like prompt-based generation and self-refinement. The paper outlines advantages such as reduced cost and broader coverage, while also addressing challenges like factual inaccuracies and bias. It proposes mitigations and highlights future research directions in prompt automation and data quality evaluation. |
 |[Current and Future Use of LLMs for Knowledge Work.](https://arxiv.org/abs/2503.16774v1) |A two-part survey of 216 and 107 participants shows that knowledge workers currently use LLMs for tasks such as code generation and text enhancement, but anticipate more integrated use within workflows and data systems. The results provide insights for shaping future design and adoption of generative AI in professional environments. |
 |[Backdoor Attacks in CLIP.](https://arxiv.org/abs/2502.01385v2) |CLIP models are extremely susceptible to backdoor poisoning attacks, with almost perfect success rates using very little poisoned data. A practical way to detect this is by applying local outlier detection to reveal accidental backdoors in current datasets. |
-|[.]() | |
+|[Large Small Net.](https://github.com/THU-MIG/lsnet) |A new class of efficient vision models draws inspiration from the human visual system's ability to process broad scenes while focusing on details, known as "See Large, Focus Small". LSNet delivers leading performance with strong efficiency across multiple vision tasks and features a novel convolution kernel design. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,7 +157,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSite open source canvas.](https://huggingface.co/spaces/enzostvs/deepsite) |DeepSite is a DeepSeek powered open source canvas for “vibe coding” that updates apps in real time while the system writes the code. |
 |[Articulated Kinematics Distillation from Video Diffusion Models.](https://research.nvidia.com/labs/dir/akd/) | This work presents Articulated Kinematics Distillation (AKD), a framework that combines skeleton-based animation with generative diffusion models to generate high-fidelity, physically plausible character motions with lower complexity. It ensures structural consistency and surpasses existing methods in 3D coherence and expressive motion quality by employing Score Distillation Sampling for precise joint-level control.|
 |[Enhanced LoRA-based Fine Tuning.](https://arxiv.org/abs/2504.00460) | MetaLoRA introduces dynamic parameter generation based on meta-learning principles, improving the flexibility and task-awareness of LoRA-based fine-tuning approaches.|
-|[.]() | |
+|[Pplx Cuda Kernels.](https://github.com/ppl-ai/pplx-kernels) |Perplexity has open-sourced some of its MoE kernels that surpass DeepSeek in large-scale performance and offer more flexibility with fewer constraints on the MoE architecture. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
