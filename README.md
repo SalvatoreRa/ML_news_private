@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Blanket ban on teen smartphone use ‘potentially detrimental’, says academic.](https://www.theguardian.com/technology/2025/apr/03/blanket-ban-on-teen-smartphone-use-potentially-detrimental-says-academic) |Dr Amy Orben says there are no ‘one-size-fits-all answers’ given importance of access to online information |
 |[Meta faces £1.8bn lawsuit over claims it inflamed violence in Ethiopia.](https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia) |Son of murdered academic calls on Facebook owner to ‘radically change how it moderates dangerous content’ |
 |[OpenAI just made its first cybersecurity investment.](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) |OpenAI has invested in Adaptive Security, a startup that uses AI to simulate and train employees to defend against social engineering attacks. The company raised $43 million in Series A funding and plans to strengthen its platform as AI-driven threats grow. Co-founded by veteran entrepreneur Brian Long, Adaptive Security has gained over 100 clients since its 2023 launch. |
-|[.]() | |
+|[OpenAI Nonprofit Guidance Commission.](https://openai.com/index/nonprofit-commission-guidance/) |OpenAI is establishing a new expert commission to guide its philanthropic arm in supporting communities through AI, aiming to better align AI innovation with the practical needs of nonprofits. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -155,7 +155,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMind's Study for Kernel Fuzzing.](https://sishuaigong.github.io/pdf/asplos25-snowplow.pdf) | Snowplow is a kernel fuzzer that uses a learned white-box mutator to enhance test mutation efficiency, leading to significantly improved code coverage and increased bug discovery in Linux kernel fuzzing. |
 |[The hottest AI models, what they do, and how to use them.](https://techcrunch.com/2025/03/30/the-hottest-ai-models-what-they-do-and-how-to-use-them/) | This article reviews the leading AI models released since 2024, showcasing their applications and strengths. Key highlights include OpenAI's GPT-4.5 Orion for its robust world knowledge, Google's Gemini 2.5 Pro for its coding capabilities, and Cohere's Aya Vision, which stands out in image-related tasks. The overview helps simplify understanding the fast-changing AI landscape.|
 |[DeepSite open source canvas.](https://huggingface.co/spaces/enzostvs/deepsite) |DeepSite is a DeepSeek powered open source canvas for “vibe coding” that updates apps in real time while the system writes the code. |
-|[.]() | |
+|[Articulated Kinematics Distillation from Video Diffusion Models.](https://research.nvidia.com/labs/dir/akd/) | This work presents Articulated Kinematics Distillation (AKD), a framework that combines skeleton-based animation with generative diffusion models to generate high-fidelity, physically plausible character motions with lower complexity. It ensures structural consistency and surpasses existing methods in 3D coherence and expressive motion quality by employing Score Distillation Sampling for precise joint-level control.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
