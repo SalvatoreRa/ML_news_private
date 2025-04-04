@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive.](https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/) |Isomorphic Labs, a DeepMind spinout, has raised $600 million from Thrive Capital to advance its AI-driven drug design platform. The funding will help expand its research team and move discovered drugs into clinical trials. The company also has partnerships with Eli Lilly and Novartis to leverage its AI model in pharmaceutical development. |
 |[NotebookLM Adds Web-Based Source Discovery.](https://blog.google/technology/google-labs/notebooklm-discover-source) |Google's NotebookLM now features a Discover tool that gathers curated web sources based on user-defined topics, making research and information collection more efficient. |
 |[AI-Powered Conversational Videos.](https://ai.meta.com/blog/tavus-real-feeling-ai-videos-llama/) | Tavus leverages Llama 3.3 to enable realistic AI-generated video conversations, integrating visual question-answering and multi-image reasoning to create lifelike digital interactions.|
-|[.]() | |
-|[.]() | |
+|[Blanket ban on teen smartphone use ‘potentially detrimental’, says academic.](https://www.theguardian.com/technology/2025/apr/03/blanket-ban-on-teen-smartphone-use-potentially-detrimental-says-academic) |Dr Amy Orben says there are no ‘one-size-fits-all answers’ given importance of access to online information |
+|[Meta faces £1.8bn lawsuit over claims it inflamed violence in Ethiopia.](https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia) |Son of murdered academic calls on Facebook owner to ‘radically change how it moderates dangerous content’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
