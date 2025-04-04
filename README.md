@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta faces £1.8bn lawsuit over claims it inflamed violence in Ethiopia.](https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia) |Son of murdered academic calls on Facebook owner to ‘radically change how it moderates dangerous content’ |
 |[OpenAI just made its first cybersecurity investment.](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) |OpenAI has invested in Adaptive Security, a startup that uses AI to simulate and train employees to defend against social engineering attacks. The company raised $43 million in Series A funding and plans to strengthen its platform as AI-driven threats grow. Co-founded by veteran entrepreneur Brian Long, Adaptive Security has gained over 100 clients since its 2023 launch. |
 |[OpenAI Nonprofit Guidance Commission.](https://openai.com/index/nonprofit-commission-guidance/) |OpenAI is establishing a new expert commission to guide its philanthropic arm in supporting communities through AI, aiming to better align AI innovation with the practical needs of nonprofits. |
-|[.]() | |
-|[.]() | |
+|[Google is shipping Gemini models faster than its AI safety reports.](https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/) | Google has introduced Gemini 2.5 Pro, an AI reasoning model that excels in coding and math. However, safety reports haven't been released yet. Google intends to share them after gathering feedback from experimental deployments, a move that raises concerns about transparency. Although the company has committed to openness, its focus on rapid releases appears to conflict with standard responsible AI practices.|
+|[Code with Claude Developer Conference.](https://www.anthropic.com/news/Introducing-code-with-claude) | Anthropic has revealed its inaugural developer event, featuring practical sessions and guidance on building with Claude, scheduled for May in San Francisco.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
