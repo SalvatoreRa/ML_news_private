@@ -110,6 +110,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-Powered Conversational Videos.](https://ai.meta.com/blog/tavus-real-feeling-ai-videos-llama/) | Tavus leverages Llama 3.3 to enable realistic AI-generated video conversations, integrating visual question-answering and multi-image reasoning to create lifelike digital interactions.|
 |[Blanket ban on teen smartphone use ‘potentially detrimental’, says academic.](https://www.theguardian.com/technology/2025/apr/03/blanket-ban-on-teen-smartphone-use-potentially-detrimental-says-academic) |Dr Amy Orben says there are no ‘one-size-fits-all answers’ given importance of access to online information |
 |[Meta faces £1.8bn lawsuit over claims it inflamed violence in Ethiopia.](https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia) |Son of murdered academic calls on Facebook owner to ‘radically change how it moderates dangerous content’ |
+|[OpenAI just made its first cybersecurity investment.](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/) |OpenAI has invested in Adaptive Security, a startup that uses AI to simulate and train employees to defend against social engineering attacks. The company raised $43 million in Series A funding and plans to strengthen its platform as AI-driven threats grow. Co-founded by veteran entrepreneur Brian Long, Adaptive Security has gained over 100 clients since its 2023 launch. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -172,7 +178,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Open source’ AI isn’t truly open — here’s how researchers can reclaim the term.](https://www.nature.com/articles/d41586-025-00930-6) | Many firms are misusing the ‘open source’ label. The scientific community, which relies on transparency and replicability, must resist this trend.|
 |[Transparency (in training data) is what we want.](https://www.nature.com/articles/s42256-025-01023-9) |As more powerful generative AI tools appear on the market, legal debates about the use of copyrighted content to develop such tools are intensifying. To resolve these issues, transparency regarding which copyrighted data have been used and where in the AI training pipeline needs to be a starting point. |
 |[How does the brain control consciousness? This deep-brain structure.](https://www.nature.com/articles/d41586-025-01021-2) | In a world of constant stimulation, the thalamus filters which thoughts we become aware of and which we don’t.|
-|[.]() | |
+|[DeepMind's Approach to AGI Safety.](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/) | Google DeepMind has shared its approach to developing safe and secure artificial general intelligence, stressing the importance of strong oversight and technical safeguards as AGI capabilities advance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
