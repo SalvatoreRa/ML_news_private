@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google is shipping Gemini models faster than its AI safety reports.](https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/) | Google has introduced Gemini 2.5 Pro, an AI reasoning model that excels in coding and math. However, safety reports haven't been released yet. Google intends to share them after gathering feedback from experimental deployments, a move that raises concerns about transparency. Although the company has committed to openness, its focus on rapid releases appears to conflict with standard responsible AI practices.|
 |[Code with Claude Developer Conference.](https://www.anthropic.com/news/Introducing-code-with-claude) | Anthropic has revealed its inaugural developer event, featuring practical sessions and guidance on building with Claude, scheduled for May in San Francisco.|
 |[Devin, the viral coding AI agent, gets a new pay-as-you-go plan.](https://finance.yahoo.com/news/devin-viral-coding-ai-agent-194633884.html) |Cognition, the startup behind the viral AI programming tool Devin, has introduced a new low-cost plan to incentivize signups. |
-|[.]() | |
-|[.]() | |
+|[Trump extends deadline for TikTok sale to non-Chinese buyer to avoid ban.](https://www.theguardian.com/us-news/2025/apr/04/tik-tok-ban-trump-extension) |Deadline set by US president was supposed to be Saturday, with Trump now considering decreasing tariffs to get deal |
+|[US authors’ copyright lawsuits against OpenAI and Microsoft combined in New York with newspaper actions.](https://www.theguardian.com/books/2025/apr/04/us-authors-copyright-lawsuits-against-openai-and-microsoft-combined-in-new-york-with-newspaper-actions) |California cases over AI trainers’ use of work by writers including Ta-Nehisi Coates and Michael Chabon transferred to consolidate with New York suits from John Grisham and Jonathan Franzen and more |
 |[.]() | |
 |[.]() | |
 |[.]() | |
