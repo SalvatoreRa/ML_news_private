@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Llama 4.](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | Meta has introduced Llama 4 Scout and Maverick, two 17B-parameter multimodal models delivering top-tier results on key benchmarks, as well as Llama 4 Behemoth, a 288B model still in training that outperforms GPT-4.5 in STEM-related tasks.|
 |[Midjourney V7.](https://www.midjourney.com/updates/v7-alpha) | Midjourney has launched its V7 alpha image generation model, featuring improved text understanding, enhanced image consistency, and a new Draft Mode for quick, budget-friendly iterations, along with support for voice commands and personalization.| 
 |[AI masters Minecraft: DeepMind program finds diamonds without being taught.](https://www.nature.com/articles/d41586-025-01019-w) |DeepMind's AI system, Dreamer, managed to learn how to collect diamonds in Minecraft without any human instruction, marking progress toward more general AI. Through reinforcement learning, Dreamer explores and models the game world on its own to forecast actions and results. This development points to possible real-world uses where trial-and-error learning would be expensive. |
-|[.]() | |
+|[OpenAI’s models ‘memorized’ copyrighted content, new study suggests.](https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/) | A new study appears to lend credence to allegations that OpenAI trained at least some of its AI models on copyrighted content.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,8 +124,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nano Aha Moment.](https://github.com/McGill-NLP/nano-aha-moment) | A single file, single GPU, from scratch full parameter tuning library that replicates DeepSeek R1-Zero style training.|
 |[Object Counting.](https://github.com/AhmedZgaren/Save) | A fully automated zero-shot object counting approach that uses feature maps and self-attention mechanisms, achieving state-of-the-art results on the FSC147 dataset.|
 |[DeepSeek 1.58bit GGUF.](https://huggingface.co/unsloth/DeepSeek-R1-GGUF/tree/main/DeepSeek-R1-UD-IQ1_S) |The Unsloth team identified which parts of the new R1 model can be effectively quantized, noting some tokenizer quirks that complicate the process. In short, only the MoE layers are quantized to 1.58 bits, while the rest stay at 4 or 6 bits using their dynamic quantization approach. |
-|[.]() | |
-|[.]() | |
+|[Granite Speech 8B.](https://huggingface.co/ibm-granite/granite-speech-3.2-8b) |IBM silently launched a state-of-the-art speech recognition and understanding model based on its Granite series. |
+|[Start building with Gemini 2.5 Pro.](https://blog.google/products/gemini/gemini-preview-model-billing-update/) | Google's Gemini 2.5 Pro is now in public preview via the Gemini API on Google AI Studio, with Vertex AI availability coming soon.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
