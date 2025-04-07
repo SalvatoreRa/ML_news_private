@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Unsupervised Panoptic Segmentation.](https://visinf.github.io/cups/) | CUPS is a novel approach to panoptic segmentation that requires no labeled data, using depth and motion cues to learn directly from scene-centric images.|
-|[.]() | |
-|[.]() | |
+|[Generative Modeling for Crystals.](https://github.com/deepmodeling/crystalformer) | CrystalFormer is a transformer-based model that creates crystal structures by leveraging space group symmetry, enhancing efficiency and reducing data requirements in crystal generation.|
+|[Nano Aha Moment.](https://github.com/McGill-NLP/nano-aha-moment) | A single file, single GPU, from scratch full parameter tuning library that replicates DeepSeek R1-Zero style training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
