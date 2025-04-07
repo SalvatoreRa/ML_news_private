@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Unsupervised Panoptic Segmentation.](https://visinf.github.io/cups/) | CUPS is a novel approach to panoptic segmentation that requires no labeled data, using depth and motion cues to learn directly from scene-centric images.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -156,7 +156,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Cyberattacks by AI agents are coming.](https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming) | AI agents are becoming powerful assets in cybersecurity, capable of carrying out sophisticated attacks and scaling operations such as ransomware. The LLM Agent Honeypot project seeks to identify these agents by mimicking vulnerable servers, showing that agents are more adaptable and evasive than typical bots. Experts expect a rise in agent-led cyberattacks and emphasize the need to proactively build defenses as the technology advances.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
