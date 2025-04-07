@@ -84,7 +84,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Llama 4.](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) | Meta has introduced Llama 4 Scout and Maverick, two 17B-parameter multimodal models delivering top-tier results on key benchmarks, as well as Llama 4 Behemoth, a 288B model still in training that outperforms GPT-4.5 in STEM-related tasks.|
 |[Midjourney V7.](https://www.midjourney.com/updates/v7-alpha) | Midjourney has launched its V7 alpha image generation model, featuring improved text understanding, enhanced image consistency, and a new Draft Mode for quick, budget-friendly iterations, along with support for voice commands and personalization.| 
-|[.]() | |
+|[AI masters Minecraft: DeepMind program finds diamonds without being taught.](https://www.nature.com/articles/d41586-025-01019-w) |DeepMind's AI system, Dreamer, managed to learn how to collect diamonds in Minecraft without any human instruction, marking progress toward more general AI. Through reinforcement learning, Dreamer explores and models the game world on its own to forecast actions and results. This development points to possible real-world uses where trial-and-error learning would be expensive. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,7 +157,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Cyberattacks by AI agents are coming.](https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming) | AI agents are becoming powerful assets in cybersecurity, capable of carrying out sophisticated attacks and scaling operations such as ransomware. The LLM Agent Honeypot project seeks to identify these agents by mimicking vulnerable servers, showing that agents are more adaptable and evasive than typical bots. Experts expect a rise in agent-led cyberattacks and emphasize the need to proactively build defenses as the technology advances.|
-|[.]() | |
+|[The artifact isn’t the art: Rethinking creativity in the age of AI.](https://www.freethink.com/opinion/studio-ghibli-chatgpt-creativity) | 
+AI-generated Ghibli-style visuals have surged in popularity, straining OpenAI's servers and sparking debates about creativity in the AI age. While AI can rapidly produce artistic images, it lacks the human ability to experience and synthesize complex ideas and emotions. The future of creativity will focus on meaningful outputs shaped by human insight and purpose, with AI as a tool rather than a creator.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
