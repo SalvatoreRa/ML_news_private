@@ -46,8 +46,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Rope to Nope and Back Again: A New Hybrid Attention Strategy.](https://arxiv.org/abs/2501.18795) |Llama 4's breakthrough in handling over 10 million tokens in context comes from alternating between no positional embeddings and rotational positional embeddings. Although current benchmarks are limited to Needle in the Haystack, they strongly suggest the effectiveness of this alternating layer approach. |
+|[Inference-Time Scaling for Generalist Reward Modeling.](https://arxiv.org/abs/2504.02495) |This DeepSeek paper explores using inference-time scaling to improve reward modeling as a way to develop stronger reasoners. It suggests a larger plan by the Chinese start-up to leverage its current reasoning models as a foundation for building the next wave of reward models to train future reasoners. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
