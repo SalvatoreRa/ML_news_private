@@ -122,8 +122,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Unsupervised Panoptic Segmentation.](https://visinf.github.io/cups/) | CUPS is a novel approach to panoptic segmentation that requires no labeled data, using depth and motion cues to learn directly from scene-centric images.|
 |[Generative Modeling for Crystals.](https://github.com/deepmodeling/crystalformer) | CrystalFormer is a transformer-based model that creates crystal structures by leveraging space group symmetry, enhancing efficiency and reducing data requirements in crystal generation.|
 |[Nano Aha Moment.](https://github.com/McGill-NLP/nano-aha-moment) | A single file, single GPU, from scratch full parameter tuning library that replicates DeepSeek R1-Zero style training.|
-|[.]() | |
-|[.]() | |
+|[Object Counting.](https://github.com/AhmedZgaren/Save) | A fully automated zero-shot object counting approach that uses feature maps and self-attention mechanisms, achieving state-of-the-art results on the FSC147 dataset.|
+|[DeepSeek 1.58bit GGUF.](https://huggingface.co/unsloth/DeepSeek-R1-GGUF/tree/main/DeepSeek-R1-UD-IQ1_S) |The Unsloth team identified which parts of the new R1 model can be effectively quantized, noting some tokenizer quirks that complicate the process. In short, only the MoE layers are quantized to 1.58 bits, while the rest stay at 4 or 6 bits using their dynamic quantization approach. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
