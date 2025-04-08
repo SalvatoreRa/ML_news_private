@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inference-Time Scaling for Generalist Reward Modeling.](https://arxiv.org/abs/2504.02495) |This DeepSeek paper explores using inference-time scaling to improve reward modeling as a way to develop stronger reasoners. It suggests a larger plan by the Chinese start-up to leverage its current reasoning models as a foundation for building the next wave of reward models to train future reasoners. |
 |[Meta Responds to Llama 4 Rumors.](https://x.com/Ahmad_Al_Dahle/status/1909302532306092107) |Meta's VP of Generative AI has refuted accusations that Llama 4 models were trained on benchmark test sets, rejecting claims that their performance results were artificially boosted. |
 |[Amazon Nova Reel 2-Minute Videos.](https://aws.amazon.com/it/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/) | The upgraded Nova Reel model now handles multi-shot videos up to 2 minutes in length, providing greater creative control and improved efficiency for generating video content.|
-|[.]() | |
+|[One-Minute Video Generation with Test-Time Training.](https://test-time-training.github.io/video-dit) | This study presents Test-Time Training (TTT) layers with rich hidden states to address the shortcomings of traditional Transformers and models like Mamba in producing long, coherent videos. By adding TTT layers to a pre-trained model, it achieves one-minute video generation from text storyboards that significantly surpass baseline methods in conveying complex narratives, based on human evaluations. Tom and Jerry cartoons serve as the test environment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -87,7 +87,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI masters Minecraft: DeepMind program finds diamonds without being taught.](https://www.nature.com/articles/d41586-025-01019-w) |DeepMind's AI system, Dreamer, managed to learn how to collect diamonds in Minecraft without any human instruction, marking progress toward more general AI. Through reinforcement learning, Dreamer explores and models the game world on its own to forecast actions and results. This development points to possible real-world uses where trial-and-error learning would be expensive. |
 |[OpenAI’s models ‘memorized’ copyrighted content, new study suggests.](https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/) | A new study appears to lend credence to allegations that OpenAI trained at least some of its AI models on copyrighted content.|
 |[UK Home Office loses attempt to keep legal battle with Apple secret.](https://www.theguardian.com/politics/2025/apr/07/uk-home-office-loses-attempt-to-keep-legal-battle-with-apple-secret) |Judges reject Home Office’s attempt to withhold from public details of case concerning access of Apple users’ data |
-|[.]() | |
+|[Investing in Krea.](https://a16z.com/announcement/investing-in-krea/) |Andreessen Horowitz has invested in Krea, a platform that blends AI models to assist creatives in generating and editing visual content. With over 20 million users, including teams at Pixar and Samsung, Krea is set to release an enterprise-grade product later this year. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
