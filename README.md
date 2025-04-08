@@ -159,7 +159,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cyberattacks by AI agents are coming.](https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming) | AI agents are becoming powerful assets in cybersecurity, capable of carrying out sophisticated attacks and scaling operations such as ransomware. The LLM Agent Honeypot project seeks to identify these agents by mimicking vulnerable servers, showing that agents are more adaptable and evasive than typical bots. Experts expect a rise in agent-led cyberattacks and emphasize the need to proactively build defenses as the technology advances.|
 |[The artifact isn’t the art: Rethinking creativity in the age of AI.](https://www.freethink.com/opinion/studio-ghibli-chatgpt-creativity) | 
 AI-generated Ghibli-style visuals have surged in popularity, straining OpenAI's servers and sparking debates about creativity in the AI age. While AI can rapidly produce artistic images, it lacks the human ability to experience and synthesize complex ideas and emotions. The future of creativity will focus on meaningful outputs shaped by human insight and purpose, with AI as a tool rather than a creator.|
-|[.]() | |
+|[How does the brain control consciousness? This deep-brain structure.](https://www.nature.com/articles/d41586-025-01021-2) | In a world of constant stimulation, the thalamus filters which thoughts we become aware of and which we don’t.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
