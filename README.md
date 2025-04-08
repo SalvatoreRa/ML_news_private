@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s models ‘memorized’ copyrighted content, new study suggests.](https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/) | A new study appears to lend credence to allegations that OpenAI trained at least some of its AI models on copyrighted content.|
 |[UK Home Office loses attempt to keep legal battle with Apple secret.](https://www.theguardian.com/politics/2025/apr/07/uk-home-office-loses-attempt-to-keep-legal-battle-with-apple-secret) |Judges reject Home Office’s attempt to withhold from public details of case concerning access of Apple users’ data |
 |[Investing in Krea.](https://a16z.com/announcement/investing-in-krea/) |Andreessen Horowitz has invested in Krea, a platform that blends AI models to assist creatives in generating and editing visual content. With over 20 million users, including teams at Pixar and Samsung, Krea is set to release an enterprise-grade product later this year. |
-|[.]() | |
+|[Google's AI Highlights in March.](https://blog.google/technology/ai/google-ai-updates-march-2025/) |Google recaps major March updates including Gemini 2.5 Pro, expanded AI Overviews, AI Mode, and other feature rollouts across its products. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Benchmarking Web Agent Capabilities.](https://arxiv.org/abs/2504.01382v1) | Online-Mind2Web is a practical evaluation benchmark for autonomous web agents, revealing that current models underperform compared to prior assumptions due to issues with earlier benchmarks.|
 |[VarGPT.](https://github.com/VARGPT-family/VARGPT-v1.1) | A unified autoregressive model that handles both understanding and synthesis tasks, enabling it to generate images as well as produce captions.|
 |[FlexTok: Resampling Images into 1D Token Sequences of Flexible Length.](https://github.com/apple/ml-flextok) | Apple's open-source release builds on its recent paper, introducing a method to tokenize images using a variable number of tokens, allowing more complex images to be represented with more tokens.|
-|[.]() | |
+|[ZClip: Adaptive Spike Mitigation for LLM Pre-Training.](https://github.com/bluorion-com/ZClip) | ZClip employs EMA-based gradient norm statistics to dynamically suppress outlier gradients, avoiding loss spikes and enhancing training stability without relying on fixed thresholds.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
