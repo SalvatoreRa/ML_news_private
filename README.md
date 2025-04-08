@@ -48,8 +48,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Rope to Nope and Back Again: A New Hybrid Attention Strategy.](https://arxiv.org/abs/2501.18795) |Llama 4's breakthrough in handling over 10 million tokens in context comes from alternating between no positional embeddings and rotational positional embeddings. Although current benchmarks are limited to Needle in the Haystack, they strongly suggest the effectiveness of this alternating layer approach. |
 |[Inference-Time Scaling for Generalist Reward Modeling.](https://arxiv.org/abs/2504.02495) |This DeepSeek paper explores using inference-time scaling to improve reward modeling as a way to develop stronger reasoners. It suggests a larger plan by the Chinese start-up to leverage its current reasoning models as a foundation for building the next wave of reward models to train future reasoners. |
-|[.]() | |
-|[.]() | |
+|[Meta Responds to Llama 4 Rumors.](https://x.com/Ahmad_Al_Dahle/status/1909302532306092107) |Meta's VP of Generative AI has refuted accusations that Llama 4 models were trained on benchmark test sets, rejecting claims that their performance results were artificially boosted. |
+|[Amazon Nova Reel 2-Minute Videos.](https://aws.amazon.com/it/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/) | The upgraded Nova Reel model now handles multi-shot videos up to 2 minutes in length, providing greater creative control and improved efficiency for generating video content.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
