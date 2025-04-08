@@ -160,8 +160,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The artifact isn’t the art: Rethinking creativity in the age of AI.](https://www.freethink.com/opinion/studio-ghibli-chatgpt-creativity) | 
 AI-generated Ghibli-style visuals have surged in popularity, straining OpenAI's servers and sparking debates about creativity in the AI age. While AI can rapidly produce artistic images, it lacks the human ability to experience and synthesize complex ideas and emotions. The future of creativity will focus on meaningful outputs shaped by human insight and purpose, with AI as a tool rather than a creator.|
 |[How does the brain control consciousness? This deep-brain structure.](https://www.nature.com/articles/d41586-025-01021-2) | In a world of constant stimulation, the thalamus filters which thoughts we become aware of and which we don’t.|
-|[.]() | |
-|[.]() | |
+|[AI for research: the ultimate guide to choosing the right tool.](https://www.nature.com/articles/d41586-025-01069-0) |Curious about using artificial intelligence to boost your research? Here are the programs you shouldn’t miss. |
+|[AI race in 2025 is tighter than ever before.](https://www.nature.com/articles/d41586-025-01033-y) |State of the industry report also shows that 2024 was a breakthrough year for small, sleek models to rival the behemoths. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
