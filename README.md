@@ -164,7 +164,7 @@ AI-generated Ghibli-style visuals have surged in popularity, straining OpenAI's 
 |[AI race in 2025 is tighter than ever before.](https://www.nature.com/articles/d41586-025-01033-y) |State of the industry report also shows that 2024 was a breakthrough year for small, sleek models to rival the behemoths. |
 |[Why more AI researchers should collaborate with governments.](https://www.nature.com/articles/d41586-025-01063-6) | Academics can drive policy innovation — but they must shift their focus from publishing papers to creating practical products.|
 |[Why an overreliance on AI-driven modelling is bad for science.](https://www.nature.com/articles/d41586-025-01067-2) | Without clear protocols to catch errors, artificial intelligence’s growing role in science could do more harm than good.|
-|[.]() | |
+|[Beyond the binary: Navigating AI’s uncertain future in Africa.](https://www.science.org/doi/10.1126/science.adw9439) |The artificial intelligence (AI) debate is increasingly polarized in Africa, mirroring a trend across the globe. On one side, utopian headlines, such as “5 Ways To Harness AI And End Poverty Forever,” claim that AI will revolutionize development. On the other, warnings that “AI Is Bad News for the Global South” paint the technology as an inevitable amplifier of inequality and exploitation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
