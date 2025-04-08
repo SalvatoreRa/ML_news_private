@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Midjourney V7.](https://www.midjourney.com/updates/v7-alpha) | Midjourney has launched its V7 alpha image generation model, featuring improved text understanding, enhanced image consistency, and a new Draft Mode for quick, budget-friendly iterations, along with support for voice commands and personalization.| 
 |[AI masters Minecraft: DeepMind program finds diamonds without being taught.](https://www.nature.com/articles/d41586-025-01019-w) |DeepMind's AI system, Dreamer, managed to learn how to collect diamonds in Minecraft without any human instruction, marking progress toward more general AI. Through reinforcement learning, Dreamer explores and models the game world on its own to forecast actions and results. This development points to possible real-world uses where trial-and-error learning would be expensive. |
 |[OpenAI’s models ‘memorized’ copyrighted content, new study suggests.](https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/) | A new study appears to lend credence to allegations that OpenAI trained at least some of its AI models on copyrighted content.|
-|[.]() | |
+|[UK Home Office loses attempt to keep legal battle with Apple secret.](https://www.theguardian.com/politics/2025/apr/07/uk-home-office-loses-attempt-to-keep-legal-battle-with-apple-secret) |Judges reject Home Office’s attempt to withhold from public details of case concerning access of Apple users’ data |
 |[.]() | |
 |[.]() | |
 |[.]() | |
