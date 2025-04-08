@@ -162,8 +162,8 @@ AI-generated Ghibli-style visuals have surged in popularity, straining OpenAI's 
 |[How does the brain control consciousness? This deep-brain structure.](https://www.nature.com/articles/d41586-025-01021-2) | In a world of constant stimulation, the thalamus filters which thoughts we become aware of and which we don’t.|
 |[AI for research: the ultimate guide to choosing the right tool.](https://www.nature.com/articles/d41586-025-01069-0) |Curious about using artificial intelligence to boost your research? Here are the programs you shouldn’t miss. |
 |[AI race in 2025 is tighter than ever before.](https://www.nature.com/articles/d41586-025-01033-y) |State of the industry report also shows that 2024 was a breakthrough year for small, sleek models to rival the behemoths. |
-|[.]() | |
-|[.]() | |
+|[Why more AI researchers should collaborate with governments.](https://www.nature.com/articles/d41586-025-01063-6) | Academics can drive policy innovation — but they must shift their focus from publishing papers to creating practical products.|
+|[Why an overreliance on AI-driven modelling is bad for science.](https://www.nature.com/articles/d41586-025-01067-2) | Without clear protocols to catch errors, artificial intelligence’s growing role in science could do more harm than good.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
