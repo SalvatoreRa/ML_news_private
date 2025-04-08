@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta Responds to Llama 4 Rumors.](https://x.com/Ahmad_Al_Dahle/status/1909302532306092107) |Meta's VP of Generative AI has refuted accusations that Llama 4 models were trained on benchmark test sets, rejecting claims that their performance results were artificially boosted. |
 |[Amazon Nova Reel 2-Minute Videos.](https://aws.amazon.com/it/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/) | The upgraded Nova Reel model now handles multi-shot videos up to 2 minutes in length, providing greater creative control and improved efficiency for generating video content.|
 |[One-Minute Video Generation with Test-Time Training.](https://test-time-training.github.io/video-dit) | This study presents Test-Time Training (TTT) layers with rich hidden states to address the shortcomings of traditional Transformers and models like Mamba in producing long, coherent videos. By adding TTT layers to a pre-trained model, it achieves one-minute video generation from text storyboards that significantly surpass baseline methods in conveying complex narratives, based on human evaluations. Tom and Jerry cartoons serve as the test environment.|
-|[.]() | |
+|[Scaling Analysis of Interleaved Speech-Text Language Models.](https://arxiv.org/abs/2504.02398v1) | This study shows that speech-language models initialized from text models using interleaved training scale more efficiently than models trained solely on speech.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek 1.58bit GGUF.](https://huggingface.co/unsloth/DeepSeek-R1-GGUF/tree/main/DeepSeek-R1-UD-IQ1_S) |The Unsloth team identified which parts of the new R1 model can be effectively quantized, noting some tokenizer quirks that complicate the process. In short, only the MoE layers are quantized to 1.58 bits, while the rest stay at 4 or 6 bits using their dynamic quantization approach. |
 |[Granite Speech 8B.](https://huggingface.co/ibm-granite/granite-speech-3.2-8b) |IBM silently launched a state-of-the-art speech recognition and understanding model based on its Granite series. |
 |[Start building with Gemini 2.5 Pro.](https://blog.google/products/gemini/gemini-preview-model-billing-update/) | Google's Gemini 2.5 Pro is now in public preview via the Gemini API on Google AI Studio, with Vertex AI availability coming soon.|
-|[.]() | |
+|[Benchmarking Web Agent Capabilities.](https://arxiv.org/abs/2504.01382v1) | Online-Mind2Web is a practical evaluation benchmark for autonomous web agents, revealing that current models underperform compared to prior assumptions due to issues with earlier benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
