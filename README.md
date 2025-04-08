@@ -127,8 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Granite Speech 8B.](https://huggingface.co/ibm-granite/granite-speech-3.2-8b) |IBM silently launched a state-of-the-art speech recognition and understanding model based on its Granite series. |
 |[Start building with Gemini 2.5 Pro.](https://blog.google/products/gemini/gemini-preview-model-billing-update/) | Google's Gemini 2.5 Pro is now in public preview via the Gemini API on Google AI Studio, with Vertex AI availability coming soon.|
 |[Benchmarking Web Agent Capabilities.](https://arxiv.org/abs/2504.01382v1) | Online-Mind2Web is a practical evaluation benchmark for autonomous web agents, revealing that current models underperform compared to prior assumptions due to issues with earlier benchmarks.|
-|[.]() | |
-|[.]() | |
+|[VarGPT.](https://github.com/VARGPT-family/VARGPT-v1.1) | A unified autoregressive model that handles both understanding and synthesis tasks, enabling it to generate images as well as produce captions.|
+|[FlexTok: Resampling Images into 1D Token Sequences of Flexible Length.](https://github.com/apple/ml-flextok) | Apple's open-source release builds on its recent paper, introducing a method to tokenize images using a variable number of tokens, allowing more complex images to be represented with more tokens.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
