@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UK Home Office loses attempt to keep legal battle with Apple secret.](https://www.theguardian.com/politics/2025/apr/07/uk-home-office-loses-attempt-to-keep-legal-battle-with-apple-secret) |Judges reject Home Office’s attempt to withhold from public details of case concerning access of Apple users’ data |
 |[Investing in Krea.](https://a16z.com/announcement/investing-in-krea/) |Andreessen Horowitz has invested in Krea, a platform that blends AI models to assist creatives in generating and editing visual content. With over 20 million users, including teams at Pixar and Samsung, Krea is set to release an enterprise-grade product later this year. |
 |[Google's AI Highlights in March.](https://blog.google/technology/ai/google-ai-updates-march-2025/) |Google recaps major March updates including Gemini 2.5 Pro, expanded AI Overviews, AI Mode, and other feature rollouts across its products. |
-|[.]() | |
+|[Genies unveils user-generated content tools that let anyone create custom AI avatars.](https://venturebeat.com/games/genies-unveils-user-generated-content-tools-that-let-anyone-create-custom-ai-avatars/) | Genies has released a no-code platform that lets users create intelligent AI avatars with distinct appearances, personalities, and behaviors for use in customizable gaming experiences called Parties. Powered by large language models, behavioral AI, and real-time animation, these avatars support dynamic interaction, gameplay, and emotional expression.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
