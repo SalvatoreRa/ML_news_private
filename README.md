@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Genies unveils user-generated content tools that let anyone create custom AI avatars.](https://venturebeat.com/games/genies-unveils-user-generated-content-tools-that-let-anyone-create-custom-ai-avatars/) | Genies has released a no-code platform that lets users create intelligent AI avatars with distinct appearances, personalities, and behaviors for use in customizable gaming experiences called Parties. Powered by large language models, behavioral AI, and real-time animation, these avatars support dynamic interaction, gameplay, and emotional expression.|
 |[OpenAI Plans O3 and O4-Mini Release Before GPT-5, Altman Say.](https://decrypt.co/313379/openai-o3-o4-mini-release-before-gpt5) | OpenAI plans to release intermediate models o3 and o4-mini ahead of GPT-5, citing technical challenges with GPT-5 and aiming to improve performance while managing demand. This move comes amid rising competition from models like Google’s Gemini 2.5 Pro, and follows OpenAI's recent $40 billion funding round.|
 |[OpenAI’s o3 model might be costlier to run than originally estimated.](https://techcrunch.com/2025/04/02/openais-o3-model-might-be-costlier-to-run-than-originally-estimated/) |When OpenAI unveiled its o3 “reasoning” AI model in December, the company partnered with the creators of ARC-AGI, a benchmark designed to test highly capable AI, to showcase o3’s capabilities. Months later, the results have been revised, and they now look slightly less impressive than they did initially. |
-|[.]() | |
+|[Bringing multimodal search to AI Mode.](https://blog.google/products/search/ai-mode-multimodal-search) |Google is expanding its AI Mode feature to millions of U.S. Labs users, enhancing it with multimodal capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[VarGPT.](https://github.com/VARGPT-family/VARGPT-v1.1) | A unified autoregressive model that handles both understanding and synthesis tasks, enabling it to generate images as well as produce captions.|
 |[FlexTok: Resampling Images into 1D Token Sequences of Flexible Length.](https://github.com/apple/ml-flextok) | Apple's open-source release builds on its recent paper, introducing a method to tokenize images using a variable number of tokens, allowing more complex images to be represented with more tokens.|
 |[ZClip: Adaptive Spike Mitigation for LLM Pre-Training.](https://github.com/bluorion-com/ZClip) | ZClip employs EMA-based gradient norm statistics to dynamically suppress outlier gradients, avoiding loss spikes and enhancing training stability without relying on fixed thresholds.|
-|[.]() | |
+|[Goku Video Model.](https://saiyan-world.github.io/goku/) |Goku from ByteDance is a flow based video generation model of 2B and 8B parameters with 160M image and 36M video pairs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
