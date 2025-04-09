@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[One-Minute Video Generation with Test-Time Training.](https://test-time-training.github.io/video-dit) | This study presents Test-Time Training (TTT) layers with rich hidden states to address the shortcomings of traditional Transformers and models like Mamba in producing long, coherent videos. By adding TTT layers to a pre-trained model, it achieves one-minute video generation from text storyboards that significantly surpass baseline methods in conveying complex narratives, based on human evaluations. Tom and Jerry cartoons serve as the test environment.|
 |[Scaling Analysis of Interleaved Speech-Text Language Models.](https://arxiv.org/abs/2504.02398v1) | This study shows that speech-language models initialized from text models using interleaved training scale more efficiently than models trained solely on speech.|
 |[A New Batch Normalization.](https://arxiv.org/abs/2504.00660) |This paper proposes a new batch normalization method for SPD manifolds that uses a learnable Generalized Bures-Wasserstein metric. |
-|[.]() | |
+|[How Students Use Claude in Education.](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude) | Anthropic studied one million student conversations to explore AI use in education, finding that STEM students are the primary users, mainly using Claude for content creation, solving technical problems, and tackling advanced learning tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,8 +137,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hi Dream Image Generation Model.](https://github.com/HiDream-ai/HiDream-I1) |A powerful 17B parameter image generation model that leverages four distinct text encoders for generation, delivering strong overall results and released under a permissive license. |
 |[A Framework for Dynamic Multi-Product Pricing.](https://arxiv.org/abs/2504.02324) |This paper presents a new dynamic multi-product pricing framework based on a censored multinomial logit model, where buyers only evaluate products priced below their personal valuations. |
 |[MotifBench for Protein Design.](https://github.com/blt2114/MotifBench) |MotifBench is a benchmark for computational protein design, centered on the motif-scaffolding challenge by finding protein structures that support and stabilize specific target motifs. |
-|[.]() | |
-|[.]() | |
+|[Arabic AI Benchmarks.](https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval) | Inception and MBZUAI have introduced a unified Arabic AI evaluation platform, featuring refreshed AraGen benchmarks and a new instruction-following leaderboard based on the Arabic IFEval benchmark.|
+|[17K reasoning traces from R1.](https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k) | A great set of reasoning traces from R1 that can be used as training data to distill a smaller reasoner or kick start the RL process.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
