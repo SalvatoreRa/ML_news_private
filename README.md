@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon Nova Reel 2-Minute Videos.](https://aws.amazon.com/it/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/) | The upgraded Nova Reel model now handles multi-shot videos up to 2 minutes in length, providing greater creative control and improved efficiency for generating video content.|
 |[One-Minute Video Generation with Test-Time Training.](https://test-time-training.github.io/video-dit) | This study presents Test-Time Training (TTT) layers with rich hidden states to address the shortcomings of traditional Transformers and models like Mamba in producing long, coherent videos. By adding TTT layers to a pre-trained model, it achieves one-minute video generation from text storyboards that significantly surpass baseline methods in conveying complex narratives, based on human evaluations. Tom and Jerry cartoons serve as the test environment.|
 |[Scaling Analysis of Interleaved Speech-Text Language Models.](https://arxiv.org/abs/2504.02398v1) | This study shows that speech-language models initialized from text models using interleaved training scale more efficiently than models trained solely on speech.|
-|[.]() | |
+|[A New Batch Normalization.](https://arxiv.org/abs/2504.00660) |This paper proposes a new batch normalization method for SPD manifolds that uses a learnable Generalized Bures-Wasserstein metric. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Goku Video Model.](https://saiyan-world.github.io/goku/) |Goku from ByteDance is a flow based video generation model of 2B and 8B parameters with 160M image and 36M video pairs. |
 |[AI Index 2025: State of AI in 10 Charts.](https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts) |A clear, high-level, and thorough overview in 10 charts capturing the current landscape of AI, covering models, funding, and associated costs. |
 |[Benchmarking Open Source models for OCR.](https://getomni.ai/blog/benchmarking-open-source-models-for-ocr) | OCR involves recognizing text within images—a task that's difficult in rare cases but highly valuable when accurate. While closed models like the Gemini series excel at it, the latest Llama 4 models significantly advance the performance of open-source alternatives.|
-|[.]() | |
+|[DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level.](https://www.together.ai/blog/deepcoder) | Together AI has developed a coding model that rivals closed-source reasoning models. They've released the data, code, and training recipes, highlighting the model's impressive long-context capabilities.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
