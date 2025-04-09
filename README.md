@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Waymo may use interior camera data to train generative AI models, but riders will be able to opt out.](https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/) | Waymo is preparing to use data from its robotaxis, including video from interior cameras tied to rider identities, to train generative AI models, according to an unreleased version of its privacy policy found by researcher Jane Manchun Wong, raising fresh questions about how much of a rider’s behavior inside autonomous vehicles could be repurposed for AI training.|
 |[Microsoft’s Copilot can now browse the web and perform actions for you.](https://techcrunch.com/2025/04/04/microsofts-copilot-can-now-browse-the-web-and-perform-actions-for-you/) |Microsoft's Copilot AI chatbot now performs tasks on popular websites, remembers user preferences, and analyzes real-time video. |
 |[ElevenLabs releases official MCP server for AI-driven audio processing.](https://github.com/elevenlabs/elevenlabs-mcp) |ElevenLabs has launched an official Model Context Protocol server for Text-to-Speech and audio processing that is compatible with clients like Claude Desktop and OpenAI Agents. |
-|[.]() | |
-|[.]() | |
+|[Big tech’s new datacentres will take water from the world’s driest areas.](https://www.theguardian.com/environment/2025/apr/09/big-tech-datacentres-water) | Amazon, Google and Microsoft are building datacentres in water-scarce parts of five continents|
+|[EU to build AI gigafactories in €20bn push to catch up with US and China.](https://www.theguardian.com/technology/2025/apr/09/eu-to-build-ai-gigafactories-20bn-push-catch-up-us-china) |Up to five sites with power-hungry supercomputers and datacentres planned to drive AI ‘moonshots’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
