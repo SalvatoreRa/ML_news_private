@@ -94,8 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s o3 model might be costlier to run than originally estimated.](https://techcrunch.com/2025/04/02/openais-o3-model-might-be-costlier-to-run-than-originally-estimated/) |When OpenAI unveiled its o3 “reasoning” AI model in December, the company partnered with the creators of ARC-AGI, a benchmark designed to test highly capable AI, to showcase o3’s capabilities. Months later, the results have been revised, and they now look slightly less impressive than they did initially. |
 |[Bringing multimodal search to AI Mode.](https://blog.google/products/search/ai-mode-multimodal-search) |Google is expanding its AI Mode feature to millions of U.S. Labs users, enhancing it with multimodal capabilities. |
 |[Waymo may use interior camera data to train generative AI models, but riders will be able to opt out.](https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/) | Waymo is preparing to use data from its robotaxis, including video from interior cameras tied to rider identities, to train generative AI models, according to an unreleased version of its privacy policy found by researcher Jane Manchun Wong, raising fresh questions about how much of a rider’s behavior inside autonomous vehicles could be repurposed for AI training.|
-|[.]() | |
-|[.]() | |
+|[Microsoft’s Copilot can now browse the web and perform actions for you.](https://techcrunch.com/2025/04/04/microsofts-copilot-can-now-browse-the-web-and-perform-actions-for-you/) |Microsoft's Copilot AI chatbot now performs tasks on popular websites, remembers user preferences, and analyzes real-time video. |
+|[ElevenLabs releases official MCP server for AI-driven audio processing.](https://github.com/elevenlabs/elevenlabs-mcp) |ElevenLabs has launched an official Model Context Protocol server for Text-to-Speech and audio processing that is compatible with clients like Claude Desktop and OpenAI Agents. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +139,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MotifBench for Protein Design.](https://github.com/blt2114/MotifBench) |MotifBench is a benchmark for computational protein design, centered on the motif-scaffolding challenge by finding protein structures that support and stabilize specific target motifs. |
 |[Arabic AI Benchmarks.](https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval) | Inception and MBZUAI have introduced a unified Arabic AI evaluation platform, featuring refreshed AraGen benchmarks and a new instruction-following leaderboard based on the Arabic IFEval benchmark.|
 |[17K reasoning traces from R1.](https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k) | A great set of reasoning traces from R1 that can be used as training data to distill a smaller reasoner or kick start the RL process.|
-|[.]() | |
+|[How Google Built the Pixel's Add Me Feature.](https://blog.google/products/pixel/how-google-built-pixel-add-me/) |The "Add Me" feature on Pixel devices leverages advanced image segmentation and AI for personalized video experiences. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
