@@ -135,8 +135,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Benchmarking Open Source models for OCR.](https://getomni.ai/blog/benchmarking-open-source-models-for-ocr) | OCR involves recognizing text within images—a task that's difficult in rare cases but highly valuable when accurate. While closed models like the Gemini series excel at it, the latest Llama 4 models significantly advance the performance of open-source alternatives.|
 |[DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level.](https://www.together.ai/blog/deepcoder) | Together AI has developed a coding model that rivals closed-source reasoning models. They've released the data, code, and training recipes, highlighting the model's impressive long-context capabilities.|
 |[Hi Dream Image Generation Model.](https://github.com/HiDream-ai/HiDream-I1) |A powerful 17B parameter image generation model that leverages four distinct text encoders for generation, delivering strong overall results and released under a permissive license. |
-|[.]() | |
-|[.]() | |
+|[A Framework for Dynamic Multi-Product Pricing.](https://arxiv.org/abs/2504.02324) |This paper presents a new dynamic multi-product pricing framework based on a censored multinomial logit model, where buyers only evaluate products priced below their personal valuations. |
+|[MotifBench for Protein Design.](https://github.com/blt2114/MotifBench) |MotifBench is a benchmark for computational protein design, centered on the motif-scaffolding challenge by finding protein structures that support and stabilize specific target motifs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
