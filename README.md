@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Index 2025: State of AI in 10 Charts.](https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts) |A clear, high-level, and thorough overview in 10 charts capturing the current landscape of AI, covering models, funding, and associated costs. |
 |[Benchmarking Open Source models for OCR.](https://getomni.ai/blog/benchmarking-open-source-models-for-ocr) | OCR involves recognizing text within images—a task that's difficult in rare cases but highly valuable when accurate. While closed models like the Gemini series excel at it, the latest Llama 4 models significantly advance the performance of open-source alternatives.|
 |[DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level.](https://www.together.ai/blog/deepcoder) | Together AI has developed a coding model that rivals closed-source reasoning models. They've released the data, code, and training recipes, highlighting the model's impressive long-context capabilities.|
-|[.]() | |
+|[Hi Dream Image Generation Model.](https://github.com/HiDream-ai/HiDream-I1) |A powerful 17B parameter image generation model that leverages four distinct text encoders for generation, delivering strong overall results and released under a permissive license. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
