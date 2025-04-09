@@ -142,6 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Google Built the Pixel's Add Me Feature.](https://blog.google/products/pixel/how-google-built-pixel-add-me/) |The "Add Me" feature on Pixel devices leverages advanced image segmentation and AI for personalized video experiences. |
 |[PaperBench: Evaluating AI's Ability to Replicate AI Research.](https://arxiv.org/abs/2504.01848) | OpenAI introduces PaperBench, a benchmark to evaluate whether AI agents can replicate cutting-edge machine learning research papers from scratch. The challenge requires agents to understand papers, build codebases, and run experiments to match results, with each paper accompanied by a detailed rubric. Evaluation is done using an LLM-based judge that scores with high agreement to human experts. The highest score was 21.0% by Claude 3.5 Sonnet, with no model surpassing 26.0%. ML PhDs scored 41.4% on a subset in 48 hours, showing humans still outperform in long-term tasks. A simplified Code-Dev version showed better results for o1 (43.4%). Models often struggled with early failure, lack of planning, and iteration, highlighting the importance of proper prompting and scaffolding.|
 |[Command A: An Enterprise-Ready Large Language Model.](https://arxiv.org/abs/2504.00698) |Cohere introduces Command A, a 111B parameter open-weights LLM designed for enterprise tasks like RAG, agents, code, and multilingual applications. Command A uses a decentralized training pipeline where expert models are fine-tuned for specific domains and then merged, maintaining most expert performance with a minimal drop. Its hybrid architecture improves long-context efficiency, supporting 256k contexts with lower memory usage, and it outperforms peers in long-context benchmarks. Command A excels in agentic capabilities, surpassing GPT-4o and Claude 3.5 in multiple tests. It leads in real-world generative tasks and RAG use cases, with top scores in multilingual tasks, including dialect alignment and language consistency. The model also undergoes alignment with SRPO and RLHF, showing significant improvements in human alignment. Despite its size, Command A is efficient, running on just 2×A100s or H100s and generating 156 tokens/sec. Model weights are openly available on Hugging Face. |
+|[Open Deep Search: Democratizing Search with Open-source Reasoning Agents.](https://arxiv.org/abs/2503.20201) |Researchers from Sentient, UW, Princeton, and UC Berkeley introduce Open Deep Search (ODS), an open-source AI framework that competes with proprietary systems like GPT-4o Search Preview and Perplexity Sonar. ODS consists of two components: the Open Search Tool, which refines web results through query rephrasing and reranking, and the Open Reasoning Agent, which orchestrates tool usage to answer queries. ODS-v2, built on DeepSeek-R1, outperforms GPT-4o Search Preview by 9.7% on FRAMES and offers better cost-efficiency. It also surpasses Perplexity Sonar on complex reasoning tasks. The addition of CodeAct in ODS-v2 allows the system to run Python code for improved reasoning and precision, offering more flexibility than the CoT-based ReAct in ODS-v1. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +152,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Perspectives
 |Link|description|
