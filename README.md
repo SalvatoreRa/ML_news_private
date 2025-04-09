@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ZClip: Adaptive Spike Mitigation for LLM Pre-Training.](https://github.com/bluorion-com/ZClip) | ZClip employs EMA-based gradient norm statistics to dynamically suppress outlier gradients, avoiding loss spikes and enhancing training stability without relying on fixed thresholds.|
 |[Goku Video Model.](https://saiyan-world.github.io/goku/) |Goku from ByteDance is a flow based video generation model of 2B and 8B parameters with 160M image and 36M video pairs. |
 |[AI Index 2025: State of AI in 10 Charts.](https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts) |A clear, high-level, and thorough overview in 10 charts capturing the current landscape of AI, covering models, funding, and associated costs. |
-|[.]() | |
+|[Benchmarking Open Source models for OCR.](https://getomni.ai/blog/benchmarking-open-source-models-for-ocr) | OCR involves recognizing text within images—a task that's difficult in rare cases but highly valuable when accurate. While closed models like the Gemini series excel at it, the latest Llama 4 models significantly advance the performance of open-source alternatives.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
