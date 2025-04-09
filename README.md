@@ -98,7 +98,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ElevenLabs releases official MCP server for AI-driven audio processing.](https://github.com/elevenlabs/elevenlabs-mcp) |ElevenLabs has launched an official Model Context Protocol server for Text-to-Speech and audio processing that is compatible with clients like Claude Desktop and OpenAI Agents. |
 |[Big tech’s new datacentres will take water from the world’s driest areas.](https://www.theguardian.com/environment/2025/apr/09/big-tech-datacentres-water) | Amazon, Google and Microsoft are building datacentres in water-scarce parts of five continents|
 |[EU to build AI gigafactories in €20bn push to catch up with US and China.](https://www.theguardian.com/technology/2025/apr/09/eu-to-build-ai-gigafactories-20bn-push-catch-up-us-china) |Up to five sites with power-hungry supercomputers and datacentres planned to drive AI ‘moonshots’ |
-|[.]() | |
+|[Online suicide forum investigated under new UK digital safety laws.](https://www.theguardian.com/technology/2025/apr/09/online-suicide-forum-ofcom-investigation-uk-digital-safety-laws) | Ofcom’s first investigation to look into whether site took adequate measures to shield users from illegal content|
 |[.]() | |
 |[.]() | |
 |[.]() | |
