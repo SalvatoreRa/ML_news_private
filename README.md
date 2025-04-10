@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[White House insists iPhones will be US-made – but Apple calls it a non-starter.](https://www.theguardian.com/us-news/2025/apr/09/trump-apple-iphones-made-in-usa) |Experts doubt Trump line that tariffs and company’s $500bn investment will shift manufacturing from Asia |
 |[Dr Oz tells federal health workers AI could replace frontline doctors.](https://www.theguardian.com/us-news/2025/apr/09/mehmet-oz-doctors-ai) |Former TV doctor who leads $1.5tn Medicare and Medicaid agency also says staff have ‘patriotic duty’ to stay healthy |
 |[Bank of England says AI software could create market crisis for profit.](https://www.theguardian.com/business/2025/apr/09/bank-of-england-says-ai-software-could-create-market-crisis-profit) |Concern grows over programs deployed to act with autonomy that may ‘exploit weaknesses’ |
-|[.]() | |
+|[EU to build AI gigafactories in €20bn push to catch up with US and China.](https://www.theguardian.com/technology/2025/apr/09/eu-to-build-ai-gigafactories-20bn-push-catch-up-us-china) |Up to five sites with power-hungry supercomputers and datacentres planned to drive AI ‘moonshots’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
