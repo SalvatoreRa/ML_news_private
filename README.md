@@ -115,8 +115,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hugging Face and Cloudflare Partnership.](https://huggingface.co/blog/fastrtc-cloudflare) | Developers can now quickly create real-time voice and video applications using FastRTC, which leverages Cloudflare's enterprise-grade WebRTC infrastructure and offers easy integration through Hugging Face tokens.|
 |[GitHub Copilot introduces new limits, charges for ‘premium’ AI models.](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/) |GitHub Copilot users will face rate limits on AI models beyond the base GPT-4o model, with premium requests capped for paid tiers. |
 |[Shopify CEO declares AI proficiency a baseline expectation for employees.](https://x.com/tobi/status/1909251946235437514) | Shopify CEO Tobi Lütke announced that reflexive AI usage is now a fundamental expectation for all employees.|
-|[.]() | |
-|[.]() | |
+|[ChatGPT Now Uses All Past Conversations.](https://threadreaderapp.com/thread/1910380643772665873.html) | ChatGPT can now remember all your past conversations, a step toward more personalized and long-term useful AI systems.|
+|[Mira Murati’s AI startup is reportedly aiming for a massive $2B seed round.](https://techcrunch.com/2025/04/10/mira-muratis-ai-startup-is-reportedly-aiming-for-a-massive-2b-seed-round/) |Thinking Machines Lab, the new AI startup from ex-OpenAI CTO Mira Murati, is reportedly attempting to close one of the largest seed rounds in history. Thinking Machines Lab only recently emerged from stealth and has no product or revenue to speak of. What it does have — and what’s likely convincing investors to fork over cash — is dozens of high-profile AI researchers in its ranks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
