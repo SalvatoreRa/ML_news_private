@@ -160,8 +160,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models.](https://arxiv.org/abs/2503.24377) | This survey examines reasoning economy in LLMs, exploring how to balance deep reasoning performance with computational cost. It reviews inefficiencies, behavioral patterns, and potential solutions during both post-training and inference stages.|
 |[Omni SVG.](https://omnisvg.github.io/) | By interpreting SVGs as a foreign language, a pretrained Qwen model can generate original SVGs from text and images, setting a new state-of-the-art. An open release is expected soon.|
 |[OLMoTrace.](https://allenai.org/blog/olmotrace) |A debate in language modeling centers on how much models truly learn versus what they merely memorize. A new feature in the AI2 Playground addresses this by searching billions of input documents in real time to determine whether a model's output is original or regurgitated, providing source references from multiple documents. |
-|[.]() | |
-|[.]() | |
+|[Efficient MoE Inference.](https://github.com/shuzhangzhong/HybriMoE-Preview) | HybriMoE is a new framework for hybrid CPU-GPU inference on Mixture of Experts models, addressing instability and overhead through improved scheduling and caching techniques.|
+|[Protein Backbone Generation.](https://github.com/AngxiaoYue/ReQFlow) | ReQFlow establishes a new standard in protein backbone generation, achieving state-of-the-art performance while being much faster than current models—37 times faster than RFDiffusion and 62 times faster than Genie2 for 300-length sequences.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
