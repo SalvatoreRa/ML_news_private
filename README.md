@@ -167,7 +167,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[BrowseComp agent benchmark.](https://openai.com/index/browsecomp/) | OpenAI has introduced a new agent-based benchmark that evaluates an agent's skill in finding difficult-to-locate information through browser interactions. Its DeepResearch model scores 51%, compared to roughly 80% for humans.|
 |[Neural Motion Simulator for Embodied AI.](https://arxiv.org/abs/2504.07095) | MoSim introduces a world model for motion dynamics that improves skill acquisition and enables zero-shot learning, effectively turning model-free RL into model-based.|
 |[VideoChat R1.](https://github.com/OpenGVLab/VideoChat-R1/tree/main) |An inference time compute captioning method for video question answering. It uses RL to improve the overall reasoning of the model which leads to a 30% boost in object tracking tasks. |
-|[.]() | |
+|[Mammal Pose Estimation.](https://github.com/Raojiyong/KITPose) | KITPose is a novel keypoints-interactive model designed for general mammal pose estimation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
