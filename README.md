@@ -163,9 +163,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient MoE Inference.](https://github.com/shuzhangzhong/HybriMoE-Preview) | HybriMoE is a new framework for hybrid CPU-GPU inference on Mixture of Experts models, addressing instability and overhead through improved scheduling and caching techniques.|
 |[Protein Backbone Generation.](https://github.com/AngxiaoYue/ReQFlow) | ReQFlow establishes a new standard in protein backbone generation, achieving state-of-the-art performance while being much faster than current models—37 times faster than RFDiffusion and 62 times faster than Genie2 for 300-length sequences.|
 |[Cogito v1 Preview: Introducing IDA as a path to general superintelligence.](https://www.deepcogito.com/research/cogito-v1-preview) | The Cognito team has open-sourced LLMs from 3B to 70B parameters, all outperforming leading open models in their size class, with the 70B model exceeding Llama 4 109B MoE. Trained using Iterated Distillation and Amplification (IDA), these models handle both direct and reflective answering, and are available on Hugging Face, Ollama, Fireworks AI, and Together AI.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[OmniCaptioner.](https://alpha-innovator.github.io/OmniCaptioner-project-page/) | OmniCaptioner is an all-in-one visual captioning framework that produces rich textual descriptions across various visual domains, such as natural images, textual visuals, and structured graphics. It boosts visual reasoning in LLMs, supports better image generation, and enables efficient supervised fine-tuning with reduced data requirements.|
+|[BrowseComp agent benchmark.](https://openai.com/index/browsecomp/) | OpenAI has introduced a new agent-based benchmark that evaluates an agent's skill in finding difficult-to-locate information through browser interactions. Its DeepResearch model scores 51%, compared to roughly 80% for humans.|
+|[Neural Motion Simulator for Embodied AI.](https://arxiv.org/abs/2504.07095) | MoSim introduces a world model for motion dynamics that improves skill acquisition and enables zero-shot learning, effectively turning model-free RL into model-based.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
