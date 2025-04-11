@@ -162,7 +162,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OLMoTrace.](https://allenai.org/blog/olmotrace) |A debate in language modeling centers on how much models truly learn versus what they merely memorize. A new feature in the AI2 Playground addresses this by searching billions of input documents in real time to determine whether a model's output is original or regurgitated, providing source references from multiple documents. |
 |[Efficient MoE Inference.](https://github.com/shuzhangzhong/HybriMoE-Preview) | HybriMoE is a new framework for hybrid CPU-GPU inference on Mixture of Experts models, addressing instability and overhead through improved scheduling and caching techniques.|
 |[Protein Backbone Generation.](https://github.com/AngxiaoYue/ReQFlow) | ReQFlow establishes a new standard in protein backbone generation, achieving state-of-the-art performance while being much faster than current models—37 times faster than RFDiffusion and 62 times faster than Genie2 for 300-length sequences.|
-|[.]() | |
+|[Cogito v1 Preview: Introducing IDA as a path to general superintelligence.](https://www.deepcogito.com/research/cogito-v1-preview) | The Cognito team has open-sourced LLMs from 3B to 70B parameters, all outperforming leading open models in their size class, with the 70B model exceeding Llama 4 109B MoE. Trained using Iterated Distillation and Amplification (IDA), these models handle both direct and reflective answering, and are available on Hugging Face, Ollama, Fireworks AI, and Together AI.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
