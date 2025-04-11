@@ -111,10 +111,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Ironwood TPU.](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/) |The 7th generation of Google's TPUs brings major advancements in podsize, bandwidth, memory, and total flops, marking a significant leap beyond any other chip currently available. |
 |[Claude's Max Plan.](https://www.anthropic.com/news/max-plan) | The new Max plan for Claude offers increased usage limits and priority access to features and models, catering to users with intensive needs. It comes in two tiers: Expanded Usage at $100/month with 5x usage, and Maximum Flexibility at $200/month with 20x usage—ideal for handling large documents and complex data regularly.|
 |[Generative Media Upgrades in Vertex AI.](https://blog.google/products/google-cloud/cloud-next-gen-ai-vertex-ai-updates/) | Google Cloud has upgraded Vertex AI with advanced generative tools, introducing features like text-to-music with Lyria, video editing via Veo 2, voice customization through Chirp 3, and image inpainting using Imagen 3.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Introducing Firebase Studio.](https://firebase.blog/posts/2025/04/introducing-firebase-studio) |Firebase Studio is debuting as a cloud-based development platform for creating, testing, and deploying AI apps. It integrates tools like Project IDX, Genkit, and Gemini into a single environment, enabling fast AI prototyping and a flexible coding workspace. Developers benefit from features like natural language prototyping, real-time device previews, and seamless collaboration to speed up app development. |
+|[Hugging Face and Cloudflare Partnership.](https://huggingface.co/blog/fastrtc-cloudflare) | Developers can now quickly create real-time voice and video applications using FastRTC, which leverages Cloudflare's enterprise-grade WebRTC infrastructure and offers easy integration through Hugging Face tokens.|
+|[GitHub Copilot introduces new limits, charges for ‘premium’ AI models.](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/) |GitHub Copilot users will face rate limits on AI models beyond the base GPT-4o model, with premium requests capped for paid tiers. |
+|[Shopify CEO declares AI proficiency a baseline expectation for employees.](https://x.com/tobi/status/1909251946235437514) | Shopify CEO Tobi Lütke announced that reflexive AI usage is now a fundamental expectation for all employees.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -163,6 +163,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient MoE Inference.](https://github.com/shuzhangzhong/HybriMoE-Preview) | HybriMoE is a new framework for hybrid CPU-GPU inference on Mixture of Experts models, addressing instability and overhead through improved scheduling and caching techniques.|
 |[Protein Backbone Generation.](https://github.com/AngxiaoYue/ReQFlow) | ReQFlow establishes a new standard in protein backbone generation, achieving state-of-the-art performance while being much faster than current models—37 times faster than RFDiffusion and 62 times faster than Genie2 for 300-length sequences.|
 |[Cogito v1 Preview: Introducing IDA as a path to general superintelligence.](https://www.deepcogito.com/research/cogito-v1-preview) | The Cognito team has open-sourced LLMs from 3B to 70B parameters, all outperforming leading open models in their size class, with the 70B model exceeding Llama 4 109B MoE. Trained using Iterated Distillation and Amplification (IDA), these models handle both direct and reflective answering, and are available on Hugging Face, Ollama, Fireworks AI, and Together AI.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
