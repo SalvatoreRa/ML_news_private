@@ -108,6 +108,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple said to be flying iPhones from India to US to avoid Trump tariffs.](https://www.theguardian.com/technology/2025/apr/10/apple-flying-iphones-india-us-avoid-trump-tariffs) |Tech firm has reportedly flown 600 tonnes of handsets from Indian factories as Chinese goods face huge tariffs |
 |[Federal workers fear Musk’s ‘efficiency’ agency is using AI to spy on them: ‘They are omnipresent’.](https://www.theguardian.com/us-news/ng-interactive/2025/apr/10/elon-musk-doge-spying) | The billionaire’s Doge may be secretly recording meetings in at least two agencies, according to emails from senior officials|
 |[Energy demands from AI datacentres to quadruple by 2030, says report.](https://www.theguardian.com/technology/2025/apr/10/energy-demands-from-ai-datacentres-to-quadruple-by-2030-says-report) |The IEA forecast indicates a sharp rise in the requirements of AI, but said threat to the climate was ‘overstated’ |
+|[Google Ironwood TPU.](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/) |The 7th generation of Google's TPUs brings major advancements in podsize, bandwidth, memory, and total flops, marking a significant leap beyond any other chip currently available. |
+|[Claude's Max Plan.](https://www.anthropic.com/news/max-plan) | The new Max plan for Claude offers increased usage limits and priority access to features and models, catering to users with intensive needs. It comes in two tiers: Expanded Usage at $100/month with 5x usage, and Maximum Flexibility at $200/month with 20x usage—ideal for handling large documents and complex data regularly.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
