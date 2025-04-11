@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Energy demands from AI datacentres to quadruple by 2030, says report.](https://www.theguardian.com/technology/2025/apr/10/energy-demands-from-ai-datacentres-to-quadruple-by-2030-says-report) |The IEA forecast indicates a sharp rise in the requirements of AI, but said threat to the climate was ‘overstated’ |
 |[Google Ironwood TPU.](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/) |The 7th generation of Google's TPUs brings major advancements in podsize, bandwidth, memory, and total flops, marking a significant leap beyond any other chip currently available. |
 |[Claude's Max Plan.](https://www.anthropic.com/news/max-plan) | The new Max plan for Claude offers increased usage limits and priority access to features and models, catering to users with intensive needs. It comes in two tiers: Expanded Usage at $100/month with 5x usage, and Maximum Flexibility at $200/month with 20x usage—ideal for handling large documents and complex data regularly.|
-|[.]() | |
+|[Generative Media Upgrades in Vertex AI.](https://blog.google/products/google-cloud/cloud-next-gen-ai-vertex-ai-updates/) | Google Cloud has upgraded Vertex AI with advanced generative tools, introducing features like text-to-music with Lyria, video editing via Veo 2, voice customization through Chirp 3, and image inpainting using Imagen 3.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
