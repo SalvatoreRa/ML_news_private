@@ -168,8 +168,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Neural Motion Simulator for Embodied AI.](https://arxiv.org/abs/2504.07095) | MoSim introduces a world model for motion dynamics that improves skill acquisition and enables zero-shot learning, effectively turning model-free RL into model-based.|
 |[VideoChat R1.](https://github.com/OpenGVLab/VideoChat-R1/tree/main) |An inference time compute captioning method for video question answering. It uses RL to improve the overall reasoning of the model which leads to a 30% boost in object tracking tasks. |
 |[Mammal Pose Estimation.](https://github.com/Raojiyong/KITPose) | KITPose is a novel keypoints-interactive model designed for general mammal pose estimation.|
-|[.]() | |
-|[.]() | |
+|[Our vision for accelerating creativity and productivity with agentic AI.](https://blog.adobe.com/en/publish/2025/04/09/our-vision-for-accelerating-creativity-productivity-with-agentic-ai) |Adobe is embedding agentic AI throughout its product lineup—Acrobat, Photoshop, and Premiere Pro—to boost creativity and productivity by automating routine tasks and offering intelligent suggestions. This AI-driven approach empowers users by reducing technical overhead, streamlining workflows, and enabling greater focus on creative work. |
+|[US engineers' AI converts simple text into walking robots in a day.](https://interestingengineering.com/innovation/robots-from-text-using-ai) | Duke University's Text2Robot allows non-experts to design functional 3D robots using simple text prompts through a generative AI framework, making robotic design more accessible by removing the need for advanced technical expertise.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
