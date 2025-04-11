@@ -105,8 +105,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[EU to build AI gigafactories in €20bn push to catch up with US and China.](https://www.theguardian.com/technology/2025/apr/09/eu-to-build-ai-gigafactories-20bn-push-catch-up-us-china) |Up to five sites with power-hungry supercomputers and datacentres planned to drive AI ‘moonshots’ |
 |[EU will not rip up tech rules for trade deal with Trump, senior official says.](https://www.theguardian.com/world/2025/apr/11/eu-will-not-rip-up-tech-rules-for-trade-deal-with-trump-senior-official-says) |Bloc is ‘very committed’ to laws on big tech and is not targeting US companies, says European Commission’s Henna Virkkunen |
 |[Amazon’s satellite launch designed to compete with Musk’s Starlink cancelled.](https://www.theguardian.com/us-news/2025/apr/10/amazon-satellite-launch-cancelled) |‘Liftoff not possible’ for rocket carrying Project Kuiper satellites, due to clouds that could trigger lightning strikes |
-|[Apple said to be flying iPhones from India to US to avoid Trump tariffs.]() |Tech firm has reportedly flown 600 tonnes of handsets from Indian factories as Chinese goods face huge tariffs |
-|[.]() | |
+|[Apple said to be flying iPhones from India to US to avoid Trump tariffs.](https://www.theguardian.com/technology/2025/apr/10/apple-flying-iphones-india-us-avoid-trump-tariffs) |Tech firm has reportedly flown 600 tonnes of handsets from Indian factories as Chinese goods face huge tariffs |
+|[Federal workers fear Musk’s ‘efficiency’ agency is using AI to spy on them: ‘They are omnipresent’.](https://www.theguardian.com/us-news/ng-interactive/2025/apr/10/elon-musk-doge-spying) | The billionaire’s Doge may be secretly recording meetings in at least two agencies, according to emails from senior officials|
 |[.]() | |
 |[.]() | |
 |[.]() | |
