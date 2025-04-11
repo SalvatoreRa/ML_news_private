@@ -61,7 +61,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Photonic chips provide a processing boost for AI.](https://www.nature.com/articles/d41586-025-00907-5) |Computer processors that exploit both electricity and light could improve the performance of artificial-intelligence systems while consuming less energy. |
 |[AI Scientist v2.](https://pub.sakana.ai/ai-scientist-v2/paper/paper.pdf) | Sakana AI had a research paper accepted to an ICLR workshop that was entirely generated, executed, and written by a language model system. They enhanced the system with vision-language models, broader search capabilities, and other improvements.|
 |[Dynamic Knowledge Circuits.](https://github.com/zjunlp/dynamicknowledgecircuits) |This research investigates how LLMs internalize new knowledge by examining computational subgraphs, uncovering patterns in knowledge acquisition, training optimization phases, and offering insights for enhancing continual pre-training strategies. |
-|[.]() | |
+|[Concept Attention.](https://github.com/helblazer811/ConceptAttention) |A novel method to view concepts in the attention map of neural networks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +166,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OmniCaptioner.](https://alpha-innovator.github.io/OmniCaptioner-project-page/) | OmniCaptioner is an all-in-one visual captioning framework that produces rich textual descriptions across various visual domains, such as natural images, textual visuals, and structured graphics. It boosts visual reasoning in LLMs, supports better image generation, and enables efficient supervised fine-tuning with reduced data requirements.|
 |[BrowseComp agent benchmark.](https://openai.com/index/browsecomp/) | OpenAI has introduced a new agent-based benchmark that evaluates an agent's skill in finding difficult-to-locate information through browser interactions. Its DeepResearch model scores 51%, compared to roughly 80% for humans.|
 |[Neural Motion Simulator for Embodied AI.](https://arxiv.org/abs/2504.07095) | MoSim introduces a world model for motion dynamics that improves skill acquisition and enables zero-shot learning, effectively turning model-free RL into model-based.|
-|[.]() | |
+|[VideoChat R1.](https://github.com/OpenGVLab/VideoChat-R1/tree/main) |An inference time compute captioning method for video question answering. It uses RL to improve the overall reasoning of the model which leads to a 30% boost in object tracking tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
