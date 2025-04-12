@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon's Heavy AI Investment.](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders) |Amazon CEO Andy Jassy, in the annual letter, highlights the critical role of large-scale AI investment in transforming customer experiences, noting that over 1,000 GenAI projects are in progress alongside increasing infrastructure needs. |
 |[Announcing the Agent2Agent Protocol (A2A).](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) | To boost AI collaboration and automation in enterprise settings, Google Cloud has introduced the Agent2Agent (A2A) protocol, enabling smooth interaction between AI agents across platforms and vendors. Supported by over 50 tech partners like Atlassian, Salesforce, and PayPal, A2A offers a standardized framework for secure communication and task coordination, helping enterprises increase productivity and lower costs. The open-source protocol also accommodates multiple modalities and long-running tasks.|
 |[Trump administration backs off Nvidia's H20 chip crackdown after Mar-a-Lago dinner, NPR reports.](https://www.reuters.com/technology/trump-administration-backs-off-nvidias-h20-chip-crackdown-after-mar-a-lago-2025-04-09/) | The Trump administration reversed plans to restrict Nvidia's H20 AI chip exports to China after Nvidia CEO promised U.S. investments.|
-|[.]() | |
-|[.]() | |
+|[Tesla stops taking orders in China for two models imported from US.](https://www.theguardian.com/technology/2025/apr/11/tesla-stops-taking-orders-in-china-for-two-models-imported-from-us) |Carmaker removes ‘order now’ buttons for Model S saloon and Model X SUV on its Chinese website amid tariffs war |
+|[OpenAI countersues Elon Musk over ‘unlawful harassment’ of company.](https://www.theguardian.com/technology/2025/apr/11/openai-countersues-elon-musk-over-unlawful-harassment-of-company) | ChatGPT developer asks US federal judge to stop former founder making any further attacks|
 |[.]() | |
 |[.]() | |
 |[.]() | |
