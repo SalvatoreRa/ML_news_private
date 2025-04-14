@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Trump warns exemptions on smartphones, electronics will be short-lived, promises future tariffs.](https://www.theguardian.com/us-news/2025/apr/14/trump-warns-exemptions-on-smartphones-electronics-will-be-short-lived-promises-future-tariffs-president-china) |The US president has said no one is ‘getting off the hook’, as he promises to launch a national security investigation into the semiconductor sector |
 |[Legal Defense Fund exits Meta civil rights advisory group over DEI changes.](https://www.theguardian.com/technology/2025/apr/11/meta-ldf-dei-policy) | Meta ending DEI programs, getting rid of factcheckers and changing content moderation policies led to LDF’s decision| 
-|[.]() | |
+|[‘Amazon slayer’: the Dublin minnow taking on the giants in drone deliveries.](https://www.theguardian.com/technology/2025/apr/11/amazon-slayer-dublin-startup-manna-aero-taking-giants-autonomous-drone-deliveries) |The Guardian speaks to Manna Aero founder and orders coffee via startup’s app to be delivered to a suburban home |
 |[.]() | |
 |[.]() | |
 |[.]() | |
