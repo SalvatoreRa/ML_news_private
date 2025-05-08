@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Document Reranking.](https://arxiv.org/abs/2504.07439v1) | LLM4Ranking is a recently introduced modular framework that works with both open and closed LLMs for document reranking, offering evaluation tools and reproducible benchmarks on well-known datasets.|
 |[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning.](https://arxiv.org/abs/2504.12216) |The d1 framework enhances masked diffusion language models through a two-stage process: supervised fine-tuning on a small dataset followed by task-specific reinforcement learning using the novel diffu-GRPO method. This approach enables efficient gradient updates via random prompt masking, achieving strong performance gains on reasoning tasks like GSM8K and MATH500, outperforming similarly sized models while benefiting from longer outputs and faster convergence. |
 |[Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability.](https://arxiv.org/abs/2504.09639) |Researchers show that smaller models can gain strong reasoning abilities by being fine-tuned on final answers (and optionally summarized reasoning) from large LLMs. Using a curated 1.3M-instance dataset, they test different distillation strategies, finding that training on final answers alone boosts math/coding accuracy, while combining with summarized thoughts aids alignment tasks. Results highlight trade-offs in including reasoning traces and suggest future blending techniques for improved performance. |
-|[.]() | |
+|[Visual Reasoning with Less Data.](https://arxiv.org/abs/2504.07934v1) | Using MCTS to quantify sample difficulty, ThinkLite-VL improves reasoning in VLMs with just 11k training samples and no distillation|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model.](https://seaweed.video/) |ByteDance has published a paper demonstrating how to train a competitive 7B-parameter video generation model using a relatively modest compute budget of 655,000 H100 hours, achieving strong results on several challenging temporal tasks. |
 |[PixelFlow: Pixel-Space Generative Models with Flow.](https://arxiv.org/abs/2504.07963) |Due to computational limits, most generative models for continuous signals work in latent space. This study presents a cascade approach that enables direct generation in pixel space, removing the requirement for a pretrained VAE.  |
 |[InteractVLM: 3D Interaction Reasoning from 2D Foundational Models.](https://arxiv.org/abs/2504.05303) | New VLM that can reason about contacts between humans in 3D and objects. It does so by leveraging a strong base model and lifting its reasoning into 3D with clever multi-view rendering.|
-|[.]() | |
-|[.]() | |
+|[3B parameter tokenizer.](https://github.com/SilentView/GigaTok) | Scaling image tokenizers is difficult due to their tendency to collapse. This study presents GigaTok, a large-scale tokenizer that achieves excellent reconstruction quality, with stability and performance improved through decoder scaling and regularization.|
+|[Improved MoE with C3PO.](https://github.com/tianyi-lab/c3po) | C3PO proposes a test-time optimization method that boosts accuracy in Mixture-of-Experts LLMs by adjusting expert weights using similar reference examples.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
