@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI GPT-4.1.](https://openai.com/index/gpt-4-1/) |OpenAI has released three new models through its API: GPT-4.1, GPT-4.1 mini, and GPT-4.1 nano. These models surpass GPT-4o and GPT-4o mini in all areas, showing significant improvements in coding and instruction following. They support up to 1 million tokens of context and demonstrate enhanced long-context understanding, with an updated knowledge cutoff of June 2024. |
 |[AI company Hugging Face buys humanoid robot company Pollen Robotics.](https://fortune.com/2025/04/14/ai-company-hugging-face-buys-humanoid-robot-company-pollen-robotics-reachy-2/) | AI company Hugging Face is taking a big leap into robotics with the acquisition of humanoid robotics startup Pollen Robotics.|
 |[DolphinGemma.](https://blog.google/technology/ai/dolphingemma/) | DeepMind has unveiled DolphinGemma, a large language model created by Google to assist researchers in analyzing dolphin communication and potentially understanding their messages.|
-|[.]() | |
+|[6 highlights from Google Cloud Next 25.](https://blog.google/products/google-cloud/google-cloud-next-25-recap/) |Vertex AI has rolled out improvements to its video, image, speech, and music generation models, streamlining creative processes for businesses. Google AI is also supporting the development of specialized AI agents to boost productivity and security, with the new Agent2Agent Protocol enabling secure communication between agents across platforms. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[InteractVLM: 3D Interaction Reasoning from 2D Foundational Models.](https://arxiv.org/abs/2504.05303) | New VLM that can reason about contacts between humans in 3D and objects. It does so by leveraging a strong base model and lifting its reasoning into 3D with clever multi-view rendering.|
 |[3B parameter tokenizer.](https://github.com/SilentView/GigaTok) | Scaling image tokenizers is difficult due to their tendency to collapse. This study presents GigaTok, a large-scale tokenizer that achieves excellent reconstruction quality, with stability and performance improved through decoder scaling and regularization.|
 |[Improved MoE with C3PO.](https://github.com/tianyi-lab/c3po) | C3PO proposes a test-time optimization method that boosts accuracy in Mixture-of-Experts LLMs by adjusting expert weights using similar reference examples.|
-|[.]() | |
+|[BrowseComp Benchmark for Hard-to-Find Knowledge.](https://openai.com/index/browsecomp) |OpenAI's BrowseComp is a benchmark consisting of 1,266 tasks aimed at testing AI agents' ability to browse the web and retrieve complex, hard-to-find information. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Business Leaders' Thoughts on AI Possibilities.](https://blog.google/products/google-cloud/business-leaders-building-with-ai/) | Executives from nine companies share how they're leveraging Google Cloud's AI tools to drive innovation across sectors, with over 600 real-world use cases highlighted.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
