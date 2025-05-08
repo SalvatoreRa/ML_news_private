@@ -113,9 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fully open fast inference models .](https://huggingface.co/ServiceNow-AI/Apriel-5B-Base) | Apriel models from ServiceNow research are designed for fast inference and showcase good performance.|
 |[GUI-R1.](https://arxiv.org/abs/2504.10458) |GUI-R1, developed by researchers in Singapore and China, is a reinforcement learning framework that enhances GUI agents by using a unified action space and reinforcement fine-tuning, needing only 3,000 curated examples. It achieves superior performance and generalization across platforms like Windows, Mac, Android, and Web, outperforming models trained on millions of examples while remaining efficient and adaptable with minimal data. |
 |[AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents.](https://arxiv.org/abs/2504.09723) |AgentA/B is an automated A/B testing system that uses LLM-based agents to simulate realistic user behavior on live websites, enabling fast, low-risk UX evaluation. With modular components and DOM parsing for structured interactions, it replicates human-like shopping patterns and supports inclusive prototyping. Tests on Amazon showed agents responded meaningfully to interface changes, suggesting strong alignment with real user behavior and value as a pre-deployment testing layer. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model.](https://seaweed.video/) |ByteDance has published a paper demonstrating how to train a competitive 7B-parameter video generation model using a relatively modest compute budget of 655,000 H100 hours, achieving strong results on several challenging temporal tasks. |
+|[PixelFlow: Pixel-Space Generative Models with Flow.](https://arxiv.org/abs/2504.07963) |Due to computational limits, most generative models for continuous signals work in latent space. This study presents a cascade approach that enables direct generation in pixel space, removing the requirement for a pretrained VAE. |
+|[InteractVLM: 3D Interaction Reasoning from 2D Foundational Models.](https://arxiv.org/abs/2504.05303) | New VLM that can reason about contacts between humans in 3D and objects. It does so by leveraging a strong base model and lifting its reasoning into 3D with clever multi-view rendering.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
