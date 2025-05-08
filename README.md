@@ -48,9 +48,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Document Reranking.](https://arxiv.org/abs/2504.07439v1) | LLM4Ranking is a recently introduced modular framework that works with both open and closed LLMs for document reranking, offering evaluation tools and reproducible benchmarks on well-known datasets.|
-|[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning.](https://arxiv.org/abs/2504.12216) |The d1 framework enhances masked diffusion language models through a two-stage process: supervised fine-tuning on a small dataset followed by task-specific reinforcement learning using the novel diffu-GRPO method. This approach enables efficient gradient updates via random prompt masking, achieving strong performance gains on reasoning tasks like GSM8K and MATH500, outperforming similarly sized models while benefiting from longer outputs and faster convergence.
- |
-|[.]() | |
+|[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning.](https://arxiv.org/abs/2504.12216) |The d1 framework enhances masked diffusion language models through a two-stage process: supervised fine-tuning on a small dataset followed by task-specific reinforcement learning using the novel diffu-GRPO method. This approach enables efficient gradient updates via random prompt masking, achieving strong performance gains on reasoning tasks like GSM8K and MATH500, outperforming similarly sized models while benefiting from longer outputs and faster convergence. |
+|[Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability.](https://arxiv.org/abs/2504.09639) |Researchers show that smaller models can gain strong reasoning abilities by being fine-tuned on final answers (and optionally summarized reasoning) from large LLMs. Using a curated 1.3M-instance dataset, they test different distillation strategies, finding that training on final answers alone boosts math/coding accuracy, while combining with summarized thoughts aids alignment tasks. Results highlight trade-offs in including reasoning traces and suggest future blending techniques for improved performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -113,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reasoning VLM from Kimi.](https://github.com/MoonshotAI/Kimi-VL) |An early open model for visual question answering, this compact model excels at grounded image-based questions, image captioning, and even some image-related math. |
 |[Fully open fast inference models .](https://huggingface.co/ServiceNow-AI/Apriel-5B-Base) | Apriel models from ServiceNow research are designed for fast inference and showcase good performance.|
 |[GUI-R1.](https://arxiv.org/abs/2504.10458) |GUI-R1, developed by researchers in Singapore and China, is a reinforcement learning framework that enhances GUI agents by using a unified action space and reinforcement fine-tuning, needing only 3,000 curated examples. It achieves superior performance and generalization across platforms like Windows, Mac, Android, and Web, outperforming models trained on millions of examples while remaining efficient and adaptable with minimal data. |
-|[.]() | |
+|[AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents.](https://arxiv.org/abs/2504.09723) |AgentA/B is an automated A/B testing system that uses LLM-based agents to simulate realistic user behavior on live websites, enabling fast, low-risk UX evaluation. With modular components and DOM parsing for structured interactions, it replicates human-like shopping patterns and supports inclusive prototyping. Tests on Amazon showed agents responded meaningfully to interface changes, suggesting strong alignment with real user behavior and value as a pre-deployment testing layer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
