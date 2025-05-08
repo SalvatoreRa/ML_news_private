@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Jax Recommendation Engine.](https://github.com/AI-Hypercomputer/RecML/) | A great recommendation engine with metrics, implementations of embedding models, and training infrastructure.|
 |[Reasoning VLM from Kimi.](https://github.com/MoonshotAI/Kimi-VL) |An early open model for visual question answering, this compact model excels at grounded image-based questions, image captioning, and even some image-related math. |
 |[Fully open fast inference models .](https://huggingface.co/ServiceNow-AI/Apriel-5B-Base) | Apriel models from ServiceNow research are designed for fast inference and showcase good performance.|
-|[.]() | |
+|[GUI-R1.](https://arxiv.org/abs/2504.10458) |GUI-R1, developed by researchers in Singapore and China, is a reinforcement learning framework that enhances GUI agents by using a unified action space and reinforcement fine-tuning, needing only 3,000 curated examples. It achieves superior performance and generalization across platforms like Windows, Mac, Android, and Web, outperforming models trained on millions of examples while remaining efficient and adaptable with minimal data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
