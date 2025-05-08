@@ -84,9 +84,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Verified ID May Be Required for Future OpenAI API Access.](https://help.openai.com/en/articles/10910291-api-organization-verification) | OpenAI plans to gate access to certain upcoming models behind a new Verified Organization process that will require government-issued ID. Verification will be limited to one org per ID every 90 days.|
 |[Google launches AI short film initiative.](https://blog.google/technology/ai/ai-on-screen-short-films/) | Google has collaborated with filmmakers to create short films centered on AI, seeking to examine the emotional and ethical aspects of living alongside artificial intelligence.|
 |[YouTube supports the NO FAKES Act: Protecting creators and viewers in the age of AI.](https://blog.youtube/news-and-events/youtube-supports-the-no-fakes-act/) | YouTube supports new legislation to combat AI-generated impersonations, reinforcing its commitment to protecting creators and viewers from deepfake harms.|
-|[Canva unveils Visual Suite 2.0 with AI-powered productivity tools.](https://www.canva.com/newsroom/news/canva-create-2025/) |At Canva Create 2025, Canva launched Visual Suite 2.0, featuring AI-powered tools such as Magic Studio, Canva Sheets, and Magic Charts to simplify design processes. The suite also offers Canva Code for building websites and an upgraded AI-enhanced Photo Editor, all designed to bring together design, data, and development in one platform.
- |
-|[.]() | |
+|[Canva unveils Visual Suite 2.0 with AI-powered productivity tools.](https://www.canva.com/newsroom/news/canva-create-2025/) |At Canva Create 2025, Canva launched Visual Suite 2.0, featuring AI-powered tools such as Magic Studio, Canva Sheets, and Magic Charts to simplify design processes. The suite also offers Canva Code for building websites and an upgraded AI-enhanced Photo Editor, all designed to bring together design, data, and development in one platform. |
+|[Samsung and Google Cloud Expand Partnership, Bring Gemini to Ballie, a Home AI Companion Robot by Samsung.](https://news.samsung.com/global/samsung-and-google-cloud-expand-partnership-bring-gemini-to-ballie-a-home-ai-companion-robot) |Ballie, launching this summer, will provide personalized interactions and proactive home assistance using advanced multimodal reasoning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,9 +109,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[3D Object Part Segmentation.](https://huggingface.co/VAST-AI/HoloPart) | HoloPart is a semantic 3D Object segmentation model that can identify and separate a single 3D object into meaningful sub-pieces.|
 |[Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models.](https://arxiv.org/abs/2504.07807v1) | C-Prune is a two-stage pruning method that compresses Mixture-of-Experts models by clustering similar experts and pruning redundant clusters.|
 |[Jax Recommendation Engine.](https://github.com/AI-Hypercomputer/RecML/) | A great recommendation engine with metrics, implementations of embedding models, and training infrastructure.|
-|[Reasoning VLM from Kimi.](https://github.com/MoonshotAI/Kimi-VL) |An early open model for visual question answering, this compact model excels at grounded image-based questions, image captioning, and even some image-related math.
- |
-|[.]() | |
+|[Reasoning VLM from Kimi.](https://github.com/MoonshotAI/Kimi-VL) |An early open model for visual question answering, this compact model excels at grounded image-based questions, image captioning, and even some image-related math. |
+|[Fully open fast inference models .](https://huggingface.co/ServiceNow-AI/Apriel-5B-Base) | Apriel models from ServiceNow research are designed for fast inference and showcase good performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
