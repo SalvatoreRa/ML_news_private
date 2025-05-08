@@ -86,8 +86,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YouTube supports the NO FAKES Act: Protecting creators and viewers in the age of AI.](https://blog.youtube/news-and-events/youtube-supports-the-no-fakes-act/) | YouTube supports new legislation to combat AI-generated impersonations, reinforcing its commitment to protecting creators and viewers from deepfake harms.|
 |[Canva unveils Visual Suite 2.0 with AI-powered productivity tools.](https://www.canva.com/newsroom/news/canva-create-2025/) |At Canva Create 2025, Canva launched Visual Suite 2.0, featuring AI-powered tools such as Magic Studio, Canva Sheets, and Magic Charts to simplify design processes. The suite also offers Canva Code for building websites and an upgraded AI-enhanced Photo Editor, all designed to bring together design, data, and development in one platform. |
 |[Samsung and Google Cloud Expand Partnership, Bring Gemini to Ballie, a Home AI Companion Robot by Samsung.](https://news.samsung.com/global/samsung-and-google-cloud-expand-partnership-bring-gemini-to-ballie-a-home-ai-companion-robot) |Ballie, launching this summer, will provide personalized interactions and proactive home assistance using advanced multimodal reasoning. |
-|[.]() | |
-|[.]() | |
+|[OpenAI GPT-4.1.](https://openai.com/index/gpt-4-1/) |OpenAI has released three new models through its API: GPT-4.1, GPT-4.1 mini, and GPT-4.1 nano. These models surpass GPT-4o and GPT-4o mini in all areas, showing significant improvements in coding and instruction following. They support up to 1 million tokens of context and demonstrate enhanced long-context understanding, with an updated knowledge cutoff of June 2024. |
+|[AI company Hugging Face buys humanoid robot company Pollen Robotics.](https://fortune.com/2025/04/14/ai-company-hugging-face-buys-humanoid-robot-company-pollen-robotics-reachy-2/) | AI company Hugging Face is taking a big leap into robotics with the acquisition of humanoid robotics startup Pollen Robotics.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
