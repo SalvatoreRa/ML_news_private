@@ -47,7 +47,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Document Reranking.](https://arxiv.org/abs/2504.07439v1) | LLM4Ranking is a recently introduced modular framework that works with both open and closed LLMs for document reranking, offering evaluation tools and reproducible benchmarks on well-known datasets.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B.](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) | Safe Superintelligence (SSI), the AI startup led by OpenAI’s co-founder and former chief scientist Ilya Sutskever, has raised an additional $2 billion in funding at a $32 billion valuation, according to the Financial Times.|
 |[Airtable's New AI Assistant.](https://www.airtable.com/newsroom/builers-meet-new-beta-ai-assistant) | Airtable has introduced Airtable Assistant in beta, along with major updates that redefine app building within the platform. These enhancements simplify app development, automation, interface creation, and enable users to query enterprise data using natural language.|
 |[Verified ID May Be Required for Future OpenAI API Access.](https://help.openai.com/en/articles/10910291-api-organization-verification) | OpenAI plans to gate access to certain upcoming models behind a new Verified Organization process that will require government-issued ID. Verification will be limited to one org per ID every 90 days.|
-|[.]() | |
+|[Google launches AI short film initiative.](https://blog.google/technology/ai/ai-on-screen-short-films/) | Google has collaborated with filmmakers to create short films centered on AI, seeking to examine the emotional and ethical aspects of living alongside artificial intelligence.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
