@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Amazon slayer’: the Dublin minnow taking on the giants in drone deliveries.](https://www.theguardian.com/technology/2025/apr/11/amazon-slayer-dublin-startup-manna-aero-taking-giants-autonomous-drone-deliveries) |The Guardian speaks to Manna Aero founder and orders coffee via startup’s app to be delivered to a suburban home |
 |[OpenAI co-founder Ilya Sutskever’s Safe Superintelligence reportedly valued at $32B.](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/) | Safe Superintelligence (SSI), the AI startup led by OpenAI’s co-founder and former chief scientist Ilya Sutskever, has raised an additional $2 billion in funding at a $32 billion valuation, according to the Financial Times.|
 |[Airtable's New AI Assistant.](https://www.airtable.com/newsroom/builers-meet-new-beta-ai-assistant) | Airtable has introduced Airtable Assistant in beta, along with major updates that redefine app building within the platform. These enhancements simplify app development, automation, interface creation, and enable users to query enterprise data using natural language.|
-|[.]() | |
+|[Verified ID May Be Required for Future OpenAI API Access.](https://help.openai.com/en/articles/10910291-api-organization-verification) | OpenAI plans to gate access to certain upcoming models behind a new Verified Organization process that will require government-issued ID. Verification will be limited to one org per ID every 90 days.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,11 +105,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anthropic Education Report: How University Students Use Claude.](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude) |Anthropic has released a great educational report on how different groups of university students are using AI. Most groups in STEM use it for homework help while groups in humanities use it less and generally more for ideation and brainstorming. |
+|[3D Object Part Segmentation.](https://huggingface.co/VAST-AI/HoloPart) | HoloPart is a semantic 3D Object segmentation model that can identify and separate a single 3D object into meaningful sub-pieces.|
+|[Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models.](https://arxiv.org/abs/2504.07807v1) | C-Prune is a two-stage pruning method that compresses Mixture-of-Experts models by clustering similar experts and pruning redundant clusters.|
+|[Jax Recommendation Engine.](https://github.com/AI-Hypercomputer/RecML/) | A great recommendation engine with metrics, implementations of embedding models, and training infrastructure.|
+|[Reasoning VLM from Kimi.](https://github.com/MoonshotAI/Kimi-VL) |An early open model for visual question answering, this compact model excels at grounded image-based questions, image captioning, and even some image-related math.
+ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
