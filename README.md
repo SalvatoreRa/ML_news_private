@@ -48,7 +48,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Document Reranking.](https://arxiv.org/abs/2504.07439v1) | LLM4Ranking is a recently introduced modular framework that works with both open and closed LLMs for document reranking, offering evaluation tools and reproducible benchmarks on well-known datasets.|
-|[.]() | |
+|[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning.](https://arxiv.org/abs/2504.12216) |The d1 framework enhances masked diffusion language models through a two-stage process: supervised fine-tuning on a small dataset followed by task-specific reinforcement learning using the novel diffu-GRPO method. This approach enables efficient gradient updates via random prompt masking, achieving strong performance gains on reasoning tasks like GSM8K and MATH500, outperforming similarly sized models while benefiting from longer outputs and faster convergence.
+ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
