@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Samsung and Google Cloud Expand Partnership, Bring Gemini to Ballie, a Home AI Companion Robot by Samsung.](https://news.samsung.com/global/samsung-and-google-cloud-expand-partnership-bring-gemini-to-ballie-a-home-ai-companion-robot) |Ballie, launching this summer, will provide personalized interactions and proactive home assistance using advanced multimodal reasoning. |
 |[OpenAI GPT-4.1.](https://openai.com/index/gpt-4-1/) |OpenAI has released three new models through its API: GPT-4.1, GPT-4.1 mini, and GPT-4.1 nano. These models surpass GPT-4o and GPT-4o mini in all areas, showing significant improvements in coding and instruction following. They support up to 1 million tokens of context and demonstrate enhanced long-context understanding, with an updated knowledge cutoff of June 2024. |
 |[AI company Hugging Face buys humanoid robot company Pollen Robotics.](https://fortune.com/2025/04/14/ai-company-hugging-face-buys-humanoid-robot-company-pollen-robotics-reachy-2/) | AI company Hugging Face is taking a big leap into robotics with the acquisition of humanoid robotics startup Pollen Robotics.|
-|[.]() | |
+|[DolphinGemma.](https://blog.google/technology/ai/dolphingemma/) | DeepMind has unveiled DolphinGemma, a large language model created by Google to assist researchers in analyzing dolphin communication and potentially understanding their messages.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
