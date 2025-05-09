@@ -106,8 +106,8 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Google Uses AI to Cut Scam Ads by 90%.](https://blog.google/products/ads-commerce/google-ads-safety-report-2024/) | Google's 2024 Ads Safety Report highlights how LLM upgrades blocked billions of bad ads, suspended 700K+ scam accounts, and reduced impersonation scams significantly.|
 |[Stable Diffusion Now Runs Faster on AMD GPUs.](https://stability.ai/news/stable-diffusion-now-optimized-for-amd-radeon-gpus) | Stability AI and AMD optimized several Stable Diffusion models for Radeon GPUs and Ryzen AI, improving speed and performance for AMD users.|
 |[OpenAI in talks to pay about $3 billion to acquire AI coding startup Windsurf.](https://www.cnbc.com/2025/04/16/openai-in-talks-to-pay-about-3-billion-to-acquire-startup-windsurf.html) |OpenAI is in talks to buy Windsurf, an artificial intelligence tool for coding help, for $3 billion, according to a person familiar with the matter. Windsurf, formerly known as Codeium, competes with Cursor, another popular AI coding tool, as well as existing AI coding features from companies such as Microsoft, Anthropic and OpenAI.|
-|[.]() | |
-|[.]() | |
+|[Mistral Classifier Factory.](https://docs.mistral.ai/capabilities/finetuning/classifier_factory/) | Mistral, a French AI startup, has launched a new product that allows users to very quickly build and deploy custom classifiers for a whole variety of tasks (e.g., spam, moderation, and more).|
+|[Goodfire raises $50m series A to steer and understand models.](https://www.goodfire.ai/blog/announcing-our-50m-series-a) | Goodfire is a mechanistic interpretability company with strong expertise in SAEs, among other things. It is working closely with closed and open model providers to steer, control, and understand model motivations and behavior.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
