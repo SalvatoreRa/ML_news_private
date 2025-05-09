@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with more AI companies.](https://www.cnbc.com/2025/04/22/sam-altman-steps-down-as-oklo-chair-freeing-nuclear-company-up-to-work-with-more-ai-companies.html) | OpenAI CEO Sam Altman is stepping down as chair of nuclear startup Oklo. The move gives Oklo, which is developing advanced nuclear reactors, more flexibility to potentially explore partnerships with OpenAI or other hyperscalers amid data center companies’ push to secure power.|
 |[Anthropic Exploring Model Welfare.](https://www.anthropic.com/research/exploring-model-welfare) | Anthropic launched a new research initiative to examine the potential moral relevance of AI systems, including how and when model welfare should be considered in alignment and safety efforts.|
 |[Adobe's New Image Model.](https://blog.adobe.com/en/publish/2025/04/24/adobe-firefly-next-evolution-creative-ai-is-here) |Adobe released a significant Firefly update that brings together tools for generating images, videos, audio, and vectors, adds mobile support, and enhances integration with Creative Cloud.|
-|[.]() | |
+|[Perplexity and Motorola Partnership.](https://www.perplexity.ai/hub/blog/announcing-our-global-partnership-with-motorola) |Perplexity will come pre-installed on new Motorola devices, offering features such as voice control, smart reminders, and seamless integration with Moto AI, along with three months of complimentary Pro access. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -169,7 +169,7 @@ Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with 
 |[AI models can generate exploit code at lightning speed.](https://www.theregister.com/2025/04/21/ai_models_can_generate_exploit/) | Generative AI models like GPT-4 can produce proof-of-concept exploits within hours of a vulnerability's disclosure, as shown with a critical Erlang SSH flaw—underscoring the urgent need for quicker defensive responses and automated security measures.|
 |[Agency Is Eating the World.](https://www.piratewires.com/p/agency-is-eating-the-world) | AI is empowering individuals to build lean, high-impact companies by replacing traditional specialization and large teams with tech-enabled efficiency. This shift, driven by high-agency users, challenges credentialism and favors those who act independently, leveraging AI to execute complex tasks rapidly across industries.|
 |[A Staggering Number of Gen Z Think AI Is Already Conscious.](https://futurism.com/gen-z-thinks-conscious-ai) |25% of Gen Z believe AI is already conscious, while 52% think it soon will be.|
-|[.]() | |
+|[Deploying Agents as Real-time APIs.](https://decodingml.substack.com/p/deploying-agents-as-real-time-apis) |The PhiloAgents lesson demonstrates how to convert game simulation agents into API-ready, real-time interactive characters, enhancing immersion in digital environments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
