@@ -130,7 +130,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Personalized Multi-Agent Systems.](https://github.com/sail-sg/flowreasoner) | FlowReasoner is a reasoning-based meta-agent that uses reinforcement learning and external feedback to generate custom multi-agent systems for user queries.|
 |[KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking.](https://arxiv.org/abs/2504.15135v1) | KGMEL integrates text, images, and knowledge graph triples in a three-stage pipeline to improve accuracy in multimodal entity linking tasks.|
 |[DeepMind's Framework for AI Afterlives.](https://deepmind.google/research/publications/65827/) | DeepMind outlines a framework and ethical considerations for generative AI agents that could act as posthumous representations of real individuals.|
-|[.]() | |
+|[Evaluating the Goal-Directedness of Large Language Models.](https://arxiv.org/abs/2504.11844) |This study presents a framework for evaluating how effectively LLMs apply their abilities to achieve goals, revealing that even advanced models like GPT-4o and Claude 3.7 lack full goal-directedness—especially in tasks requiring information gathering or integrating multiple steps—despite strong performance on individual components. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
