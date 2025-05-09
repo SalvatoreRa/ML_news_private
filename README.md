@@ -122,8 +122,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Minimal MCP-Powered Agent Implementation.](https://huggingface.co/blog/tiny-agents) |A walkthrough on how to build a compact MCP-powered agent in just 50 lines of Typescript. |
+|[How to Debug ML Deployments Faster.](https://decodingml.substack.com/p/how-to-debug-ml-deployments-20x-faster) | This guide demonstrates an efficient local testing workflow aimed at speeding up model deployment debugging.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
