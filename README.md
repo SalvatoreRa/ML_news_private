@@ -109,7 +109,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Mistral Classifier Factory.](https://docs.mistral.ai/capabilities/finetuning/classifier_factory/) | Mistral, a French AI startup, has launched a new product that allows users to very quickly build and deploy custom classifiers for a whole variety of tasks (e.g., spam, moderation, and more).|
 |[Goodfire raises $50m series A to steer and understand models.](https://www.goodfire.ai/blog/announcing-our-50m-series-a) | Goodfire is a mechanistic interpretability company with strong expertise in SAEs, among other things. It is working closely with closed and open model providers to steer, control, and understand model motivations and behavior.|
 |[Visual Reasoning with OpenAI o3 and o4-mini.](https://openai.com/index/thinking-with-images/) |OpenAI's latest visual models can reason with images through tool-augmented transformations, enabling a new level of multimodal understanding and step-by-step visual problem-solving. |
-|[.]() | |
+|[Cohere on Hugging Face Inference Providers.](https://huggingface.co/blog/inference-providers-cohere) |Cohere became the first model creator to directly host and serve its enterprise-focused AI models on Hugging Face. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,9 +157,9 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Scene Captioning.](https://arxiv.org/abs/2504.09518) | 3D CoCa is a unified framework that combines vision-language contrastive learning and captioning for 3D scenes.|
 |[DeepSpeed's DeepCompile.](https://github.com/deepspeedai/DeepSpeed/blob/master/blogs/deepcompile/README.md) | The DeepSpeed team has integrated compilation into their distributed training workflow, significantly accelerating several performance bottlenecks using a modified version of torch compile.|
 |[Speech Instruction Fine-Tuning Dataset.](https://huggingface.co/datasets/amazon-agi/SIFT-50M) | SIFT-50M (Speech Instruction Fine-Tuning) is a dataset of 50 million examples created for instruction fine-tuning and pre-training speech-text LLMs. Sourced from 14,000 hours of public speech data, it uses LLMs and expert models, spans five languages, and supports both speech understanding and controllable speech generation. It enriches existing datasets with instruction-based QA pairs and includes around 5 million examples for generation tasks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[End-to-End Latent Diffusion Training with REPA-E.](https://end2end-diffusion.github.io/) |REPA-E enables stable, joint training of VAEs and latent diffusion models using a representation-alignment loss, achieving state-of-the-art results on ImageNet. |
+|[Meta Releases Many New Artifacts.](https://ai.meta.com/blog/meta-fair-updates-perception-localization-reasoning/) | Meta has released an image Encoder, a VLM, a 3D object localization model based on JEPA, and weights for a BLT model that operates directly on bytes without tokenization.|
+|[Create AI-generated soundtrack in Shorts with Dream Track.](https://support.google.com/youtube/answer/14151606) |YouTube's Dream Track is now accessible in the U.S. through YouTube Shorts and the YouTube Create app, offering AI-generated instrumental soundtracks for creators. These tracks can be globally remixed to produce unique Shorts, promoting collaboration, and are fully integrated with YouTube’s creation tools while following community guidelines. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
