@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Aligning LVMs with Human Preferences.](https://github.com/haroldchen19/vistadpo) |VistaDPO enhances video-text alignment by refining preference learning over both spatial and temporal dimensions, utilizing a new 7.2K-sample dataset and a hierarchical optimization approach. |
 |[Hallucination Reduction in VLMs.](https://github.com/tsunghan-wu/reverse_vlm) |REVERSE introduces a training and inference pipeline that enables VLMs to self-detect and revise hallucinations. |
 |[ZeroSumEval.](https://github.com/facebookresearch/zerosumeval) |A dynamic evaluation framework that uses competitive multi-agent simulations to benchmark LLMs across reasoning, knowledge, and planning tasks. |
-|[.]() | |
-|[.]() | |
+|[Garment Generation.](https://revive234.github.io/imaggarment.github.io/) |A new two-stage generative framework for clothing design allows precise control over silhouette, color, and logos, and introduces GarmentBench, a large dataset for multi-conditional garment generation. |
+|[Image segmentation using Gemini 2.5.](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) |Gemini is widely recognized for its strong vision capabilities, and this article looks at a particular segmentation use case that turns out to be surprisingly straightforward. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
