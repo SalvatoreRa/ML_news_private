@@ -80,7 +80,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini 2.5 Flash.](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/) | The next Flash model from Gemini has been released. It is a substantial upgrade from previous versions and matches Claude on a number of important STEM benchmarks.|
 |[Our updated Preparedness Framework.](https://openai.com/index/updating-our-preparedness-framework/) |OpenAI has revised its Preparedness Framework to strengthen safeguards against serious risks from advanced AI, introducing clearer criteria for identifying high-risk capabilities, more precise categories, scalable evaluations, and structured safeguard reporting. The framework will be regularly updated to reflect new technologies and expert input. |
 |[South Korea's AI Chip Champion Is Poised To Carve Out Global Niche.](https://www.forbes.com/sites/johnkang/2025/04/14/south-koreas-ai-chip-champion-is-poised-to-carve-out-global-niche/) |Rebellions, South Korea's first AI chip unicorn, has merged with SK Telecom's Sapeon to take on global competitors like Nvidia. Focused on energy-efficient AI chips, its Rebel chip offers major power savings compared to Nvidia's H100. Backed by leading talent and key partnerships, the company is aiming for international expansion and an IPO by 2026. |
-|[.]() | |
+|[OpenAI has launched the ChatGPT Image Library.](https://community.openai.com/t/openai-has-launched-the-chatgpt-image-library/1230140/1) | OpenAI launched the ChatGPT Image Library on the Web and Android/iOS for Free, Plus, and Pro users.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
