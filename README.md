@@ -100,6 +100,12 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Canada Has Answer to Energy Needs in AI Race, Ex-Google CEO Says.](https://financialpost.com/pmn/business-pmn/canada-has-answer-to-energy-needs-in-ai-race-ex-google-ceo-says) |Canada, home to 250 data centers, plans to grow its digital infrastructure by harnessing its rich hydro and nuclear energy resources. Conservative leader Pierre Poilievre supports ramping up resource production to enhance economic gains within the country.|
 |[Notion Launches AI-Powered Email.](https://www.notion.com/product/mail) | Notion Mail is a Gmail-integrated client that helps users manage, search, and reply to email using AI.|
 |[ChatGPT became the most downloaded app globally in March.](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/) |ChatGPT became the most downloaded non-gaming app in March, surpassing Instagram and TikTok with 46 million downloads. |
+|[Grok Canvas-like Tool for Document Creation.](https://x.com/grok/status/1912318583532872166) |Grok, the chatbot from xAI, now includes Grok Studio, a canvas-like tool to build documents and basic apps. It's now live for all users. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +138,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Open Source OpenAI Production Kernels.](https://github.com/triton-lang/triton/pull/6429) |OpenAI has open sourced some of its fp4 and MoE kernels to the Triton language GitHub. |
 |[Nemotron H Models.](https://huggingface.co/nvidia/Nemotron-H-8B-Base-8K) |Nvidia’s ADLR team has released the weights for its Nemotron hybrid Mamba models, which offer strong long-context handling and solid performance on general benchmarks, making them well-suited for tasks requiring extended reasoning or memory. |
 |[Auto Deploy.](https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/auto_deploy) | A new way to transform PyTorch and Hugging Face models into a faster, deployable, format for fast inference.|
-|[.]() | |
+|[Latents for Generative Modeling.](https://sander.ai/2025/04/15/latents.html) | A top contender for blog post of the year for those into generative modeling, offering a clear breakdown of the history, core ideas, and major advancements in learned latents.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
