@@ -93,6 +93,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok Vision Available for iOS Users.](https://threadreaderapp.com/thread/1914820712092852430.html) |xAI's Grok chatbot has gained the ability to interpret visual inputs, allowing users to ask questions about what they saw, similar to features in ChatGPT and Gemini. |
 |[Claude Misuse and Threat Report.](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) | Claude was used in influence operations where LLMs coordinated social media bot activity, and this article details how Anthropic has strengthened its safety systems to block similar abuse.|
 |[Google's Mobility AI.](https://research.google/blog/introducing-mobility-ai-advancing-urban-transportation/) | Google's Mobility AI initiative aims to modernize city transport systems through AI-driven data analysis, simulation, and optimization tools.|
+|[Analyzing o3 and o4-mini with ARC-AGI.](https://arcprize.org/blog/analyzing-o3-with-arc-agi) |The ARC Prize Foundation assessed OpenAI's o3 and o4-mini models using ARC‑AGI benchmarks to gauge reasoning abilities. While o3-medium performed well on ARC-AGI-1, it struggled with the more demanding ARC-AGI-2, particularly in complex reasoning tasks. o4-mini offered better cost efficiency but at the expense of accuracy, highlighting a trade-off between performance and resource use. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -137,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[High Throughput MoE Systems.](https://www.perplexity.ai/hub/blog/lower-latency-and-higher-throughput-with-multi-node-deepseek-deployment) | MoE models like DeepSeek-V3/R1 simultaneously achieve higher throughput and lower latency when utilizing more GPUs in multi-node deployments across most scenarios.|
 |[Fast Graph Generation.](https://arxiv.org/abs/2502.02415v1) | ANFM presents a novel graph generation method based on filtration techniques, enabling significantly faster and more efficient training, with a 100x speed improvement over diffusion models while delivering comparable performance.|
 |[A Faster, Lighter Vision Transformer for Image Super-Resolution.](https://arxiv.org/abs/2409.03516v1) | The Low-to-high Multi-Level Transformer addresses the complexity and inefficiency of recent Vision Transformer (ViT) methods for image super-resolution.|
-|[.]() | |
+|[Hugging Face demo explores LLM energy consumption in real time.](https://huggingface.co/spaces/jdelavande/chat-ui-energy) |A new Hugging Face space that visualizes how much energy LLM queries consume during interactions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
