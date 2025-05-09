@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[o3 over optimization is back.](https://www.interconnects.ai/p/openais-o3-over-optimization-is-back) | This post examines the difficulties posed by the latest reasoning models and provides evidence that OpenAI may be over-optimizing for specific goals, leading to increased brittleness and a higher risk of hallucinations in its models.|
-|[.]() | |
+|[AI assisted search-based research actually works now.](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) |Recent progress in LLMs such as OpenAI's o3 and o4-mini has made them well-suited for search-based tasks, addressing previous hallucination problems. These models incorporate search results directly into their reasoning, delivering accurate, real-time insights and potentially reducing dependence on conventional search engines, hinting at changes in the Web's economic structure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
