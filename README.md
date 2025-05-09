@@ -141,9 +141,9 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Latents for Generative Modeling.](https://sander.ai/2025/04/15/latents.html) | A top contender for blog post of the year for those into generative modeling, offering a clear breakdown of the history, core ideas, and major advancements in learned latents.|
 |[NVIDIA's Temporally Consistent Video Diffusion.](https://research.nvidia.com/labs/genair/equivdm/) | NVIDIA's EquivDM framework improves video diffusion by applying consistent noise, leading to better motion tracking and more 3D-consistent results with fewer sampling steps.|
 |[Intellect 2 Distributed Training.](https://www.primeintellect.ai/blog/intellect-2) |Prime Intellect has developed a 32B fully distributed network trained with reinforcement learning for reasoning, and has open-sourced much of its code and valuable libraries. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DeepMath dataset.](https://github.com/zwhe99/DeepMath) | 103K examples of highly filtered and decontaminated math problems for reasoning model training.|
+|[Prima CPP.](https://github.com/Lizonghang/prima.cpp) |Prima CPP is an extension of llama.cpp that tries to enable mmaping of memory for large models to enable them to run on low RAM environments. |
+|[Tile Language.](https://github.com/tile-ai/tilelang) |Tile Language is a compact domain-specific language aimed at simplifying the creation of high-performance GPU/CPU kernels like GEMM, Dequant GEMM, FlashAttention, and LinearAttention. It uses a Python-like syntax built on TVM's compiler stack, enabling developer productivity while preserving low-level optimizations for top-tier performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
