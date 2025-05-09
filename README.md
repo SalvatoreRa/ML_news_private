@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Questions about the Future of AI.](https://www.dwarkesh.com/p/questions-about-ai) | This article explores AI's future by examining challenges in agency development, reinforcement learning, and alignment, while considering the strategic trajectory of AI, the role of open-source models, and the economic and geopolitical impacts of advanced and post-AGI technologies.|
 |[AI models can generate exploit code at lightning speed.](https://www.theregister.com/2025/04/21/ai_models_can_generate_exploit/) | Generative AI models like GPT-4 can produce proof-of-concept exploits within hours of a vulnerability's disclosure, as shown with a critical Erlang SSH flaw—underscoring the urgent need for quicker defensive responses and automated security measures.|
 |[Agency Is Eating the World.](https://www.piratewires.com/p/agency-is-eating-the-world) | AI is empowering individuals to build lean, high-impact companies by replacing traditional specialization and large teams with tech-enabled efficiency. This shift, driven by high-agency users, challenges credentialism and favors those who act independently, leveraging AI to execute complex tasks rapidly across industries.|
-|[A Staggering Number of Gen Z Think AI Is Already Conscious.]() | |
+|[A Staggering Number of Gen Z Think AI Is Already Conscious.](https://futurism.com/gen-z-thinks-conscious-ai) |25% of Gen Z believe AI is already conscious, while 52% think it soon will be.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
