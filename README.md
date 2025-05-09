@@ -124,8 +124,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Minimal MCP-Powered Agent Implementation.](https://huggingface.co/blog/tiny-agents) |A walkthrough on how to build a compact MCP-powered agent in just 50 lines of Typescript. |
 |[How to Debug ML Deployments Faster.](https://decodingml.substack.com/p/how-to-debug-ml-deployments-20x-faster) | This guide demonstrates an efficient local testing workflow aimed at speeding up model deployment debugging.|
-|[.]() | |
-|[.]() | |
+|[Phi-4-Mini-Reasoning.](https://arxiv.org/abs/2504.21233) |Microsoft's Phi-4-Mini-Reasoning is a 3.8B parameter model that delivers state-of-the-art math reasoning, outperforming larger models on MATH-500. Trained via a four-stage pipeline—mid-training, fine-tuning, DPO, and RL with verifiable rewards—it combines efficiency with accuracy. Using 10M filtered CoT samples and tailored RL strategies, it shows that small models can achieve high reasoning performance when guided by carefully structured training. |
+|[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory.](https://arxiv.org/abs/2504.19413) |This paper introduces Mem0 and Mem0g, memory-centric architectures that help LLM agents maintain coherence across long conversations by overcoming fixed-context limits. Mem0 uses dense language-based memory with efficient updates, while Mem0g adds a graph-based structure for better relational and temporal reasoning. Both outperform existing memory and RAG systems on LOCOMO benchmarks, with Mem0g leading in accuracy and Mem0 excelling in latency—making them ideal for real-time, long-term agent use. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
