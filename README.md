@@ -77,8 +77,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
+|[Gemini 2.5 Flash.](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/) | The next Flash model from Gemini has been released. It is a substantial upgrade from previous versions and matches Claude on a number of important STEM benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,6 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[BitNet b1.58 2B4T Technical Report.](https://arxiv.org/abs/2504.12285) |BitNet b1.58 2B4T is the first open-source, natively trained 1-bit LLM at 2B scale, achieving strong benchmark results with just 1.58 bits per weight. Using only 0.4 GB memory and 0.028 J/token, it rivals full-precision models like Qwen2.5-1.5B while being far more efficient. Its native 1-bit training outperforms post-quantized baselines, and innovations in architecture and training set a new standard for ultra-efficient LLMs deployable on diverse hardware. |
+|[Claude Code Best Practices.](https://www.anthropic.com/engineering/claude-code-best-practices) |Anthropic has released a detailed engineering guide on how to use its agentic programming assistant. It requires more specificity than traditional models. | 
 |[.]() | |
 |[.]() | |
 |[.]() | |
