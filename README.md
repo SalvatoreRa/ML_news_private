@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMind's Framework for AI Afterlives.](https://deepmind.google/research/publications/65827/) | DeepMind outlines a framework and ethical considerations for generative AI agents that could act as posthumous representations of real individuals.|
 |[Evaluating the Goal-Directedness of Large Language Models.](https://arxiv.org/abs/2504.11844) |This study presents a framework for evaluating how effectively LLMs apply their abilities to achieve goals, revealing that even advanced models like GPT-4o and Claude 3.7 lack full goal-directedness—especially in tasks requiring information gathering or integrating multiple steps—despite strong performance on individual components. |
 |[General-Reasoner.](https://github.com/TIGER-AI-Lab/General-Reasoner/blob/main/General_Reasoner.pdf) | General-Reasoner is an RL-based method that enhances LLM reasoning across domains using a 230K-question dataset and a semantic-aware verifier. It outperforms baselines like SimpleRL and Qwen2.5 on general and math benchmarks, achieving over 10-point gains while preserving strong mathematical performance.|
-|[.]() | |
+|[Tina: Tiny Reasoning Models via LoRA.](https://arxiv.org/abs/2504.15777) |Tina is a 1.5B parameter model family trained with LoRA-based reinforcement learning, achieving strong reasoning performance on tasks like AIME and MATH at just \~\$9 post-training cost. It matches or exceeds full fine-tuned models, proving that efficient reasoning can be taught to small models with minimal, low-cost updates. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
