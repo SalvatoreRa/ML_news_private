@@ -103,7 +103,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Grok Canvas-like Tool for Document Creation.](https://x.com/grok/status/1912318583532872166) |Grok, the chatbot from xAI, now includes Grok Studio, a canvas-like tool to build documents and basic apps. It's now live for all users. |
 |[Introducing OpenAI o3 and o4-mini.](https://openai.com/index/introducing-o3-and-o4-mini/) |OpenAI has launched the new o3 and o4-mini models, enhancing ChatGPT's tool usage and enabling quicker, more advanced reasoning with built-in web search, file analysis, and image generation. |
 |[Assort Health Secures $26 Million.](https://www.assorthealth.com/blog/assort-health-secures-26-million-in-funding-to-expand-specialty-specific-generative-ai-platform-for-managing-patient-phone-calls) | Assort Health, an AI-driven platform for handling patient calls, has secured new funding, raising its total to \$26 million to further its goal of enhancing healthcare access. Since late 2024, its technology has driven 8x revenue growth by cutting call wait times and improving appointment accuracy, with strong patient satisfaction. Supported by top investors, Assort Health integrates with EHR systems, achieving 99% scheduling accuracy and over 90% issue resolution.|
-|[.]() | |
+|[Google Uses AI to Cut Scam Ads by 90%.](https://blog.google/products/ads-commerce/google-ads-safety-report-2024/) | Google's 2024 Ads Safety Report highlights how LLM upgrades blocked billions of bad ads, suspended 700K+ scam accounts, and reduced impersonation scams significantly.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[DeepMath dataset.](https://github.com/zwhe99/DeepMath) | 103K examples of highly filtered and decontaminated math problems for reasoning model training.|
 |[Prima CPP.](https://github.com/Lizonghang/prima.cpp) |Prima CPP is an extension of llama.cpp that tries to enable mmaping of memory for large models to enable them to run on low RAM environments. |
 |[Tile Language.](https://github.com/tile-ai/tilelang) |Tile Language is a compact domain-specific language aimed at simplifying the creation of high-performance GPU/CPU kernels like GEMM, Dequant GEMM, FlashAttention, and LinearAttention. It uses a Python-like syntax built on TVM's compiler stack, enabling developer productivity while preserving low-level optimizations for top-tier performance. |
-|[.]() | |
+|[Hugging Face Updated HELMET Benchmark.](https://huggingface.co/blog/helmet) |Hugging Face has expanded its HELMET benchmark to include more models and insights, helping researchers evaluate long-context LLMs like Phi-4 and Jamba 1.6. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
