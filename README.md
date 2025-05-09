@@ -110,9 +110,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude Code Best Practices.](https://www.anthropic.com/engineering/claude-code-best-practices) |Anthropic has released a detailed engineering guide on how to use its agentic programming assistant. It requires more specificity than traditional models. | 
 |[Flexible Image Watermarking.](https://arxiv.org/abs/2504.12739v1) | MaskMark offers a straightforward dual-mode approach to global and local watermarking through a masking-based Encoder-Distortion-Decoder framework.|
 |[Personalized Text-to-Image Generation with Auto-Regressive Models.](https://arxiv.org/abs/2504.13162v1) | This paper investigates training autoregressive models for personalized image generation, aiming to match the fidelity of diffusion methods using a two-stage optimization strategy.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Aligning LVMs with Human Preferences.](https://github.com/haroldchen19/vistadpo) |VistaDPO enhances video-text alignment by refining preference learning over both spatial and temporal dimensions, utilizing a new 7.2K-sample dataset and a hierarchical optimization approach. |
+|[Hallucination Reduction in VLMs.](https://github.com/tsunghan-wu/reverse_vlm) |REVERSE introduces a training and inference pipeline that enables VLMs to self-detect and revise hallucinations. |
+|[ZeroSumEval.](https://github.com/facebookresearch/zerosumeval) |A dynamic evaluation framework that uses competitive multi-agent simulations to benchmark LLMs across reasoning, knowledge, and planning tasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
