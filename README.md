@@ -91,7 +91,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Rivian elects Cohere’s CEO to its board in latest signal the EV maker is bullish on AI.](https://techcrunch.com/2025/04/21/rivian-elects-coheres-ceo-to-its-board-in-latest-signal-the-ev-maker-is-bullish-on-ai/) | Aidan Gomez, the co-founder and CEO of generative AI startup Cohere, has joined the board of EV maker Rivian, according to a regulatory filing. The appointment is the latest sign that Rivian sees promises in applying AI to its own venture while positioning itself as a software leader — and even provider — within the automotive industry.|
 |[OpenAI Image Generation API.](https://openai.com/index/image-generation-api/) |The image generation model behind ChatGPT's visuals has been made available via API, enabling developers to integrate image creation into apps and services. |
 |[Grok Vision Available for iOS Users.](https://threadreaderapp.com/thread/1914820712092852430.html) |xAI's Grok chatbot has gained the ability to interpret visual inputs, allowing users to ask questions about what they saw, similar to features in ChatGPT and Gemini. |
-|[.]() | |
+|[Claude Misuse and Threat Report.](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) | Claude was used in influence operations where LLMs coordinated social media bot activity, and this article details how Anthropic has strengthened its safety systems to block similar abuse.
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,6 +134,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Evaluating the Goal-Directedness of Large Language Models.](https://arxiv.org/abs/2504.11844) |This study presents a framework for evaluating how effectively LLMs apply their abilities to achieve goals, revealing that even advanced models like GPT-4o and Claude 3.7 lack full goal-directedness—especially in tasks requiring information gathering or integrating multiple steps—despite strong performance on individual components. |
 |[General-Reasoner.](https://github.com/TIGER-AI-Lab/General-Reasoner/blob/main/General_Reasoner.pdf) | General-Reasoner is an RL-based method that enhances LLM reasoning across domains using a 230K-question dataset and a semantic-aware verifier. It outperforms baselines like SimpleRL and Qwen2.5 on general and math benchmarks, achieving over 10-point gains while preserving strong mathematical performance.|
 |[Tina: Tiny Reasoning Models via LoRA.](https://arxiv.org/abs/2504.15777) |Tina is a 1.5B parameter model family trained with LoRA-based reinforcement learning, achieving strong reasoning performance on tasks like AIME and MATH at just \~\$9 post-training cost. It matches or exceeds full fine-tuned models, proving that efficient reasoning can be taught to small models with minimal, low-cost updates. |
+|[Content Discovery Search with Llama.](https://ai.meta.com/blog/litmos-llama-intuitive-corporate-learning/) |Litmos integrated Llama to improve learning content discovery in its LMS, addressing issues with traditional keyword search and raising user engagement. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
