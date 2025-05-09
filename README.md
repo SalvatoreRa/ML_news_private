@@ -88,8 +88,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[DeepSeek-R2.](https://deepseek.ai/blog/deepseek-r2-ai-model-launch-2025) | DeepSeek has launched DeepSeek-R2, a multilingual and resource-efficient model positioned to challenge global AI leaders.|
 |[Musk’s xAI Holdings is reportedly raising the second-largest private funding round ever.](https://techcrunch.com/2025/04/25/musks-xai-holdings-is-reportedly-raising-the-second-largest-private-funding-round-ever/) | Elon Musk’s xAI Holdings is in talks to raise $20 billion in fresh funding, potentially valuing the AI and social media combo at over $120 billion, according to a new Bloomberg report that says talks are in the “early stages.” If successful, the deal would be the second-largest startup funding round ever, behind only OpenAI’s $40 billion raise last month.| 
-|[.]() | |
-|[.]() | |
+|[Resilient AI Infrastructure.](https://www.harvey.ai/blog/resilient-ai-infrastructure) |Harvey employs a centralized Python library to manage AI model interactions, enabling reliable deployments through active load balancing and real-time monitoring. It features distributed rate limiting to manage burst traffic, supports smooth model upgrades, and improves security, resource efficiency, and rapid deployment while ensuring consistent performance and failure detection. |
+|[Character.AI unveils AvatarFX, an AI video model to create lifelike chatbots.](https://techcrunch.com/2025/04/22/character-ai-unveils-avatarfx-an-ai-video-model-to-create-lifelike-chatbots/) |Character.AI, a leading platform for chatting and roleplaying with AI-generated characters, unveiled its forthcoming video generation model, AvatarFX, on Tuesday. Available in closed beta, the model animates the platform’s characters in a variety of styles and voices, from human-like characters to 2D animal cartoons. |
+|[High Schoolers’ AI-Enabled Device Deters Drunk Driving.](https://spectrum.ieee.org/students-device-deters-drunk-driving) | High school students from North Carolina developed SoberRide, an AI-powered device that uses cameras, sensors, and machine learning to detect signs of alcohol impairment in drivers. They've secured a U.S. patent, partnered with groups like Mothers Against Drunk Driving, and gained attention from major automakers at CES. The team is pushing for legislation requiring DUI detection in vehicles and is targeting fleet operators and parents as initial users.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +133,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lightweight Neural App Control.](https://arxiv.org/abs/2410.17883) | An interesting approach from Huawei that allows VLMs to control apps on Android devices with minimal additional system setup.|
 |[Cognitive Diagnosis.](https://arxiv.org/abs/2410.17564v1) |DisenGCD is a cognitive diagnosis model that improves the learning of student, exercise, and concept representations by using a disentangled graph learning framework. |
 |[Pippo: High-Resolution Multi-View Humans from a Single Image.](https://github.com/facebookresearch/pippo) |Virtual human creation training system (no pretrained models) that can take an image as input and output a high-quality 3D representation of a person. |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
