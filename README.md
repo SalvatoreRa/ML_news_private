@@ -130,8 +130,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek-Prover-V2.](https://arxiv.org/abs/2504.21801) |DeepSeek-Prover-V2 is a 671B LLM advancing formal theorem proving in Lean 4 using a cold-start pipeline that blends informal reasoning with subgoal decomposition. It builds training data via recursive proof generation and trains with curriculum learning and RL for structural consistency. Trained in both minimal and CoT modes, it achieves new state-of-the-art results on benchmarks like MiniF2F and ProofNet, showing strong generalization and bridging informal and formal reasoning performance. |
 |[LLM Arena Pareto Frontier.](https://winston-bosan.github.io/llm-pareto-frontier/) |The chart compares LLMs based on performance relative to cost, highlighting top value models such as Amazon Nova Micro, Amazon Nova Lite, Gemini 2.0 Flash Lite, Gemini 2.0 Flash 001, Gemini 2.5 Flash, and Gemini 2.5 Pro for their strong performance at competitive pricing. |
 |[Lightweight Neural App Control.](https://arxiv.org/abs/2410.17883) | An interesting approach from Huawei that allows VLMs to control apps on Android devices with minimal additional system setup.|
-|[.]() | |
-|[.]() | |
+|[Cognitive Diagnosis.](https://arxiv.org/abs/2410.17564v1) |DisenGCD is a cognitive diagnosis model that improves the learning of student, exercise, and concept representations by using a disentangled graph learning framework. |
+|[Pippo: High-Resolution Multi-View Humans from a Single Image.](https://github.com/facebookresearch/pippo) |Virtual human creation training system (no pretrained models) that can take an image as input and output a high-quality 3D representation of a person. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
