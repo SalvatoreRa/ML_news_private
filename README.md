@@ -78,7 +78,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Gemini 2.5 Flash.](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/) | The next Flash model from Gemini has been released. It is a substantial upgrade from previous versions and matches Claude on a number of important STEM benchmarks.|
-|[.]() | |
+|[Our updated Preparedness Framework.](https://openai.com/index/updating-our-preparedness-framework/) |OpenAI has revised its Preparedness Framework to strengthen safeguards against serious risks from advanced AI, introducing clearer criteria for identifying high-risk capabilities, more precise categories, scalable evaluations, and structured safeguard reporting. The framework will be regularly updated to reflect new technologies and expert input. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
