@@ -98,9 +98,8 @@ While the project is still in early stages, we’re told there’s an internal p
 |[TxGemma Open Model for Therapeutic Development.](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/) |Google has introduced a new variant of its Gemma models, specifically fine-tuned for therapeutic discovery in medical science. This model surpasses most specialized tools and all open general-purpose models in relevant benchmarks, highlighting its strength in biomedical research applications. |
 |[OpenAI's Updates Preparedness Framework.](https://openai.com/index/updating-our-preparedness-framework/) |OpenAI has updated its safety strategy by introducing clearer risk categories, enhanced evaluation methods, and new protocols for handling advanced AI capabilities, aiming to improve oversight and mitigate potential harms more effectively. |
 |[Canada Has Answer to Energy Needs in AI Race, Ex-Google CEO Says.](https://financialpost.com/pmn/business-pmn/canada-has-answer-to-energy-needs-in-ai-race-ex-google-ceo-says) |Canada, home to 250 data centers, plans to grow its digital infrastructure by harnessing its rich hydro and nuclear energy resources. Conservative leader Pierre Poilievre supports ramping up resource production to enhance economic gains within the country.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Notion Launches AI-Powered Email.](https://www.notion.com/product/mail) | Notion Mail is a Gmail-integrated client that helps users manage, search, and reply to email using AI.|
+|[ChatGPT became the most downloaded app globally in March.](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/) |ChatGPT became the most downloaded non-gaming app in March, surpassing Instagram and TikTok with 46 million downloads. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
