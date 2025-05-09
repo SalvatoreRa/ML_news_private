@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users.](https://arxiv.org/abs/2504.10157) |SocioVerse, developed by Fudan University and collaborators, is a large-scale social simulation platform using LLM agents aligned with real-world data across environment, user demographics, interaction scenarios, and behavior. It achieves high accuracy in modeling elections, sentiment, and economic patterns, demonstrating the value of realistic user modeling. SocioVerse offers a scalable, flexible framework for testing sociopolitical hypotheses and bridging AI with social science. |
 |[M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models.](https://arxiv.org/abs/2504.10449) | M1 is a Mamba-based reasoning model trained with extended test-time computation, delivering solid performance—particularly on long-context tasks and throughput—though it doesn't quite reach state-of-the-art levels.|
 |[Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050) |JudgeLRM is a family of LLMs trained with reinforcement learning for judgment tasks. Unlike SFT, it excels in reasoning-heavy evaluations, outperforming models like GPT-4 and DeepSeek-R1. |
-|[.]() | |
+|[Conversational AI for Cells.](https://blog.google/technology/research/cell2sentence-scale/) | C2S-Scale is a new family of LLMs that interprets single-cell data and translates biological signals into natural language for applications in personalized medicine and drug discovery.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,8 +110,8 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Goodfire raises $50m series A to steer and understand models.](https://www.goodfire.ai/blog/announcing-our-50m-series-a) | Goodfire is a mechanistic interpretability company with strong expertise in SAEs, among other things. It is working closely with closed and open model providers to steer, control, and understand model motivations and behavior.|
 |[Visual Reasoning with OpenAI o3 and o4-mini.](https://openai.com/index/thinking-with-images/) |OpenAI's latest visual models can reason with images through tool-augmented transformations, enabling a new level of multimodal understanding and step-by-step visual problem-solving. |
 |[Cohere on Hugging Face Inference Providers.](https://huggingface.co/blog/inference-providers-cohere) |Cohere became the first model creator to directly host and serve its enterprise-focused AI models on Hugging Face. |
-|[.]() | |
-|[.]() | |
+|[OpenAI Flex Processing.](https://platform.openai.com/docs/guides/flex-processing) |OpenAI has introduced Flex processing, a cost-saving API option that trades slower response times and intermittent availability for lower prices, ideal for non-production tasks. |
+|[Anthropic enhances Claude with Research and Google Workspace integration.](https://www.anthropic.com/news/research) |Anthropic has launched new Claude features: Research for autonomous multi-step search with citations and Google Workspace integration for context-aware assistance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
