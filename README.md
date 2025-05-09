@@ -149,8 +149,8 @@ Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with 
 |[A Faster, Lighter Vision Transformer for Image Super-Resolution.](https://arxiv.org/abs/2409.03516v1) | The Low-to-high Multi-Level Transformer addresses the complexity and inefficiency of recent Vision Transformer (ViT) methods for image super-resolution.|
 |[Hugging Face demo explores LLM energy consumption in real time.](https://huggingface.co/spaces/jdelavande/chat-ui-energy) |A new Hugging Face space that visualizes how much energy LLM queries consume during interactions. |
 |[Google's Benchmark for Brain Modeling.](https://research.google/blog/improving-brain-models-with-zapbench/) | Google, HHMI, and Harvard have launched ZAPBench, a dataset of larval zebrafish that integrates structural and functional brain data to support the development of neural activity prediction models.|
-|[.]() | |
-|[.]() | |
+|[Weed Mapping for Smarter Farming.](https://arxiv.org/abs/2410.04983v2) |This study presents RoWeeder, a novel unsupervised framework for weed detection in agriculture that integrates crop-row detection with a robust deep learning model, training it to distinguish weeds from crops using crop-row data. |
+|[Training Small Language Models with Knowledge Distillation.](https://huggingface.co/MiniLLM) | MiniPLM is a new framework designed to enhance pre-training of small language models using knowledge from larger models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
