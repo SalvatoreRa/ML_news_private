@@ -155,6 +155,13 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Junfeng5/Liquid_V1_7B.](https://huggingface.co/Junfeng5/Liquid_V1_7B) |Liquid is a multimodal LLM that integrates visual comprehension and generation by tokenizing images into discrete codes. |
 |[Efficient Line Art Colorization with Broader References.](https://zhuang2002.github.io/Cobra/) |A new efficient long-context, fine-grained ID preservation framework for line art colorization delivers high accuracy, speed, and flexibility for comic coloring, converting black-and-white sketches into vivid illustrations by leveraging rich contextual references. |
 |[Scene Captioning.](https://arxiv.org/abs/2504.09518) | 3D CoCa is a unified framework that combines vision-language contrastive learning and captioning for 3D scenes.|
+|[DeepSpeed's DeepCompile.](https://github.com/deepspeedai/DeepSpeed/blob/master/blogs/deepcompile/README.md) | The DeepSpeed team has integrated compilation into their distributed training workflow, significantly accelerating several performance bottlenecks using a modified version of torch compile.|
+|[Speech Instruction Fine-Tuning Dataset.](https://huggingface.co/datasets/amazon-agi/SIFT-50M) | SIFT-50M (Speech Instruction Fine-Tuning) is a dataset of 50 million examples created for instruction fine-tuning and pre-training speech-text LLMs. Sourced from 14,000 hours of public speech data, it uses LLMs and expert models, spans five languages, and supports both speech understanding and controllable speech generation. It enriches existing datasets with instruction-based QA pairs and includes around 5 million examples for generation tasks.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
