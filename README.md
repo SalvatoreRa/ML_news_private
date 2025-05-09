@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[o3 over optimization is back.](https://www.interconnects.ai/p/openais-o3-over-optimization-is-back) | This post examines the difficulties posed by the latest reasoning models and provides evidence that OpenAI may be over-optimizing for specific goals, leading to increased brittleness and a higher risk of hallucinations in its models.|
 |[AI assisted search-based research actually works now.](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) |Recent progress in LLMs such as OpenAI's o3 and o4-mini has made them well-suited for search-based tasks, addressing previous hallucination problems. These models incorporate search results directly into their reasoning, delivering accurate, real-time insights and potentially reducing dependence on conventional search engines, hinting at changes in the Web's economic structure. |
 |[An Introduction to Graph Transformers.](https://kumo.ai/research/introduction-to-graph-transformers/) | This article introduces Graph Transformers and explores how they differ from and complement GNNs.|
-|[.]() | |
+|[Questions about the Future of AI.](https://www.dwarkesh.com/p/questions-about-ai) | This article explores AI's future by examining challenges in agency development, reinforcement learning, and alignment, while considering the strategic trajectory of AI, the role of open-source models, and the economic and geopolitical impacts of advanced and post-AGI technologies.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
