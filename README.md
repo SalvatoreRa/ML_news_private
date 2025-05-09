@@ -82,7 +82,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[South Korea's AI Chip Champion Is Poised To Carve Out Global Niche.](https://www.forbes.com/sites/johnkang/2025/04/14/south-koreas-ai-chip-champion-is-poised-to-carve-out-global-niche/) |Rebellions, South Korea's first AI chip unicorn, has merged with SK Telecom's Sapeon to take on global competitors like Nvidia. Focused on energy-efficient AI chips, its Rebel chip offers major power savings compared to Nvidia's H100. Backed by leading talent and key partnerships, the company is aiming for international expansion and an IPO by 2026. |
 |[OpenAI has launched the ChatGPT Image Library.](https://community.openai.com/t/openai-has-launched-the-chatgpt-image-library/1230140/1) | OpenAI launched the ChatGPT Image Library on the Web and Android/iOS for Free, Plus, and Pro users.|
 |[Instagram AI-based Teen Protection.](https://about.fb.com/news/2025/04/meta-parents-new-technology-enroll-teens-teen-accounts/) | Meta is leveraging AI to detect teen users on Instagram and automatically assign them to restricted teen account settings, now featuring stronger default protections and requiring parental consent for any changes.|
-|[.]() | |
+|[Hackathon for non-devs and vibe coders.](https://hackathon.dev/) | Stackblitz, the creators of Bolt, is hosting the world's largest hackathon for non-devs and vibe coders on 5/30 for anyone around the world to participate.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -120,8 +120,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Our Approach to Understanding and Addressing AI Harms.](https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms) | Anthropic introduced a comprehensive framework to evaluate and reduce AI harms, covering both extreme and routine risks across physical, psychological, economic, societal, and autonomy dimensions. It supports policy, testing, and enforcement, and aligns with their Responsible Scaling Policy to ensure safeguards evolve with AI progress.|
 |[Verifiable rewards for writing.](https://threadreaderapp.com/thread/1914334227534856420.html) |Writing quality reward models (WQRMs) are tools for assessing creative writing quality and can be used to train models in that domain. They represent a recent advancement for reinforcement learning models with measurable rewards, and this thread highlights an example where WQRM scores closely matched overall writing quality. |
 |[Fast Conformal Prediction.](https://arxiv.org/abs/2504.12189) | LOO-StabCP boosts the speed of conformal prediction by using leave-one-out stability, providing scalable uncertainty estimation without sacrificing accuracy.|
-|[.]() | |
-|[.]() | |
+|[MAGI 1 - Autoregressive Video Generation at Scale.](https://huggingface.co/sand-ai/MAGI-1) | The MAGI 1 model is a new autoregressive video generator capable of producing long, coherent videos, matching the performance of Wan video generation and coming slightly behind certain closed-source models.|
+|[Google AI Academy for Infrastructure Startups.](https://blog.google/feed/google-for-startups-ai-academy-america-infrastructure-apply/) | Google is inviting AI startups focused on U.S. infrastructure to apply for its six-month accelerator, offering mentorship, technical support, and strategic guidance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
