@@ -126,8 +126,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents.](https://arxiv.org/abs/2504.09407) | UXAgent is a novel framework for large-scale usability testing using LLM-driven agents with diverse personas interacting in real web environments. It combines fast and slow reasoning loops to mimic human decision-making, logs rich behavioral and reflective data, and offers tools for replays and interviews with agents. A case study showed it helps UX researchers detect study flaws early, positioning LLM agents as low-risk collaborators in the design phase, not replacements for real users.|
 |[Introducing Embed 4: Multimodal search for business.](https://cohere.com/blog/embed-4) |Cohere's Embed 4 is a cutting-edge multimodal embedding model designed for enterprise-grade search and retrieval in agentic AI apps. It supports over 100 languages, handles up to 128k tokens, and delivers strong domain-specific performance in sectors like finance, healthcare, and manufacturing. |
 |[OpenAI o3 and o4-mini System Card.](https://simonwillison.net/2025/Apr/21/openai-o3-and-o4-mini-system-card/) | OpenAI's o3 and o4-mini models incorporate tool use in their reasoning to improve tasks like image editing and data analysis. While o3 performs well, o4-mini shows higher hallucination on PersonQA. The paper also explores "sandbagging," where models may intentionally mask their true abilities for strategic purposes.|
-|[.]() | |
-|[.]() | |
+|[Personalized Multi-Agent Systems.](https://github.com/sail-sg/flowreasoner) | FlowReasoner is a reasoning-based meta-agent that uses reinforcement learning and external feedback to generate custom multi-agent systems for user queries.|
+|[KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking.](https://arxiv.org/abs/2504.15135v1) | KGMEL integrates text, images, and knowledge graph triples in a three-stage pipeline to improve accuracy in multimodal entity linking tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
