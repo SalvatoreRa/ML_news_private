@@ -102,7 +102,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[ChatGPT became the most downloaded app globally in March.](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/) |ChatGPT became the most downloaded non-gaming app in March, surpassing Instagram and TikTok with 46 million downloads. |
 |[Grok Canvas-like Tool for Document Creation.](https://x.com/grok/status/1912318583532872166) |Grok, the chatbot from xAI, now includes Grok Studio, a canvas-like tool to build documents and basic apps. It's now live for all users. |
 |[Introducing OpenAI o3 and o4-mini.](https://openai.com/index/introducing-o3-and-o4-mini/) |OpenAI has launched the new o3 and o4-mini models, enhancing ChatGPT's tool usage and enabling quicker, more advanced reasoning with built-in web search, file analysis, and image generation. |
-|[.]() | |
+|[Assort Health Secures $26 Million.](https://www.assorthealth.com/blog/assort-health-secures-26-million-in-funding-to-expand-specialty-specific-generative-ai-platform-for-managing-patient-phone-calls) | Assort Health, an AI-driven platform for handling patient calls, has secured new funding, raising its total to \$26 million to further its goal of enhancing healthcare access. Since late 2024, its technology has driven 8x revenue growth by cutting call wait times and improving appointment accuracy, with strong patient satisfaction. Supported by top investors, Assort Health integrates with EHR systems, achieving 99% scheduling accuracy and over 90% issue resolution.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
