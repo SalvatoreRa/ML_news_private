@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI is building a social network.](https://www.theverge.com/openai/648130/openai-social-network-x-competitor) | OpenAI is working on its own X-like social network, according to multiple sources familiar with the matter.
 While the project is still in early stages, we’re told there’s an internal prototype focused on ChatGPT’s image generation that has a social feed.|
 |[Nvidia H20 chip exports hit with license requirement by US government.](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/) | Semiconductor giant Nvidia is facing unexpected new U.S. export controls on its H20 chips. In a filing Tuesday, Nvidia said it was informed by the U.S. government that it will need a license to export its H20 AI chips to China. This license will be required indefinitely, according to the filing — the U.S. government cited “risk that the [H20] may be used in … a supercomputer in China.”|
-|[.]() | |
+|[TxGemma Open Model for Therapeutic Development.](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/) |Google has introduced a new variant of its Gemma models, specifically fine-tuned for therapeutic discovery in medical science. This model surpasses most specialized tools and all open general-purpose models in relevant benchmarks, highlighting its strength in biomedical research applications. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -128,9 +128,9 @@ While the project is still in early stages, we’re told there’s an internal p
 |[BrowseComp Benchmark for Hard-to-Find Knowledge.](https://openai.com/index/browsecomp) |OpenAI's BrowseComp is a benchmark consisting of 1,266 tasks aimed at testing AI agents' ability to browse the web and retrieve complex, hard-to-find information. |
 |[DeepSeek to Open Source its Inference Engine.](https://github.com/deepseek-ai/open-infra-index/blob/main/OpenSourcing_DeepSeek_Inference_Engine/README.md?utm_source=tldrai) | DeepSeek's inference engine is built on VLLM, although it is now heavily modified.|
 |[MoonDream 2.0 Release.](https://moondream.ai/blog/moondream-2025-04-14-release) | MoonDream is a small, 2B parameter VLM that outperforms many open and closed models. It has recently gotten a strong upgrade on chartQA and a number of other useful benchmarks.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Data Decide.](https://allenai.org/blog/datadecide) |AllenAI has released a tool that can be used to help decide which data to include in pre-training. This framework is quite useful for understanding what goes into a filtering run for pre-training. |
+|[Conversion Rate Prediction in Ad Systems.](https://arxiv.org/abs/2504.08169) | Pinterest researchers have proposed a multitask framework that uses Deep Hierarchical Ensemble Networks to improve CVR predictions in ad systems. It shows state-of-the-art results through feature combination and auxiliary learning.|
+|[Open Source OpenAI Production Kernels.](https://github.com/triton-lang/triton/pull/6429) |OpenAI has open sourced some of its fp4 and MoE kernels to the Triton language GitHub. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
