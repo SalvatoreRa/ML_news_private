@@ -170,7 +170,7 @@ Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with 
 |[Agency Is Eating the World.](https://www.piratewires.com/p/agency-is-eating-the-world) | AI is empowering individuals to build lean, high-impact companies by replacing traditional specialization and large teams with tech-enabled efficiency. This shift, driven by high-agency users, challenges credentialism and favors those who act independently, leveraging AI to execute complex tasks rapidly across industries.|
 |[A Staggering Number of Gen Z Think AI Is Already Conscious.](https://futurism.com/gen-z-thinks-conscious-ai) |25% of Gen Z believe AI is already conscious, while 52% think it soon will be.|
 |[Deploying Agents as Real-time APIs.](https://decodingml.substack.com/p/deploying-agents-as-real-time-apis) |The PhiloAgents lesson demonstrates how to convert game simulation agents into API-ready, real-time interactive characters, enhancing immersion in digital environments. |
-|[.]() | |
+|[The Urgency of Interpretability.](https://www.darioamodei.com/post/the-urgency-of-interpretability) | AI interpretability must advance as models grow more complex. The field should prioritize transparency to mitigate risk.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
