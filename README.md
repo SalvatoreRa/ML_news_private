@@ -96,8 +96,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 While the project is still in early stages, we’re told there’s an internal prototype focused on ChatGPT’s image generation that has a social feed.|
 |[Nvidia H20 chip exports hit with license requirement by US government.](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/) | Semiconductor giant Nvidia is facing unexpected new U.S. export controls on its H20 chips. In a filing Tuesday, Nvidia said it was informed by the U.S. government that it will need a license to export its H20 AI chips to China. This license will be required indefinitely, according to the filing — the U.S. government cited “risk that the [H20] may be used in … a supercomputer in China.”|
 |[TxGemma Open Model for Therapeutic Development.](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/) |Google has introduced a new variant of its Gemma models, specifically fine-tuned for therapeutic discovery in medical science. This model surpasses most specialized tools and all open general-purpose models in relevant benchmarks, highlighting its strength in biomedical research applications. |
-|[.]() | |
-|[.]() | |
+|[OpenAI's Updates Preparedness Framework.](https://openai.com/index/updating-our-preparedness-framework/) |OpenAI has updated its safety strategy by introducing clearer risk categories, enhanced evaluation methods, and new protocols for handling advanced AI capabilities, aiming to improve oversight and mitigate potential harms more effectively. |
+|[Canada Has Answer to Energy Needs in AI Race, Ex-Google CEO Says.](https://financialpost.com/pmn/business-pmn/canada-has-answer-to-energy-needs-in-ai-race-ex-google-ceo-says) |Canada, home to 250 data centers, plans to grow its digital infrastructure by harnessing its rich hydro and nuclear energy resources. Conservative leader Pierre Poilievre supports ramping up resource production to enhance economic gains within the country.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,7 +149,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |Link|description|
 |---|---|
 |[Business Leaders' Thoughts on AI Possibilities.](https://blog.google/products/google-cloud/business-leaders-building-with-ai/) | Executives from nine companies share how they're leveraging Google Cloud's AI tools to drive innovation across sectors, with over 600 real-world use cases highlighted.|
-|[.]() | |
+|[Jack Ma Advocates for AI to Serve Humanity, Not Dominate.](https://opentools.ai/news/jack-ma-advocates-for-ai-to-serve-humanity-not-dominate) |Jack Ma emphasizes AI should enhance rather than dominate human life, calling for global cooperation on ethical standards to ensure technology supports societal welfare—echoing public concerns about responsible AI development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
