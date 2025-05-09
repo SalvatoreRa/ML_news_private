@@ -54,7 +54,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Reasoning Models Can Be Effective Without Thinking.](https://www.arxiv.org/abs/2504.09858) | The paper introduces NoThinking, a prompting method that skips explicit reasoning steps yet matches or outperforms traditional chain-of-thought approaches in tasks like math, coding, and theorem proving. By jumping directly to answers with a dummy “Thinking” block, it achieves better accuracy–latency tradeoffs, excels in low-token settings, and benefits from parallel decoding, making it both faster and more efficient across multiple benchmarks.|
 |[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users.](https://arxiv.org/abs/2504.10157) |SocioVerse, developed by Fudan University and collaborators, is a large-scale social simulation platform using LLM agents aligned with real-world data across environment, user demographics, interaction scenarios, and behavior. It achieves high accuracy in modeling elections, sentiment, and economic patterns, demonstrating the value of realistic user modeling. SocioVerse offers a scalable, flexible framework for testing sociopolitical hypotheses and bridging AI with social science. |
 |[M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models.](https://arxiv.org/abs/2504.10449) | M1 is a Mamba-based reasoning model trained with extended test-time computation, delivering solid performance—particularly on long-context tasks and throughput—though it doesn't quite reach state-of-the-art levels.|
-|[.]() | |
+|[Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050) |JudgeLRM is a family of LLMs trained with reinforcement learning for judgment tasks. Unlike SFT, it excels in reasoning-heavy evaluations, outperforming models like GPT-4 and DeepSeek-R1. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -153,8 +153,8 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Tile Language.](https://github.com/tile-ai/tilelang) |Tile Language is a compact domain-specific language aimed at simplifying the creation of high-performance GPU/CPU kernels like GEMM, Dequant GEMM, FlashAttention, and LinearAttention. It uses a Python-like syntax built on TVM's compiler stack, enabling developer productivity while preserving low-level optimizations for top-tier performance. |
 |[Hugging Face Updated HELMET Benchmark.](https://huggingface.co/blog/helmet) |Hugging Face has expanded its HELMET benchmark to include more models and insights, helping researchers evaluate long-context LLMs like Phi-4 and Jamba 1.6. |
 |[Junfeng5/Liquid_V1_7B.](https://huggingface.co/Junfeng5/Liquid_V1_7B) |Liquid is a multimodal LLM that integrates visual comprehension and generation by tokenizing images into discrete codes. |
-|[.]() | |
-|[.]() | |
+|[Efficient Line Art Colorization with Broader References.](https://zhuang2002.github.io/Cobra/) |A new efficient long-context, fine-grained ID preservation framework for line art colorization delivers high accuracy, speed, and flexibility for comic coloring, converting black-and-white sketches into vivid illustrations by leveraging rich contextual references. |
+|[Scene Captioning.](https://arxiv.org/abs/2504.09518) | 3D CoCa is a unified framework that combines vision-language contrastive learning and captioning for 3D scenes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
