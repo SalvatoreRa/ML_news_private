@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LTXV Distilled 0.9.6 Video Model.](https://huggingface.co/Lightricks/LTX-Video/blob/main/ltxv-2b-0.9.6-distilled-04-25.safetensors) |LTX video model is a state-of-the-art open video model. |
 |[Generate videos in Gemini and Whisk with Veo 2.](https://blog.google/products/gemini/video-generation/) |Gemini Advanced users can now create high-resolution, cinematic videos from text prompts using the Veo 2 model, starting today. |
 |[Our Approach to Understanding and Addressing AI Harms.](https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms) | Anthropic introduced a comprehensive framework to evaluate and reduce AI harms, covering both extreme and routine risks across physical, psychological, economic, societal, and autonomy dimensions. It supports policy, testing, and enforcement, and aligns with their Responsible Scaling Policy to ensure safeguards evolve with AI progress.|
-|[.]() | |
+|[Verifiable rewards for writing.](https://threadreaderapp.com/thread/1914334227534856420.html) |Writing quality reward models (WQRMs) are tools for assessing creative writing quality and can be used to train models in that domain. They represent a recent advancement for reinforcement learning models with measurable rewards, and this thread highlights an example where WQRM scores closely matched overall writing quality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
