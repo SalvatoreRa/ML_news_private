@@ -85,8 +85,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hackathon for non-devs and vibe coders.](https://hackathon.dev/) | Stackblitz, the creators of Bolt, is hosting the world's largest hackathon for non-devs and vibe coders on 5/30 for anyone around the world to participate.|
 |[OpenAI hints at native Shopify checkout integration in ChatGPT.](https://threadreaderapp.com/thread/1914342031909916748.html) |New code strings found in ChatGPT's web bundle mention “buy_now” buttons and a “shopify_checkout_url,” indicating that OpenAI may be developing a built-in purchase flow within the assistant. |
 |[Mercor Graduate Fellowship.](https://x.com/mercor_ai/status/1914164291315634191) | Mercor launched a $50,000 fellowship for PhD students and postdocs in STEM focused on identifying raw talent based on ideas, not pedigree or connections.|
-|[.]() | |
-|[.]() | |
+|[Pi-0.5: Robots in the Wild.](https://www.pi.website/blog/pi05) | The Physical Intelligence team successfully tested its house cleaning robot in new, unseen environments, demonstrating strong performance by combining vision-language model (VLM) training with action tokenization techniques.|
+|[AvatarFX by Character.AI.](https://blog.character.ai/avatar-fx-cutting-edge-video-generation-by-character-ai/) |Character.AI's AvatarFX creates photorealistic, emotionally rich videos from static images, maintaining strong temporal consistency and enabling multi-speaker dialogue generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -123,9 +123,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MAGI 1 - Autoregressive Video Generation at Scale.](https://huggingface.co/sand-ai/MAGI-1) | The MAGI 1 model is a new autoregressive video generator capable of producing long, coherent videos, matching the performance of Wan video generation and coming slightly behind certain closed-source models.|
 |[Google AI Academy for Infrastructure Startups.](https://blog.google/feed/google-for-startups-ai-academy-america-infrastructure-apply/) | Google is inviting AI startups focused on U.S. infrastructure to apply for its six-month accelerator, offering mentorship, technical support, and strategic guidance.|
 |[Describe Anything: Detailed Localized Image and Video Captioning.](https://arxiv.org/abs/2504.16072) |DAM (Describe Anything Model) is a vision-language model designed for fine-grained, region-specific captioning in images and videos. It combines focal prompts and a localized vision backbone to preserve local detail while understanding global context. Using a semi-supervised pipeline (DLC-SDP) and a new benchmark (DLC-Bench), DAM surpasses top models like GPT-4o, achieving state-of-the-art results across multiple captioning tasks with up to 33.4% improvement in detail accuracy. |
-|[UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents.](https://arxiv.org/abs/2504.09407) | UXAgent is a novel framework for large-scale usability testing using LLM-driven agents with diverse personas interacting in real web environments. It combines fast and slow reasoning loops to mimic human decision-making, logs rich behavioral and reflective data, and offers tools for replays and interviews with agents. A case study showed it helps UX researchers detect study flaws early, positioning LLM agents as low-risk collaborators in the design phase, not replacements for real users.
-|
-|[.]() | |
+|[UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents.](https://arxiv.org/abs/2504.09407) | UXAgent is a novel framework for large-scale usability testing using LLM-driven agents with diverse personas interacting in real web environments. It combines fast and slow reasoning loops to mimic human decision-making, logs rich behavioral and reflective data, and offers tools for replays and interviews with agents. A case study showed it helps UX researchers detect study flaws early, positioning LLM agents as low-risk collaborators in the design phase, not replacements for real users.|
+|[Introducing Embed 4: Multimodal search for business.](https://cohere.com/blog/embed-4) |Cohere's Embed 4 is a cutting-edge multimodal embedding model designed for enterprise-grade search and retrieval in agentic AI apps. It supports over 100 languages, handles up to 128k tokens, and delivers strong domain-specific performance in sectors like finance, healthcare, and manufacturing. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
