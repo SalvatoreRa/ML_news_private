@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models.](https://arxiv.org/abs/2504.10449) | M1 is a Mamba-based reasoning model trained with extended test-time computation, delivering solid performance—particularly on long-context tasks and throughput—though it doesn't quite reach state-of-the-art levels.|
 |[Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050) |JudgeLRM is a family of LLMs trained with reinforcement learning for judgment tasks. Unlike SFT, it excels in reasoning-heavy evaluations, outperforming models like GPT-4 and DeepSeek-R1. |
 |[Conversational AI for Cells.](https://blog.google/technology/research/cell2sentence-scale/) | C2S-Scale is a new family of LLMs that interprets single-cell data and translates biological signals into natural language for applications in personalized medicine and drug discovery.|
-|[.]() | |
+|[DocAgent: A Multi-Agent System for Automated Code Documentation Generation.](https://arxiv.org/abs/2504.08725) | Meta AI's DocAgent is a tool-integrated framework that generates high-quality docstrings for complex codebases using a team of specialized agents and a topological traversal strategy. By parsing code dependencies and incrementally building context, it avoids token overflow and improves documentation quality. Evaluated on Python projects, DocAgent significantly outperforms baselines in completeness, helpfulness, and truthfulness, with its dependency-aware Navigator proving essential to its success.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -160,7 +160,8 @@ While the project is still in early stages, we’re told there’s an internal p
 |[End-to-End Latent Diffusion Training with REPA-E.](https://end2end-diffusion.github.io/) |REPA-E enables stable, joint training of VAEs and latent diffusion models using a representation-alignment loss, achieving state-of-the-art results on ImageNet. |
 |[Meta Releases Many New Artifacts.](https://ai.meta.com/blog/meta-fair-updates-perception-localization-reasoning/) | Meta has released an image Encoder, a VLM, a 3D object localization model based on JEPA, and weights for a BLT model that operates directly on bytes without tokenization.|
 |[Create AI-generated soundtrack in Shorts with Dream Track.](https://support.google.com/youtube/answer/14151606) |YouTube's Dream Track is now accessible in the U.S. through YouTube Shorts and the YouTube Create app, offering AI-generated instrumental soundtracks for creators. These tracks can be globally remixed to produce unique Shorts, promoting collaboration, and are fully integrated with YouTube’s creation tools while following community guidelines. |
-|[.]() | |
+|[SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents.](https://arxiv.org/abs/2504.08703v3) | SWE-PolyBench is a new benchmark for evaluating coding agents on real-world tasks in Java, JavaScript, TypeScript, and Python. It uses execution-based and syntax tree metrics, revealing that current agents struggle with complex problems and perform inconsistently across languages.
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
