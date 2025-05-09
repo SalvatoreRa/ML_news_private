@@ -94,9 +94,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude Misuse and Threat Report.](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) | Claude was used in influence operations where LLMs coordinated social media bot activity, and this article details how Anthropic has strengthened its safety systems to block similar abuse.|
 |[Google's Mobility AI.](https://research.google/blog/introducing-mobility-ai-advancing-urban-transportation/) | Google's Mobility AI initiative aims to modernize city transport systems through AI-driven data analysis, simulation, and optimization tools.|
 |[Analyzing o3 and o4-mini with ARC-AGI.](https://arcprize.org/blog/analyzing-o3-with-arc-agi) |The ARC Prize Foundation assessed OpenAI's o3 and o4-mini models using ARC‑AGI benchmarks to gauge reasoning abilities. While o3-medium performed well on ARC-AGI-1, it struggled with the more demanding ARC-AGI-2, particularly in complex reasoning tasks. o4-mini offered better cost efficiency but at the expense of accuracy, highlighting a trade-off between performance and resource use. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Google Gemini has 350M monthly users, reveals court hearing.](https://techcrunch.com/2025/04/23/google-gemini-has-350m-monthly-users-reveals-court-hearing/) |Gemini, Google’s AI chatbot, had 350 million monthly active users around the globe as of March, according to internal data revealed in Google’s ongoing antitrust suit. |
+|[OpenAI would buy Google's Chrome, exec testifies at trial.](https://www.reuters.com/sustainability/boards-policy-regulation/google-contemplated-exclusive-gemini-ai-deals-with-android-makers-2025-04-22/) |OpenAI would be interested in buying Google's Chrome if antitrust enforcers are successful in forcing the Alphabet unit to sell the popular web browser as part of a bid to restore competition in search, an OpenAI executive testified on Tuesday at Google's antitrust trial in Washington.|
+|[Energy
+Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with more AI companies.](https://www.cnbc.com/2025/04/22/sam-altman-steps-down-as-oklo-chair-freeing-nuclear-company-up-to-work-with-more-ai-companies.html) | OpenAI CEO Sam Altman is stepping down as chair of nuclear startup Oklo. The move gives Oklo, which is developing advanced nuclear reactors, more flexibility to potentially explore partnerships with OpenAI or other hyperscalers amid data center companies’ push to secure power.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
