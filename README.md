@@ -137,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[o3 over optimization is back.](https://www.interconnects.ai/p/openais-o3-over-optimization-is-back) | This post examines the difficulties posed by the latest reasoning models and provides evidence that OpenAI may be over-optimizing for specific goals, leading to increased brittleness and a higher risk of hallucinations in its models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
