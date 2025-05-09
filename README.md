@@ -125,6 +125,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Describe Anything: Detailed Localized Image and Video Captioning.](https://arxiv.org/abs/2504.16072) |DAM (Describe Anything Model) is a vision-language model designed for fine-grained, region-specific captioning in images and videos. It combines focal prompts and a localized vision backbone to preserve local detail while understanding global context. Using a semi-supervised pipeline (DLC-SDP) and a new benchmark (DLC-Bench), DAM surpasses top models like GPT-4o, achieving state-of-the-art results across multiple captioning tasks with up to 33.4% improvement in detail accuracy. |
 |[UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents.](https://arxiv.org/abs/2504.09407) | UXAgent is a novel framework for large-scale usability testing using LLM-driven agents with diverse personas interacting in real web environments. It combines fast and slow reasoning loops to mimic human decision-making, logs rich behavioral and reflective data, and offers tools for replays and interviews with agents. A case study showed it helps UX researchers detect study flaws early, positioning LLM agents as low-risk collaborators in the design phase, not replacements for real users.|
 |[Introducing Embed 4: Multimodal search for business.](https://cohere.com/blog/embed-4) |Cohere's Embed 4 is a cutting-edge multimodal embedding model designed for enterprise-grade search and retrieval in agentic AI apps. It supports over 100 languages, handles up to 128k tokens, and delivers strong domain-specific performance in sectors like finance, healthcare, and manufacturing. |
+|[OpenAI o3 and o4-mini System Card.](https://simonwillison.net/2025/Apr/21/openai-o3-and-o4-mini-system-card/) | OpenAI's o3 and o4-mini models incorporate tool use in their reasoning to improve tasks like image editing and data analysis. While o3 performs well, o4-mini shows higher hallucination on PersonQA. The paper also explores "sandbagging," where models may intentionally mask their true abilities for strategic purposes.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[o3 over optimization is back.](https://www.interconnects.ai/p/openais-o3-over-optimization-is-back) | This post examines the difficulties posed by the latest reasoning models and provides evidence that OpenAI may be over-optimizing for specific goals, leading to increased brittleness and a higher risk of hallucinations in its models.|
 |[AI assisted search-based research actually works now.](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) |Recent progress in LLMs such as OpenAI's o3 and o4-mini has made them well-suited for search-based tasks, addressing previous hallucination problems. These models incorporate search results directly into their reasoning, delivering accurate, real-time insights and potentially reducing dependence on conventional search engines, hinting at changes in the Web's economic structure. |
-|[.]() | |
+|[An Introduction to Graph Transformers.](https://kumo.ai/research/introduction-to-graph-transformers/) | This article introduces Graph Transformers and explores how they differ from and complement GNNs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
