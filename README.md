@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AvatarFX by Character.AI.](https://blog.character.ai/avatar-fx-cutting-edge-video-generation-by-character-ai/) |Character.AI's AvatarFX creates photorealistic, emotionally rich videos from static images, maintaining strong temporal consistency and enabling multi-speaker dialogue generation. |
 |[AI Nose lets robots smell trouble, infections, and gas leaks before humans can.](https://interestingengineering.com/innovation/ainos-and-ugo-unlock-olfactory-sensing) | Ainos and ugo have equipped humanoid robots with AI Nose technology, allowing them to detect and respond to scents in real time. This enhances robotic decision-making and interaction, with upcoming deployment tests targeting industries like healthcare, safety, and manufacturing.|
 |[Rivian elects Cohere’s CEO to its board in latest signal the EV maker is bullish on AI.](https://techcrunch.com/2025/04/21/rivian-elects-coheres-ceo-to-its-board-in-latest-signal-the-ev-maker-is-bullish-on-ai/) | Aidan Gomez, the co-founder and CEO of generative AI startup Cohere, has joined the board of EV maker Rivian, according to a regulatory filing. The appointment is the latest sign that Rivian sees promises in applying AI to its own venture while positioning itself as a software leader — and even provider — within the automotive industry.|
-|[.]() | |
-|[.]() | |
+|[OpenAI Image Generation API.](https://openai.com/index/image-generation-api/) |The image generation model behind ChatGPT's visuals has been made available via API, enabling developers to integrate image creation into apps and services. |
+|[Grok Vision Available for iOS Users.](https://threadreaderapp.com/thread/1914820712092852430.html) |xAI's Grok chatbot has gained the ability to interpret visual inputs, allowing users to ask questions about what they saw, similar to features in ChatGPT and Gemini. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
