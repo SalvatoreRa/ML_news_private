@@ -103,7 +103,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Low-latency Streaming Apps with Google's Live API.](https://developers.googleblog.com/en/achieve-real-time-interaction-build-with-the-live-api/) | Google's Live API lets developers build real-time interactive apps by processing live audio, video, and text with minimal delay.|
 |[Perplexity’s AI voice assistant is now available on iOS.](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone) | The Perplexity bot is now available on both iPhones and Android devices, allowing you to ask it to set reminders, send messages, and more.|
 |[Google’s AI Overviews Reach 1.5 Billion Monthly Users.](https://www.searchenginejournal.com/googles-ai-overviews-reach-1-5-billion-monthly-users/545333/) | Google reported that AI Overviews hit 1.5 billion monthly users. Google Search revenue grew 10% year-over-year to $50.7 billion. Google is heavily investing in AI, with capital expenditures up 43%.|
-|[.]() | |
+|[Microsoft 365 Copilot: Your window into the world of agents.](https://www.microsoft.com/en-us/microsoft-365/blog/2025/04/23/microsoft-365-copilot-built-for-the-era-of-human-agent-collaboration/) | Microsoft has released Microsoft 365 Copilot Wave 2, bringing new features like AI-powered search, enhanced content creation tools, and an Agent Store with reasoning agents powered by OpenAI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
