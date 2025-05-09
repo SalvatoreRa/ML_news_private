@@ -53,7 +53,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Visual Reasoning with Less Data.](https://arxiv.org/abs/2504.07934v1) | Using MCTS to quantify sample difficulty, ThinkLite-VL improves reasoning in VLMs with just 11k training samples and no distillation|
 |[Reasoning Models Can Be Effective Without Thinking.](https://www.arxiv.org/abs/2504.09858) | The paper introduces NoThinking, a prompting method that skips explicit reasoning steps yet matches or outperforms traditional chain-of-thought approaches in tasks like math, coding, and theorem proving. By jumping directly to answers with a dummy “Thinking” block, it achieves better accuracy–latency tradeoffs, excels in low-token settings, and benefits from parallel decoding, making it both faster and more efficient across multiple benchmarks.|
 |[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users.](https://arxiv.org/abs/2504.10157) |SocioVerse, developed by Fudan University and collaborators, is a large-scale social simulation platform using LLM agents aligned with real-world data across environment, user demographics, interaction scenarios, and behavior. It achieves high accuracy in modeling elections, sentiment, and economic patterns, demonstrating the value of realistic user modeling. SocioVerse offers a scalable, flexible framework for testing sociopolitical hypotheses and bridging AI with social science. |
-|[.]() | |
+|[M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models.](https://arxiv.org/abs/2504.10449) | M1 is a Mamba-based reasoning model trained with extended test-time computation, delivering solid performance—particularly on long-context tasks and throughput—though it doesn't quite reach state-of-the-art levels.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,6 +139,14 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Nemotron H Models.](https://huggingface.co/nvidia/Nemotron-H-8B-Base-8K) |Nvidia’s ADLR team has released the weights for its Nemotron hybrid Mamba models, which offer strong long-context handling and solid performance on general benchmarks, making them well-suited for tasks requiring extended reasoning or memory. |
 |[Auto Deploy.](https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/auto_deploy) | A new way to transform PyTorch and Hugging Face models into a faster, deployable, format for fast inference.|
 |[Latents for Generative Modeling.](https://sander.ai/2025/04/15/latents.html) | A top contender for blog post of the year for those into generative modeling, offering a clear breakdown of the history, core ideas, and major advancements in learned latents.|
+|[NVIDIA's Temporally Consistent Video Diffusion.](https://research.nvidia.com/labs/genair/equivdm/) | NVIDIA's EquivDM framework improves video diffusion by applying consistent noise, leading to better motion tracking and more 3D-consistent results with fewer sampling steps.|
+|[Intellect 2 Distributed Training.](https://www.primeintellect.ai/blog/intellect-2) |Prime Intellect has developed a 32B fully distributed network trained with reinforcement learning for reasoning, and has open-sourced much of its code and valuable libraries. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
