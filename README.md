@@ -131,6 +131,12 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Data Decide.](https://allenai.org/blog/datadecide) |AllenAI has released a tool that can be used to help decide which data to include in pre-training. This framework is quite useful for understanding what goes into a filtering run for pre-training. |
 |[Conversion Rate Prediction in Ad Systems.](https://arxiv.org/abs/2504.08169) | Pinterest researchers have proposed a multitask framework that uses Deep Hierarchical Ensemble Networks to improve CVR predictions in ad systems. It shows state-of-the-art results through feature combination and auxiliary learning.|
 |[Open Source OpenAI Production Kernels.](https://github.com/triton-lang/triton/pull/6429) |OpenAI has open sourced some of its fp4 and MoE kernels to the Triton language GitHub. |
+|[Nemotron H Models.](https://huggingface.co/nvidia/Nemotron-H-8B-Base-8K) |Nvidia’s ADLR team has released the weights for its Nemotron hybrid Mamba models, which offer strong long-context handling and solid performance on general benchmarks, making them well-suited for tasks requiring extended reasoning or memory. |
+|[Auto Deploy.](https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/auto_deploy) | A new way to transform PyTorch and Hugging Face models into a faster, deployable, format for fast inference.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
