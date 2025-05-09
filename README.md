@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Garment Generation.](https://revive234.github.io/imaggarment.github.io/) |A new two-stage generative framework for clothing design allows precise control over silhouette, color, and logos, and introduces GarmentBench, a large dataset for multi-conditional garment generation. |
 |[Image segmentation using Gemini 2.5.](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) |Gemini is widely recognized for its strong vision capabilities, and this article looks at a particular segmentation use case that turns out to be surprisingly straightforward. |
 |[LTXV Distilled 0.9.6 Video Model.](https://huggingface.co/Lightricks/LTX-Video/blob/main/ltxv-2b-0.9.6-distilled-04-25.safetensors) |LTX video model is a state-of-the-art open video model. |
-|[.]() | |
+|[Generate videos in Gemini and Whisk with Veo 2.](https://blog.google/products/gemini/video-generation/) |Gemini Advanced users can now create high-resolution, cinematic videos from text prompts using the Veo 2 model, starting today. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
