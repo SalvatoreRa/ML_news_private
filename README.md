@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI o3 and o4-mini System Card.](https://simonwillison.net/2025/Apr/21/openai-o3-and-o4-mini-system-card/) | OpenAI's o3 and o4-mini models incorporate tool use in their reasoning to improve tasks like image editing and data analysis. While o3 performs well, o4-mini shows higher hallucination on PersonQA. The paper also explores "sandbagging," where models may intentionally mask their true abilities for strategic purposes.|
 |[Personalized Multi-Agent Systems.](https://github.com/sail-sg/flowreasoner) | FlowReasoner is a reasoning-based meta-agent that uses reinforcement learning and external feedback to generate custom multi-agent systems for user queries.|
 |[KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking.](https://arxiv.org/abs/2504.15135v1) | KGMEL integrates text, images, and knowledge graph triples in a three-stage pipeline to improve accuracy in multimodal entity linking tasks.|
-|[.]() | |
+|[DeepMind's Framework for AI Afterlives.](https://deepmind.google/research/publications/65827/) | DeepMind outlines a framework and ethical considerations for generative AI agents that could act as posthumous representations of real individuals.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI assisted search-based research actually works now.](https://simonwillison.net/2025/Apr/21/ai-assisted-search/) |Recent progress in LLMs such as OpenAI's o3 and o4-mini has made them well-suited for search-based tasks, addressing previous hallucination problems. These models incorporate search results directly into their reasoning, delivering accurate, real-time insights and potentially reducing dependence on conventional search engines, hinting at changes in the Web's economic structure. |
 |[An Introduction to Graph Transformers.](https://kumo.ai/research/introduction-to-graph-transformers/) | This article introduces Graph Transformers and explores how they differ from and complement GNNs.|
 |[Questions about the Future of AI.](https://www.dwarkesh.com/p/questions-about-ai) | This article explores AI's future by examining challenges in agency development, reinforcement learning, and alignment, while considering the strategic trajectory of AI, the role of open-source models, and the economic and geopolitical impacts of advanced and post-AGI technologies.|
-|[.]() | |
+|[AI models can generate exploit code at lightning speed.](https://www.theregister.com/2025/04/21/ai_models_can_generate_exploit/) | Generative AI models like GPT-4 can produce proof-of-concept exploits within hours of a vulnerability's disclosure, as shown with a critical Erlang SSH flaw—underscoring the urgent need for quicker defensive responses and automated security measures.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
