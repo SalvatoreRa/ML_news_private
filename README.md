@@ -101,6 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adobe's New Image Model.](https://blog.adobe.com/en/publish/2025/04/24/adobe-firefly-next-evolution-creative-ai-is-here) |Adobe released a significant Firefly update that brings together tools for generating images, videos, audio, and vectors, adds mobile support, and enhances integration with Creative Cloud.|
 |[Perplexity and Motorola Partnership.](https://www.perplexity.ai/hub/blog/announcing-our-global-partnership-with-motorola) |Perplexity will come pre-installed on new Motorola devices, offering features such as voice control, smart reminders, and seamless integration with Moto AI, along with three months of complimentary Pro access. |
 |[Low-latency Streaming Apps with Google's Live API.](https://developers.googleblog.com/en/achieve-real-time-interaction-build-with-the-live-api/) | Google's Live API lets developers build real-time interactive apps by processing live audio, video, and text with minimal delay.|
+|[Perplexity’s AI voice assistant is now available on iOS.](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone) | The Perplexity bot is now available on both iPhones and Android devices, allowing you to ask it to set reminders, send messages, and more.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
