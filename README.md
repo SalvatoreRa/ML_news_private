@@ -92,6 +92,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[6 highlights from Google Cloud Next 25.](https://blog.google/products/google-cloud/google-cloud-next-25-recap/) |Vertex AI has rolled out improvements to its video, image, speech, and music generation models, streamlining creative processes for businesses. Google AI is also supporting the development of specialized AI agents to boost productivity and security, with the new Agent2Agent Protocol enabling secure communication between agents across platforms. |
 |[NVIDIA to Manufacture American-Made AI Supercomputers in US for First Time.](https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/) |NVIDIA is localizing AI hardware production by building factories in Texas and Arizona, aiming to produce Blackwell chips and AI supercomputers entirely within the U.S. |
 |[Gemini Adds Question Generation to Google Classroom.](https://workspaceupdates.googleblog.com/2025/04/use-gemini-in-google-classroom-to-generate-questions-from-text.html) | Educators can now leverage Gemini in Google Classroom to create questions or quizzes from chosen text, boosting lesson engagement and simplifying content development.|
+|[OpenAI is building a social network.](https://www.theverge.com/openai/648130/openai-social-network-x-competitor) | OpenAI is working on its own X-like social network, according to multiple sources familiar with the matter.
+While the project is still in early stages, we’re told there’s an internal prototype focused on ChatGPT’s image generation that has a social feed.|
+|[Nvidia H20 chip exports hit with license requirement by US government.](https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/) | Semiconductor giant Nvidia is facing unexpected new U.S. export controls on its H20 chips. In a filing Tuesday, Nvidia said it was informed by the U.S. government that it will need a license to export its H20 AI chips to China. This license will be required indefinitely, according to the filing — the U.S. government cited “risk that the [H20] may be used in … a supercomputer in China.”|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Improved MoE with C3PO.](https://github.com/tianyi-lab/c3po) | C3PO proposes a test-time optimization method that boosts accuracy in Mixture-of-Experts LLMs by adjusting expert weights using similar reference examples.|
 |[BrowseComp Benchmark for Hard-to-Find Knowledge.](https://openai.com/index/browsecomp) |OpenAI's BrowseComp is a benchmark consisting of 1,266 tasks aimed at testing AI agents' ability to browse the web and retrieve complex, hard-to-find information. |
 |[DeepSeek to Open Source its Inference Engine.](https://github.com/deepseek-ai/open-infra-index/blob/main/OpenSourcing_DeepSeek_Inference_Engine/README.md?utm_source=tldrai) | DeepSeek's inference engine is built on VLLM, although it is now heavily modified.|
-|[.]() | |
+|[MoonDream 2.0 Release.](https://moondream.ai/blog/moondream-2025-04-14-release) | MoonDream is a small, 2B parameter VLM that outperforms many open and closed models. It has recently gotten a strong upgrade on chartQA and a number of other useful benchmarks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
