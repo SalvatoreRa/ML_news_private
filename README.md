@@ -91,9 +91,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Resilient AI Infrastructure.](https://www.harvey.ai/blog/resilient-ai-infrastructure) |Harvey employs a centralized Python library to manage AI model interactions, enabling reliable deployments through active load balancing and real-time monitoring. It features distributed rate limiting to manage burst traffic, supports smooth model upgrades, and improves security, resource efficiency, and rapid deployment while ensuring consistent performance and failure detection. |
 |[Character.AI unveils AvatarFX, an AI video model to create lifelike chatbots.](https://techcrunch.com/2025/04/22/character-ai-unveils-avatarfx-an-ai-video-model-to-create-lifelike-chatbots/) |Character.AI, a leading platform for chatting and roleplaying with AI-generated characters, unveiled its forthcoming video generation model, AvatarFX, on Tuesday. Available in closed beta, the model animates the platform’s characters in a variety of styles and voices, from human-like characters to 2D animal cartoons. |
 |[High Schoolers’ AI-Enabled Device Deters Drunk Driving.](https://spectrum.ieee.org/students-device-deters-drunk-driving) | High school students from North Carolina developed SoberRide, an AI-powered device that uses cameras, sensors, and machine learning to detect signs of alcohol impairment in drivers. They've secured a U.S. patent, partnered with groups like Mothers Against Drunk Driving, and gained attention from major automakers at CES. The team is pushing for legislation requiring DUI detection in vehicles and is targeting fleet operators and parents as initial users.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[DeepMind UK staff plan to unionise and challenge deals with Israel links, FT reports.](https://www.reuters.com/sustainability/sustainable-finance-reporting/deepmind-uk-staff-plan-unionise-challenge-deals-with-israel-links-ft-reports-2025-04-26/) | Roughly 300 DeepMind employees in London are moving to unionize due to concerns over ethical commitments and partnerships with military organizations.|
+|[OpenAI debuts Image Generation API for developers.](https://openai.com/index/image-generation-api/) |OpenAI has launched an API for integrating DALL·E image generation into apps and workflows. |
+|[This AI Model Can Scream Hysterically in Terror.](https://decrypt.co/316008/ai-model-scream-hysterically-terror) |Nari Labs' Dia-1.6B is a tiny open-source AI that claims to surpass ElevenLabs and Sesame in emotional speech synthesis. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
