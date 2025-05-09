@@ -102,7 +102,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Perplexity and Motorola Partnership.](https://www.perplexity.ai/hub/blog/announcing-our-global-partnership-with-motorola) |Perplexity will come pre-installed on new Motorola devices, offering features such as voice control, smart reminders, and seamless integration with Moto AI, along with three months of complimentary Pro access. |
 |[Low-latency Streaming Apps with Google's Live API.](https://developers.googleblog.com/en/achieve-real-time-interaction-build-with-the-live-api/) | Google's Live API lets developers build real-time interactive apps by processing live audio, video, and text with minimal delay.|
 |[Perplexity’s AI voice assistant is now available on iOS.](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone) | The Perplexity bot is now available on both iPhones and Android devices, allowing you to ask it to set reminders, send messages, and more.|
-|[.]() | |
+|[Google’s AI Overviews Reach 1.5 Billion Monthly Users.](https://www.searchenginejournal.com/googles-ai-overviews-reach-1-5-billion-monthly-users/545333/) | Google reported that AI Overviews hit 1.5 billion monthly users. Google Search revenue grew 10% year-over-year to $50.7 billion. Google is heavily investing in AI, with capital expenditures up 43%.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
