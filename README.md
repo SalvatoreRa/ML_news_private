@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pi-0.5: Robots in the Wild.](https://www.pi.website/blog/pi05) | The Physical Intelligence team successfully tested its house cleaning robot in new, unseen environments, demonstrating strong performance by combining vision-language model (VLM) training with action tokenization techniques.|
 |[AvatarFX by Character.AI.](https://blog.character.ai/avatar-fx-cutting-edge-video-generation-by-character-ai/) |Character.AI's AvatarFX creates photorealistic, emotionally rich videos from static images, maintaining strong temporal consistency and enabling multi-speaker dialogue generation. |
 |[AI Nose lets robots smell trouble, infections, and gas leaks before humans can.](https://interestingengineering.com/innovation/ainos-and-ugo-unlock-olfactory-sensing) | Ainos and ugo have equipped humanoid robots with AI Nose technology, allowing them to detect and respond to scents in real time. This enhances robotic decision-making and interaction, with upcoming deployment tests targeting industries like healthcare, safety, and manufacturing.|
-|[.]() | |
+|[Rivian elects Cohere’s CEO to its board in latest signal the EV maker is bullish on AI.](https://techcrunch.com/2025/04/21/rivian-elects-coheres-ceo-to-its-board-in-latest-signal-the-ev-maker-is-bullish-on-ai/) | Aidan Gomez, the co-founder and CEO of generative AI startup Cohere, has joined the board of EV maker Rivian, according to a regulatory filing. The appointment is the latest sign that Rivian sees promises in applying AI to its own venture while positioning itself as a software leader — and even provider — within the automotive industry.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Questions about the Future of AI.](https://www.dwarkesh.com/p/questions-about-ai) | This article explores AI's future by examining challenges in agency development, reinforcement learning, and alignment, while considering the strategic trajectory of AI, the role of open-source models, and the economic and geopolitical impacts of advanced and post-AGI technologies.|
 |[AI models can generate exploit code at lightning speed.](https://www.theregister.com/2025/04/21/ai_models_can_generate_exploit/) | Generative AI models like GPT-4 can produce proof-of-concept exploits within hours of a vulnerability's disclosure, as shown with a critical Erlang SSH flaw—underscoring the urgent need for quicker defensive responses and automated security measures.|
 |[Agency Is Eating the World.](https://www.piratewires.com/p/agency-is-eating-the-world) | AI is empowering individuals to build lean, high-impact companies by replacing traditional specialization and large teams with tech-enabled efficiency. This shift, driven by high-agency users, challenges credentialism and favors those who act independently, leveraging AI to execute complex tasks rapidly across industries.|
-|[.]() | |
+|[A Staggering Number of Gen Z Think AI Is Already Conscious.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
