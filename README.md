@@ -148,7 +148,7 @@ Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with 
 |[Fast Graph Generation.](https://arxiv.org/abs/2502.02415v1) | ANFM presents a novel graph generation method based on filtration techniques, enabling significantly faster and more efficient training, with a 100x speed improvement over diffusion models while delivering comparable performance.|
 |[A Faster, Lighter Vision Transformer for Image Super-Resolution.](https://arxiv.org/abs/2409.03516v1) | The Low-to-high Multi-Level Transformer addresses the complexity and inefficiency of recent Vision Transformer (ViT) methods for image super-resolution.|
 |[Hugging Face demo explores LLM energy consumption in real time.](https://huggingface.co/spaces/jdelavande/chat-ui-energy) |A new Hugging Face space that visualizes how much energy LLM queries consume during interactions. |
-|[.]() | |
+|[Google's Benchmark for Brain Modeling.](https://research.google/blog/improving-brain-models-with-zapbench/) | Google, HHMI, and Harvard have launched ZAPBench, a dataset of larval zebrafish that integrates structural and functional brain data to support the development of neural activity prediction models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -171,7 +171,7 @@ Sam Altman steps down as Oklo board chair, freeing nuclear startup to work with 
 |[A Staggering Number of Gen Z Think AI Is Already Conscious.](https://futurism.com/gen-z-thinks-conscious-ai) |25% of Gen Z believe AI is already conscious, while 52% think it soon will be.|
 |[Deploying Agents as Real-time APIs.](https://decodingml.substack.com/p/deploying-agents-as-real-time-apis) |The PhiloAgents lesson demonstrates how to convert game simulation agents into API-ready, real-time interactive characters, enhancing immersion in digital environments. |
 |[The Urgency of Interpretability.](https://www.darioamodei.com/post/the-urgency-of-interpretability) | AI interpretability must advance as models grow more complex. The field should prioritize transparency to mitigate risk.|
-|[.]() | |
+|[OpenAI Alums, Nobel Laureates Urge Regulators to Save Company's Nonprofit Structure.](https://www.lesswrong.com/posts/rN8tHAJnRYgN7hfoF/openai-alums-nobel-laureates-urge-regulators-to-save-company) |A recent letter signed by notable figures criticized OpenAI's shift to a for-profit structure, claiming it compromises its original mission to ensure AGI serves humanity. The letter called on state attorneys general to oppose the move, warning that prioritizing profits could weaken crucial safety measures. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
