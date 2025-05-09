@@ -79,7 +79,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Gemini 2.5 Flash.](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/) | The next Flash model from Gemini has been released. It is a substantial upgrade from previous versions and matches Claude on a number of important STEM benchmarks.|
 |[Our updated Preparedness Framework.](https://openai.com/index/updating-our-preparedness-framework/) |OpenAI has revised its Preparedness Framework to strengthen safeguards against serious risks from advanced AI, introducing clearer criteria for identifying high-risk capabilities, more precise categories, scalable evaluations, and structured safeguard reporting. The framework will be regularly updated to reflect new technologies and expert input. |
-|[.]() | |
+|[South Korea's AI Chip Champion Is Poised To Carve Out Global Niche.](https://www.forbes.com/sites/johnkang/2025/04/14/south-koreas-ai-chip-champion-is-poised-to-carve-out-global-niche/) |Rebellions, South Korea's first AI chip unicorn, has merged with SK Telecom's Sapeon to take on global competitors like Nvidia. Focused on energy-efficient AI chips, its Rebel chip offers major power savings compared to Nvidia's H100. Backed by leading talent and key partnerships, the company is aiming for international expansion and an IPO by 2026. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ZeroSumEval.](https://github.com/facebookresearch/zerosumeval) |A dynamic evaluation framework that uses competitive multi-agent simulations to benchmark LLMs across reasoning, knowledge, and planning tasks. |
 |[Garment Generation.](https://revive234.github.io/imaggarment.github.io/) |A new two-stage generative framework for clothing design allows precise control over silhouette, color, and logos, and introduces GarmentBench, a large dataset for multi-conditional garment generation. |
 |[Image segmentation using Gemini 2.5.](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) |Gemini is widely recognized for its strong vision capabilities, and this article looks at a particular segmentation use case that turns out to be surprisingly straightforward. |
-|[.]() | |
+|[LTXV Distilled 0.9.6 Video Model.](https://huggingface.co/Lightricks/LTX-Video/blob/main/ltxv-2b-0.9.6-distilled-04-25.safetensors) |LTX video model is a state-of-the-art open video model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
