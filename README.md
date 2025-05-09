@@ -83,8 +83,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI has launched the ChatGPT Image Library.](https://community.openai.com/t/openai-has-launched-the-chatgpt-image-library/1230140/1) | OpenAI launched the ChatGPT Image Library on the Web and Android/iOS for Free, Plus, and Pro users.|
 |[Instagram AI-based Teen Protection.](https://about.fb.com/news/2025/04/meta-parents-new-technology-enroll-teens-teen-accounts/) | Meta is leveraging AI to detect teen users on Instagram and automatically assign them to restricted teen account settings, now featuring stronger default protections and requiring parental consent for any changes.|
 |[Hackathon for non-devs and vibe coders.](https://hackathon.dev/) | Stackblitz, the creators of Bolt, is hosting the world's largest hackathon for non-devs and vibe coders on 5/30 for anyone around the world to participate.|
-|[.]() | |
-|[.]() | |
+|[OpenAI hints at native Shopify checkout integration in ChatGPT.](https://threadreaderapp.com/thread/1914342031909916748.html) |New code strings found in ChatGPT's web bundle mention “buy_now” buttons and a “shopify_checkout_url,” indicating that OpenAI may be developing a built-in purchase flow within the assistant. |
+|[Mercor Graduate Fellowship.](https://x.com/mercor_ai/status/1914164291315634191) | Mercor launched a $50,000 fellowship for PhD students and postdocs in STEM focused on identifying raw talent based on ideas, not pedigree or connections.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
