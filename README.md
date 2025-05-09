@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Sleep-Time Compute for LLM Efficiency.](https://arxiv.org/abs/2504.13171v1) |A new method to cut LLM inference costs by precomputing relevant context information ahead of user queries, achieving up to 5x faster test-time performance and improved accuracy on reasoning tasks. |
 |[Robust Autonomy Emerges from Self-Play.](https://arxiv.org/abs/2502.03349) |This study introduces a simulated self-driving agent that achieved two years without a collision, trained entirely through self-play and marking a significant advancement over the previous state-of-the-art trained on Gigaflow.|
 |[AlphaGeometry 2.](https://arxiv.org/abs/2502.03544) |DeepMind has launched an updated version of its geometry model, boosting accuracy to 84% from the previous 54%, with key gains driven by the Gemini language model and enhanced search techniques. |
-|[.]() | |
+|[UI-TARS: Pioneering Automated GUI Interaction with Native Agents.](https://arxiv.org/abs/2501.12326) | UI-TARS is an end-to-end, vision-based GUI agent that interacts with interfaces purely via screenshots, integrating perception, reasoning, action, and memory without external scripts. Trained on rich visual data, it excels in perception, grounding, and reasoning benchmarks, surpassing models like GPT-4o and Claude. With features like internal “thoughts” and reflective learning, UI-TARS adapts to errors and dynamic tasks, setting new standards in GUI automation across platforms.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -122,8 +122,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Fast Conformal Prediction.](https://arxiv.org/abs/2504.12189) | LOO-StabCP boosts the speed of conformal prediction by using leave-one-out stability, providing scalable uncertainty estimation without sacrificing accuracy.|
 |[MAGI 1 - Autoregressive Video Generation at Scale.](https://huggingface.co/sand-ai/MAGI-1) | The MAGI 1 model is a new autoregressive video generator capable of producing long, coherent videos, matching the performance of Wan video generation and coming slightly behind certain closed-source models.|
 |[Google AI Academy for Infrastructure Startups.](https://blog.google/feed/google-for-startups-ai-academy-america-infrastructure-apply/) | Google is inviting AI startups focused on U.S. infrastructure to apply for its six-month accelerator, offering mentorship, technical support, and strategic guidance.|
-|[.]() | |
-|[.]() | |
+|[Describe Anything: Detailed Localized Image and Video Captioning.](https://arxiv.org/abs/2504.16072) |DAM (Describe Anything Model) is a vision-language model designed for fine-grained, region-specific captioning in images and videos. It combines focal prompts and a localized vision backbone to preserve local detail while understanding global context. Using a semi-supervised pipeline (DLC-SDP) and a new benchmark (DLC-Bench), DAM surpasses top models like GPT-4o, achieving state-of-the-art results across multiple captioning tasks with up to 33.4% improvement in detail accuracy. |
+|[UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents.](https://arxiv.org/abs/2504.09407) | UXAgent is a novel framework for large-scale usability testing using LLM-driven agents with diverse personas interacting in real web environments. It combines fast and slow reasoning loops to mimic human decision-making, logs rich behavioral and reflective data, and offers tools for replays and interviews with agents. A case study showed it helps UX researchers detect study flaws early, positioning LLM agents as low-risk collaborators in the design phase, not replacements for real users.
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
