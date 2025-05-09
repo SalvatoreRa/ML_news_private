@@ -101,7 +101,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Notion Launches AI-Powered Email.](https://www.notion.com/product/mail) | Notion Mail is a Gmail-integrated client that helps users manage, search, and reply to email using AI.|
 |[ChatGPT became the most downloaded app globally in March.](https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/) |ChatGPT became the most downloaded non-gaming app in March, surpassing Instagram and TikTok with 46 million downloads. |
 |[Grok Canvas-like Tool for Document Creation.](https://x.com/grok/status/1912318583532872166) |Grok, the chatbot from xAI, now includes Grok Studio, a canvas-like tool to build documents and basic apps. It's now live for all users. |
-|[.]() | |
+|[Introducing OpenAI o3 and o4-mini.](https://openai.com/index/introducing-o3-and-o4-mini/) |OpenAI has launched the new o3 and o4-mini models, enhancing ChatGPT's tool usage and enabling quicker, more advanced reasoning with built-in web search, file analysis, and image generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
