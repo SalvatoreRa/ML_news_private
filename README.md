@@ -104,6 +104,13 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Introducing OpenAI o3 and o4-mini.](https://openai.com/index/introducing-o3-and-o4-mini/) |OpenAI has launched the new o3 and o4-mini models, enhancing ChatGPT's tool usage and enabling quicker, more advanced reasoning with built-in web search, file analysis, and image generation. |
 |[Assort Health Secures $26 Million.](https://www.assorthealth.com/blog/assort-health-secures-26-million-in-funding-to-expand-specialty-specific-generative-ai-platform-for-managing-patient-phone-calls) | Assort Health, an AI-driven platform for handling patient calls, has secured new funding, raising its total to \$26 million to further its goal of enhancing healthcare access. Since late 2024, its technology has driven 8x revenue growth by cutting call wait times and improving appointment accuracy, with strong patient satisfaction. Supported by top investors, Assort Health integrates with EHR systems, achieving 99% scheduling accuracy and over 90% issue resolution.|
 |[Google Uses AI to Cut Scam Ads by 90%.](https://blog.google/products/ads-commerce/google-ads-safety-report-2024/) | Google's 2024 Ads Safety Report highlights how LLM upgrades blocked billions of bad ads, suspended 700K+ scam accounts, and reduced impersonation scams significantly.|
+|[Stable Diffusion Now Runs Faster on AMD GPUs.](https://stability.ai/news/stable-diffusion-now-optimized-for-amd-radeon-gpus) | Stability AI and AMD optimized several Stable Diffusion models for Radeon GPUs and Ryzen AI, improving speed and performance for AMD users.|
+|[OpenAI in talks to pay about $3 billion to acquire AI coding startup Windsurf.](https://www.cnbc.com/2025/04/16/openai-in-talks-to-pay-about-3-billion-to-acquire-startup-windsurf.html) |OpenAI is in talks to buy Windsurf, an artificial intelligence tool for coding help, for $3 billion, according to a person familiar with the matter. Windsurf, formerly known as Codeium, competes with Cursor, another popular AI coding tool, as well as existing AI coding features from companies such as Microsoft, Anthropic and OpenAI.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +152,7 @@ While the project is still in early stages, we’re told there’s an internal p
 |[Prima CPP.](https://github.com/Lizonghang/prima.cpp) |Prima CPP is an extension of llama.cpp that tries to enable mmaping of memory for large models to enable them to run on low RAM environments. |
 |[Tile Language.](https://github.com/tile-ai/tilelang) |Tile Language is a compact domain-specific language aimed at simplifying the creation of high-performance GPU/CPU kernels like GEMM, Dequant GEMM, FlashAttention, and LinearAttention. It uses a Python-like syntax built on TVM's compiler stack, enabling developer productivity while preserving low-level optimizations for top-tier performance. |
 |[Hugging Face Updated HELMET Benchmark.](https://huggingface.co/blog/helmet) |Hugging Face has expanded its HELMET benchmark to include more models and insights, helping researchers evaluate long-context LLMs like Phi-4 and Jamba 1.6. |
-|[.]() | |
+|[Junfeng5/Liquid_V1_7B.](https://huggingface.co/Junfeng5/Liquid_V1_7B) |Liquid is a multimodal LLM that integrates visual comprehension and generation by tokenizing images into discrete codes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
