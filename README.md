@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837) |This paper finds that while RL with Verifiable Rewards (RLVR) improves sample efficiency in LLMs, it doesn't enhance reasoning beyond what the base model can already generate. RLVR boosts pass\@1 scores but is matched or surpassed by base models at higher k, suggesting it merely increases the chance of sampling known solutions. True reasoning gains come from distillation, not RL, which narrows exploration without expanding capability. |
 |[Sleep-Time Compute for LLM Efficiency.](https://arxiv.org/abs/2504.13171v1) |A new method to cut LLM inference costs by precomputing relevant context information ahead of user queries, achieving up to 5x faster test-time performance and improved accuracy on reasoning tasks. |
-|[.]() | |
-|[.]() | |
+|[Robust Autonomy Emerges from Self-Play.](https://arxiv.org/abs/2502.03349) |This study introduces a simulated self-driving agent that achieved two years without a collision, trained entirely through self-play and marking a significant advancement over the previous state-of-the-art trained on Gigaflow.|
+|[AlphaGeometry 2.](https://arxiv.org/abs/2502.03544) |DeepMind has launched an updated version of its geometry model, boosting accuracy to 84% from the previous 54%, with key gains driven by the Gemini language model and enhanced search techniques. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generate videos in Gemini and Whisk with Veo 2.](https://blog.google/products/gemini/video-generation/) |Gemini Advanced users can now create high-resolution, cinematic videos from text prompts using the Veo 2 model, starting today. |
 |[Our Approach to Understanding and Addressing AI Harms.](https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms) | Anthropic introduced a comprehensive framework to evaluate and reduce AI harms, covering both extreme and routine risks across physical, psychological, economic, societal, and autonomy dimensions. It supports policy, testing, and enforcement, and aligns with their Responsible Scaling Policy to ensure safeguards evolve with AI progress.|
 |[Verifiable rewards for writing.](https://threadreaderapp.com/thread/1914334227534856420.html) |Writing quality reward models (WQRMs) are tools for assessing creative writing quality and can be used to train models in that domain. They represent a recent advancement for reinforcement learning models with measurable rewards, and this thread highlights an example where WQRM scores closely matched overall writing quality. |
-|[.]() | |
+|[Fast Conformal Prediction.](https://arxiv.org/abs/2504.12189) | LOO-StabCP boosts the speed of conformal prediction by using leave-one-out stability, providing scalable uncertainty estimation without sacrificing accuracy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
