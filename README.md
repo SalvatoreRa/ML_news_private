@@ -155,7 +155,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The use of AI in peer review could undermine science.](https://www.nature.com/articles/d41586-025-01327-1) |Some authors suggest AI can increase efficiency, others think can threat the quality |
 |[Science sleuths flag hundreds of papers that use AI without disclosing it.](https://www.nature.com/articles/d41586-025-01180-2) | Telltale signs of chatbot use are scattered through the scholarly literature — and, in some cases, have disappeared without a trace.|
 |[Supportive? Addictive? Abusive? How AI companions affect our mental health.](https://www.nature.com/articles/d41586-025-01349-9) |Studies suggest benefits as well as harms from digital companion apps — but scientists worry about long-term dependency. |
-|[.]() | |
+|[Walking in two worlds: how an Indigenous computer scientist is using AI to preserve threatened languages.](https://www.nature.com/articles/d41586-025-01354-y) | Michael Running Wolf leads artificial-intelligence initiatives to revive lost languages and empower Indigenous people.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
