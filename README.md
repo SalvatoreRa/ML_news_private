@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Generative Video Models for Driving.](https://valeoai.github.io/vavim-vavam/) |Valeo AI introduces VaViM, an autoregressive video model that predicts spatio-temporal token sequences, and VaVAM, which converts learned video representations into driving trajectories using imitation learning. |
 |[DeepMind showcased AlphaFold 3's expanded molecular prediction abilities.](https://threadreaderapp.com/thread/1915077085325922785.html) | DeepMind's AlphaFold 3 introduces new features for predicting DNA, RNA, and molecular structures, along with enhanced accuracy in modeling complex molecular interactions. It is available for free non-commercial use via EMBL-EBI.|
 |[Introducing Mobility AI: Advancing urban transportation.](https://research.google/blog/introducing-mobility-ai-advancing-urban-transportation/) |Google Research developed new machine learning models to study congestion, parking, and travel demand trends. These tools also assessed greenhouse gas reductions and transportation safety effects, advancing urban mobility planning through geospatial and real-time data. |
-|[.]() | |
+|[Adobe and Figma tools are getting ChatGPT’s upgraded image generation model.](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma) | OpenAI made its upgraded image generator model accessible to other companies via the "gpt-image-1" API.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -160,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The EU Is Asking for Feedback on Frontier AI Regulation.](https://www.lesswrong.com/posts/AbnfsnEEmHFmprGzm/the-eu-is-asking-for-feedback-on-frontier-ai-regulation-open) | The European AI Office is requesting expert input on how to interpret core obligations for general-purpose AI under the EU AI Act. Leading AI labs have committed to following these upcoming Codes of Practice, which will establish a compliance standard. Key focus areas include systemic risk thresholds, compute estimates for training, and the duties of downstream fine-tuners. Feedback is open until May 22.|
-|[.]() | |
+|[Figma 2025 AI Report: Perspectives.](https://www.figma.com/blog/figma-2025-ai-report-perspectives/) |Figma surveyed designers and found strong optimism for AI-driven creative workflows in 2025. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
