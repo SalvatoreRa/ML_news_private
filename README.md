@@ -116,6 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Towards multimodal foundation models in molecular cell biology.](https://www.nature.com/articles/s41586-025-08710-y) |The development of multimodal foundation models, pretrained on diverse omics datasets, to unravel the intricate complexities of molecular cell biology is envisioned. |
 |[These are the most-cited research papers of all time.](https://www.nature.com/articles/d41586-025-01124-ws) | Some studies have received hundreds of thousands of citations, Nature’s updated analysis shows.|
+|[Which programming language should I use? A guide for early-career researchers.](https://www.nature.com/articles/d41586-025-01241-6) |Computer scientists and bioinformaticians address four key questions to help rookie coders to make the right choice. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,8 +150,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Don’t believe the hype — quantum tech can’t yet solve real-world problems.](https://www.nature.com/articles/d41586-025-01142-8) |Investors and the public should know what quantum devices can and, more importantly, can’t do. |
 |[Better at everything: how AI could make human beings irrelevant.](https://www.theguardian.com/books/2025/may/04/the-big-idea-can-we-stop-ai-making-humans-obsolete) |The end of civilisation might look less like a war, and more like a love story. Can we avoid being willing participants in our own downfall? |
-|[.]() | |
-|[.]() | |
+|[How Trump 2.0 is slashing NIH-backed research — in charts.](https://www.nature.com/articles/d41586-025-01099-8) | Nature analyses which fields of science and US states are being hit hardest by grant terminations.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
