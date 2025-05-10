@@ -55,7 +55,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta previews an API for its Llama AI models.](https://techcrunch.com/2025/04/29/meta-previews-an-api-for-its-llama-ai-models/) |At its inaugural LlamaCon AI developer conference on Tuesday, Meta announced an API for its Llama series of AI models: the Llama API. |
 |[Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems.](https://arxiv.org/abs/2504.01990) |This survey presents a modular, brain-inspired framework for intelligent agents, drawing from cognitive science and neuroscience to define core components like reasoning, memory, and action. It contrasts LLM agents with human cognition, explores how agents can plan and adapt over time, and highlights the need for better tools and training for real-world action. It also emphasizes the long-term goal of self-evolving agents capable of improving themselves with minimal human intervention. |
 |[MAGI: Multi-Agent Guided Interview for Psychiatric Assessment.](https://arxiv.org/abs/2504.18260) |MAGI is a multi-agent system that automates structured psychiatric interviews based on the MINI protocol, using four agents for flow control, questioning, judgment, and diagnosis. Its explainable reasoning method, PsyCoT, breaks down diagnoses into transparent steps tied to DSM-5 criteria. In tests on over 1,000 interviews, MAGI outperformed other LLM-based methods in accuracy, completeness, and clinical reliability, achieving strong agreement across multiple psychiatric conditions. |
-|[.]() | |
+|[Modulating Reasoning in LLMs.](https://arxiv.org/abs/2504.19483) | Researchers demonstrate that reasoning abilities in LLMs can be modified through straightforward changes in the residual stream by applying representation-based control vectors.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs for Engineering: Teaching Models to Design High Powered Rockets.](https://arxiv.org/abs/2504.19394) |This study shows that applying reinforcement learning enables a 7B parameter model to surpass state-of-the-art foundation models and human experts in high-powered rocketry design, demonstrating the potential of RL to drive superior performance in complex engineering tasks. |
 |[Teaching LLMs solid modeling for next-gen design tools.](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html) |Researchers trained LLMs to generate accurate solid models from text prompts. The method improved geometric accuracy over previous approaches. |
 |[LLM Benchmarking for Global Health.](https://research.google/blog/benchmarking-llms-for-global-health/) | Google introduces a new benchmark that uses synthetic personas to assess LLMs' ability to diagnose tropical and infectious diseases, providing a controlled, targeted way to evaluate medical reasoning in diverse scenarios.|
-|[.]() | |
+|[A Tool for LiDAR Annotation.](https://github.com/Cavendish518/SALT) |SALT is a semi-automatic labeling tool for LiDAR point clouds that delivers robust zero-shot adaptability to various sensors and environments, while preserving 4D consistency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
