@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic Economic Advisory Council.](https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council) |Anthropic announced the creation of a council of top economists to advise on the economic impacts of AI and guide research for its Anthropic Economic Index. |
 |[Hugging Face releases a 3D-printed robotic arm starting at $100.](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) | Hugging Face, the startup best known for the AI developer platform of the same name, is selling a programmable, 3D-printable robotic arm that can pick up and place objects and perform a few other basic chores.|
 |[OpenAI upgrades ChatGPT search with shopping features.](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/) | OpenAI has upgraded ChatGPT's search to improve online shopping, providing product suggestions, images, reviews, and purchase links. Unlike ad-driven models, it uses structured metadata for personalized, independent results. Future enhancements will include deeper personalization via ChatGPT's memory for Pro and Plus users, though some European regions are excluded.|
-|[.]() | |
+|[Detecting and Countering Malicious Uses of Claude: March 2025.](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) |Claude models were exploited for influence campaigns, credential stuffing, recruitment scams, and malware creation. In response, Anthropic is enhancing its safeguards and has banned the accounts responsible to curb further abuse. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Lightweight Neural App Control.](https://arxiv.org/abs/2410.17883) | An interesting approach from Huawei that allows VLMs to control apps on Android devices with minimal additional system setup.|
 |[Cognitive Diagnosis.](https://arxiv.org/abs/2410.17564v1) |DisenGCD is a cognitive diagnosis model that improves the learning of student, exercise, and concept representations by using a disentangled graph learning framework. |
 |[Pippo: High-Resolution Multi-View Humans from a Single Image.](https://github.com/facebookresearch/pippo) |Virtual human creation training system (no pretrained models) that can take an image as input and output a high-quality 3D representation of a person. |
-|[.]() | |
+|[Speeding up Graph Learning Models with torch.compile.](https://kumo.ai/research/speeding-up-graph-learning-models-with-pyg-and-torch-compile/) |This article demonstrates how to boost PyTorch graph learning model speeds by up to 35% using PyG and torch.compile without losing model accuracy. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
