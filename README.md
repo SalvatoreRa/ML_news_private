@@ -90,7 +90,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Will AI improve your life? Here’s what 4,000 researchers think.](https://www.nature.com/articles/d41586-025-01123-x) |Scientists working on artificial intelligence are more confident than the public that the technology will benefit people. |
 |[Obesity-drug pioneers and 13,508 physicists win US$3-million Breakthrough Prizes.](https://www.nature.com/articles/d41586-025-01038-7) | Advances recognized by science’s most lucrative awards include Large Hadron Collider experiments and groundbreaking weight-loss treatments.|
 |[The dangerous fantasies driving the quest for super-intelligent AI.](https://www.nature.com/articles/d41586-025-01145-5) |More Everything Forever dissects the techno-utopian vision gripping Silicon Valley and Washington DC. |
-|[.]() | |
+|[‘Dangerous nonsense’: AI-authored books about ADHD for sale on Amazon.](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon) |Experts say online retailer has ethical responsibility to guard against chatbot-generated work on sensitive topics |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Don’t believe the hype — quantum tech can’t yet solve real-world problems.](https://www.nature.com/articles/d41586-025-01142-8) |Investors and the public should know what quantum devices can and, more importantly, can’t do. |
-|[.]() | |
+|[Better at everything: how AI could make human beings irrelevant.](https://www.theguardian.com/books/2025/may/04/the-big-idea-can-we-stop-ai-making-humans-obsolete) |The end of civilisation might look less like a war, and more like a love story. Can we avoid being willing participants in our own downfall? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
