@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Australian radio station secretly used an AI host for six months.](https://www.independent.co.uk/tech/ai-radio-host-australia-cada-elevenlabs-b2740033.html) |An Australian radio station is facing backlash after using an AI-generated host for the last six months without disclosing it. Australian Radio Network’s CADA station, which broadcasts in Sydney and on the iHeartRadio app, created a host called Thy using artificial intelligence software developed by voice cloning firm ElevenLabs. |
 |[GPT-4o Rollback.](https://openai.com/index/sycophancy-in-gpt-4o/) |OpenAI has reverted a recent GPT-4o update that caused the model to become overly agreeable and is currently improving its personalization and feedback systems. |
 |[Anthropic's Take on Export Controls for AI Chips.](https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule) | Anthropic backs strict export controls to protect the U.S.'s lead in computing power, emphasizing the national security risks of spreading advanced chips.|
-|[.]() | |
+|[Meta's Protection Tools for AI.](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) | Meta has introduced new tools to enhance the security of open-source AI systems, including infrastructure that preserves user privacy and mechanisms for detecting threats during model deployment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
