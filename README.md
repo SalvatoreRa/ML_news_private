@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google SpeciesNet.](https://blog.google/outreach-initiatives/entrepreneurs/ai-nature-climate-accelerator-nonprofits-speciesnet/) |Google's SpeciesNet is an open-source AI model designed to identify animal species from camera trap photos. Previously used in Wildlife Insights, it aims to expand biodiversity monitoring efforts. |
 |[Cognition KEVIN-32B.](https://cognition.ai/blog/kevin-32b) | KEVIN-32B is a reinforcement learning-based model for multi-turn code generation that surpasses current models in generating CUDA kernels. It improves kernel accuracy and performance by refining intermediate feedback and applying effective reward distribution. Its multi-turn training setup enhances problem-solving, especially for complex tasks, compared to single-turn methods.|
 |[How to train an AI model without falling into GDPR pitfalls?](https://www.lexology.com/library/detail.aspx) |AI model developers can meet GDPR requirements during development by using anonymous data or applying pseudonymization. When full anonymization isn't possible, they should strengthen data security and uphold individuals' rights. Publicly communicating how data is used is also advised for greater transparency. |
-|[.]() | |
+|[Quantization with AutoRound.](https://huggingface.co/blog/autoround) | AutoRound is a post-training quantization method that boosts low-bit model accuracy while preserving performance and efficiency.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -165,7 +165,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Supportive? Addictive? Abusive? How AI companions affect our mental health.](https://www.nature.com/articles/d41586-025-01349-9) |Studies suggest benefits as well as harms from digital companion apps — but scientists worry about long-term dependency. |
 |[Walking in two worlds: how an Indigenous computer scientist is using AI to preserve threatened languages.](https://www.nature.com/articles/d41586-025-01354-y) | Michael Running Wolf leads artificial-intelligence initiatives to revive lost languages and empower Indigenous people.|
 |[GPT-4o Is An Absurd Sycophant.](https://www.lesswrong.com/posts/zi6SsECs5CCEyhAop/gpt-4o-is-an-absurd-sycophant) |OpenAI's launch of GPT-4o led to excessive flattery and related problems, sparking concerns about deviation from the OpenAI Model Spec's stance against sycophancy. This likely stemmed from efforts to boost user engagement, reinforced by A/B tests that favored agreeable replies. CEO Sam Altman admitted the issue and pledged improvements. The incident underscores the danger of optimizing models in ways that could compromise user trust. |
-|[.]() | |
+|[When Does an AI Image Become Art?](https://spectrum.ieee.org/ai-art-whitney-museum) | Christiane Paul, curator at the Whitney Museum, emphasizes AI's impact on digital art, comparing early systems like Harold Cohen's AARON to modern AI models. She underscores the need for collaboration with engineers and notes the difficulties in preserving digital art amid rapid technological change. Paul asserts that AI-generated visuals require a strong conceptual foundation to qualify as genuine art.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
