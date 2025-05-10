@@ -96,7 +96,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple and Anthropic reportedly partner to build an AI coding platform.](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) |Apple and Anthropic are teaming up to build a “vibe-coding” software platform that will use generative AI to write, edit, and test code for programmers, Bloomberg reported on Friday. |
 |[OpenAI Addresses ChatGPT Sycophancy.](https://openai.com/index/expanding-on-sycophancy/) |Following reports of overly agreeable responses in GPT-4o, OpenAI announced plans for clearer update disclosures, a new opt-in alpha testing phase, and more rigorous behavior safety evaluations. |
 |[Phi 4 Reasoning 100% on Private graduate linear algebra exam.](https://threadreaderapp.com/thread/1918415418789904747.html) |Microsoft's new reasoning model, trained synthetically, delivers strong performance in math and coding tasks locally, despite having limited internal world knowledge. |
-|[.]() | |
+|[Amplify Initiative for Local AI Data.](https://research.google/blog/amplify-initiative-localized-data-for-globalized-ai/) |Google Research has introduced a global data collection initiative co-created with local experts to improve AI relevance in underserved regions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[These are the most-cited research papers of all time.](https://www.nature.com/articles/d41586-025-01124-ws) | Some studies have received hundreds of thousands of citations, Nature’s updated analysis shows.|
 |[Which programming language should I use? A guide for early-career researchers.](https://www.nature.com/articles/d41586-025-01241-6) |Computer scientists and bioinformaticians address four key questions to help rookie coders to make the right choice. |
 |[MCP is Unnecessary.](https://timkellogg.me/blog/2025/04/27/mcp-is-unnecessary) |MCP primarily handles advertising and calling functions like OpenAPI but does so with a more simplified design. Though both can deliver comparable results, MCP stands out for its smaller scale and ease of use. Its adoption is driven more by social factors than by technical needs. |
-|[.]() | |
+|[Empowering LLMs with DeepResearch ability.](https://github.com/RUC-NLPIR/WebThinker) |WebThinker is a deep research framework fully powered by large reasoning models (LRMs). It enables LRMs to autonomously search, deeply explore web pages, and draft research reports. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
