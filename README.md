@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Adobe and Figma tools are getting ChatGPT’s upgraded image generation model.](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma) | OpenAI made its upgraded image generator model accessible to other companies via the "gpt-image-1" API.|
 |[The 2025 Annual Work Trend Index: The Frontier Firm is born.](https://blogs.microsoft.com/blog/2025/04/23/the-2025-annual-work-trend-index-the-frontier-firm-is-born/) | Microsoft's 2025 Work Trend Index report highlights the emergence of AI-powered "Frontier Firms," characterized by on-demand intelligence, collaboration between humans and AI agents, and the rise of the "agent boss." The company also introduced new Microsoft 365 Copilot updates to deepen AI integration across workplace tools.|
 |[OpenAI researcher behind GPT-4.5 denied U.S. green card.](https://techcrunch.com/2025/04/25/an-openai-researcher-who-worked-on-gpt-4-5-had-their-green-card-denied/) | Kai Chen, a Canadian AI researcher working at OpenAI who’s lived in the U.S. for 12 years, was denied a green card, according to Noam Brown, a leading research scientist at the company. In a post on X, Brown said that Chen learned of the decision Friday and must soon leave the country.|
-|[.]() | |
-|[.]() | |
+|[Developers increasingly value generative AI expertise.](https://hackread.com/why-developers-care-about-generative-ai-experts/) |Developers are encouraged to focus on generative AI skills to boost their careers and stay competitive, as companies increasingly seek talent to drive AI-powered innovation across various initiatives. |
+|[NotebookLM Audio Overviews Expanded to 50+ Languages.](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/) | Google enhanced NotebookLM by enabling its popular Audio Overviews feature in more than 50 languages, allowing wider global access to AI-generated podcast-style summaries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
