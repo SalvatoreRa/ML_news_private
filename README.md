@@ -146,8 +146,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[CogView 4 Image Generation Model.](https://huggingface.co/THUDM/CogView4-6B) | CogView 4 is a next generation generative image model that is permissively licensed. It outperforms Flux models on a number of key axes.|
 |[AI Hedge Fund.](https://github.com/virattt/ai-hedge-fund) | Numerous efforts have been made to automate trading using modern reasoning models, and this approach shows some improvement over others. It employs persona-based prompting to combine predictions across different fundamental assets, though it still requires significant refinement.|
 |[Alias free super resolution.](https://github.com/prs-eth/thera) |This new work can upscale to arbitrary resolutions without typical reconstruction aliasing problems. |
-|[.]() | |
-|[.]() | |
+|[Kimi-Audio.](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf) | Kimi-Audio is a new open-source audio foundation model designed for universal audio tasks, combining discrete semantic tokens and Whisper-derived acoustic features. Pretrained on over 13M hours of audio and fine-tuned on 300K+ curated hours, it supports real-time, high-quality generation via a streaming detokenizer and look-ahead decoding. Trained across speech, sound, music, and text modalities, it outperforms existing audio LLMs like Qwen2.5-Omni and Baichuan-Audio in ASR, audio understanding, and audio-text chat benchmarks.
+|
+|[MiMo-7B.](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf) | Xiaomi’s MiMo-7B is a 7B-parameter model built for advanced reasoning in math and code, narrowing the gap with larger 32B-class models through targeted pretraining and posttraining. Trained on 25T tokens with math/code emphasis and enhanced by a Multi-Token Prediction objective, MiMo-7B outperforms other 7B–9B models and even surpasses larger ones on tasks like BBH and LiveCodeBench. Reinforcement learning and efficient rollout infrastructure further boost performance and inference speed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
