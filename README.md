@@ -98,9 +98,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Phi 4 Reasoning 100% on Private graduate linear algebra exam.](https://threadreaderapp.com/thread/1918415418789904747.html) |Microsoft's new reasoning model, trained synthetically, delivers strong performance in math and coding tasks locally, despite having limited internal world knowledge. |
 |[Amplify Initiative for Local AI Data.](https://research.google/blog/amplify-initiative-localized-data-for-globalized-ai/) |Google Research has introduced a global data collection initiative co-created with local experts to improve AI relevance in underserved regions. |
 |[Alibaba unveils Qwen3, a family of ‘hybrid’ AI reasoning models.](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/) |Chinese tech company Alibaba on Monday released Qwen3, a family of AI models that the company claims can match and, in some cases, outperform the best models available from Google and OpenAI. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Gemini 2.5 Pro Beats Pokémon Blue.](https://threadreaderapp.com/thread/1918455766542930004.html) | A livestream featuring Google's Gemini AI has completed Pokémon Blue, drawing praise from Google executives despite being an unofficial effort|
+|[AI has opened a new era in venture capital, according to Forerunner founder Kirsten Green.](https://techcrunch.com/video/ai-has-opened-a-new-era-in-venture-capital-according-to-forerunner-founder-kirsten-green/) |Forerunner, known for investments in Oura and Chime, anticipates future growth in the AI era. |
+|[OpenAI upgrades ChatGPT search, shopping, and citations.](https://threadreaderapp.com/thread/1916947241086095434.html) |OpenAI has rolled out improvements to ChatGPT's search and added a streamlined shopping experience with product details, reviews, and buy links. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
