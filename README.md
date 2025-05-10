@@ -93,7 +93,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Dangerous nonsense’: AI-authored books about ADHD for sale on Amazon.](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon) |Experts say online retailer has ethical responsibility to guard against chatbot-generated work on sensitive topics |
 |[US asks judge to break up Google’s ad tech business after requesting Chrome sale.](https://www.theguardian.com/us-news/2025/may/02/google-ad-tech-monopoly) |After Google lost its first monopoly trial, government asks it to sell off units of its core internet ads business |
 |[TikTok fined €530m by Irish regulator for failing to guarantee China would not access user data.](https://www.theguardian.com/technology/2025/may/02/tiktok-fined-530m-for-failing-to-protect-user-data-from-chinese-state) | Ireland’s Data Protection Commission found video app breached GDPR and had submitted ‘erroneous information’ to inquiry|
-|[.]() | |
+|[Apple and Anthropic reportedly partner to build an AI coding platform.](https://techcrunch.com/2025/05/02/apple-and-anthropic-reportedly-partner-to-build-an-ai-coding-platform/) |Apple and Anthropic are teaming up to build a “vibe-coding” software platform that will use generative AI to write, edit, and test code for programmers, Bloomberg reported on Friday. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
