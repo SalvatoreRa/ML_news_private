@@ -112,11 +112,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta's Protection Tools for AI.](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) | Meta has introduced new tools to enhance the security of open-source AI systems, including infrastructure that preserves user privacy and mechanisms for detecting threats during model deployment.|
 |[Understanding Data at Scale.](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) | Meta oversees extensive and intricate data systems by integrating privacy measures from the outset of development and establishing a consistent privacy framework to simplify compliance.|
 |[Perplexity’s CEO on fighting Google and the coming AI browser war.](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war) | Perplexity's CEO has shared plans to compete with Google in AI-driven search and browsers, anticipating intensified rivalry as AI-native browsers transform the industry.|
-|[AI is getting “creepy good” at geo-guessing.](https://www.malwarebytes.com/blog/news/2025/04/ai-is-getting-creepy-good-at-geo-guessing) | New AI models accurately determined locations using subtle cues in images. Researchers cautioned that this might pose privacy risks and security issues.
-|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI is getting “creepy good” at geo-guessing.](https://www.malwarebytes.com/blog/news/2025/04/ai-is-getting-creepy-good-at-geo-guessing) | New AI models accurately determined locations using subtle cues in images. Researchers cautioned that this might pose privacy risks and security issues.|
+|[Gemini Adds AI Image Editing.](https://blog.google/products/gemini/image-editing/) |Google has expanded AI editing to the Gemini app, allowing users to modify personal images with multi-step tools and text-image interactions. |
+|[YouTube is testing its own version of AI Overviews.](https://www.engadget.com/ai/youtube-is-testing-its-own-version-of-ai-overviews-145353147.html) |YouTube has started testing AI Overviews to summarize video content for users. |
+|[Gmail gets a slider on Android tablets, AI on the side.](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3) |Google is rolling out Gmail updates for mobile users across Android and iOS, with some design updates and new access to AI features. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
