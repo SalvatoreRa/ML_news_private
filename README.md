@@ -103,9 +103,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI upgrades ChatGPT search, shopping, and citations.](https://threadreaderapp.com/thread/1916947241086095434.html) |OpenAI has rolled out improvements to ChatGPT's search and added a streamlined shopping experience with product details, reviews, and buy links. |
 |[Gemini 2.5 Pro Preview.](https://blog.google/products/gemini/gemini-2-5-pro-updates/) | Google has unveiled a preview of Gemini 2.5 Pro, showcasing improved capabilities in web app development, code transformation, and multimodal reasoning.|
 |[Pinterest New Visual Search.](https://newsroom.pinterest.com/it/news/introducing-new-visual-search-features/) | Pinterest has upgraded its image-based search with new tools that help users narrow results and explore styles, launching first in the women's fashion category across select regions.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AI in Heavy Machinery and Farming.](https://openai.com/index/john-deere-justin-rose/) |John Deere, a top producer of agricultural and construction machinery, leveraged AI to enhance farming efficiency through precision tools like See & Spray, which significantly reduced chemical usage by rapidly detecting individual weeds. |
+|[Anthropic unlocks web search for all paid Claude plans.](AnthropicAI/status/1918346817378431022) |Anthropic has enabled web search for all paid Claude plans, adding real-time lookups and source citations. |
+|[Little Language Lessons uses generative AI to make practicing languages more personal.](https://blog.google/outreach-initiatives/education/little-language-lessons/) | Google's Little Language Lessons leverage models for real-world language learning through experiments like Tiny Lesson, Slang Hang, and Word Cam.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs for Time Series: A Survey.](https://arxiv.org/abs/2505.02583) | This survey examines how cross-modality methods adapt large language models for time series analysis, emphasizing data alignment, integration, and effectiveness in downstream tasks across various fields.|
 |[Synthetic Data QA Framework.](https://github.com/mostly-ai/mostlyai-qa) | This evaluation toolkit offers unified metrics to measure the quality and privacy of synthetic data across different data types, utilizing distributional and embedding-based approaches.|
 |[DDT: Decoupled Diffusion Transformer.](https://github.com/MCG-NJU/DDT) |Encoder/Decoder implementation of a Transformer with a Diffusion model as the decoder. It seems to work reasonably well on imagenet generation. |
-|[.]() | |
+|[Nvidia Radio Embedding Models.](https://huggingface.co/collections/nvidia/radio-669f77f1dd6b153f007dd1c6) |Nvidia has a suite of text and image embedding models that match SigLIP in many cases. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
