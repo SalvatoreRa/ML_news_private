@@ -119,8 +119,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Which programming language should I use? A guide for early-career researchers.](https://www.nature.com/articles/d41586-025-01241-6) |Computer scientists and bioinformaticians address four key questions to help rookie coders to make the right choice. |
 |[MCP is Unnecessary.](https://timkellogg.me/blog/2025/04/27/mcp-is-unnecessary) |MCP primarily handles advertising and calling functions like OpenAPI but does so with a more simplified design. Though both can deliver comparable results, MCP stands out for its smaller scale and ease of use. Its adoption is driven more by social factors than by technical needs. |
 |[Empowering LLMs with DeepResearch ability.](https://github.com/RUC-NLPIR/WebThinker) |WebThinker is a deep research framework fully powered by large reasoning models (LRMs). It enables LRMs to autonomously search, deeply explore web pages, and draft research reports. |
-|[.]() | |
-|[.]() | |
+|[Efficient Federated Unlearning.](https://arxiv.org/abs/2502.20709) | FUSED introduces sparse unlearning adapters to selectively remove knowledge in federated learning, making unlearning reversible and cost-efficient.|
+|[Attention Distillation for Diffusion-Based Image Stylization.](https://xugao97.github.io/AttentionDistillation/) | This approach improves image generation by utilizing self-attention features from pretrained diffusion models and applying an attention distillation loss to refine stylization and speed up synthesis.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
