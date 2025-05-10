@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Chain of Draft for Efficient Reasoning.](https://arxiv.org/abs/2502.18600) | Chain of Draft is a concise reasoning strategy that significantly reduces token usage while matching or exceeding Chain-of-Thought accuracy across complex tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cognition KEVIN-32B.](https://cognition.ai/blog/kevin-32b) | KEVIN-32B is a reinforcement learning-based model for multi-turn code generation that surpasses current models in generating CUDA kernels. It improves kernel accuracy and performance by refining intermediate feedback and applying effective reward distribution. Its multi-turn training setup enhances problem-solving, especially for complex tasks, compared to single-turn methods.|
 |[How to train an AI model without falling into GDPR pitfalls?](https://www.lexology.com/library/detail.aspx) |AI model developers can meet GDPR requirements during development by using anonymous data or applying pseudonymization. When full anonymization isn't possible, they should strengthen data security and uphold individuals' rights. Publicly communicating how data is used is also advised for greater transparency. |
 |[Quantization with AutoRound.](https://huggingface.co/blog/autoround) | AutoRound is a post-training quantization method that boosts low-bit model accuracy while preserving performance and efficiency.|
-|[.]() | |
+|[LLMs for Time Series: A Survey.](https://arxiv.org/abs/2505.02583) | This survey examines how cross-modality methods adapt large language models for time series analysis, emphasizing data alignment, integration, and effectiveness in downstream tasks across various fields.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
