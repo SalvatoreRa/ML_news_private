@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[This AI Model Can Scream Hysterically in Terror.](https://decrypt.co/316008/ai-model-scream-hysterically-terror) |Nari Labs' Dia-1.6B is a tiny open-source AI that claims to surpass ElevenLabs and Sesame in emotional speech synthesis. |
 |[Anthropic Economic Advisory Council.](https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council) |Anthropic announced the creation of a council of top economists to advise on the economic impacts of AI and guide research for its Anthropic Economic Index. |
 |[Hugging Face releases a 3D-printed robotic arm starting at $100.](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) | Hugging Face, the startup best known for the AI developer platform of the same name, is selling a programmable, 3D-printable robotic arm that can pick up and place objects and perform a few other basic chores.|
-|[.]() | |
+|[OpenAI upgrades ChatGPT search with shopping features.](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/) | OpenAI has upgraded ChatGPT's search to improve online shopping, providing product suggestions, images, reviews, and purchase links. Unlike ad-driven models, it uses structured metadata for personalized, independent results. Future enhancements will include deeper personalization via ChatGPT's memory for Pro and Plus users, though some European regions are excluded.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
