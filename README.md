@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Towards multimodal foundation models in molecular cell biology.](https://www.nature.com/articles/s41586-025-08710-y) |The development of multimodal foundation models, pretrained on diverse omics datasets, to unravel the intricate complexities of molecular cell biology is envisioned. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Don’t believe the hype — quantum tech can’t yet solve real-world problems.](https://www.nature.com/articles/d41586-025-01142-8) |Investors and the public should know what quantum devices can and, more importantly, can’t do. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
