@@ -91,8 +91,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Obesity-drug pioneers and 13,508 physicists win US$3-million Breakthrough Prizes.](https://www.nature.com/articles/d41586-025-01038-7) | Advances recognized by science’s most lucrative awards include Large Hadron Collider experiments and groundbreaking weight-loss treatments.|
 |[The dangerous fantasies driving the quest for super-intelligent AI.](https://www.nature.com/articles/d41586-025-01145-5) |More Everything Forever dissects the techno-utopian vision gripping Silicon Valley and Washington DC. |
 |[‘Dangerous nonsense’: AI-authored books about ADHD for sale on Amazon.](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon) |Experts say online retailer has ethical responsibility to guard against chatbot-generated work on sensitive topics |
-|[.]() | |
-|[.]() | |
+|[US asks judge to break up Google’s ad tech business after requesting Chrome sale.](https://www.theguardian.com/us-news/2025/may/02/google-ad-tech-monopoly) |After Google lost its first monopoly trial, government asks it to sell off units of its core internet ads business |
+|[TikTok fined €530m by Irish regulator for failing to guarantee China would not access user data.](https://www.theguardian.com/technology/2025/may/02/tiktok-fined-530m-for-failing-to-protect-user-data-from-chinese-state) | Ireland’s Data Protection Commission found video app breached GDPR and had submitted ‘erroneous information’ to inquiry|
 |[.]() | |
 |[.]() | |
 |[.]() | |
