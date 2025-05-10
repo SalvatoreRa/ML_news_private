@@ -153,8 +153,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Trump 2.0 is slashing NIH-backed research — in charts.](https://www.nature.com/articles/d41586-025-01099-8) | Nature analyses which fields of science and US states are being hit hardest by grant terminations.|
 |[Inside the quest to digitally unroll ancient scrolls burnt by Vesuvius.](https://www.nature.com/articles/d41586-025-01087-y) | Mission to decipher Herculaneum scrolls using high-resolution scanning and artificial intelligence scales up rapidly.|
 |[The use of AI in peer review could undermine science.](https://www.nature.com/articles/d41586-025-01327-1) |Some authors suggest AI can increase efficiency, others think can threat the quality |
-|[.]() | |
-|[.]() | |
+|[Science sleuths flag hundreds of papers that use AI without disclosing it.](https://www.nature.com/articles/d41586-025-01180-2) | Telltale signs of chatbot use are scattered through the scholarly literature — and, in some cases, have disappeared without a trace.|
+|[Supportive? Addictive? Abusive? How AI companions affect our mental health.](https://www.nature.com/articles/d41586-025-01349-9) |Studies suggest benefits as well as harms from digital companion apps — but scientists worry about long-term dependency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
