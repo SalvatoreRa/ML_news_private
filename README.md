@@ -130,8 +130,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Efficient Federated Unlearning.](https://arxiv.org/abs/2502.20709) | FUSED introduces sparse unlearning adapters to selectively remove knowledge in federated learning, making unlearning reversible and cost-efficient.|
 |[Attention Distillation for Diffusion-Based Image Stylization.](https://xugao97.github.io/AttentionDistillation/) | This approach improves image generation by utilizing self-attention features from pretrained diffusion models and applying an attention distillation loss to refine stylization and speed up synthesis.|
 |[Google SpeciesNet.](https://blog.google/outreach-initiatives/entrepreneurs/ai-nature-climate-accelerator-nonprofits-speciesnet/) |Google's SpeciesNet is an open-source AI model designed to identify animal species from camera trap photos. Previously used in Wildlife Insights, it aims to expand biodiversity monitoring efforts. |
-|[.]() | |
-|[.]() | |
+|[Cognition KEVIN-32B.](https://cognition.ai/blog/kevin-32b) | KEVIN-32B is a reinforcement learning-based model for multi-turn code generation that surpasses current models in generating CUDA kernels. It improves kernel accuracy and performance by refining intermediate feedback and applying effective reward distribution. Its multi-turn training setup enhances problem-solving, especially for complex tasks, compared to single-turn methods.|
+|[How to train an AI model without falling into GDPR pitfalls?](https://www.lexology.com/library/detail.aspx) |AI model developers can meet GDPR requirements during development by using anonymous data or applying pseudonymization. When full anonymization isn't possible, they should strengthen data security and uphold individuals' rights. Publicly communicating how data is used is also advised for greater transparency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
