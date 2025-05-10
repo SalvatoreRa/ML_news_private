@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gmail gets a slider on Android tablets, AI on the side.](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3) |Google is rolling out Gmail updates for mobile users across Android and iOS, with some design updates and new access to AI features. |
 |[Claude Integrations.](https://www.anthropic.com/news/integrations) |Claude now integrates with third-party apps, Google Workspace, and web search, allowing paid users to conduct in-depth research and access web search worldwide. |
 |[Perplexity’s CEO on fighting Google and the coming AI browser war.](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war) | Perplexity's CEO Aravind Srinivas outlines plans to launch Comet, Perplexity AI's own browser designed as a platform for AI agents. Despite hurdles with Google, the company secured a pre-installation agreement with Motorola’s new Razr phones. Srinivas views browsers as key to AI, enabling deep integration and interaction with third-party services.|
-|[.]() | |
-|[.]() | |
+|[AI Mode Updates in Google Search.](https://blog.google/products/search/ai-mode-updates-may-2025/) | AI tools like ChatGPT and Perplexity accurately determine locations from photos and bird songs based on visual and auditory clues, even without metadata.|
+|[Perplexity is now live on WhatsApp.](https://x.com/AskPerplexity/status/1916889097643368929) |Perplexity has launched a WhatsApp integration for its AI assistant. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
