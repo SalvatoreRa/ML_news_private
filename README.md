@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The EU Is Asking for Feedback on Frontier AI Regulation.](https://www.lesswrong.com/posts/AbnfsnEEmHFmprGzm/the-eu-is-asking-for-feedback-on-frontier-ai-regulation-open) | The European AI Office is requesting expert input on how to interpret core obligations for general-purpose AI under the EU AI Act. Leading AI labs have committed to following these upcoming Codes of Practice, which will establish a compliance standard. Key focus areas include systemic risk thresholds, compute estimates for training, and the duties of downstream fine-tuners. Feedback is open until May 22.|
 |[Figma 2025 AI Report: Perspectives.](https://www.figma.com/blog/figma-2025-ai-report-perspectives/) |Figma surveyed designers and found strong optimism for AI-driven creative workflows in 2025. |
-|[.]() | |
+|[Language equivariance as a way of figuring out what an AI "means".](https://www.lesswrong.com/posts/wfDfPCkPcvi4N7tZN/alignment-from-equivariance-ii-language-equivariance-as-a) | A researcher uncovered syntax-semantics issues in LLMs and introduced language equivariance as a solution, proposing that models should maintain consistent moral judgments across translations. This approach points to a deeper, more meaningful understanding in language-equivariant LLMs beyond surface-level syntax.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
