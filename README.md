@@ -48,8 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities.](https://arxiv.org/abs/2504.20734) |UniversalRAG is a retrieval-augmented generation framework that handles multiple modalities (text, image, video) and granularities (e.g., paragraph vs. document) to overcome the limits of traditional RAG systems. It uses a modality- and granularity-aware router to select the most relevant content format for each query, improving retrieval accuracy. UniversalRAG outperforms existing baselines across eight benchmarks, demonstrating the value of dynamic routing for robust, multimodal question answering.
- |
+|[UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities.](https://arxiv.org/abs/2504.20734) |UniversalRAG is a retrieval-augmented generation framework that handles multiple modalities (text, image, video) and granularities (e.g., paragraph vs. document) to overcome the limits of traditional RAG systems. It uses a modality- and granularity-aware router to select the most relevant content format for each query, improving retrieval accuracy. UniversalRAG outperforms existing baselines across eight benchmarks, demonstrating the value of dynamic routing for robust, multimodal question answering. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -94,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepMind UK staff plan to unionise and challenge deals with Israel links, FT reports.](https://www.reuters.com/sustainability/sustainable-finance-reporting/deepmind-uk-staff-plan-unionise-challenge-deals-with-israel-links-ft-reports-2025-04-26/) | Roughly 300 DeepMind employees in London are moving to unionize due to concerns over ethical commitments and partnerships with military organizations.|
 |[OpenAI debuts Image Generation API for developers.](https://openai.com/index/image-generation-api/) |OpenAI has launched an API for integrating DALL·E image generation into apps and workflows. |
 |[This AI Model Can Scream Hysterically in Terror.](https://decrypt.co/316008/ai-model-scream-hysterically-terror) |Nari Labs' Dia-1.6B is a tiny open-source AI that claims to surpass ElevenLabs and Sesame in emotional speech synthesis. |
-|[.]() | |
-|[.]() | |
+|[Anthropic Economic Advisory Council.](https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council) |Anthropic announced the creation of a council of top economists to advise on the economic impacts of AI and guide research for its Anthropic Economic Index. |
+|[Hugging Face releases a 3D-printed robotic arm starting at $100.](https://techcrunch.com/2025/04/28/hugging-face-releases-a-3d-printed-robotic-arm-starting-at-100/) | Hugging Face, the startup best known for the AI developer platform of the same name, is selling a programmable, 3D-printable robotic arm that can pick up and place objects and perform a few other basic chores.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
