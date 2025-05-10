@@ -53,8 +53,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ReLearn: Unlearning via Learning for Large Language Models.](https://arxiv.org/abs/2502.11190v2) | ReLearn offers a data augmentation and fine-tuning pipeline for effective unlearning in large language models.|
 |[Meta AI App.](https://ai.meta.com/meta-ai/) | Meta has introduced a new standalone AI app, expanding its efforts to integrate AI features into consumer experiences more directly.|
 |[Meta previews an API for its Llama AI models.](https://techcrunch.com/2025/04/29/meta-previews-an-api-for-its-llama-ai-models/) |At its inaugural LlamaCon AI developer conference on Tuesday, Meta announced an API for its Llama series of AI models: the Llama API. |
-|[.]() | |
-|[.]() | |
+|[Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems.](https://arxiv.org/abs/2504.01990) |This survey presents a modular, brain-inspired framework for intelligent agents, drawing from cognitive science and neuroscience to define core components like reasoning, memory, and action. It contrasts LLM agents with human cognition, explores how agents can plan and adapt over time, and highlights the need for better tools and training for real-world action. It also emphasizes the long-term goal of self-evolving agents capable of improving themselves with minimal human intervention. |
+|[MAGI: Multi-Agent Guided Interview for Psychiatric Assessment.](https://arxiv.org/abs/2504.18260) |MAGI is a multi-agent system that automates structured psychiatric interviews based on the MINI protocol, using four agents for flow control, questioning, judgment, and diagnosis. Its explainable reasoning method, PsyCoT, breaks down diagnoses into transparent steps tied to DSM-5 criteria. In tests on over 1,000 interviews, MAGI outperformed other LLM-based methods in accuracy, completeness, and clinical reliability, achieving strong agreement across multiple psychiatric conditions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
