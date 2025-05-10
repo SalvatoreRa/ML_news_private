@@ -135,9 +135,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Speeding up Graph Learning Models with torch.compile.](https://kumo.ai/research/speeding-up-graph-learning-models-with-pyg-and-torch-compile/) |This article demonstrates how to boost PyTorch graph learning model speeds by up to 35% using PyG and torch.compile without losing model accuracy. |
 |[Google Cloud WAN for the AI Era.](https://blog.google/products/google-cloud/google-cloud-wan-development/) |Google shares how its global WAN evolved to support resilient cloud services, which maintained connectivity during the West African cable outages. |
 |[Relational Graph Transformers: A New Frontier in AI for Relational Data.](https://kumo.ai/research/relational-graph-transformers/) | Relational Graph Transformers can help address enterprise data challenges and power applications like customer analytics, recommendations, fraud detection, and forecasting.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[CogView 4 Image Generation Model.](https://huggingface.co/THUDM/CogView4-6B) | CogView 4 is a next generation generative image model that is permissively licensed. It outperforms Flux models on a number of key axes.|
+|[AI Hedge Fund.](https://github.com/virattt/ai-hedge-fund) | Numerous efforts have been made to automate trading using modern reasoning models, and this approach shows some improvement over others. It employs persona-based prompting to combine predictions across different fundamental assets, though it still requires significant refinement.|
+|[Alias free super resolution.](https://github.com/prs-eth/thera) |This new work can upscale to arbitrary resolutions without typical reconstruction aliasing problems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
