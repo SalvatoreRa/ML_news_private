@@ -97,7 +97,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Addresses ChatGPT Sycophancy.](https://openai.com/index/expanding-on-sycophancy/) |Following reports of overly agreeable responses in GPT-4o, OpenAI announced plans for clearer update disclosures, a new opt-in alpha testing phase, and more rigorous behavior safety evaluations. |
 |[Phi 4 Reasoning 100% on Private graduate linear algebra exam.](https://threadreaderapp.com/thread/1918415418789904747.html) |Microsoft's new reasoning model, trained synthetically, delivers strong performance in math and coding tasks locally, despite having limited internal world knowledge. |
 |[Amplify Initiative for Local AI Data.](https://research.google/blog/amplify-initiative-localized-data-for-globalized-ai/) |Google Research has introduced a global data collection initiative co-created with local experts to improve AI relevance in underserved regions. |
-|[.]() | |
+|[Alibaba unveils Qwen3, a family of ‘hybrid’ AI reasoning models.](https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/) |Chinese tech company Alibaba on Monday released Qwen3, a family of AI models that the company claims can match and, in some cases, outperform the best models available from Google and OpenAI. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Empowering LLMs with DeepResearch ability.](https://github.com/RUC-NLPIR/WebThinker) |WebThinker is a deep research framework fully powered by large reasoning models (LRMs). It enables LRMs to autonomously search, deeply explore web pages, and draft research reports. |
 |[Efficient Federated Unlearning.](https://arxiv.org/abs/2502.20709) | FUSED introduces sparse unlearning adapters to selectively remove knowledge in federated learning, making unlearning reversible and cost-efficient.|
 |[Attention Distillation for Diffusion-Based Image Stylization.](https://xugao97.github.io/AttentionDistillation/) | This approach improves image generation by utilizing self-attention features from pretrained diffusion models and applying an attention distillation loss to refine stylization and speed up synthesis.|
-|[.]() | |
+|[Google SpeciesNet.](https://blog.google/outreach-initiatives/entrepreneurs/ai-nature-climate-accelerator-nonprofits-speciesnet/) |Google's SpeciesNet is an open-source AI model designed to identify animal species from camera trap photos. Previously used in Wildlife Insights, it aims to expand biodiversity monitoring efforts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
