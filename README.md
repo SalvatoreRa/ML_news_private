@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI reverses course and says non-profit arm will retain control of firm.](https://www.theguardian.com/technology/2025/may/05/openai-non-profit-elon-musk) |CEO, Sam Altman, says decision to backtrack was made ‘after hearing from civic leaders’ and state attorneys general |
 |[Will AI improve your life? Here’s what 4,000 researchers think.](https://www.nature.com/articles/d41586-025-01123-x) |Scientists working on artificial intelligence are more confident than the public that the technology will benefit people. |
 |[Obesity-drug pioneers and 13,508 physicists win US$3-million Breakthrough Prizes.](https://www.nature.com/articles/d41586-025-01038-7) | Advances recognized by science’s most lucrative awards include Large Hadron Collider experiments and groundbreaking weight-loss treatments.|
-|[.]() | |
+|[The dangerous fantasies driving the quest for super-intelligent AI.](https://www.nature.com/articles/d41586-025-01145-5) |More Everything Forever dissects the techno-utopian vision gripping Silicon Valley and Washington DC. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Towards multimodal foundation models in molecular cell biology.](https://www.nature.com/articles/s41586-025-08710-y) |The development of multimodal foundation models, pretrained on diverse omics datasets, to unravel the intricate complexities of molecular cell biology is envisioned. |
-|[.]() | |
+|[These are the most-cited research papers of all time.](https://www.nature.com/articles/d41586-025-01124-ws) | Some studies have received hundreds of thousands of citations, Nature’s updated analysis shows.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
