@@ -101,6 +101,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini 2.5 Pro Beats Pokémon Blue.](https://threadreaderapp.com/thread/1918455766542930004.html) | A livestream featuring Google's Gemini AI has completed Pokémon Blue, drawing praise from Google executives despite being an unofficial effort|
 |[AI has opened a new era in venture capital, according to Forerunner founder Kirsten Green.](https://techcrunch.com/video/ai-has-opened-a-new-era-in-venture-capital-according-to-forerunner-founder-kirsten-green/) |Forerunner, known for investments in Oura and Chime, anticipates future growth in the AI era. |
 |[OpenAI upgrades ChatGPT search, shopping, and citations.](https://threadreaderapp.com/thread/1916947241086095434.html) |OpenAI has rolled out improvements to ChatGPT's search and added a streamlined shopping experience with product details, reviews, and buy links. |
+|[Gemini 2.5 Pro Preview.](https://blog.google/products/gemini/gemini-2-5-pro-updates/) | Google has unveiled a preview of Gemini 2.5 Pro, showcasing improved capabilities in web app development, code transformation, and multimodal reasoning.|
+|[Pinterest New Visual Search.](https://newsroom.pinterest.com/it/news/introducing-new-visual-search-features/) | Pinterest has upgraded its image-based search with new tools that help users narrow results and explore styles, launching first in the women's fashion category across select regions.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
