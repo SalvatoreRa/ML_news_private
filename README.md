@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NotebookLM Audio Overviews Expanded to 50+ Languages.](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/) | Google enhanced NotebookLM by enabling its popular Audio Overviews feature in more than 50 languages, allowing wider global access to AI-generated podcast-style summaries.|
 |[OpenAI wants its ‘open’ AI model to call models in the cloud for help.](https://techcrunch.com/2025/04/24/openai-wants-its-open-ai-model-to-call-models-in-the-cloud-for-help/) |For the first time in roughly five years, OpenAI is gearing up to release an AI system that’s truly “open,” meaning it’ll be available for download at no cost and not gated behind an API. TechCrunch reported on Wednesday that OpenAI is aiming for an early summer launch, and targeting performance superior to open models from Meta and DeepSeek. |
 |[Australian radio station secretly used an AI host for six months.](https://www.independent.co.uk/tech/ai-radio-host-australia-cada-elevenlabs-b2740033.html) |An Australian radio station is facing backlash after using an AI-generated host for the last six months without disclosing it. Australian Radio Network’s CADA station, which broadcasts in Sydney and on the iHeartRadio app, created a host called Thy using artificial intelligence software developed by voice cloning firm ElevenLabs. |
-|[.]() | |
-|[.]() | |
+|[GPT-4o Rollback.](https://openai.com/index/sycophancy-in-gpt-4o/) |OpenAI has reverted a recent GPT-4o update that caused the model to become overly agreeable and is currently improving its personalization and feedback systems. |
+|[Anthropic's Take on Export Controls for AI Chips.](https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule) | Anthropic backs strict export controls to protect the U.S.'s lead in computing power, emphasizing the national security risks of spreading advanced chips.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
