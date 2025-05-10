@@ -151,8 +151,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Don’t believe the hype — quantum tech can’t yet solve real-world problems.](https://www.nature.com/articles/d41586-025-01142-8) |Investors and the public should know what quantum devices can and, more importantly, can’t do. |
 |[Better at everything: how AI could make human beings irrelevant.](https://www.theguardian.com/books/2025/may/04/the-big-idea-can-we-stop-ai-making-humans-obsolete) |The end of civilisation might look less like a war, and more like a love story. Can we avoid being willing participants in our own downfall? |
 |[How Trump 2.0 is slashing NIH-backed research — in charts.](https://www.nature.com/articles/d41586-025-01099-8) | Nature analyses which fields of science and US states are being hit hardest by grant terminations.|
-|[.]() | |
-|[.]() | |
+|[Inside the quest to digitally unroll ancient scrolls burnt by Vesuvius.](https://www.nature.com/articles/d41586-025-01087-y) | Mission to decipher Herculaneum scrolls using high-resolution scanning and artificial intelligence scales up rapidly.|
+|[The use of AI in peer review could undermine science.](https://www.nature.com/articles/d41586-025-01327-1) |Some authors suggest AI can increase efficiency, others think can threat the quality |
 |[.]() | |
 |[.]() | |
 |[.]() | |
