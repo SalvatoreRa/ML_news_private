@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Cognitive Diagnosis.](https://arxiv.org/abs/2410.17564v1) |DisenGCD is a cognitive diagnosis model that improves the learning of student, exercise, and concept representations by using a disentangled graph learning framework. |
 |[Pippo: High-Resolution Multi-View Humans from a Single Image.](https://github.com/facebookresearch/pippo) |Virtual human creation training system (no pretrained models) that can take an image as input and output a high-quality 3D representation of a person. |
 |[Speeding up Graph Learning Models with torch.compile.](https://kumo.ai/research/speeding-up-graph-learning-models-with-pyg-and-torch-compile/) |This article demonstrates how to boost PyTorch graph learning model speeds by up to 35% using PyG and torch.compile without losing model accuracy. |
-|[.]() | |
+|[Google Cloud WAN for the AI Era.](https://blog.google/products/google-cloud/google-cloud-wan-development/) |Google shares how its global WAN evolved to support resilient cloud services, which maintained connectivity during the West African cable outages. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
