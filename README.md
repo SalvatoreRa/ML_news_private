@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini Adds AI Image Editing.](https://blog.google/products/gemini/image-editing/) |Google has expanded AI editing to the Gemini app, allowing users to modify personal images with multi-step tools and text-image interactions. |
 |[YouTube is testing its own version of AI Overviews.](https://www.engadget.com/ai/youtube-is-testing-its-own-version-of-ai-overviews-145353147.html) |YouTube has started testing AI Overviews to summarize video content for users. |
 |[Gmail gets a slider on Android tablets, AI on the side.](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3) |Google is rolling out Gmail updates for mobile users across Android and iOS, with some design updates and new access to AI features. |
-|[.]() | |
+|[Claude Integrations.](https://www.anthropic.com/news/integrations) |Claude now integrates with third-party apps, Google Workspace, and web search, allowing paid users to conduct in-depth research and access web search worldwide. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -154,6 +154,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM Benchmarking for Global Health.](https://research.google/blog/benchmarking-llms-for-global-health/) | Google introduces a new benchmark that uses synthetic personas to assess LLMs' ability to diagnose tropical and infectious diseases, providing a controlled, targeted way to evaluate medical reasoning in diverse scenarios.|
 |[A Tool for LiDAR Annotation.](https://github.com/Cavendish518/SALT) |SALT is a semi-automatic labeling tool for LiDAR point clouds that delivers robust zero-shot adaptability to various sensors and environments, while preserving 4D consistency. |
 |[Mega Math Dataset.](https://huggingface.co/datasets/LLM360/MegaMath) | Over 300B tokens of highly curated math questions and answers for training.|
+|[Microsoft's Phi-4-reasoning.](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/) |Microsoft has introduced Phi-4-reasoning variants, pushing small language models further in efficiency and reasoning capabilities. |
+|[Ai2's OLMo 2.](https://huggingface.co/allenai/OLMo-2-0425-1B) |The Allen Institute has released OLMo-2-1B, a small, transparent model backed by full training data and logs, furthering open research in language models. |
+|[Observability for RAG Agents.](https://decodingml.substack.com/p/observability-for-rag-agents) |This article provides a walkthrough of building realistic simulation agents using RAG and LLMOps. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
