@@ -110,6 +110,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPT-4o Rollback.](https://openai.com/index/sycophancy-in-gpt-4o/) |OpenAI has reverted a recent GPT-4o update that caused the model to become overly agreeable and is currently improving its personalization and feedback systems. |
 |[Anthropic's Take on Export Controls for AI Chips.](https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule) | Anthropic backs strict export controls to protect the U.S.'s lead in computing power, emphasizing the national security risks of spreading advanced chips.|
 |[Meta's Protection Tools for AI.](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) | Meta has introduced new tools to enhance the security of open-source AI systems, including infrastructure that preserves user privacy and mechanisms for detecting threats during model deployment.|
+|[Understanding Data at Scale.](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) | Meta oversees extensive and intricate data systems by integrating privacy measures from the outset of development and establishing a consistent privacy framework to simplify compliance.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
