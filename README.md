@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Taming the Titans: A Survey of Efficient LLM Inference Serving.](https://arxiv.org/abs/2504.19720) | This survey reviews recent methods for optimizing LLM inference by tackling memory and compute limits, spanning instance-level techniques like model placement and scheduling, cluster-level strategies such as GPU deployment and load balancing, and scenario-specific approaches. It concludes with future directions for improving efficiency and scalability.|
 |[LLMs for Engineering: Teaching Models to Design High Powered Rockets.](https://arxiv.org/abs/2504.19394) |This study shows that applying reinforcement learning enables a 7B parameter model to surpass state-of-the-art foundation models and human experts in high-powered rocketry design, demonstrating the potential of RL to drive superior performance in complex engineering tasks. |
 |[Teaching LLMs solid modeling for next-gen design tools.](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html) |Researchers trained LLMs to generate accurate solid models from text prompts. The method improved geometric accuracy over previous approaches. |
-|[.]() | |
+|[LLM Benchmarking for Global Health.](https://research.google/blog/benchmarking-llms-for-global-health/) | Google introduces a new benchmark that uses synthetic personas to assess LLMs' ability to diagnose tropical and infectious diseases, providing a controlled, targeted way to evaluate medical reasoning in diverse scenarios.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
