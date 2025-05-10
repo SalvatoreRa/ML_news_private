@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[YouTube is testing its own version of AI Overviews.](https://www.engadget.com/ai/youtube-is-testing-its-own-version-of-ai-overviews-145353147.html) |YouTube has started testing AI Overviews to summarize video content for users. |
 |[Gmail gets a slider on Android tablets, AI on the side.](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3) |Google is rolling out Gmail updates for mobile users across Android and iOS, with some design updates and new access to AI features. |
 |[Claude Integrations.](https://www.anthropic.com/news/integrations) |Claude now integrates with third-party apps, Google Workspace, and web search, allowing paid users to conduct in-depth research and access web search worldwide. |
-|[.]() | |
+|[Perplexity’s CEO on fighting Google and the coming AI browser war.](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war) | Perplexity's CEO Aravind Srinivas outlines plans to launch Comet, Perplexity AI's own browser designed as a platform for AI agents. Despite hurdles with Google, the company secured a pre-installation agreement with Motorola’s new Razr phones. Srinivas views browsers as key to AI, enabling deep integration and interaction with third-party services.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,9 +157,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft's Phi-4-reasoning.](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/) |Microsoft has introduced Phi-4-reasoning variants, pushing small language models further in efficiency and reasoning capabilities. |
 |[Ai2's OLMo 2.](https://huggingface.co/allenai/OLMo-2-0425-1B) |The Allen Institute has released OLMo-2-1B, a small, transparent model backed by full training data and logs, furthering open research in language models. |
 |[Observability for RAG Agents.](https://decodingml.substack.com/p/observability-for-rag-agents) |This article provides a walkthrough of building realistic simulation agents using RAG and LLMOps. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Google's Medical AI Reading Images.](https://research.google/blog/amie-gains-vision-a-research-ai-agent-for-multi-modal-diagnostic-dialogue/) | A summary of how Google's AMIE now examines medical images during conversational diagnoses, enhancing its capability to recommend accurate treatments similar to a real doctor.
+|
+|[Federated LoRA Fine-Tuning.](https://arxiv.org/abs/2502.15436v1) | Fed-SB has introduced a scalable approach for federated fine-tuning of LLMs using LoRA-SB that drastically reduces communication costs.|
+|[OmniParser v2.0.](https://huggingface.co/microsoft/OmniParser-v2.0) | The next version of the great screenshot parsing tool from Microsoft. It scores well on the Screenshot Pro benchmark.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -179,8 +180,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Language equivariance as a way of figuring out what an AI "means".](https://www.lesswrong.com/posts/wfDfPCkPcvi4N7tZN/alignment-from-equivariance-ii-language-equivariance-as-a) | A researcher uncovered syntax-semantics issues in LLMs and introduced language equivariance as a solution, proposing that models should maintain consistent moral judgments across translations. This approach points to a deeper, more meaningful understanding in language-equivariant LLMs beyond surface-level syntax.|
 |[AI Companions.](https://avatars.substack.com/p/10-ai-companions-pt1) | AI companions are set to transform the digital experience by moving beyond basic chatbots to become interactive, personalized interfaces. Current generic interactions limit meaningful engagement, but future success hinges on intuitive designs that make AI feel like a personal companion. As the technology evolves, the emphasis should move from model performance to user experience and personalization, shaping AI into a companion that inspires curiosity and self-exploration.|
 |[MCPs, Gatekeepers, and the Future of AI.](https://iamcharliegraham.substack.com/p/mcps-gatekeepers-and-the-future-of) |MCPs face criticism for slow, opaque licensing processes. This article called for reforms to support independent music creators. |
-|[.]() | |
-|[.]() | |
+|[Why would AI companies use human-level AI to do alignment research?](https://www.lesswrong.com/posts/XLNxrFfkyrdktuzqn/why-would-ai-companies-use-human-level-ai-to-do-alignment) |AI companies may overlook alignment bootstrapping once they reach human-level AI, similar to how they now prioritize enhancing capabilities with human researchers over safety. This could create a risky gap where AI advances outstrip alignment progress, heightening existential threats. To prevent this, companies should already be prioritizing safety to demonstrate their dedication to responsible development. |
+|[Why Developers Should Care About Generative AI (Even If They Aren't AI Experts).](https://hackread.com/why-developers-care-about-generative-ai-experts/) |Generative AI tools such as GitHub Copilot and Claude are poised to reshape software development by boosting productivity and automating repetitive tasks. Though these tools offer efficiency improvements, human developers remain essential for creativity, quality control, and managing complex needs. Embracing AI tools can help developers enhance their abilities and stay current with evolving technology. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
