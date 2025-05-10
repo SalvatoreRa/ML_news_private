@@ -51,8 +51,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities.](https://arxiv.org/abs/2504.20734) |UniversalRAG is a retrieval-augmented generation framework that handles multiple modalities (text, image, video) and granularities (e.g., paragraph vs. document) to overcome the limits of traditional RAG systems. It uses a modality- and granularity-aware router to select the most relevant content format for each query, improving retrieval accuracy. UniversalRAG outperforms existing baselines across eight benchmarks, demonstrating the value of dynamic routing for robust, multimodal question answering. |
 |[Model Evaluation in the Dark: Robust Classifier Metrics with Missing Labels.](https://arxiv.org/abs/2504.18385) |This research introduced a multiple imputation method for evaluating classifiers with missing labels, offering accurate and robust predictive distributions even under MNAR conditions. |
 |[ReLearn: Unlearning via Learning for Large Language Models.](https://arxiv.org/abs/2502.11190v2) | ReLearn offers a data augmentation and fine-tuning pipeline for effective unlearning in large language models.|
-|[.]() | |
-|[.]() | |
+|[Meta AI App.](https://ai.meta.com/meta-ai/) | Meta has introduced a new standalone AI app, expanding its efforts to integrate AI features into consumer experiences more directly.|
+|[Meta previews an API for its Llama AI models.](https://techcrunch.com/2025/04/29/meta-previews-an-api-for-its-llama-ai-models/) |At its inaugural LlamaCon AI developer conference on Tuesday, Meta announced an API for its Llama series of AI models: the Llama API. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
