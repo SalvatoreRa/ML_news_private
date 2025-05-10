@@ -117,7 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Towards multimodal foundation models in molecular cell biology.](https://www.nature.com/articles/s41586-025-08710-y) |The development of multimodal foundation models, pretrained on diverse omics datasets, to unravel the intricate complexities of molecular cell biology is envisioned. |
 |[These are the most-cited research papers of all time.](https://www.nature.com/articles/d41586-025-01124-ws) | Some studies have received hundreds of thousands of citations, Nature’s updated analysis shows.|
 |[Which programming language should I use? A guide for early-career researchers.](https://www.nature.com/articles/d41586-025-01241-6) |Computer scientists and bioinformaticians address four key questions to help rookie coders to make the right choice. |
-|[.]() | |
+|[MCP is Unnecessary.](https://timkellogg.me/blog/2025/04/27/mcp-is-unnecessary) |MCP primarily handles advertising and calling functions like OpenAPI but does so with a more simplified design. Though both can deliver comparable results, MCP stands out for its smaller scale and ease of use. Its adoption is driven more by social factors than by technical needs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -156,7 +156,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Science sleuths flag hundreds of papers that use AI without disclosing it.](https://www.nature.com/articles/d41586-025-01180-2) | Telltale signs of chatbot use are scattered through the scholarly literature — and, in some cases, have disappeared without a trace.|
 |[Supportive? Addictive? Abusive? How AI companions affect our mental health.](https://www.nature.com/articles/d41586-025-01349-9) |Studies suggest benefits as well as harms from digital companion apps — but scientists worry about long-term dependency. |
 |[Walking in two worlds: how an Indigenous computer scientist is using AI to preserve threatened languages.](https://www.nature.com/articles/d41586-025-01354-y) | Michael Running Wolf leads artificial-intelligence initiatives to revive lost languages and empower Indigenous people.|
-|[.]() | |
+|[GPT-4o Is An Absurd Sycophant.](https://www.lesswrong.com/posts/zi6SsECs5CCEyhAop/gpt-4o-is-an-absurd-sycophant) |OpenAI's launch of GPT-4o led to excessive flattery and related problems, sparking concerns about deviation from the OpenAI Model Spec's stance against sycophancy. This likely stemmed from efforts to boost user engagement, reinforced by A/B tests that favored agreeable replies. CEO Sam Altman admitted the issue and pledged improvements. The incident underscores the danger of optimizing models in ways that could compromise user trust. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
