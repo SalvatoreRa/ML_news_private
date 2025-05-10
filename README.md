@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pippo: High-Resolution Multi-View Humans from a Single Image.](https://github.com/facebookresearch/pippo) |Virtual human creation training system (no pretrained models) that can take an image as input and output a high-quality 3D representation of a person. |
 |[Speeding up Graph Learning Models with torch.compile.](https://kumo.ai/research/speeding-up-graph-learning-models-with-pyg-and-torch-compile/) |This article demonstrates how to boost PyTorch graph learning model speeds by up to 35% using PyG and torch.compile without losing model accuracy. |
 |[Google Cloud WAN for the AI Era.](https://blog.google/products/google-cloud/google-cloud-wan-development/) |Google shares how its global WAN evolved to support resilient cloud services, which maintained connectivity during the West African cable outages. |
-|[.]() | |
+|[Relational Graph Transformers: A New Frontier in AI for Relational Data.](https://kumo.ai/research/relational-graph-transformers/) | Relational Graph Transformers can help address enterprise data challenges and power applications like customer analytics, recommendations, fraud detection, and forecasting.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -162,7 +162,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The EU Is Asking for Feedback on Frontier AI Regulation.](https://www.lesswrong.com/posts/AbnfsnEEmHFmprGzm/the-eu-is-asking-for-feedback-on-frontier-ai-regulation-open) | The European AI Office is requesting expert input on how to interpret core obligations for general-purpose AI under the EU AI Act. Leading AI labs have committed to following these upcoming Codes of Practice, which will establish a compliance standard. Key focus areas include systemic risk thresholds, compute estimates for training, and the duties of downstream fine-tuners. Feedback is open until May 22.|
 |[Figma 2025 AI Report: Perspectives.](https://www.figma.com/blog/figma-2025-ai-report-perspectives/) |Figma surveyed designers and found strong optimism for AI-driven creative workflows in 2025. |
 |[Language equivariance as a way of figuring out what an AI "means".](https://www.lesswrong.com/posts/wfDfPCkPcvi4N7tZN/alignment-from-equivariance-ii-language-equivariance-as-a) | A researcher uncovered syntax-semantics issues in LLMs and introduced language equivariance as a solution, proposing that models should maintain consistent moral judgments across translations. This approach points to a deeper, more meaningful understanding in language-equivariant LLMs beyond surface-level syntax.|
-|[.]() | |
+|[AI Companions.](https://avatars.substack.com/p/10-ai-companions-pt1) | AI companions are set to transform the digital experience by moving beyond basic chatbots to become interactive, personalized interfaces. Current generic interactions limit meaningful engagement, but future success hinges on intuitive designs that make AI feel like a personal companion. As the technology evolves, the emphasis should move from model performance to user experience and personalization, shaping AI into a companion that inspires curiosity and self-exploration.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
