@@ -111,8 +111,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic's Take on Export Controls for AI Chips.](https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule) | Anthropic backs strict export controls to protect the U.S.'s lead in computing power, emphasizing the national security risks of spreading advanced chips.|
 |[Meta's Protection Tools for AI.](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) | Meta has introduced new tools to enhance the security of open-source AI systems, including infrastructure that preserves user privacy and mechanisms for detecting threats during model deployment.|
 |[Understanding Data at Scale.](https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/) | Meta oversees extensive and intricate data systems by integrating privacy measures from the outset of development and establishing a consistent privacy framework to simplify compliance.|
-|[.]() | |
-|[.]() | |
+|[Perplexity’s CEO on fighting Google and the coming AI browser war.](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war) | Perplexity's CEO has shared plans to compete with Google in AI-driven search and browsers, anticipating intensified rivalry as AI-native browsers transform the industry.|
+|[AI is getting “creepy good” at geo-guessing.](https://www.malwarebytes.com/blog/news/2025/04/ai-is-getting-creepy-good-at-geo-guessing) | New AI models accurately determined locations using subtle cues in images. Researchers cautioned that this might pose privacy risks and security issues.
+|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -153,7 +154,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Teaching LLMs solid modeling for next-gen design tools.](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html) |Researchers trained LLMs to generate accurate solid models from text prompts. The method improved geometric accuracy over previous approaches. |
 |[LLM Benchmarking for Global Health.](https://research.google/blog/benchmarking-llms-for-global-health/) | Google introduces a new benchmark that uses synthetic personas to assess LLMs' ability to diagnose tropical and infectious diseases, providing a controlled, targeted way to evaluate medical reasoning in diverse scenarios.|
 |[A Tool for LiDAR Annotation.](https://github.com/Cavendish518/SALT) |SALT is a semi-automatic labeling tool for LiDAR point clouds that delivers robust zero-shot adaptability to various sensors and environments, while preserving 4D consistency. |
-|[.]() | |
+|[Mega Math Dataset.](https://huggingface.co/datasets/LLM360/MegaMath) | Over 300B tokens of highly curated math questions and answers for training.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
