@@ -134,8 +134,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How to train an AI model without falling into GDPR pitfalls?](https://www.lexology.com/library/detail.aspx) |AI model developers can meet GDPR requirements during development by using anonymous data or applying pseudonymization. When full anonymization isn't possible, they should strengthen data security and uphold individuals' rights. Publicly communicating how data is used is also advised for greater transparency. |
 |[Quantization with AutoRound.](https://huggingface.co/blog/autoround) | AutoRound is a post-training quantization method that boosts low-bit model accuracy while preserving performance and efficiency.|
 |[LLMs for Time Series: A Survey.](https://arxiv.org/abs/2505.02583) | This survey examines how cross-modality methods adapt large language models for time series analysis, emphasizing data alignment, integration, and effectiveness in downstream tasks across various fields.|
-|[.]() | |
-|[.]() | |
+|[Synthetic Data QA Framework.](https://github.com/mostly-ai/mostlyai-qa) | This evaluation toolkit offers unified metrics to measure the quality and privacy of synthetic data across different data types, utilizing distributional and embedding-based approaches.|
+|[DDT: Decoupled Diffusion Transformer.](https://github.com/MCG-NJU/DDT) |Encoder/Decoder implementation of a Transformer with a Diffusion model as the decoder. It seems to work reasonably well on imagenet generation. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
