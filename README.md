@@ -98,8 +98,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI upgrades ChatGPT search with shopping features.](https://techcrunch.com/2025/04/28/openai-upgrades-chatgpt-search-with-shopping-features/) | OpenAI has upgraded ChatGPT's search to improve online shopping, providing product suggestions, images, reviews, and purchase links. Unlike ad-driven models, it uses structured metadata for personalized, independent results. Future enhancements will include deeper personalization via ChatGPT's memory for Pro and Plus users, though some European regions are excluded.|
 |[Detecting and Countering Malicious Uses of Claude: March 2025.](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) |Claude models were exploited for influence campaigns, credential stuffing, recruitment scams, and malware creation. In response, Anthropic is enhancing its safeguards and has banned the accounts responsible to curb further abuse. |
 |[Generative Video Models for Driving.](https://valeoai.github.io/vavim-vavam/) |Valeo AI introduces VaViM, an autoregressive video model that predicts spatio-temporal token sequences, and VaVAM, which converts learned video representations into driving trajectories using imitation learning. |
-|[.]() | |
-|[.]() | |
+|[DeepMind showcased AlphaFold 3's expanded molecular prediction abilities.](https://threadreaderapp.com/thread/1915077085325922785.html) | DeepMind's AlphaFold 3 introduces new features for predicting DNA, RNA, and molecular structures, along with enhanced accuracy in modeling complex molecular interactions. It is available for free non-commercial use via EMBL-EBI.|
+|[Introducing Mobility AI: Advancing urban transportation.](https://research.google/blog/introducing-mobility-ai-advancing-urban-transportation/) |Google Research developed new machine learning models to study congestion, parking, and travel demand trends. These tools also assessed greenhouse gas reductions and transportation safety effects, advancing urban mobility planning through geospatial and real-time data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
