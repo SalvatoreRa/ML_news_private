@@ -58,7 +58,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Code Retrieval using LoRA.](https://arxiv.org/abs/2503.05315) | Researchers introduce a LoRA-based fine-tuning method for code search that reduces trainable parameters below 2% while improving retrieval accuracy by up to 9.1% for Code2Code tasks.|
 |[IDInit: A Universal and Stable Initialization Method for Neural Network Training.](https://arxiv.org/abs/2503.04626) | A new initialization technique, IDInit, ensures stable convergence in deep neural networks by maintaining identity transitions in both main and sub-stem layers.|
 |[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |Chatbot Arena's benchmarking shows bias stemming from hidden private tests and unequal data access. Companies like Google and OpenAI have broad access, while open-source models get far less, leading to overfitting instead of real model progress. |
-|[.]() | |
+|[Actor-Critics Can Achieve Optimal Sample Efficiency.](https://arxiv.org/abs/2505.03710) | A new actor-critic RL algorithm has achieved near-optimal sample efficiency using offline data and targeted exploration, addressing long-standing challenges in hybrid RL settings.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,7 +149,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia Radio Embedding Models.](https://huggingface.co/collections/nvidia/radio-669f77f1dd6b153f007dd1c6) |Nvidia has a suite of text and image embedding models that match SigLIP in many cases. |
 |[Pathology with DINOv2.](https://ai.meta.com/blog/mahmood-lab-human-pathology-dinov2/) |The Mahmood Lab, using Meta's DINOv2, has developed open-source AI models for pathology, improving disease detection and diagnostics. |
 |[PyTorch Role in the AI Stack.](https://pytorch.org/blog/pytorch-the-open-language-of-ai/) | PyTorch has grown from a research-focused framework into a core platform driving generative AI. The PyTorch Foundation has broadened its scope to include related projects and promote scalable AI development.|
-|[.]() | |
+|[Osmosis self-improvement via real-time reinforcement learning.](https://threadreaderapp.com/thread/1920564884967928133.html) | Osmosis is a platform enabling AI self-improvement through real-time reinforcement learning. The team has open-sourced a compact model that matches state-of-the-art performance for MCP and can be run locally.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
