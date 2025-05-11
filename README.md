@@ -107,6 +107,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic unlocks web search for all paid Claude plans.](AnthropicAI/status/1918346817378431022) |Anthropic has enabled web search for all paid Claude plans, adding real-time lookups and source citations. |
 |[Little Language Lessons uses generative AI to make practicing languages more personal.](https://blog.google/outreach-initiatives/education/little-language-lessons/) | Google's Little Language Lessons leverage models for real-world language learning through experiments like Tiny Lesson, Slang Hang, and Word Cam.|
 |[‘Unethical’ AI research on Reddit under fire.](https://www.science.org/content/article/unethical-ai-research-reddit-under-fire) | Ethics experts raise concerns over consent, study design|
+|[Anthropic API Supports Web Search.](https://www.anthropic.com/news/web-search-api) |Claude now includes web search support through an API, allowing developers to create applications that access real-time, current information from the internet. |
+|[Amazon Vulcan Robot.](https://www.aboutamazon.com/news/operations/amazon-vulcan-robot-pick-stow-touch) |Amazon's Vulcan is the company's first robot. It has a sense of touch, enhancing handling precision and marking a new phase in physical AI capabilities. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
