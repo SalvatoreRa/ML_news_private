@@ -49,8 +49,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Chain of Draft for Efficient Reasoning.](https://arxiv.org/abs/2502.18600) | Chain of Draft is a concise reasoning strategy that significantly reduces token usage while matching or exceeding Chain-of-Thought accuracy across complex tasks.|
-|[.]() | |
-|[.]() | |
+|[RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation.](https://arxiv.org/abs/2505.03275) | This paper reveals that adding too many tools to AI agents can backfire, causing prompt overload and reduced accuracy. To fix this, RAG-MCP uses a retrieval-based method that selects only the most relevant tool schemas from a large external index, keeping prompts concise and effective. It cuts prompt size by over half and triples tool-selection accuracy, enabling scalable, efficient multi-tool agents without retraining.|
+|[Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models.](https://arxiv.org/abs/2505.03469v1) |This paper introduces LS-Mixture SFT, a method that fine-tunes LLMs on both long and trimmed chain-of-thought reasoning to reduce verbosity without sacrificing accuracy. By training on a 50/50 mix of detailed and concise reasoning paths and prompting for balanced outputs, the s1-mix-32B model achieves up to 6.7 points higher accuracy with 47% shorter responses across tasks like MATH500 and AIME24—proving efficient reasoning doesn't require overthinking. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
