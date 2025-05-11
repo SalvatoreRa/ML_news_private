@@ -110,8 +110,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic API Supports Web Search.](https://www.anthropic.com/news/web-search-api) |Claude now includes web search support through an API, allowing developers to create applications that access real-time, current information from the internet. |
 |[Amazon Vulcan Robot.](https://www.aboutamazon.com/news/operations/amazon-vulcan-robot-pick-stow-touch) |Amazon's Vulcan is the company's first robot. It has a sense of touch, enhancing handling precision and marking a new phase in physical AI capabilities. |
 |[Apple is looking to add AI search engines to Safari.](https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/) |Apple is looking to add AI search engines from OpenAI, Perplexity, and Anthropic to Safari, Bloomberg reported on Wednesday. |
-|[.]() | |
-|[.]() | |
+|[Can O3 beat a GeoGuessr master?](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master) |Researcher Sampatt pitted the AI agent O3 against a GeoGuessr expert in the demanding street view geography game. While O3 showed solid reasoning and geographic inference skills, it couldn't consistently surpass the human player. The test underscores AI's advancing spatial abilities and its present limitations in handling complex real-world challenges. |
+|[Simplifying Text with LLMs.](https://research.google/blog/making-complex-text-understandable-minimally-lossy-text-simplification-with-gemini/) |Google researchers have used LLMs to simplify complex text without losing critical details, improving user understanding while preserving accuracy and nuance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Synthetic Data QA Framework.](https://github.com/mostly-ai/mostlyai-qa) | This evaluation toolkit offers unified metrics to measure the quality and privacy of synthetic data across different data types, utilizing distributional and embedding-based approaches.|
 |[DDT: Decoupled Diffusion Transformer.](https://github.com/MCG-NJU/DDT) |Encoder/Decoder implementation of a Transformer with a Diffusion model as the decoder. It seems to work reasonably well on imagenet generation. |
 |[Nvidia Radio Embedding Models.](https://huggingface.co/collections/nvidia/radio-669f77f1dd6b153f007dd1c6) |Nvidia has a suite of text and image embedding models that match SigLIP in many cases. |
-|[.]() | |
+|[Pathology with DINOv2.](https://ai.meta.com/blog/mahmood-lab-human-pathology-dinov2/) |The Mahmood Lab, using Meta's DINOv2, has developed open-source AI models for pathology, improving disease detection and diagnostics. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
