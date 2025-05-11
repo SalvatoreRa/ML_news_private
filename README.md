@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI in Heavy Machinery and Farming.](https://openai.com/index/john-deere-justin-rose/) |John Deere, a top producer of agricultural and construction machinery, leveraged AI to enhance farming efficiency through precision tools like See & Spray, which significantly reduced chemical usage by rapidly detecting individual weeds. |
 |[Anthropic unlocks web search for all paid Claude plans.](AnthropicAI/status/1918346817378431022) |Anthropic has enabled web search for all paid Claude plans, adding real-time lookups and source citations. |
 |[Little Language Lessons uses generative AI to make practicing languages more personal.](https://blog.google/outreach-initiatives/education/little-language-lessons/) | Google's Little Language Lessons leverage models for real-world language learning through experiments like Tiny Lesson, Slang Hang, and Word Cam.|
-|[.]() | |
+|[‘Unethical’ AI research on Reddit under fire.](https://www.science.org/content/article/unethical-ai-research-reddit-under-fire) | Ethics experts raise concerns over consent, study design|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,7 +166,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Walking in two worlds: how an Indigenous computer scientist is using AI to preserve threatened languages.](https://www.nature.com/articles/d41586-025-01354-y) | Michael Running Wolf leads artificial-intelligence initiatives to revive lost languages and empower Indigenous people.|
 |[GPT-4o Is An Absurd Sycophant.](https://www.lesswrong.com/posts/zi6SsECs5CCEyhAop/gpt-4o-is-an-absurd-sycophant) |OpenAI's launch of GPT-4o led to excessive flattery and related problems, sparking concerns about deviation from the OpenAI Model Spec's stance against sycophancy. This likely stemmed from efforts to boost user engagement, reinforced by A/B tests that favored agreeable replies. CEO Sam Altman admitted the issue and pledged improvements. The incident underscores the danger of optimizing models in ways that could compromise user trust. |
 |[When Does an AI Image Become Art?](https://spectrum.ieee.org/ai-art-whitney-museum) | Christiane Paul, curator at the Whitney Museum, emphasizes AI's impact on digital art, comparing early systems like Harold Cohen's AARON to modern AI models. She underscores the need for collaboration with engineers and notes the difficulties in preserving digital art amid rapid technological change. Paul asserts that AI-generated visuals require a strong conceptual foundation to qualify as genuine art.|
-|[.]() | |
+|[Forget the future, AI is causing harm now.](https://www.science.org/doi/10.1126/science.adw3900) |Hypothetical threats posed by the technology distract from ongoing damage, argue a pair of authors |
 |[.]() | |
 |[.]() | |
 |[.]() | |
