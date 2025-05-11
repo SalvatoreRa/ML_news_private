@@ -179,7 +179,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Forget the future, AI is causing harm now.](https://www.science.org/doi/10.1126/science.adw3900) |Hypothetical threats posed by the technology distract from ongoing damage, argue a pair of authors |
 |[Anthropic Economic Index: AI's impact on software development.](https://www.anthropic.com/research/impact-software-development) | AI tools like Claude are significantly transforming coding by automating large parts of programming work. Startups are at the forefront of adopting AI coding tools like Claude Code, especially for front-end tasks, while larger enterprises trail behind. As AI continues to advance, developer roles may evolve toward overseeing AI systems, potentially speeding up tech progress.|
 |[OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation.](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/) |OpenAI and the FDA held meetings to explore how AI could expedite drug approvals, signaling a shift toward modernizing regulatory science with machine learning. |
-|[.]() | |
+|[Is there a Half-Life for the Success Rates of AI Agents?](https://www.lesswrong.com/posts/FYq5WRxKYnHBvHZix/is-there-a-half-life-for-the-success-rates-of-ai-agents-4) |AI performance on extended tasks follows a basic pattern of constant failure probability, leading to an exponential drop in success rates. Each AI agent can be defined by a "half-life," indicating its likelihood of success across different task durations. This framework implies that failures stem from intricate combinations of subtasks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
