@@ -113,9 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can O3 beat a GeoGuessr master?](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master) |Researcher Sampatt pitted the AI agent O3 against a GeoGuessr expert in the demanding street view geography game. While O3 showed solid reasoning and geographic inference skills, it couldn't consistently surpass the human player. The test underscores AI's advancing spatial abilities and its present limitations in handling complex real-world challenges. |
 |[Simplifying Text with LLMs.](https://research.google/blog/making-complex-text-understandable-minimally-lossy-text-simplification-with-gemini/) |Google researchers have used LLMs to simplify complex text without losing critical details, improving user understanding while preserving accuracy and nuance. |
 |[Meta’s ChatGPT competitor shows how your friends use AI.](https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android) | Meta's latest AI app features a Discover feed that brings a social element by letting users share their AI interactions. This function encourages engagement through comments, likes, and remixing of shared content, aiming to make AI more approachable. Replacing the View app for Meta Ray-Ban glasses, the app runs on a Meta-customized Llama 4 model and offers advanced voice interaction in certain areas.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Mastercard gives AI agents the ability to shop on your behalf .](https://financialpost.com/news/retail-marketing/e-commerce-solutions/mastercard-ai-agents-shop-on-your-behalf) |Mastercard's AI program streamlines e-commerce searches, reducing time and friction. Consumers retain purchase control as AI agents can't finalize transactions. |
+|[Meta launches AI Defenders Program to protect LLaMA models.](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) | Meta introduced the AI Defenders Program to help developers detect and prevent misuse of LLaMA models.|
+|[Startups launch products to catch people using AI cheating app Cluely.](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) | AI cheating startup Cluely went viral last week with bold claims that its hidden in-browser window is “undetectable” and can be used to “cheat on everything” from job interviews to exams.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -178,7 +178,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[When Does an AI Image Become Art?](https://spectrum.ieee.org/ai-art-whitney-museum) | Christiane Paul, curator at the Whitney Museum, emphasizes AI's impact on digital art, comparing early systems like Harold Cohen's AARON to modern AI models. She underscores the need for collaboration with engineers and notes the difficulties in preserving digital art amid rapid technological change. Paul asserts that AI-generated visuals require a strong conceptual foundation to qualify as genuine art.|
 |[Forget the future, AI is causing harm now.](https://www.science.org/doi/10.1126/science.adw3900) |Hypothetical threats posed by the technology distract from ongoing damage, argue a pair of authors |
 |[Anthropic Economic Index: AI's impact on software development.](https://www.anthropic.com/research/impact-software-development) | AI tools like Claude are significantly transforming coding by automating large parts of programming work. Startups are at the forefront of adopting AI coding tools like Claude Code, especially for front-end tasks, while larger enterprises trail behind. As AI continues to advance, developer roles may evolve toward overseeing AI systems, potentially speeding up tech progress.|
-|[.]() | |
+|[OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation.](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/) |OpenAI and the FDA held meetings to explore how AI could expedite drug approvals, signaling a shift toward modernizing regulatory science with machine learning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
