@@ -116,8 +116,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mastercard gives AI agents the ability to shop on your behalf .](https://financialpost.com/news/retail-marketing/e-commerce-solutions/mastercard-ai-agents-shop-on-your-behalf) |Mastercard's AI program streamlines e-commerce searches, reducing time and friction. Consumers retain purchase control as AI agents can't finalize transactions. |
 |[Meta launches AI Defenders Program to protect LLaMA models.](https://ai.meta.com/blog/ai-defenders-program-llama-protection-tools/) | Meta introduced the AI Defenders Program to help developers detect and prevent misuse of LLaMA models.|
 |[Startups launch products to catch people using AI cheating app Cluely.](https://techcrunch.com/2025/04/29/startups-launch-products-to-catch-people-using-ai-cheating-app-cluely/) | AI cheating startup Cluely went viral last week with bold claims that its hidden in-browser window is “undetectable” and can be used to “cheat on everything” from job interviews to exams.|
-|[.]() | |
-|[.]() | |
+|[Mistral Medium 3.](https://mistral.ai/news/mistral-medium-3) |Mistral Medium 3 was launched to offer robust enterprise performance at a much lower cost, with a focus on deployment versatility and coding efficiency. |
+|[Fidji Simo Joins OpenAI as CEO of Applications.](https://openai.com/index/leadership-expansion-with-fidji-simo/) |OpenAI has named Fidji Simo as head of its Applications division, strengthening its efforts to scale products and operations as the company moves from research to global deployment and infrastructure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
