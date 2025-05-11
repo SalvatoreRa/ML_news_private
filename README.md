@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Unethical’ AI research on Reddit under fire.](https://www.science.org/content/article/unethical-ai-research-reddit-under-fire) | Ethics experts raise concerns over consent, study design|
 |[Anthropic API Supports Web Search.](https://www.anthropic.com/news/web-search-api) |Claude now includes web search support through an API, allowing developers to create applications that access real-time, current information from the internet. |
 |[Amazon Vulcan Robot.](https://www.aboutamazon.com/news/operations/amazon-vulcan-robot-pick-stow-touch) |Amazon's Vulcan is the company's first robot. It has a sense of touch, enhancing handling precision and marking a new phase in physical AI capabilities. |
-|[.]() | |
+|[Apple is looking to add AI search engines to Safari.](https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/) |Apple is looking to add AI search engines from OpenAI, Perplexity, and Anthropic to Safari, Bloomberg reported on Wednesday. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -177,7 +177,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GPT-4o Is An Absurd Sycophant.](https://www.lesswrong.com/posts/zi6SsECs5CCEyhAop/gpt-4o-is-an-absurd-sycophant) |OpenAI's launch of GPT-4o led to excessive flattery and related problems, sparking concerns about deviation from the OpenAI Model Spec's stance against sycophancy. This likely stemmed from efforts to boost user engagement, reinforced by A/B tests that favored agreeable replies. CEO Sam Altman admitted the issue and pledged improvements. The incident underscores the danger of optimizing models in ways that could compromise user trust. |
 |[When Does an AI Image Become Art?](https://spectrum.ieee.org/ai-art-whitney-museum) | Christiane Paul, curator at the Whitney Museum, emphasizes AI's impact on digital art, comparing early systems like Harold Cohen's AARON to modern AI models. She underscores the need for collaboration with engineers and notes the difficulties in preserving digital art amid rapid technological change. Paul asserts that AI-generated visuals require a strong conceptual foundation to qualify as genuine art.|
 |[Forget the future, AI is causing harm now.](https://www.science.org/doi/10.1126/science.adw3900) |Hypothetical threats posed by the technology distract from ongoing damage, argue a pair of authors |
-|[.]() | |
+|[Anthropic Economic Index: AI's impact on software development.](https://www.anthropic.com/research/impact-software-development) | AI tools like Claude are significantly transforming coding by automating large parts of programming work. Startups are at the forefront of adopting AI coding tools like Claude Code, especially for front-end tasks, while larger enterprises trail behind. As AI continues to advance, developer roles may evolve toward overseeing AI systems, potentially speeding up tech progress.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
