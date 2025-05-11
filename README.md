@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple is looking to add AI search engines to Safari.](https://techcrunch.com/2025/05/07/apple-is-looking-to-add-ai-search-engines-to-safari/) |Apple is looking to add AI search engines from OpenAI, Perplexity, and Anthropic to Safari, Bloomberg reported on Wednesday. |
 |[Can O3 beat a GeoGuessr master?](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master) |Researcher Sampatt pitted the AI agent O3 against a GeoGuessr expert in the demanding street view geography game. While O3 showed solid reasoning and geographic inference skills, it couldn't consistently surpass the human player. The test underscores AI's advancing spatial abilities and its present limitations in handling complex real-world challenges. |
 |[Simplifying Text with LLMs.](https://research.google/blog/making-complex-text-understandable-minimally-lossy-text-simplification-with-gemini/) |Google researchers have used LLMs to simplify complex text without losing critical details, improving user understanding while preserving accuracy and nuance. |
-|[.]() | |
+|[Meta’s ChatGPT competitor shows how your friends use AI.](https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android) | Meta's latest AI app features a Discover feed that brings a social element by letting users share their AI interactions. This function encourages engagement through comments, likes, and remixing of shared content, aiming to make AI more approachable. Replacing the View app for Meta Ray-Ban glasses, the app runs on a Meta-customized Llama 4 model and offers advanced voice interaction in certain areas.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DDT: Decoupled Diffusion Transformer.](https://github.com/MCG-NJU/DDT) |Encoder/Decoder implementation of a Transformer with a Diffusion model as the decoder. It seems to work reasonably well on imagenet generation. |
 |[Nvidia Radio Embedding Models.](https://huggingface.co/collections/nvidia/radio-669f77f1dd6b153f007dd1c6) |Nvidia has a suite of text and image embedding models that match SigLIP in many cases. |
 |[Pathology with DINOv2.](https://ai.meta.com/blog/mahmood-lab-human-pathology-dinov2/) |The Mahmood Lab, using Meta's DINOv2, has developed open-source AI models for pathology, improving disease detection and diagnostics. |
-|[.]() | |
+|[PyTorch Role in the AI Stack.](https://pytorch.org/blog/pytorch-the-open-language-of-ai/) | PyTorch has grown from a research-focused framework into a core platform driving generative AI. The PyTorch Foundation has broadened its scope to include related projects and promote scalable AI development.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
