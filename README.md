@@ -83,7 +83,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft and OpenAI may be renegotiating their partnership.](https://techcrunch.com/2025/05/11/microsoft-and-openai-may-be-renegotiating-their-partnership/) | OpenAI and Microsoft are revisiting their multibillion-dollar partnership in a pivotal deal that may shape OpenAI's future. Microsoft, having invested more than \$13 billion, is proposing to trade part of its equity for extended access to OpenAI's technology beyond their current agreement, which ends in 2030.| 
 |[Deep Research now supports GitHub repo analysis in ChatGPT.](https://x.com/OpenAIDevs/status/1920556386083102844) | ChatGPT's Deep Research agent now supports scanning GitHub repositories, analyzing source code and pull requests to generate detailed, cited reports. Users can directly query repositories via the Deep Research → GitHub integration.|
 |[Open Source Project Curl Battles Wave of AI-Generated False Vulnerabilities.](https://arstechnica.com/gadgets/2025/05/open-source-project-curl-is-sick-of-users-submitting-ai-slop-vulnerabilities/) |curl project founder Daniel Stenberg has grown frustrated with the surge of AI-generated false vulnerability reports submitted via platforms like HackerOne. Although HackerOne argues that AI can improve report quality if used properly, Stenberg is calling for better infrastructure and tools to address what he sees as a denial-of-service attack on maintainers' time and focus. |
-|[.]() | |
+|[Gemini 2.5 Video Understanding.](https://developers.googleblog.com/en/gemini-2-5-video-understanding/) |Gemini 2.5 Pro has achieved state-of-the-art results on video benchmarks such as YouCook2 and QVHighlights, surpassing GPT-4.1 and matching fine-tuned specialist models under the same evaluation conditions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Optimizing GEMM with Thread Block Clusters.](https://research.colfax-intl.com/cutlass-tutorial-gemm-with-thread-block-clusters-on-nvidia-blackwell-gpus/) |Thread block clusters and 2-SM UMMA instructions on Blackwell GPUs enable higher arithmetic intensity and more efficient memory transfers in GEMM workloads using CUTLASS. |
 |[Meta AssetGen 2.0.](https://developers.meta.com/horizon/blog/AssetGen2) | Meta's AssetGen 2.0 introduces updated diffusion-based models for creating detailed 3D meshes and textures from text and image prompts, offering improved consistency, accuracy, and view-aware texture resolution compared to the earlier version.|
 |[Flow-GRPO for RL-Tuned Diffusion Models.](https://github.com/yifan123/flow_grpo) |Flow-GRPO integrates reinforcement learning into flow matching by converting ODEs into SDEs and using denoising reduction to enhance sample efficiency and alignment. |
-|[.]() | |
+|[DeerFlow.](https://github.com/bytedance/deer-flow) | Bytedance's DeerFlow is an open-source research assistant using a multi-agent system that integrates search engines, web crawlers, and Python tools to produce Deep Research-style reports and podcasts.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
