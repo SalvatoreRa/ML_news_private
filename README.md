@@ -49,8 +49,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |The Leaderboard Illusion reveals major flaws in the Chatbot Arena ranking system, showing that practices like selective score reporting, extreme data imbalances, silent model removals, and overfitting to Arena-specific dynamics distort LLM comparisons. Through analysis of 2M battles, the paper finds that private testing privileges and data access for proprietary models inflate scores and undermine fairness, making the leaderboard an unreliable measure of real-world model quality. |
-|[Canadian Pharmacist Exposed as Key Figure Behind World's Largest Explicit Deepfake Site.](https://www.cbc.ca/amp/1.7527626) |Investigative journalists have revealed Toronto-area pharmacist David Do as the key figure behind MrDeepFakes.com, which shut down permanently after the exposure. Since 2018, the site had amassed 650,000 users and over 2 billion views, hosting tens of thousands of non-consensual AI-generated explicit videos of celebrities, influencers, and private individuals. Although such deepfakes are still legal in Canada, Prime Minister Mark Carney has committed to criminalizing them, following examples set by the UK and Australia. |
-|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -84,8 +82,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Deep Research now supports GitHub repo analysis in ChatGPT.](https://x.com/OpenAIDevs/status/1920556386083102844) | ChatGPT's Deep Research agent now supports scanning GitHub repositories, analyzing source code and pull requests to generate detailed, cited reports. Users can directly query repositories via the Deep Research → GitHub integration.|
 |[Open Source Project Curl Battles Wave of AI-Generated False Vulnerabilities.](https://arstechnica.com/gadgets/2025/05/open-source-project-curl-is-sick-of-users-submitting-ai-slop-vulnerabilities/) |curl project founder Daniel Stenberg has grown frustrated with the surge of AI-generated false vulnerability reports submitted via platforms like HackerOne. Although HackerOne argues that AI can improve report quality if used properly, Stenberg is calling for better infrastructure and tools to address what he sees as a denial-of-service attack on maintainers' time and focus. |
 |[Gemini 2.5 Video Understanding.](https://developers.googleblog.com/en/gemini-2-5-video-understanding/) |Gemini 2.5 Pro has achieved state-of-the-art results on video benchmarks such as YouCook2 and QVHighlights, surpassing GPT-4.1 and matching fine-tuned specialist models under the same evaluation conditions. |
-|[.]() | |
-|[.]() | |
+|[Canadian Pharmacist Exposed as Key Figure Behind World's Largest Explicit Deepfake Site.](https://www.cbc.ca/amp/1.7527626) |Investigative journalists have revealed Toronto-area pharmacist David Do as the key figure behind MrDeepFakes.com, which shut down permanently after the exposure. Since 2018, the site had amassed 650,000 users and over 2 billion views, hosting tens of thousands of non-consensual AI-generated explicit videos of celebrities, influencers, and private individuals. Although such deepfakes are still legal in Canada, Prime Minister Mark Carney has committed to criminalizing them, following examples set by the UK and Australia. |
+|[OpenAI agrees to buy Windsurf for about $3 billion, Bloomberg News reports.](https://www.reuters.com/business/openai-agrees-buy-windsurf-about-3-billion-bloomberg-news-reports-2025-05-06/) | OpenAI has agreed to buy artificial intelligence-assisted coding tool Windsurf for about $3 billion, Bloomberg News reported on Monday, citing people familiar with the matter.|
+|[SoundCloud's Quiet Terms Update.](https://x.com/ednewtonrex/status/1920867088455135723) |SoundCloud has reportedly updated its terms of service to allow AI training on content uploaded by users, raising concerns about transparency and user consent. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,6 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta AssetGen 2.0.](https://developers.meta.com/horizon/blog/AssetGen2) | Meta's AssetGen 2.0 introduces updated diffusion-based models for creating detailed 3D meshes and textures from text and image prompts, offering improved consistency, accuracy, and view-aware texture resolution compared to the earlier version.|
 |[Flow-GRPO for RL-Tuned Diffusion Models.](https://github.com/yifan123/flow_grpo) |Flow-GRPO integrates reinforcement learning into flow matching by converting ODEs into SDEs and using denoising reduction to enhance sample efficiency and alignment. |
 |[DeerFlow.](https://github.com/bytedance/deer-flow) | Bytedance's DeerFlow is an open-source research assistant using a multi-agent system that integrates search engines, web crawlers, and Python tools to produce Deep Research-style reports and podcasts.|
+|[Single-Image to 3D Avatars.](https://yc4ny.github.io/SVAD/) |SVAD merges video diffusion with 3D Gaussian Splatting to create high-quality animatable avatars from a single image, enabling real-time rendering. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
