@@ -112,8 +112,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Llama-Nemotron: Efficient Reasoning Models.](https://arxiv.org/abs/2505.00949v2) |NVIDIA’s Llama-Nemotron series—LN-Nano (8B), LN-Super (49B), and LN-Ultra (253B)—introduces powerful, open reasoning models that rival or surpass DeepSeek-R1 while offering better efficiency. Key innovations include a dynamic reasoning toggle for inference-time control and a multi-stage training pipeline combining architecture search, distillation, and RL. LN-Ultra leads on reasoning benchmarks and chat alignment, with open weights, code, and data released to support open research. |
 |[Optimizing GEMM with Thread Block Clusters.](https://research.colfax-intl.com/cutlass-tutorial-gemm-with-thread-block-clusters-on-nvidia-blackwell-gpus/) |Thread block clusters and 2-SM UMMA instructions on Blackwell GPUs enable higher arithmetic intensity and more efficient memory transfers in GEMM workloads using CUTLASS. |
-|[.]() | |
-|[.]() | |
+|[Meta AssetGen 2.0.](https://developers.meta.com/horizon/blog/AssetGen2) | Meta's AssetGen 2.0 introduces updated diffusion-based models for creating detailed 3D meshes and textures from text and image prompts, offering improved consistency, accuracy, and view-aware texture resolution compared to the earlier version.|
+|[Flow-GRPO for RL-Tuned Diffusion Models.](https://github.com/yifan123/flow_grpo) |Flow-GRPO integrates reinforcement learning into flow matching by converting ODEs into SDEs and using denoising reduction to enhance sample efficiency and alignment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
