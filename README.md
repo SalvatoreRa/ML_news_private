@@ -81,7 +81,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Meta taps former Google DeepMind director to lead its AI research lab.](https://techcrunch.com/2025/05/08/meta-taps-former-google-deepmind-director-to-lead-its-ai-research-lab/) | Meta has named Robert Fergus, former research director at DeepMind, as the new head of its FAIR lab following a stretch of leadership shifts and staff exits.|
 |[Microsoft and OpenAI may be renegotiating their partnership.](https://techcrunch.com/2025/05/11/microsoft-and-openai-may-be-renegotiating-their-partnership/) | OpenAI and Microsoft are revisiting their multibillion-dollar partnership in a pivotal deal that may shape OpenAI's future. Microsoft, having invested more than \$13 billion, is proposing to trade part of its equity for extended access to OpenAI's technology beyond their current agreement, which ends in 2030.| 
-|[.]() | |
+|[Deep Research now supports GitHub repo analysis in ChatGPT.](https://x.com/OpenAIDevs/status/1920556386083102844) | ChatGPT's Deep Research agent now supports scanning GitHub repositories, analyzing source code and pull requests to generate detailed, cited reports. Users can directly query repositories via the Deep Research → GitHub integration.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Llama-Nemotron: Efficient Reasoning Models.](https://arxiv.org/abs/2505.00949v2) |NVIDIA’s Llama-Nemotron series—LN-Nano (8B), LN-Super (49B), and LN-Ultra (253B)—introduces powerful, open reasoning models that rival or surpass DeepSeek-R1 while offering better efficiency. Key innovations include a dynamic reasoning toggle for inference-time control and a multi-stage training pipeline combining architecture search, distillation, and RL. LN-Ultra leads on reasoning benchmarks and chat alignment, with open weights, code, and data released to support open research. |
-|[.]() | |
+|[Optimizing GEMM with Thread Block Clusters.](https://research.colfax-intl.com/cutlass-tutorial-gemm-with-thread-block-clusters-on-nvidia-blackwell-gpus/) |Thread block clusters and 2-SM UMMA instructions on Blackwell GPUs enable higher arithmetic intensity and more efficient memory transfers in GEMM workloads using CUTLASS. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
