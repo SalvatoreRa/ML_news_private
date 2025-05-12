@@ -79,8 +79,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
+|[Meta taps former Google DeepMind director to lead its AI research lab.](https://techcrunch.com/2025/05/08/meta-taps-former-google-deepmind-director-to-lead-its-ai-research-lab/) | Meta has named Robert Fergus, former research director at DeepMind, as the new head of its FAIR lab following a stretch of leadership shifts and staff exits.|
+|[Microsoft and OpenAI may be renegotiating their partnership.](https://techcrunch.com/2025/05/11/microsoft-and-openai-may-be-renegotiating-their-partnership/) | OpenAI and Microsoft are revisiting their multibillion-dollar partnership in a pivotal deal that may shape OpenAI's future. Microsoft, having invested more than \$13 billion, is proposing to trade part of its equity for extended access to OpenAI's technology beyond their current agreement, which ends in 2030.| 
 |[.]() | |
 |[.]() | |
 |[.]() | |
