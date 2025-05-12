@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |The Leaderboard Illusion reveals major flaws in the Chatbot Arena ranking system, showing that practices like selective score reporting, extreme data imbalances, silent model removals, and overfitting to Arena-specific dynamics distort LLM comparisons. Through analysis of 2M battles, the paper finds that private testing privileges and data access for proprietary models inflate scores and undermine fairness, making the leaderboard an unreliable measure of real-world model quality. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Llama-Nemotron: Efficient Reasoning Models.](https://arxiv.org/abs/2505.00949v2) |NVIDIA’s Llama-Nemotron series—LN-Nano (8B), LN-Super (49B), and LN-Ultra (253B)—introduces powerful, open reasoning models that rival or surpass DeepSeek-R1 while offering better efficiency. Key innovations include a dynamic reasoning toggle for inference-time control and a multi-stage training pipeline combining architecture search, distillation, and RL. LN-Ultra leads on reasoning benchmarks and chat alignment, with open weights, code, and data released to support open research. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
