@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |The Leaderboard Illusion reveals major flaws in the Chatbot Arena ranking system, showing that practices like selective score reporting, extreme data imbalances, silent model removals, and overfitting to Arena-specific dynamics distort LLM comparisons. Through analysis of 2M battles, the paper finds that private testing privileges and data access for proprietary models inflate scores and undermine fairness, making the leaderboard an unreliable measure of real-world model quality. |
-|[.]() | |
+|[Canadian Pharmacist Exposed as Key Figure Behind World's Largest Explicit Deepfake Site.](https://www.cbc.ca/amp/1.7527626) |Investigative journalists have revealed Toronto-area pharmacist David Do as the key figure behind MrDeepFakes.com, which shut down permanently after the exposure. Since 2018, the site had amassed 650,000 users and over 2 billion views, hosting tens of thousands of non-consensual AI-generated explicit videos of celebrities, influencers, and private individuals. Although such deepfakes are still legal in Canada, Prime Minister Mark Carney has committed to criminalizing them, following examples set by the UK and Australia. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
