@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Flow-GRPO for RL-Tuned Diffusion Models.](https://github.com/yifan123/flow_grpo) |Flow-GRPO integrates reinforcement learning into flow matching by converting ODEs into SDEs and using denoising reduction to enhance sample efficiency and alignment. |
 |[DeerFlow.](https://github.com/bytedance/deer-flow) | Bytedance's DeerFlow is an open-source research assistant using a multi-agent system that integrates search engines, web crawlers, and Python tools to produce Deep Research-style reports and podcasts.|
 |[Single-Image to 3D Avatars.](https://yc4ny.github.io/SVAD/) |SVAD merges video diffusion with 3D Gaussian Splatting to create high-quality animatable avatars from a single image, enabling real-time rendering. |
-|[.]() | |
+|[Amazon's Warehouse Stowing Robot Shows Promise and Limitations.](https://arxiv.org/abs/2505.04572) |Amazon's custom stowing robot performs on par with humans in warehouse tasks, showcasing the cutting edge of robotics. Its specialized hardware and AI vision enable large-scale handling of varied items, but a 14% failure rate illustrates why complete warehouse automation is still out of reach despite major progress. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[For Silicon Valley, AI isn’t just about replacing some jobs. It’s about replacing all of them.](https://www.theguardian.com/commentisfree/2025/may/12/for-silicon-valley-ai-isnt-just-about-replacing-some-jobs-its-about-replacing-all-of-them) |AI will do the thinking, robots will do the doing. What place do humans have in this arrangement – and do tech CEOs care? |
 |[What's the carbon footprint of using ChatGPT?](https://www.sustainabilitybynumbers.com/p/carbon-footprint-chatgpt) |ChatGPT queries use much less energy than previously thought, with new estimates putting typical usage at just 0.3 Wh—ten times lower than earlier figures. Although AI’s total energy use is worth monitoring, individual text-based interactions have a minimal environmental impact, especially when compared to activities like transportation or heating. |
 |[‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect.](https://www.nature.com/articles/d41586-025-01485-2) |Jakub Pachocki, who leads the firm’s development of advanced models, is excited to release an open version to researchers. |
-|[.]() | |
+|[Vision Language Models (Better, Faster, Stronger).](https://huggingface.co/blog/vlms-2025) | Hugging Face has outlined how Vision Language Models have advanced with smaller, more capable architectures, enabling reasoning, video understanding, and multimodal agents.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
