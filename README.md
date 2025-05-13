@@ -49,6 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |The Leaderboard Illusion reveals major flaws in the Chatbot Arena ranking system, showing that practices like selective score reporting, extreme data imbalances, silent model removals, and overfitting to Arena-specific dynamics distort LLM comparisons. Through analysis of 2M battles, the paper finds that private testing privileges and data access for proprietary models inflate scores and undermine fairness, making the leaderboard an unreliable measure of real-world model quality. |
+|[LLMs Get Lost in Multi-Turn Conversation.](https://arxiv.org/abs/2505.06120) | LLMs perform significantly worse in multi-turn conversations, with an average 39% drop in task performance due to unreliability and early, incorrect assumptions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -117,8 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Single-Image to 3D Avatars.](https://yc4ny.github.io/SVAD/) |SVAD merges video diffusion with 3D Gaussian Splatting to create high-quality animatable avatars from a single image, enabling real-time rendering. |
 |[Amazon's Warehouse Stowing Robot Shows Promise and Limitations.](https://arxiv.org/abs/2505.04572) |Amazon's custom stowing robot performs on par with humans in warehouse tasks, showcasing the cutting edge of robotics. Its specialized hardware and AI vision enable large-scale handling of varied items, but a 14% failure rate illustrates why complete warehouse automation is still out of reach despite major progress. |
 |[China built hundreds of AI data centers to catch the AI boom. Now many stand unused.](https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/amp/) |China's rapid expansion of AI infrastructure has resulted in significant overcapacity, with 80% of computing resources in over 500 new data centers remaining idle. The release of DeepSeek's R1 model shifted market demand from training-oriented to inference-optimized hardware, leaving many centers outdated. Despite this correction, China continues to invest heavily in infrastructure to rival U.S. efforts such as the \$500 billion Stargate project. |
-|[.]() | |
-|[.]() | |
+|[OpenAI's HealthBench.](https://openai.com/index/healthbench/) | OpenAI's HealthBench is a benchmark created in collaboration with 262 physicians to assess AI models on realistic medical dialogues.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
