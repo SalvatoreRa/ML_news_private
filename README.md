@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Australia has been hesitant – but could robots soon be delivering your pizza?](https://www.theguardian.com/technology/2025/may/11/australia-has-been-hesitant-but-could-robots-soon-be-delivering-your-pizza) | While there have been concerns over the safety and legal status of the technology, working models from local startups are showing its benefits|
 |[For Silicon Valley, AI isn’t just about replacing some jobs. It’s about replacing all of them.](https://www.theguardian.com/commentisfree/2025/may/12/for-silicon-valley-ai-isnt-just-about-replacing-some-jobs-its-about-replacing-all-of-them) |AI will do the thinking, robots will do the doing. What place do humans have in this arrangement – and do tech CEOs care? |
 |[What's the carbon footprint of using ChatGPT?](https://www.sustainabilitybynumbers.com/p/carbon-footprint-chatgpt) |ChatGPT queries use much less energy than previously thought, with new estimates putting typical usage at just 0.3 Wh—ten times lower than earlier figures. Although AI’s total energy use is worth monitoring, individual text-based interactions have a minimal environmental impact, especially when compared to activities like transportation or heating. |
-|[.]() | |
+|[‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect.](https://www.nature.com/articles/d41586-025-01485-2) |Jakub Pachocki, who leads the firm’s development of advanced models, is excited to release an open version to researchers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
