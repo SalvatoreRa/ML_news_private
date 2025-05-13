@@ -91,7 +91,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI’s Stargate project reportedly struggling to get off the ground, thanks to tariffs.](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/) |OpenAI’s ambitious Stargate data center project is facing delays thanks to tariff-related economic uncertainty, reports Bloomberg. Growing market volatility and cheaper AI services have made banks, private equity investors, and asset managers wary of investing in Stargate, an OpenAI-led project that aims to raise up to $500 billion for AI infrastructure in the U.S. and overseas. |
 |[Google's Fund for AI Startups.](https://blog.google/technology/google-labs/ai-futures-fund/) |Google's AI Futures Fund will invest in startups using DeepMind's AI tools and offer access to models, cloud credits, expert support, and potential direct funding. |
 |[Google to Join AI Coding Assistant Race.](https://www.reuters.com/business/google-is-developing-software-ai-agent-ahead-annual-conference-information-2025-05-12/) |Google is reportedly preparing to launch an AI software development agent at its I/O conference on May 20, designed to support the entire development lifecycle. This positions Google in direct competition with Anthropic's Claude Code, OpenAI's Windsurf, and a growing number of startups in the competitive AI coding arena. Integration with Gemini and AR glasses may also be on the horizon. |
-|[.]() | |
+|[Figma Website Builder.](https://www.figma.com/blog/introducing-figma-sites/) |Figma has introduced Figma Sites, allowing users to design, build, and publish responsive websites directly from Figma, streamlining the design-to-production workflow. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,8 +119,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon's Warehouse Stowing Robot Shows Promise and Limitations.](https://arxiv.org/abs/2505.04572) |Amazon's custom stowing robot performs on par with humans in warehouse tasks, showcasing the cutting edge of robotics. Its specialized hardware and AI vision enable large-scale handling of varied items, but a 14% failure rate illustrates why complete warehouse automation is still out of reach despite major progress. |
 |[China built hundreds of AI data centers to catch the AI boom. Now many stand unused.](https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/amp/) |China's rapid expansion of AI infrastructure has resulted in significant overcapacity, with 80% of computing resources in over 500 new data centers remaining idle. The release of DeepSeek's R1 model shifted market demand from training-oriented to inference-optimized hardware, leaving many centers outdated. Despite this correction, China continues to invest heavily in infrastructure to rival U.S. efforts such as the \$500 billion Stargate project. |
 |[OpenAI's HealthBench.](https://openai.com/index/healthbench/) | OpenAI's HealthBench is a benchmark created in collaboration with 262 physicians to assess AI models on realistic medical dialogues.|
-|[.]() | |
-|[.]() | |
+|[A Generalist Robot Policy Framework.](https://github.com/opendrivelab/univla) | UniVLA enables policy learning from unlabeled video across diverse robot embodiments by inferring task-centric latent actions.|
+|[Bamba-9B-v2.](https://huggingface.co/blog/ibm-ai-platform/bamba-9b-v2) |IBM, Princeton, CMU, and UIUC have introduced Bamba v2, a Mamba2-based model that surpasses Llama 3.1 8B after training on 3 trillion tokens. Utilizing the Mamba2 architecture, Bamba v2 achieves 2 to 2.5 times faster inference and strong results on L1 and L2 benchmarks. The team aims to further optimize the model and encourages community involvement to improve its performance. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[What's the carbon footprint of using ChatGPT?](https://www.sustainabilitybynumbers.com/p/carbon-footprint-chatgpt) |ChatGPT queries use much less energy than previously thought, with new estimates putting typical usage at just 0.3 Wh—ten times lower than earlier figures. Although AI’s total energy use is worth monitoring, individual text-based interactions have a minimal environmental impact, especially when compared to activities like transportation or heating. |
 |[‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect.](https://www.nature.com/articles/d41586-025-01485-2) |Jakub Pachocki, who leads the firm’s development of advanced models, is excited to release an open version to researchers. |
 |[Vision Language Models (Better, Faster, Stronger).](https://huggingface.co/blog/vlms-2025) | Hugging Face has outlined how Vision Language Models have advanced with smaller, more capable architectures, enabling reasoning, video understanding, and multimodal agents.|
-|[.]() | |
+|[Journalists Reveal Nuanced Approaches to AI Integration.](https://www.cjr.org/feature-2/how-were-using-ai-tech-gina-chua-nicholas-thompson-emilia-david-zach-seward-millie-tran.php) |A survey of media professionals from outlets like Reuters, The Washington Post, VentureBeat, and 404 Media reveals that newsrooms are selectively integrating AI—using it for tasks like transcription, data analysis, and translation, but largely avoiding AI-generated content. While Reuters notes that AI now produces roughly 25% of its code, many journalists remain cautious, emphasizing audience trust and journalistic integrity over efficiency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
