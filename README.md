@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI agrees to buy Windsurf for about $3 billion, Bloomberg News reports.](https://www.reuters.com/business/openai-agrees-buy-windsurf-about-3-billion-bloomberg-news-reports-2025-05-06/) | OpenAI has agreed to buy artificial intelligence-assisted coding tool Windsurf for about $3 billion, Bloomberg News reported on Monday, citing people familiar with the matter.|
 |[SoundCloud's Quiet Terms Update.](https://x.com/ednewtonrex/status/1920867088455135723) |SoundCloud has reportedly updated its terms of service to allow AI training on content uploaded by users, raising concerns about transparency and user consent. |
 |[FutureHouse releases AI tools it claims can accelerate science.](https://techcrunch.com/2025/05/01/futurehouse-releases-ai-tools-it-claims-can-accelerate-science/) |FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an “AI scientist” within the next decade, has launched its first major product: a platform and API with AI-powered tools designed to support scientific work. |
-|[.]() | |
+|[House of Lords pushes back against government’s AI plans.](https://www.theguardian.com/technology/2025/may/12/house-of-lords-pushes-back-ai-plans-data-bill) |Peers back amendment to data bill requiring AI companies to reveal which copyrighted material they have used |
 |[.]() | |
 |[.]() | |
 |[.]() | |
