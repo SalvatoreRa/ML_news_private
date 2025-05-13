@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[SoundCloud's Quiet Terms Update.](https://x.com/ednewtonrex/status/1920867088455135723) |SoundCloud has reportedly updated its terms of service to allow AI training on content uploaded by users, raising concerns about transparency and user consent. |
 |[FutureHouse releases AI tools it claims can accelerate science.](https://techcrunch.com/2025/05/01/futurehouse-releases-ai-tools-it-claims-can-accelerate-science/) |FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an “AI scientist” within the next decade, has launched its first major product: a platform and API with AI-powered tools designed to support scientific work. |
 |[House of Lords pushes back against government’s AI plans.](https://www.theguardian.com/technology/2025/may/12/house-of-lords-pushes-back-ai-plans-data-bill) |Peers back amendment to data bill requiring AI companies to reveal which copyrighted material they have used |
-|[.]() | |
-|[.]() | |
+|[OpenAI’s Stargate project reportedly struggling to get off the ground, thanks to tariffs.](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/) |OpenAI’s ambitious Stargate data center project is facing delays thanks to tariff-related economic uncertainty, reports Bloomberg. Growing market volatility and cheaper AI services have made banks, private equity investors, and asset managers wary of investing in Stargate, an OpenAI-led project that aims to raise up to $500 billion for AI infrastructure in the U.S. and overseas. |
+|[Google's Fund for AI Startups.](https://blog.google/technology/google-labs/ai-futures-fund/) |Google's AI Futures Fund will invest in startups using DeepMind's AI tools and offer access to models, cloud credits, expert support, and potential direct funding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
