@@ -92,8 +92,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google's Fund for AI Startups.](https://blog.google/technology/google-labs/ai-futures-fund/) |Google's AI Futures Fund will invest in startups using DeepMind's AI tools and offer access to models, cloud credits, expert support, and potential direct funding. |
 |[Google to Join AI Coding Assistant Race.](https://www.reuters.com/business/google-is-developing-software-ai-agent-ahead-annual-conference-information-2025-05-12/) |Google is reportedly preparing to launch an AI software development agent at its I/O conference on May 20, designed to support the entire development lifecycle. This positions Google in direct competition with Anthropic's Claude Code, OpenAI's Windsurf, and a growing number of startups in the competitive AI coding arena. Integration with Gemini and AR glasses may also be on the horizon. |
 |[Figma Website Builder.](https://www.figma.com/blog/introducing-figma-sites/) |Figma has introduced Figma Sites, allowing users to design, build, and publish responsive websites directly from Figma, streamlining the design-to-production workflow. |
-|[.]() | |
-|[.]() | |
+|[Trump Administration Scraps Biden-Era AI Chip Export Controls.](https://www.axios.com/2025/05/07/ai-rule-trump-biden-nvidia) | The Trump administration has canceled Biden's "AI diffusion rule," which would have restricted American technology exports.|
+|[Manus Expands Free Access.](https://threadreaderapp.com/thread/1921943525261742203.html) |Manus has removed its waitlist, making its virtual desktop AI agent more accessible by allowing all users one free daily task and granting a one-time bonus of 1,000 credits, significantly reducing the entry barrier for this previously hyped automation tool. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,7 +121,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI's HealthBench.](https://openai.com/index/healthbench/) | OpenAI's HealthBench is a benchmark created in collaboration with 262 physicians to assess AI models on realistic medical dialogues.|
 |[A Generalist Robot Policy Framework.](https://github.com/opendrivelab/univla) | UniVLA enables policy learning from unlabeled video across diverse robot embodiments by inferring task-centric latent actions.|
 |[Bamba-9B-v2.](https://huggingface.co/blog/ibm-ai-platform/bamba-9b-v2) |IBM, Princeton, CMU, and UIUC have introduced Bamba v2, a Mamba2-based model that surpasses Llama 3.1 8B after training on 3 trillion tokens. Utilizing the Mamba2 architecture, Bamba v2 achieves 2 to 2.5 times faster inference and strong results on L1 and L2 benchmarks. The team aims to further optimize the model and encourages community involvement to improve its performance. |
-|[.]() | |
+|[Helium 1: a modular and multilingual LLM.](https://kyutai.org/2025/04/30/helium.html) |Helium 1, a 2 billion parameter LLM, excels in European languages and is optimized for on-device use. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
