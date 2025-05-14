@@ -94,7 +94,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Figma Website Builder.](https://www.figma.com/blog/introducing-figma-sites/) |Figma has introduced Figma Sites, allowing users to design, build, and publish responsive websites directly from Figma, streamlining the design-to-production workflow. |
 |[Trump Administration Scraps Biden-Era AI Chip Export Controls.](https://www.axios.com/2025/05/07/ai-rule-trump-biden-nvidia) | The Trump administration has canceled Biden's "AI diffusion rule," which would have restricted American technology exports.|
 |[Manus Expands Free Access.](https://threadreaderapp.com/thread/1921943525261742203.html) |Manus has removed its waitlist, making its virtual desktop AI agent more accessible by allowing all users one free daily task and granting a one-time bonus of 1,000 credits, significantly reducing the entry barrier for this previously hyped automation tool. |
-|[.]() | |
+|[US tech firms secure AI deals as Trump tours Gulf states.](https://www.theguardian.com/technology/2025/may/13/us-tech-ai-trump-gulf-tour) |Nvidia to sell hundreds of thousands of AI chips in Saudi Arabia and Cisco also signs deal with UAE company G42 |
 |[.]() | |
 |[.]() | |
 |[.]() | |
