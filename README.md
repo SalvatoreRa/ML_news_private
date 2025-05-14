@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The Leaderboard Illusion.](https://arxiv.org/abs/2504.20879) |The Leaderboard Illusion reveals major flaws in the Chatbot Arena ranking system, showing that practices like selective score reporting, extreme data imbalances, silent model removals, and overfitting to Arena-specific dynamics distort LLM comparisons. Through analysis of 2M battles, the paper finds that private testing privileges and data access for proprietary models inflate scores and undermine fairness, making the leaderboard an unreliable measure of real-world model quality. |
 |[LLMs Get Lost in Multi-Turn Conversation.](https://arxiv.org/abs/2505.06120) | LLMs perform significantly worse in multi-turn conversations, with an average 39% drop in task performance due to unreliability and early, incorrect assumptions.|
-|[.]() | |
+|[Sakana AI Unveils "Continuous Thought Machine" With Brain-Inspired Neural Timing.](https://sakana.ai/ctm/) | Japanese AI company Sakana has created a new type of model where individual neurons retain memory of past actions and coordinate based on timing patterns. Though it lags behind traditional models in performance, it offers greater transparency into its reasoning process. Like recent models such as o3, its responses improve when given more time to process.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,8 +129,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A Generalist Robot Policy Framework.](https://github.com/opendrivelab/univla) | UniVLA enables policy learning from unlabeled video across diverse robot embodiments by inferring task-centric latent actions.|
 |[Bamba-9B-v2.](https://huggingface.co/blog/ibm-ai-platform/bamba-9b-v2) |IBM, Princeton, CMU, and UIUC have introduced Bamba v2, a Mamba2-based model that surpasses Llama 3.1 8B after training on 3 trillion tokens. Utilizing the Mamba2 architecture, Bamba v2 achieves 2 to 2.5 times faster inference and strong results on L1 and L2 benchmarks. The team aims to further optimize the model and encourages community involvement to improve its performance. |
 |[Helium 1: a modular and multilingual LLM.](https://kyutai.org/2025/04/30/helium.html) |Helium 1, a 2 billion parameter LLM, excels in European languages and is optimized for on-device use. |
-|[.]() | |
-|[.]() | |
+|[Visual Autoregression Without Quantization.](https://github.com/shaochenze/ear) |EAR presents a continuous visual autoregressive generation approach that eliminates the need for quantization by using strictly proper scoring rules, such as the energy score. This allows for direct generation in continuous data spaces without relying on probabilistic models. |
+|[Unified Training and Sampling for Generative Models.](https://github.com/LINs-Lab/UCGM) | UCGM provides a shared framework for training and sampling across multi-step and few-step continuous generative models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
