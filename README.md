@@ -101,9 +101,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tencent hires WizardLM team, a Microsoft AI group with an odd history.](https://techcrunch.com/2025/05/13/tencent-hires-wizardlm-team-a-microsoft-ai-group-with-an-odd-history/) | WizardLM, a Beijing-based Microsoft AI research group, appears to have joined Tencent, the Chinese company that owns WeChat and blockbuster games like PUBG Mobile.|
 |[Duolingo's Push to Be an AI-First Company.](https://threadreaderapp.com/thread/1917034784355979479.html) |Duolingo has declared a major transition to an AI-first company, embedding AI tools throughout its products and operations. Its new principles include initiating every task with AI, setting aside time for learning, encouraging thoughtful experimentation, and maintaining technical excellence. Leadership stressed that AI is meant to boost efficiency, not increase workload. |
 |[LlamaCon Hackathon Winners.](https://ai.meta.com/blog/llamacon-hackathon/) | Meta's inaugural LlamaCon Hackathon featured 238 participants developing projects with the Llama 4 toolset. From 44 submissions, winners were chosen for their innovation and technical execution and have now been announced.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Microsoft is getting ready to host Elon Musk’s Grok AI model.](https://www.theverge.com/notepad-microsoft-newsletter/659535/microsoft-elon-musk-grok-ai-azure-ai-foundry-notepad) | Microsoft plans to host Elon Musk's Grok AI on Azure AI Foundry despite potential tensions with OpenAI.|
+|[Ai2’s new small AI model outperforms similarly-sized models from Google, Meta.](https://techcrunch.com/2025/05/01/ai2s-new-small-ai-model-outperforms-similarly-sized-models-from-google-meta/) | Nonprofit AI research institute Ai2 on Thursday released Olmo 2 1B, a 1-billion-parameter model that Ai2 claims beats similarly-sized models from Google, Meta and Alibaba on several benchmarks|
+|[Over 250 CEOs sign open letter supporting K-12 AI and computer science education.](https://techcrunch.com/2025/05/05/over-250-ceos-sign-open-letter-supporting-k-12-ai-and-computer-science-education/) | More than 250 CEOs signed an open letter published in The New York Times on Monday calling for AI and computer science to be “core components” of K-12 curricula.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
