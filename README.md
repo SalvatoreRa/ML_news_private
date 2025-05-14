@@ -96,9 +96,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Manus Expands Free Access.](https://threadreaderapp.com/thread/1921943525261742203.html) |Manus has removed its waitlist, making its virtual desktop AI agent more accessible by allowing all users one free daily task and granting a one-time bonus of 1,000 credits, significantly reducing the entry barrier for this previously hyped automation tool. |
 |[US tech firms secure AI deals as Trump tours Gulf states.](https://www.theguardian.com/technology/2025/may/13/us-tech-ai-trump-gulf-tour) |Nvidia to sell hundreds of thousands of AI chips in Saudi Arabia and Cisco also signs deal with UAE company G42 |
 |[ChatGPT may be polite, but it’s not cooperating with you.](https://www.theguardian.com/technology/ng-interactive/2025/may/13/chatgpt-ai-big-tech-cooperation) |Big tech companies have exploited human language for AI gain. Now they want us to see their products as trustworthy collaborators |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[TikTok AI Alive.](https://newsroom.tiktok.com/en-us/introducing-tiktok-ai-alive) |TikTok has introduced AI Alive, a feature that brings static images in Stories to life by using smart editing tools to transform photos into short-form videos with dynamic effects. |
+|[Audible is expanding its AI-narrated audiobook library.](https://techcrunch.com/2025/05/13/audible-is-expanding-its-ai-narrated-audiobook-library/) | Audible, Amazon’s audiobook service, announced on Tuesday that it’s partnering with select publishers to convert print and e-books into AI-narrated audiobooks. This initiative aims to quickly expand its catalog as it competes with Apple, Spotify, and others in the rapidly growing audiobook market.|
+|[Tencent hires WizardLM team, a Microsoft AI group with an odd history.](https://techcrunch.com/2025/05/13/tencent-hires-wizardlm-team-a-microsoft-ai-group-with-an-odd-history/) | WizardLM, a Beijing-based Microsoft AI research group, appears to have joined Tencent, the Chinese company that owns WeChat and blockbuster games like PUBG Mobile.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
