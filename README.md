@@ -99,6 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TikTok AI Alive.](https://newsroom.tiktok.com/en-us/introducing-tiktok-ai-alive) |TikTok has introduced AI Alive, a feature that brings static images in Stories to life by using smart editing tools to transform photos into short-form videos with dynamic effects. |
 |[Audible is expanding its AI-narrated audiobook library.](https://techcrunch.com/2025/05/13/audible-is-expanding-its-ai-narrated-audiobook-library/) | Audible, Amazon’s audiobook service, announced on Tuesday that it’s partnering with select publishers to convert print and e-books into AI-narrated audiobooks. This initiative aims to quickly expand its catalog as it competes with Apple, Spotify, and others in the rapidly growing audiobook market.|
 |[Tencent hires WizardLM team, a Microsoft AI group with an odd history.](https://techcrunch.com/2025/05/13/tencent-hires-wizardlm-team-a-microsoft-ai-group-with-an-odd-history/) | WizardLM, a Beijing-based Microsoft AI research group, appears to have joined Tencent, the Chinese company that owns WeChat and blockbuster games like PUBG Mobile.|
+|[Duolingo's Push to Be an AI-First Company.](https://threadreaderapp.com/thread/1917034784355979479.html) |Duolingo has declared a major transition to an AI-first company, embedding AI tools throughout its products and operations. Its new principles include initiating every task with AI, setting aside time for learning, encouraging thoughtful experimentation, and maintaining technical excellence. Leadership stressed that AI is meant to boost efficiency, not increase workload. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,6 +107,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Resources
 |Link|description|
