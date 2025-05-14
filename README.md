@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Audible is expanding its AI-narrated audiobook library.](https://techcrunch.com/2025/05/13/audible-is-expanding-its-ai-narrated-audiobook-library/) | Audible, Amazon’s audiobook service, announced on Tuesday that it’s partnering with select publishers to convert print and e-books into AI-narrated audiobooks. This initiative aims to quickly expand its catalog as it competes with Apple, Spotify, and others in the rapidly growing audiobook market.|
 |[Tencent hires WizardLM team, a Microsoft AI group with an odd history.](https://techcrunch.com/2025/05/13/tencent-hires-wizardlm-team-a-microsoft-ai-group-with-an-odd-history/) | WizardLM, a Beijing-based Microsoft AI research group, appears to have joined Tencent, the Chinese company that owns WeChat and blockbuster games like PUBG Mobile.|
 |[Duolingo's Push to Be an AI-First Company.](https://threadreaderapp.com/thread/1917034784355979479.html) |Duolingo has declared a major transition to an AI-first company, embedding AI tools throughout its products and operations. Its new principles include initiating every task with AI, setting aside time for learning, encouraging thoughtful experimentation, and maintaining technical excellence. Leadership stressed that AI is meant to boost efficiency, not increase workload. |
-|[.]() | |
+|[LlamaCon Hackathon Winners.](https://ai.meta.com/blog/llamacon-hackathon/) | Meta's inaugural LlamaCon Hackathon featured 238 participants developing projects with the Llama 4 toolset. From 44 submissions, winners were chosen for their innovation and technical execution and have now been announced.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -131,7 +131,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Helium 1: a modular and multilingual LLM.](https://kyutai.org/2025/04/30/helium.html) |Helium 1, a 2 billion parameter LLM, excels in European languages and is optimized for on-device use. |
 |[Visual Autoregression Without Quantization.](https://github.com/shaochenze/ear) |EAR presents a continuous visual autoregressive generation approach that eliminates the need for quantization by using strictly proper scoring rules, such as the energy score. This allows for direct generation in continuous data spaces without relying on probabilistic models. |
 |[Unified Training and Sampling for Generative Models.](https://github.com/LINs-Lab/UCGM) | UCGM provides a shared framework for training and sampling across multi-step and few-step continuous generative models.|
-|[.]() | |
+|[Hugging Face Fast Transcription Endpoint.](https://huggingface.co/blog/fast-whisper-endpoints) |Hugging Face has launched a new Whisper endpoint offering up to 8x faster transcription. It allows one-click deployment of optimized, cost-efficient models for speech-related tasks via its Inference Endpoints. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
