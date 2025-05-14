@@ -95,7 +95,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trump Administration Scraps Biden-Era AI Chip Export Controls.](https://www.axios.com/2025/05/07/ai-rule-trump-biden-nvidia) | The Trump administration has canceled Biden's "AI diffusion rule," which would have restricted American technology exports.|
 |[Manus Expands Free Access.](https://threadreaderapp.com/thread/1921943525261742203.html) |Manus has removed its waitlist, making its virtual desktop AI agent more accessible by allowing all users one free daily task and granting a one-time bonus of 1,000 credits, significantly reducing the entry barrier for this previously hyped automation tool. |
 |[US tech firms secure AI deals as Trump tours Gulf states.](https://www.theguardian.com/technology/2025/may/13/us-tech-ai-trump-gulf-tour) |Nvidia to sell hundreds of thousands of AI chips in Saudi Arabia and Cisco also signs deal with UAE company G42 |
-|[.]() | |
+|[ChatGPT may be polite, but it’s not cooperating with you.](https://www.theguardian.com/technology/ng-interactive/2025/may/13/chatgpt-ai-big-tech-cooperation) |Big tech companies have exploited human language for AI gain. Now they want us to see their products as trustworthy collaborators |
 |[.]() | |
 |[.]() | |
 |[.]() | |
