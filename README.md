@@ -104,6 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft is getting ready to host Elon Musk’s Grok AI model.](https://www.theverge.com/notepad-microsoft-newsletter/659535/microsoft-elon-musk-grok-ai-azure-ai-foundry-notepad) | Microsoft plans to host Elon Musk's Grok AI on Azure AI Foundry despite potential tensions with OpenAI.|
 |[Ai2’s new small AI model outperforms similarly-sized models from Google, Meta.](https://techcrunch.com/2025/05/01/ai2s-new-small-ai-model-outperforms-similarly-sized-models-from-google-meta/) | Nonprofit AI research institute Ai2 on Thursday released Olmo 2 1B, a 1-billion-parameter model that Ai2 claims beats similarly-sized models from Google, Meta and Alibaba on several benchmarks|
 |[Over 250 CEOs sign open letter supporting K-12 AI and computer science education.](https://techcrunch.com/2025/05/05/over-250-ceos-sign-open-letter-supporting-k-12-ai-and-computer-science-education/) | More than 250 CEOs signed an open letter published in The New York Times on Monday calling for AI and computer science to be “core components” of K-12 curricula.|
+|[Musk’s AI Grok bot rants about ‘white genocide’ in South Africa in unrelated chats.](https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide) |X chatbot tells users it was ‘instructed by my creators’ to accept ‘white genocide as real and racially motivated’ |
+|[Ministers block Lords bid to make AI firms declare use of copyrighted content.](https://www.theguardian.com/technology/2025/may/14/uk-ministers-to-block-amendment-requiring-ai-firms-to-declare-use-of-copyrighted-content) |Government uses arcane procedure to strip amendment passed by House of Lords from its data bill |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -112,7 +114,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
