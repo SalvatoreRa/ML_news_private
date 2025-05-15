@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Musk’s AI Grok bot rants about ‘white genocide’ in South Africa in unrelated chats.](https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide) |X chatbot tells users it was ‘instructed by my creators’ to accept ‘white genocide as real and racially motivated’ |
 |[Ministers block Lords bid to make AI firms declare use of copyrighted content.](https://www.theguardian.com/technology/2025/may/14/uk-ministers-to-block-amendment-requiring-ai-firms-to-declare-use-of-copyrighted-content) |Government uses arcane procedure to strip amendment passed by House of Lords from its data bill |
 |[Labour’s open door to big tech leaves critics crying foul.](https://www.theguardian.com/technology/2025/may/14/labours-open-door-to-big-tech-leaves-critics-crying-foul) |Promises of tech-driven growth give big US firms access to Downing Street that leaves rivals in the cold |
-|[.]() | |
+|[AI scientist ‘team’ joins the search for extraterrestrial life.](https://www.nature.com/articles/d41586-025-01364-w) |The collaborative system generated more than 100 hypotheses relating to the origins of life in the Universe.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
