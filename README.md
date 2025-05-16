@@ -52,8 +52,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLMs Get Lost in Multi-Turn Conversation.](https://arxiv.org/abs/2505.06120) | LLMs perform significantly worse in multi-turn conversations, with an average 39% drop in task performance due to unreliability and early, incorrect assumptions.|
 |[Sakana AI Unveils "Continuous Thought Machine" With Brain-Inspired Neural Timing.](https://sakana.ai/ctm/) | Japanese AI company Sakana has created a new type of model where individual neurons retain memory of past actions and coordinate based on timing patterns. Though it lags behind traditional models in performance, it offers greater transparency into its reasoning process. Like recent models such as o3, its responses improve when given more time to process.|
 |[DeepMind unveils ‘spectacular’ general-purpose science AI.](https://www.nature.com/articles/d41586-025-01523-z) |System improves chip designs and tackles unsolved maths problems, but has not been rolled out to researchers outside the company. |
-|[.]() | |
-|[.]() | |
+|[TikTok breached EU advertising transparency laws, commission says.](https://www.theguardian.com/technology/2025/may/15/tiktok-breached-eu-advertising-transparency-laws-commission-says) | Company could face fine of 6% of annual turnover if European Commission’s preliminary verdict is upheld|
+|[Trump says he has a ‘little problem’ with Tim Cook over Apple’s India production.](https://www.theguardian.com/technology/2025/may/15/trump-little-problem-tim-cook-apple-india-production-iphones) | President rebukes tech firm after reports it will switch assembly of iPhones for US market from China to India|
 |[.]() | |
 |[.]() | |
 |[.]() | |
