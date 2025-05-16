@@ -108,8 +108,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ministers block Lords bid to make AI firms declare use of copyrighted content.](https://www.theguardian.com/technology/2025/may/14/uk-ministers-to-block-amendment-requiring-ai-firms-to-declare-use-of-copyrighted-content) |Government uses arcane procedure to strip amendment passed by House of Lords from its data bill |
 |[Labour’s open door to big tech leaves critics crying foul.](https://www.theguardian.com/technology/2025/may/14/labours-open-door-to-big-tech-leaves-critics-crying-foul) |Promises of tech-driven growth give big US firms access to Downing Street that leaves rivals in the cold |
 |[AI scientist ‘team’ joins the search for extraterrestrial life.](https://www.nature.com/articles/d41586-025-01364-w) |The collaborative system generated more than 100 hypotheses relating to the origins of life in the Universe.|
-|[.]() | |
-|[.]() | |
+|[Largest US crypto exchange says cost of recent cyber-attack could reach $400m.](https://www.theguardian.com/us-news/2025/may/15/coinbase-cyber-attack-crytocurrency) | Hackers paid overseas Coinbase employees for account data; company is offering $20m reward for information|
+|[Trump agrees deal for UAE to build largest AI campus outside US.](https://www.theguardian.com/us-news/2025/may/15/trump-artificial-intelligence-uae) |Agreement that would give Gulf country better access to advanced AI chips raises concerns over Chinese influence |
 |[.]() | |
 |[.]() | |
 |[.]() | |
