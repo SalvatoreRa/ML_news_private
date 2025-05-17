@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI conjures up potential new antibody drugs in a matter of months.](https://www.science.org/content/article/ai-conjures-potential-new-antibody-drugs-matter-months) |Company finds candidates that bind to tricky proteins that deliver chemical messages in and out of cells |
 |[Klarna's AI Retrenchment and Broader AI App Risk.](https://x.com/chamath/status/1922096736308490416) |Klarna’s retreat from aggressive AI investment highlights broader industry challenges with AI's unpredictable behavior in real-world use. As a result, many AI applications may have to pivot toward narrow, deterministic use cases, revealing inflated valuations that obscure their true nature as standard SaaS products. Continuous AI system validation is emerging as a crucial next discipline. |
 |[Google Deploys Gemini Nano on Device to Power New Scam Defenses.](https://blog.google/technology/safety-security/how-were-using-ai-to-combat-the-latest-scams/) | Google has integrated Gemini Nano, its on-device language model, into Chrome's Enhanced Protection mode to detect previously unknown scams in real time across Search, Android, and Chrome.|
-|[.]() | |
+|[AWS Announce $5+ Billion AI Partnership in New Saudi Arabian AI Company.](https://press.aboutamazon.com/2025/5/aws-and-humain-announce-groundbreaking-ai-zone-to-accelerate-ai-adoption-in-saudi-arabia-and-globally) |AWS and HUMAIN, a new AI firm founded by Crown Prince Mohammed bin Salman, are investing over \$5 billion to establish an "AI Zone" in Saudi Arabia equipped with cutting-edge AWS AI infrastructure. HUMAIN has also secured AI partnerships with Cisco, AMD, Oracle, and NVIDIA. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,8 +144,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Unified Training and Sampling for Generative Models.](https://github.com/LINs-Lab/UCGM) | UCGM provides a shared framework for training and sampling across multi-step and few-step continuous generative models.|
 |[Hugging Face Fast Transcription Endpoint.](https://huggingface.co/blog/fast-whisper-endpoints) |Hugging Face has launched a new Whisper endpoint offering up to 8x faster transcription. It allows one-click deployment of optimized, cost-efficient models for speech-related tasks via its Inference Endpoints. |
 |[Stability AI Text-to-Audio Model.](https://stability.ai/news/stability-ai-and-arm-release-stable-audio-open-small-enabling-real-world-deployment-for-on-device-audio-control) |Stability AI has open-sourced Stable Audio Open Small, a 341M parameter text-to-audio model optimized for Arm CPUs. It can produce 11-second audio clips on smartphones in under 8 seconds. |
-|[.]() | |
-|[.]() | |
+|[Building Agents for Daily News Recaps with MCP, Q, and tmux.](https://eugeneyan.com/writing/news-agents/) |A Principal Applied Scientist at Amazon developed a smart news aggregation system using Amazon Q CLI and Model Control Protocol (MCP). It processes multiple news feeds at once through coordinated AI agents, generating outputs like category distributions and cross-source trend analysis to reveal patterns across various publications.|
+|[Void: Open-Source AI Code Editor.](https://github.com/voideditor/void) |Void, a VS Code fork, enables direct connections to AI models without sending data through third-party servers. It includes features like autocomplete, Agent Mode for full file and terminal interaction, Gather Mode for read-only operations, and checkpoints to track AI-suggested changes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
