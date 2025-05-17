@@ -122,9 +122,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google AI-Powered Accessibility Features.](https://blog.google/outreach-initiatives/accessibility/android-gemini-ai-gaad-2025/) |Google has introduced Gemini-based updates to Android and Chrome that enhance screen reading, speech recognition, and image understanding. |
 |[Nous Research's Psyche Network Taps Idle GPUs for AI Training.](https://nousresearch.com/nous-psyche/) |Psyche is a distributed training system on Solana that enables individuals with compatible hardware to contribute their GPUs for AI model training. Its first project, "Consilience," aims to build a 40B parameter model trained on 20T tokens, marking the largest community-driven AI training initiative to date. |
 |[FBI warns of ongoing scam that uses deepfake audio to impersonate government officials.](https://arstechnica.com/security/2025/05/fbi-warns-of-ongoing-scam-that-uses-deepfake-audio-to-impersonate-government-officials/) |The FBI has issued a warning about advanced scammers using AI-generated voice deepfakes to impersonate senior U.S. officials in schemes targeting government contacts. This alert comes after several high-profile incidents, including a LastPass breach involving a CEO deepfake and a political robocall last year that mimicked President Biden. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Y Combinator Hosts First-Ever AI Startup School.](https://events.ycombinator.com/ai-sus) | The startup incubator is hosting an invite-only event on June 16-17th in San Francisco for 2,500 CS students and recent graduates.|
+|[TikTok Expands Mental Health Support.](https://newsroom.tiktok.com/en-us/tiktok-expanding-mental-health-education-fund-and-wellbeing-features) | TikTok has launched in-app meditation exercises and expanded its Mental Health Education Fund to promote accessible, reliable mental health information for users worldwide.|
+|[HeyGen launches Avatar IV, its most advanced AI avatar model yet.](https://threadreaderapp.com/thread/1919765489775231401.html) | HeyGen's Avatar IV is a neural audio-to-expression engine that interprets vocal tone, rhythm, and emotion to drive photoreal facial motion from a single image.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
