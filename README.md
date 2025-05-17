@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Largest US crypto exchange says cost of recent cyber-attack could reach $400m.](https://www.theguardian.com/us-news/2025/may/15/coinbase-cyber-attack-crytocurrency) | Hackers paid overseas Coinbase employees for account data; company is offering $20m reward for information|
 |[Trump agrees deal for UAE to build largest AI campus outside US.](https://www.theguardian.com/us-news/2025/may/15/trump-artificial-intelligence-uae) |Agreement that would give Gulf country better access to advanced AI chips raises concerns over Chinese influence |
 |[AI conjures up potential new antibody drugs in a matter of months.](https://www.science.org/content/article/ai-conjures-potential-new-antibody-drugs-matter-months) |Company finds candidates that bind to tricky proteins that deliver chemical messages in and out of cells |
-|[.]() | |
+|[Klarna's AI Retrenchment and Broader AI App Risk.](https://x.com/chamath/status/1922096736308490416) |Klarna’s retreat from aggressive AI investment highlights broader industry challenges with AI's unpredictable behavior in real-world use. As a result, many AI applications may have to pivot toward narrow, deterministic use cases, revealing inflated valuations that obscure their true nature as standard SaaS products. Continuous AI system validation is emerging as a crucial next discipline. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -168,7 +168,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT is used for scientific research in countries where it's prohibited.](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00368/128867/Where-there-s-a-will-there-s-a-way-ChatGPT-is-used) | Researchers used a classifier to spot unique AI word choices—such as "delve"—in academic papers and found higher ChatGPT usage in countries where it's banned by OpenAI. By August 2023, 22% of Chinese preprints contained AI-generated content, compared to 11% in countries with legal access, indicating restrictions are easily bypassed. While ChatGPT use was linked to more views and downloads, it had no effect on citations or journal acceptance. |
 |[Conversational Interfaces: the Good, the Ugly & the Billion-Dollar Opportunity.](https://lg.substack.com/p/conversational-interfaces-the-good) | Chat interfaces offer an easy entry point to LLMs for new users, but they're ultimately a design limitation that makes users adjust to the model instead of the other way around. Future assistants will feature more adaptive interfaces and proactively convey what they can do.|
 |[Is it OK for AI to write science papers? Nature survey shows researchers are split.](https://www.nature.com/articles/d41586-025-01463-8) | Poll of 5,000 researchers finds contrasting views on when it’s acceptable to involve AI and what needs to be disclosed.|
-|[.]() | |
+|[AI's Second-Order Effects.](https://www.linkedin.com/pulse/ais-second-order-effects-andrew-tan-fvoxc/) |Founders should consider AI's second-order impacts, such as shifts in workforce roles and regulatory demands, to drive sustainable growth. While first-order applications are becoming commoditized and competitive, real opportunities exist in addressing broader societal and economic changes spurred by AI. Building AI-native media and infrastructure can help tap into the transformative ways people respond to these disruptions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
