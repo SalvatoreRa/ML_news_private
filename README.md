@@ -115,6 +115,18 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google Deploys Gemini Nano on Device to Power New Scam Defenses.](https://blog.google/technology/safety-security/how-were-using-ai-to-combat-the-latest-scams/) | Google has integrated Gemini Nano, its on-device language model, into Chrome's Enhanced Protection mode to detect previously unknown scams in real time across Search, Android, and Chrome.|
 |[AWS Announce $5+ Billion AI Partnership in New Saudi Arabian AI Company.](https://press.aboutamazon.com/2025/5/aws-and-humain-announce-groundbreaking-ai-zone-to-accelerate-ai-adoption-in-saudi-arabia-and-globally) |AWS and HUMAIN, a new AI firm founded by Crown Prince Mohammed bin Salman, are investing over \$5 billion to establish an "AI Zone" in Saudi Arabia equipped with cutting-edge AWS AI infrastructure. HUMAIN has also secured AI partnerships with Cisco, AMD, Oracle, and NVIDIA. |
 |[CEO Satya Nadella says up to 30% of Microsoft's code is now written by AI.](https://www.techspot.com/news/107749-ceo-satya-nadella-up-30-microsoft-code-now.html) |The growing role of AI in software engineering has sparked concerns about the future of programming jobs, but human expertise remains vital. At LlamaCon, the CEOs of Microsoft and Meta emphasized that AI now generates a large share of their companies' code. While AI is effective at handling repetitive tasks, human oversight is still essential for managing complex projects and improving AI-produced code. |
+|[Perplexity Selects PayPal to Power Agentic Commerce.](https://newsroom.paypal-corp.com/2025-05-14-Perplexity-Selects-PayPal-to-Power-Agentic-Commerce) |Following OpenAI's Shopify integration, Perplexity has partnered with PayPal to enable seamless purchasing directly within its AI search results. |
+|[Grok really wanted people to know that claims of white genocide in South Africa are highly contentious.](https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims) | Grok kept bringing it up in response to seemingly unrelated posts.|
+|[GPT-4.1.](https://x.com/OpenAI/status/1922707554745909391) | OpenAI has released GPT-4.1 in ChatGPT - it is accessible via the “more models” dropdown for Plus, Pro, and Team users.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
