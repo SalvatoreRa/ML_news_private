@@ -118,7 +118,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Perplexity Selects PayPal to Power Agentic Commerce.](https://newsroom.paypal-corp.com/2025-05-14-Perplexity-Selects-PayPal-to-Power-Agentic-Commerce) |Following OpenAI's Shopify integration, Perplexity has partnered with PayPal to enable seamless purchasing directly within its AI search results. |
 |[Grok really wanted people to know that claims of white genocide in South Africa are highly contentious.](https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims) | Grok kept bringing it up in response to seemingly unrelated posts.|
 |[GPT-4.1.](https://x.com/OpenAI/status/1922707554745909391) | OpenAI has released GPT-4.1 in ChatGPT - it is accessible via the “more models” dropdown for Plus, Pro, and Team users.|
-|[.]() | |
+|[Windsurf releases suite of in-house coding models.](https://windsurf.com/blog/windsurf-wave-9-swe-1) |After its acquisition by OpenAI, Windsurf has introduced a new family of models: the flagship SWE-1, comparable to Claude Sonnet 3.5; the unlimited-use SWE-1-lite; and the compact SWE-1-mini. Trained on incomplete code states and various work surfaces, these specialized models reflect a strategic move toward surpassing general-purpose frontier models over time. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -158,7 +158,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Stability AI Text-to-Audio Model.](https://stability.ai/news/stability-ai-and-arm-release-stable-audio-open-small-enabling-real-world-deployment-for-on-device-audio-control) |Stability AI has open-sourced Stable Audio Open Small, a 341M parameter text-to-audio model optimized for Arm CPUs. It can produce 11-second audio clips on smartphones in under 8 seconds. |
 |[Building Agents for Daily News Recaps with MCP, Q, and tmux.](https://eugeneyan.com/writing/news-agents/) |A Principal Applied Scientist at Amazon developed a smart news aggregation system using Amazon Q CLI and Model Control Protocol (MCP). It processes multiple news feeds at once through coordinated AI agents, generating outputs like category distributions and cross-source trend analysis to reveal patterns across various publications.|
 |[Void: Open-Source AI Code Editor.](https://github.com/voideditor/void) |Void, a VS Code fork, enables direct connections to AI models without sending data through third-party servers. It includes features like autocomplete, Agent Mode for full file and terminal interaction, Gather Mode for read-only operations, and checkpoints to track AI-suggested changes. |
-|[.]() | |
+|[Meta's New Artifacts.](https://ai.meta.com/blog/meta-fair-science-new-open-source-releases/) |Meta's FAIR team has released datasets and models supporting molecular property prediction, diffusion modeling, and language learning neuroscience. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
