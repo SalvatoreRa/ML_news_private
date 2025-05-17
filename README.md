@@ -119,7 +119,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok really wanted people to know that claims of white genocide in South Africa are highly contentious.](https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims) | Grok kept bringing it up in response to seemingly unrelated posts.|
 |[GPT-4.1.](https://x.com/OpenAI/status/1922707554745909391) | OpenAI has released GPT-4.1 in ChatGPT - it is accessible via the “more models” dropdown for Plus, Pro, and Team users.|
 |[Windsurf releases suite of in-house coding models.](https://windsurf.com/blog/windsurf-wave-9-swe-1) |After its acquisition by OpenAI, Windsurf has introduced a new family of models: the flagship SWE-1, comparable to Claude Sonnet 3.5; the unlimited-use SWE-1-lite; and the compact SWE-1-mini. Trained on incomplete code states and various work surfaces, these specialized models reflect a strategic move toward surpassing general-purpose frontier models over time. |
-|[.]() | |
+|[Google AI-Powered Accessibility Features.](https://blog.google/outreach-initiatives/accessibility/android-gemini-ai-gaad-2025/) |Google has introduced Gemini-based updates to Android and Chrome that enhance screen reading, speech recognition, and image understanding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -182,7 +182,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Is it OK for AI to write science papers? Nature survey shows researchers are split.](https://www.nature.com/articles/d41586-025-01463-8) | Poll of 5,000 researchers finds contrasting views on when it’s acceptable to involve AI and what needs to be disclosed.|
 |[AI's Second-Order Effects.](https://www.linkedin.com/pulse/ais-second-order-effects-andrew-tan-fvoxc/) |Founders should consider AI's second-order impacts, such as shifts in workforce roles and regulatory demands, to drive sustainable growth. While first-order applications are becoming commoditized and competitive, real opportunities exist in addressing broader societal and economic changes spurred by AI. Building AI-native media and infrastructure can help tap into the transformative ways people respond to these disruptions. |
 |[MCP is a powerful new AI coding technology: Understand the risks.](https://www.reversinglabs.com/blog/mcp-powerful-ai-coding-risk) | Model Context Protocol (MCP), developed by Anthropic AI to link LLMs with tools and data, currently lacks built-in security features, raising serious concerns. Experts have highlighted risks such as prompt injections and tool tampering. Without stronger safeguards, developers and organizations should use MCP cautiously, emphasize robust security practices, and keep up with its evolving standards.|
-|[.]() | |
+|[OpenAI Engineers Reveal How ChatGPT Images Handled 100M New Users in One Week.](https://newsletter.pragmaticengineer.com/p/chatgpt-images) |OpenAI engineers shared how they handled the March launch of ChatGPT Images, which drew 100 million new users and 700 million images in its first week, with peak demand hitting 1 million new signups per hour during a viral surge in India. When their synchronous image generation system buckled under the pressure, the team rapidly rebuilt it into an asynchronous architecture during the launch. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
