@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI scientist ‘team’ joins the search for extraterrestrial life.](https://www.nature.com/articles/d41586-025-01364-w) |The collaborative system generated more than 100 hypotheses relating to the origins of life in the Universe.|
 |[Largest US crypto exchange says cost of recent cyber-attack could reach $400m.](https://www.theguardian.com/us-news/2025/may/15/coinbase-cyber-attack-crytocurrency) | Hackers paid overseas Coinbase employees for account data; company is offering $20m reward for information|
 |[Trump agrees deal for UAE to build largest AI campus outside US.](https://www.theguardian.com/us-news/2025/may/15/trump-artificial-intelligence-uae) |Agreement that would give Gulf country better access to advanced AI chips raises concerns over Chinese influence |
-|[.]() | |
+|[AI conjures up potential new antibody drugs in a matter of months.](https://www.science.org/content/article/ai-conjures-potential-new-antibody-drugs-matter-months) |Company finds candidates that bind to tricky proteins that deliver chemical messages in and out of cells |
 |[.]() | |
 |[.]() | |
 |[.]() | |
