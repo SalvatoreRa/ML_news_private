@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ShieldGemma 2.](https://huggingface.co/google/shieldgemma-2-4b-it) |ShieldGemma 2, based on Gemma 3, is DeepMind's open-source content moderation model with 4 billion parameters, created to serve as an input filter for vision-language models or an output filter for image generation tools. |
 |[Fine-Tuning Qwen2.5B for Reasoning.](https://github.com/EsmaeilNarimissa/aws-sft-grpo-budget-llm-finetune) |This repository fine-tunes the Qwen2.5B model for reasoning tasks using a cost-effective SFT + GRPO pipeline inspired by DeepSeek R1 and optimized for AWS. |
 |[Microsoft and Hugging Face expand collaboration to make open models easy to use on Azure.](https://huggingface.co/blog/azure-ai-foundry) | Microsoft and Hugging Face expanded their partnership to integrate over 10,000 Hugging Face models into Azure AI Foundry.|
-|[.]() | |
+|[Poe Report Shows Rapid Shifts in AI Model Market Share.](https://poe.com/it/blog/spring-2025-ai-model-usage-trends) |A report from Quora's Poe platform shows major changes in AI model usage between January and May 2025. OpenAI’s GPT-4.1 and Google’s Gemini 2.5 Pro saw rapid growth, while usage of Anthropic’s Claude models dropped. GPT-4.1 leads in general text, Gemini 2.5 Pro tops reasoning, Google's Imagen3 dominates image generation, and video creation remains competitive, with Runway in the lead. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
