@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Large Language Models Are More Persuasive Than Incentivized Human Persuaders.](https://arxiv.org/abs/2505.09662) |Claude 3.5 Sonnet outperformed human persuaders in a controlled study, achieving a 7.6% higher success rate in influencing participants' quiz responses. It was more effective at steering users toward both correct answers (+12.2%) and incorrect ones (-15.1%). |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google unveils ‘AI Mode’ in the next phase of its journey to change search.](https://www.theguardian.com/technology/2025/may/20/google-ai-mode-search-engine-developers-conference) | Search engine revamp and Gemini 2.5 introduced at conference in latest showing tech giant is all in on AI |
 |[Trump Opens AI Chip Floodgates to Middle East After Reversing Biden-Era Restrictions.](https://www.axios.com/2025/05/18/trump-gulf-ai-deals-saudi-uae-security-china-risk) | President Trump's Middle East visit has resulted in major AI deals, including Nvidia sending 18,000 Blackwell chips to Saudi Arabia and plans for the largest non-U.S. AI data center in Abu Dhabi. Critics caution that these partnerships may allow China to gain access to restricted U.S. AI technology via its strong economic links with Gulf nations, leading to new bipartisan legislation aimed at blocking such transfers.|
 |[Introducing Codex.](https://openai.com/index/introducing-codex/) |OpenAI has launched Codex, an autonomous coding agent that develops features, fixes bugs, and submits pull requests within isolated cloud environments. Companies such as Cisco and Temporal are already using it to manage entire codebases, allowing their engineers to concentrate on higher-level tasks. Codex can handle multiple tasks at once, run tests, and includes detailed citations for all its code changes. |
-|[.]() | |
+|[Anthropic closes $2.5 billion credit facility as Wall Street continues plunging money into AI boom.](https://www.cnbc.com/amp/2025/05/16/anthropic-ai-credit-facility.html) | Anthropic has obtained a new line of credit to fuel its continued expansion, adding to the \$18.2 billion it has already raised. The company announced that its annualized revenue has doubled to \$2 billion over the past six months. This strategy parallels OpenAI’s approach, which set up a \$4 billion revolving credit line in October.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[How Hardware Limitations Have, and Will, Prevent Rapid AI Takeoffs.](https://epochai.substack.com/p/how-fast-can-algorithms-advance-capabilities) |Key algorithmic advances in LLMs—such as transformers, multi-query attention, and mixture-of-experts—only yield major benefits (10–50x performance gains) when paired with massive compute resources. This reality challenges expectations of fast AI self-improvement, as hardware constraints like export controls, energy limits, and cooling infrastructure pose significant barriers to any rapid "intelligence explosion." |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Superhuman Coders in AI 2027.](https://www.lesswrong.com/posts/QdaMzqaBJi6kupKtD/superhuman-coding-in-ai-2027-not-so-fast) |Superhuman coding by AI is now expected around 2033, later than AI Futures' earlier projections of 2028–2030. The delay stems from challenges like managing engineering complexity, operating without feedback loops, and meeting cost and speed requirements. Additional setbacks, such as geopolitical tensions or shifting priorities at leading labs, could extend the timeline even further. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
