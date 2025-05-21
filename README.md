@@ -138,7 +138,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Relational Foundation Model for Enterprise Data.](https://kumo.ai/company/news/kumo-relational-foundation-model/) | KumoRFM is a pre-trained relational foundation model designed to work across any database and predictive task without task-specific training.|
 |[The Definitive Overview of Reinforcement Learning.](https://arxiv.org/pdf/2412.05265) | Kevin Murphy, a highly-referenced researcher at Google, has released an updated version of his 200-page reinforcement learning textbook, covering topics from classic methods to the latest advances such as DPO, GPRO, and reasoning.|
 |[ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems.](https://arxiv.org/pdf/2505.11831) | François Chollet and the ARC Prize team have launched ARC-AGI-2, a much tougher version of their abstract reasoning benchmark. Early results show top AI models performing poorly—o3 scored only 3%, down from 53% on the original—while humans averaged 75% accuracy. The ARC Prize 2025 offers \$1 million in awards, with a \$700,000 grand prize for the first team to reach 85% accuracy.|
-|[.]() | |
+|[DeepSeek-V3 Training Insights.](https://arxiv.org/abs/2505.09343) | DeepSeek researchers have presented DeepSeek-V3 as an example of hardware-model co-design, tackling LLM scaling challenges with techniques like Multi-head Latent Attention, Mixture of Experts, FP8 training, and a Multi-Plane Network Topology to boost GPU efficiency and reduce communication costs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
