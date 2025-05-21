@@ -96,9 +96,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI announces $250K Prize for Using Their Models to Find Lost Amazonian Cities.](https://openai.com/openai-to-z-challenge/) |The challenge invites participants to use models like o3, o4-mini, and GPT-4.1 with open-source data to identify previously unknown archaeological sites in the Amazon by June 29. Winners will receive funding to conduct field verification with archaeologists. |
 |[Cohere Acquired Ottogrid.](https://threadreaderapp.com/thread/1923436453524029738.html) | Cohere has acquired Ottogrid, a Canadian startup focused on automating enterprise market research workflows.|
 |[US lawmakers have concerns about Apple-Alibaba deal.](https://techcrunch.com/2025/05/18/u-s-lawmakers-have-concerns-about-apple-alibaba-deal/) |The Trump administration and congressional officials are scrutinizing a deal between Apple and Alibaba that would bring Alibaba-powered AI features to iPhones sold in China, according to The New York Times. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Google launches stand-alone NotebookLM apps for Android and iOS.](https://techcrunch.com/2025/05/19/google-launches-standalone-notebooklm-app-for-android/) | Google announced on Monday that it has officially released the NotebookLM apps for Android and iOS, a day before Google I/O 2025 and a day before the company said it would roll out. Since its launch in 2023, the AI-based note-taking and research assistant has only been accessible via desktop. Google has now made the service available on the go.|
+|[Windows is getting support for the ‘USB-C of AI apps’.](https://www.theverge.com/news/669298/microsoft-windows-ai-foundry-mcp-support) |Microsoft is building Model Context Protocol (MCP) directly into Windows and introducing the Windows AI Foundry, enabling AI agents to interface with the OS and apps. They're moving carefully, implementing security measures to guard against token theft and prompt injection. |
+|[Character.AI Chat Memories.](https://blog.character.ai/helping-characters-remember-what-matters-most/) |Character.AI has rolled out chat memories, allowing users to input fixed personal information that Characters can remember. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
