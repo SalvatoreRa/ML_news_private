@@ -99,8 +99,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google launches stand-alone NotebookLM apps for Android and iOS.](https://techcrunch.com/2025/05/19/google-launches-standalone-notebooklm-app-for-android/) | Google announced on Monday that it has officially released the NotebookLM apps for Android and iOS, a day before Google I/O 2025 and a day before the company said it would roll out. Since its launch in 2023, the AI-based note-taking and research assistant has only been accessible via desktop. Google has now made the service available on the go.|
 |[Windows is getting support for the ‘USB-C of AI apps’.](https://www.theverge.com/news/669298/microsoft-windows-ai-foundry-mcp-support) |Microsoft is building Model Context Protocol (MCP) directly into Windows and introducing the Windows AI Foundry, enabling AI agents to interface with the OS and apps. They're moving carefully, implementing security measures to guard against token theft and prompt injection. |
 |[Character.AI Chat Memories.](https://blog.character.ai/helping-characters-remember-what-matters-most/) |Character.AI has rolled out chat memories, allowing users to input fixed personal information that Characters can remember. |
-|[.]() | |
-|[.]() | |
+|[Databricks + Neon.](https://www.databricks.com/blog/databricks-neon) | Databricks is buying Neon, a serverless Postgres firm, to boost its developer and AI-focused database offerings. Neon transformed databases by separating storage from compute and enabling AI-powered functions. The deal targets disruption of the \$100B OLTP database space with a platform tailored for developers and AI agents.|
+|[OpenAI to Z Challenge Launches for Developers.](https://openai.com/openai-to-z-challenge/) | The OpenAI to Z Challenge is a community contest encouraging developers to create AI apps across 26 inventive categories, A to Z. Each category winner receives \$2,500 in API credits and potential OpenAI recognition. Entries are open until May 31.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
