@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Open Source Alternative to Google's New AI Algorithm-Discovering Agent.](https://github.com/shyamsaktawat/OpenAlpha_Evolve) |OpenAlpha_Evolve is an open-source Python framework inspired by the recently released technical paper for DeepMind's AlphaEvolve. |
 |[Parallel Scaling for LLMs.](https://github.com/qwenlm/parscale) |ParScale has introduced a third LLM scaling paradigm by leveraging parallel computation at both training and inference time. |
 |[Spoken Dialogue Evaluation.](https://arxiv.org/abs/2505.09558v1) |WavReward is an audio-language model evaluator designed to assess spoken dialogue systems based on cognitive and emotional metrics. It is trained on ChatReward-30K, a dataset of diverse audio interactions labeled with user preferences. |
-|[.]() | |
-|[.]() | |
+|[Generative AI Adoption Index.](https://press.aboutamazon.com/aws/2025/5/generative-ai-adoption-index) |Businesses are focusing more on generative AI than on security budgets for 2025. They're appointing new leaders such as Chief AI Officers and actively pursuing AI talent through hiring and internal training. A common approach involves blending ready-made AI models with customized tools built on their own data. |
+|[Stability AI and Arm Release Low Latency Audio Model for On-Device Audio Generation.](https://stability.ai/news/stability-ai-and-arm-release-stable-audio-open-small-enabling-real-world-deployment-for-on-device-audio-control) | Stability AI is open-sourcing Stable Audio Open Small, a 341 million parameter text-to-audio model optimized to run on Arm CPUs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -142,7 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Superhuman Coders in AI 2027.](https://www.lesswrong.com/posts/QdaMzqaBJi6kupKtD/superhuman-coding-in-ai-2027-not-so-fast) |Superhuman coding by AI is now expected around 2033, later than AI Futures' earlier projections of 2028–2030. The delay stems from challenges like managing engineering complexity, operating without feedback loops, and meeting cost and speed requirements. Additional setbacks, such as geopolitical tensions or shifting priorities at leading labs, could extend the timeline even further. |
-|[.]() | |
+|[There should be no AI button.](https://kojo.blog/ai-button/) | The "AI button" design pattern is restrictive and draws unneeded lines between AI-supported and manual tasks. More effective options, such as embedding AI as a "shadow teammate" in workflows, improve collaboration while keeping the user experience unified.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
