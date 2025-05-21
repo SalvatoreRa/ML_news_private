@@ -85,8 +85,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Almost half of young people would prefer a world without internet, UK study finds.](https://www.theguardian.com/technology/2025/may/20/almost-half-of-young-people-would-prefer-a-world-without-internet-uk-study-finds) | Half of 16- to 21-year-olds support ‘digital curfew’ and nearly 70% feel worse after using social media|
 |[AI can be more persuasive than humans in debates, scientists find.](https://www.theguardian.com/technology/2025/may/19/ai-can-be-more-persuasive-than-humans-in-debates-scientists-find-implications-for-elections) | Study author warns of implications for elections and says ‘malicious actors’ are probably using LLM tools already|
 |[Bankrupt DNA testing firm 23andMe to be purchased for $256m.](https://www.theguardian.com/technology/2025/may/19/23andme-to-be-purchased-256m) |Drugmaker Regeneron Pharmaceuticals’ capture of genetic testing firm in bankruptcy auction raises privacy concerns |
-|[.]() | |
-|[.]() | |
+|[‘Every person that clashed with him has left’: the rise, fall and spectacular comeback of Sam Altman.](https://www.theguardian.com/technology/2025/may/21/every-person-that-clashed-with-him-has-left-the-rise-fall-and-spectacular-comeback-of-sam-altman) |From Elon Musk to his own board, anyone who has come up against the OpenAI CEO has lost. In a gripping new account of the battle for AI supremacy, writer Karen Hao says we should all be wary of the power he now wields |
+|[Most AI chatbots easily tricked into giving dangerous responses, study finds.](https://www.theguardian.com/technology/2025/may/21/most-ai-chatbots-easily-tricked-into-giving-dangerous-responses-study-finds) |Researchers say threat from ‘jailbroken’ chatbots trained to churn out illegal information is ‘tangible and concerning’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
