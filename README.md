@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How far can reasoning models scale?](https://epoch.ai/gradient-updates/how-far-can-reasoning-models-scale) | OpenAI's o3 reasoning model has advanced quickly but may soon hit scaling limits. As training compute grows about fourfold annually, models like o3 might catch up to that pace after an initial surge. While challenges around data availability and generalization exist, researchers are still hopeful about ongoing progress in reasoning performance.|
 |[Meet China's Frontier AI Labs.](https://docs.google.com/document/d/1qzm3wVxr3m-vFXqSQQjI8MaP9wADddbOpEQkH2kZLfo/edit?tab=t.0#heading=h.8xti639xclnh) | China's AI landscape features five key players. Alibaba leads in open source, ByteDance uses multimodal tech across its apps like Meta, Stepfun—supported by Shanghai—specializes in multimodal integration, Zhipu from Tsinghua focuses on intelligent agents, and DeepSeek stands out for research, particularly in innovative architecture optimization.|
 |[ShieldGemma 2.](https://huggingface.co/google/shieldgemma-2-4b-it) |ShieldGemma 2, based on Gemma 3, is DeepMind's open-source content moderation model with 4 billion parameters, created to serve as an input filter for vision-language models or an output filter for image generation tools. |
-|[.]() | |
+|[Fine-Tuning Qwen2.5B for Reasoning.](https://github.com/EsmaeilNarimissa/aws-sft-grpo-budget-llm-finetune) |This repository fine-tunes the Qwen2.5B model for reasoning tasks using a cost-effective SFT + GRPO pipeline inspired by DeepSeek R1 and optimized for AWS. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
