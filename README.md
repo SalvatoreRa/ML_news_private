@@ -109,6 +109,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple will reportedly open up its local AI models to third-party apps.](https://www.theverge.com/news/670868/apple-intelligence-ai-third-party-developer-access-model) | Apple intends to release an SDK that lets developers integrate its large language models into their apps. Initially, the SDK will support only smaller on-device models, with no access to cloud-based versions. The announcement is expected at the Worldwide Developers Conference starting June 9, alongside a major update to iOS, macOS, and iPadOS aimed at aligning them more closely with the Vision Pro operating system.|
 |[Real-Time Speech Translation in Google Meet.](https://techcrunch.com/2025/05/20/google-meet-is-getting-real-time-speech-translation/) |Google Meet now offers real-time speech translation powered by DeepMind's audio language model, maintaining the speaker's voice, tone, and expression across different languages. |
 |[Google AI Mode in Search.](https://blog.google/products/search/google-search-ai-mode-update/#ai-mode-search) | Google is launching AI Mode in Search for all U.S. users, delivering a richer, multimodal search experience with enhanced reasoning, follow-up capabilities, and quick AI-generated summaries.|
+|[Imagen 4 and Veo 3.](https://cloud.google.com/blog/products/ai-machine-learning/announcing-veo-3-imagen-4-and-lyria-2-on-vertex-ai) |Google has introduced Imagen 4 for high-fidelity image generation, Veo 3 for video, and Lyria 2 for music, all available on Vertex AI. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
