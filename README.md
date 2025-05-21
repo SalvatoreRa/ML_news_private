@@ -101,8 +101,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Character.AI Chat Memories.](https://blog.character.ai/helping-characters-remember-what-matters-most/) |Character.AI has rolled out chat memories, allowing users to input fixed personal information that Characters can remember. |
 |[Databricks + Neon.](https://www.databricks.com/blog/databricks-neon) | Databricks is buying Neon, a serverless Postgres firm, to boost its developer and AI-focused database offerings. Neon transformed databases by separating storage from compute and enabling AI-powered functions. The deal targets disruption of the \$100B OLTP database space with a platform tailored for developers and AI agents.|
 |[OpenAI to Z Challenge Launches for Developers.](https://openai.com/openai-to-z-challenge/) | The OpenAI to Z Challenge is a community contest encouraging developers to create AI apps across 26 inventive categories, A to Z. Each category winner receives \$2,500 in API credits and potential OpenAI recognition. Entries are open until May 31.|
-|[.]() | |
-|[.]() | |
+|[NVIDIA Launched NVLink Fusion.](https://www.nvidia.com/en-us/data-center/nvlink-fusion/) |NVIDIA introduced NVLink Fusion to support hybrid AI infrastructures, combining NVIDIA GPUs or Grace CPUs with third-party chips. |
+|[Perplexity partners with PayPal for in-chat shopping as AI race heats up.](https://www.cnbc.com/2025/05/14/perplexity-partners-with-paypal-for-in-chat-ai-shopping.html) |Perplexity has partnered with PayPal to enable in-chat purchases, allowing U.S. users to shop directly through the platform. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
