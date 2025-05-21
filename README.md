@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Most AI chatbots easily tricked into giving dangerous responses, study finds.](https://www.theguardian.com/technology/2025/may/21/most-ai-chatbots-easily-tricked-into-giving-dangerous-responses-study-finds) |Researchers say threat from ‘jailbroken’ chatbots trained to churn out illegal information is ‘tangible and concerning’ |
 |[US chip export controls are a ‘failure’ because they spur Chinese development, Nvidia boss says.](https://www.theguardian.com/technology/2025/may/21/us-chip-export-controls-a-failure-spur-chinese-development-nvidia-boss-says) |Comments from Jensen Huang come as Beijing accuses the US of ‘bullying and protectionism’ |
 |[Elon Musk claims he will step back from political donations in near future.](https://www.theguardian.com/technology/2025/may/20/elon-musk-political-donations-trump) | After spending nearly $300m to help elect Trump last year, the tech billionaire says he has ‘done enough’|
-|[Google unveils ‘AI Mode’ in the next phase of its journey to change search.](https://www.theguardian.com/technology/2025/may/20/google-ai-mode-search-engine-developers-conference) | Search engine revamp and Gemini 2.5 introduced at conference in latest showing tech giant is all in on AI|
+|[Google unveils ‘AI Mode’ in the next phase of its journey to change search.](https://www.theguardian.com/technology/2025/may/20/google-ai-mode-search-engine-developers-conference) | Search engine revamp and Gemini 2.5 introduced at conference in latest showing tech giant is all in on AI |
 |[.]() | |
 |[.]() | |
 |[.]() | |
