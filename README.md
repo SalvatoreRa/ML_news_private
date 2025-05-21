@@ -136,8 +136,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft and Hugging Face expand collaboration to make open models easy to use on Azure.](https://huggingface.co/blog/azure-ai-foundry) | Microsoft and Hugging Face expanded their partnership to integrate over 10,000 Hugging Face models into Azure AI Foundry.|
 |[Poe Report Shows Rapid Shifts in AI Model Market Share.](https://poe.com/it/blog/spring-2025-ai-model-usage-trends) |A report from Quora's Poe platform shows major changes in AI model usage between January and May 2025. OpenAI’s GPT-4.1 and Google’s Gemini 2.5 Pro saw rapid growth, while usage of Anthropic’s Claude models dropped. GPT-4.1 leads in general text, Gemini 2.5 Pro tops reasoning, Google's Imagen3 dominates image generation, and video creation remains competitive, with Runway in the lead. |
 |[Relational Foundation Model for Enterprise Data.](https://kumo.ai/company/news/kumo-relational-foundation-model/) | KumoRFM is a pre-trained relational foundation model designed to work across any database and predictive task without task-specific training.|
-|[.]() | |
-|[.]() | |
+|[The Definitive Overview of Reinforcement Learning.](https://arxiv.org/pdf/2412.05265) | Kevin Murphy, a highly-referenced researcher at Google, has released an updated version of his 200-page reinforcement learning textbook, covering topics from classic methods to the latest advances such as DPO, GPRO, and reasoning.|
+|[ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems.](https://arxiv.org/pdf/2505.11831) | François Chollet and the ARC Prize team have launched ARC-AGI-2, a much tougher version of their abstract reasoning benchmark. Early results show top AI models performing poorly—o3 scored only 3%, down from 53% on the original—while humans averaged 75% accuracy. The ARC Prize 2025 offers \$1 million in awards, with a \$700,000 grand prize for the first team to reach 85% accuracy.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
