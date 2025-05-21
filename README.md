@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI to Z Challenge Launches for Developers.](https://openai.com/openai-to-z-challenge/) | The OpenAI to Z Challenge is a community contest encouraging developers to create AI apps across 26 inventive categories, A to Z. Each category winner receives \$2,500 in API credits and potential OpenAI recognition. Entries are open until May 31.|
 |[NVIDIA Launched NVLink Fusion.](https://www.nvidia.com/en-us/data-center/nvlink-fusion/) |NVIDIA introduced NVLink Fusion to support hybrid AI infrastructures, combining NVIDIA GPUs or Grace CPUs with third-party chips. |
 |[Perplexity partners with PayPal for in-chat shopping as AI race heats up.](https://www.cnbc.com/2025/05/14/perplexity-partners-with-paypal-for-in-chat-ai-shopping.html) |Perplexity has partnered with PayPal to enable in-chat purchases, allowing U.S. users to shop directly through the platform. |
-|[.]() | |
-|[.]() | |
+|[Google's "Jules" Enters AI Coding Race with Autonomous Agent Approach.](https://blog.google/technology/google-labs/jules/) | Following a private beta in December, Google has made Jules publicly available. Powered by Gemini 2.5, the tool replicates full repositories and independently writes tests, fixes bugs, and adds features while developers focus on other tasks. Agentic coding tools now split between real-time pair-programming helpers and autonomous agents like Devin and Jules.|
+|[Exclusive: Google Sees Smart Glasses as the 'Next Frontier' for AI. And It's Not Working Alone.](https://www.cnet.com/tech/computing/exclusive-google-sees-xr-smart-glasses-as-the-ultimate-use-for-ai-with-warby-parker-samsung-and-xreal-on-deck/#ftag=CAD590a51e) | Google is returning to smart glasses with Android XR, embedding its Gemini AI to offer real-time vision analysis, translation, and contextual help via AR glasses. The launch starts with Project Moohan, a mixed-reality headset developed with Samsung, followed by Project Aura, an AR glasses prototype for developers from Xreal, and future consumer AI glasses from partners like Warby Parker and Gentle Monster.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
