@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Large Language Models Are More Persuasive Than Incentivized Human Persuaders.](https://arxiv.org/abs/2505.09662) |Claude 3.5 Sonnet outperformed human persuaders in a controlled study, achieving a 7.6% higher success rate in influencing participants' quiz responses. It was more effective at steering users toward both correct answers (+12.2%) and incorrect ones (-15.1%). |
 |[Robustness of LLM-based Safety Judges.](https://arxiv.org/abs/2503.04474) | The study reveals weaknesses in LLM-based safety judges, demonstrating that their assessments can be heavily influenced by prompt variations and adversarial attacks.|
-|[.]() | |
+|[Introducing the AI Gateway.](https://vercel.com/blog/ai-gateway) |Vercel has launched an AI Gateway for alpha testing, enabling easy switching between ~100 AI models without managing API keys or accounts. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Deep Think' boosts the performance of Google's flagship Google Gemini AI model.](https://techcrunch.com/2025/05/20/deep-think-boosts-the-performance-of-googles-flagship-google-gemini-ai-model/) |Google's Deep Think is an advanced reasoning feature for its Gemini 2.5 Pro model, allowing it to evaluate multiple possible answers before replying. This capability helped Gemini 2.5 lead on LifeCodeBench, a tough coding benchmark, and outperform OpenAI's o3 on MMMU, which tests perception and reasoning. Google plans to trial Deep Think with trusted testers and run safety checks ahead of a broader release. |
 |[Apple will reportedly open up its local AI models to third-party apps.](https://www.theverge.com/news/670868/apple-intelligence-ai-third-party-developer-access-model) | Apple intends to release an SDK that lets developers integrate its large language models into their apps. Initially, the SDK will support only smaller on-device models, with no access to cloud-based versions. The announcement is expected at the Worldwide Developers Conference starting June 9, alongside a major update to iOS, macOS, and iPadOS aimed at aligning them more closely with the Vision Pro operating system.|
 |[Real-Time Speech Translation in Google Meet.](https://techcrunch.com/2025/05/20/google-meet-is-getting-real-time-speech-translation/) |Google Meet now offers real-time speech translation powered by DeepMind's audio language model, maintaining the speaker's voice, tone, and expression across different languages. |
-|[.]() | |
+|[Google AI Mode in Search.](https://blog.google/products/search/google-search-ai-mode-update/#ai-mode-search) | Google is launching AI Mode in Search for all U.S. users, delivering a richer, multimodal search experience with enhanced reasoning, follow-up capabilities, and quick AI-generated summaries.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
