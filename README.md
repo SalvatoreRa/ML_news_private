@@ -87,9 +87,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Bankrupt DNA testing firm 23andMe to be purchased for $256m.](https://www.theguardian.com/technology/2025/may/19/23andme-to-be-purchased-256m) |Drugmaker Regeneron Pharmaceuticals’ capture of genetic testing firm in bankruptcy auction raises privacy concerns |
 |[‘Every person that clashed with him has left’: the rise, fall and spectacular comeback of Sam Altman.](https://www.theguardian.com/technology/2025/may/21/every-person-that-clashed-with-him-has-left-the-rise-fall-and-spectacular-comeback-of-sam-altman) |From Elon Musk to his own board, anyone who has come up against the OpenAI CEO has lost. In a gripping new account of the battle for AI supremacy, writer Karen Hao says we should all be wary of the power he now wields |
 |[Most AI chatbots easily tricked into giving dangerous responses, study finds.](https://www.theguardian.com/technology/2025/may/21/most-ai-chatbots-easily-tricked-into-giving-dangerous-responses-study-finds) |Researchers say threat from ‘jailbroken’ chatbots trained to churn out illegal information is ‘tangible and concerning’ |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[US chip export controls are a ‘failure’ because they spur Chinese development, Nvidia boss says.](https://www.theguardian.com/technology/2025/may/21/us-chip-export-controls-a-failure-spur-chinese-development-nvidia-boss-says) |Comments from Jensen Huang come as Beijing accuses the US of ‘bullying and protectionism’ |
+|[Elon Musk claims he will step back from political donations in near future.](https://www.theguardian.com/technology/2025/may/20/elon-musk-political-donations-trump) | After spending nearly $300m to help elect Trump last year, the tech billionaire says he has ‘done enough’|
+|[Google unveils ‘AI Mode’ in the next phase of its journey to change search.](https://www.theguardian.com/technology/2025/may/20/google-ai-mode-search-engine-developers-conference) | Search engine revamp and Gemini 2.5 introduced at conference in latest showing tech giant is all in on AI|
 |[.]() | |
 |[.]() | |
 |[.]() | |
