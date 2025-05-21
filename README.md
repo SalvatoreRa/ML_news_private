@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[US chip export controls are a ‘failure’ because they spur Chinese development, Nvidia boss says.](https://www.theguardian.com/technology/2025/may/21/us-chip-export-controls-a-failure-spur-chinese-development-nvidia-boss-says) |Comments from Jensen Huang come as Beijing accuses the US of ‘bullying and protectionism’ |
 |[Elon Musk claims he will step back from political donations in near future.](https://www.theguardian.com/technology/2025/may/20/elon-musk-political-donations-trump) | After spending nearly $300m to help elect Trump last year, the tech billionaire says he has ‘done enough’|
 |[Google unveils ‘AI Mode’ in the next phase of its journey to change search.](https://www.theguardian.com/technology/2025/may/20/google-ai-mode-search-engine-developers-conference) | Search engine revamp and Gemini 2.5 introduced at conference in latest showing tech giant is all in on AI |
-|[.]() | |
-|[.]() | |
+|[Trump Opens AI Chip Floodgates to Middle East After Reversing Biden-Era Restrictions.](https://www.axios.com/2025/05/18/trump-gulf-ai-deals-saudi-uae-security-china-risk) | President Trump's Middle East visit has resulted in major AI deals, including Nvidia sending 18,000 Blackwell chips to Saudi Arabia and plans for the largest non-U.S. AI data center in Abu Dhabi. Critics caution that these partnerships may allow China to gain access to restricted U.S. AI technology via its strong economic links with Gulf nations, leading to new bipartisan legislation aimed at blocking such transfers.|
+|[Introducing Codex.](https://openai.com/index/introducing-codex/) |OpenAI has launched Codex, an autonomous coding agent that develops features, fixes bugs, and submits pull requests within isolated cloud environments. Companies such as Cisco and Temporal are already using it to manage entire codebases, allowing their engineers to concentrate on higher-level tasks. Codex can handle multiple tasks at once, run tests, and includes detailed citations for all its code changes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
