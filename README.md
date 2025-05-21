@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[How Hardware Limitations Have, and Will, Prevent Rapid AI Takeoffs.](https://epochai.substack.com/p/how-fast-can-algorithms-advance-capabilities) |Key algorithmic advances in LLMs—such as transformers, multi-query attention, and mixture-of-experts—only yield major benefits (10–50x performance gains) when paired with massive compute resources. This reality challenges expectations of fast AI self-improvement, as hardware constraints like export controls, energy limits, and cooling infrastructure pose significant barriers to any rapid "intelligence explosion." |
-|[.]() | |
-|[.]() | |
+|[Open Source Alternative to Google's New AI Algorithm-Discovering Agent.](https://github.com/shyamsaktawat/OpenAlpha_Evolve) |OpenAlpha_Evolve is an open-source Python framework inspired by the recently released technical paper for DeepMind's AlphaEvolve. |
+|[Parallel Scaling for LLMs.](https://github.com/qwenlm/parscale) |ParScale has introduced a third LLM scaling paradigm by leveraging parallel computation at both training and inference time. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
