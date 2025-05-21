@@ -94,6 +94,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Codex.](https://openai.com/index/introducing-codex/) |OpenAI has launched Codex, an autonomous coding agent that develops features, fixes bugs, and submits pull requests within isolated cloud environments. Companies such as Cisco and Temporal are already using it to manage entire codebases, allowing their engineers to concentrate on higher-level tasks. Codex can handle multiple tasks at once, run tests, and includes detailed citations for all its code changes. |
 |[Anthropic closes $2.5 billion credit facility as Wall Street continues plunging money into AI boom.](https://www.cnbc.com/amp/2025/05/16/anthropic-ai-credit-facility.html) | Anthropic has obtained a new line of credit to fuel its continued expansion, adding to the \$18.2 billion it has already raised. The company announced that its annualized revenue has doubled to \$2 billion over the past six months. This strategy parallels OpenAI’s approach, which set up a \$4 billion revolving credit line in October.|
 |[OpenAI announces $250K Prize for Using Their Models to Find Lost Amazonian Cities.](https://openai.com/openai-to-z-challenge/) |The challenge invites participants to use models like o3, o4-mini, and GPT-4.1 with open-source data to identify previously unknown archaeological sites in the Amazon by June 29. Winners will receive funding to conduct field verification with archaeologists. |
+|[Cohere Acquired Ottogrid.](https://threadreaderapp.com/thread/1923436453524029738.html) | Cohere has acquired Ottogrid, a Canadian startup focused on automating enterprise market research workflows.|
+|[US lawmakers have concerns about Apple-Alibaba deal.](https://techcrunch.com/2025/05/18/u-s-lawmakers-have-concerns-about-apple-alibaba-deal/) |The Trump administration and congressional officials are scrutinizing a deal between Apple and Alibaba that would bring Alibaba-powered AI features to iPhones sold in China, according to The New York Times. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -106,6 +108,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
 
 ## Resources
 |Link|description|
