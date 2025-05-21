@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Large Language Models Are More Persuasive Than Incentivized Human Persuaders.](https://arxiv.org/abs/2505.09662) |Claude 3.5 Sonnet outperformed human persuaders in a controlled study, achieving a 7.6% higher success rate in influencing participants' quiz responses. It was more effective at steering users toward both correct answers (+12.2%) and incorrect ones (-15.1%). |
-|[.]() | |
+|[Robustness of LLM-based Safety Judges.](https://arxiv.org/abs/2503.04474) | The study reveals weaknesses in LLM-based safety judges, demonstrating that their assessments can be heavily influenced by prompt variations and adversarial attacks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meet China's Frontier AI Labs.](https://docs.google.com/document/d/1qzm3wVxr3m-vFXqSQQjI8MaP9wADddbOpEQkH2kZLfo/edit?tab=t.0#heading=h.8xti639xclnh) | China's AI landscape features five key players. Alibaba leads in open source, ByteDance uses multimodal tech across its apps like Meta, Stepfun—supported by Shanghai—specializes in multimodal integration, Zhipu from Tsinghua focuses on intelligent agents, and DeepSeek stands out for research, particularly in innovative architecture optimization.|
 |[ShieldGemma 2.](https://huggingface.co/google/shieldgemma-2-4b-it) |ShieldGemma 2, based on Gemma 3, is DeepMind's open-source content moderation model with 4 billion parameters, created to serve as an input filter for vision-language models or an output filter for image generation tools. |
 |[Fine-Tuning Qwen2.5B for Reasoning.](https://github.com/EsmaeilNarimissa/aws-sft-grpo-budget-llm-finetune) |This repository fine-tunes the Qwen2.5B model for reasoning tasks using a cost-effective SFT + GRPO pipeline inspired by DeepSeek R1 and optimized for AWS. |
-|[.]() | |
+|[Microsoft and Hugging Face expand collaboration to make open models easy to use on Azure.](https://huggingface.co/blog/azure-ai-foundry) | Microsoft and Hugging Face expanded their partnership to integrate over 10,000 Hugging Face models into Azure AI Foundry.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
