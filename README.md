@@ -165,8 +165,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[There should be no AI button.](https://kojo.blog/ai-button/) | The "AI button" design pattern is restrictive and draws unneeded lines between AI-supported and manual tasks. More effective options, such as embedding AI as a "shadow teammate" in workflows, improve collaboration while keeping the user experience unified.|
 |[AI linked to explosion of low-quality biomedical research papers.](https://www.nature.com/articles/d41586-025-01592-0) | Analysis flags hundreds of studies that seem to follow a template, reporting correlations between complex health conditions and single variables based on publicly available data sets.|
 |[Are groundbreaking science discoveries becoming harder to find?](https://www.nature.com/articles/d41586-025-01548-4) |Researchers are arguing over whether ‘disruptive’ or ‘novel’ science is waning – and how to remedy the problem. |
-|[.]() | |
-|[.]() | |
+|[The path for AI in poor nations does not need to be paved with billions.](https://www.nature.com/articles/d41586-025-01546-6) | Researchers in low- and middle-income countries show that home-grown artificial-intelligence technologies can be developed, even without large external investments.|
+|[‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect.](https://www.nature.com/articles/d41586-025-01485-2) |Jakub Pachocki, who leads the firm’s development of advanced models, is excited to release an open version to researchers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
