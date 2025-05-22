@@ -150,7 +150,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Production-ready MCP integration for any AI application.](https://github.com/Klavis-AI/klavis) | Klavis AI streamlines integration with production-grade MCP servers, providing reliable connections, built-in authentication, and support for multiple clients. It works with custom MCP servers and over 100 tool integrations to enhance AI app scalability. Hosted options allow users to create MCP instances and configure OAuth for smooth deployment.|
 |[AI-generated literature reviews threaten scientific progress.](https://www.nature.com/articles/d41586-025-01603-0) |Although artificial intelligence (AI) tools such as OpenAI’s ‘deep research’ offer researchers the possibility of compiling literature reviews at unprecedented speed, they could undermine scientific progress. |
 |[Mistral's Agentic LLM for Software Engineering.](https://mistral.ai/news/devstral) | Mistral AI and All Hands AI have introduced Devstral, a new open-source LLM optimized for software engineering.|
-|[.]() | |
+|[Minimal MCP + A2A Example.](https://www.youtube.com/watch?v=nSjj1ZaNP2c&ab_channel=BiryAIn) |A toy example demonstrating the basics of Minimum Cost Path (MCP) and Agent-to-Agent (A2A) ping checks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -176,7 +176,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect.](https://www.nature.com/articles/d41586-025-01485-2) |Jakub Pachocki, who leads the firm’s development of advanced models, is excited to release an open version to researchers. |
 |[Data resources must be protected from political interference.](https://www.nature.com/articles/d41586-025-01601-2) |In April, the US National Institutes of Health (NIH) prohibited researchers in “countries of concern”, such as China, Russia and Iran, from using its controlled-access data repositories and associated data.  |
 |[AI bots threaten online scientific infrastructure.](https://www.nature.com/articles/d41586-025-01602-1) |In April, Wikipedia reported on its battles with artificial intelligence (AI) bot crawlers |
-|[.]() | |
+|[The SignalFire State of Talent Report.](https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025) | Tech hiring for recent grads has dropped over 50% from pre-pandemic levels, as AI tools take over many entry-level roles, though demand for experienced engineers remains strong. Anthropic has become the frontrunner in the AI talent race, keeping 80% of its staff and actively recruiting from rivals. Engineers are now eight times more likely to leave OpenAI or DeepMind for Anthropic than the other way around.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
