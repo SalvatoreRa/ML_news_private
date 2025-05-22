@@ -163,8 +163,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Superhuman Coders in AI 2027.](https://www.lesswrong.com/posts/QdaMzqaBJi6kupKtD/superhuman-coding-in-ai-2027-not-so-fast) |Superhuman coding by AI is now expected around 2033, later than AI Futures' earlier projections of 2028–2030. The delay stems from challenges like managing engineering complexity, operating without feedback loops, and meeting cost and speed requirements. Additional setbacks, such as geopolitical tensions or shifting priorities at leading labs, could extend the timeline even further. |
 |[There should be no AI button.](https://kojo.blog/ai-button/) | The "AI button" design pattern is restrictive and draws unneeded lines between AI-supported and manual tasks. More effective options, such as embedding AI as a "shadow teammate" in workflows, improve collaboration while keeping the user experience unified.|
-|[.]() | |
-|[.]() | |
+|[AI linked to explosion of low-quality biomedical research papers.](https://www.nature.com/articles/d41586-025-01592-0) | Analysis flags hundreds of studies that seem to follow a template, reporting correlations between complex health conditions and single variables based on publicly available data sets.|
+|[Are groundbreaking science discoveries becoming harder to find?](https://www.nature.com/articles/d41586-025-01548-4) |Researchers are arguing over whether ‘disruptive’ or ‘novel’ science is waning – and how to remedy the problem. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
