@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google AI Mode in Search.](https://blog.google/products/search/google-search-ai-mode-update/#ai-mode-search) | Google is launching AI Mode in Search for all U.S. users, delivering a richer, multimodal search experience with enhanced reasoning, follow-up capabilities, and quick AI-generated summaries.|
 |[Imagen 4 and Veo 3.](https://cloud.google.com/blog/products/ai-machine-learning/announcing-veo-3-imagen-4-and-lyria-2-on-vertex-ai) |Google has introduced Imagen 4 for high-fidelity image generation, Veo 3 for video, and Lyria 2 for music, all available on Vertex AI. |
 |[Former Apple Design Guru Jony Ive to Take Expansive Role at OpenAI.](https://www.wsj.com/tech/ai/former-apple-design-guru-jony-ive-to-take-expansive-role-at-openai-5787f7da?st=5D1JL4&reflink=desktopwebshare_permalink) |OpenAI has fully acquired io, its joint venture with famed Apple designer Jony Ive, for $6.5 billion in equity as it moves into hardware development. |
-|[.]() | |
-|[.]() | |
+|[Advancing Gemini's security safeguards.](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/) |Google DeepMind's study on protecting Gemini from indirect prompt injection attacks shows that stronger models aren't automatically more secure, and static defenses often break under adaptive threats. They found that adversarial training—fine-tuning on harmful prompt examples—greatly improved Gemini 2.5’s defenses without hurting regular performance. When paired with a "Warning" mechanism, attack success dropped sharply from 94.6% to 6.2%. |
+|[New tools and features in the Responses API.](https://openai.com/index/new-tools-and-features-in-the-responses-api/) | OpenAI has enhanced the Responses API with built-in tools and features, including support for all remote MCP servers and capabilities like image generation, Code Interpreter, and improved file search. The update boosts reliability, transparency, and privacy for both enterprises and developers. These tools are now available across the GPT‑4o, GPT‑4.1, and o-series reasoning models, with image generation exclusive to o3 in the reasoning series.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -152,7 +152,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral's Agentic LLM for Software Engineering.](https://mistral.ai/news/devstral) | Mistral AI and All Hands AI have introduced Devstral, a new open-source LLM optimized for software engineering.|
 |[Minimal MCP + A2A Example.](https://www.youtube.com/watch?v=nSjj1ZaNP2c&ab_channel=BiryAIn) |A toy example demonstrating the basics of Minimum Cost Path (MCP) and Agent-to-Agent (A2A) ping checks. |
 |[Building an agentic image generator that improves itself.](https://simulate.trybezel.com/research/image_agent) | Large language models show strong reasoning abilities when describing visual flaws in natural language but fall short in translating those insights into exact pixel-level edits. They perform well when tasks are narrowly defined, but their effectiveness drops when required to juggle abstract aesthetic choices with precise visual adjustments. This highlights a gap in connecting symbolic reasoning with spatial grounding, particularly in tasks that require detailed, step-by-step image modifications.|
-|[.]() | |
+|[LLM function calls don't scale; code orchestration is simpler, more effective.](https://jngiam.bearblog.dev/mcp-large-data/) |Providing large language models with complete tool outputs is expensive and inefficient. Output schemas let developers retrieve structured data for easier processing. Using code execution to handle data from MCP tools helps scale AI capabilities, but granting the execution environment access to MCPs, tools, and user data demands careful planning around API key management and tool exposure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
