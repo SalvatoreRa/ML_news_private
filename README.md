@@ -151,7 +151,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI-generated literature reviews threaten scientific progress.](https://www.nature.com/articles/d41586-025-01603-0) |Although artificial intelligence (AI) tools such as OpenAI’s ‘deep research’ offer researchers the possibility of compiling literature reviews at unprecedented speed, they could undermine scientific progress. |
 |[Mistral's Agentic LLM for Software Engineering.](https://mistral.ai/news/devstral) | Mistral AI and All Hands AI have introduced Devstral, a new open-source LLM optimized for software engineering.|
 |[Minimal MCP + A2A Example.](https://www.youtube.com/watch?v=nSjj1ZaNP2c&ab_channel=BiryAIn) |A toy example demonstrating the basics of Minimum Cost Path (MCP) and Agent-to-Agent (A2A) ping checks. |
-|[.]() | |
+|[Building an agentic image generator that improves itself.](https://simulate.trybezel.com/research/image_agent) | Large language models show strong reasoning abilities when describing visual flaws in natural language but fall short in translating those insights into exact pixel-level edits. They perform well when tasks are narrowly defined, but their effectiveness drops when required to juggle abstract aesthetic choices with precise visual adjustments. This highlights a gap in connecting symbolic reasoning with spatial grounding, particularly in tasks that require detailed, step-by-step image modifications.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
