@@ -52,7 +52,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Robustness of LLM-based Safety Judges.](https://arxiv.org/abs/2503.04474) | The study reveals weaknesses in LLM-based safety judges, demonstrating that their assessments can be heavily influenced by prompt variations and adversarial attacks.|
 |[Introducing the AI Gateway.](https://vercel.com/blog/ai-gateway) |Vercel has launched an AI Gateway for alpha testing, enabling easy switching between ~100 AI models without managing API keys or accounts. |
 |[Robin: A multi-agent system for automating scientific discovery.](https://arxiv.org/abs/2505.13400) | [FutureHouse](https://www.futurehouse.org/research-announcements/demonstrating-end-to-end-scientific-discovery-with-robin-a-multi-agent-system) used a continuous experimental loop combining literature search agents and a data analysis agent to speed up medical discovery. The system autonomously forms hypotheses from literature, suggests experiments for humans to carry out, and then analyzes the results to guide further research. This approach led to the identification of ripasudil, an eye drop that reduces cellular tension, as a potential treatment for age-related vision loss caused by the gradual decline of retinal light-sensitive cells. All code, data, and agent interaction logs will be publicly released on May 27.|
-|[.]() | |
+|[Slow Thinking Improves Confidence in LLMs.](https://arxiv.org/abs/2505.14489v1) | Extended chain-of-thought reasoning helps large language models better calibrate their confidence.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -116,6 +116,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New tools and features in the Responses API.](https://openai.com/index/new-tools-and-features-in-the-responses-api/) | OpenAI has enhanced the Responses API with built-in tools and features, including support for all remote MCP servers and capabilities like image generation, Code Interpreter, and improved file search. The update boosts reliability, transparency, and privacy for both enterprises and developers. These tools are now available across the GPT‑4o, GPT‑4.1, and o-series reasoning models, with image generation exclusive to o3 in the reasoning series.|
 |[We're releasing v0's AI model.](https://x.com/v0/status/1925375968077914268?s=12) | v0's AI model, which has specialized web-dev knowledge and an OpenAI-compatible API, is now in beta in the API, AI SDK, and AI Playground.|
 |[Gemini Diffusion.](https://simonwillison.net/2025/May/21/gemini-diffusion/) |Gemini Diffusion is Google's first large language model to use diffusion in place of transformers - it has the performance of Gemini 2.0 Flash-Lite at five times the speed. |
+|[Llama for Startups Program.](https://ai.meta.com/blog/llama-startup-program/) |Meta has announced a new initiative to support early-stage U.S. startups using its Llama models. |
+|[LM Arena, the organization behind popular AI leaderboards, lands $100M.](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) | LM Arena, a crowdsourced benchmarking project that major AI labs rely on to test and market their AI models, has raised $100 million in a seed funding round that values the organization at $600 million, according to Bloomberg.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
