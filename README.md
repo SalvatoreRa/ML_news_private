@@ -51,6 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Large Language Models Are More Persuasive Than Incentivized Human Persuaders.](https://arxiv.org/abs/2505.09662) |Claude 3.5 Sonnet outperformed human persuaders in a controlled study, achieving a 7.6% higher success rate in influencing participants' quiz responses. It was more effective at steering users toward both correct answers (+12.2%) and incorrect ones (-15.1%). |
 |[Robustness of LLM-based Safety Judges.](https://arxiv.org/abs/2503.04474) | The study reveals weaknesses in LLM-based safety judges, demonstrating that their assessments can be heavily influenced by prompt variations and adversarial attacks.|
 |[Introducing the AI Gateway.](https://vercel.com/blog/ai-gateway) |Vercel has launched an AI Gateway for alpha testing, enabling easy switching between ~100 AI models without managing API keys or accounts. |
+|[Robin: A multi-agent system for automating scientific discovery.](https://arxiv.org/abs/2505.13400) | [FutureHouse](https://www.futurehouse.org/research-announcements/demonstrating-end-to-end-scientific-discovery-with-robin-a-multi-agent-system) used a continuous experimental loop combining literature search agents and a data analysis agent to speed up medical discovery. The system autonomously forms hypotheses from literature, suggests experiments for humans to carry out, and then analyzes the results to guide further research. This approach led to the identification of ripasudil, an eye drop that reduces cellular tension, as a potential treatment for age-related vision loss caused by the gradual decline of retinal light-sensitive cells. All code, data, and agent interaction logs will be publicly released on May 27.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +125,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 
 ## Resources
@@ -177,7 +177,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Data resources must be protected from political interference.](https://www.nature.com/articles/d41586-025-01601-2) |In April, the US National Institutes of Health (NIH) prohibited researchers in “countries of concern”, such as China, Russia and Iran, from using its controlled-access data repositories and associated data.  |
 |[AI bots threaten online scientific infrastructure.](https://www.nature.com/articles/d41586-025-01602-1) |In April, Wikipedia reported on its battles with artificial intelligence (AI) bot crawlers |
 |[The SignalFire State of Talent Report.](https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025) | Tech hiring for recent grads has dropped over 50% from pre-pandemic levels, as AI tools take over many entry-level roles, though demand for experienced engineers remains strong. Anthropic has become the frontrunner in the AI talent race, keeping 80% of its staff and actively recruiting from rivals. Engineers are now eight times more likely to leave OpenAI or DeepMind for Anthropic than the other way around.|
-|[.]() | |
+|[My Prompt, My Reality.](https://tomtunguz.com/user-perception-quality/) | AI products rely significantly on user prompts, unlike traditional software that delivers consistent results. Outcomes can vary based on subtle intent and context, even with skilled prompting. Product teams can enhance performance by refining prompts and using follow-up questions to better steer users.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
