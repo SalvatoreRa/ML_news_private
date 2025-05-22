@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems.](https://arxiv.org/pdf/2505.11831) | François Chollet and the ARC Prize team have launched ARC-AGI-2, a much tougher version of their abstract reasoning benchmark. Early results show top AI models performing poorly—o3 scored only 3%, down from 53% on the original—while humans averaged 75% accuracy. The ARC Prize 2025 offers \$1 million in awards, with a \$700,000 grand prize for the first team to reach 85% accuracy.|
 |[DeepSeek-V3 Training Insights.](https://arxiv.org/abs/2505.09343) | DeepSeek researchers have presented DeepSeek-V3 as an example of hardware-model co-design, tackling LLM scaling challenges with techniques like Multi-head Latent Attention, Mixture of Experts, FP8 training, and a Multi-Plane Network Topology to boost GPU efficiency and reduce communication costs.|
 |[Production-ready MCP integration for any AI application.](https://github.com/Klavis-AI/klavis) | Klavis AI streamlines integration with production-grade MCP servers, providing reliable connections, built-in authentication, and support for multiple clients. It works with custom MCP servers and over 100 tool integrations to enhance AI app scalability. Hosted options allow users to create MCP instances and configure OAuth for smooth deployment.|
-|[.]() | |
+|[AI-generated literature reviews threaten scientific progress.](https://www.nature.com/articles/d41586-025-01603-0) |Although artificial intelligence (AI) tools such as OpenAI’s ‘deep research’ offer researchers the possibility of compiling literature reviews at unprecedented speed, they could undermine scientific progress. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
