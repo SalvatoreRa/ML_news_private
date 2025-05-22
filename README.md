@@ -167,8 +167,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Are groundbreaking science discoveries becoming harder to find?](https://www.nature.com/articles/d41586-025-01548-4) |Researchers are arguing over whether ‘disruptive’ or ‘novel’ science is waning – and how to remedy the problem. |
 |[The path for AI in poor nations does not need to be paved with billions.](https://www.nature.com/articles/d41586-025-01546-6) | Researchers in low- and middle-income countries show that home-grown artificial-intelligence technologies can be developed, even without large external investments.|
 |[‘AI models are capable of novel research’: OpenAI’s chief scientist on what to expect.](https://www.nature.com/articles/d41586-025-01485-2) |Jakub Pachocki, who leads the firm’s development of advanced models, is excited to release an open version to researchers. |
-|[.]() | |
-|[.]() | |
+|[Data resources must be protected from political interference.](https://www.nature.com/articles/d41586-025-01601-2) |In April, the US National Institutes of Health (NIH) prohibited researchers in “countries of concern”, such as China, Russia and Iran, from using its controlled-access data repositories and associated data.  |
+|[AI bots threaten online scientific infrastructure.](https://www.nature.com/articles/d41586-025-01602-1) |In April, Wikipedia reported on its battles with artificial intelligence (AI) bot crawlers |
 |[.]() | |
 |[.]() | |
 |[.]() | |
