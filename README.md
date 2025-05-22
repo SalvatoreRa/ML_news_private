@@ -110,7 +110,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Real-Time Speech Translation in Google Meet.](https://techcrunch.com/2025/05/20/google-meet-is-getting-real-time-speech-translation/) |Google Meet now offers real-time speech translation powered by DeepMind's audio language model, maintaining the speaker's voice, tone, and expression across different languages. |
 |[Google AI Mode in Search.](https://blog.google/products/search/google-search-ai-mode-update/#ai-mode-search) | Google is launching AI Mode in Search for all U.S. users, delivering a richer, multimodal search experience with enhanced reasoning, follow-up capabilities, and quick AI-generated summaries.|
 |[Imagen 4 and Veo 3.](https://cloud.google.com/blog/products/ai-machine-learning/announcing-veo-3-imagen-4-and-lyria-2-on-vertex-ai) |Google has introduced Imagen 4 for high-fidelity image generation, Veo 3 for video, and Lyria 2 for music, all available on Vertex AI. |
-|[.]() | |
+|[Former Apple Design Guru Jony Ive to Take Expansive Role at OpenAI.](https://www.wsj.com/tech/ai/former-apple-design-guru-jony-ive-to-take-expansive-role-at-openai-5787f7da?st=5D1JL4&reflink=desktopwebshare_permalink) |OpenAI has fully acquired io, its joint venture with famed Apple designer Jony Ive, for $6.5 billion in equity as it moves into hardware development. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -149,6 +149,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DeepSeek-V3 Training Insights.](https://arxiv.org/abs/2505.09343) | DeepSeek researchers have presented DeepSeek-V3 as an example of hardware-model co-design, tackling LLM scaling challenges with techniques like Multi-head Latent Attention, Mixture of Experts, FP8 training, and a Multi-Plane Network Topology to boost GPU efficiency and reduce communication costs.|
 |[Production-ready MCP integration for any AI application.](https://github.com/Klavis-AI/klavis) | Klavis AI streamlines integration with production-grade MCP servers, providing reliable connections, built-in authentication, and support for multiple clients. It works with custom MCP servers and over 100 tool integrations to enhance AI app scalability. Hosted options allow users to create MCP instances and configure OAuth for smooth deployment.|
 |[AI-generated literature reviews threaten scientific progress.](https://www.nature.com/articles/d41586-025-01603-0) |Although artificial intelligence (AI) tools such as OpenAI’s ‘deep research’ offer researchers the possibility of compiling literature reviews at unprecedented speed, they could undermine scientific progress. |
+|[Mistral's Agentic LLM for Software Engineering.](https://mistral.ai/news/devstral) | Mistral AI and All Hands AI have introduced Devstral, a new open-source LLM optimized for software engineering.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
