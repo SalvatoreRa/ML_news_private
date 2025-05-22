@@ -114,8 +114,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Former Apple Design Guru Jony Ive to Take Expansive Role at OpenAI.](https://www.wsj.com/tech/ai/former-apple-design-guru-jony-ive-to-take-expansive-role-at-openai-5787f7da?st=5D1JL4&reflink=desktopwebshare_permalink) |OpenAI has fully acquired io, its joint venture with famed Apple designer Jony Ive, for $6.5 billion in equity as it moves into hardware development. |
 |[Advancing Gemini's security safeguards.](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/) |Google DeepMind's study on protecting Gemini from indirect prompt injection attacks shows that stronger models aren't automatically more secure, and static defenses often break under adaptive threats. They found that adversarial training—fine-tuning on harmful prompt examples—greatly improved Gemini 2.5’s defenses without hurting regular performance. When paired with a "Warning" mechanism, attack success dropped sharply from 94.6% to 6.2%. |
 |[New tools and features in the Responses API.](https://openai.com/index/new-tools-and-features-in-the-responses-api/) | OpenAI has enhanced the Responses API with built-in tools and features, including support for all remote MCP servers and capabilities like image generation, Code Interpreter, and improved file search. The update boosts reliability, transparency, and privacy for both enterprises and developers. These tools are now available across the GPT‑4o, GPT‑4.1, and o-series reasoning models, with image generation exclusive to o3 in the reasoning series.|
-|[.]() | |
-|[.]() | |
+|[We're releasing v0's AI model.](https://x.com/v0/status/1925375968077914268?s=12) | v0's AI model, which has specialized web-dev knowledge and an OpenAI-compatible API, is now in beta in the API, AI SDK, and AI Playground.|
+|[Gemini Diffusion.](https://simonwillison.net/2025/May/21/gemini-diffusion/) |Gemini Diffusion is Google's first large language model to use diffusion in place of transformers - it has the performance of Gemini 2.0 Flash-Lite at five times the speed. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
