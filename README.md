@@ -118,8 +118,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini Diffusion.](https://simonwillison.net/2025/May/21/gemini-diffusion/) |Gemini Diffusion is Google's first large language model to use diffusion in place of transformers - it has the performance of Gemini 2.0 Flash-Lite at five times the speed. |
 |[Llama for Startups Program.](https://ai.meta.com/blog/llama-startup-program/) |Meta has announced a new initiative to support early-stage U.S. startups using its Llama models. |
 |[LM Arena, the organization behind popular AI leaderboards, lands $100M.](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) | LM Arena, a crowdsourced benchmarking project that major AI labs rely on to test and market their AI models, has raised $100 million in a seed funding round that values the organization at $600 million, according to Bloomberg.|
-|[.]() | |
-|[.]() | |
+|[Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’.](https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas) |Starbase in Texas, where the world’s richest man has a rocket-launching facility, was incorporated this week. Mars obsessives are flocking there – but some long-term locals are far from happy |
+|[iPhone design guru and OpenAI chief promise an AI device revolution.](https://www.theguardian.com/technology/2025/may/22/iphone-design-guru-openai-chief-promise-ai-device-revolution) | Sam Altman and Jony Ive say mystery product created by their partnership will be the coolest thing ever|
 |[.]() | |
 |[.]() | |
 |[.]() | |
