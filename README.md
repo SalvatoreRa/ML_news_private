@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LM Arena, the organization behind popular AI leaderboards, lands $100M.](https://techcrunch.com/2025/05/21/lm-arena-the-organization-behind-popular-ai-leaderboards-lands-100m/) | LM Arena, a crowdsourced benchmarking project that major AI labs rely on to test and market their AI models, has raised $100 million in a seed funding round that values the organization at $600 million, according to Bloomberg.|
 |[Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’.](https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas) |Starbase in Texas, where the world’s richest man has a rocket-launching facility, was incorporated this week. Mars obsessives are flocking there – but some long-term locals are far from happy |
 |[iPhone design guru and OpenAI chief promise an AI device revolution.](https://www.theguardian.com/technology/2025/may/22/iphone-design-guru-openai-chief-promise-ai-device-revolution) | Sam Altman and Jony Ive say mystery product created by their partnership will be the coolest thing ever|
-|[.]() | |
+|[AI could account for nearly half of datacentre power usage ‘by end of year’.](https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption) | Analysis comes as energy agency predicts systems will need as much energy by end of decade as Japan uses today|
 |[.]() | |
 |[.]() | |
 |[.]() | |
