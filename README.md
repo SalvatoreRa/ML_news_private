@@ -125,6 +125,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘Alexa, what do you know about us?’ What I discovered when I asked Amazon to tell me everything my family’s smart speaker had heard.](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard) |For years, Alexa has been our on-call vet, DJ, teacher, parent, therapist and whipping boy. What secrets would the data reveal |
 |[Introducing Claude 4.](https://www.anthropic.com/news/claude-4) |Anthropic has introduced Claude Opus 4 and Claude Sonnet 4, which raise the bar for coding, advanced reasoning, and AI Agents. These models are built for handling complex, extended tasks that can last for hours. Anthropic states they are the most advanced coding models available to date. |
 |[OpenAI Commits to Giant U.A.E. Data Center in Global Expansion.](https://www.wsj.com/tech/open-ai-abu-dhabi-data-center-1c3e384d?st=8RiaLQ&reflink=desktopwebshare_permalink) |OpenAI is collaborating with UAE-based G42 and other partners to construct a massive AI data center in Abu Dhabi, called Stargate UAE. The facility will have a capacity of 1 gigawatt, positioning it among the most powerful data centers globally. The UAE aims to establish itself as a major investor in AI companies and infrastructure and to become a leading hub for AI jobs. The first 200-megawatt phase of Stargate UAE is set to finish by the end of 2026. |
+|[OpenAI, Google and xAI battle for superstar AI talent, shelling out millions.](https://www.reuters.com/business/openai-google-xai-battle-superstar-ai-talent-shelling-out-millions-2025-05-21/) | Leading AI researchers at firms such as OpenAI can make more than \$10 million a year. The fierce demand for AI talent has sparked aggressive strategies for retaining and recruiting top talent, resembling the competitive dynamics seen in professional sports. Companies are even adopting creative hiring methods, including sports data analysis techniques, to address the talent shortage.|
+|[Anthropic Triggers Advanced Safety Protocols for Claude Opus 4.](https://www.anthropic.com/news/activating-asl3-protections) | Anthropic has implemented AI Safety Level 3 protections for Claude Opus, which feature stronger safeguards against model weight theft and deployment restrictions aimed at preventing the model's use in supporting biological or chemical weapons.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -133,7 +135,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 ## Resources
 |Link|description|
