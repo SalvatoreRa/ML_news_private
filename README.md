@@ -56,7 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AlphaEvolve: A coding agent for scientific and
 algorithmic discovery.](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) |AlphaEvolve, developed by Google DeepMind, is a coding agent that uses LLM-guided evolution to optimize algorithms and computational systems. It combines code generation, evaluation, and iterative refinement to drive discovery, exemplified by its development of a new 4×4 complex matrix multiplication algorithm using 48 multiplications, surpassing Strassen’s 1969 result. AlphaEvolve has improved mathematical bounds in problems like Erdős’s minimum overlap and the kissing number in 11 dimensions, while also optimizing Google’s compute infrastructure, from data center scheduling and matrix kernels to TPU circuits and compiler code. The system employs ensembles of Gemini models, advanced prompts, full-file evolution, and multi-objective filtering, with each element essential to its success, as shown by ablation studies. |
 |[LLMs Get Lost In Multi-Turn Conversation.](https://arxiv.org/abs/2505.06120) | LLMs degrade heavily in performance during multi-turn interactions with underspecified prompts, dropping 39% on average. Issues include premature answers, reliance on prior mistakes, and loss of middle-turn info. Sharded simulations reveal the problem across tasks, with interventions like recapping only partially effective. The paper concludes that the problem lies in model internals, not prompting.|
-|[.]() | |
+|[Reinforcement Learning for Reasoning in Large Language Models with One Training Example.](https://arxiv.org/abs/2504.20571) | RLVR dramatically boosts LLM math reasoning: just one example can match the performance of models trained on thousands. On Qwen2.5-Math-1.5B, 1-shot RLVR raises MATH500 accuracy from 36.0% to 73.6%, while 2-shot slightly surpasses that. This data efficiency generalizes across models and tasks, with post-saturation gains, domain transfer, and improved self-reflection. Policy gradient loss drives the gains, not weight decay.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -173,6 +173,14 @@ algorithmic discovery.](https://storage.googleapis.com/deepmind-media/DeepMind.c
 |[Emerging Properties in Unified Multimodal Pretraining.](https://arxiv.org/pdf/2505.14683) |ByteDance has introduced BAGEL, a new open-source multimodal foundation model designed for native multi-modal understanding and generation. BAGEL surpasses other open-source unified models, offering advanced capabilities like image editing, 3D manipulation, and world navigation. |
 |[Notte Labs Web Agent Framework.](https://github.com/nottelabs/notte) | Notte is an open-source framework for building AI agents that can browse and interact with websites. Its key feature is a "perception layer" that translates web pages into structured natural language descriptions.|
 |[Google I/O 2025 AI Recap Podcast.](https://blog.google/technology/ai/release-notes-podcast-io-2025/) |Google's latest Release Notes podcast highlights AI announcements from I/O 2025, including Gemini 2.5 Pro Deep Think, Veo 3, and developer tools like Jules.|
+|[AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale.](https://arxiv.org/abs/2505.08311) |A new 32B language model, trained on public data, matches or surpasses much larger MoE models in reasoning tasks, achieving 85.3 on AIME 2024 and 70.3 on LiveCodeBench. It uses a two-stage post-training pipeline (SFT and RL) with high-quality data filtering and a custom rollout framework for efficient, scalable inference. This approach shows that a well-designed training process can unlock top-tier performance at mid-scale sizes. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
