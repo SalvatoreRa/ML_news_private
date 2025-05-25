@@ -169,9 +169,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[LLM-based Agentic Development.](https://www.newsletter.swirlai.com/p/evaluation-driven-development-for) | A practical framework for building LLM-based agentic systems, covering evaluation-centric development.|
 |[How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel's SMB implementation.](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/) |This post describes how a security researcher found a zeroday vulnerability in the Linux kernel with the help of OpenAI's o3 model. The researcher used the o3 API directly, without any additional scaffolding, agentic frameworks, or tools. Large language models have advanced in their code reasoning abilities, and those in vulnerability research should take note, as this technology can greatly boost their efficiency and effectiveness. |
 |[Quantizing Diffusion Models.](https://huggingface.co/blog) |Quantization techniques in Hugging Face Diffusers shrink model size without large performance drops, making diffusion models more efficient and accessible. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Emerging Properties in Unified Multimodal Pretraining.](https://arxiv.org/pdf/2505.14683) |ByteDance has introduced BAGEL, a new open-source multimodal foundation model designed for native multi-modal understanding and generation. BAGEL surpasses other open-source unified models, offering advanced capabilities like image editing, 3D manipulation, and world navigation. |
+|[Notte Labs Web Agent Framework.](https://github.com/nottelabs/notte) | Notte is an open-source framework for building AI agents that can browse and interact with websites. Its key feature is a "perception layer" that translates web pages into structured natural language descriptions.|
+|[Google I/O 2025 AI Recap Podcast.](https://blog.google/technology/ai/release-notes-podcast-io-2025/) |Google's latest Release Notes podcast highlights AI announcements from I/O 2025, including Gemini 2.5 Pro Deep Think, Veo 3, and developer tools like Jules.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
