@@ -191,7 +191,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI bots threaten online scientific infrastructure.](https://www.nature.com/articles/d41586-025-01602-1) |In April, Wikipedia reported on its battles with artificial intelligence (AI) bot crawlers |
 |[The SignalFire State of Talent Report.](https://www.signalfire.com/blog/signalfire-state-of-talent-report-2025) | Tech hiring for recent grads has dropped over 50% from pre-pandemic levels, as AI tools take over many entry-level roles, though demand for experienced engineers remains strong. Anthropic has become the frontrunner in the AI talent race, keeping 80% of its staff and actively recruiting from rivals. Engineers are now eight times more likely to leave OpenAI or DeepMind for Anthropic than the other way around.|
 |[My Prompt, My Reality.](https://tomtunguz.com/user-perception-quality/) | AI products rely significantly on user prompts, unlike traditional software that delivers consistent results. Outcomes can vary based on subtle intent and context, even with skilled prompting. Product teams can enhance performance by refining prompts and using follow-up questions to better steer users.|
-|[.]() | |
+|[Stargate and the AI Industrial Revolution.](https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution) | AI isn't just a clever software layer atop the internet stack, it is the foundation of a new Industrial Revolution - Stargate isn't a data center, it's a factory for cognition.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
