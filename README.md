@@ -123,8 +123,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI could account for nearly half of datacentre power usage ‘by end of year’.](https://www.theguardian.com/environment/2025/may/22/ai-data-centre-power-consumption) | Analysis comes as energy agency predicts systems will need as much energy by end of decade as Japan uses today|
 |[Live facial recognition cameras may become ‘commonplace’ as police use soars.](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales) |The Guardian and Liberty Investigates find police in England and Wales believe expansion is likely after 4.7m faces scanned in 2024 |
 |[‘Alexa, what do you know about us?’ What I discovered when I asked Amazon to tell me everything my family’s smart speaker had heard.](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard) |For years, Alexa has been our on-call vet, DJ, teacher, parent, therapist and whipping boy. What secrets would the data reveal |
-|[.]() | |
-|[.]() | |
+|[Introducing Claude 4.](https://www.anthropic.com/news/claude-4) |Anthropic has introduced Claude Opus 4 and Claude Sonnet 4, which raise the bar for coding, advanced reasoning, and AI Agents. These models are built for handling complex, extended tasks that can last for hours. Anthropic states they are the most advanced coding models available to date. |
+|[OpenAI Commits to Giant U.A.E. Data Center in Global Expansion.](https://www.wsj.com/tech/open-ai-abu-dhabi-data-center-1c3e384d?st=8RiaLQ&reflink=desktopwebshare_permalink) |OpenAI is collaborating with UAE-based G42 and other partners to construct a massive AI data center in Abu Dhabi, called Stargate UAE. The facility will have a capacity of 1 gigawatt, positioning it among the most powerful data centers globally. The UAE aims to establish itself as a major investor in AI companies and infrastructure and to become a leading hub for AI jobs. The first 200-megawatt phase of Stargate UAE is set to finish by the end of 2026. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
