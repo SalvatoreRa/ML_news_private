@@ -165,8 +165,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[30-day forecast? Weather prediction might be able to look beyond 2 weeks.](https://www.science.org/content/article/30-day-forecast-weather-prediction-might-be-able-look-beyond-2-weeks) |AI models suggest the true limits of the "butterfly effect" remain unknown|
+|[Low-quality papers are surging by exploiting public data sets and AI.](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai) | Paper mills are also likely contributing to “false discoveries”|
 |[.]() | |
 |[.]() | |
 |[.]() | |
