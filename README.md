@@ -126,7 +126,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Deep learning–guided design of dynamic proteins.](https://www.science.org/doi/10.1126/science.adr7094) |Guo et al. developed a computational approach to designing such dynamic proteins that can sense and respond to binding of a calcium ion. Starting with a static protein that binds a calcium ion, the authors identified potential alternate conformations and used AlphaFold2 predictions to identify sequences that were compatible with both structures.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
