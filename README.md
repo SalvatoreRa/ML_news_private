@@ -171,7 +171,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Anthropic and Legendary Music Producer Rick Rubin Publish Manuscript on Vibe Coding.](https://www.thewayofcode.com/) |Inspired by Lao Tzu's Tao Te Ching, “The Way of Code” is a reflection on humility and creativity through vibe coding, featuring interactive AI-generated visualizations. |
 |[How AI Is Eroding the Norms of War.](https://aifrontiersmedia.substack.com/p/how-ai-is-eroding-the-norms-of-war) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
 |[Memory Changes Everything.](https://writing.nikunjk.com/p/memory-changes-everything) | ChatGPT's memory shows that AI doesn't just respond, but truly grasps patterns in how we think.|
-|[.]() | |
+|[Breaking Down the Claude 4 System Prompt.](https://simonwillison.net/2025/May/25/claude-4-system-prompt/) |Anthropic's extensive system prompt shows the company’s efforts to guide Claude away from controversial AI behavior by enforcing anti-sycophancy rules and strict copyright guidelines. The prompt tells Claude to fact-check users because "they sometimes make errors themselves," and it includes hardcoded 2024 election results to address confusion in the training data. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
