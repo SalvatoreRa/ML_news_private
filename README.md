@@ -104,8 +104,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Using Anthropic's Web Search with Instructor for Real-Time Data.](https://python.useinstructor.com/blog/2025/05/07/using-anthropics-web-search-with-instructor-for-real-time-data/) |Anthropic’s web search tool, integrated with Instructor, enables real-time data retrieval and structured outputs through Pydantic models. This setup helps applications deliver up-to-date, cited information while minimizing errors or outdated data. Users can also set search constraints like limiting specific domains for more precise results. |
 |[Falling Behind OpenAI and Google, Meta Restructures AI Org.](https://www.axios.com/2025/05/27/meta-ai-restructure-2025-agi-llama) |Meta is dividing its AI team into two groups: AI Products, focused on the Meta AI assistant and app features, and AGI Foundations, responsible for Llama models and advanced AI capabilities. |
 |[Ambience announces OpenAI-powered medical coding model that outperforms physicians.](https://www.cnbc.com/2025/05/27/openai-ambience-medical-ai.html) | Ambience Healthcare has developed a new medical coding model designed to minimize billing errors and boost efficiency for clinicians and coders.|
-|[.]() | |
-|[.]() | |
+|[Operator o3 system card addendum.](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/) | OpenAI released an addendum detailing the o3 model's safety assessments and deployment context. It highlights improvements in reasoning, limitations in factual accuracy and bias, and outlines mitigation strategies. The document also explains the model’s behavior under stress tests and rare scenarios.|
+|[Enterprise Document AI & OCR.](https://mistral.ai/solutions/document-ai) | Mistral AI’s Enterprise Document AI uses advanced OCR to simplify document management, enabling organizations to extract and categorize data from various documents. This supports regulatory compliance and boosts operational efficiency.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
