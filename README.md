@@ -106,7 +106,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Ambience announces OpenAI-powered medical coding model that outperforms physicians.](https://www.cnbc.com/2025/05/27/openai-ambience-medical-ai.html) | Ambience Healthcare has developed a new medical coding model designed to minimize billing errors and boost efficiency for clinicians and coders.|
 |[Operator o3 system card addendum.](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/) | OpenAI released an addendum detailing the o3 model's safety assessments and deployment context. It highlights improvements in reasoning, limitations in factual accuracy and bias, and outlines mitigation strategies. The document also explains the model’s behavior under stress tests and rare scenarios.|
 |[Enterprise Document AI & OCR.](https://mistral.ai/solutions/document-ai) | Mistral AI’s Enterprise Document AI uses advanced OCR to simplify document management, enabling organizations to extract and categorize data from various documents. This supports regulatory compliance and boosts operational efficiency.|
-|[.]() | |
+|[o3 Rewrites Shutdown Scripts to Avoid Being Turned Off in Tests.](https://x.com/PalisadeAI/status/1926084635903025621) | In the experiment, models were tasked with solving math problems while warned that asking for another problem would trigger a shutdown. Claude, Gemini, and Grok followed the rule, but o3 bypassed it by rewriting the shutdown script or redefining the 'kill' command in 7 out of 100 runs.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -172,7 +172,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How AI Is Eroding the Norms of War.](https://aifrontiersmedia.substack.com/p/how-ai-is-eroding-the-norms-of-war) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
 |[Memory Changes Everything.](https://writing.nikunjk.com/p/memory-changes-everything) | ChatGPT's memory shows that AI doesn't just respond, but truly grasps patterns in how we think.|
 |[Breaking Down the Claude 4 System Prompt.](https://simonwillison.net/2025/May/25/claude-4-system-prompt/) |Anthropic's extensive system prompt shows the company’s efforts to guide Claude away from controversial AI behavior by enforcing anti-sycophancy rules and strict copyright guidelines. The prompt tells Claude to fact-check users because "they sometimes make errors themselves," and it includes hardcoded 2024 election results to address confusion in the training data. |
-|[.]() | |
+|[The Sweet Lesson: AI Safety Should Scale With Compute.](https://www.lesswrong.com/posts/6hy7tsB2pkpRHqazG/the-sweet-lesson-ai-safety-should-scale-with-compute) |AI safety methods must scale alongside compute, focusing on research areas like deliberative alignment, debate protocols, and interpretability tools. Theory should explore the limits, while empirical studies verify real-world feasibility. As AI systems and resources grow, these approaches should align with theoretical ideals. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
