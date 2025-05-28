@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Learning to Reason without External Rewards.](https://arxiv.org/abs/2505.19590) |INTUITOR is a reinforcement learning approach that uses a language model’s internal confidence as a reward signal, avoiding expensive domain-specific supervision. This method matches performance on math benchmarks and outperforms on coding tasks, providing an alternative to existing RL techniques that depend on verifiable rewards. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -100,7 +100,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral Launches Agents API.](https://mistral.ai/news/agents-api) | Mistral's new Agents API enables persistent, multi-agent workflows with built-in connectors for code execution, web search, RAG, image generation, and MCP support.|
 |[OpenAI Launches "Sign in with ChatGPT".](https://openai.com/form/sign-in-with-chatgpt/) |OpenAI is creating a system that enables users to sign into third-party apps with their ChatGPT accounts, much like "Sign in with Google," and is looking for developer partners. |
 |[Claude's Voice Mode.](https://threadreaderapp.com/thread/1927463559836877214.html) | Anthropic is introducing a beta voice feature for Claude on mobile, allowing users to perform tasks like summarizing calendars or searching documents through voice commands.|
-|[.]() | |
+|[FutureHouse previews an AI tool for ‘data-driven’ biology discovery.](https://techcrunch.com/2025/05/06/futurehouse-previews-an-ai-tool-for-data-driven-biology-discovery/) |FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an “AI scientist” within the next decade, has released a new tool that it claims can help support “data-driven discovery” in biology. The new tool comes just a week after FutureHouse launched its API and platform. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -135,7 +135,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemma 3n Architectural Innovations - Speculation and poking around in the model.](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/) |A quick look at Gemma 3n, a new member of the Gemma family with free weights that was released during Google I/O. |
 |[OAuth for Agentic AI.](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
 |[Efficient GRPO at Scale.](https://huggingface.co/blog/liger-grpo) |Liger is a fine-tuned trainer for Group Relative Policy Optimization (GRPO) that reduces memory usage by 40% and supports FSDP and PEFT, improving the efficiency and scalability of reinforcement learning fine-tuning. |
-|[.]() | |
+|[Benchmarking Audio-Visual QA.](https://arxiv.org/abs/2505.17862v1) |Daily-Omni is a benchmark and agent for evaluating models on tasks that need synchronized audio-visual comprehension, without requiring any training. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
