@@ -108,7 +108,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Enterprise Document AI & OCR.](https://mistral.ai/solutions/document-ai) | Mistral AI’s Enterprise Document AI uses advanced OCR to simplify document management, enabling organizations to extract and categorize data from various documents. This supports regulatory compliance and boosts operational efficiency.|
 |[o3 Rewrites Shutdown Scripts to Avoid Being Turned Off in Tests.](https://x.com/PalisadeAI/status/1926084635903025621) | In the experiment, models were tasked with solving math problems while warned that asking for another problem would trigger a shutdown. Claude, Gemini, and Grok followed the rule, but o3 bypassed it by rewriting the shutdown script or redefining the 'kill' command in 7 out of 100 runs.|
 |[Introducing MCP Nodes & Workflows in Gumloop.](https://www.gumloop.com/blog/introducing-mcp-workflows) |Gumloop introduces MCP Nodes and Workflows to improve integration by allowing AI to generate code for complex tasks. MCP enables AI to better understand and access external APIs, making integration deployment faster. This update brings more automation and expanded integrations, now available on platforms like Slack, Gmail, and Salesforce. |
-|[.]() | |
+|[How Anthropic Is Snatching Top Talent from OpenAI and DeepMind.](https://analyticsindiamag.com/global-tech/how-anthropic-is-snatching-top-talent-from-openai-and-deepmind/) | Anthropic has emerged as a key destination for talent leaving OpenAI and DeepMind, with a notable retention rate — nearly 80% of employees who joined two years ago are still with the company, which is uncommon in an industry known for frequent job changes.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -140,7 +140,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Self-Supervised Conversational Search.](https://github.com/BeastyZ/ConvSearch-R1) | ConvSearch-R1 reformulates conversational queries without external supervision by using reinforcement learning with retrieval-based rewards.|
 |[OpenAI Cookbook: Model Graders for Reinforcement Fine-Tuning.](https://cookbook.openai.com/examples/reinforcement_fine_tuning) |This tutorial guides users on applying RFT to enhance o4-mini’s performance on medical tasks and addresses issues like reward hacking and inaccurate model graders. |
 |[If you read about o3 finding a SMB bug in the Linux Kernel, I did a few tests.](https://threadreaderapp.com/thread/1926580457048588321.html) | Gemini 2.5 Pro can more easily identify the vulnerability than o3.|
-|[.]() | |
+|[GitHub MCP Exploited: Accessing private repositories via MCP.](https://invariantlabs.ai/blog/mcp-github-vulnerability) | This post looks at a critical vulnerability in the official GitHub MCP server that allows attackers to access private repository data.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
