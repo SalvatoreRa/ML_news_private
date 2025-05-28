@@ -101,7 +101,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Launches "Sign in with ChatGPT".](https://openai.com/form/sign-in-with-chatgpt/) |OpenAI is creating a system that enables users to sign into third-party apps with their ChatGPT accounts, much like "Sign in with Google," and is looking for developer partners. |
 |[Claude's Voice Mode.](https://threadreaderapp.com/thread/1927463559836877214.html) | Anthropic is introducing a beta voice feature for Claude on mobile, allowing users to perform tasks like summarizing calendars or searching documents through voice commands.|
 |[FutureHouse previews an AI tool for ‘data-driven’ biology discovery.](https://techcrunch.com/2025/05/06/futurehouse-previews-an-ai-tool-for-data-driven-biology-discovery/) |FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an “AI scientist” within the next decade, has released a new tool that it claims can help support “data-driven discovery” in biology. The new tool comes just a week after FutureHouse launched its API and platform. |
-|[.]() | |
+|[Using Anthropic's Web Search with Instructor for Real-Time Data.](https://python.useinstructor.com/blog/2025/05/07/using-anthropics-web-search-with-instructor-for-real-time-data/) |Anthropic’s web search tool, integrated with Instructor, enables real-time data retrieval and structured outputs through Pydantic models. This setup helps applications deliver up-to-date, cited information while minimizing errors or outdated data. Users can also set search constraints like limiting specific domains for more precise results. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
