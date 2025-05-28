@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Alabama paid a law firm millions to defend its prisons. It used AI and turned in fake citations.](https://www.theguardian.com/us-news/2025/may/24/alabama-prison-lawyers-chatgpt-butler-snow) | Butler Snow faces sanctions after lawyer cites false case law defending against inmate who says he was stabbed 20 times|
 |[Apple’s triple threat: tariffs, AI troubles and a Fortnite fail.](https://www.theguardian.com/technology/2025/may/27/apples-triple-threat-tariffs-ai-troubles-and-a-fortnite-fail) |Once unshakable, Apple is showing rare signs of strain. Meanwhile, OpenAI bets billions on its next act, and Trump’s crypto fans lose millions |
 |[Trump’s media company to take $2.5bn investment to buy bitcoin.](https://www.theguardian.com/us-news/2025/may/27/trump-media-bitcoin-crypto) | About 50 investors will put up $1.5bn in private placement for common shares in the Truth Social operator|
-|[.]() | |
-|[.]() | |
+|[OpenAI Operator Update.](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/) |o3 Operator, OpenAI's CUA-powered browser agent, has replaced its previous GPT-4o-based model. |
+|[Nvidia to launch cheaper Blackwell AI chip for China after US export curbs, sources say.](https://www.reuters.com/world/china/nvidia-launch-cheaper-blackwell-ai-chip-china-after-us-export-curbs-sources-say-2025-05-24/) |Nvidia is preparing to release a new AI chip for China at a much lower price than the previously restricted H20 model. Mass production is set to begin as early as June. The new chips will be priced between \$6,500 and \$8,000, compared to the H20’s \$10,000 to \$12,000, reflecting their reduced specs and simpler manufacturing process. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,7 +127,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Deep learning–guided design of dynamic proteins.](https://www.science.org/doi/10.1126/science.adr7094) |Guo et al. developed a computational approach to designing such dynamic proteins that can sense and respond to binding of a calcium ion. Starting with a static protein that binds a calcium ion, the authors identified potential alternate conformations and used AlphaFold2 predictions to identify sequences that were compatible with both structures.  |
-|[.]() | |
+|[Attention Wasn't All We Needed.](https://www.stephendiehl.com/posts/post_transformers/) | Many new techniques have emerged since the original 'Attention Is All You Need' paper. This article reviews some of the most significant ones developed over time and aims to implement their core concepts in a concise manner using the Pytorch framework.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
