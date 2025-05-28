@@ -130,8 +130,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Attention Wasn't All We Needed.](https://www.stephendiehl.com/posts/post_transformers/) | Many new techniques have emerged since the original 'Attention Is All You Need' paper. This article reviews some of the most significant ones developed over time and aims to implement their core concepts in a concise manner using the Pytorch framework.|
 |[An MCP-powered Agent in ~70 Lines of Code.](https://huggingface.co/blog/python-tiny-agents) |Hugging Face has extended Tiny Agent design to Python, using the Model Context Protocol (MCP) to streamline tool integration for LLMs. |
 |[FM-Intent Enhances Netflix Recommendations.](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8) |Netflix's FM-Intent is a hierarchical multi-task learning model that improves recommendation accuracy by modeling user session intent from implicit signals. |
-|[.]() | |
-|[.]() | |
+|[Training-free Agent for App Automation.](https://xieincz.github.io/GUI-explorer.github.io/) |GUI-explorer is a training-free agent that independently explores mobile app interfaces and gathers knowledge through unsupervised methods. It enhances task success rates without requiring retraining. |
+|[Benchmarking Spatial Understanding in MLLMs.](https://haoningwu3639.github.io/SpatialScore/) | SpatialScore is a new multimodal benchmark designed to assess 3D spatial reasoning in large models, combining 28,000 samples from 12 different datasets.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -168,7 +168,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[30-day forecast? Weather prediction might be able to look beyond 2 weeks.](https://www.science.org/content/article/30-day-forecast-weather-prediction-might-be-able-look-beyond-2-weeks) |AI models suggest the true limits of the "butterfly effect" remain unknown|
 |[Low-quality papers are surging by exploiting public data sets and AI.](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai) | Paper mills are also likely contributing to “false discoveries.”|
 |[If Ted Talks are getting shorter, what does that say about our attention spans?](https://www.theguardian.com/technology/2025/may/27/if-ted-talks-are-getting-shorter-what-does-that-say-about-our-attention-spans) |According to novelist Elif Shafak, the platform insisted she keep her talk snappy because viewers can’t focus for 19 minutes. Now ... where was I? |
-|[.]() | |
+|[Infinite tool use.](https://snimu.github.io/2025/05/23/infinite-tool-use.html) | Large language models should only produce tool calls and their arguments, as relying solely on tools enables them to offload much of their intelligence to more efficient, specialized programs. While some developers are adopting this tool-use approach, it's mainly limited to short contexts and parts of the model output. This post presents examples of how the tool-use paradigm can enhance different fields like text editing, video understanding, and 3D generation.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
