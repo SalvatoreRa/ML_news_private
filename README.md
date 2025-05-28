@@ -92,7 +92,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘My parents didn’t have a clue’: why many digital natives would not give their kids smartphones.](https://www.theguardian.com/society/2025/may/25/my-parents-didnt-have-a-clue-why-many-digital-natives-would-not-give-their-kids-smartphones) |Online bullying, violence and paedophilia have made young people sceptical of unfettered access to technology |
 |[Alabama paid a law firm millions to defend its prisons. It used AI and turned in fake citations.](https://www.theguardian.com/us-news/2025/may/24/alabama-prison-lawyers-chatgpt-butler-snow) | Butler Snow faces sanctions after lawyer cites false case law defending against inmate who says he was stabbed 20 times|
 |[Apple’s triple threat: tariffs, AI troubles and a Fortnite fail.](https://www.theguardian.com/technology/2025/may/27/apples-triple-threat-tariffs-ai-troubles-and-a-fortnite-fail) |Once unshakable, Apple is showing rare signs of strain. Meanwhile, OpenAI bets billions on its next act, and Trump’s crypto fans lose millions |
-|[.]() | |
+|[Trump’s media company to take $2.5bn investment to buy bitcoin.](https://www.theguardian.com/us-news/2025/may/27/trump-media-bitcoin-crypto) | About 50 investors will put up $1.5bn in private placement for common shares in the Truth Social operator|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,8 +166,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[30-day forecast? Weather prediction might be able to look beyond 2 weeks.](https://www.science.org/content/article/30-day-forecast-weather-prediction-might-be-able-look-beyond-2-weeks) |AI models suggest the true limits of the "butterfly effect" remain unknown|
-|[Low-quality papers are surging by exploiting public data sets and AI.](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai) | Paper mills are also likely contributing to “false discoveries”|
-|[.]() | |
+|[Low-quality papers are surging by exploiting public data sets and AI.](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai) | Paper mills are also likely contributing to “false discoveries.”|
+|[If Ted Talks are getting shorter, what does that say about our attention spans?](https://www.theguardian.com/technology/2025/may/27/if-ted-talks-are-getting-shorter-what-does-that-say-about-our-attention-spans) |According to novelist Elif Shafak, the platform insisted she keep her talk snappy because viewers can’t focus for 19 minutes. Now ... where was I? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
