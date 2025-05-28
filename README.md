@@ -128,8 +128,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Deep learning–guided design of dynamic proteins.](https://www.science.org/doi/10.1126/science.adr7094) |Guo et al. developed a computational approach to designing such dynamic proteins that can sense and respond to binding of a calcium ion. Starting with a static protein that binds a calcium ion, the authors identified potential alternate conformations and used AlphaFold2 predictions to identify sequences that were compatible with both structures.  |
 |[Attention Wasn't All We Needed.](https://www.stephendiehl.com/posts/post_transformers/) | Many new techniques have emerged since the original 'Attention Is All You Need' paper. This article reviews some of the most significant ones developed over time and aims to implement their core concepts in a concise manner using the Pytorch framework.|
-|[.]() | |
-|[.]() | |
+|[An MCP-powered Agent in ~70 Lines of Code.](https://huggingface.co/blog/python-tiny-agents) |Hugging Face has extended Tiny Agent design to Python, using the Model Context Protocol (MCP) to streamline tool integration for LLMs. |
+|[FM-Intent Enhances Netflix Recommendations.](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8) |Netflix's FM-Intent is a hierarchical multi-task learning model that improves recommendation accuracy by modeling user session intent from implicit signals. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
