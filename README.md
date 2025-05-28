@@ -121,7 +121,6 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
 
 ## Resources
 |Link|description|
@@ -133,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Training-free Agent for App Automation.](https://xieincz.github.io/GUI-explorer.github.io/) |GUI-explorer is a training-free agent that independently explores mobile app interfaces and gathers knowledge through unsupervised methods. It enhances task success rates without requiring retraining. |
 |[Benchmarking Spatial Understanding in MLLMs.](https://haoningwu3639.github.io/SpatialScore/) | SpatialScore is a new multimodal benchmark designed to assess 3D spatial reasoning in large models, combining 28,000 samples from 12 different datasets.|
 |[It’s hard to make scheming evals look realistic for LLMs.](https://www.greaterwrong.com/posts/TBk2dbWkg2F7dB3jb/it-s-really-hard-to-make-scheming-evals-look-realistic) |Claude 3.7 Sonnet easily detects when it's being evaluated for scheming on the Apollo's scheming benchmark. |
-|[.]() | |
+|[Gemma 3n Architectural Innovations - Speculation and poking around in the model.](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/) |A quick look at Gemma 3n, a new member of the Gemma family with free weights that was released during Google I/O. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -170,6 +169,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[If Ted Talks are getting shorter, what does that say about our attention spans?](https://www.theguardian.com/technology/2025/may/27/if-ted-talks-are-getting-shorter-what-does-that-say-about-our-attention-spans) |According to novelist Elif Shafak, the platform insisted she keep her talk snappy because viewers can’t focus for 19 minutes. Now ... where was I? |
 |[Infinite tool use.](https://snimu.github.io/2025/05/23/infinite-tool-use.html) | Large language models should only produce tool calls and their arguments, as relying solely on tools enables them to offload much of their intelligence to more efficient, specialized programs. While some developers are adopting this tool-use approach, it's mainly limited to short contexts and parts of the model output. This post presents examples of how the tool-use paradigm can enhance different fields like text editing, video understanding, and 3D generation.|
 |[GenAI's adoption puzzle.](https://www.ben-evans.com/benedictevans/2025/5/25/genais-adoption-puzzle) |ChatGPT's growth rate far surpassed that of PCs, the web, or smartphones, largely because it was accessible as a website, requiring no new hardware or infrastructure. However, ChatGPT’s daily to weekly active user ratio remains low. This could improve as models advance and new use cases emerge. The chatbot interface may only appeal to certain users and situations, suggesting it might be more effective to embed ChatGPT’s features within other products. |
+|[Anthropic and Legendary Music Producer Rick Rubin Publish Manuscript on Vibe Coding.](https://www.thewayofcode.com/) |Inspired by Lao Tzu's Tao Te Ching, “The Way of Code” is a reflection on humility and creativity through vibe coding, featuring interactive AI-generated visualizations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
