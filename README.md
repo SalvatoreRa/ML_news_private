@@ -102,8 +102,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude's Voice Mode.](https://threadreaderapp.com/thread/1927463559836877214.html) | Anthropic is introducing a beta voice feature for Claude on mobile, allowing users to perform tasks like summarizing calendars or searching documents through voice commands.|
 |[FutureHouse previews an AI tool for ‘data-driven’ biology discovery.](https://techcrunch.com/2025/05/06/futurehouse-previews-an-ai-tool-for-data-driven-biology-discovery/) |FutureHouse, an Eric Schmidt-backed nonprofit that aims to build an “AI scientist” within the next decade, has released a new tool that it claims can help support “data-driven discovery” in biology. The new tool comes just a week after FutureHouse launched its API and platform. |
 |[Using Anthropic's Web Search with Instructor for Real-Time Data.](https://python.useinstructor.com/blog/2025/05/07/using-anthropics-web-search-with-instructor-for-real-time-data/) |Anthropic’s web search tool, integrated with Instructor, enables real-time data retrieval and structured outputs through Pydantic models. This setup helps applications deliver up-to-date, cited information while minimizing errors or outdated data. Users can also set search constraints like limiting specific domains for more precise results. |
-|[.]() | |
-|[.]() | |
+|[Falling Behind OpenAI and Google, Meta Restructures AI Org.](https://www.axios.com/2025/05/27/meta-ai-restructure-2025-agi-llama) |Meta is dividing its AI team into two groups: AI Products, focused on the Meta AI assistant and app features, and AGI Foundations, responsible for Llama models and advanced AI capabilities. |
+|[Ambience announces OpenAI-powered medical coding model that outperforms physicians.](https://www.cnbc.com/2025/05/27/openai-ambience-medical-ai.html) | Ambience Healthcare has developed a new medical coding model designed to minimize billing errors and boost efficiency for clinicians and coders.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -170,7 +170,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GenAI's adoption puzzle.](https://www.ben-evans.com/benedictevans/2025/5/25/genais-adoption-puzzle) |ChatGPT's growth rate far surpassed that of PCs, the web, or smartphones, largely because it was accessible as a website, requiring no new hardware or infrastructure. However, ChatGPT’s daily to weekly active user ratio remains low. This could improve as models advance and new use cases emerge. The chatbot interface may only appeal to certain users and situations, suggesting it might be more effective to embed ChatGPT’s features within other products. |
 |[Anthropic and Legendary Music Producer Rick Rubin Publish Manuscript on Vibe Coding.](https://www.thewayofcode.com/) |Inspired by Lao Tzu's Tao Te Ching, “The Way of Code” is a reflection on humility and creativity through vibe coding, featuring interactive AI-generated visualizations. |
 |[How AI Is Eroding the Norms of War.](https://aifrontiersmedia.substack.com/p/how-ai-is-eroding-the-norms-of-war) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
-|[.]() | |
+|[Memory Changes Everything.](https://writing.nikunjk.com/p/memory-changes-everything) | ChatGPT's memory shows that AI doesn't just respond, but truly grasps patterns in how we think.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
