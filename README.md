@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Learning to Reason without External Rewards.](https://arxiv.org/abs/2505.19590) |INTUITOR is a reinforcement learning approach that uses a language model’s internal confidence as a reward signal, avoiding expensive domain-specific supervision. This method matches performance on math benchmarks and outperforms on coding tasks, providing an alternative to existing RL techniques that depend on verifiable rewards. |
-|[.]() | |
+|[Forward-only Diffusion Probabilistic Models.](https://algolzw.github.io/fod/) | FoD presents a forward-only generative modeling framework that employs a mean-reverting stochastic differential equation. This approach allows for non-Markov sampling and delivers competitive image generation results with fewer steps.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -136,7 +136,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OAuth for Agentic AI.](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
 |[Efficient GRPO at Scale.](https://huggingface.co/blog/liger-grpo) |Liger is a fine-tuned trainer for Group Relative Policy Optimization (GRPO) that reduces memory usage by 40% and supports FSDP and PEFT, improving the efficiency and scalability of reinforcement learning fine-tuning. |
 |[Benchmarking Audio-Visual QA.](https://arxiv.org/abs/2505.17862v1) |Daily-Omni is a benchmark and agent for evaluating models on tasks that need synchronized audio-visual comprehension, without requiring any training. |
-|[.]() | |
+|[Evaluating Missing Modalities in Multimodal Learning.](https://arxiv.org/abs/2505.16953v1) |The ICYM2I framework corrects for bias when estimating information gain in multimodal models with missing data using inverse probability weighting. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
