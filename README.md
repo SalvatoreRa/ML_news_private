@@ -97,8 +97,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia to launch cheaper Blackwell AI chip for China after US export curbs, sources say.](https://www.reuters.com/world/china/nvidia-launch-cheaper-blackwell-ai-chip-china-after-us-export-curbs-sources-say-2025-05-24/) |Nvidia is preparing to release a new AI chip for China at a much lower price than the previously restricted H20 model. Mass production is set to begin as early as June. The new chips will be priced between \$6,500 and \$8,000, compared to the H20’s \$10,000 to \$12,000, reflecting their reduced specs and simpler manufacturing process. |
 |[Oracle to buy $40 billion of Nvidia chips for OpenAI's US data center, FT reports.](https://www.reuters.com/business/oracle-buy-40-billion-nvidia-chips-openais-us-data-center-ft-reports-2025-05-23/) | Oracle will purchase about 400,000 GB200 chips for the Stargate data center in Abilene, Texas.|
 |[TV Showcases Google's Veo AI Video Capabilities.](https://labs.google/flow/tv/channel/ultra-wide/LuRTvKFZWwlFEjsV5N9E) Flow TV continuously streams user-generated AI video clips, and their associated prompts, organized into thematic channels. |
-|[.]() | |
-|[.]() | |
+|[Mistral Launches Agents API.](https://mistral.ai/news/agents-api) | Mistral's new Agents API enables persistent, multi-agent workflows with built-in connectors for code execution, web search, RAG, image generation, and MCP support.|
+|[OpenAI Launches "Sign in with ChatGPT".](https://openai.com/form/sign-in-with-chatgpt/) |OpenAI is creating a system that enables users to sign into third-party apps with their ChatGPT accounts, much like "Sign in with Google," and is looking for developer partners. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
