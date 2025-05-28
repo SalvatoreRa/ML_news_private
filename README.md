@@ -134,7 +134,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[It’s hard to make scheming evals look realistic for LLMs.](https://www.greaterwrong.com/posts/TBk2dbWkg2F7dB3jb/it-s-really-hard-to-make-scheming-evals-look-realistic) |Claude 3.7 Sonnet easily detects when it's being evaluated for scheming on the Apollo's scheming benchmark. |
 |[Gemma 3n Architectural Innovations - Speculation and poking around in the model.](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/) |A quick look at Gemma 3n, a new member of the Gemma family with free weights that was released during Google I/O. |
 |[OAuth for Agentic AI.](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
-|[.]() | |
+|[Efficient GRPO at Scale.](https://huggingface.co/blog/liger-grpo) |Liger is a fine-tuned trainer for Group Relative Policy Optimization (GRPO) that reduces memory usage by 40% and supports FSDP and PEFT, improving the efficiency and scalability of reinforcement learning fine-tuning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
