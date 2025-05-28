@@ -99,7 +99,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[TV Showcases Google's Veo AI Video Capabilities.](https://labs.google/flow/tv/channel/ultra-wide/LuRTvKFZWwlFEjsV5N9E) Flow TV continuously streams user-generated AI video clips, and their associated prompts, organized into thematic channels. |
 |[Mistral Launches Agents API.](https://mistral.ai/news/agents-api) | Mistral's new Agents API enables persistent, multi-agent workflows with built-in connectors for code execution, web search, RAG, image generation, and MCP support.|
 |[OpenAI Launches "Sign in with ChatGPT".](https://openai.com/form/sign-in-with-chatgpt/) |OpenAI is creating a system that enables users to sign into third-party apps with their ChatGPT accounts, much like "Sign in with Google," and is looking for developer partners. |
-|[.]() | |
+|[Claude's Voice Mode.](https://threadreaderapp.com/thread/1927463559836877214.html) | Anthropic is introducing a beta voice feature for Claude on mobile, allowing users to perform tasks like summarizing calendars or searching documents through voice commands.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
