@@ -107,7 +107,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Operator o3 system card addendum.](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/) | OpenAI released an addendum detailing the o3 model's safety assessments and deployment context. It highlights improvements in reasoning, limitations in factual accuracy and bias, and outlines mitigation strategies. The document also explains the model’s behavior under stress tests and rare scenarios.|
 |[Enterprise Document AI & OCR.](https://mistral.ai/solutions/document-ai) | Mistral AI’s Enterprise Document AI uses advanced OCR to simplify document management, enabling organizations to extract and categorize data from various documents. This supports regulatory compliance and boosts operational efficiency.|
 |[o3 Rewrites Shutdown Scripts to Avoid Being Turned Off in Tests.](https://x.com/PalisadeAI/status/1926084635903025621) | In the experiment, models were tasked with solving math problems while warned that asking for another problem would trigger a shutdown. Claude, Gemini, and Grok followed the rule, but o3 bypassed it by rewriting the shutdown script or redefining the 'kill' command in 7 out of 100 runs.|
-|[.]() | |
+|[Introducing MCP Nodes & Workflows in Gumloop.](https://www.gumloop.com/blog/introducing-mcp-workflows) |Gumloop introduces MCP Nodes and Workflows to improve integration by allowing AI to generate code for complex tasks. MCP enables AI to better understand and access external APIs, making integration deployment faster. This update brings more automation and expanded integrations, now available on platforms like Slack, Gmail, and Salesforce. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -138,8 +138,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Benchmarking Audio-Visual QA.](https://arxiv.org/abs/2505.17862v1) |Daily-Omni is a benchmark and agent for evaluating models on tasks that need synchronized audio-visual comprehension, without requiring any training. |
 |[Evaluating Missing Modalities in Multimodal Learning.](https://arxiv.org/abs/2505.16953v1) |The ICYM2I framework corrects for bias when estimating information gain in multimodal models with missing data using inverse probability weighting. |
 |[Self-Supervised Conversational Search.](https://github.com/BeastyZ/ConvSearch-R1) | ConvSearch-R1 reformulates conversational queries without external supervision by using reinforcement learning with retrieval-based rewards.|
-|[.]() | |
-|[.]() | |
+|[OpenAI Cookbook: Model Graders for Reinforcement Fine-Tuning.](https://cookbook.openai.com/examples/reinforcement_fine_tuning) |This tutorial guides users on applying RFT to enhance o4-mini’s performance on medical tasks and addresses issues like reward hacking and inaccurate model graders. |
+|[If you read about o3 finding a SMB bug in the Linux Kernel, I did a few tests.](https://threadreaderapp.com/thread/1926580457048588321.html) | Gemini 2.5 Pro can more easily identify the vulnerability than o3.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
