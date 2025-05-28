@@ -133,8 +133,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Benchmarking Spatial Understanding in MLLMs.](https://haoningwu3639.github.io/SpatialScore/) | SpatialScore is a new multimodal benchmark designed to assess 3D spatial reasoning in large models, combining 28,000 samples from 12 different datasets.|
 |[It’s hard to make scheming evals look realistic for LLMs.](https://www.greaterwrong.com/posts/TBk2dbWkg2F7dB3jb/it-s-really-hard-to-make-scheming-evals-look-realistic) |Claude 3.7 Sonnet easily detects when it's being evaluated for scheming on the Apollo's scheming benchmark. |
 |[Gemma 3n Architectural Innovations - Speculation and poking around in the model.](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/) |A quick look at Gemma 3n, a new member of the Gemma family with free weights that was released during Google I/O. |
-|[.]() | |
-|[.]() | |
+|[OAuth for Agentic AI.](https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -170,6 +169,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Infinite tool use.](https://snimu.github.io/2025/05/23/infinite-tool-use.html) | Large language models should only produce tool calls and their arguments, as relying solely on tools enables them to offload much of their intelligence to more efficient, specialized programs. While some developers are adopting this tool-use approach, it's mainly limited to short contexts and parts of the model output. This post presents examples of how the tool-use paradigm can enhance different fields like text editing, video understanding, and 3D generation.|
 |[GenAI's adoption puzzle.](https://www.ben-evans.com/benedictevans/2025/5/25/genais-adoption-puzzle) |ChatGPT's growth rate far surpassed that of PCs, the web, or smartphones, largely because it was accessible as a website, requiring no new hardware or infrastructure. However, ChatGPT’s daily to weekly active user ratio remains low. This could improve as models advance and new use cases emerge. The chatbot interface may only appeal to certain users and situations, suggesting it might be more effective to embed ChatGPT’s features within other products. |
 |[Anthropic and Legendary Music Producer Rick Rubin Publish Manuscript on Vibe Coding.](https://www.thewayofcode.com/) |Inspired by Lao Tzu's Tao Te Ching, “The Way of Code” is a reflection on humility and creativity through vibe coding, featuring interactive AI-generated visualizations. |
+|[How AI Is Eroding the Norms of War.](https://aifrontiersmedia.substack.com/p/how-ai-is-eroding-the-norms-of-war) |Reports from the battlefield show how AI weapons are advancing faster than international law, leading to a decline in ethical warfare standards. In Ukraine, drones account for 70-80% of casualties, and combatants are using civilian clothing and human shields to avoid AI targeting systems that can't reliably tell military targets from civilians. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
