@@ -95,8 +95,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Trump’s media company to take $2.5bn investment to buy bitcoin.](https://www.theguardian.com/us-news/2025/may/27/trump-media-bitcoin-crypto) | About 50 investors will put up $1.5bn in private placement for common shares in the Truth Social operator|
 |[OpenAI Operator Update.](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/) |o3 Operator, OpenAI's CUA-powered browser agent, has replaced its previous GPT-4o-based model. |
 |[Nvidia to launch cheaper Blackwell AI chip for China after US export curbs, sources say.](https://www.reuters.com/world/china/nvidia-launch-cheaper-blackwell-ai-chip-china-after-us-export-curbs-sources-say-2025-05-24/) |Nvidia is preparing to release a new AI chip for China at a much lower price than the previously restricted H20 model. Mass production is set to begin as early as June. The new chips will be priced between \$6,500 and \$8,000, compared to the H20’s \$10,000 to \$12,000, reflecting their reduced specs and simpler manufacturing process. |
-|[.]() | |
-|[.]() | |
+|[Oracle to buy $40 billion of Nvidia chips for OpenAI's US data center, FT reports.](https://www.reuters.com/business/oracle-buy-40-billion-nvidia-chips-openais-us-data-center-ft-reports-2025-05-23/) | Oracle will purchase about 400,000 GB200 chips for the Stargate data center in Abilene, Texas.|
+|[TV Showcases Google's Veo AI Video Capabilities.](https://labs.google/flow/tv/channel/ultra-wide/LuRTvKFZWwlFEjsV5N9E) Flow TV continuously streams user-generated AI video clips, and their associated prompts, organized into thematic channels. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -132,7 +132,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[FM-Intent Enhances Netflix Recommendations.](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8) |Netflix's FM-Intent is a hierarchical multi-task learning model that improves recommendation accuracy by modeling user session intent from implicit signals. |
 |[Training-free Agent for App Automation.](https://xieincz.github.io/GUI-explorer.github.io/) |GUI-explorer is a training-free agent that independently explores mobile app interfaces and gathers knowledge through unsupervised methods. It enhances task success rates without requiring retraining. |
 |[Benchmarking Spatial Understanding in MLLMs.](https://haoningwu3639.github.io/SpatialScore/) | SpatialScore is a new multimodal benchmark designed to assess 3D spatial reasoning in large models, combining 28,000 samples from 12 different datasets.|
-|[.]() | |
+|[It’s hard to make scheming evals look realistic for LLMs.](https://www.greaterwrong.com/posts/TBk2dbWkg2F7dB3jb/it-s-really-hard-to-make-scheming-evals-look-realistic) |Claude 3.7 Sonnet easily detects when it's being evaluated for scheming on the Apollo's scheming benchmark. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -169,7 +169,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Low-quality papers are surging by exploiting public data sets and AI.](https://www.science.org/content/article/low-quality-papers-are-surging-exploiting-public-data-sets-and-ai) | Paper mills are also likely contributing to “false discoveries.”|
 |[If Ted Talks are getting shorter, what does that say about our attention spans?](https://www.theguardian.com/technology/2025/may/27/if-ted-talks-are-getting-shorter-what-does-that-say-about-our-attention-spans) |According to novelist Elif Shafak, the platform insisted she keep her talk snappy because viewers can’t focus for 19 minutes. Now ... where was I? |
 |[Infinite tool use.](https://snimu.github.io/2025/05/23/infinite-tool-use.html) | Large language models should only produce tool calls and their arguments, as relying solely on tools enables them to offload much of their intelligence to more efficient, specialized programs. While some developers are adopting this tool-use approach, it's mainly limited to short contexts and parts of the model output. This post presents examples of how the tool-use paradigm can enhance different fields like text editing, video understanding, and 3D generation.|
-|[.]() | |
+|[GenAI's adoption puzzle.](https://www.ben-evans.com/benedictevans/2025/5/25/genais-adoption-puzzle) |ChatGPT's growth rate far surpassed that of PCs, the web, or smartphones, largely because it was accessible as a website, requiring no new hardware or infrastructure. However, ChatGPT’s daily to weekly active user ratio remains low. This could improve as models advance and new use cases emerge. The chatbot interface may only appeal to certain users and situations, suggesting it might be more effective to embed ChatGPT’s features within other products. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
