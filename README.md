@@ -147,7 +147,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Assessing the laboratory performance of AI-generated enzymes.](https://www.nature.com/articles/s41587-024-02239-7) |A set of 20 computational metrics was evaluated to determine whether they could predict the functionality of synthetic enzyme sequences produced by generative protein models, resulting in the development of a computational filter, COMPSS, that increased experimental success rates by 50–150%, tested in over 500 natural and AI-generated enzymes. |
 |[A platform for the biomedical application of large language models.](https://www.nature.com/articles/s41587-024-02534-3) | Generative artificial intelligence (AI) has advanced considerably in recent years, particularly in the domain of language. However, despite its rapid commodification, its use in biomedical research is still in its infancy|
 |[Hallmarks of artificial intelligence contributions to precision oncology.](https://www.nature.com/articles/s43018-025-00917-2) |Ruppin and colleagues overview recent research on the use of AI frameworks in precision oncology, describe ten hallmarks of their contributions across cancer detection, therapy optimization and treatment discovery, and discuss key challenges in clinical implementation |
-|[.]() | |
+|[Biases in machine-learning models of human single-cell data.](https://www.nature.com/articles/s41556-025-01619-8) |This Perspective discusses the various biases that can emerge along the pipeline of machine learning-based single-cell analysis and presents methods to train models on human single-cell data in order to assess and mitigate these biases. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
