@@ -110,6 +110,17 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing MCP Nodes & Workflows in Gumloop.](https://www.gumloop.com/blog/introducing-mcp-workflows) |Gumloop introduces MCP Nodes and Workflows to improve integration by allowing AI to generate code for complex tasks. MCP enables AI to better understand and access external APIs, making integration deployment faster. This update brings more automation and expanded integrations, now available on platforms like Slack, Gmail, and Salesforce. |
 |[How Anthropic Is Snatching Top Talent from OpenAI and DeepMind.](https://analyticsindiamag.com/global-tech/how-anthropic-is-snatching-top-talent-from-openai-and-deepmind/) | Anthropic has emerged as a key destination for talent leaving OpenAI and DeepMind, with a notable retention rate — nearly 80% of employees who joined two years ago are still with the company, which is uncommon in an industry known for frequent job changes.|
 |[AI biotechs launch bioprospecting expeditions with Indigenous groups, agree to share benefits.](https://www.nature.com/articles/s41587-025-02564-5) |Companies are striking unconventional benefit-sharing agreements with national governments to scour planet hotspots, gathering thousands of new DNA and protein sequences to develop into new, commercially useful molecules. |
+|[Artificial intelligence improves breast cancer detection in mammography screening.](https://www.nature.com/articles/s41591-025-03714-7) |Integrating artificial intelligence into routine mammography screening for breast cancer can increase the number of breast cancers detected without increasing the number of women recalled for further evaluation of suspicious findings. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -179,7 +190,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI linked to explosion of low-quality biomedical research papers.](https://www.nature.com/articles/d41586-025-01592-0) |Analysis flags hundreds of studies that seem to follow a template, reporting correlations between complex health conditions and single variables based on publicly available data sets. |
 |[The Creation Game: of AI and human creativity.](https://www.nature.com/articles/s41590-024-02026-1) |Here I propose the ‘Creation Game’, inspired by the Turing test, to assess the capacity of artificial intelligence for human-like creativity, focusing on its potential for scientific discovery about the human immune system in the field of systems vaccinology. |
 |[What makes a theory of consciousness unscientific?](https://www.nature.com/articles/s41593-025-01881-x) | Theories of consciousness have a long and controversial history. One well-known proposal — integrated information theory — has recently been labeled as ‘pseudoscience’, which has caused a heated open debate. Here we discuss the case and argue that the theory is indeed unscientific because its core claims are untestable even in principle.|
-|[.]() | |
+|[Harnessing artificial intelligence to transform Alzheimer’s disease research.](https://www.nature.com/articles/s41591-025-03632-8) |Alzheimer’s disease remains one of the most formidable challenges in contemporary medicine, necessitating innovative strategies to expedite the development of effective diagnostics and therapeutics |
 |[.]() | |
 |[.]() | |
 |[.]() | |
