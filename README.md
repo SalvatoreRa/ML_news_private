@@ -111,7 +111,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Anthropic Is Snatching Top Talent from OpenAI and DeepMind.](https://analyticsindiamag.com/global-tech/how-anthropic-is-snatching-top-talent-from-openai-and-deepmind/) | Anthropic has emerged as a key destination for talent leaving OpenAI and DeepMind, with a notable retention rate — nearly 80% of employees who joined two years ago are still with the company, which is uncommon in an industry known for frequent job changes.|
 |[AI biotechs launch bioprospecting expeditions with Indigenous groups, agree to share benefits.](https://www.nature.com/articles/s41587-025-02564-5) |Companies are striking unconventional benefit-sharing agreements with national governments to scour planet hotspots, gathering thousands of new DNA and protein sequences to develop into new, commercially useful molecules. |
 |[Artificial intelligence improves breast cancer detection in mammography screening.](https://www.nature.com/articles/s41591-025-03714-7) |Integrating artificial intelligence into routine mammography screening for breast cancer can increase the number of breast cancers detected without increasing the number of women recalled for further evaluation of suspicious findings. |
-|[.]() | |
+|[Nvidia beats Wall Street expectations even as Trump tamps down China sales.](https://www.theguardian.com/technology/2025/may/28/nvidia-q1-2025-earnings-report) | Chip-manufacturing company, widely seen as bellwether for AI business, reports $44.1bn in revenue for quarter|
 |[.]() | |
 |[.]() | |
 |[.]() | |
