@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Learning to Reason without External Rewards.](https://arxiv.org/abs/2505.19590) |INTUITOR is a reinforcement learning approach that uses a language model’s internal confidence as a reward signal, avoiding expensive domain-specific supervision. This method matches performance on math benchmarks and outperforms on coding tasks, providing an alternative to existing RL techniques that depend on verifiable rewards. |
 |[Forward-only Diffusion Probabilistic Models.](https://algolzw.github.io/fod/) | FoD presents a forward-only generative modeling framework that employs a mean-reverting stochastic differential equation. This approach allows for non-Markov sampling and delivers competitive image generation results with fewer steps.|
-|[.]() | |
+|[End-to-end data-driven weather prediction.](https://www.nature.com/articles/s41586-025-08897-0) |Aardvark Weather, an end-to-end machine learning model, replaces the entire numerical weather prediction pipeline with a machine learning model, by producing accurate global and local forecasts without relying on numerical solvers, revolutionizing weather prediction with improved speed, accuracy and customization capabilities. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
