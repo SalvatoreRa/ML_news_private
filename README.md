@@ -148,7 +148,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A platform for the biomedical application of large language models.](https://www.nature.com/articles/s41587-024-02534-3) | Generative artificial intelligence (AI) has advanced considerably in recent years, particularly in the domain of language. However, despite its rapid commodification, its use in biomedical research is still in its infancy|
 |[Hallmarks of artificial intelligence contributions to precision oncology.](https://www.nature.com/articles/s43018-025-00917-2) |Ruppin and colleagues overview recent research on the use of AI frameworks in precision oncology, describe ten hallmarks of their contributions across cancer detection, therapy optimization and treatment discovery, and discuss key challenges in clinical implementation |
 |[Biases in machine-learning models of human single-cell data.](https://www.nature.com/articles/s41556-025-01619-8) |This Perspective discusses the various biases that can emerge along the pipeline of machine learning-based single-cell analysis and presents methods to train models on human single-cell data in order to assess and mitigate these biases. |
-|[.]() | |
+|[Opening the deep learning box.](https://www.nature.com/articles/s41593-025-01938-x) |Deep learning-based analyses of neural data can extract latent representations but often lack interpretability because of their ‘black-box’ nature. Tolooshams, Matias et al. have developed a deep learning-based deconvolutional analysis framework for learning local low-rank structures that combines algorithm unrolling with convolutional sparse coding as a generative model. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
