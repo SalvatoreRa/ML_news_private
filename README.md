@@ -178,7 +178,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[I told AI to make me a protein. Here’s what it came up with.](https://www.nature.com/articles/d41586-025-01586-y) |A new crop of artificial-intelligence models allows users to create, manipulate and learn about biology using ordinary language. |
 |[AI linked to explosion of low-quality biomedical research papers.](https://www.nature.com/articles/d41586-025-01592-0) |Analysis flags hundreds of studies that seem to follow a template, reporting correlations between complex health conditions and single variables based on publicly available data sets. |
 |[The Creation Game: of AI and human creativity.](https://www.nature.com/articles/s41590-024-02026-1) |Here I propose the ‘Creation Game’, inspired by the Turing test, to assess the capacity of artificial intelligence for human-like creativity, focusing on its potential for scientific discovery about the human immune system in the field of systems vaccinology. |
-|[.]() | |
+|[What makes a theory of consciousness unscientific?](https://www.nature.com/articles/s41593-025-01881-x) | Theories of consciousness have a long and controversial history. One well-known proposal — integrated information theory — has recently been labeled as ‘pseudoscience’, which has caused a heated open debate. Here we discuss the case and argue that the theory is indeed unscientific because its core claims are untestable even in principle.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
