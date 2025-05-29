@@ -51,7 +51,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Learning to Reason without External Rewards.](https://arxiv.org/abs/2505.19590) |INTUITOR is a reinforcement learning approach that uses a language model’s internal confidence as a reward signal, avoiding expensive domain-specific supervision. This method matches performance on math benchmarks and outperforms on coding tasks, providing an alternative to existing RL techniques that depend on verifiable rewards. |
 |[Forward-only Diffusion Probabilistic Models.](https://algolzw.github.io/fod/) | FoD presents a forward-only generative modeling framework that employs a mean-reverting stochastic differential equation. This approach allows for non-Markov sampling and delivers competitive image generation results with fewer steps.|
 |[End-to-end data-driven weather prediction.](https://www.nature.com/articles/s41586-025-08897-0) |Aardvark Weather, an end-to-end machine learning model, replaces the entire numerical weather prediction pipeline with a machine learning model, by producing accurate global and local forecasts without relying on numerical solvers, revolutionizing weather prediction with improved speed, accuracy and customization capabilities. |
-|[.]() | |
+|[Decoding pan-cancer treatment outcomes using multimodal real-world data and explainable artificial intelligence.](https://www.nature.com/articles/s43018-024-00891-1) | Keyl et al. present an explainable artificial intelligence model-based real-world data analysis from over 15,000 patients across 38 cancer types, identified key prognostic marker interactions, and confirmed these in an external lung cancer cohort.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -146,7 +146,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI tool adjusts for ancestral bias in genetic data.](https://www.nature.com/articles/s41587-025-02651-7) | Human ancestry has a considerable impact on gene expression, but genomic datasets for disease analysis severely underrepresent non-European populations, thereby limiting the advancement of precision medicine. Smith et al. introduce a machine learning tool to mitigate the effects of ancestral bias in transcriptomic data.|
 |[Assessing the laboratory performance of AI-generated enzymes.](https://www.nature.com/articles/s41587-024-02239-7) |A set of 20 computational metrics was evaluated to determine whether they could predict the functionality of synthetic enzyme sequences produced by generative protein models, resulting in the development of a computational filter, COMPSS, that increased experimental success rates by 50–150%, tested in over 500 natural and AI-generated enzymes. |
 |[A platform for the biomedical application of large language models.](https://www.nature.com/articles/s41587-024-02534-3) | Generative artificial intelligence (AI) has advanced considerably in recent years, particularly in the domain of language. However, despite its rapid commodification, its use in biomedical research is still in its infancy|
-|[.]() | |
+|[Hallmarks of artificial intelligence contributions to precision oncology.](https://www.nature.com/articles/s43018-025-00917-2) |Ruppin and colleagues overview recent research on the use of AI frameworks in precision oncology, describe ten hallmarks of their contributions across cancer detection, therapy optimization and treatment discovery, and discuss key challenges in clinical implementation |
 |[.]() | |
 |[.]() | |
 |[.]() | |
