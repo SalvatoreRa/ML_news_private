@@ -191,8 +191,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Creation Game: of AI and human creativity.](https://www.nature.com/articles/s41590-024-02026-1) |Here I propose the ‘Creation Game’, inspired by the Turing test, to assess the capacity of artificial intelligence for human-like creativity, focusing on its potential for scientific discovery about the human immune system in the field of systems vaccinology. |
 |[What makes a theory of consciousness unscientific?](https://www.nature.com/articles/s41593-025-01881-x) | Theories of consciousness have a long and controversial history. One well-known proposal — integrated information theory — has recently been labeled as ‘pseudoscience’, which has caused a heated open debate. Here we discuss the case and argue that the theory is indeed unscientific because its core claims are untestable even in principle.|
 |[Harnessing artificial intelligence to transform Alzheimer’s disease research.](https://www.nature.com/articles/s41591-025-03632-8) |Alzheimer’s disease remains one of the most formidable challenges in contemporary medicine, necessitating innovative strategies to expedite the development of effective diagnostics and therapeutics |
-|[.]() | |
-|[.]() | |
+|[Can AI-powered brain–computer interfaces boost human intelligence?](https://www.nature.com/articles/s41591-025-03641-7) |The latest brain–computer interfaces in pre-clinical testing receive — and send — signals, training the brains of participants. |
+|[A benchmarking crisis in biomedical machine learning.](https://www.nature.com/articles/s41591-025-03637-3) | A lack of standardized benchmarks is hindering progress and patient benefits|
 |[.]() | |
 |[.]() | |
 |[.]() | |
