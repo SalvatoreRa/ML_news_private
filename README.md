@@ -193,7 +193,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Harnessing artificial intelligence to transform Alzheimer’s disease research.](https://www.nature.com/articles/s41591-025-03632-8) |Alzheimer’s disease remains one of the most formidable challenges in contemporary medicine, necessitating innovative strategies to expedite the development of effective diagnostics and therapeutics |
 |[Can AI-powered brain–computer interfaces boost human intelligence?](https://www.nature.com/articles/s41591-025-03641-7) |The latest brain–computer interfaces in pre-clinical testing receive — and send — signals, training the brains of participants. |
 |[A benchmarking crisis in biomedical machine learning.](https://www.nature.com/articles/s41591-025-03637-3) | A lack of standardized benchmarks is hindering progress and patient benefits|
-|[.]() | |
+|[Safe AI-enabled digital health technologies need built-in open feedback.](https://www.nature.com/articles/s41591-024-03397-6) | Transparent and mandatory feedback-collection mechanisms should be integrated into AI-enabled digital health technology interfaces for holistic development and patient safety.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
