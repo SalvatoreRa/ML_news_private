@@ -143,8 +143,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GitHub MCP Exploited: Accessing private repositories via MCP.](https://invariantlabs.ai/blog/mcp-github-vulnerability) | This post looks at a critical vulnerability in the official GitHub MCP server that allows attackers to access private repository data.|
 |[Hugging Face releases a free Operator-like agentic AI tool.](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/) |A team at Hugging Face has released a freely available, cloud-hosted computer-using AI “agent.” But be forewarned: It’s quite sluggish and occasionally makes mistakes. |
 |[How artificial intelligence is transforming pathology.](https://www.nature.com/articles/d41586-025-01576-0) |Some researchers say that deep-learning ‘foundation’ models will revolutionize the field — but others are not so sure. |
-|[.]() | |
-|[.]() | |
+|[AI tool adjusts for ancestral bias in genetic data.](https://www.nature.com/articles/s41587-025-02651-7) | Human ancestry has a considerable impact on gene expression, but genomic datasets for disease analysis severely underrepresent non-European populations, thereby limiting the advancement of precision medicine. Smith et al. introduce a machine learning tool to mitigate the effects of ancestral bias in transcriptomic data.|
+|[Assessing the laboratory performance of AI-generated enzymes.](https://www.nature.com/articles/s41587-024-02239-7) |A set of 20 computational metrics was evaluated to determine whether they could predict the functionality of synthetic enzyme sequences produced by generative protein models, resulting in the development of a computational filter, COMPSS, that increased experimental success rates by 50–150%, tested in over 500 natural and AI-generated enzymes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
