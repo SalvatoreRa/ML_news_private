@@ -177,7 +177,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How Peter Thiel and Eliezer Yudkowsky Accidentally Started the AI Arms Race.](https://www.wired.com/story/book-excerpt-the-optimist-open-ai-sam-altman/) |AI doomer Eliezer Yudkowsky inspired DeepMind's founders to pursue superintelligence, then connected them with their first major investor Peter Thiel in 2010. |
 |[I told AI to make me a protein. Here’s what it came up with.](https://www.nature.com/articles/d41586-025-01586-y) |A new crop of artificial-intelligence models allows users to create, manipulate and learn about biology using ordinary language. |
 |[AI linked to explosion of low-quality biomedical research papers.](https://www.nature.com/articles/d41586-025-01592-0) |Analysis flags hundreds of studies that seem to follow a template, reporting correlations between complex health conditions and single variables based on publicly available data sets. |
-|[.]() | |
+|[The Creation Game: of AI and human creativity.](https://www.nature.com/articles/s41590-024-02026-1) |Here I propose the ‘Creation Game’, inspired by the Turing test, to assess the capacity of artificial intelligence for human-like creativity, focusing on its potential for scientific discovery about the human immune system in the field of systems vaccinology. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
