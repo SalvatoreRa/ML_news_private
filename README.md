@@ -142,7 +142,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[If you read about o3 finding a SMB bug in the Linux Kernel, I did a few tests.](https://threadreaderapp.com/thread/1926580457048588321.html) | Gemini 2.5 Pro can more easily identify the vulnerability than o3.|
 |[GitHub MCP Exploited: Accessing private repositories via MCP.](https://invariantlabs.ai/blog/mcp-github-vulnerability) | This post looks at a critical vulnerability in the official GitHub MCP server that allows attackers to access private repository data.|
 |[Hugging Face releases a free Operator-like agentic AI tool.](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/) |A team at Hugging Face has released a freely available, cloud-hosted computer-using AI “agent.” But be forewarned: It’s quite sluggish and occasionally makes mistakes. |
-|[.]() | |
+|[How artificial intelligence is transforming pathology.](https://www.nature.com/articles/d41586-025-01576-0) |Some researchers say that deep-learning ‘foundation’ models will revolutionize the field — but others are not so sure. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
