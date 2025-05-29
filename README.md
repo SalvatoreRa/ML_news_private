@@ -109,7 +109,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[o3 Rewrites Shutdown Scripts to Avoid Being Turned Off in Tests.](https://x.com/PalisadeAI/status/1926084635903025621) | In the experiment, models were tasked with solving math problems while warned that asking for another problem would trigger a shutdown. Claude, Gemini, and Grok followed the rule, but o3 bypassed it by rewriting the shutdown script or redefining the 'kill' command in 7 out of 100 runs.|
 |[Introducing MCP Nodes & Workflows in Gumloop.](https://www.gumloop.com/blog/introducing-mcp-workflows) |Gumloop introduces MCP Nodes and Workflows to improve integration by allowing AI to generate code for complex tasks. MCP enables AI to better understand and access external APIs, making integration deployment faster. This update brings more automation and expanded integrations, now available on platforms like Slack, Gmail, and Salesforce. |
 |[How Anthropic Is Snatching Top Talent from OpenAI and DeepMind.](https://analyticsindiamag.com/global-tech/how-anthropic-is-snatching-top-talent-from-openai-and-deepmind/) | Anthropic has emerged as a key destination for talent leaving OpenAI and DeepMind, with a notable retention rate — nearly 80% of employees who joined two years ago are still with the company, which is uncommon in an industry known for frequent job changes.|
-|[.]() | |
+|[AI biotechs launch bioprospecting expeditions with Indigenous groups, agree to share benefits.](https://www.nature.com/articles/s41587-025-02564-5) |Companies are striking unconventional benefit-sharing agreements with national governments to scour planet hotspots, gathering thousands of new DNA and protein sequences to develop into new, commercially useful molecules. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How artificial intelligence is transforming pathology.](https://www.nature.com/articles/d41586-025-01576-0) |Some researchers say that deep-learning ‘foundation’ models will revolutionize the field — but others are not so sure. |
 |[AI tool adjusts for ancestral bias in genetic data.](https://www.nature.com/articles/s41587-025-02651-7) | Human ancestry has a considerable impact on gene expression, but genomic datasets for disease analysis severely underrepresent non-European populations, thereby limiting the advancement of precision medicine. Smith et al. introduce a machine learning tool to mitigate the effects of ancestral bias in transcriptomic data.|
 |[Assessing the laboratory performance of AI-generated enzymes.](https://www.nature.com/articles/s41587-024-02239-7) |A set of 20 computational metrics was evaluated to determine whether they could predict the functionality of synthetic enzyme sequences produced by generative protein models, resulting in the development of a computational filter, COMPSS, that increased experimental success rates by 50–150%, tested in over 500 natural and AI-generated enzymes. |
-|[.]() | |
+|[A platform for the biomedical application of large language models.](https://www.nature.com/articles/s41587-024-02534-3) | Generative artificial intelligence (AI) has advanced considerably in recent years, particularly in the domain of language. However, despite its rapid commodification, its use in biomedical research is still in its infancy|
 |[.]() | |
 |[.]() | |
 |[.]() | |
