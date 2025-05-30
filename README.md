@@ -112,7 +112,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI biotechs launch bioprospecting expeditions with Indigenous groups, agree to share benefits.](https://www.nature.com/articles/s41587-025-02564-5) |Companies are striking unconventional benefit-sharing agreements with national governments to scour planet hotspots, gathering thousands of new DNA and protein sequences to develop into new, commercially useful molecules. |
 |[Artificial intelligence improves breast cancer detection in mammography screening.](https://www.nature.com/articles/s41591-025-03714-7) |Integrating artificial intelligence into routine mammography screening for breast cancer can increase the number of breast cancers detected without increasing the number of women recalled for further evaluation of suspicious findings. |
 |[Nvidia beats Wall Street expectations even as Trump tamps down China sales.](https://www.theguardian.com/technology/2025/may/28/nvidia-q1-2025-earnings-report) | Chip-manufacturing company, widely seen as bellwether for AI business, reports $44.1bn in revenue for quarter|
-|[.]() | |
+|[New AI test can predict which men will benefit from prostate cancer drug.](https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug) |Artificial intelligence tool determines best candidates to take abiraterone, which can halve risk of death from disease |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -194,7 +194,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Can AI-powered brain–computer interfaces boost human intelligence?](https://www.nature.com/articles/s41591-025-03641-7) |The latest brain–computer interfaces in pre-clinical testing receive — and send — signals, training the brains of participants. |
 |[A benchmarking crisis in biomedical machine learning.](https://www.nature.com/articles/s41591-025-03637-3) | A lack of standardized benchmarks is hindering progress and patient benefits|
 |[Safe AI-enabled digital health technologies need built-in open feedback.](https://www.nature.com/articles/s41591-024-03397-6) | Transparent and mandatory feedback-collection mechanisms should be integrated into AI-enabled digital health technology interfaces for holistic development and patient safety.|
-|[.]() | |
+|[The OpenAI empire - podcast.](https://www.theguardian.com/news/audio/2025/may/29/the-openai-empire-podcast) | Technology journalist Karen Hao, who has been reporting on OpenAI since 2019, compares the company’s unprecedented growth to a new form of empire|
 |[.]() | |
 |[.]() | |
 |[.]() | |
