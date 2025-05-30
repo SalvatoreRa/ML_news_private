@@ -113,7 +113,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Artificial intelligence improves breast cancer detection in mammography screening.](https://www.nature.com/articles/s41591-025-03714-7) |Integrating artificial intelligence into routine mammography screening for breast cancer can increase the number of breast cancers detected without increasing the number of women recalled for further evaluation of suspicious findings. |
 |[Nvidia beats Wall Street expectations even as Trump tamps down China sales.](https://www.theguardian.com/technology/2025/may/28/nvidia-q1-2025-earnings-report) | Chip-manufacturing company, widely seen as bellwether for AI business, reports $44.1bn in revenue for quarter|
 |[New AI test can predict which men will benefit from prostate cancer drug.](https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug) |Artificial intelligence tool determines best candidates to take abiraterone, which can halve risk of death from disease |
-|[.]() | |
+|[Tech shares climb after strong Nvidia results despite warning over rise of Chinese rivals.](https://www.theguardian.com/technology/2025/may/29/tech-shares-climb-after-strong-nvidia-results-despite-warning-over-rise-of-chinese-rivals) | Tesla also buoyed by Elon Musk’s confirmation that he will leave his role in the Trump administration|
 |[.]() | |
 |[.]() | |
 |[.]() | |
