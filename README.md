@@ -116,7 +116,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Tech shares climb after strong Nvidia results despite warning over rise of Chinese rivals.](https://www.theguardian.com/technology/2025/may/29/tech-shares-climb-after-strong-nvidia-results-despite-warning-over-rise-of-chinese-rivals) | Tesla also buoyed by Elon Musk’s confirmation that he will leave his role in the Trump administration|
 |[Chaos on German autobahns as Google Maps wrongly says they are closed.](https://www.theguardian.com/world/2025/may/30/chaos-on-german-autobahns-as-google-maps-wrongly-says-they-are-closed) | Drivers using the navigation app confronted with mass of red dots indicating stop signs|
 |[DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face.](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/) |Chinese startup DeepSeek has released an updated version of its R1 reasoning AI model on the developer platform Hugging Face after announcing it in a WeChat message Wednesday morning. |
-|[.]() | |
+|[Mark Zuckerberg says Meta AI has 1 billion monthly active users.](https://www.cnbc.com/2025/05/28/zuckerberg-meta-ai-one-billion-monthly-users.html) |Meta’s AI assistant now has one billion monthly active users across its app ecosystem. The company recently launched a standalone app for the tool and plans to continue expanding its reach before monetizing it, with potential strategies including paid recommendations or a subscription service. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -204,7 +204,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Safe AI-enabled digital health technologies need built-in open feedback.](https://www.nature.com/articles/s41591-024-03397-6) | Transparent and mandatory feedback-collection mechanisms should be integrated into AI-enabled digital health technology interfaces for holistic development and patient safety.|
 |[The OpenAI empire - podcast.](https://www.theguardian.com/news/audio/2025/may/29/the-openai-empire-podcast) | Technology journalist Karen Hao, who has been reporting on OpenAI since 2019, compares the company’s unprecedented growth to a new form of empire|
 |[‘One day I overheard my boss saying: just put it in ChatGPT’: the workers who lost their jobs to AI.](https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt) |From a radio host replaced by avatars to a comic artist whose drawings have been copied by Midjourney, how does it feel to be replaced by a bot? |
-|[.]() | |
+|[You Could've Invented Transformers.](https://gwern.net/blog/2025/you-could-have-invented-transformers) |The core architecture of LLMs can be broken down into simple steps, beginning with the 0-count problem in n-grams, progressing through embeddings, neural LMs, and self-attention. While transformers are complex, they’re ultimately heavily refined MLPs that address the information propagation challenges in RNNs, making their design seem obvious in hindsight. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
