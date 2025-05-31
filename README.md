@@ -117,8 +117,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chaos on German autobahns as Google Maps wrongly says they are closed.](https://www.theguardian.com/world/2025/may/30/chaos-on-german-autobahns-as-google-maps-wrongly-says-they-are-closed) | Drivers using the navigation app confronted with mass of red dots indicating stop signs|
 |[DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face.](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/) |Chinese startup DeepSeek has released an updated version of its R1 reasoning AI model on the developer platform Hugging Face after announcing it in a WeChat message Wednesday morning. |
 |[Mark Zuckerberg says Meta AI has 1 billion monthly active users.](https://www.cnbc.com/2025/05/28/zuckerberg-meta-ai-one-billion-monthly-users.html) |Meta’s AI assistant now has one billion monthly active users across its app ecosystem. The company recently launched a standalone app for the tool and plans to continue expanding its reach before monetizing it, with potential strategies including paid recommendations or a subscription service. |
-|[.]() | |
-|[.]() | |
+|[Anthropic CEO Warns AI Could Eliminate Half of White-Collar Jobs Within 5 Years.](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic) | Dario Amodei forecasts that AI may eliminate up to half of all entry-level white-collar jobs, potentially driving unemployment to 10-20% within five years. He argues that AI labs have a duty to alert the public about this imminent “white-collar bloodbath” impacting sectors like tech, finance, law, and consulting.|
+|[Opera’s new browser can code websites and games for you.](https://techcrunch.com/2025/05/28/operas-new-browser-can-code-websites-and-games-for-you/) | Opera on Tuesday revealed a new browser, called Opera Neon, that will focus on AI workflows and performing tasks on your behalf, like shopping, filling out forms, and coding. The browser is currently behind a waitlist, but the company said users will have to subscribe to use it once it releases. Pricing details were not disclosed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -164,8 +164,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral's Code Embeddings.](https://mistral.ai/news/codestral-embed) | Mistral’s Codestral Embed is a new code-focused embedding model that outperforms leading alternatives in retrieval benchmarks. It allows for adjustable dimensions and precision settings to balance storage and performance.|
 |[Structured CodeAgents for Smarter Execution.](https://huggingface.co/blog/structured-codeagent) | Hugging Face has proposed integrating structured generation with code-based actions, demonstrating that using structured JSON outputs can enable CodeAgents to surpass traditional methods in benchmark tasks.|
 |[Painting with concepts using diffusion model latents.](https://www.goodfire.ai/blog/painting-with-concepts) | Goodfire's Paint With Ember lets users manipulate image model activations directly by painting simple pixel images instead of using text prompts. It employs sparse autoencoders to decode Stable Diffusion XL-Turbo’s internal features into visual concepts, giving users direct access to the model’s inner workings.|
-|[.]() | |
-|[.]() | |
+|[PixelFlow.](https://github.com/shoufachen/pixelflow) | PixelFlow models produce images directly in pixel space, bypassing VAEs. They deliver high image quality, effective semantic control, and maintain strong efficiency and performance on benchmarks.|
+|[US-China AI Gap: 2025 Analysis of Model Performance, Investment, and Innovation.](https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap) | China plans to lead AI innovation by 2030 but is currently behind the US in key areas like funding and technology. While Chinese AI models may sometimes surpass US models, their progress is limited by restrictions and semiconductor shortages. To stay competitive, the US should monitor China's developments and safeguard intellectual property, while China pushes ahead through partnerships, open-source models, and government backing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -205,7 +205,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The OpenAI empire - podcast.](https://www.theguardian.com/news/audio/2025/may/29/the-openai-empire-podcast) | Technology journalist Karen Hao, who has been reporting on OpenAI since 2019, compares the company’s unprecedented growth to a new form of empire|
 |[‘One day I overheard my boss saying: just put it in ChatGPT’: the workers who lost their jobs to AI.](https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt) |From a radio host replaced by avatars to a comic artist whose drawings have been copied by Midjourney, how does it feel to be replaced by a bot? |
 |[You Could've Invented Transformers.](https://gwern.net/blog/2025/you-could-have-invented-transformers) |The core architecture of LLMs can be broken down into simple steps, beginning with the 0-count problem in n-grams, progressing through embeddings, neural LMs, and self-attention. While transformers are complex, they’re ultimately heavily refined MLPs that address the information propagation challenges in RNNs, making their design seem obvious in hindsight. |
-|[.]() | |
+|[I am disappointed in the AI discourse.](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/) |The online discussion around AI is incredibly polarized, with both pro-AI and anti-AI sides loudly proclaiming things that are pretty trivially verifiable as not true. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
