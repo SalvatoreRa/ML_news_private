@@ -186,6 +186,11 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[MedBrowseComp: Benchmarking Medical Deep Research and Computer Use.](https://arxiv.org/abs/2505.14963) |MedBrowseComp is a benchmark for evaluating LLM agents' ability to solve complex, multi-hop medical fact-finding tasks by browsing real-world, domain-specific web resources. Testing on 1,000 clinically grounded questions reveals significant capability gaps, with top models scoring only 50% accuracy and GUI-based agents performing even worse. |
 |[ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems.](https://arxiv.org/abs/2505.11831) |ARC-AGI-2 is a benchmark designed to advance AI reasoning by introducing harder, more unique tasks that test compositional generalization and human-like intelligence. Despite strong ARC-AGI-1 results, baseline AI models score below 5% on ARC-AGI-2, highlighting its increased difficulty. |
 |[GRIT: Teaching MLLMs to Think with Images.](https://arxiv.org/abs/2505.15879) |GRIT is a method for grounded visual reasoning in MLLMs that interleaves natural language with bounding box references. Using reinforcement learning (GRPO-GR), it achieves strong accuracy and visual coherence with as few as 20 image-question-answer triplets, outperforming baselines. |
+|[QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning.](https://www.arxiv.org/abs/2505.17667) |Large reasoning models like o1 and DeepSeek-R1 fail on long documents due to training instability, not data or compute limits. Alibaba’s QwenLong-L1 addresses this with progressive context scaling—gradually increasing document length during training with difficulty-aware sampling and hybrid rewards. This stabilizes learning and enables QwenLong-L1-32B to outperform o3-mini and match Claude-3.7 on long-context benchmarks, unlocking advanced reasoning in complex, real-world documents. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
