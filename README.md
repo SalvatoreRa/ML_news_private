@@ -123,7 +123,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Less is more: Meta study shows shorter reasoning improves AI accuracy by 34%.](https://venturebeat.com/ai/less-is-more-meta-study-shows-shorter-reasoning-improves-ai-accuracy-by-34/) | Researchers from Meta’s FAIR team and The Hebrew University of Jerusalem have discovered that forcing large language models to “think” less actually improves their performance on complex reasoning tasks. The study released today found that shorter reasoning processes in AI systems lead to more accurate results while significantly reducing computational costs.|
 |[AMD buys silicon photonics startup Enosemi to fuel its AI ambitions.](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) | AMD has acquired Enosemi, a startup designing custom materials to support silicon photonics product development. The terms of the deal, announced Wednesday, weren’t disclosed.|
 |[Perplexity Labs.](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs) | Perplexity has launched Perplexity Labs, enabling Pro users to transform ideas into reports, spreadsheets, dashboards, and basic apps, powered by tools like web browsing and code execution.|
-|[.]() | |
+|[DeepSeek's R1 leaps over xAI, Meta, and Anthropic to be tied as the world's #2 AI Lab and the undisputed open-weights leader.](https://threadreaderapp.com/thread/1928071179115581671.html) |DeepSeek R1 0528 has risen from 60 to 68 in the Artificial Analysis Intelligence Index, surpassing xAI’s Grok 3 mini, Nvidia’s Llama Nemotron Ultra, Meta’s Llama 4 Maverick, and Alibaba’s Qwen 3 253, and matching Google’s Gemini 2.5 Pro. The model shows a general boost in intelligence over previous versions, despite no changes to its architecture. The gap between open and closed models is now smaller than ever. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -207,7 +207,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[You Could've Invented Transformers.](https://gwern.net/blog/2025/you-could-have-invented-transformers) |The core architecture of LLMs can be broken down into simple steps, beginning with the 0-count problem in n-grams, progressing through embeddings, neural LMs, and self-attention. While transformers are complex, they’re ultimately heavily refined MLPs that address the information propagation challenges in RNNs, making their design seem obvious in hindsight. |
 |[I am disappointed in the AI discourse.](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/) |The online discussion around AI is incredibly polarized, with both pro-AI and anti-AI sides loudly proclaiming things that are pretty trivially verifiable as not true. |
 |[The captcha paradox.](https://talkingrobot.com/2025/05/the-captcha-paradox/) | The more intelligent machines become, the more difficult it will be for humans to prove that they are human.|
-|[.]() | |
+|[Former OpenAI Safety Researcher Explains AI Reasoning Revolution.](https://lilianweng.github.io/posts/2025-05-01-thinking/) | Lilian Weng has published a detailed technical survey linking test-time compute to human psychology, using Kahneman’s “fast vs slow thinking” to explain why models improve with extra computational steps before answering. The review covers the science behind chain-of-thought, RL methods used in o1 and R1, and the alignment risks from reward hacking.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
