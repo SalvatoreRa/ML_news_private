@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[New AI test can predict which men will benefit from prostate cancer drug.](https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug) |Artificial intelligence tool determines best candidates to take abiraterone, which can halve risk of death from disease |
 |[Tech shares climb after strong Nvidia results despite warning over rise of Chinese rivals.](https://www.theguardian.com/technology/2025/may/29/tech-shares-climb-after-strong-nvidia-results-despite-warning-over-rise-of-chinese-rivals) | Tesla also buoyed by Elon Musk’s confirmation that he will leave his role in the Trump administration|
 |[Chaos on German autobahns as Google Maps wrongly says they are closed.](https://www.theguardian.com/world/2025/may/30/chaos-on-german-autobahns-as-google-maps-wrongly-says-they-are-closed) | Drivers using the navigation app confronted with mass of red dots indicating stop signs|
-|[.]() | |
+|[DeepSeek updates its R1 reasoning AI model, releases it on Hugging Face.](https://techcrunch.com/2025/05/28/deepseek-updates-its-r1-reasoning-ai-model-releases-it-on-hugging-face/) |Chinese startup DeepSeek has released an updated version of its R1 reasoning AI model on the developer platform Hugging Face after announcing it in a WeChat message Wednesday morning. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,6 +161,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Biases in machine-learning models of human single-cell data.](https://www.nature.com/articles/s41556-025-01619-8) |This Perspective discusses the various biases that can emerge along the pipeline of machine learning-based single-cell analysis and presents methods to train models on human single-cell data in order to assess and mitigate these biases. |
 |[Opening the deep learning box.](https://www.nature.com/articles/s41593-025-01938-x) |Deep learning-based analyses of neural data can extract latent representations but often lack interpretability because of their ‘black-box’ nature. Tolooshams, Matias et al. have developed a deep learning-based deconvolutional analysis framework for learning local low-rank structures that combines algorithm unrolling with convolutional sparse coding as a generative model. |
 |[Medical large language model for diagnostic reasoning across specialties.](https://www.nature.com/articles/s41591-025-03520-1) | We developed a medical large language model with 176 billion parameters and fine-tuned it to learn physicians’ inferential diagnosis. We showed that the model accurately diagnoses common and rare diseases across specialties, aligns with medical standards, and can be integrated into clinical workflows to effectively enhance physician diagnostic performance|
+|[Mistral's Code Embeddings.](https://mistral.ai/news/codestral-embed) | Mistral’s Codestral Embed is a new code-focused embedding model that outperforms leading alternatives in retrieval benchmarks. It allows for adjustable dimensions and precision settings to balance storage and performance.|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
