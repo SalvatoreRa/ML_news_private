@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Hugging Face unveils two new humanoid robots.](https://techcrunch.com/2025/05/29/hugging-face-unveils-two-new-humanoid-robots/) | AI dev platform Hugging Face continued its push into robotics on Thursday with the release of two new humanoid robots. The company announced a pair of open source robots, HopeJR and Reachy Mini. HopeJR is a full-size humanoid robot that has 66 actuated degrees of freedom, or 66 independent movements, including the ability to walk and move its arms. Reachy Mini is a desktop unit that can move its head, talk, listen, and be used to test AI apps.|
 |[Delaware attorney general reportedly hires a bank to evaluate OpenAI’s restructuring plan.](https://techcrunch.com/2025/05/29/delaware-attorney-general-reportedly-hires-a-bank-to-evaluate-openais-restructuring-plan/) | Delaware’s attorney general is hiring an investment bank to advise on OpenAI’s for-profit conversion, the Wall Street Journal reported on Wednesday. The independent evaluation could prolong the transition, or gum up OpenAI’s plans even further.|
 |[Musk-Altman AI rivalry is complicating Trump’s dealmaking in Middle East.](https://www.cnbc.com/2025/05/29/musk-altman-ai-rivalry-complicating-trumps-dealmaking-in-middle-east.html) | Elon Musk tried to derail a major AI infrastructure deal in the Middle East, a source familiar with the matter confirmed to CNBC, following reporting by the Wall Street Journal. OpenAI, Oracle, Nvidia, Cisco and Emirati firm G42 announced plans to build a sweeping Stargate AI campus in the United Arab Emirates. Musk was frustrated that Sam Altman was tapped for the deal, the person said.|
-|[.]() | |
+|[Vibe coding platforms are blowing up.](https://threadreaderapp.com/thread/1928154833514836382.html) |The data shows that people are making things for themselves, not the world, but there is clearly builder excitement. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -178,8 +178,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Global Illumination with RenderFormer.](https://microsoft.github.io/renderformer/) |RenderFormer is a neural renderer that generates photorealistic images directly from triangle-based scene representations, incorporating full global illumination. It requires no per-scene training or fine-tuning. |
 |[Web Bench - A new way to compare AI Browser Agents.](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/) |Web Bench is a new dataset designed to evaluate web browsing agents. It includes 5,750 tasks across 452 different websites. Anthropic Sonnet 3.7 CUA is currently the top performer on this benchmark. |
 |[Cheaper VLM Training.](https://github.com/facebookresearch/zero) |Meta researchers developed zero-shot grafting, a method that uses a smaller surrogate model derived from a large LLM’s shallow layers to train a vision encoder. This approach cuts VLM training costs by around 45%, while maintaining or even enhancing performance when integrated into the full LLM. |
-|[.]() | |
-|[.]() | |
+|[Google Releases MedGemma Medical AI Models.](https://developers.google.com/health-ai-developer-foundations/medgemma) | MedGemma is an open-source model built on Gemma 3 that comes in 4B multimodal and 27B text-only variants.|
+|[The Complete List of AI Coding Agents and IDEs.](https://threadreaderapp.com/thread/1928096496987066604.html) |A developer tested 46 different AI coding tools, providing detailed comparisons and use cases for each platform. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
