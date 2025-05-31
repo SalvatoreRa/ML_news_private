@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AMD buys silicon photonics startup Enosemi to fuel its AI ambitions.](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) | AMD has acquired Enosemi, a startup designing custom materials to support silicon photonics product development. The terms of the deal, announced Wednesday, weren’t disclosed.|
 |[Perplexity Labs.](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs) | Perplexity has launched Perplexity Labs, enabling Pro users to transform ideas into reports, spreadsheets, dashboards, and basic apps, powered by tools like web browsing and code execution.|
 |[DeepSeek's R1 leaps over xAI, Meta, and Anthropic to be tied as the world's #2 AI Lab and the undisputed open-weights leader.](https://threadreaderapp.com/thread/1928071179115581671.html) |DeepSeek R1 0528 has risen from 60 to 68 in the Artificial Analysis Intelligence Index, surpassing xAI’s Grok 3 mini, Nvidia’s Llama Nemotron Ultra, Meta’s Llama 4 Maverick, and Alibaba’s Qwen 3 253, and matching Google’s Gemini 2.5 Pro. The model shows a general boost in intelligence over previous versions, despite no changes to its architecture. The gap between open and closed models is now smaller than ever. |
-|[.]() | |
+|[A recent clarity that I gained is viewing AI research as a “max-performance domain”.](https://threadreaderapp.com/thread/1928174505148698909.html) |"Max-performance domains" are industries where being exceptional at just one aspect of a job can make you world-class. Even if you're lacking in adjacent skills, it doesn’t matter as long as you deliver breakthrough results. In these fields, mastery in one area trumps weaknesses in others. Working in a max-performance domain is a privilege, as failure is tolerated, and pressure is often self-inflicted. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -171,7 +171,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chatterbox Text-to-Speech.](https://github.com/resemble-ai/chatterbox) | Resemble AI released an open-source TTS model that outperforms ElevenLabs in benchmarks and features emotion exaggeration controls.|
 |[Global Illumination with RenderFormer.](https://microsoft.github.io/renderformer/) |RenderFormer is a neural renderer that generates photorealistic images directly from triangle-based scene representations, incorporating full global illumination. It requires no per-scene training or fine-tuning. |
 |[Web Bench - A new way to compare AI Browser Agents.](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/) |Web Bench is a new dataset designed to evaluate web browsing agents. It includes 5,750 tasks across 452 different websites. Anthropic Sonnet 3.7 CUA is currently the top performer on this benchmark. |
-|[.]() | |
+|[Cheaper VLM Training.](https://github.com/facebookresearch/zero) |Meta researchers developed zero-shot grafting, a method that uses a smaller surrogate model derived from a large LLM’s shallow layers to train a vision encoder. This approach cuts VLM training costs by around 45%, while maintaining or even enhancing performance when integrated into the full LLM. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
