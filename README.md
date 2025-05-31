@@ -122,7 +122,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Google just rolled out “thought summaries” in the Gemini API.](https://threadreaderapp.com/thread/1927423603940663402.html) | Users can now see what the model is thinking and make use of that information.|
 |[Less is more: Meta study shows shorter reasoning improves AI accuracy by 34%.](https://venturebeat.com/ai/less-is-more-meta-study-shows-shorter-reasoning-improves-ai-accuracy-by-34/) | Researchers from Meta’s FAIR team and The Hebrew University of Jerusalem have discovered that forcing large language models to “think” less actually improves their performance on complex reasoning tasks. The study released today found that shorter reasoning processes in AI systems lead to more accurate results while significantly reducing computational costs.|
 |[AMD buys silicon photonics startup Enosemi to fuel its AI ambitions.](https://techcrunch.com/2025/05/28/amd-buys-silicon-photonics-startup-enosemi-to-fuel-its-ai-ambitions/) | AMD has acquired Enosemi, a startup designing custom materials to support silicon photonics product development. The terms of the deal, announced Wednesday, weren’t disclosed.|
-|[.]() | |
+|[Perplexity Labs.](https://www.perplexity.ai/hub/blog/introducing-perplexity-labs) | Perplexity has launched Perplexity Labs, enabling Pro users to transform ideas into reports, spreadsheets, dashboards, and basic apps, powered by tools like web browsing and code execution.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -166,8 +166,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Painting with concepts using diffusion model latents.](https://www.goodfire.ai/blog/painting-with-concepts) | Goodfire's Paint With Ember lets users manipulate image model activations directly by painting simple pixel images instead of using text prompts. It employs sparse autoencoders to decode Stable Diffusion XL-Turbo’s internal features into visual concepts, giving users direct access to the model’s inner workings.|
 |[PixelFlow.](https://github.com/shoufachen/pixelflow) | PixelFlow models produce images directly in pixel space, bypassing VAEs. They deliver high image quality, effective semantic control, and maintain strong efficiency and performance on benchmarks.|
 |[US-China AI Gap: 2025 Analysis of Model Performance, Investment, and Innovation.](https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap) | China plans to lead AI innovation by 2030 but is currently behind the US in key areas like funding and technology. While Chinese AI models may sometimes surpass US models, their progress is limited by restrictions and semiconductor shortages. To stay competitive, the US should monitor China's developments and safeguard intellectual property, while China pushes ahead through partnerships, open-source models, and government backing.|
-|[.]() | |
-|[.]() | |
+|[FLUX.1 Kontext for In-Context Image Generation.](https://bfl.ai/announcements/flux-1-kontext) |Black Forest Labs released FLUX.1 Kontext, a set of flow-matching models that enable text-and-image-based in-context image editing and generation. |
+|[Anthropic Open-Sources Circuit Tracing Tools for AI Interpretability.](https://www.anthropic.com/research/open-source-circuit-tracing) |The tools create "attribution graphs" that map the internal decision-making of large language models, showing the step-by-step reasoning behind their outputs. The library is compatible with widely available open-weight models and includes an interactive Neuronpedia frontend for exploring model circuits. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
