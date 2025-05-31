@@ -168,6 +168,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[US-China AI Gap: 2025 Analysis of Model Performance, Investment, and Innovation.](https://www.recordedfuture.com/research/measuring-the-us-china-ai-gap) | China plans to lead AI innovation by 2030 but is currently behind the US in key areas like funding and technology. While Chinese AI models may sometimes surpass US models, their progress is limited by restrictions and semiconductor shortages. To stay competitive, the US should monitor China's developments and safeguard intellectual property, while China pushes ahead through partnerships, open-source models, and government backing.|
 |[FLUX.1 Kontext for In-Context Image Generation.](https://bfl.ai/announcements/flux-1-kontext) |Black Forest Labs released FLUX.1 Kontext, a set of flow-matching models that enable text-and-image-based in-context image editing and generation. |
 |[Anthropic Open-Sources Circuit Tracing Tools for AI Interpretability.](https://www.anthropic.com/research/open-source-circuit-tracing) |The tools create "attribution graphs" that map the internal decision-making of large language models, showing the step-by-step reasoning behind their outputs. The library is compatible with widely available open-weight models and includes an interactive Neuronpedia frontend for exploring model circuits. |
+|[Chatterbox Text-to-Speech.](https://github.com/resemble-ai/chatterbox) | Resemble AI released an open-source TTS model that outperforms ElevenLabs in benchmarks and features emotion exaggeration controls.|
+|[Global Illumination with RenderFormer.](https://microsoft.github.io/renderformer/) |RenderFormer is a neural renderer that generates photorealistic images directly from triangle-based scene representations, incorporating full global illumination. It requires no per-scene training or fine-tuning. |
+|[Web Bench - A new way to compare AI Browser Agents.](https://blog.skyvern.com/web-bench-a-new-way-to-compare-ai-browser-agents/) |Web Bench is a new dataset designed to evaluate web browsing agents. It includes 5,750 tasks across 452 different websites. Anthropic Sonnet 3.7 CUA is currently the top performer on this benchmark. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
