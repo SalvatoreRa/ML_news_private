@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia beats Wall Street expectations even as Trump tamps down China sales.](https://www.theguardian.com/technology/2025/may/28/nvidia-q1-2025-earnings-report) | Chip-manufacturing company, widely seen as bellwether for AI business, reports $44.1bn in revenue for quarter|
 |[New AI test can predict which men will benefit from prostate cancer drug.](https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug) |Artificial intelligence tool determines best candidates to take abiraterone, which can halve risk of death from disease |
 |[Tech shares climb after strong Nvidia results despite warning over rise of Chinese rivals.](https://www.theguardian.com/technology/2025/may/29/tech-shares-climb-after-strong-nvidia-results-despite-warning-over-rise-of-chinese-rivals) | Tesla also buoyed by Elon Musk’s confirmation that he will leave his role in the Trump administration|
-|[.]() | |
+|[Chaos on German autobahns as Google Maps wrongly says they are closed.](https://www.theguardian.com/world/2025/may/30/chaos-on-german-autobahns-as-google-maps-wrongly-says-they-are-closed) | Drivers using the navigation app confronted with mass of red dots indicating stop signs|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -195,7 +195,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[A benchmarking crisis in biomedical machine learning.](https://www.nature.com/articles/s41591-025-03637-3) | A lack of standardized benchmarks is hindering progress and patient benefits|
 |[Safe AI-enabled digital health technologies need built-in open feedback.](https://www.nature.com/articles/s41591-024-03397-6) | Transparent and mandatory feedback-collection mechanisms should be integrated into AI-enabled digital health technology interfaces for holistic development and patient safety.|
 |[The OpenAI empire - podcast.](https://www.theguardian.com/news/audio/2025/may/29/the-openai-empire-podcast) | Technology journalist Karen Hao, who has been reporting on OpenAI since 2019, compares the company’s unprecedented growth to a new form of empire|
-|[.]() | |
+|[‘One day I overheard my boss saying: just put it in ChatGPT’: the workers who lost their jobs to AI.](https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt) |From a radio host replaced by avatars to a comic artist whose drawings have been copied by Midjourney, how does it feel to be replaced by a bot? |
 |[.]() | |
 |[.]() | |
 |[.]() | |
