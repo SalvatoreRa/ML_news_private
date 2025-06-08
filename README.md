@@ -114,7 +114,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[It’s not your imagination: AI is speeding up the pace of change.](https://techcrunch.com/2025/05/30/its-not-your-imagination-ai-is-speeding-up-the-pace-of-change/) | AI's rapid adoption and development are unprecedented compared to previous tech revolutions, highlighted by its swift impact on user and cost scales.|
 |[NotebookLM Now Supports Public Sharing.](https://blog.google/technology/google-labs/notebooklm-public-notebooks/) |Google's NotebookLM now lets users share notebooks publicly via links. Viewers can interact with AI-generated summaries and questions while source content remains read-only. |
 |[Yoshua Bengio launches LawZero, a nonprofit AI safety lab.](https://techcrunch.com/2025/06/03/yoshua-bengio-launches-lawzero-a-nonprofit-ai-safety-lab/) | Turing Award winner Yoshua Bengio is launching a nonprofit AI safety lab called LawZero to build safer AI systems, he told the Financial Times on Monday. LawZero raised $30 million in philanthropic contributions. |
-|[.]() | |
+|[OpenAI's Vulnerability Reporting.](https://openai.com/index/scaling-coordinated-vulnerability-disclosure/) |OpenAI introduced a policy for coordinated disclosure of third-party software vulnerabilities found by its AI systems. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -145,7 +145,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[GitHub Launches Copilot Spaces.](https://github.blog/changelog/2025-05-29-introducing-copilot-spaces-a-new-way-to-work-with-code-and-context/) | Spaces lets developers organize code, documentation, and custom instructions for Copilot, transforming it into a shareable subject matter expert within organizations. Files and repositories added to Spaces update automatically as the code evolves.|
 |[Efficient Online Learning with TRL and vLLM.](https://huggingface.co/blog/vllm-colocate) |Hugging Face integrated vLLM directly into TRL to reduce inefficiencies in training with GRPO, an online learning algorithm. |
 |[JigsawStack Launches Open-Source Deep Research Tool.](https://jigsawstack.com/blog/introducing-jigsawstack-deep-research) |The framework coordinates LLMs, recursive web searches, and structured reasoning to produce reports that would typically take a human hours or days to complete. JigsawStack provides control over research scope, model choice, and output format, all while ensuring clear citation transparency. |
-|[.]() | |
+|[Predicting and explaining AI model performance: A new approach to evaluation.](https://www.microsoft.com/en-us/research/blog/predicting-and-explaining-ai-model-performance-a-new-approach-to-evaluation/) |Microsoft researchers created ADeLe, a framework that evaluates AI model performance on new tasks by measuring them across 18 cognitive and knowledge-based dimensions. ADeLe exposed gaps in existing benchmarks and produced detailed ability profiles for different LLMs, revealing variations in strengths, weaknesses, and specific skills. With 88% accuracy in predicting AI success, the framework offers potential advancements in evaluation, policy decisions, and real-world deployments. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
