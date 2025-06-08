@@ -109,9 +109,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Salesforce Acquires Moonhub.](https://www.moonhub.ai/moonhub-team-joins-salesforce) | Moonhub, recognized for its AI-driven recruiting agents, has joined Salesforce to support its broader AI initiatives, including the Agentforce platform.|
 |[FDA Launches AI Tool to Accelerate Drug Reviews and Inspections.](https://www.fda.gov/news-events/press-announcements/fda-launches-agency-wide-ai-tool-optimize-performance-american-people) |“Elsa” is available to all FDA employees, enabling faster clinical protocol reviews, shortened scientific evaluations, and improved identification of high-priority inspection targets. In one case, a review that would have taken 2-3 days was completed in just 6 minutes. |
 |[Snowflake Buys Crunchy Data for $250m, Databricks Buys Neon for $1B. The New AI Database Battle.](https://www.saastr.com/snowflake-buys-crunchy-data-for-250m-databricks-buys-neon-for-1b-the-new-ai-database-battle/) | Snowflake and Databricks are acquiring PostgreSQL-centric companies Crunchy Data for \$250 million and Neon for \$1 billion, aiming to strengthen their positions in the AI database market. These deals reflect the growing need for strong database infrastructure to support autonomous AI agents and signal a trend toward industry consolidation. Snowflake is prioritizing enterprise compliance, while Databricks focuses on serverless, AI-optimized architecture.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Elon Musk’s xAI reportedly looks to raise $300M in tender offer.](https://techcrunch.com/2025/06/02/elon-musks-xai-reportedly-looks-to-raise-300m-in-tender-offer/) | Billionaire Elon Musk’s AI startup, xAI, is reportedly launching a $300 million share sale that values the company at $113 billion.|
+|[Chinese tech companies prepare for AI future without Nvidia, FT reports.](https://finance.yahoo.com/news/chinese-tech-companies-prepare-ai-012546092.html) | China's biggest technology companies have begun the process of switching to homegrown chips as they contend with a dwindling stockpile of Nvidia processors and tightening United States export controls, the Financial Times reported on Thursday.|
+|[It’s not your imagination: AI is speeding up the pace of change.](https://techcrunch.com/2025/05/30/its-not-your-imagination-ai-is-speeding-up-the-pace-of-change/) | AI's rapid adoption and development are unprecedented compared to previous tech revolutions, highlighted by its swift impact on user and cost scales.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
