@@ -115,7 +115,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NotebookLM Now Supports Public Sharing.](https://blog.google/technology/google-labs/notebooklm-public-notebooks/) |Google's NotebookLM now lets users share notebooks publicly via links. Viewers can interact with AI-generated summaries and questions while source content remains read-only. |
 |[Yoshua Bengio launches LawZero, a nonprofit AI safety lab.](https://techcrunch.com/2025/06/03/yoshua-bengio-launches-lawzero-a-nonprofit-ai-safety-lab/) | Turing Award winner Yoshua Bengio is launching a nonprofit AI safety lab called LawZero to build safer AI systems, he told the Financial Times on Monday. LawZero raised $30 million in philanthropic contributions. |
 |[OpenAI's Vulnerability Reporting.](https://openai.com/index/scaling-coordinated-vulnerability-disclosure/) |OpenAI introduced a policy for coordinated disclosure of third-party software vulnerabilities found by its AI systems. |
-|[.]() | |
+|[Luca Guadagnino to Direct True-Life OpenAI Movie ‘Artificial’ for Amazon MGM.](https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-to-direct-openai-movie-1236236357/) | The studio is eyeing Andrew Garfield to play Altman, with Monica Barbaro (“A Complete Unknown”) as CTO Mira Murati and Yura Borisov (“Anora”) as co-founder Ilya Sutskever.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
