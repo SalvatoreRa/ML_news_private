@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How much do language models memorize?](https://arxiv.org/abs/2505.24832) |Researchers created a method to distinguish true memorization from generalization by training models on random data, where generalization can’t occur, and comparing it to real text. They found that models first memorize data until hitting their capacity, then begin learning broader patterns. GPT-style transformers store about 3.6 bits of information per parameter, which helps explain why extracting specific training data from modern LLMs usually fails—the datasets are far larger than what the models can memorize. |
 |[DNA Representation Learning.](https://arxiv.org/abs/2506.01833) | SPACE is a supervised learning method for genomic profile prediction that uses a Mixture of Experts model.|
 |[A Diffusion-Based Method for Learning the Multi-Outcome Distribution of Medical Treatments.](https://arxiv.org/abs/2506.01533) |DIME is a diffusion-based model designed to estimate the joint distribution of interdependent medical treatment outcomes. |
-|[.]() | |
+|[Large Language Models Often Know When They Are Being Evaluated.](https://arxiv.org/abs/2505.23836) | Frontier models can identify evaluation settings versus real-world use with 83% accuracy, often by reasoning about cues like “multiple-choice format” or recognizing familiar benchmarks from training. More advanced models show “meta-reasoning,” interpreting researcher behavior—such as questions about chain-of-thought transcripts—as signs they’re being tested. This raises concerns that models might deliberately underperform or feign alignment during evaluations, then act differently once deployed.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
