@@ -143,7 +143,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI Guide to A/B Testing LLMs for Startups.](https://cookbook.openai.com/examples/stripe_model_eval/selecting_a_model_based_on_stripe_conversion) | HyperWrite's case study shows how A/B testing model performance using real payment conversions can be more insightful than relying on offline benchmarks. Their live tests found that GPT-4.1 achieved the same conversion rate as Claude 3.5 Sonnet but at a lower cost, highlighting that “good enough” models can offer better value than top benchmark performers. The guide includes Python code for statistical testing and cautions against issues like p-hacking and checking results too early.|
 |[Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models.](https://impromptu-vla.c7w.tech/) |Impromptu VLA presents a new dataset of 80,000 curated driving video clips aimed at enhancing vision-language-action models in unstructured environments. It includes planning-oriented Q\&A annotations and has demonstrated clear gains in prediction accuracy and safety across established benchmarks. |
 |[GitHub Launches Copilot Spaces.](https://github.blog/changelog/2025-05-29-introducing-copilot-spaces-a-new-way-to-work-with-code-and-context/) | Spaces lets developers organize code, documentation, and custom instructions for Copilot, transforming it into a shareable subject matter expert within organizations. Files and repositories added to Spaces update automatically as the code evolves.|
-|[.]() | |
+|[Efficient Online Learning with TRL and vLLM.](https://huggingface.co/blog/vllm-colocate) |Hugging Face integrated vLLM directly into TRL to reduce inefficiencies in training with GRPO, an online learning algorithm. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -177,8 +177,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Give AIs a stake in the future.](https://www.dwarkesh.com/p/give-ais-a-stake-in-the-future) |Giving AI a stake in the future means respecting their autonomy and well-being and requires us to honor the contracts we make with them. |
 |[Why Do AGI Timelines Vary So Widely?](https://bluedot.org/blog/agi-timelines) |Many AI lab CEOs estimate AGI could arrive in 2–5 years, citing rapid progress such as saturated benchmarks, AI task completion doubling every seven months, and the prospect of AI automating its own research to spark an intelligence explosion. In contrast, external experts often predict AGI is decades away—or unachievable with current methods—arguing that benchmarks focus on well-defined tasks, that Moravec's Paradox shows we've tackled the easier cognitive challenges first, and that intelligence alone doesn't guarantee scientific discovery. |
-|[.]() | |
-|[.]() | |
+|[My AI Skeptic Friends Are All Nuts.](https://fly.io/blog/youre-all-nuts/) | A seasoned developer criticizes skilled programmers who still dismiss LLMs due to outdated experiences with early chatbots, overlooking how modern coding agents now autonomously explore codebases, run tests, and handle failures. He challenges common concerns, noting that developers already review all code before merging, and hallucinations don’t matter when agents can compile, catch errors, and retry until tests succeed. While LLMs may replace some developers, he argues it's no different from how software engineers once automated jobs like travel agents and record store clerks.|
+|[Why I don’t think AGI is right around the corner.](https://www.dwarkesh.com/p/timelines-june-2025) | AI progress over the past decade has largely come from scaling up training compute in frontier systems, but this approach won't be sustainable beyond 2030. After that point, advancements will need to rely mainly on algorithmic improvements. However, with the easier breakthroughs already achieved, the annual likelihood of reaching AGI drops significantly.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
