@@ -104,9 +104,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[If you're wondering why the new DeepSeek R1 sounds a bit different.](https://threadreaderapp.com/thread/1928187246689112197.html) |The DeepSeek team may have switched from training on synthetic OpenAI outputs to synthetic Gemini outputs.|
 |[We Smoked NVIDIA’s Blackwell, Says Cerebras.](https://analyticsindiamag.com/ai-news-updates/we-smoked-nvidias-blackwell-says-cerebras/) | Cerebras claims its systems outperform Nvidia's DGX B200 by achieving an output token speed of over 2, 500 tokens per second compared to Nvidia's 1,000 tokens per second.|
 |[Early AI investor Elad Gil finds his next big bet: AI-powered roll-ups.](https://techcrunch.com/2025/06/01/early-ai-investor-elad-gil-finds-his-next-big-bet-ai-powered-rollups/) | Elad Gil started betting on AI before most of the world took notice. By the time investors began grasping the implications of ChatGPT, Gil had already written seed checks to startups like Perplexity, Character.AI, and Harvey. Now, as the early winners of the AI wave become clearer, the renowned “solo” VC is increasingly focused on a fresh opportunity: using AI to reinvent traditional businesses and scale them through roll-ups.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Microsoft Launches Free AI Video Generator Powered by Sora.](https://blogs.bing.com/search/June-2025/Introducing-Bing-Video-Creator) | Bing Video Creator can generate 5-second videos at no cost, starting with 10 fast generations before switching to standard speed or requiring Microsoft Rewards points.|
+|[Character.AI Multimodal Creation Tools.](https://blog.character.ai/character-ai-unveils-new-ways-to-create/) |Character.AI has moved beyond chat by introducing tools like Scenes for interactive storytelling and AvatarFX for turning images into animated avatars. These new features are designed to help creators build more immersive experiences with video, images, and animation. |
+|[Salesforce Acquires Moonhub.](https://www.moonhub.ai/moonhub-team-joins-salesforce) | Moonhub, recognized for its AI-driven recruiting agents, has joined Salesforce to support its broader AI initiatives, including the Agentforce platform.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
