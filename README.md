@@ -116,9 +116,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Yoshua Bengio launches LawZero, a nonprofit AI safety lab.](https://techcrunch.com/2025/06/03/yoshua-bengio-launches-lawzero-a-nonprofit-ai-safety-lab/) | Turing Award winner Yoshua Bengio is launching a nonprofit AI safety lab called LawZero to build safer AI systems, he told the Financial Times on Monday. LawZero raised $30 million in philanthropic contributions. |
 |[OpenAI's Vulnerability Reporting.](https://openai.com/index/scaling-coordinated-vulnerability-disclosure/) |OpenAI introduced a policy for coordinated disclosure of third-party software vulnerabilities found by its AI systems. |
 |[Luca Guadagnino to Direct True-Life OpenAI Movie ‘Artificial’ for Amazon MGM.](https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-to-direct-openai-movie-1236236357/) | The studio is eyeing Andrew Garfield to play Altman, with Monica Barbaro (“A Complete Unknown”) as CTO Mira Murati and Yura Borisov (“Anora”) as co-founder Ilya Sutskever.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ChatGPT Can Now Read Your Google Drive and Dropbox.](https://www.theverge.com/news/679580/chatgpt-google-drive-dropbox-meeting-notes) |OpenAI added “record mode” for meeting notes and new integrations for Team, Enterprise, and Edu users. The company now has 3 million paying business users, up from 2 million in February. |
+|[Cursor Releases Version 1.0.](https://threadreaderapp.com/thread/1930358111677886677.html) |The AI code editor now features BugBot for automated PR reviews, Background Agent access for all users, agent integration with Jupyter Notebooks, project-level memory support, OAuth-enabled MCP server setup, and in-chat rendering of Mermaid diagrams and markdown tables. |
+|[Mistral releases a vibe coding client, Mistral Code.](https://techcrunch.com/2025/06/04/mistral-releases-a-vibe-coding-client-mistral-code/) |French AI startup Mistral is releasing its own “vibe coding” client, Mistral Code, to compete with incumbents like Windsurf, Anysphere’s Cursor, and GitHub Copilot. Mistral Code, a fork of the open source project Continue, is an AI-powered coding assistant that bundles Mistral’s models, an “in-IDE” assistant, local deployment options, and enterprise tools into a single package. A private beta is available as of Wednesday for JetBrains development platforms and Microsoft’s VS Code.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
