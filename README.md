@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[How much do language models memorize?](https://arxiv.org/abs/2505.24832) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -139,8 +139,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI Agent with LangGraph and RAG Systems.](https://decodingml.substack.com/p/from-0-to-pro-ai-agents-roadmap) | A hands-on course teaching how to build production-grade AI agents with LangGraph, RAG pipelines, memory layers, and backend deployment.|
 |[Differential Privacy on Trust Graphs.](https://research.google/blog/differential-privacy-on-trust-graphs/) | A study introduces a privacy framework that incorporates varying trust levels among users into differential privacy models, offering a more realistic approach to data sharing preferences than traditional binary trust assumptions.|
 |[Do You Even Have a System Prompt?](https://www.lesswrong.com/posts/HjHqxzn3rnH7T45hp/do-you-even-have-a-system-prompt-psa-repo) |Most users overlook system prompts or use brief, unoptimized ones, missing out on major improvements in AI behavior. Instead of reacting to poor outputs in isolated chats, users should iteratively test and refine their system prompts. The post’s comment section features a collection of system prompts shared by the community. |
-|[.]() | |
-|[.]() | |
+|[Claude Code: An analysis.](https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis) |This report details Claude Code, built by Claude Opus 4 with support from several leading flagship models. Claude Code is an agentic coding tool featuring a novel streaming architecture that manages real-time model responses, tool execution, and UI updates. It includes safety systems that ensure security without interrupting workflow, tools that link AI reasoning with system actions, and prompt engineering for consistent control over complex model behavior. The report explores its architectural foundation, data structures, information design, control flow, orchestration engine, tools, execution engine, and more. |
+|[OpenAI Guide to A/B Testing LLMs for Startups.](https://cookbook.openai.com/examples/stripe_model_eval/selecting_a_model_based_on_stripe_conversion) | HyperWrite's case study shows how A/B testing model performance using real payment conversions can be more insightful than relying on offline benchmarks. Their live tests found that GPT-4.1 achieved the same conversion rate as Claude 3.5 Sonnet but at a lower cost, highlighting that “good enough” models can offer better value than top benchmark performers. The guide includes Python code for statistical testing and cautions against issues like p-hacking and checking results too early.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -176,7 +176,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Give AIs a stake in the future.](https://www.dwarkesh.com/p/give-ais-a-stake-in-the-future) |Giving AI a stake in the future means respecting their autonomy and well-being and requires us to honor the contracts we make with them. |
-|[.]() | |
+|[Why Do AGI Timelines Vary So Widely?](https://bluedot.org/blog/agi-timelines) |Many AI lab CEOs estimate AGI could arrive in 2–5 years, citing rapid progress such as saturated benchmarks, AI task completion doubling every seven months, and the prospect of AI automating its own research to spark an intelligence explosion. In contrast, external experts often predict AGI is decades away—or unachievable with current methods—arguing that benchmarks focus on well-defined tasks, that Moravec's Paradox shows we've tackled the easier cognitive challenges first, and that intelligence alone doesn't guarantee scientific discovery. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
