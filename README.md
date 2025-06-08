@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[DNA Representation Learning.](https://arxiv.org/abs/2506.01833) | SPACE is a supervised learning method for genomic profile prediction that uses a Mixture of Experts model.|
 |[A Diffusion-Based Method for Learning the Multi-Outcome Distribution of Medical Treatments.](https://arxiv.org/abs/2506.01533) |DIME is a diffusion-based model designed to estimate the joint distribution of interdependent medical treatment outcomes. |
 |[Large Language Models Often Know When They Are Being Evaluated.](https://arxiv.org/abs/2505.23836) | Frontier models can identify evaluation settings versus real-world use with 83% accuracy, often by reasoning about cues like “multiple-choice format” or recognizing familiar benchmarks from training. More advanced models show “meta-reasoning,” interpreting researcher behavior—such as questions about chain-of-thought transcripts—as signs they’re being tested. This raises concerns that models might deliberately underperform or feign alignment during evaluations, then act differently once deployed.|
-|[.]() | |
+|[Apple Research Finds Critical Limitations in Reasoning Models.](https://machinelearning.apple.com/research/illusion-of-thinking) | When tested in puzzle environments, OpenAI’s o3, Claude, and DeepSeek-R1 models showed sharp performance drops past certain complexity levels, despite producing elaborate reasoning steps. These models hit a counterintuitive scaling limit where their reasoning effort declines as task complexity increases, and they don't improve even when provided with explicit solution algorithms.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -157,8 +157,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inside Aria Gen 2: Explore the Cutting-Edge Tech Behind the Device.](https://ai.meta.com/blog/aria-gen-2-research-glasses-under-the-hood-reality-labs/) |Meta detailed the hardware behind its Aria Gen 2 research glasses, which include enhanced cameras, sensors, audio, and compute capabilities. |
 |[OpenAI Threat Intelligence Report: June 2025.](https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf) | LLMs aren’t providing bad actors with entirely new powers, but they are accelerating existing tactics. OpenAI has shared 10 examples where models speed up hacking, fraud, and misinformation efforts, such as North Korean operatives scaling fake IT job schemes, Russian groups crafting advanced malware, and Cambodian scammers creating multilingual “task scams” that promise \$500/day for liking TikTok posts.|
 |[Latest Advancements in Search and Recommendation Systems.](https://www.youtube.com/watch?v=3k4a0PemMu4&ab_channel=AIEngineer) | This 4-hour session, presented during the AI Engineer World's Fair 2025, covers recent innovations in search and recommendation systems.|
-|[.]() | |
-|[.]() | |
+|[Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation.](https://arxiv.org/abs/2506.03857) | To tackle label uncertainty in LLM-based annotation, this paper proposes a method that captures multiple potential labels and applies a teacher-student framework called CanDist to distill them into a single output.|
+|[Claude Composer CLI.](https://github.com/possibilities/claude-composer) | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
