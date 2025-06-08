@@ -47,8 +47,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[How much do language models memorize?](https://arxiv.org/abs/2505.24832) |Researchers created a method to distinguish true memorization from generalization by training models on random data, where generalization can’t occur, and comparing it to real text. They found that models first memorize data until hitting their capacity, then begin learning broader patterns. GPT-style transformers store about 3.6 bits of information per parameter, which helps explain why extracting specific training data from modern LLMs usually fails—the datasets are far larger than what the models can memorize. |
-|[.]() | |
-|[.]() | |
+|[DNA Representation Learning.](https://arxiv.org/abs/2506.01833) | SPACE is a supervised learning method for genomic profile prediction that uses a Mixture of Experts model.|
+|[A Diffusion-Based Method for Learning the Multi-Outcome Distribution of Medical Treatments.](https://arxiv.org/abs/2506.01533) |DIME is a diffusion-based model designed to estimate the joint distribution of interdependent medical treatment outcomes. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -144,7 +144,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models.](https://impromptu-vla.c7w.tech/) |Impromptu VLA presents a new dataset of 80,000 curated driving video clips aimed at enhancing vision-language-action models in unstructured environments. It includes planning-oriented Q\&A annotations and has demonstrated clear gains in prediction accuracy and safety across established benchmarks. |
 |[GitHub Launches Copilot Spaces.](https://github.blog/changelog/2025-05-29-introducing-copilot-spaces-a-new-way-to-work-with-code-and-context/) | Spaces lets developers organize code, documentation, and custom instructions for Copilot, transforming it into a shareable subject matter expert within organizations. Files and repositories added to Spaces update automatically as the code evolves.|
 |[Efficient Online Learning with TRL and vLLM.](https://huggingface.co/blog/vllm-colocate) |Hugging Face integrated vLLM directly into TRL to reduce inefficiencies in training with GRPO, an online learning algorithm. |
-|[.]() | |
+|[JigsawStack Launches Open-Source Deep Research Tool.](https://jigsawstack.com/blog/introducing-jigsawstack-deep-research) |The framework coordinates LLMs, recursive web searches, and structured reasoning to produce reports that would typically take a human hours or days to complete. JigsawStack provides control over research scope, model choice, and output format, all while ensuring clear citation transparency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
