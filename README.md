@@ -125,9 +125,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI slams court order to save all ChatGPT logs, including deleted chats.](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) |A court has ordered OpenAI to preserve all ChatGPT user logs after news organizations involved in a copyright lawsuit alleged the company was destroying evidence. |
 |[Anthropic Cuts Off Claude Access for Windsurf .](https://threadreaderapp.com/thread/1930034960385356174.html) |Windsurf's CEO tweeted that Anthropic gave the company just five days' notice to move off Claude 3.x models, following reports of a potential acquisition deal with OpenAI. |
 |[Reddit sues Anthropic for allegedly not paying for training data.](https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/) |Reddit is suing Anthropic for allegedly using the site’s data to train AI models without a proper licensing agreement, according to a complaint filed in a Northern California court on Wednesday. Reddit claims in the complaint that Anthropic’s unauthorized use of the site’s data for commercial purposes was unlawful, and alleges the AI startup violated Reddit’s user agreement. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Gemini 2.5 Pro Gets an Upgrade.](https://blog.google/products/gemini/gemini-2-5-pro-latest-preview/) |The updated preview outperforms all models on key benchmarks like GPQA, Aider, and LMArena, while also fixing formatting and creativity issues introduced in the earlier 2.5 Pro update. |
+|[Introducing Eleven v3 (alpha) — the most expressive Text to Speech model.](https://elevenlabs.io/blog/eleven-v3) | Eleven Labs has released Eleven v3, a highly expressive AI text-to-speech model. It supports numerous languages, including Afrikaans, Arabic, French, and Mandarin, improving multilingual voice application capabilities.|
+|[Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR.](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) |Anysphere, the maker of AI coding assistant Cursor, has raised $900 million at a $9.9 billion valuation, Bloomberg reported. The round was led by returning investor Thrive Capital, with participation from Andreessen Horowitz, Accel, and DST Global. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
