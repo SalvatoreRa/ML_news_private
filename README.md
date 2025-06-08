@@ -128,7 +128,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Gemini 2.5 Pro Gets an Upgrade.](https://blog.google/products/gemini/gemini-2-5-pro-latest-preview/) |The updated preview outperforms all models on key benchmarks like GPQA, Aider, and LMArena, while also fixing formatting and creativity issues introduced in the earlier 2.5 Pro update. |
 |[Introducing Eleven v3 (alpha) — the most expressive Text to Speech model.](https://elevenlabs.io/blog/eleven-v3) | Eleven Labs has released Eleven v3, a highly expressive AI text-to-speech model. It supports numerous languages, including Afrikaans, Arabic, French, and Mandarin, improving multilingual voice application capabilities.|
 |[Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR.](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) |Anysphere, the maker of AI coding assistant Cursor, has raised $900 million at a $9.9 billion valuation, Bloomberg reported. The round was led by returning investor Thrive Capital, with participation from Andreessen Horowitz, Accel, and DST Global. |
-|[.]() | |
+|[Claude Gov Models for U.S. National Security Customers.](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers) | Anthropic trained custom models for the US government optimized for intelligence and defense use cases that have already been deployed in classified environments.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,8 +161,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Claude Composer CLI.](https://github.com/possibilities/claude-composer) |A program called Claude Composer CLI adds automation, user experience, and configuration to Claude Code.  While providing users with tools to customize Claude and flexible control, it minimizes disruptions.  To keep users informed, the tool sends them system notifications.  Which permission dialogs are automatically accepted is up to the user. |
 |[Portraits: personalized AI coaching built alongside real experts.](https://blog.google/technology/google-labs/portraits/) | Google Labs launched Portraits, an AI coaching tool featuring experts like Kim Scott, to provide AI-driven guidance. The tool uses Gemini's capabilities to simulate expert advice through interactive avatars.|
 |[Introducing Modify Video.](https://lumalabs.ai/blog/news/introducing-modify-video) | Professionals may reinvent settings, lighting, and textures in videos using Modify Video without changing performance or action.  It provides tools for modifying, retexturing, and restyling particular components, such as props and clothing.  Modify Video outperforms rivals by utilizing advanced performance signals for high-fidelity creative control, providing a variety of output options, and maintaining motion consistency.|
-|[.]() | |
-|[.]() | |
+|[Tokasaurus: An LLM Inference Engine for High-Throughput Workloads.](https://scalingintelligence.stanford.edu/blogs/tokasaurus/) |Tokasaurus is a large language model inference engine optimized for throughput-intensive workloads. |
+|[Container Use.](https://github.com/dagger/container-use) |Container Use is a tool that creates development environments for coding agents, enabling multiple agents to work safely and independently with any stack. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
