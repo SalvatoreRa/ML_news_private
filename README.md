@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[How much do language models memorize?](https://arxiv.org/abs/2505.24832) | |
+|[How much do language models memorize?](https://arxiv.org/abs/2505.24832) |Researchers created a method to distinguish true memorization from generalization by training models on random data, where generalization can’t occur, and comparing it to real text. They found that models first memorize data until hitting their capacity, then begin learning broader patterns. GPT-style transformers store about 3.6 bits of information per parameter, which helps explain why extracting specific training data from modern LLMs usually fails—the datasets are far larger than what the models can memorize. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -107,8 +107,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Microsoft Launches Free AI Video Generator Powered by Sora.](https://blogs.bing.com/search/June-2025/Introducing-Bing-Video-Creator) | Bing Video Creator can generate 5-second videos at no cost, starting with 10 fast generations before switching to standard speed or requiring Microsoft Rewards points.|
 |[Character.AI Multimodal Creation Tools.](https://blog.character.ai/character-ai-unveils-new-ways-to-create/) |Character.AI has moved beyond chat by introducing tools like Scenes for interactive storytelling and AvatarFX for turning images into animated avatars. These new features are designed to help creators build more immersive experiences with video, images, and animation. |
 |[Salesforce Acquires Moonhub.](https://www.moonhub.ai/moonhub-team-joins-salesforce) | Moonhub, recognized for its AI-driven recruiting agents, has joined Salesforce to support its broader AI initiatives, including the Agentforce platform.|
-|[.]() | |
-|[.]() | |
+|[FDA Launches AI Tool to Accelerate Drug Reviews and Inspections.](https://www.fda.gov/news-events/press-announcements/fda-launches-agency-wide-ai-tool-optimize-performance-american-people) |“Elsa” is available to all FDA employees, enabling faster clinical protocol reviews, shortened scientific evaluations, and improved identification of high-priority inspection targets. In one case, a review that would have taken 2-3 days was completed in just 6 minutes. |
+|[Snowflake Buys Crunchy Data for $250m, Databricks Buys Neon for $1B. The New AI Database Battle.](https://www.saastr.com/snowflake-buys-crunchy-data-for-250m-databricks-buys-neon-for-1b-the-new-ai-database-battle/) | Snowflake and Databricks are acquiring PostgreSQL-centric companies Crunchy Data for \$250 million and Neon for \$1 billion, aiming to strengthen their positions in the AI database market. These deals reflect the growing need for strong database infrastructure to support autonomous AI agents and signal a trend toward industry consolidation. Snowflake is prioritizing enterprise compliance, while Databricks focuses on serverless, AI-optimized architecture.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,7 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Do You Even Have a System Prompt?](https://www.lesswrong.com/posts/HjHqxzn3rnH7T45hp/do-you-even-have-a-system-prompt-psa-repo) |Most users overlook system prompts or use brief, unoptimized ones, missing out on major improvements in AI behavior. Instead of reacting to poor outputs in isolated chats, users should iteratively test and refine their system prompts. The post’s comment section features a collection of system prompts shared by the community. |
 |[Claude Code: An analysis.](https://southbridge-research.notion.site/claude-code-an-agentic-cleanroom-analysis) |This report details Claude Code, built by Claude Opus 4 with support from several leading flagship models. Claude Code is an agentic coding tool featuring a novel streaming architecture that manages real-time model responses, tool execution, and UI updates. It includes safety systems that ensure security without interrupting workflow, tools that link AI reasoning with system actions, and prompt engineering for consistent control over complex model behavior. The report explores its architectural foundation, data structures, information design, control flow, orchestration engine, tools, execution engine, and more. |
 |[OpenAI Guide to A/B Testing LLMs for Startups.](https://cookbook.openai.com/examples/stripe_model_eval/selecting_a_model_based_on_stripe_conversion) | HyperWrite's case study shows how A/B testing model performance using real payment conversions can be more insightful than relying on offline benchmarks. Their live tests found that GPT-4.1 achieved the same conversion rate as Claude 3.5 Sonnet but at a lower cost, highlighting that “good enough” models can offer better value than top benchmark performers. The guide includes Python code for statistical testing and cautions against issues like p-hacking and checking results too early.|
-|[.]() | |
+|[Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models.](https://impromptu-vla.c7w.tech/) |Impromptu VLA presents a new dataset of 80,000 curated driving video clips aimed at enhancing vision-language-action models in unstructured environments. It includes planning-oriented Q\&A annotations and has demonstrated clear gains in prediction accuracy and safety across established benchmarks. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
