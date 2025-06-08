@@ -159,7 +159,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Latest Advancements in Search and Recommendation Systems.](https://www.youtube.com/watch?v=3k4a0PemMu4&ab_channel=AIEngineer) | This 4-hour session, presented during the AI Engineer World's Fair 2025, covers recent innovations in search and recommendation systems.|
 |[Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation.](https://arxiv.org/abs/2506.03857) | To tackle label uncertainty in LLM-based annotation, this paper proposes a method that captures multiple potential labels and applies a teacher-student framework called CanDist to distill them into a single output.|
 |[Claude Composer CLI.](https://github.com/possibilities/claude-composer) | |
-|[.]() | |
+|[Portraits: personalized AI coaching built alongside real experts.](https://blog.google/technology/google-labs/portraits/) | Google Labs launched Portraits, an AI coaching tool featuring experts like Kim Scott, to provide AI-driven guidance. The tool uses Gemini's capabilities to simulate expert advice through interactive avatars.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
