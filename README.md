@@ -100,10 +100,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Samsung Nears Wide-Ranging Deal With Perplexity for AI Features.](https://www.bloomberg.com/news/articles/2025-06-01/samsung-nears-wide-ranging-deal-with-perplexity-for-ai-features?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0ODg0NTI0NSwiZXhwIjoxNzQ5NDUwMDQ1LCJhcnRpY2xlSWQiOiJTWDFEVVZUMEcxS1c) |Samsung and Perplexity are close to finalizing a deal that would bring Perplexity’s AI-powered search technology to the forefront of Samsung devices. The agreement would see Perplexity’s app and assistant preinstalled on upcoming devices, with its search features built into the Samsung web browser. There are also plans to integrate Perplexity into Samsung’s Bixby assistant. The deal could be announced later this year, with features rolling out starting with the Galaxy S26 line in early 2026. |
 |[Anthropic hits $3 billion in annualized revenue on business demand for AI.](https://www.reuters.com/business/anthropic-hits-3-billion-annualized-revenue-business-demand-ai-2025-05-30/) | Annualized revenue jumped from $1B to $3B in the last five months, largely due to enterprise adoption of AI coding tools powered by Claude.|
 |[Google quietly released an app that lets you download and run AI models locally.](https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/) |Last week, Google quietly released an app that lets users run a range of openly available AI models from the AI dev platform Hugging Face on their phones. Called Google AI Edge Gallery, the app is available for Android and will soon come to iOS. It allows users to find, download, and run compatible models that generate images, answer questions, write and edit code, and more. The models run offline, without needing an internet connection, tapping into supported phones’ processors. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[ElevenLabs debuts Conversational AI 2.0 voice assistants that understand when to pause, speak, and take turns talking.](https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/) | Today, ElevenLabs, the well-funded voice and AI sound effects startup founded by former Palantir engineers, debuted Conversational AI 2.0, a significant upgrade to its platform for building advanced voice agents for enterprise use cases, such as customer support, call centers, and outbound sales and marketing. |
+|[If you're wondering why the new DeepSeek R1 sounds a bit different.](https://threadreaderapp.com/thread/1928187246689112197.html) |The DeepSeek team may have switched from training on synthetic OpenAI outputs to synthetic Gemini outputs.|
+|[We Smoked NVIDIA’s Blackwell, Says Cerebras.](https://analyticsindiamag.com/ai-news-updates/we-smoked-nvidias-blackwell-says-cerebras/) | Cerebras claims its systems outperform Nvidia's DGX B200 by achieving an output token speed of over 2, 500 tokens per second compared to Nvidia's 1,000 tokens per second.|
+|[Early AI investor Elad Gil finds his next big bet: AI-powered roll-ups.](https://techcrunch.com/2025/06/01/early-ai-investor-elad-gil-finds-his-next-big-bet-ai-powered-rollups/) | Elad Gil started betting on AI before most of the world took notice. By the time investors began grasping the implications of ChatGPT, Gil had already written seed checks to startups like Perplexity, Character.AI, and Harvey. Now, as the early winners of the AI wave become clearer, the renowned “solo” VC is increasingly focused on a fresh opportunity: using AI to reinvent traditional businesses and scale them through roll-ups.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -175,7 +175,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[Give AIs a stake in the future.](https://www.dwarkesh.com/p/give-ais-a-stake-in-the-future) |Giving AI a stake in the future means respecting their autonomy and well-being and requires us to honor the contracts we make with them. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
