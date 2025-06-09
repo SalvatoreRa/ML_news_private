@@ -129,7 +129,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Introducing Eleven v3 (alpha) — the most expressive Text to Speech model.](https://elevenlabs.io/blog/eleven-v3) | Eleven Labs has released Eleven v3, a highly expressive AI text-to-speech model. It supports numerous languages, including Afrikaans, Arabic, French, and Mandarin, improving multilingual voice application capabilities.|
 |[Cursor’s Anysphere nabs $9.9B valuation, soars past $500M ARR.](https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/) |Anysphere, the maker of AI coding assistant Cursor, has raised $900 million at a $9.9 billion valuation, Bloomberg reported. The round was led by returning investor Thrive Capital, with participation from Andreessen Horowitz, Accel, and DST Global. |
 |[Claude Gov Models for U.S. National Security Customers.](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers) | Anthropic trained custom models for the US government optimized for intelligence and defense use cases that have already been deployed in classified environments.|
-|[.]() | |
+|[UK ministers delay AI regulation amid plans for more ‘comprehensive’ bill.](https://www.theguardian.com/technology/2025/jun/07/uk-ministers-delay-ai-regulation-amid-plans-for-more-comprehensive-bill) | Law expected to include safety and copyright issues but delay likely to raise concerns about ongoing lack of regulation|
 |[.]() | |
 |[.]() | |
 |[.]() | |
