@@ -88,7 +88,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chinese tech firms freeze AI tools in crackdown on exam cheats.](https://www.theguardian.com/world/2025/jun/09/chinese-tech-firms-freeze-ai-tools-exam-cheats-universities-gaokao) | Suspension comes as 13m students take four-day gaokao tests for limited spots at country’s universities|
 |[All civil servants in England and Wales to get AI training.](https://www.theguardian.com/technology/2025/jun/09/all-civil-servants-in-england-and-wales-to-get-ai-training) |Officials are piloting package of AI tools called Humphrey – named after character in TV sitcom Yes, Minister |
 |[Some Dead Sea Scrolls are older than researchers thought, AI analysis suggests.](https://www.science.org/content/article/some-dead-sea-scrolls-are-older-researchers-thought-ai-analysis-suggests) |But overall, machine learning approach closely matches what human scholars had long suspected about ancient documents |
-|[.]() | |
+|[AI can ‘level up’ opportunities for dyslexic children, says UK tech secretary.](https://www.theguardian.com/technology/2025/jun/10/ai-can-level-up-opportunities-for-dyslexic-children-says-uk-tech-secretary) |Peter Kyle, who is dyslexic and uses AI in his work, says government should look at how it ‘can transform education’ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
