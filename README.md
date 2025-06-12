@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[All civil servants in England and Wales to get AI training.](https://www.theguardian.com/technology/2025/jun/09/all-civil-servants-in-england-and-wales-to-get-ai-training) |Officials are piloting package of AI tools called Humphrey – named after character in TV sitcom Yes, Minister |
 |[Some Dead Sea Scrolls are older than researchers thought, AI analysis suggests.](https://www.science.org/content/article/some-dead-sea-scrolls-are-older-researchers-thought-ai-analysis-suggests) |But overall, machine learning approach closely matches what human scholars had long suspected about ancient documents |
 |[AI can ‘level up’ opportunities for dyslexic children, says UK tech secretary.](https://www.theguardian.com/technology/2025/jun/10/ai-can-level-up-opportunities-for-dyslexic-children-says-uk-tech-secretary) |Peter Kyle, who is dyslexic and uses AI in his work, says government should look at how it ‘can transform education’ |
-|[.]() | |
+|[Meet the engineer using deep learning to restore Renaissance art.](https://www.nature.com/articles/d41586-025-01776-8) | As a student, Alex Kachkine can only afford damaged art in need of repair. Here’s how they turned their conservation work into a science.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -158,7 +158,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[The ‘death of creativity’? AI job fears stalk advertising industry.](https://www.theguardian.com/technology/2025/jun/09/ai-advertising-industry-google-facebook-meta-ads) |WPP and others roll out AI-generated campaigns as Facebook owner Meta plans to let firms create their own ads |
 |[Web-scraping AI bots cause disruption for scientific databases and journals.](https://www.nature.com/articles/d41586-025-01661-4) |Automated programs gathering training data for artificial-intelligence tools are overwhelming academic websites. |
-|[.]() | |
+|[Not all clinical data in the United States are fragmented.](https://www.nature.com/articles/d41586-025-01810-9) |The success of Foresight — a generative artificial intelligence (AI) model trained on records from 57 million people in England’s National Health Service was made possible in part by the NHS’s Secure Data Environment, a platform that gives scientists access to national-scale data sets. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
