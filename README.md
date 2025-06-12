@@ -157,7 +157,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[The ‘death of creativity’? AI job fears stalk advertising industry.](https://www.theguardian.com/technology/2025/jun/09/ai-advertising-industry-google-facebook-meta-ads) |WPP and others roll out AI-generated campaigns as Facebook owner Meta plans to let firms create their own ads |
-|[.]() | |
+|[Web-scraping AI bots cause disruption for scientific databases and journals.](https://www.nature.com/articles/d41586-025-01661-4) |Automated programs gathering training data for artificial-intelligence tools are overwhelming academic websites. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
