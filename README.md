@@ -50,8 +50,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 |[.]() | |
-|[.]() | |
-|[.]() | |
+|[Towards conversational diagnostic artificial intelligence.](https://www.nature.com/articles/s41586-025-08866-7) |The conversational diagnostic artificial intelligence system AMIE (Articulate Medical Intelligence Explorer) has potential as a real-world tool for clinical history-taking and diagnostic dialogue, based on its performance in simulated consultations. |
+|[Towards accurate differential diagnosis with large language models.](https://www.nature.com/articles/s41586-025-08869-4) |Diagnostic reasoning using an optimized large language model with a dataset comprising real-world medical cases exhibited improved differential diagnostic performance as an assistive tool for clinicians over search engines and standard medical resources. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
