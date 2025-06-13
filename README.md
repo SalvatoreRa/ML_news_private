@@ -90,8 +90,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Some Dead Sea Scrolls are older than researchers thought, AI analysis suggests.](https://www.science.org/content/article/some-dead-sea-scrolls-are-older-researchers-thought-ai-analysis-suggests) |But overall, machine learning approach closely matches what human scholars had long suspected about ancient documents |
 |[AI can ‘level up’ opportunities for dyslexic children, says UK tech secretary.](https://www.theguardian.com/technology/2025/jun/10/ai-can-level-up-opportunities-for-dyslexic-children-says-uk-tech-secretary) |Peter Kyle, who is dyslexic and uses AI in his work, says government should look at how it ‘can transform education’ |
 |[Meet the engineer using deep learning to restore Renaissance art.](https://www.nature.com/articles/d41586-025-01776-8) | As a student, Alex Kachkine can only afford damaged art in need of repair. Here’s how they turned their conservation work into a science.|
-|[.]() | |
-|[.]() | |
+|[Australia has ‘no alternative’ but to embrace AI and seek to be a world leader in the field, industry and science minister says.](https://www.theguardian.com/australia-news/2025/jun/12/australia-ai-no-alternative-industry-and-science-minister-tim-ayres) | Tim Ayres says the Albanese government will focus on legislation and regulation but country would benefit from moving quickly|
+|[Disney and Universal sue AI image creator Midjourney, alleging copyright infringement.](https://www.theguardian.com/technology/2025/jun/11/disney-universal-ai-lawsuit) |Studios accuse AI firm of ‘piracy’ and seek injunction over alleged use of copyrighted characters |
 |[.]() | |
 |[.]() | |
 |[.]() | |
