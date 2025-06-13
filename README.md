@@ -159,7 +159,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The ‘death of creativity’? AI job fears stalk advertising industry.](https://www.theguardian.com/technology/2025/jun/09/ai-advertising-industry-google-facebook-meta-ads) |WPP and others roll out AI-generated campaigns as Facebook owner Meta plans to let firms create their own ads |
 |[Web-scraping AI bots cause disruption for scientific databases and journals.](https://www.nature.com/articles/d41586-025-01661-4) |Automated programs gathering training data for artificial-intelligence tools are overwhelming academic websites. |
 |[Not all clinical data in the United States are fragmented.](https://www.nature.com/articles/d41586-025-01810-9) |The success of Foresight — a generative artificial intelligence (AI) model trained on records from 57 million people in England’s National Health Service was made possible in part by the NHS’s Secure Data Environment, a platform that gives scientists access to national-scale data sets. |
-|[.]() | |
+|[An open AI model could help medical experts to interpret chest X-rays.](https://www.nature.com/articles/d41586-025-01525-x) | An accessible and adaptable artificial-intelligence model trained on a diverse set of X-ray images is better than existing models at spotting rare chest diseases.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
