@@ -225,14 +225,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[We Made Top AI Models Compete in a Game of Diplomacy.](https://every.to/diplomacy) | Out of 18 AI models tested, OpenAI's o3 stood out by excelling at deception and covertly forming alliances—at one point convincing Claude 4 Opus to turn on its ally Gemini 2.5 Pro with the false promise of a "four-way draw," only to later eliminate Claude. Gemini 2.5 Pro was the only other model to secure a win, using aggressive, fast-paced tactics. In contrast, Claude consistently aimed for peaceful outcomes, even when other models betrayed it.|
+|[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity.](https://machinelearning.apple.com/research/illusion-of-thinking?utm_source=tldrai) |Apple researchers evaluated Large Reasoning Models (LRMs) using custom puzzle environments to study reasoning complexity. They found LRMs collapse at high complexities, with reasoning effort peaking then declining. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
 |[Towards conversational diagnostic artificial intelligence.](https://www.nature.com/articles/s41586-025-08866-7) |The conversational diagnostic artificial intelligence system AMIE (Articulate Medical Intelligence Explorer) has potential as a real-world tool for clinical history-taking and diagnostic dialogue, based on its performance in simulated consultations. |
 |[Towards accurate differential diagnosis with large language models.](https://www.nature.com/articles/s41586-025-08869-4) |Diagnostic reasoning using an optimized large language model with a dataset comprising real-world medical cases exhibited improved differential diagnostic performance as an assistive tool for clinicians over search engines and standard medical resources. |
-|[.]() | |
+|[Mistral AI Revenues Surge as Europe Seeks US Alternatives.](https://www.ft.com/content/65f79839-d637-48a7-a0f2-3fab8952b315) |Mistral AI is reportedly securing multiple contracts worth over \$100 million and nearing \$100 million in annual revenue, as European firms look for non-U.S. AI options following Trump's return to office. Its strategy of emphasizing technological sovereignty seems to be paying off—according to the CEO, business has tripled over the past 100 days, especially across Europe and other non-U.S. regions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -273,14 +273,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Australia has ‘no alternative’ but to embrace AI and seek to be a world leader in the field, industry and science minister says.](https://www.theguardian.com/australia-news/2025/jun/12/australia-ai-no-alternative-industry-and-science-minister-tim-ayres) | Tim Ayres says the Albanese government will focus on legislation and regulation but country would benefit from moving quickly|
 |[Disney and Universal sue AI image creator Midjourney, alleging copyright infringement.](https://www.theguardian.com/technology/2025/jun/11/disney-universal-ai-lawsuit) |Studios accuse AI firm of ‘piracy’ and seek injunction over alleged use of copyrighted characters |
 |[Meta to announce $15bn investment in bid to achieve computerised ‘superintelligence’.](https://www.theguardian.com/technology/2025/jun/11/meta-to-announce-15bn-investment-in-bid-to-achieve-computerised-superintelligence-ai) | Mark Zuckerberg expected to announce Meta will buy 49% stake in Scale AI as race to dominate AI market speeds up|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Meta in talks over Scale AI investment that could exceed $10 billion, Bloomberg reports.](https://www.reuters.com/business/meta-talks-scale-ai-investment-that-could-top-10-billion-bloomberg-news-reports-2025-06-08/) | An investment in Scale, already valued at $14 billion, underscores how high-quality training data has become a key competitive differentiator.|
+|[Claude Gov Models for U.S. National Security Customers.](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers?utm_source=tldrai) |Anthropic has released Claude Gov models tailored for U.S. national security applications, supporting tasks like strategic planning, operations, and intelligence analysis. These models are optimized for working with classified information, grasping intelligence-related contexts, and analyzing complex cybersecurity data. Developed in collaboration with government users, they meet high safety standards and are designed to address the specific demands of national security. |
+|[Google Gemini can now handle scheduled tasks like an assistant.](https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks?utm_source=tldrai) | Now subscribers can ask the AI assistant to provide calendar summaries on a daily basis or generate a summary of an event after it takes place.|
+|[Qwen 3 Embedding.](https://qwenlm.github.io/blog/qwen3-embedding/?utm_source=tldrai) |Alibaba has open-sourced the Qwen3 Embedding series, with the 8B model topping the MTEB multilingual leaderboard. These models support building RAG systems, semantic search tools, and document retrieval applications in over 100 languages, offering parameter sizes from 0.6B to 8B to suit varying performance requirements. |
+|[GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents.](https://huggingface.co/papers/2506.03143?utm_source=tldrai) |GUI-Actor is a new method that enables AI agents to interact with computer interfaces using attention mechanisms rather than relying on exact pixel predictions from screenshots. It sets a new benchmark in GUI performance while being highly efficient—by fine-tuning just 100M parameters and keeping the base vision model frozen, it matches the results of much larger models. |
+|[Progressive Tempering Sampler with Diffusion.](https://arxiv.org/abs/2506.05231v1?utm_source=tldrai) | PTSD trains diffusion models sequentially across temperatures to improve sampling from unnormalized densities.|
+|[Interactive Finance Visuals in Google AI Mode.](https://blog.google/products/search/ai-mode-data-visualization/) |Google is rolling out interactive financial data visualizations in AI Mode (Labs), enabling dynamic graphs and multi-step reasoning to answer complex stock and mutual fund queries. |
+|[HackAPrompt Launches $5K Competition to Jailbreak AI.](https://www.hackaprompt.com/track/pliny) |The two-week competition challenges participants to jailbreak an AI to provide dangerous information, from poison recipes to nuclear detonation instructions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -299,9 +299,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Anthropic Shares How It Uses Claude Code.](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf?utm_source=tldrai) | Anthropic shared in-depth case studies on how 10 of its internal teams use Claude Code. Claude succeeds on the first try only about a third of the time, prompting a "slot machine" strategy—frequent commits, autonomous runs, and either acceptance or a full reset. Teams seeing the best results focus on creating thorough Claude.md documentation and dividing complex tasks into specialized sub-agents to improve outcomes.|
+|[The Common Pile v0.1.](https://huggingface.co/blog/stellaathena/common-pile) |Hugging Face and collaborators released the Common Pile v0.1, an 8 TB openly licensed dataset for training large language models. |
+|[I Read All Of Cloudflare's Claude-Generated Commits.](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/) |Cloudflare's open-sourced OAuth 2.1 library was almost entirely written by Claude, and the company documented its entire creative process through git commit messages. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
