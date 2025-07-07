@@ -93,12 +93,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia's deal to buy Canadian AI startup CentML could top US$400M.](https://thelogic.co/news/exclusive/nvidias-deal-centml-us400m/) | CentML makes software that operates between users' AI models and the chips powering them, making the systems run better.|
 |[Grok 4 spotted ahead of launch with special coding features.](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/) | Elon Musk-funded xAI is skipping Grok 3.5 and releasing Grok 4 after Independence Day in the United States, and it could be the best model from the company.|
 |[Researchers seek to influence peer review with hidden AI prompts.](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/) | Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback. Nikkei Asia reports that when examining English-language preprint papers available on the website arXiv, it found 17 papers that included some form of hidden AI prompt. The paper’s authors were affiliated with 14 academic institutions in eight countries, including Japan’s Waseda University and South Korea’s KAIST, as well as Columbia University and the University of Washington in the United States.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Apple appeals against ‘unprecedented’ €500m EU fine over app store.](https://www.theguardian.com/technology/2025/jul/07/apple-appeals-eu-fine-app-store) | iPhone maker accuses European Commission of going ‘far beyond what the law requires’ in ruling|
+|[Tesla shares dive as investors fear new Elon Musk political party will damage brand.](https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand) |Fall of 7.5% in early trading wipes $76bn off firm’s value as market frets CEO’s foray into politics will distract from role |
+|[Trump to start TikTok sale talks with China, he says, with deal ‘pretty much’ reached.](https://www.theguardian.com/technology/2025/jul/05/trump-to-start-tiktok-sale-talks-with-china-he-says-with-deal-pretty-much-reached) | President also says he may visit Xi Jinping or Chinese leader could come to US after Trump last month extended app sale deadline for third time|
+|[‘The vehicle suddenly accelerated with our baby in it’: the terrifying truth about why Tesla’s cars keep crashing.](https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing) |Elon Musk is obsessive about the design of his supercars, right down to the disappearing door handles. But a series of shocking incidents – from drivers trapped in burning vehicles to dramatic stops on the highway – have led to questions about the safety of the brand. Why won’t Tesla give any answers? |
+|[Minister demands overhaul of UK’s leading AI institute.](https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing) |Peter Kyle calls for new leadership at Alan Turing Institute and greater focus on defence and national security |
+|[Elon Musk’s xAI gets permit for methane gas generators.](https://www.theguardian.com/us-news/2025/jul/03/elon-musk-xai-pollution-memphis) |NAACP plans to sue over massive Memphis datacenter near Black residents, who have long dealt with pollution |
 |[.]() | |
 |[.]() | |
 |[.]() | |
