@@ -45,9 +45,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Baba is Eval.](https://fi-le.net/baba/) | *Baba is You* is a puzzle game that challenges players to manipulate rules to solve levels, requiring a high level of abstract reasoning. This study examines how large language models perform in the game. Currently, Claude 4 struggles with it, suggesting that a model focused on reasoning might be more suitable. The next phase of the study may involve evaluating such models.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,7 +83,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
+|[Grok 4 benchmarks leak with 45% score on Humanity Last Exam.](https://www.testingcatalog.com/grok-4-benchmarks-leak-with-45-score-on-humanity-last-exam/) | Leaked benchmarks suggest Grok 4 will be a cutting-edge model. Mentions of it have appeared in the xAI console. If the benchmarks are accurate, Grok 4 might surpass top models such as Gemini 2.5 Pro, o3 Pro, and Claude 4 Opus. xAI is under pressure to launch Grok 4 soon, as OpenAI, Google, and Anthropic are reportedly getting ready to unveil new models.|
+|[Character AI's Real-Time Video Generation.](https://blog.character.ai/character-ais-real-time-video-breakthrough/) | Character.AI's TalkingMachines is a real-time, audio-driven video generation model that creates FaceTime-style animations from a single image and voice input.|
+|[Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30](https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/) | Japanese AI lab Sakana AI has introduced a new technique that allows multiple large language models (LLMs) to cooperate on a single task, effectively creating a “dream team” of AI agents. The method, called Multi-LLM AB-MCTS, enables models to perform trial-and-error and combine their unique strengths to solve problems that are too complex for any individual model.|
 |[.]() | | 
 |[.]() | |
 |[.]() | |
@@ -125,7 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
+|[Adding Memory to Gemini 2.5 Chatbots.](https://www.philschmid.de/gemini-with-memory) |A tutorial on using the Gemini API alongside the open-source mem0 tool to equip Gemini 2.5 chatbots with long-term memory. This setup helps bots remember previous interactions, tailor their replies, and avoid repeating information, leading to more contextually aware conversations. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -165,8 +165,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[The American DeepSeek Project.](https://www.interconnects.ai/p/the-american-deepseek-project) |Meta's recent AI struggles have left a gap in the open-source AI landscape, now mostly occupied by Chinese models. If this trend persists, the AI field could divide into two camps: high-performing but costly closed-source models from the U.S., and affordable, widespread, yet possibly insecure models from China. The U.S. likely has a narrow window—around two years—to reverse this by investing \$100–500 million in an open-source model that rivals the best proprietary ones. |
+|[What can agents actually do?](https://lethain.com/what-can-agents-do/) |While there's plenty of hype around AI, much of the discussion is so abstract it becomes unhelpful. This post aims to clearly explain how AI agents function, using a few real-world examples. AI agents can significantly enhance software quality and system design—but if the underlying systems are flawed, agents can actually make things worse. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
