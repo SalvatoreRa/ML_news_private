@@ -46,7 +46,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Baba is Eval.](https://fi-le.net/baba/) | *Baba is You* is a puzzle game that challenges players to manipulate rules to solve levels, requiring a high level of abstract reasoning. This study examines how large language models perform in the game. Currently, Claude 4 struggles with it, suggesting that a model focused on reasoning might be more suitable. The next phase of the study may involve evaluating such models.|
-|[.]() | |
+|[CoRT (Chain of Recursive Thoughts).](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts?utm_source=tldrai) | CoRT boosts AI performance by enabling models to self-evaluate and iteratively generate alternative responses to find the best one. When tested with Mistral 3.1 24B, it led to notable gains in programming tasks. This approach refines outputs through repeated generation and selection, resulting in more accurate and effective responses.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -99,9 +99,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[‘The vehicle suddenly accelerated with our baby in it’: the terrifying truth about why Tesla’s cars keep crashing.](https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing) |Elon Musk is obsessive about the design of his supercars, right down to the disappearing door handles. But a series of shocking incidents – from drivers trapped in burning vehicles to dramatic stops on the highway – have led to questions about the safety of the brand. Why won’t Tesla give any answers? |
 |[Minister demands overhaul of UK’s leading AI institute.](https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing) |Peter Kyle calls for new leadership at Alan Turing Institute and greater focus on defence and national security |
 |[Elon Musk’s xAI gets permit for methane gas generators.](https://www.theguardian.com/us-news/2025/jul/03/elon-musk-xai-pollution-memphis) |NAACP plans to sue over massive Memphis datacenter near Black residents, who have long dealt with pollution |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Grok 4 release livestream.](https://threadreaderapp.com/thread/1942325820170907915.html?utm_source=tldrai) |xAI will hold a livestream for the Grok 4 release on Wednesday at 8 PM PT. |
+|[Apple Loses Top AI Models Executive to Meta’s Hiring Spree.](https://www.bloomberg.com/news/articles/2025-07-07/apple-loses-its-top-ai-models-executive-to-meta-s-hiring-spree?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1MTk1MTEzOCwiZXhwIjoxNzUyNTU1OTM4LCJhcnRpY2xlSWQiOiJTWjFQNE1EV1JHRzAwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.0oqigRfyg_3QJ4_r6OvsL7Db9uRTGc0lHzzYUJ60Hb4) | Ruoming Pang, Apple's head of AI models, is leaving to join Meta's new superintelligence team. Meta is aggressively recruiting top AI talent with multi-million-dollar packages and recently reorganized its AI efforts under Meta Superintelligence Labs, led by Alexandr Wang.|
+|[ChatGPT Experiments with ‘Study Together' Mode.](https://www.reddit.com/r/ChatGPT/comments/1lswn88/new_study_together_option_in_chatgpt/?utm_source=tldrai) |A few users have noticed a new, experimental ChatGPT feature dubbed “Study Together.” Instead of providing direct answers, it prompts users with questions to foster a more interactive learning experience. Details are still scarce, and OpenAI hasn't made an official announcement yet. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -127,9 +127,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Adding Memory to Gemini 2.5 Chatbots.](https://www.philschmid.de/gemini-with-memory) |A tutorial on using the Gemini API alongside the open-source mem0 tool to equip Gemini 2.5 chatbots with long-term memory. This setup helps bots remember previous interactions, tailor their replies, and avoid repeating information, leading to more contextually aware conversations. |
 |[agent-squad.](https://github.com/awslabs/agent-squad) |A framework for building collaborative multi-agent AI systems that can plan, delegate, and work together to solve complex tasks. |
-|[agent-squad.](https://github.com/awslabs/agent-squad) |A framework for building collaborative multi-agent AI systems that can plan, delegate, and work together to solve complex tasks. |
-|[.]() | |
-|[.]() | |
+|[Economics of Claude 3 Opus Inference.](https://x.com/tessera_antra/status/1941563920587817203?utm_source=tldrai) |Anthropic has announced it will deprecate API access to Claude 3 Opus, citing a legitimate operational challenge. This article explores the economics behind running models at reduced scale and considers alternative solutions that could benefit both Anthropic and independent researchers. Maintaining inference access to Claude 3 Opus involves more complexity than is immediately apparent. |
+|[Microjax: JAX in two classes and six functions.](https://github.com/joelburget/microjax?utm_source=tldrai) |Microjax is a tiny autograd engine with a Jax-like API. It was inspired by Andrej Karpathy's Micrograd, a PyTorch-like library with about 150 lines of code. JAX uses a more functional style, which some developers prefer. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -168,7 +167,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The American DeepSeek Project.](https://www.interconnects.ai/p/the-american-deepseek-project) |Meta's recent AI struggles have left a gap in the open-source AI landscape, now mostly occupied by Chinese models. If this trend persists, the AI field could divide into two camps: high-performing but costly closed-source models from the U.S., and affordable, widespread, yet possibly insecure models from China. The U.S. likely has a narrow window—around two years—to reverse this by investing \$100–500 million in an open-source model that rivals the best proprietary ones. |
 |[What can agents actually do?](https://lethain.com/what-can-agents-do/) |While there's plenty of hype around AI, much of the discussion is so abstract it becomes unhelpful. This post aims to clearly explain how AI agents function, using a few real-world examples. AI agents can significantly enhance software quality and system design—but if the underlying systems are flawed, agents can actually make things worse. |
 |[Why I don't think AGI is right around the corner.](https://www.dwarkesh.com/p/timelines-june-2025) |Getting LLMs to perform consistent, humanlike work is difficult because they’re missing key capabilities. One major issue is their inability to improve over time—without continual learning, they stay fixed at their initial skill level. There's also no effective way to give them nuanced, human-style feedback. Tweaking system prompts falls far short of the kind of learning humans go through. Unlike people, LLMs can’t build context over time, reflect on their mistakes, or gradually refine their performance through practice. |
-|[.]() | |
+|[A Review of Alpha School, the private school with 2-hour days and AI teachers.](https://www.astralcodexten.com/p/your-review-alpha-school?utm_source=tldrai) |A year-long investigation by a parent revealed that the \$40,000 Austin school operates with 3.5-hour school days, a 5:1 student-teacher ratio, and strong incentive systems—contrary to its marketing as an AI-driven, teacher-free model. While students progress through material 2.6 times faster using personalized learning tools, parents argue the real benefit isn't acceleration, but time: the model could give children around nine extra years outside the classroom to explore their own interests. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
