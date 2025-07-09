@@ -232,7 +232,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Self-Adapting Language Models.](https://arxiv.org/abs/2506.10943) |A new training method allows LLMs to generate “self-edits” that result in lasting weight updates via supervised fine-tuning. Despite using a smaller model, this approach outperformed GPT-4.1, though it faced issues like catastrophic forgetting and consumed 15 times more tokens than typical inference. The technique offers a potential solution to the data bottleneck and personalization limits by letting models improve themselves through self-generated training data, reducing reliance on human-written text. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -270,9 +270,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
-|[.]() | |
+|[New Insights for Scaling Laws in Autonomous Driving.](https://waymo.com/blog/2025/06/scaling-laws-in-autonomous-driving) | Waymo’s research confirms that, much like in language modeling, scaling up data and compute leads to better performance in autonomous vehicles. This insight reinforces the idea that larger, higher-quality datasets and models can directly improve driving systems. It also paves the way for more adaptive training approaches in robotic planning tasks, with significant implications for the future of autonomous mobility.|
+|[Google tests Audio Overviews for Search queries.](https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/?utm_source=tldrai) | Google Search is experimenting with Audio Overviews for certain Search queries, the company announced on Friday. The feature was first introduced to NotebookLM, Google’s AI-based note-taking and research assistant.| 
+|[Institutional Books 1.0.](https://huggingface.co/datasets/institutional/institutional-books-1.0?utm_source=tldrai) |Harvard Library and Google Books released 242 billion tokens from almost 1 million public domain books as a high-quality training dataset. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -308,13 +308,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Low-Bit Quantization with ParetoQ.](https://pytorch.org/blog/paretoq-scaling-laws-in-extremely-low-bit-llm-quantization) | ParetoQ is a new training algorithm that unifies binary, ternary, and 2-to-4 bit quantization, achieving state-of-the-art results across all levels.|
+|[The AI Eval Flywheel: Scorers, Datasets, Production Usage, & Rapid Iteration.](https://pejmanjohn.com/ai-eval-flywheel) |At the 2025 AI Engineer World's Fair, there was striking alignment in how evaluation frameworks were approached. Most centered on structuring inputs and evaluating outputs, then iterating based on real production usage. The goal is to create fast, low-friction eval flywheels to improve user experience through rapid feedback loops. A key concept is the use of 'playgrounds'—interactive environments where engineers can tweak features and immediately test them against datasets and evaluation metrics. |
+|[How Anthropic Built Their Deep Research System.](https://www.anthropic.com/engineering/built-multi-agent-research-system) |In this engineering blog post, Anthropic shares insights into prompt design, tool coordination, and production reliability when building multi-agent systems. Their architecture follows an orchestrator-worker model, where a lead agent spawns specialized sub-agents that search in parallel—significantly outperforming a single-agent Opus setup. Token usage emerged as the primary driver of performance, accounting for 80% of the variance. While multi-agent systems use roughly 15 times more tokens than standard chats, they enable far more sophisticated research workflows. |
+|[Google's Veo for Live-Action Videos.](https://blog.google/technology/google-deepmind/ancestra-behind-the-scenes/) |Google DeepMind teamed up with filmmakers to create *ANCESTRA*, a hybrid film combining live-action footage with Veo-generated video. The project leveraged new Veo capabilities that allow for personalized, motion-matched generative content, resulting in visually seamless integration between real and AI-generated scenes. |
+|[Featherless AI on Hugging Face Inference Providers.](https://huggingface.co/blog/inference-providers-featherless?utm_source=tldrai) |Featherless AI is now available as an inference provider on Hugging Face. It offers serverless access to a wide variety of models from Meta, Qwen, DeepSeek, and others. |
+|[Automated Issue Resolution Data Pipelines.](https://github.com/deepsoftwareanalytics/swe-factory?utm_source=tldrai) |SWE-Factory provides automated training and evaluation pipelines for GitHub issue resolution tasks. It is powered by LLM-based multi-agent systems. |
+|[An Introduction to Google's Approach to AI Agent Security.](https://simonwillison.net/2025/Jun/15/ai-agent-security/?utm_source=tldrai) | A recent paper from Google describes key risks involved in deploying AI agents and the company's framework for securing them.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -346,10 +346,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[AMD's AI Future is Rack Scale 'Helios'.](https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios?utm_source=tldrai) |AMD's MI400 will rival Nvidia's Blackwell chips with rack-scale architecture that enables thousands of GPUs to function as unified systems. The company claims 40% better tokens/$ compared to NVIDIA. Its roadmap includes a path to 20x rack-scale energy efficiency by 2030. |
+|[Google, Scale AI's largest customer, plans split after Meta deal, sources say.](https://www.reuters.com/business/google-scale-ais-largest-customer-plans-split-after-meta-deal-sources-say-2025-06-13/?utm_source=tldrai) |Meta’s \$14 billion acquisition of a 49% stake in Scale AI has triggered major fallout across the AI industry. Concerned about exposing sensitive data to a competitor, Google pulled a planned \$200 million contract for human-labeled training data. Microsoft, xAI, and OpenAI are also distancing themselves from Scale for similar reasons. This shift is benefiting competitors like Labelbox, which anticipates “hundreds of millions” in new revenue as AI labs seek neutral providers or bring data operations in-house. |
+|[Have LLMs Finally Mastered Geolocation?](https://www.bellingcat.com/resources/how-tos/2025/06/06/have-llms-finally-mastered-geolocation/?utm_source=tldrai) | Open-source intelligence researchers evaluated 20 AI models on 500 geolocation tasks using unpublished travel photos to prevent reliance on memorized data. OpenAI’s latest models outperformed Google Lens by analyzing architectural features, vegetation, and partial text cues, while models like Claude typically only identified the correct continent. Despite their strengths, all models still produced hallucinations, and surprisingly, "deep research" modes often performed worse than standard settings.|
+|[The Claude Bliss Attractor.](https://www.astralcodexten.com/p/the-claude-bliss-attractor?utm_source=tldrai) |Claude, when talking to copies of itself, will eventually turn the conversation into a discussion on spiritual bliss, Buddhism, and the nature of consciousness. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
