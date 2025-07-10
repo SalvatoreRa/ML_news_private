@@ -302,8 +302,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash.](https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/) | There’s a lot of talk in the startup world about how AI makes individuals so productive that it could give rise to a generation of “solo unicorns” — one-person companies worth over $1 billion. While an actual solo unicorn remains a mythical creature, Israeli developer Maor Shlomo provided compelling evidence Wednesday that the concept might not be impossible. |
 |[Connect any React application to an MCP server in three lines of code.](https://blog.cloudflare.com/connect-any-react-application-to-an-mcp-server-in-three-lines-of-code//) | use-mcp is a React library for connecting to remote MCP servers that automatically handles transport, authentication, and session management.|
 |[how i bring the best out of claude code - part 1.](http://www.tokenbender.com/post.html?id=how-i-bring-the-best-out-of-claude-code&utm_source=tldrai) | Getting Claude Code to actually do what you want comes down to being incredibly specific about your requirements—treat it like you're writing a program, not casual instructions.|
-|[.]() | |
-|[.]() | |
+|[Web-scraping AI bots cause disruption for scientific databases and journals.](https://www.nature.com/articles/d41586-025-01661-4) | Automated programs gathering training data for artificial-intelligence tools are overwhelming academic websites.|
+|[Start-up FutureHouse debuts powerful AI ‘reasoning model’ for science.](https://www.nature.com/articles/d41586-025-01753-1) | The model, called ether0, outperforms other advanced AIs at chemistry tasks and is a stepping stone towards automating the entire research pipeline.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -370,10 +370,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inference Economics of Language Models.](https://epoch.ai/blog/inference-economics-of-language-models) | The first detailed analysis of LLM serving economics explains why current scaling methods hit limits sooner than anticipated, especially as AI companies rush to support increasingly token-heavy reasoning models and agents. The main constraint isn’t bandwidth but network latency, which becomes a bottleneck even when more GPUs are added. Innovations like speculative decoding—which can double inference speed without extra cost—are shifting the economic dynamics, as providers work to keep pace with rising demand.|
 |[Generating the Funniest Joke with RL (according to GPT-4.1).](https://www.lesswrong.com/posts/xMGmibZpPDnawjHXk/generating-the-funniest-joke-with-rl-according-to-gpt-4-1) | Language models struggle with generating genuinely funny jokes, often regurgitating common ones like the classic atom joke.|
 |[How AI Redefines User Experience.](https://tomtunguz.com/english-as-input/) | AI now allows existing apps to understand and execute English commands.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Tighter regulation is needed for AI companions.](https://www.nature.com/articles/d41586-025-01906-2) | Nature advocates for more regulations |
+|[We need to show AI what didn’t work as well as what did.](https://www.nature.com/articles/d41586-025-01908-0) | Artificial intelligence (AI) systems designed to assist scientific discovery are typically trained on published literature. Yet this literature carries a major blind spot: the near-total absence of negative or null results.|
+|[Don’t sleepwalk from computer-vision research into surveillance.](https://www.nature.com/articles/d41586-025-01965-5) |The output of computer-vision research is overwhelmingly aimed towards monitoring humans. The potential ethical implications need more scrutiny. |
+|[Medical AI can transform medicine — but only if we carefully track the data it touches.](https://www.nature.com/articles/d41586-025-01946-8) |The uncontrolled deployment of machine learning in medicine can distort patient information and sacrifice long-term data reliability for short-term benefits. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
