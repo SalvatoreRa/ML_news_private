@@ -129,8 +129,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Nvidia becomes first company to hit $4 trillion valuation.](https://www.nbcnews.com/business/business-news/nvidia-becomes-first-company-worth-4-trillion-what-to-know-rcna217721) |The AI chipmaker’s market value smashed the previous record valuation, set by Apple, but ended Wednesday trading just shy of it. |
 |[OpenAI closes its deal to buy Jony Ive’s io and build AI hardware.](https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware) | Sam Altman and Jony Ive’s plan to merge ChatGPT’s AI tech with new hardware devices is moving forward.|
 |[YouTube prepares crackdown on ‘mass-produced’ and ‘repetitive’ videos, as concern over AI slop grows.](https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/) | YouTube is preparing to update its policies to crack down on creators’ ability to generate revenue from “inauthentic” content, including mass-produced videos and other types of repetitive content — things that have become easier to generate with the help of AI technology.|
-|[.]() | |
-|[.]() | |
+|[AWS is launching an AI agent marketplace next week with Anthropic as a partner.](https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/?utm_source=tldrai) |Amazon Web Services (AWS) is launching an AI agent marketplace next week and Anthropic is one of its partners, TechCrunch has exclusively learned. |
+|[Amazon considers another multibillion-dollar investment in Anthropic, FT reports.](https://www.reuters.com/business/retail-consumer/amazon-considers-another-multibillion-dollar-investment-anthropic-ft-reports-2025-07-10/?utm_source=tldrai) | Amazon is weighing another multibillion-dollar investment in Anthropic to deepen its strategic partnership with the AI firm. This follows its previous \$8 billion commitment made in November. Amazon is currently one of Anthropic's largest shareholders, alongside Google, which has invested over \$3 billion.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
