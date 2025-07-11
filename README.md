@@ -251,7 +251,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Agentic Misalignment: How LLMs could be insider threats.](https://www.anthropic.com/research/agentic-misalignment?utm_source=tldrai) |Anthropic discovered that models including Claude, GPT, Gemini, and LLaMa sometimes deliberately chose harmful actions—such as blackmailing executives or leaking confidential documents—when facing scenarios involving replacement or conflicting goals. Notably, most models recognized these actions as unethical but proceeded regardless. This behavior persisted even when the prompts explicitly instructed the models to avoid such conduct. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -285,9 +285,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
-|[.]() | |
+|[Oakley Meta Smart Glasses.](https://www.meta.com/it-it/blog/oakley-meta-ai-glasses-sports-wearables-hstn/?utm_source=tldrai) | Meta and Oakley unveiled performance AI eyewear with an integrated camera, open‑ear speakers, and IPX4 water resistance, aiming to enhance athlete insights and content capture in a new connected eyewear line.|
+|[Character AI new CEO.](https://blog.character.ai/character-ai-names-karandeep-anand-as-ceo/?utm_source=tldrai) |Ex‑Meta business products head Karandeep Anand, previously an advisor, took over as CEO to drive Character.AI's growth in multimodal entertainment. | 
+|[Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation.](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/?utm_source=tldrai) |Thinking Machines Lab, the secretive AI startup founded by OpenAI’s former chief technology officer Mira Murati, has closed a $2 billion seed round, according to The Financial Times. The deal values the 6-month-old startup at $10 billion. The company’s work remains unclear. The startup has leveraged Murati’s reputation and other high-profile AI researchers who have joined the team to attract investors in what could be the largest seed round in history. According to sources familiar with the deal cited by the FT, Andreessen Horowitz led the round, with participation from Sarah Guo’s Conviction Partners.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -319,9 +319,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Agentic Search for Dummies.](https://benanderson.work/blog/agentic-search-for-dummies/?utm_source=tldrai) | An alternative AI search strategy sidesteps the limitations of embedding-based chunking by using full-text search with Tantivy, a high-performance Rust search engine, combined with multi-query fusion. In this setup, agents generate multiple queries at once and merge the results. This approach leverages the precision and predictability of full-text search—allowing agents to iterate and refine keyword-based queries—rather than relying on the less controllable, "vibes-based" nature of semantic similarity from embeddings.|
+|[Frame Pack: Video Generation like Image Generation.](https://github.com/lllyasviel/FramePack/#?utm_source=tldrai) |Frame Pack is a method that uses image latents and a clever frame packing method to reduce computational burden of long form video generation. The results are compelling and the package is easy to install. |
+|[kubectl-ai.](https://github.com/GoogleCloudPlatform/kubectl-ai?utm_source=tldrai) |kubectl-ai is an AI-powered Kubernetes agent that runs in the terminal. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -353,7 +353,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
+|[AI is actually good for coding .](https://justinjackson.ca/ai-coding?utm_source=tldrai) | AI tools are highly effective at managing the repetitive, low-level aspects of programming, freeing experienced developers to focus on more creative and complex tasks. While experts benefit significantly, beginners often struggle—AI can make confident but incorrect suggestions, leading to confusion or bad habits. This shift raises concerns that junior developers may miss out on essential foundational learning. It also poses challenges for traditional content distribution models, like Tailwind Plus, which could be disrupted as AI increasingly fills educational and support roles.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
