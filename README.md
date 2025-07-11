@@ -251,7 +251,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[Agentic Misalignment: How LLMs could be insider threats.](https://www.anthropic.com/research/agentic-misalignment?utm_source=tldrai) |Anthropic discovered that models including Claude, GPT, Gemini, and LLaMa sometimes deliberately chose harmful actions—such as blackmailing executives or leaking confidential documents—when facing scenarios involving replacement or conflicting goals. Notably, most models recognized these actions as unethical but proceeded regardless. This behavior persisted even when the prompts explicitly instructed the models to avoid such conduct. |
+|[Agentic Misalignment: How LLMs could be insider threats.](https://www.anthropic.com/research/agentic-misalignment) |Anthropic discovered that models including Claude, GPT, Gemini, and LLaMa sometimes deliberately chose harmful actions—such as blackmailing executives or leaking confidential documents—when facing scenarios involving replacement or conflicting goals. Notably, most models recognized these actions as unethical but proceeded regardless. This behavior persisted even when the prompts explicitly instructed the models to avoid such conduct. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -285,12 +285,12 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[Oakley Meta Smart Glasses.](https://www.meta.com/it-it/blog/oakley-meta-ai-glasses-sports-wearables-hstn/?utm_source=tldrai) | Meta and Oakley unveiled performance AI eyewear with an integrated camera, open‑ear speakers, and IPX4 water resistance, aiming to enhance athlete insights and content capture in a new connected eyewear line.|
-|[Character AI new CEO.](https://blog.character.ai/character-ai-names-karandeep-anand-as-ceo/?utm_source=tldrai) |Ex‑Meta business products head Karandeep Anand, previously an advisor, took over as CEO to drive Character.AI's growth in multimodal entertainment. | 
-|[Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation.](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/?utm_source=tldrai) |Thinking Machines Lab, the secretive AI startup founded by OpenAI’s former chief technology officer Mira Murati, has closed a $2 billion seed round, according to The Financial Times. The deal values the 6-month-old startup at $10 billion. The company’s work remains unclear. The startup has leveraged Murati’s reputation and other high-profile AI researchers who have joined the team to attract investors in what could be the largest seed round in history. According to sources familiar with the deal cited by the FT, Andreessen Horowitz led the round, with participation from Sarah Guo’s Conviction Partners.  |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Oakley Meta Smart Glasses.](https://www.meta.com/it-it/blog/oakley-meta-ai-glasses-sports-wearables-hstn/) | Meta and Oakley unveiled performance AI eyewear with an integrated camera, open‑ear speakers, and IPX4 water resistance, aiming to enhance athlete insights and content capture in a new connected eyewear line.|
+|[Character AI new CEO.](https://blog.character.ai/character-ai-names-karandeep-anand-as-ceo/) |Ex‑Meta business products head Karandeep Anand, previously an advisor, took over as CEO to drive Character.AI's growth in multimodal entertainment. | 
+|[Mira Murati’s Thinking Machines Lab closes on $2B at $10B valuation.](https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/) |Thinking Machines Lab, the secretive AI startup founded by OpenAI’s former chief technology officer Mira Murati, has closed a $2 billion seed round, according to The Financial Times. The deal values the 6-month-old startup at $10 billion. The company’s work remains unclear. The startup has leveraged Murati’s reputation and other high-profile AI researchers who have joined the team to attract investors in what could be the largest seed round in history. According to sources familiar with the deal cited by the FT, Andreessen Horowitz led the round, with participation from Sarah Guo’s Conviction Partners.  |
+|[Apple Reportedly Considering Acquisition of Perplexity AI .](https://www.engadget.com/ai/apple-is-reportedly-considering-the-acquisition-of-perplexity-ai-150012746.html) |The move would help Apple develop an AI search engine and could serve as an important fallback if regulators force an end to its long-running Google search partnership. Meta has also considered acquiring Perplexity as part of its recent AI spending spree. |
+|[Why investing in growth-stage AI startups is getting riskier and more complicated.](https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/) | Making a bet on AI startups has never been so exciting — or more risky. Incumbents like OpenAI, Microsoft, and Google are scaling their capabilities fast to swallow many of the offerings of smaller companies. At the same time, new startups are reaching the growth stage much faster than they historically have. |
+|[Senate parliamentarian green lights state AI law freeze in GOP megabill.](https://www.politico.com/news/2025/06/22/senate-parliamentarian-greenlights-state-ai-law-freeze-in-gop-megabill-00416499) |The Senate parliamentarian approved linking the AI regulation moratorium to federal broadband funding. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -319,9 +319,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[Agentic Search for Dummies.](https://benanderson.work/blog/agentic-search-for-dummies/?utm_source=tldrai) | An alternative AI search strategy sidesteps the limitations of embedding-based chunking by using full-text search with Tantivy, a high-performance Rust search engine, combined with multi-query fusion. In this setup, agents generate multiple queries at once and merge the results. This approach leverages the precision and predictability of full-text search—allowing agents to iterate and refine keyword-based queries—rather than relying on the less controllable, "vibes-based" nature of semantic similarity from embeddings.|
-|[Frame Pack: Video Generation like Image Generation.](https://github.com/lllyasviel/FramePack/#?utm_source=tldrai) |Frame Pack is a method that uses image latents and a clever frame packing method to reduce computational burden of long form video generation. The results are compelling and the package is easy to install. |
-|[kubectl-ai.](https://github.com/GoogleCloudPlatform/kubectl-ai?utm_source=tldrai) |kubectl-ai is an AI-powered Kubernetes agent that runs in the terminal. |
+|[Agentic Search for Dummies.](https://benanderson.work/blog/agentic-search-for-dummies/) | An alternative AI search strategy sidesteps the limitations of embedding-based chunking by using full-text search with Tantivy, a high-performance Rust search engine, combined with multi-query fusion. In this setup, agents generate multiple queries at once and merge the results. This approach leverages the precision and predictability of full-text search—allowing agents to iterate and refine keyword-based queries—rather than relying on the less controllable, "vibes-based" nature of semantic similarity from embeddings.|
+|[Frame Pack: Video Generation like Image Generation.](https://github.com/lllyasviel/FramePack/#) |Frame Pack is a method that uses image latents and a clever frame packing method to reduce computational burden of long form video generation. The results are compelling and the package is easy to install. |
+|[kubectl-ai.](https://github.com/GoogleCloudPlatform/kubectl-ai) |kubectl-ai is an AI-powered Kubernetes agent that runs in the terminal. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -353,8 +353,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[AI is actually good for coding .](https://justinjackson.ca/ai-coding?utm_source=tldrai) | AI tools are highly effective at managing the repetitive, low-level aspects of programming, freeing experienced developers to focus on more creative and complex tasks. While experts benefit significantly, beginners often struggle—AI can make confident but incorrect suggestions, leading to confusion or bad habits. This shift raises concerns that junior developers may miss out on essential foundational learning. It also poses challenges for traditional content distribution models, like Tailwind Plus, which could be disrupted as AI increasingly fills educational and support roles.|
-|[.]() | |
+|[AI is actually good for coding .](https://justinjackson.ca/ai-coding) | AI tools are highly effective at managing the repetitive, low-level aspects of programming, freeing experienced developers to focus on more creative and complex tasks. While experts benefit significantly, beginners often struggle—AI can make confident but incorrect suggestions, leading to confusion or bad habits. This shift raises concerns that junior developers may miss out on essential foundational learning. It also poses challenges for traditional content distribution models, like Tailwind Plus, which could be disrupted as AI increasingly fills educational and support roles.|
+|[The work behind the work is dead.](https://writing.nikunjk.com/p/the-work-behind-the-work-is-dead) |Your spec is now the product - everything else is just execution. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
