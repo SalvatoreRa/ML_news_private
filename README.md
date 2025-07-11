@@ -252,9 +252,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Agentic Misalignment: How LLMs could be insider threats.](https://www.anthropic.com/research/agentic-misalignment) |Anthropic discovered that models including Claude, GPT, Gemini, and LLaMa sometimes deliberately chose harmful actions—such as blackmailing executives or leaking confidential documents—when facing scenarios involving replacement or conflicting goals. Notably, most models recognized these actions as unethical but proceeded regardless. This behavior persisted even when the prompts explicitly instructed the models to avoid such conduct. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Reinforcement Learning Teachers of Test Time Scaling.](https://sakana.ai/rlt/) |A new approach using "teacher" models that focus on explaining solutions—rather than solving problems from scratch—enabled a 7B-parameter model to outperform DeepSeek R1's 671B model on math benchmarks (26.3% vs 18.9%). Unlike traditional distillation, where large models must first learn to solve problems, these teacher models are given both the question and correct answer and are trained solely to produce clear, helpful explanations. This strategy improves student model performance through better understanding, not brute-force problem-solving. |
+|[Reinforcement Learning Scaling.](https://arxiv.org/abs/2506.17204) | By randomly pruning a fixed proportion of weights once before training, sparse DRL networks prove more parameter‑efficient and avoid optimization pitfalls.|
+|[Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps.](https://arxiv.org/abs/2506.16787) | SeLoRA re‑parameterizes LoRA adapters in a sparse spectral subspace, trimming redundant parameters without sacrificing expressiveness and boosting accuracy on commonsense, math, and code generation tasks.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -291,9 +291,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple Reportedly Considering Acquisition of Perplexity AI .](https://www.engadget.com/ai/apple-is-reportedly-considering-the-acquisition-of-perplexity-ai-150012746.html) |The move would help Apple develop an AI search engine and could serve as an important fallback if regulators force an end to its long-running Google search partnership. Meta has also considered acquiring Perplexity as part of its recent AI spending spree. |
 |[Why investing in growth-stage AI startups is getting riskier and more complicated.](https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/) | Making a bet on AI startups has never been so exciting — or more risky. Incumbents like OpenAI, Microsoft, and Google are scaling their capabilities fast to swallow many of the offerings of smaller companies. At the same time, new startups are reaching the growth stage much faster than they historically have. |
 |[Senate parliamentarian green lights state AI law freeze in GOP megabill.](https://www.politico.com/news/2025/06/22/senate-parliamentarian-greenlights-state-ai-law-freeze-in-gop-megabill-00416499) |The Senate parliamentarian approved linking the AI regulation moratorium to federal broadband funding. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Court filings reveal OpenAI and io’s early work on an AI device.](https://techcrunch.com/2025/06/23/court-filings-reveal-openai-and-ios-early-work-on-an-ai-device/) |Legal filings submitted earlier this month from lawyers representing OpenAI and Jony Ive’s io reveal new details about the companies’ efforts to build a mass-market AI hardware device. |
+|[Leak reveals Grok might soon edit your spreadsheets.](https://techcrunch.com/2025/06/23/leak-reveals-grok-might-soon-edit-your-spreadsheets/) | Leaked code suggests xAI is developing an advanced file editor for Grok with spreadsheet support, signaling the company’s push to compete with OpenAI, Google, and Microsoft by embedding AI copilots into productivity tools. |
+|[Meta approached AI startup Runway about a takeover bid before Scale deal.](https://www.cnbc.com/2025/06/23/meta-ai-runway-scale.html) |The list of startups Meta has approached for acquisition continues to grow. It now includes video generation startup Runway. Talks didn't progress far and Meta ultimately pursued a deal with Scale AI instead. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -322,10 +322,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Agentic Search for Dummies.](https://benanderson.work/blog/agentic-search-for-dummies/) | An alternative AI search strategy sidesteps the limitations of embedding-based chunking by using full-text search with Tantivy, a high-performance Rust search engine, combined with multi-query fusion. In this setup, agents generate multiple queries at once and merge the results. This approach leverages the precision and predictability of full-text search—allowing agents to iterate and refine keyword-based queries—rather than relying on the less controllable, "vibes-based" nature of semantic similarity from embeddings.|
 |[Frame Pack: Video Generation like Image Generation.](https://github.com/lllyasviel/FramePack/#) |Frame Pack is a method that uses image latents and a clever frame packing method to reduce computational burden of long form video generation. The results are compelling and the package is easy to install. |
 |[kubectl-ai.](https://github.com/GoogleCloudPlatform/kubectl-ai) |kubectl-ai is an AI-powered Kubernetes agent that runs in the terminal. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Reinforcement learning, explained with a minimum of math and jargon.](https://www.understandingai.org/p/reinforcement-learning-explained) |Reinforcement learning (RL) trains AI models through trial and error, helping them learn from mistakes and stay focused on complex objectives—unlike imitation learning, which simply mimics human examples. While RL has long been part of LLM training, companies are now scaling it up through two key methods: using AI models to evaluate and score other models’ outputs, and building task-specific environments—such as coding or math—where outcomes can be verified as correct. These approaches expand the volume of training data and improve model performance on challenging tasks. |
+|[NVIDIA Tensor Core Evolution: From Volta To Blackwell.](https://semianalysis.com/2025/06/23/nvidia-tensor-core-evolution-from-volta-to-blackwell/) | Tensor Cores—specialized matrix multiplication units in modern GPUs—are a key driver behind recent advances in AI. As Moore’s Law slows due to physical limits, NVIDIA has sustained rapid performance gains by doubling Tensor Core throughput each GPU generation, a trend dubbed “Huang’s Law.” This progress is made possible through innovations like ultra-low precision data types and asynchronous execution.|
+|[Evaluating Long-Context Question & Answer Systems.](https://eugeneyan.com/writing/qa-evals/) |This post explores the evaluation of long-context question answering (QA), covering key aspects such as metrics, dataset construction, and both human and LLM-based evaluation methods. It highlights major challenges in the field, including information overload, scattered evidence, the need for multi-hop reasoning, and the risk of hallucinated answers. |
+|[Transformers backend integration in SGLang.](https://huggingface.co/blog/transformers-backend-sglang) | The new integration lets developers pair Hugging Face's model APIs with SGLang's high‑throughput, low‑latency engine.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -355,8 +355,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[AI is actually good for coding .](https://justinjackson.ca/ai-coding) | AI tools are highly effective at managing the repetitive, low-level aspects of programming, freeing experienced developers to focus on more creative and complex tasks. While experts benefit significantly, beginners often struggle—AI can make confident but incorrect suggestions, leading to confusion or bad habits. This shift raises concerns that junior developers may miss out on essential foundational learning. It also poses challenges for traditional content distribution models, like Tailwind Plus, which could be disrupted as AI increasingly fills educational and support roles.|
 |[The work behind the work is dead.](https://writing.nikunjk.com/p/the-work-behind-the-work-is-dead) |Your spec is now the product - everything else is just execution. |
-|[.]() | |
-|[.]() | |
+|[You sound like ChatGPT.](https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage) | AI is reshaping the way we speak, subtly shifting vocabulary and speech patterns toward a more uniform, AI-influenced style. Research shows a rise in the use of words favored by AI models and a decline in others, sparking concerns about trust and authenticity in communication. The key challenge is finding a balance—leveraging AI’s benefits while preserving linguistic diversity and personal expression.|
+|[A deep critique of AI 2027's bad timeline models.](https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models) |It's really difficult to predict how a technology like AI will turn out - the uncertainty shown in AI 2027 shows how people shouldn't base their futures on prognostication. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
