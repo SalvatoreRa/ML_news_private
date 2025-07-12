@@ -137,9 +137,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Image-to-Video Generation in Google's Veo 3.](https://blog.google/technology/google-labs/flow-adds-speech-expands/) |Google has added speech generation to Flow, its AI video tool, allowing users to transform images into talking clips using Veo 3. Alongside this, Flow and Google AI Ultra are now available in over 140 countries, expanding access to advanced video and AI features worldwide. |
 |[Gemini 3 incoming?](https://threadreaderapp.com/thread/1942995482592043175.html) |gemini-beta-3.0-pro was just referenced in the latest Gemini-CLI commit. |
 |[Grok Coming to Tesla Vehicles.](https://threadreaderapp.com/thread/1943251229511160001.html) |Elon Musk confirmed that xAI's chatbot Grok will be integrated into Tesla vehicles "next week at the latest." |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[The CEO who never was: how Linda Yaccarino was set up to fail at Elon Musk’s X.](https://www.theguardian.com/technology/2025/jul/10/linda-yaccarino-resigns-x-elon-musk) |Ex-NBC executive was tasked with building an ‘everything app’, but billionaire owner was biggest obstacle in her path |
+|[UK government’s deal with Google ‘dangerously naive’, say campaigners.](https://www.theguardian.com/technology/2025/jul/09/uk-governments-deal-with-google-dangerously-naive-say-campaigners) | Company to provide free technology and ‘upskill’ civil servants but concerns raised over UK data being held on US servers|
+|[Musk’s AI firm forced to delete posts praising Hitler from Grok chatbot.](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb) | The popular bot on X began making antisemitic comments in response to user queries|
 |[.]() | |
 |[.]() | |
 |[.]() | |
