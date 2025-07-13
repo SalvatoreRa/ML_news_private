@@ -56,30 +56,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Chain-of-Thought Is Not Explainability.](https://papers-pdfs.assets.alphaxiv.org/2025.02v1.pdf) |This paper challenges the assumption that chain-of-thought (CoT) reasoning in LLMs guarantees interpretability, arguing CoT is often unfaithful to the model’s actual computations. Empirical evidence shows CoT rationales can mask latent shortcuts, prompt biases, and silent corrections, while a survey of 1,000 papers reveals 24.4% misuse CoT as an interpretability tool without justification. The sequential nature of CoT also mismatches the distributed processing of transformers, leading to misleading explanations. The authors recommend causal validation methods, cognitive science-inspired strategies, and human-centered tools, though acknowledging these only partially address the deeper architectural disconnect. |
 |[ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation.](https://www.arxiv.org/abs/2506.21931) | This paper presents ARAG, a multi-agent framework that enhances traditional RAG systems with reasoning agents for user modeling and contextual ranking, developed by Walmart Global Tech. ARAG features four agents—User Understanding, NLI, Context Summary, and Item Ranker—that collaboratively generate personalized recommendations via a blackboard-style memory for cross-agent attention and interpretability. On Amazon Reviews, ARAG outperforms Vanilla RAG by up to 42.1% (NDCG\@5), with ablations showing significant contributions from NLI and Context Summary agents. The work highlights how agentic reasoning improves personalization and semantic relevance in large-scale recommendation systems.|
 |[From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows.](https://arxiv.org/abs/2506.23260v1) |This paper presents the first end-to-end threat model for LLM-powered agent ecosystems, surveying 30+ attacks across input manipulation, model compromise, system/privacy breaches, and protocol vulnerabilities. It reveals high real-world attack success rates, with adaptive prompt injections and backdoors posing persistent risks. Novel protocol-level threats, such as MCP context hijacks and rogue agent registration in A2A, are highlighted as critical yet underexplored. The authors call for system-level defenses like dynamic trust, cryptographic provenance, and secure interfaces, alongside tailored benchmarks and anomaly detection to safeguard evolving agent infrastructures. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## News
 |Link|description|
@@ -140,13 +117,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The CEO who never was: how Linda Yaccarino was set up to fail at Elon Musk’s X.](https://www.theguardian.com/technology/2025/jul/10/linda-yaccarino-resigns-x-elon-musk) |Ex-NBC executive was tasked with building an ‘everything app’, but billionaire owner was biggest obstacle in her path |
 |[UK government’s deal with Google ‘dangerously naive’, say campaigners.](https://www.theguardian.com/technology/2025/jul/09/uk-governments-deal-with-google-dangerously-naive-say-campaigners) | Company to provide free technology and ‘upskill’ civil servants but concerns raised over UK data being held on US servers|
 |[Musk’s AI firm forced to delete posts praising Hitler from Grok chatbot.](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb) | The popular bot on X began making antisemitic comments in response to user queries|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Resources
 |Link|description|
@@ -170,22 +141,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[asyncmcp.](https://github.com/bh-rat/asyncmcp) |**asyncmcp** is a variant of the Model Context Protocol (MCP) that operates over queues rather than requiring immediate responses. It’s designed for situations where context isn't instantly available and processing takes time. By using an asynchronous transport layer, asyncmcp routes requests to internal queues for later handling, allowing clients to send tasks without waiting for a response—ideal for deferred or background processing scenarios. |
 |[T5Gemma: Encoder-Decoder Models.](https://developers.googleblog.com/en/t5gemma/) |Google's T5Gemma is a suite of encoder-decoder LLMs adapted from decoder-only Gemma 2 models. Designed for tasks like summarization and translation, T5Gemma includes pretrained and instruction-tuned variants in sizes ranging from 2B to XL. |
 |[Introducing FlexOlmo: a new paradigm for language model training and data collaboration.](https://allenai.org/blog/flexolmo) | This novel architecture enables real-time activation or deactivation of individual data contributions without retraining the entire model. It works by training separate expert modules on private datasets while using a frozen public model as a shared anchor. These modules are then dynamically merged using domain-informed routing, eliminating the need for joint training and allowing instant, flexible model modification.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 ## Perspectives
 |Link|description|
@@ -202,30 +158,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[How big could an “AI Manhattan Project” get?](https://epoch.ai/gradient-updates/how-big-could-an-ai-manhattan-project-get) |Amid increasing calls for a national AI initiative to rival China, projections indicate that by late 2027, U.S. compute capacity could support training runs 10,000 times larger than GPT-4. This level of unified scaling could push AI progress roughly two years ahead of current industry forecasts. |
 |[OpenAI Product Leader: The 4D Method to Build AI Products That Users Actually Want.](https://creatoreconomy.so/p/openai-product-leader-the-4d-method-to-build-ai-products-miqdad) | Miqdad Jaffer, a product leader at OpenAI, presents the 4D framework for creating AI tools that address real-world problems. The method consists of Discover, Design, Develop, and Deploy—focusing on identifying user needs, designing AI that builds trust seamlessly, developing with resilience, and delivering impactful first-use experiences. |
 |[The Only SaaS Feature You Should Be Building.](https://www.henrypray.com/writings/the-only-saas-feature-you-should-be-building) |Before companies can realize a future where AI agents handle real work by interacting with both data and people, they must first solve the action interface for human operators. This interface is crucial because most operators aren’t prompt engineers—their focus is on keeping operations running smoothly. They need a clear, intuitive UI that allows them to confirm or respond to system actions and easily request actions from the AI. This article explores a new paradigm for designing such interfaces, aiming to create a seamless and empowering experience for operators. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+
 
 #############################################
 #############################################
@@ -248,7 +181,60 @@ this is just a placeholder, the organized and correct repository is [here](https
 
 # ML news: 
 
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
+## News
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | | 
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -266,6 +252,92 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[.]() | |
 |[.]() | |
 
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 
 
 
