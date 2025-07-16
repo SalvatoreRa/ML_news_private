@@ -43,6 +43,179 @@ this is just a placeholder, the organized and correct repository is [here](https
 #############################################
 # On working
 
+# ML news: 
+
+## Research
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## News
+|Link|description|
+|---|---|
+|[WeTransfer says user content will not be used to train AI after backlash.](https://www.theguardian.com/technology/2025/jul/16/wetransfer-user-content-ai-artificial-intelligence) |Firm revises new terms of service that had suggested uploaded files could be used to ‘improve machine learning models’ |
+|[Apple inks $500m deal for rare earth magnets with US mining firm.](https://www.theguardian.com/technology/2025/jul/16/apple-us-mining-deal-magnets) | China supplies most rare earth magnets to electronics manufacturers, but curbed exports earlier this year| 
+|[AI chatbot ‘MechaHitler’ could be making content considered violent extremism, expert witness tells X v eSafety case.](https://www.theguardian.com/technology/2025/jul/15/x-esafety-ai-chatbot-grok-ntwnfb) |Tribunal hearing comes days after Elon Musk’s xAI apologised for antisemitic comments made by its Grok bot |
+|[Elmo’s X account posts racist and antisemitic messages after being hacked.](https://www.theguardian.com/technology/2025/jul/14/elmo-x-account-hacked) | Hackers also demanded the US government release more information on the sex trafficker Jeffrey Epstein|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Resources
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+## Perspectives
+|Link|description|
+|---|---|
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+
+
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+6 -12 july
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+
 ## Research
 |Link|description|
 |---|---|
