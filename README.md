@@ -78,14 +78,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Apple inks $500m deal for rare earth magnets with US mining firm.](https://www.theguardian.com/technology/2025/jul/16/apple-us-mining-deal-magnets) | China supplies most rare earth magnets to electronics manufacturers, but curbed exports earlier this year| 
 |[AI chatbot ‘MechaHitler’ could be making content considered violent extremism, expert witness tells X v eSafety case.](https://www.theguardian.com/technology/2025/jul/15/x-esafety-ai-chatbot-grok-ntwnfb) |Tribunal hearing comes days after Elon Musk’s xAI apologised for antisemitic comments made by its Grok bot |
 |[Elmo’s X account posts racist and antisemitic messages after being hacked.](https://www.theguardian.com/technology/2025/jul/14/elmo-x-account-hacked) | Hackers also demanded the US government release more information on the sex trafficker Jeffrey Epstein|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart.](https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/) | OpenAI’s deal to acquire the viral AI coding startup Windsurf for $3 billion fell apart on Friday, according to The Verge. In a shocking twist, Google DeepMind is now hiring Windsurf CEO Varun Mohan, co-founder Douglas Chen, and some of the startup’s top researchers. A Google spokesperson confirmed the hiring of Windsurf’s leaders in a statement to TechCrunch. |
+|[OpenAI delays the release of its open model, again.](https://techcrunch.com/2025/07/11/openai-delays-the-release-of-its-open-model-again/) | OpenAI CEO Sam Altman said Friday the company is delaying the release of its open model, which was already pushed back a month earlier this summer. OpenAI had planned to release the model next week, however Altman said the company is pushing it back indefinitely for further safety testing.|
+|[Apple Will Seriously Consider Buying Mistral.](https://analyticsindiamag.com/ai-news-updates/apple-will-seriously-consider-buying-mistral-report/) | Apple is reportedly exploring the acquisition of Mistral, Europe’s largest AI startup, which has raised €1.1 billion across seven funding rounds. Mistral is known for its suite of large and small language models and its strong performance in optical character recognition. Acquiring Mistral would significantly strengthen Apple’s AI ecosystem, providing the company with a competitive boost in the rapidly evolving AI landscape.|
+|[Moonshot AI's Kimi K2 outperforms GPT-4 in key benchmarks.](https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/) | Chinese startup Moonshot AI has released Kimi K2, a 1 trillion-parameter open-source model that rivals proprietary models in complex agentic tasks. The model was trained with a novel optimizer called MuonClip, designed to prevent the training crashes that often hinder large model development—potentially saving millions in compute expenses.|
+|[SpaceX to invest $2 billion in xAI.](https://www.reuters.com/business/musks-xai-seeks-up-200-billion-valuation-next-fundraising-ft-reports-2025-07-11/) | SpaceX has reportedly agreed to invest $2 billion in xAI as part of a $5 billion funding round, as Elon Musk increasingly interweaves his corporate empire.|
+|[Grok 4 Heavy won't reveal its system prompt.](https://simonwillison.net/2025/Jul/12/grok-4-heavy/) | Grok 4 Heavy, the "think much harder" version of Grok 4 currently only available on the $300/month plan, has measures in place to prevent it from sharing its system prompt.|
+|[Meta acquires voice startup Play AI.](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/) |Meta has acquired Play AI, a startup that uses AI to generate human-sounding voices. A Meta spokesperson has confirmed the acquisition, according to Bloomberg, which also reports that an internal memo stated that the “entire PlayAI team” will be joining the company next week. (TechCrunch has also reached out to Meta for confirmation.) |
+|[Former Intel CEO launches a benchmark to measure AI alignment.](https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/) | After former Intel CEO Pat Gelsinger capped off a more than 40-year career at the semiconductor giant in December, many wondered where Gelsinger would go next. On Thursday, the former Intel CEO revealed one piece of his next chapter: trying to ensure AI models support a flourishing humanity.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -119,8 +119,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Robot Control with Async Inference.](https://huggingface.co/blog/async-robot-inference) | Asynchronous inference helps robotic policies run more smoothly by decoupling action prediction from execution, reducing idle time and improving responsiveness in real-world scenarios.|
+|[ScreenEnv: Deploy your full stack Desktop Agent.](https://huggingface.co/blog/screenenv) | ScreenEnv is a Python library for launching Ubuntu desktop environments in Docker, enabling agents to interact with real GUI applications and supporting the Model Context Protocol for seamless deployment.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -164,10 +164,10 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[xAI's Grok 4: The tension of frontier performance with a side of Elon favoritism.](https://www.interconnects.ai/p/grok-4-an-o3-look-alike-in-search) |xAI launched Grok 4 on July 9, and this post provides a comprehensive overview of the model. It covers performance metrics, early user impressions, evaluations of the Grok 4 Heavy variant, and direct comparisons to OpenAI's o3 pro. The post also examines xAI’s ongoing challenges, including a lack of differentiated products, internal controversies, and cultural risks. While Grok 4 is an impressive technical achievement, it remains troubled by significant behavioral and cultural concerns. |
+|[Scaling up RL is all the rage right now.](https://threadreaderapp.com/thread/1944435412489171119.html#google_vignette) |Reinforcement learning (RL) is expected to drive further improvements because, when applied effectively, it offers greater leverage, responsiveness to feedback, and advantages over supervised fine-tuning. As rollout lengths increase, researchers will likely uncover more insights specific to RL in large language models. There may be many untapped S curves of progress unique to LLMs, distinct from those seen in traditional game or robotics settings. |
+|[How to scale RL to 10^26 FLOPs.](https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops) | Reinforcement learning is emerging as the key training method for advancing frontier AI models. Increasing the data available for RL will further enhance model capabilities. Although current scaling methods are complex and unwieldy, discovering a way to apply next-token prediction via RL directly on web data could enable models to reason more effectively across general web content—not just math and code.|
+|[The upcoming GPT-3 moment for RL.](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/) |GPT-3 demonstrated that scaling up language models can unlock broad capabilities that surpass traditional fine-tuned models. Similarly, today’s reinforcement learning (RL) remains in a pre-GPT era—where models are trained narrowly and generalize poorly, leading to brittle performance outside their training contexts. The RL field is poised to shift toward massive-scale training across thousands of diverse environments. Successfully scaling in this way could produce RL models with robust, adaptable abilities capable of handling entirely new tasks. Achieving this will require training environments far larger and more varied than what exists today. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
