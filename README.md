@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Energy-Based Transformers are Scalable Learners and Thinkers.](https://arxiv.org/pdf/2507.02092) |Energy-Based Transformers introduce a new approach by replacing direct predictions with learned verification functions that score the compatibility between inputs and candidate outputs. This architecture is the first to out-scale standard Transformers, enabling dynamic computation allocation and self-verification of predictions without needing external supervision. As a result, these models achieve up to 35% higher scaling efficiency. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -86,11 +86,13 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok 4 Heavy won't reveal its system prompt.](https://simonwillison.net/2025/Jul/12/grok-4-heavy/) | Grok 4 Heavy, the "think much harder" version of Grok 4 currently only available on the $300/month plan, has measures in place to prevent it from sharing its system prompt.|
 |[Meta acquires voice startup Play AI.](https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/) |Meta has acquired Play AI, a startup that uses AI to generate human-sounding voices. A Meta spokesperson has confirmed the acquisition, according to Bloomberg, which also reports that an internal memo stated that the “entire PlayAI team” will be joining the company next week. (TechCrunch has also reached out to Meta for confirmation.) |
 |[Former Intel CEO launches a benchmark to measure AI alignment.](https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/) | After former Intel CEO Pat Gelsinger capped off a more than 40-year career at the semiconductor giant in December, many wondered where Gelsinger would go next. On Thursday, the former Intel CEO revealed one piece of his next chapter: trying to ensure AI models support a flourishing humanity.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Cognition acquires Windsurf.](https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/) |Cognition has acquired Windsurf’s remaining 250-person team and its \$82 million ARR business after Google’s \$2.4 billion reverse-acquihire took only the leadership, leaving employees without payouts. This acquisition equips Cognition with both AI coding agents and IDE capabilities, positioning it to compete with Cursor’s \$500 million ARR. It also restores Windsurf’s access to Claude models, which Anthropic had previously revoked amid speculation of an OpenAI acquisition. |
+|[Did Windsurf Sell Too Cheap? The Wild 72-Hour Saga and AI Coding Valuations.](https://www.saastr.com/did-windsurf-sell-too-cheap-the-wild-72-hour-saga-and-ai-coding-valuations/) |Google acquired key members of Windsurf for \$2.4 billion after OpenAI's \$3 billion offer lapsed, while Cognition acquired the rest of the company. Despite Windsurf’s strong \$82 million ARR and rapid growth, its loss of access to Anthropic's API and the departure of leadership diminished its standing. The AI coding sector's inflated valuations—fueled by talent competition and platform dependencies—suggest Windsurf may have sold for less than its true potential value. |
+|[Featured Notebooks for Better Research in NotebookLM.](https://blog.google/technology/google-labs/notebooklm-featured-notebooks/) | Google has launched "featured notebooks" in NotebookLM, providing curated research collections from experts and institutions. These notebooks are designed to help users explore topics using high-quality, reliable sources.|
+|[Anthropic, Google, OpenAI and xAI granted up to $200 million for AI work from Defense Department.](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html) | The U.S. Department of Defense on Monday said it’s granting contract awards of up to $200 million to several AI companies. The DoD’s Chief Digital and Artificial Intelligence Office said the awards will help the agency accelerate its adoption of AI solutions. The recipients of the contract awards include Anthropic, Google, OpenAI and xAI.|
+|[Grok debuts interactive AI Companions on iOS with anime avatars.](https://www.testingcatalog.com/grok-debuts-interactive-ai-companions-on-ios-with-anime-avatars/) | Grok on iOS just got 2 AI Companions with one more labelled as "Coming soon". Ani and Rudy are fully animated, can change their backgrounds and make different moves.|
+|[Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks.](https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/) |Rowhammer allows hackers to change or corrupt data stored in memory by rapidly and repeatedly accessing a physical row of memory cells. |
+|[Anthropic's Tool Directory.](https://www.anthropic.com/news/connectors-directory) |Anthropic launched a tool directory to showcase integrations with Claude, enabling direct access to apps like Notion, Figma, and Stripe for more contextual and collaborative interactions. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -121,10 +123,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Robot Control with Async Inference.](https://huggingface.co/blog/async-robot-inference) | Asynchronous inference helps robotic policies run more smoothly by decoupling action prediction from execution, reducing idle time and improving responsiveness in real-world scenarios.|
 |[ScreenEnv: Deploy your full stack Desktop Agent.](https://huggingface.co/blog/screenenv) | ScreenEnv is a Python library for launching Ubuntu desktop environments in Docker, enabling agents to interact with real GUI applications and supporting the Model Context Protocol for seamless deployment.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Gemini Embedding now generally available in the Gemini API.](https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/) | Google’s first Gemini Embedding text model is now generally available to developers via the Gemini API and Vertex AI. The model offers a unified, state-of-the-art experience across multiple domains, supports over 100 languages, and handles up to 2,048 input tokens. Pricing is set at \$0.15 per million input tokens.|
+|[AWS previews Kiro IDE for developers who are over vibe coding.](https://kiro.dev/faq/) |Kiro is a Claude-powered "agentic IDE" that addresses the quality problems of AI-generated code by first producing specifications and user stories before generating actual code. The tool aims to move beyond "vibe coding" and reduce the time developers spend debugging and reviewing AI-generated code. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -168,8 +168,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Scaling up RL is all the rage right now.](https://threadreaderapp.com/thread/1944435412489171119.html#google_vignette) |Reinforcement learning (RL) is expected to drive further improvements because, when applied effectively, it offers greater leverage, responsiveness to feedback, and advantages over supervised fine-tuning. As rollout lengths increase, researchers will likely uncover more insights specific to RL in large language models. There may be many untapped S curves of progress unique to LLMs, distinct from those seen in traditional game or robotics settings. |
 |[How to scale RL to 10^26 FLOPs.](https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops) | Reinforcement learning is emerging as the key training method for advancing frontier AI models. Increasing the data available for RL will further enhance model capabilities. Although current scaling methods are complex and unwieldy, discovering a way to apply next-token prediction via RL directly on web data could enable models to reason more effectively across general web content—not just math and code.|
 |[The upcoming GPT-3 moment for RL.](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/) |GPT-3 demonstrated that scaling up language models can unlock broad capabilities that surpass traditional fine-tuned models. Similarly, today’s reinforcement learning (RL) remains in a pre-GPT era—where models are trained narrowly and generalize poorly, leading to brittle performance outside their training contexts. The RL field is poised to shift toward massive-scale training across thousands of diverse environments. Successfully scaling in this way could produce RL models with robust, adaptable abilities capable of handling entirely new tasks. Achieving this will require training environments far larger and more varied than what exists today. |
-|[.]() | |
-|[.]() | |
+|[Meta Weighing Shift Away from Open Source.](https://www.nytimes.com/2025/07/14/technology/meta-superintelligence-lab-ai.html?unlocked_article_code=1.Wk8.OcqB.PxMXKAOg8pHX&smid=url-share) |The newly formed superintelligence lab is considering abandoning its flagship open-source Behemoth model in favor of closed development, marking a potential philosophical shift from the company's long-standing commitment to open AI. |
+|[LLM Daydreaming.](https://gwern.net/ai-daydreaming) | LLMs lack background processes akin to human "daydreaming," where new connections between unrelated ideas often lead to discoveries. This limitation helps explain why AI models haven’t yet made original breakthroughs. This post proposes a solution: a system that prompts LLMs to randomly retrieve facts, form novel connections, and then apply a critic model to filter for insights that hold genuine value—potentially enabling AI-driven discovery.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
