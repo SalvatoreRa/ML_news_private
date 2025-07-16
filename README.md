@@ -93,8 +93,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Grok debuts interactive AI Companions on iOS with anime avatars.](https://www.testingcatalog.com/grok-debuts-interactive-ai-companions-on-ios-with-anime-avatars/) | Grok on iOS just got 2 AI Companions with one more labelled as "Coming soon". Ani and Rudy are fully animated, can change their backgrounds and make different moves.|
 |[Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks.](https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/) |Rowhammer allows hackers to change or corrupt data stored in memory by rapidly and repeatedly accessing a physical row of memory cells. |
 |[Anthropic's Tool Directory.](https://www.anthropic.com/news/connectors-directory) |Anthropic launched a tool directory to showcase integrations with Claude, enabling direct access to apps like Notion, Figma, and Stripe for more contextual and collaborative interactions. |
-|[.]() | |
-|[.]() | |
+|[Mira Murati's AI startup Thinking Machines valued at $12 billion in early-stage funding.](https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/?utm_source=tldrai) | With no revenue or products, the former OpenAI CTO's startup landed one of the largest seed rounds ever from Andreessen Horowitz, Nvidia, and others. Two-thirds of the team are former OpenAI employees.|
+|[NVIDIA to Resume H20 GPU Sales in China.](https://blogs.nvidia.com/blog/nvidia-ceo-promotes-ai-in-dc-and-china/?utm_source=tldrai) | NVIDIA CEO Jensen Huang confirmed plans to restart H20 GPU sales to China following U.S. government licensing assurances and announced a new fully compliant RTX PRO GPU tailored for industrial AI use in China.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -125,7 +125,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ScreenEnv: Deploy your full stack Desktop Agent.](https://huggingface.co/blog/screenenv) | ScreenEnv is a Python library for launching Ubuntu desktop environments in Docker, enabling agents to interact with real GUI applications and supporting the Model Context Protocol for seamless deployment.|
 |[Gemini Embedding now generally available in the Gemini API.](https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/) | Google’s first Gemini Embedding text model is now generally available to developers via the Gemini API and Vertex AI. The model offers a unified, state-of-the-art experience across multiple domains, supports over 100 languages, and handles up to 2,048 input tokens. Pricing is set at \$0.15 per million input tokens.|
 |[AWS previews Kiro IDE for developers who are over vibe coding.](https://kiro.dev/faq/) |Kiro is a Claude-powered "agentic IDE" that addresses the quality problems of AI-generated code by first producing specifications and user stories before generating actual code. The tool aims to move beyond "vibe coding" and reduce the time developers spend debugging and reviewing AI-generated code. |
-|[.]() | |
+|[Voxtral: Mistral's Open-Source Audio Model.](https://mistral.ai/news/voxtral?utm_source=tldrai) |Mistral's has released Voxtral, its first open-source audio model suite. It features a 24B parameter model for large-scale use and a 3B variant for edge deployment. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -170,7 +170,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The upcoming GPT-3 moment for RL.](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/) |GPT-3 demonstrated that scaling up language models can unlock broad capabilities that surpass traditional fine-tuned models. Similarly, today’s reinforcement learning (RL) remains in a pre-GPT era—where models are trained narrowly and generalize poorly, leading to brittle performance outside their training contexts. The RL field is poised to shift toward massive-scale training across thousands of diverse environments. Successfully scaling in this way could produce RL models with robust, adaptable abilities capable of handling entirely new tasks. Achieving this will require training environments far larger and more varied than what exists today. |
 |[Meta Weighing Shift Away from Open Source.](https://www.nytimes.com/2025/07/14/technology/meta-superintelligence-lab-ai.html?unlocked_article_code=1.Wk8.OcqB.PxMXKAOg8pHX&smid=url-share) |The newly formed superintelligence lab is considering abandoning its flagship open-source Behemoth model in favor of closed development, marking a potential philosophical shift from the company's long-standing commitment to open AI. |
 |[LLM Daydreaming.](https://gwern.net/ai-daydreaming) | LLMs lack background processes akin to human "daydreaming," where new connections between unrelated ideas often lead to discoveries. This limitation helps explain why AI models haven’t yet made original breakthroughs. This post proposes a solution: a system that prompts LLMs to randomly retrieve facts, form novel connections, and then apply a critic model to filter for insights that hold genuine value—potentially enabling AI-driven discovery.|
-|[.]() | |
+|[Reflections on Working at OpenAI.](https://calv.info/openai-reflections?utm_source=tldrai) |A former OpenAI employee offers personal reflections on the company’s culture and mission, portraying it as a place of both significant impact and complexity. The post sheds light on the internal dynamics and atmosphere during a pivotal period in OpenAI’s development.  |
 |[.]() | |
 |[.]() | |
 |[.]() | |
