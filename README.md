@@ -98,9 +98,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Amazon-backed Anthropic rolls out Claude AI for financial services.](https://www.cnbc.com/2025/07/15/claude-ai-financial-anthropic-amazon.html) |Anthropic announced Claude artificial intelligence tools for the financial services sector. The AI tools can help financial professionals make investment decisions, analyze markets and conduct research, Anthropic said. The startup’s Claude models and AI assistant have exploded in popularity as more businesses work to incorporate generative AI. |
 |[Google's AI Security Initiatives.](https://blog.google/technology/safety-security/cybersecurity-updates-summer-2025/) |Google outlined new AI-powered tools and partnerships designed to enhance cybersecurity, including agentic systems and platform updates. |
 |[Announcing Amazon S3 Vectors.](https://aws.amazon.com/it/about-aws/whats-new/2025/07/amazon-s3-vectors-preview-native-support-storing-querying-vectors/) |Amazon S3 Vectors is the first cloud object storage with native support for storing and querying vectors. |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Risk of undersea cable attacks backed by Russia and China likely to rise, report warns.](https://www.theguardian.com/technology/2025/jul/17/risk-undersea-cable-attacks-backed-russia-china-likely-rise-report-warns) |Spate of incidents in Baltic Sea and around Taiwan are harbinger for further disruptive activity, cybersecurity firm says |
+|[Inside Elon Musk’s plan to rain SpaceX’s rocket debris over Hawaii’s pristine waters.](https://www.theguardian.com/technology/2025/jul/17/hawaii-elon-musk-spacex-rocket-debris) |Texas has long been under threat from the launches and explosions of SpaceX rockets. Now Hawaii is emerging as another possible victim |
+|[Google inks $3bn US hydropower deal as it expands energy-hungry datacenters.](https://www.theguardian.com/technology/2025/jul/16/google-hydropower-deal-clean-energy) | The tech giant will buy 3GW of US hydropower in deal to fuel AI and data center growth across eastern states|
 |[.]() | |
 |[.]() | |
 |[.]() | |
