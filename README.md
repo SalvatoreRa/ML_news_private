@@ -128,8 +128,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Voxtral: Mistral's Open-Source Audio Model.](https://mistral.ai/news/voxtral) |Mistral's has released Voxtral, its first open-source audio model suite. It features a 24B parameter model for large-scale use and a 3B variant for edge deployment. |
 |[Context Rot: How Increasing Input Tokens Impacts LLM Performance.](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) | LLM performance declines noticeably as input length grows, even on straightforward tasks like text retrieval and replication. Controlled experiments show that even the most advanced models process context unevenly, leading to greater inconsistency and unreliability as inputs get longer. |
 |[Block Open Sources Goose AI Agent.](https://github.com/block/goose) |A coding AI agent that supports any LLM backend, including local models, and has both desktop and CLI interfaces. Like typical coding agents, it handles end-to-end development workflows from planning to testing. |
-|[.]() | |
-|[.]() | |
+|[OpenAI’s o3 tops new AI league table for answering scientific questions.](https://www.nature.com/articles/d41586-025-02177-7) | SciArena uses votes by researchers to evaluate large language models’ responses on technical topics.|
+|[Invest in data resources to make FAIR a reality.](https://www.nature.com/articles/d41586-025-02216-3) | The FAIR principles have reshaped science by making data findable, accessible, interoperable and reusable. Funders now mandate FAIR data plans, training and sharing.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
