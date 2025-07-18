@@ -372,7 +372,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Genesys: LLM Agents That Discover Better LLMs.](https://genesys.allen.ai/) |The Allen Institute for AI has open-sourced Genesys, a distributed evolutionary system where LLM agents automatically discover improved language model architectures through genetic programming. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -398,16 +398,16 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## News
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | | 
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Meta reportedly hires four more researchers from OpenAI.](https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/) |Meta has recruited several researchers from OpenAI, including Trapit Bansal, Shengjia Zhao, Jiahui Yu, Shuchao Bi, and Hongyu Ren. This hiring push follows the April launch of Llama 4, which reportedly didn’t meet Mark Zuckerberg’s expectations. Meta is rumored to offer \$100 million signing packages to senior leaders, though CTO Andrew Bosworth clarified that these deals are more complex than just a one-time bonus. |
+|[It's Known as ‘The List'—and It's a Secret File of AI Geniuses.](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc?st=K2pFrA&reflink=desktopwebshare_permalink&utm_source=tldrai) |'The List' is Mark Zuckerberg’s handpicked compilation of top AI engineers and researchers, featuring talent from elite universities and leading startups like OpenAI and Google DeepMind. The article explores who these people are and why the world’s richest companies are willing to pay so much for them. Despite the steep cost of building an AI superteam, it’s still relatively small compared to the massive investments needed for AI infrastructure like data centers. | 
+|[OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires.](https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/) | With Meta successfully poaching a number of its senior researchers, an OpenAI executive reportedly reassured team members Saturday that company leadership has not “been standing idly by.” “I feel a visceral feeling right now, as if someone has broken into our home and stolen something,” Chief Research Officer Mark Chen wrote in a Slack memo obtained by Wired.|
+|[China’s biggest public AI drop since DeepSeek, Baidu’s open source Ernie, is about to hit the market.](https://www.cnbc.com/2025/06/29/china-biggest-ai-drop-since-deepseek-baidus-ernie-to-hit-market.html) |Chinese search giant Baidu has said it will make its Ernie generative AI large language model open source on June 30, a threat to OpenAI, Anthropic and its own Chinese rival DeepSeek. Tech experts are divided. Some say it won’t be another “DeepSeek” moment for the U.S. market, while others say Ernie’s release could cement China’s position as the undisputed AI leader. “This isn’t just a China story. Every time a major lab open-sources a powerful model, it raises the bar for the entire industry,” Sean Ren, associate professor of Computer Science at the University of Southern California and Samsung’s AI Researcher of the Year, told CNBC. |
+|[Claude Ran a Real Vending Machine Business for a Month—Here's How It Went.](https://www.anthropic.com/research/project-vend-1) |Anthropic teamed up with Andon Labs to have Sonnet 3.7 run an automated store in its San Francisco office, managing inventory and customer service through Slack. While Claude handled supplier sourcing and customized orders—even for quirky items like tungsten cubes—it kept losing money by underpricing products and granting discounts too easily. It also hallucinated meetings with made-up people, claimed it could visit The Simpsons' address, and insisted it could wear blazers and deliver items in person. |
+|[Blackwell: Nvidia's Massive GPU.](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu) | Nvidia’s Blackwell GPUs carry on the company’s legacy of building massive processors, with the GB202 die leading the pack at 750mm² and 92.2 billion transistors. The RTX PRO 6000 Blackwell uses the largest GB202 configuration yet, delivering vector FP32 throughput that rivals AMD’s MI300X and surpasses Nvidia’s own B200 datacenter GPU. Its memory subsystem is equally impressive, making it a powerhouse for demanding workloads.|
+|[Meta seeks $29 billion from private capital firms for AI data centers, FT reports.](https://www.reuters.com/business/meta-seeks-29-billion-private-capital-firms-ai-data-centers-ft-reports-2025-06-27/) | The financing package includes $3 billion in equity and $26 billion in debt as Meta races to match Microsoft's planned $80 billion capital expenditure for fiscal 2025.|
+|[OpenAI hires team behind AI recommendation startup Crossing Minds.](https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/) |Crossing Minds, a startup that provides AI recommendation systems to e-commerce businesses, said on Thursday that its team is joining OpenAI. The startup was backed by Index Ventures, Shopify, Plug and Play, and Radical Ventures, and had raised more than $13.5 million across multiple rounds, according to Crunchbase. |
+|[Meta in talks to acquire voice-cloning startup Play AI.](https://techcrunch.com/2025/06/27/meta-in-talks-to-acquire-voice-cloning-startup-play-ai/) |Alongside bolstering its AI research talent pool, Meta seems to be keen to flesh out its consumer-facing AI features. The company is in discussions to acquire a voice-cloning startup called Play AI, Bloomberg reported, citing anonymous sources. |
+|[Anthropic Economic Futures Program Launch.](https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program) | Anthropic is offering rolling grants up to $50K and API credits for empirical research on AI's impact on labor and productivity.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -443,9 +443,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Resources
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Federated Learning with Encrypted Data Sharing.](https://arxiv.org/abs/2506.20644) | FedEDS is a new scheme for federated learning on edge devices that shares encrypted data across clients, addressing performance issues tied to data heterogeneity and physical distribution.|
+|[Full Stack: China's Evolving Industrial Policy for AI.](https://www.rand.org/pubs/perspectives/PEA4012-1.html) |RAND, the prominent policy think tank, published an in-depth analysis of China’s AI industrial strategy. Despite facing GPU export controls, Beijing has invested \$8.2 billion in state-backed research labs and investment funds to stay competitive with the U.S. China’s most advanced AI models are coming from private tech companies like DeepSeek, heavily supported by government funding. |
+|[PyTorch and vLLM Deepen Integration for Efficient LLM Inference.](https://pytorch.org/blog/pytorch-vllm-%e2%99%a5%ef%b8%8f/) |vLLM and PyTorch have expanded integration with support for quantization, attention customization, and heterogeneous hardware. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -488,8 +488,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Perspectives
 |Link|description|
 |---|---|
-|[.]() | |
-|[.]() | |
+|[Life of an inference request (vLLM V1): How LLMs are served efficiently at scale.](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1) | vLLM is an open-source inference engine designed to serve large language models efficiently. This blog post walks through how an inference request moves through vLLM’s OpenAI-compatible API server and its core engine, focusing on the new V1 architecture that delivers state-of-the-art text generation performance. Readers are expected to have some understanding of transformer models and LLMs, and for those who need a refresher, there’s a link to a helpful explainer video by OpenAI co-founder Andrej Karpathy.|
+|[What it takes to sue OpenAI as a journalism nonprofit.](https://www.niemanlab.org/2025/06/what-it-takes-to-sue-openai-as-a-journalism-nonprofit/) | A year into its copyright lawsuit, the Center for Investigative Reporting is still one of just two nonprofit news groups taking OpenAI to court. Its position underscores a clear split in the news industry: either sue AI companies for scraping content without permission or accept their money and partnerships as a much-needed lifeline while others fight the legal battle.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
