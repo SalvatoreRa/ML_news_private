@@ -373,7 +373,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Genesys: LLM Agents That Discover Better LLMs.](https://genesys.allen.ai/) |The Allen Institute for AI has open-sourced Genesys, a distributed evolutionary system where LLM agents automatically discover improved language model architectures through genetic programming. |
-|[.]() | |
+|[Post-Training Vision-Language-Action Models.](https://arxiv.org/abs/2506.20966v1) | This review analyzes post-training strategies for VLA models through the lens of human motor learning, introducing a taxonomy across perception, embodiment, and task dimensions.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -408,15 +408,15 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI hires team behind AI recommendation startup Crossing Minds.](https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/) |Crossing Minds, a startup that provides AI recommendation systems to e-commerce businesses, said on Thursday that its team is joining OpenAI. The startup was backed by Index Ventures, Shopify, Plug and Play, and Radical Ventures, and had raised more than $13.5 million across multiple rounds, according to Crunchbase. |
 |[Meta in talks to acquire voice-cloning startup Play AI.](https://techcrunch.com/2025/06/27/meta-in-talks-to-acquire-voice-cloning-startup-play-ai/) |Alongside bolstering its AI research talent pool, Meta seems to be keen to flesh out its consumer-facing AI features. The company is in discussions to acquire a voice-cloning startup called Play AI, Bloomberg reported, citing anonymous sources. |
 |[Anthropic Economic Futures Program Launch.](https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program) | Anthropic is offering rolling grants up to $50K and API credits for empirical research on AI's impact on labor and productivity.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Cursor Launches Web and Mobile Apps.](https://cursor.com/en/blog/agent-web) | Cursor now supports running coding tasks in the background, even when users are away, and works across any browser or mobile device. Teams can review agent-generated diffs, create pull requests directly from the web interface, and get Slack notifications or trigger agents through Slack — making collaboration smoother and more flexible.|
+|[Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports.](https://www.reuters.com/business/apple-weighs-using-anthropic-or-openai-power-siri-major-reversal-bloomberg-news-2025-06-30/) |Repeated delays have forced Apple to abandon its typically insular approach. Both companies are training specialized versions of their models to run on Apple's cloud infrastructure. |
+|[Zuckerberg Announces Meta ‘Superintelligence' Effort, More Hires.](https://www.bloomberg.com/news/articles/2025-06-30/zuckerberg-announces-meta-superintelligence-effort-more-hires) |Mark Zuckerberg announced a restructuring of Meta's AI division to focus on developing superintelligence. The new group, Meta Superintelligence Labs (MSL), will be led by Alexandr Wang, appointed as chief AI officer. |
+|[How Oracle Is Winning the AI Compute Market.](https://semianalysis.com/2025/06/30/how-oracle-is-winning-the-ai-compute-market/) |Oracle has quietly emerged as a major force in the AI compute race, thanks largely to its partnership with ByteDance. Together, they’ve invested billions in data centers across Singapore and Malaysia, turning the region into the world’s second-largest AI hub. Oracle also became the biggest lessor of U.S. data center capacity from late 2023 to early 2025, locking in over \$130 billion in contracts for the coming year, including high-profile Stargate deals. |
+|[Airtable's Launches Omni, an agentic app building assistant.](https://www.airtable.com/newsroom/introducing-the-ai-native-airtable) | Airtable has rebranded itself as an AI-native company with the launch of Omni, an AI assistant that can build and edit apps, update datasets, and analyze data using plain language. They also introduced a suite of agents for tasks like web and legal research, document analysis, and market evaluation — all of which can be embedded into business apps to streamline workflows and operations.|
+|[Microsoft's Custom AI Chip Hits Delays.](https://www.techspot.com/news/108489-microsoft-custom-ai-chip-hits-delays-giving-nvidia.html) |The Braga chip won’t enter mass production until 2026 after OpenAI requested late-stage design changes. When it finally ships, it’s expected to trail Nvidia’s Blackwell, which means Azure will remain reliant on Nvidia hardware for at least another year or two. |
+|[METR Finds DeepSeek and Qwen Models Lag Frontier AI by About 6 Months.](https://metr.github.io/autonomy-evals-guide/deepseek-qwen-report/) |The evaluation tested autonomous capabilities across software engineering tasks, finding mid-2025 Chinese models perform similarly to late 2024 frontier models. |
+|[OpenAI Reportedly Shuts Down for a Week as Zuck Poaches Its Top Talent.](https://gizmodo.com/openai-reportedly-shuts-down-for-a-week-as-zuck-poaches-its-top-talent-2000622145) |The week-long break is being framed internally as a much-needed break, but the mandatory vacation feels less like a wellness initiative and more like a panic button. |
+|[Microsoft says AI system better than doctors at diagnosing complex health conditions.](https://www.theguardian.com/technology/2025/jun/30/microsoft-ai-system-better-doctors-diagnosing-health-conditions-research) | Firm says results of research create ‘path to medical superintelligence’ but plays down job implications|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -490,9 +490,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Life of an inference request (vLLM V1): How LLMs are served efficiently at scale.](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1) | vLLM is an open-source inference engine designed to serve large language models efficiently. This blog post walks through how an inference request moves through vLLM’s OpenAI-compatible API server and its core engine, focusing on the new V1 architecture that delivers state-of-the-art text generation performance. Readers are expected to have some understanding of transformer models and LLMs, and for those who need a refresher, there’s a link to a helpful explainer video by OpenAI co-founder Andrej Karpathy.|
 |[What it takes to sue OpenAI as a journalism nonprofit.](https://www.niemanlab.org/2025/06/what-it-takes-to-sue-openai-as-a-journalism-nonprofit/) | A year into its copyright lawsuit, the Center for Investigative Reporting is still one of just two nonprofit news groups taking OpenAI to court. Its position underscores a clear split in the news industry: either sue AI companies for scraping content without permission or accept their money and partnerships as a much-needed lifeline while others fight the legal battle.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Machines of Faithful Obedience.](https://www.lesswrong.com/posts/faAX5Buxc7cdjkXQG/machines-of-faithful-obedience) |AI — including AGI and ASI — could greatly benefit humanity if we solve the technical alignment problem, ensuring these systems follow human instructions accurately and safely. But rapid progress also brings risks like alignment “uncanny valleys,” arms races, surveillance states, social disruption, and misuse for offensive purposes. To mitigate these dangers, it’s crucial to maintain dominance in inference-time compute, deploy AI responsibly, and ensure strong human oversight to guide these powerful systems toward positive outcomes. |
+|[The New Skill in AI is Not Prompting, It's Context Engineering.](https://www.philschmid.de/context-engineering) | Building powerful AI agents is really about engineering context — giving them the right information and tools, in the right format, at the right time. An agent’s success largely depends on the quality of what’s loaded into its limited working memory. Most failures don’t come from the agent’s complexity, but from poor context. In the end, building reliable agents is all about mastering the flow and relevance of information they work with.|
+|[There Are No New Ideas in AI… Only New Datasets.](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only) |The next big shift in AI won’t come from a breakthrough in reinforcement learning or a new neural net architecture — it’ll come from unlocking entirely new data sources. Video is an obvious frontier that many are working to harness, but another game-changing source could emerge when we figure out how to gather and process data from cameras and sensors in a way that’s efficient for training large models on GPUs. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
