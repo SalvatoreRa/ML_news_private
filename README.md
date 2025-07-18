@@ -113,9 +113,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[OpenAI says it will use Google’s cloud for ChatGPT.](https://www.cnbc.com/2025/07/16/openai-googles-cloud-chatgpt.html?utm_source=tldrai) | The Google infrastructure will run in the US, Japan, the Netherlands, Norway, and the UK.|
 |[Thinking Machines Lab will launch its first AI product soon with ‘a significant open source component’.](https://bgr.com/business/thinking-machines-lab-will-launch-its-first-ai-product-soon-with-a-significant-open-source-component/) | Thinking Machines Lab's first product will include a significant open source component and be useful for researchers and startups developing custom models.|
 |[Claude Sonnet 4 is back.](https://threadreaderapp.com/thread/1945599013954490523.html?utm_source=tldrai#google_vignette) | Windsurf now has Claude Sonnet 4 again with first party support from Anthropic.|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[Netflix uses generative AI in one of its shows for first time.](https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta) | Firm says technology used in El Eternauta is chance ‘to help creators make films and series better, not just cheaper’|
+|[OpenAI launches personal assistant capable of controlling files and web browsers.](https://www.theguardian.com/technology/2025/jul/17/openai-launches-personal-assistant-capable-of-controlling-files-and-web-browsers) | AI agent can find restaurant reservations and go shopping for users, but OpenAI acknowledges there are ‘more risks’|
+|[Royal Society suggested to Elon Musk he consider resigning science fellowship.](http://theguardian.com/science/2025/jul/17/royal-society-elon-musk-resign-science-fellowship-tesla) |Fellows called on academy to act over Tesla owner’s role in Trump administration’s attacks on research |
 |[.]() | |
 |[.]() | |
 |[.]() | |
