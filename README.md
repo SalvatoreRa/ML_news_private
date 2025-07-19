@@ -124,8 +124,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Mistral Adds Deep Research, Projects, Image Editing, and Voice Capabilities to Le Chat.](https://mistral.ai/news/le-chat-dives-deep) | The deep research mode breaks down complex questions, gathers sources from the web, and builds structured reports, while the new Voxtral-powered voice mode enables audio-in.|
 |[OpenAI launches bio bug bounty.](https://openai.com/bio-bug-bounty/) | After classifying ChatGPT Agent as high bio/chemical risk, OpenAI launched a program to pay $25,000 to the first researcher to submit a universal jailbreak that answers all 10 challenge questions.|
 |[Windsurf Wave 11.](https://windsurf.com/blog/windsurf-wave-11) |Windsurf's Wave 11 includes startups across AI-native productivity, dev tools, robotics, and consumer agents. |
-|[.]() | |
-|[.]() | |
+|[DuckDuckGo now lets you hide AI-generated images in search results.](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/) |Privacy-focused browser DuckDuckGo is rolling out a new setting that lets users filter out AI images in search results. The company says it’s launching the feature in response to feedback from users who said AI images can get in the way of finding what they’re looking for. |
+|[Bernie Sanders says that if AI makes us so productive, we should get a 4-day workweek.](https://techcrunch.com/2025/06/25/bernie-sanders-says-that-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week/) | As AI companies rave about how their products are revolutionizing productivity, Senator Bernie Sanders (I-VT) wants the tech industry to put its money where its automated mouth is.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
