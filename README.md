@@ -49,7 +49,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |Link|description|
 |---|---|
 |[Gemini Deep Think Achieves IMO Gold.](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/?utm_source=tldrai) |Following OpenAI's gold medal achievement, Google announced that its model also solved five of six International Math Olympiad problems, earning an official gold-medal certification from tournament organizers. This marks a departure from Google's prior method with AlphaProof, which relied on expert translation into formal mathematical language and required days of computation. The new model, Deep Think, works entirely in natural language and explores multiple solution paths in parallel. |
-|[.]() | |
+|[Prima Mente Announces Pleiades Epigenetic Foundation Models.](https://www.biorxiv.org/content/10.1101/2025.07.16.665231v1) |Prima Mente’s **Pleiades** is a family of epigenetic foundation models ranging from 90M to 7B parameters, trained on 1.9 trillion tokens of human methylation and genomic data. By integrating methylation context with genomic sequences through hierarchical attention and coordinate-aware embeddings, the models outperform DNA-only baselines in tasks like cfDNA generation, neurodegenerative disease detection, and epigenomic prediction. Early results demonstrate promising diagnostic accuracy for conditions like Alzheimer’s and Parkinson’s, laying the groundwork for multimodal brain models and advanced biomarker discovery. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -115,8 +115,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Detailed list of all 44 people in Meta's Superintelligence team.](https://threadreaderapp.com/thread/1946597162068091177.html?utm_source=tldrai) | This spreadsheet provides details on everyone in Meta's Superintelligence team, detailing their prior roles, expertise, and degrees.|
 |[Updated Qwen3-235B.](https://x.com/Alibaba_Qwen/status/1947344511988076547?utm_source=tldrai) | Alibaba's Qwen team has released an updated Qwen3-235B-A22B, a non-reasoning model, with major improvements.|
 |[Don't bother parsing: Just use images for RAG.](https://www.morphik.ai/blog/stop-parsing-docs?utm_source=tldrai) |Extracting information from complex PDFs has traditionally required costly and fragile pipelines involving OCR, layout detection, and parsing—yet still often misses key information. Vision Language Models have now advanced to the point where they can directly understand documents without the need for parsing or reconstruction. This shift replaces multiple error-prone steps with a single, robust process that accurately preserves charts, table relationships, and visual cues. |
-|[.]() | |
-|[.]() | |
+|[Kimi K2 Tech Report.](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf?utm_source=tldrai) | Efficiently training trillion-parameter models demands optimizers that extract more learning from each token, but such methods often lead to crashes at scale. Kimi K2 addresses this challenge with **MuonClip**, which pairs the token-efficient Muon optimizer with **QK-Clip**, a novel technique that stabilizes attention weights to prevent training failures.|
+|[Apple details how it trained its new AI models: 4 interesting highlights.](https://9to5mac.com/2025/07/21/apple-details-how-it-trained-its-new-ai-models-4-interesting-highlights/?utm_source=tldrai) |Apple has released a technical report detailing the training, optimization, and evaluation processes behind its latest models. The report covers various aspects such as model architecture, data sources, pre- and post-training methods, tool use development, optimizations, and benchmarking results. While the paper is highly technical, this post highlights some of the most noteworthy insights and advancements presented.
+ |
 |[.]() | |
 |[.]() | |
 |[.]() | |
