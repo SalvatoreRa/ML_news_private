@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[Gemini Deep Think Achieves IMO Gold.](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/?utm_source=tldrai) |Following OpenAI's gold medal achievement, Google announced that its model also solved five of six International Math Olympiad problems, earning an official gold-medal certification from tournament organizers. This marks a departure from Google's prior method with AlphaProof, which relied on expert translation into formal mathematical language and required days of computation. The new model, Deep Think, works entirely in natural language and explores multiple solution paths in parallel. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -85,7 +85,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Inside Windsurf's Weekend Acquisition.](https://threadreaderapp.com/thread/1946376139959841084.html#google_vignette?utm_source=tldrai) |After Google hired Windsurf’s senior research leaders and CEO, Cognition’s Scott Wu cold-messaged Windsurf’s new CEO at 5:30 pm on a Friday to propose an acquisition. Over an intense 72-hour weekend sprint, they structured a deal that merged Windsurf’s enterprise sales team with Cognition’s Devin engineering group. The agreement ensured all 250 Windsurf employees received accelerated vesting and payouts, following the abrupt collapse of the OpenAI acquisition. |
 |[New ChatGPT o3-alpha model hints at coding upgrade.](https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/?utm_source=tldrai) |OpenAI is testing a new 'Alpha' variant of its o3 model that is better than o3 at designing web pages and really good at creating simple web games. |
 |[Lovable becomes a unicorn with $200M Series A just 8 months after launch.](https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/?utm_source=tldrai) | Fast-growing Swedish AI vibe coding startup Lovable has become Europe’s latest unicorn. Only eight months since its launch, the startup has raised a $200 million Series A round led by Accel at a $1.8 billion valuation. Like Cursor and other platforms that help developers write code and build apps by harnessing the coding and reasoning abilities of large language models, Stockholm-based Lovable helps people use natural language to create websites and apps. The startup’s trajectory so far has charted straight toward the sky, with the company claiming it now has more than 2.3 million active users.|
-|[.]() | |
+|[SoftBank and OpenAI's $500 Billion AI Project Struggles to Get Off Ground.](https://www.wsj.com/tech/ai/softbank-openai-a3dc57b4?st=isodSQ&reflink=desktopwebshare_permalink&utm_source=tldrai) | Six months after the White House announcement, the joint venture between SoftBank and OpenAI has yet to finalize any data center deals, with disputes over SB Energy-linked sites causing delays. The venture now aims for just one small Ohio facility by year-end. Meanwhile, OpenAI has independently secured a \$30 billion annual deal with Oracle for 4.5 gigawatts of capacity—nearly equaling Stargate’s entire first-year capacity target.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
