@@ -89,8 +89,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ChatGPT users send 2.5 billion prompts a day.](https://techcrunch.com/2025/07/21/chatgpt-users-send-2-5-billion-prompts-a-day/) |ChatGPT receives 2.5 billion prompts from global users every day, OpenAI told Axios. About 330 million of those are coming from users in the U.S. These numbers show just how ubiquitous OpenAI’s flagship product is becoming. |
 |[Meta and AWS Launch Llama Startup Program.](https://ai.meta.com/blog/aws-program-startups-build-with-llama/) |Meta and AWS have partnered to support 30 U.S.-based startups through a six-month program that will offer compute credits, engineering mentorship, and technical support for startups building generative AI applications with Llama models. |
 |[Grok’s AI companions drove downloads, but its latest model is the one making money.](https://techcrunch.com/2025/07/21/groks-ai-companions-drove-downloads-but-its-latest-model-is-the-one-making-money/) |Grok’s raunchy, unfiltered AI companions may be making headlines for their unhinged and often NSFW responses, but it’s Grok 4, xAI’s latest model, that’s been driving the app’s revenue of late. Elon Musk’s xAI launched Grok 4 late on July 9, and by Friday, July 11, Grok’s gross revenue on iOS had jumped a whopping 325% to $419,000, up from $99,000 the day before the Grok 4 launch, according to app intelligence firm Appfigures. |
-|[.]() | |
-|[.]() | |
+|[OpenAI CEO tells Federal Reserve confab that entire job categories will disappear due to AI.](https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs) |Sam Altman also said AI could already diagnose better than doctors, as his company expands into Washington |
+|[UK border officials to use AI to verify ages of child asylum seekers.](https://www.theguardian.com/uk-news/2025/jul/22/uk-border-officials-to-use-ai-to-verify-ages-of-child-asylum-seekers) |Trial of technology comes as official report warns existing system has been failing for at least a decade |
 |[.]() | |
 |[.]() | |
 |[.]() | |
