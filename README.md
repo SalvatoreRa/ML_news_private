@@ -103,8 +103,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Pika Labs Launches AI-Only Social Video App.](https://x.com/pika_labs/status/1947427650555023410?s=46&utm_source=tldrai) | The AI video startup has opened early access to what it calls the "first-ever AI-only social video app," built on an expressive human video model, after weeks of private beta testing.|
 |[Replit launches Queue to streamline Agent task management.](https://blog.replit.com/introducing-queue-a-smarter-way-to-work-with-agent) |Replit's Queue streamlines multiple task submissions to the Replit Agent without interrupting app creation. |
 |[xAI workers balked over training request to help “give Grok a face,” docs show.](https://arstechnica.com/tech-policy/2025/07/xai-workers-balked-over-training-request-to-help-give-grok-a-face-docs-show/) |xAI employees were asked to record videos of their facial expressions to help Grok learn what a face is and interpret human emotions. |
-|[.]() | |
-|[.]() | |
+|[‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement.](https://www.nature.com/articles/d41586-025-02275-6) |The latest version of the chatbot, developed by start-up Moonshot AI, is open for researchers to build on. |
+|[Why evaluating the impact of AI needs to start now.](https://www.nature.com/articles/d41586-025-02266-7) |Artificial-intelligence technologies are being deployed rapidly across industries, yet most organizations lack even basic guidelines to assess the tools’ effects. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
