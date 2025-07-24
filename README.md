@@ -50,7 +50,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |---|---|
 |[Gemini Deep Think Achieves IMO Gold.](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) |Following OpenAI's gold medal achievement, Google announced that its model also solved five of six International Math Olympiad problems, earning an official gold-medal certification from tournament organizers. This marks a departure from Google's prior method with AlphaProof, which relied on expert translation into formal mathematical language and required days of computation. The new model, Deep Think, works entirely in natural language and explores multiple solution paths in parallel. |
 |[Prima Mente Announces Pleiades Epigenetic Foundation Models.](https://www.biorxiv.org/content/10.1101/2025.07.16.665231v1) |Prima Mente’s **Pleiades** is a family of epigenetic foundation models ranging from 90M to 7B parameters, trained on 1.9 trillion tokens of human methylation and genomic data. By integrating methylation context with genomic sequences through hierarchical attention and coordinate-aware embeddings, the models outperform DNA-only baselines in tasks like cfDNA generation, neurodegenerative disease detection, and epigenomic prediction. Early results demonstrate promising diagnostic accuracy for conditions like Alzheimer’s and Parkinson’s, laying the groundwork for multimodal brain models and advanced biomarker discovery. |
-|[.]() | |
+|[OpenAI's new economic analysis.](https://openai.com/global-affairs/new-economic-analysis/?utm_source=tldrai) |OpenAI's latest economic research shows that 28% of working U.S. adults now use ChatGPT on the job, a sharp rise from 8% in 2023. The data indicates that most usage centers on learning and upskilling (20% of messages), followed by writing and communication tasks (18%), with programming and data science making up 7%. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -105,6 +105,14 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[xAI workers balked over training request to help “give Grok a face,” docs show.](https://arstechnica.com/tech-policy/2025/07/xai-workers-balked-over-training-request-to-help-give-grok-a-face-docs-show/) |xAI employees were asked to record videos of their facial expressions to help Grok learn what a face is and interpret human emotions. |
 |[‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement.](https://www.nature.com/articles/d41586-025-02275-6) |The latest version of the chatbot, developed by start-up Moonshot AI, is open for researchers to build on. |
 |[Why evaluating the impact of AI needs to start now.](https://www.nature.com/articles/d41586-025-02266-7) |Artificial-intelligence technologies are being deployed rapidly across industries, yet most organizations lack even basic guidelines to assess the tools’ effects. |
+|[Trump Administration Pledges to Stimulate AI Use and Exports.](https://www.wsj.com/tech/ai/trump-pledges-moves-to-stimulate-ai-use-and-exports-b85b0b15?st=gj1irP&reflink=desktopwebshare_permalink&utm_source=tldrai) |The Trump administration plans to reduce regulations and support increased exports to speed up AI adoption in the U.S. The initiative aims to simplify and accelerate the process for tech companies to construct data centers and access necessary power. It also instructs federal agencies to eliminate rules that hinder AI progress and seeks to clarify the legal status of using copyrighted material to train AI models. |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
+|[.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -129,7 +137,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[ARC-AGI-3.](https://arcprize.org/arc-agi/3/) |ARC-AGI-3 is a forthcoming benchmark aimed at evaluating human-like intelligence in AI systems, with a focus on generalization and skill-acquisition efficiency in novel environments. Unlike static tests, ARC-AGI-3 uses dynamic game environments to assess how well AI can learn through experience—mimicking the way humans develop competence over time. The benchmark is still in development and is expected to launch in 2026, positioning itself as a critical step toward measuring true general intelligence in machines. |
 |[Hierarchical Reasoning Model, a Brain-Inspired Architecture.](https://www.sapient.inc/blog/5) |Sapient Intelligence has unveiled a 27M-parameter Hierarchical Reasoning Model that outperforms much larger models like OpenAI's o3-mini, DeepSeek R1, and Claude on complex reasoning benchmarks—all without pre-training and using only 1,000 training examples. Inspired by cognitive science, the architecture blends fast, intuitive "System 1" thinking with slower, analytical "System 2" reasoning in a single forward pass. This result highlights the potential of architectural breakthroughs to rival or surpass brute-force scaling in advancing AI reasoning. |
 |[Compressing Context.](https://www.factory.ai/news/compressing-context) | Extended agentic workflows increasingly bump up against the hard limits of context windows. A new solution—**anchored summaries**—offers a smarter alternative to constant re-summarization. Instead of overwriting the past, these summaries update incrementally while preserving essential details like intent, state changes, and file histories. This marks a step toward **proactive memory management**, where agents dynamically decide *what* to retain, *when* to compress, and *how* to structure context for long-horizon tasks—potentially solving one of the core bottlenecks in building persistent, high-functioning AI systems.|
-|[.]() | |
+|[GitHub launches Spark for no-code AI app creation.](https://githubnext.com/projects/github-spark/?utm_source=tldrai) |GitHub Spark lets users build personalized micro apps just by describing their ideas in everyday language, enabling a "vibe coding" experience. Powered by AI models from Anthropic and OpenAI, it instantly creates working apps with built-in deployment, data storage, and sleek user interfaces. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,8 +169,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI and misinformation are supercharging the risk of nuclear war.](https://www.nature.com/articles/d41586-025-02271-w) | Emerging dangers are reshaping the landscape of nuclear deterrence and increasing the threat of mutual annihilation. Scientists must speak truth to power.|
 |[Scientists hide messages in papers to game AI peer review.](https://www.nature.com/articles/d41586-025-02172-y) | Some studies containing instructions in white text or small font — visible only to machines — will be withdrawn from preprint servers.|
 |[Encouraging a ‘data sufficiency’ mindset is key for responsible research.](https://www.nature.com/articles/d41586-025-02266-7) |Efforts to decarbonize research often focus on air travel and on energy use in laboratories. Yet, in many fields, repeated collection of original data — through field campaigns, experiments or high-performance computing — represents the bulk of emissions. It also demands considerable funding and labour, especially from early-career researchers who must secure grants for bespoke data collection, even when relevant data sets already exist. |
-|[.]() | |
-|[.]() | |
+|[Thoughts on America’s AI Action Plan.](https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan?utm_source=tldrai) | The White House's "Winning the Race: America's AI Action Plan" focuses on speeding up AI infrastructure, increasing federal use, and improving security coordination. Anthropic backs the plan, stressing the value of export controls and transparency in AI development. The strategy reflects Anthropic's previous suggestions and underscores the importance of strong infrastructure, safety, and policy to keep the U.S. at the forefront of AI.|
+|[Inverse Scaling Appears in Extended Reasoning.](https://www.lesswrong.com/posts/gbJJpm92jtxiD9zag/inverse-scaling-in-test-time-compute-2?utm_source=tldrai) | Anthropic found that more test-time compute doesn't always help: longer reasoning chains in large models sometimes lead to worse performance.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
