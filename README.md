@@ -113,8 +113,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[China calls for global AI cooperation days after Trump administration unveils low-regulation strategy.](https://www.theguardian.com/technology/2025/jul/26/china-calls-for-global-ai-cooperation-days-after-trump-administration-unveils-low-regulation-strategy) |Chinese premier warns at global conference AI development must be weighed against security risks, urges ‘further consensus from the entire society’ |
 |[AI summaries cause ‘devastating’ drop in audiences, online news media told.](https://www.theguardian.com/technology/2025/jul/24/ai-summaries-causing-devastating-drop-in-online-news-audiences-study-finds) | Study claims sites previously ranked first can lose 79% of traffic if results appear below Google Overview|
 |[OpenAI CEO tells Federal Reserve confab that entire job categories will disappear due to AI.](https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs) | Sam Altman also said AI could already diagnose better than doctors, as his company expands into Washington|
-|[.]() | |
-|[.]() | |
+|[Cursor Launches Bugbot for Automated Code Review.](https://cursor.com/en/bugbot?utm_source=tldrai) | Cursor's Bugbot is a coding safety net that automatically catches bugs and security vulnerabilities in pull requests before they reach production. Early users report over 50% resolution rates.|
+|[OpenAI prepares to launch GPT-5 in August, The Verge reports.](https://www.reuters.com/business/openai-prepares-launch-gpt-5-august-verge-reports-2025-07-24/?utm_source=tldrai) | OpenAI is preparing to launch GPT-5 as soon as August, introducing an AI system that combines specialized models like o3 for different tasks. This move is part of a broader strategy to unify the o-series and GPT-series into a single integrated system.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -141,8 +141,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Voxtral.](https://arxiv.org/abs/2507.13264) | Voxtral Mini and Small are new multimodal chat models designed for both spoken audio and text understanding. Voxtral Small stands out by surpassing many proprietary models, running efficiently on local devices, and handling audio inputs as long as 40 minutes.|
 |[Higgs Audio V2.](https://github.com/boson-ai/higgs-audio) | Higgs Audio v2 is a foundation model trained on 10 million hours of audio that outperforms GPT-4o-mini-tts in 75.7% of evaluations. The open-source model shows emergent abilities such as handling multi-speaker conversations and voice cloning, all without the need for fine-tuning.|
 |[New open models arrive in the Vertex AI Model Garden.](https://cloud.google.com/blog/products/ai-machine-learning/deepseek-r1-is-available-for-everyone-in-vertex-ai-model-garden/) |Google Cloud has added the DeepSeek R1 model to its Vertex AI Model Garden, offering more flexibility for AI developers. |
-|[.]() | |
-|[.]() | |
+|[Google's Web Guide.](https://blog.google/products/search/web-guide-labs/?utm_source=tldrai) | Google's Web Guide is a Search Labs feature that uses a Gemini-powered system to intelligently cluster search results into meaningful groups.|
+|[Kimi K2 vs. Claude 4 Sonnet for Agentic Coding.](https://composio.dev/blog/kimi-k2-vs-claude-4-sonnet-what-you-should-pick-for-agentic-coding?utm_source=tldrai) | This post compares Moonshot AI's Kimi K2, an affordable open-source model tailored for agentic coding, with Anthropic's Claude 4 Sonnet, evaluating them on code quality, performance, and cost. Kimi K2 delivered similar performance while offering a substantial pricing benefit.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
