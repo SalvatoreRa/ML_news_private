@@ -109,9 +109,9 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Elon Musk says xAI is targeting 50 million 'H100 equivalent' AI GPUs in five years.](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-is-targeting-50-million-h100-equivalent-ai-gpus-in-five-years-230k-gpus-including-30k-gb200s-already-reportedly-operational-for-training-grok) | xAI aims to deploy 50 million H100-equivalent GPUs over the next five years, but the energy required would match the output of around 35 nuclear power plants, making it currently impractical. It's still uncertain whether xAI can secure the necessary power infrastructure by 2030.|
 |[YouTube Shorts is adding an image-to-video AI tool, new AI effects.](https://techcrunch.com/2025/07/23/youtube-shorts-is-adding-an-image-to-video-ai-tool-new-ai-effects/) |YouTube announced on Wednesday that it’s giving Shorts creators access to new generative AI features, including an image-to-video AI tool and new AI effects. The image to video feature lets users turn a picture from their camera roll into a six-second video. Users will see a selection of suggestions that are relevant to the photo they uploaded. |
 |[Competition shows humans are still better than AI at coding – just.](https://www.theguardian.com/technology/2025/jul/26/competition-shows-humans-are-still-better-than-ai-at-coding-just) | Przemysław Dębiak, who beat OpenAI at world finals, says he may be last human to win due to incredible pace of technological progress|
-|[.]() | |
-|[.]() | |
-|[.]() | |
+|[The real winners from Trump’s ‘AI action plan’? Tech companies.](https://www.theguardian.com/technology/2025/jul/25/trump-ai-action-plan) |Millions spent by Alphabet, Meta, Microsoft and others appear to have paid off as president vows to cut red tape |
+|[China calls for global AI cooperation days after Trump administration unveils low-regulation strategy.](https://www.theguardian.com/technology/2025/jul/26/china-calls-for-global-ai-cooperation-days-after-trump-administration-unveils-low-regulation-strategy) |Chinese premier warns at global conference AI development must be weighed against security risks, urges ‘further consensus from the entire society’ |
+|[AI summaries cause ‘devastating’ drop in audiences, online news media told.]() | |
 |[.]() | |
 |[.]() | |
 |[.]() | |
