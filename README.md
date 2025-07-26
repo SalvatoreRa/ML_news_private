@@ -111,8 +111,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Competition shows humans are still better than AI at coding – just.](https://www.theguardian.com/technology/2025/jul/26/competition-shows-humans-are-still-better-than-ai-at-coding-just) | Przemysław Dębiak, who beat OpenAI at world finals, says he may be last human to win due to incredible pace of technological progress|
 |[The real winners from Trump’s ‘AI action plan’? Tech companies.](https://www.theguardian.com/technology/2025/jul/25/trump-ai-action-plan) |Millions spent by Alphabet, Meta, Microsoft and others appear to have paid off as president vows to cut red tape |
 |[China calls for global AI cooperation days after Trump administration unveils low-regulation strategy.](https://www.theguardian.com/technology/2025/jul/26/china-calls-for-global-ai-cooperation-days-after-trump-administration-unveils-low-regulation-strategy) |Chinese premier warns at global conference AI development must be weighed against security risks, urges ‘further consensus from the entire society’ |
-|[AI summaries cause ‘devastating’ drop in audiences, online news media told.]() | |
-|[.]() | |
+|[AI summaries cause ‘devastating’ drop in audiences, online news media told.](https://www.theguardian.com/technology/2025/jul/24/ai-summaries-causing-devastating-drop-in-online-news-audiences-study-finds) | Study claims sites previously ranked first can lose 79% of traffic if results appear below Google Overview|
+|[OpenAI CEO tells Federal Reserve confab that entire job categories will disappear due to AI.](https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs) | Sam Altman also said AI could already diagnose better than doctors, as his company expands into Washington|
 |[.]() | |
 |[.]() | |
 |[.]() | |
