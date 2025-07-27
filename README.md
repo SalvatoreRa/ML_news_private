@@ -120,7 +120,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[NEW LABS EXPERIMENT.](https://threadreaderapp.com/thread/1948430715432976802.html) |Opal, Google Labs' new tool that helps users build and share AI mini-apps by linking together prompts, models, and tools while using simple, natural language, is now available in US-only public beta. |
 |[Google's AI Overviews have 2B monthly users, AI Mode 100M in the US and India.](https://techcrunch.com/2025/07/23/googles-ai-overviews-have-2b-monthly-users-ai-mode-100m-in-the-us-and-india/) |Google's AI Overviews now serve 2 billion monthly users across 200 countries, up from 1.5 billion in May, and the company's monthly token processing has doubled to 980 trillion tokens. |
 |[I've joined Cognition.](https://threadreaderapp.com/thread/1948420769945682413.html) | Prem Qu Nair, employee #2 at Windsurf, has joined Cognition to work on the future of software engineering|
-|[.]() | |
+|[18 months. 12,000 questions. A whole lot of anxiety. What I learned from reading students’ ChatGPT logs.](https://www.theguardian.com/technology/2025/jul/27/it-wants-users-hooked-and-jonesing-for-their-next-fix-are-young-people-becoming-too-reliant-on-ai) |Students increasingly use AI chatbots for anything from academic queries to emotional quandaries. But are they missing out on the chance to make their own mistakes? Three undergrads reveal all … |
 |[.]() | |
 |[.]() | |
 |[.]() | |
