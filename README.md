@@ -160,7 +160,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Cloud Cost Conundrum: Rising Expenses Hinder AI Innovation in Europe.](https://www.akamai.com/blog/cloud/2025/jul/cloud-cost-conundrum-rising-expenses-hinder-ai-innovation-europe) |Rising cloud infrastructure costs are hindering AI progress in Europe, with compute-heavy tasks like model training facing tight budget limits. Startups say they're being forced to cut back on experiments or postpone launches due to growing expenses. To stay globally competitive, innovators in the region are pushing for more efficient system designs and better pricing structures. |
 |[AI models are neglecting African languages — scientists want to change that.](https://www.nature.com/articles/d41586-025-02292-5) | Scientists record 9,000 hours of languages spoken in Kenya, Nigeria and South Africa as free-access training data for AI models.|
 |[How to detect consciousness in people, animals and maybe even AI.](https://www.nature.com/articles/d41586-025-02349-5) |Insights from human brains could inform how scientists search for awareness in all its possible forms. |
-|[.]() | |
+|[AI, bounties and culture change, how scientists are taking on errors.](https://www.nature.com/articles/d41586-025-02307-1) |Researchers are trialling myriad approaches to prevent errors in science. In this podcast, we explore their different approaches and ask how can science be improved. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
