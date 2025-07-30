@@ -87,8 +87,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The dominance of Chinese open models is undersold .](https://threadreaderapp.com/thread/1949547864851681356.html) | The top four open source AI models are from Chinese labs.| 
 |[The 14 pains of billing for AI agents.](https://arnon.dk/the-14-pains-of-billing-ai-agents/) | The original billing complexity hasn't gone away, we've just added a whole new layer of agentic complexity on top.|
 |[Copilot Mode in Microsoft Edge.](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/?utm_source=tldrai) |Microsoft has launched Copilot Mode in Edge, an experimental AI feature aimed at reinventing web browsing by helping users anticipate next actions, summarize content, and cut down on tab clutter for a more efficient online experience. |
-|[.]() | |
-|[.]() | |
+|[Grok will get infinite image gen and video gen with sounds.](https://www.testingcatalog.com/grok-will-get-infinite-image-gen-and-video-gen-with-sounds/?utm_source=tldrai#google_vignette) |xAI is planning significant upgrades to its Grok app, including the new Imagine feature that enables generative image and video capabilities. With minimal restrictions, these tools could quickly gain popularity once widely released. While no official launch date is set, xAI is expected to align the rollout with GPT-5’s debut. |
+|[Tesla $16.5B Deal with Samsung.](https://threadreaderapp.com/thread/1949673345567592869.html?utm_source=tldrai) |Tesla secured a $16.5 billion agreement with Samsung to manufacture its AI6 chips at a new Texas facility. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
