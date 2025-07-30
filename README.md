@@ -86,7 +86,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab.](https://www.reuters.com/business/meta-names-chatgpt-co-creator-chief-scientist-superintelligence-lab-2025-07-25/) |Meta has appointed Shengjia Zhao, a co-creator of ChatGPT, as chief scientist of its new Superintelligence Lab to strengthen its AI efforts. Zhao will steer the lab's research agenda in collaboration with CEO Mark Zuckerberg and Chief AI Officer Alex Wang. This move underscores Meta's assertive hiring push to catch up in the race for cutting-edge AI capabilities. |
 |[The dominance of Chinese open models is undersold .](https://threadreaderapp.com/thread/1949547864851681356.html) | The top four open source AI models are from Chinese labs.| 
 |[The 14 pains of billing for AI agents.](https://arnon.dk/the-14-pains-of-billing-ai-agents/) | The original billing complexity hasn't gone away, we've just added a whole new layer of agentic complexity on top.|
-|[.]() | |
+|[Copilot Mode in Microsoft Edge.](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/?utm_source=tldrai) |Microsoft has launched Copilot Mode in Edge, an experimental AI feature aimed at reinventing web browsing by helping users anticipate next actions, summarize content, and cut down on tab clutter for a more efficient online experience. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
