@@ -48,7 +48,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 ## Research
 |Link|description|
 |---|---|
-|[.]() | |
+|[The Levers of Political Persuasion with Conversational AI.](https://arxiv.org/pdf/2507.13919) | Researchers evaluated 19 language models on over 76,000 participants and discovered that specialized post-training methods increased persuasiveness by up to 51%, significantly more than gains from larger models alone. The top-performing approach involved prompting models to include dense factual content, but this led to a concerning downside: the most persuasive responses were also the most inaccurate.|
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -124,7 +124,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AgenticSeek.](https://github.com/Fosowl/agenticSeek) | A fully local, voice-enabled AI assistant that autonomously browses the web, writes code, and plans tasks. It was designed to be a private open-source alternative to Manus AI with no cloud dependencies.|
 |[Using GitHub Spark to reverse engineer GitHub Spark .](https://simonwillison.net/2025/Jul/24/github-spark/) | GitHub Spark is GitHub's implementation of the prompt-to-app pattern - this post explores its system prompt in detail.|
 |[Faster Hugging Face CLI.](https://huggingface.co/blog/hf-cli) |Hugging Face has renamed its CLI from huggingface-cli to hf, reorganizing the command structure into a more intuitive format. |
-|[.]() | |
+|[China's AI startup Zhipu releases open-source model GLM-4.5.](https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-open-source-model-glm-45-2025-07-28/?utm_source=tldrai) |Startup Z.ai, formerly known as Zhipu, has released GLM-4.5, which it says is more cost-efficient than DeepSeek thanks to its smaller model size and capability to break down tasks into sub-goals. Backed by the Chinese government, Z.ai previously caught OpenAI’s eye for winning major contracts in China despite strong competition from bigger players. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
