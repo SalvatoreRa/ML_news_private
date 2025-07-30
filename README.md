@@ -158,8 +158,8 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[The Story of the World's First AI-Organized Event.](http://lesswrong.com/posts/b3M8qKPDv756gmQph/the-story-of-the-world-s-first-ai-organized-event) |An AI orchestrated a successful event, handling tasks such as scheduling, marketing, and logistics. The event highlighted AI's potential to automate complex organizational tasks. This advancement could streamline event management and reduce human workload. |
 |[Everything I've Learned so far About OpenAI's Agents.](https://leonfurze.com/2025/07/21/everything-ive-learned-so-far-about-openais-agents/) |This article explores the capabilities and limitations of OpenAI's new Agents, detailing their current applications and tools. It includes examples of tasks completed by the agents but also highlights numerous things they still can't do, along with various performance and output problems that make the product feel incomplete. |
 |[The Cloud Cost Conundrum: Rising Expenses Hinder AI Innovation in Europe.](https://www.akamai.com/blog/cloud/2025/jul/cloud-cost-conundrum-rising-expenses-hinder-ai-innovation-europe) |Rising cloud infrastructure costs are hindering AI progress in Europe, with compute-heavy tasks like model training facing tight budget limits. Startups say they're being forced to cut back on experiments or postpone launches due to growing expenses. To stay globally competitive, innovators in the region are pushing for more efficient system designs and better pricing structures. |
-|[.]() | |
-|[.]() | |
+|[AI models are neglecting African languages — scientists want to change that.](https://www.nature.com/articles/d41586-025-02292-5) | Scientists record 9,000 hours of languages spoken in Kenya, Nigeria and South Africa as free-access training data for AI models.|
+|[How to detect consciousness in people, animals and maybe even AI.](https://www.nature.com/articles/d41586-025-02349-5) |Insights from human brains could inform how scientists search for awareness in all its possible forms. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
