@@ -89,7 +89,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[Copilot Mode in Microsoft Edge.](https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/?utm_source=tldrai) |Microsoft has launched Copilot Mode in Edge, an experimental AI feature aimed at reinventing web browsing by helping users anticipate next actions, summarize content, and cut down on tab clutter for a more efficient online experience. |
 |[Grok will get infinite image gen and video gen with sounds.](https://www.testingcatalog.com/grok-will-get-infinite-image-gen-and-video-gen-with-sounds/?utm_source=tldrai#google_vignette) |xAI is planning significant upgrades to its Grok app, including the new Imagine feature that enables generative image and video capabilities. With minimal restrictions, these tools could quickly gain popularity once widely released. While no official launch date is set, xAI is expected to align the rollout with GPT-5’s debut. |
 |[Tesla $16.5B Deal with Samsung.](https://threadreaderapp.com/thread/1949673345567592869.html?utm_source=tldrai) |Tesla secured a $16.5 billion agreement with Samsung to manufacture its AI6 chips at a new Texas facility. |
-|[.]() | |
+|[DeepSeek All-in-One Machines See Market Collapse After Initial Hype.](https://docs.google.com/document/d/1n4caZslUeFJ-XP9B_nBX5Sd3yeFqZ1CsSl-tfAkNbV8/edit?tab=t.0#heading=h.ir631sss6brd) |Although global reports suggest widespread adoption of DeepSeek in China, the actual market for specialized "all-in-one machines" — self-contained hardware units with pre-installed DeepSeek models for compliant private deployment — is faltering. Daily consultation inquiries have dropped from hundreds to just ten since April, and Chinese sources report almost no returning customers. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
@@ -161,7 +161,7 @@ this is just a placeholder, the organized and correct repository is [here](https
 |[AI models are neglecting African languages — scientists want to change that.](https://www.nature.com/articles/d41586-025-02292-5) | Scientists record 9,000 hours of languages spoken in Kenya, Nigeria and South Africa as free-access training data for AI models.|
 |[How to detect consciousness in people, animals and maybe even AI.](https://www.nature.com/articles/d41586-025-02349-5) |Insights from human brains could inform how scientists search for awareness in all its possible forms. |
 |[AI, bounties and culture change, how scientists are taking on errors.](https://www.nature.com/articles/d41586-025-02307-1) |Researchers are trialling myriad approaches to prevent errors in science. In this podcast, we explore their different approaches and ask how can science be improved. |
-|[.]() | |
+|[Agents lag behind AI 2027's schedule.](https://www.lesswrong.com/posts/wcTKRYSt7QinNNkGx/agents-lag-behind-ai-2027-s-schedule?utm_source=tldrai) |AI 2027 is behind schedule in its development of advanced agents, delaying the rollout of complex AI systems and potentially pushing back broader industry integration timelines. |
 |[.]() | |
 |[.]() | |
 |[.]() | |
